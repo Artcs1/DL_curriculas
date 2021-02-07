@@ -1,0 +1,172 @@
+/
+First-Year Experience Seminar
+The primary objective of this course will be to assist
+students in acquiring and applying strategies for academic success in their first year at UNA. The course
+will help students identify appropriate academic and university resource services on campus and become
+academically and socially integrated into the UNA community. It will teach students about UNA’s academic
+expectations, policies, and procedures and enhance academic skills such as goals setting, time
+management, study and test-taking skills. 
+/
+First-Year Composition I
+An introduction to expository writing, rhetoric, and reading. The
+acquisition of the basic skills in standard English is stressed. 
+/
+Computer Skills for Problem-Solving
+Using personal computers as effective problemsolving tools, this course will enhance analytical thinking and abstraction skills. Topics include problem
+specification, problem- solving techniques, and the interpretation of results to problems from scientific,
+business, and social domains. Students will utilize productivity software, the Internet, and programming
+principles to foster an understanding of the impact of computing technology on society and culture. 
+/ 
+First-Year Composition II
+A continuation of training in expository writing and reading, stressing the acquisition of higher-level skills in standard English and the introduction to the basic tools and
+processes of academic research.
+/
+Business Ethics
+This course will explore the nature of business ethics. It will begin by
+examining the importance of rational justification in the establishment of ethical belief and how the creation
+of a rationally informed moral point of view can help us to navigate the various moral challenges
+encountered in business practices. Specifically, the class will explore the nature of ethical justification by
+looking at various philosophical attempts to ground ethical thought (e.g. Utilitarianism, Social Contract
+Theory, Deontology, and Virtue Ethics). 
+/
+Fundamentals of Speech
+Communication theory and practice for public speaking with emphasis on content, research, organization, delivery, adaptation to the audience, as well as listening and speaker evaluation. 
+/
+Business Applications of Microcomputer Software
+A study of the application of microcomputer software to the business environment. Included are word processing, data management, presentation, and spreadsheet software programs.
+/
+Principles of Macroeconomics
+An introduction to basic macroeconomic principles. Analysis of the determination of national income, employment, output, and prices. 
+/
+Survey of World Civilization to 1500
+A survey of major world civilizations from the earliest times to 1500. 
+/
+Accounting Concepts I
+An introduction to the concepts, procedures, and ethical aspects
+of accounting and financial reporting as a basis for decision making. Financial accounting fundamentals
+including the accounting cycle, the elements of financial statements, and financial statement presentation
+are emphasized for service and merchandising organizations. 
+/
+Introduction to Object-Oriented Programming
+A study of programming syntax and logic and the fundamental features of current programming languages. Students will learn to analyze,
+program, test, document, and maintain a variety of information systems solutions to business problems. 
+/
+Statistical Process Control
+Theory and application of statistical process control including experimental design, X-Bar, R and P charts, and acceptance sampling. 
+/
+Survey of World Civilization since 1500
+A survey of major world civilizations from 1500 to present.
+/
+Accounting Concepts II
+Coverage of financial accounting for manufacturing organizations, as well as basic managerial accounting decision making concepts consisting
+of cost- volume-profit analysis and budgetary control. 
+/
+Information Systems in Organizations
+A survey of information systems applications to
+support business processes, including operational, tactical, and strategic applications. Emerging and
+pervasive hardware, software, telecommunications, and data resource management technologies are
+emphasized. Security, ethics, global/international aspects, and systems integration issues are considered
+using the information systems (IS) framework. 
+/
+The Legal Environment of Business
+The study of public and private law impacting business, including the sources of US law and its system of jurisprudence, the US constitution, criminal law,
+international transactions, business ethics, contracts, business organizations, agency and employment law, consumer protection, real property and land use, torts, and product liability. 
+/
+Statistical Analysis for Business
+Application of statistical analysis to problems in business and economics. Simple and multiple regression and correlation analysis, decision making under
+uncertainty, time series, and nonparametric statistics. 
+/
+Principles of Microeconomics
+An introduction to the price system and theory of the firm. Application of microeconomic theory to current economic issues. 
+/
+Systems Analysis and Design
+An introduction to the strategies and technologies for developing information systems (IS) within organizations. Emphasis is placed on the concepts, methodologies,
+and tools associated with the analysis, design, and implementation of successful systems. 
+/
+Advanced Object-Oriented Programming
+An advanced programming course with an emphasis on object-oriented methodologies and concepts for solving complex business problems. This indepth study of program data structures, algorithms, design patterns, and best practices in software
+development includes advanced elements from object-oriented programming languages. 
+/
+Principles of Management
+A basic course in general management designed to acquaint the student with the theories and principles of organization as they are developing in modern society. 
+/
+Principles of Marketing
+This course is an introduction to the language and issues of marketing. The course focuses on basic marketing concepts, the role of marketing in the organization, and
+the role of marketing in society. 
+/
+Managerial Communications
+The study of communication theory and its application to business is the main focus of this course. Emphasis is placed on planning and preparing effective written
+and electronic communication as well as nonverbal and oral presentation skills. Other course components include teamwork, global and ethical communication, and employment document preparation. 
+/
+Database Development and Management
+An introduction to the theory and practice of database design and processing within the information systems (IS) framework. This includes fundamental
+design concepts, technical aspects, and components of relational databases and database management systems (DBMS), and use of specific DBMS software. Emphasis is placed on the importance of the
+management and effective use of the data resource within an organization.
+/
+IT Infrastructure
+Introduction to IT infrastructure and data communications including
+terminology, components, and models. Communication protocols, network architectures, network security, and network operating systems are included. The management of communications networks is examined. 
+/
+Financial Management
+Valuation of stocks and bonds; risk and rates of return; topics in
+capital budgeting, cost capital, working capital management, and ratio analysis
+/
+International Business
+This course is an advanced survey of management practices
+and styles in developed and developing nations along with a study of the growing opportunities and potential
+risks in the marketing of goods and services across international boundaries.
+/
+Operations Management
+A survey of production-operations management functions, both
+manufacturing and service, which focuses on the business processes that organizations utilize to produce
+and deliver its goods and services. 
+/
+Web Development
+Introduction to Web development (design HCI and creation) using current standards for client-side content delivery (e.g., HTML and CSS). Students will learn to create and
+publish a multi-page, static-content website using associated applications. Special focus is given to user
+interface design, data presentation, and data organization.
+/
+Web Development
+Introduction to Web development (design HCI and creation) using
+current standards for client-side content delivery (e.g., HTML and CSS). Students will learn to create and
+publish a multi-page, static-content website using associated applications. Special focus is given to user
+interface design, data presentation, and data organization.
+/
+Enterprise Architecture
+A study of the design, implementation, and management of
+enterprise information systems. The course focuses on the development, maintenance, and management of
+systems that support business processes. Students are exposed to a wide range of tools, standards, and
+topics such as security, ethics, system administration, distributed computing, middleware, multi-tier
+architectures, interoperability, legacy system integration and emerging technologies. Agile software
+engineering methodologies, tools, and techniques are discussed and employed.
+/
+Projects in Information Systems
+This course integrates theoretical concepts and practical skills gained in previous information systems courses into a capstone information systems project.
+This course presents real- world problems through case studies and projects while emphasizing the student’s communication, collaboration, technical, and problem solving skills.
+/
+Information Systems Seminar
+Current problems in information systems through the reading of periodicals, government publications, books, and Web pages which have had a profound effect
+on the rapidly changing technology.
+/
+Introduction to Organic and Biochemistry
+Includes an introduction to organic chemistry and biochemistry.
+/
+Introduction to Organic and Biochemistry Laboratory.
+Introduction to Organic and Biochemistry Laboratory.
+/
+General Chemistry. The fundamental principles and laws governing inorganic
+substances. Introductory materials, subatomic and atomic theory and structure, chemical bonding,
+molecular structure, chemical equations and calculations, thermochemistry, kinetic theory of matter and
+gas laws, and the periodic table
+/
+General Chemistry Laboratory
+Consisting of the determination of densities, chemical formulas, combining ratios, molar masses, molecular structure, group
+reactivities, ion identities, and specific heats and heats of solution. 
+/
+Survey of British Literature
+The development of English literature as an expression of English culture from Beowulf through Neoclassicism. 
+/
+Art Appreciation
+A broad study of the contemporary visual arts by means of illustrated lectures, gallery visits, and studio demonstrations.
+/
+

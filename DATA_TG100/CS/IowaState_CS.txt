@@ -1,0 +1,260 @@
+Orientation
+Introduction to the computer science discipline and code of ethics, Com S courses, research and networking opportunities, procedures, policies, help and computing resources, extra-curricular activities offered by the Department of Computer Science and Iowa State University
+/
+Careers in Computer Science
+Computer science as a profession. Introduction to career fields open to computer science majors. Relationship of coursework to careers. Presentations by computer science professionals.
+/
+Object-oriented Programming
+Computer programming using objects as the mechanism for modularity, abstraction, and code reuse. Instance variables, methods, and encapsulation. Review of control structures for conditionals and iteration. Developing algorithms on strings, arrays, and lists. Recursion, searching, and sorting. Text parsing and file I/O. Interfaces, inheritance, polymorphism, and abstract classes. Exception handling. Tools for unit testing and debugging. Emphasis on a disciplined approach to specification, code development, and testing. 
+/
+Introduction to Data Structures
+An object-oriented approach to data structures and algorithms. Object-oriented analysis, design, and programming, with emphasis on data abstraction, inheritance and subtype polymorphism, and generics. Abstract data type specification and correctness. Collections including lists, stacks, queues, trees, heaps, maps, hash tables, and graphs. Big-O notation and algorithm analysis. Searching and sorting. Graph search and shortest path algorithms. Emphasis on object-oriented design, writing and documenting medium-sized programs.
+/
+Software Development Practices
+A practical introduction to methods for managing software development. Process models, requirements analysis, structured and object-oriented design, coding, testing, maintenance, cost and schedule estimation, metrics. Programming projects.
+/
+Introduction to the Design and Analysis of Algorithms
+Basic techniques for design and analysis of algorithms. Sorting, searching, graph algorithms, string matching, and NP-completeness. Design techniques such as dynamic programming, divide and conquer, greedy method, and approximation. Asymptotic, worst-case, average-case and amortized analyses
+/
+Introduction to Computer Architecture and Machine-Level Programming
+Introduction to computer architecture and organization. Emphasis on evaluation of performance, instruction set architecture, datapath and control, memory-hierarchy design, and pipelining. Assembly language programming.
+/
+Advanced Programming Techniques
+Object-oriented programming experience using a language suitable for exploring advanced topics in programming. Topics include memory management, parameter passing, inheritance, compiling, debugging, and maintaining programs. Significant programming projects.
+/
+Theory of Computing
+Models of computation: finite state automata, pushdown automata and Turing machines. Study of grammars and their relation to automata. Limits of digital computation, unsolvability and Church-Turing thesis. Relations between classes of languages.
+/
+Principles of Programming Languages
+Study of concepts in programming languages, especially functional programming concepts. Overview of major programming paradigms, their relationship, and tradeoffs among paradigms enabling sound choices of programming language for application-specific development. Programming projects.
+/
+Introduction to Operating Systems
+Survey of operating system, networking and parallel programming issues. Introduction of processes, threads, process synchronization, deadlocks, memory, file systems, networking, security threats and encryption. Programming projects.
+/
+Computer Science Senior Project
+Students work as individuals and teams to complete the planning, design, and implementation of a significant project in the topic area. Oral and written reports.
+/
+Construction of User Interfaces
+Overview of user interface design. Evaluation and testing of user interfaces. Review of principles of object orientation, object oriented design and analysis using UML in the context of user interface design. Design of windows, menus and commands. Developing Web and Windows-based user-interfaces. Event-driven programming. Introduction to Frameworks and APIs for the construction of user interfaces.
+/
+Introduction to Computer Graphics
+Programming interactive computer graphics systems using standard low-level libraries (such as OpenGL or DirectX) with an emphasis on 3D rendering. The graphics pipeline and programmable shaders. Coordinate systems and transformations in two and three dimensions. Homogeneous coordinates, viewing transformations and perspective. Euler angles and quaternions. Visible surface algorithms. Lighting models and shading. Texture mapping, bump mapping, reflection, elementary ray tracing. Offscreen buffers, render-to-texture and related techniques.
+/
+Object-Oriented Analysis and Design
+Object-oriented requirements analysis and systems design. Design notations such as the Unified Modeling Language. Design Patterns. Group design and programming with large programming projects.
+/
+Introduction to Database Management Systems
+Relational, object-oriented, semistructured and query languages. SQL, XML, and NO-SQL. Database design using entity-relationship model, data dependencies, and relational database design. Application development in SQL-like languages and general purpose host languages with application program interfaces and a commonly used Object Relational Mapping framework. Web application development. Programming Projects
+/
+Software Requirements Engineering
+The requirements engineering process including elicitation, requirements analysis fundamentals, requirements specification and communication, and requirements evaluation. Modeling of functional and nonfunctional requirements, traceability, and requirements change management. Case studies and software projects.
+/
+Distributed Development of Software
+Teams of students develop software applications in a modern software engineering environment. Importance, effective processes pertaining to team organization, management and communication, and cultural issues of distributed development. Graduate credit requires in-­depth study of concepts and oral presentations.
+/
+Formal Methods in Software Engineering
+A study of formal techniques for model-based specification and verification of software systems. Topics include logics, formalisms, graph theory, numerical computations, algorithms and tools for automatic analysis of systems. Graduate credit requires in-­depth study of concepts.
+/
+Software System Safety
+An introduction to the hazard analysis, safety requirements, design, and testing of software for safety-critical and high-dependability systems. Safety analysis techniques, fault identification and recovery, and certification issues. Emphasizes a case-based and systematic approach to software's role in safe systems.
+/
+Software Testing
+An introduction to software testing principles and techniques. Test models, test design, test adequacy criteria; regression, integration, and system testing; and software testing tools.
+/
+Introduction to Computational Geometry
+Introduction to data structures, algorithms, and analysis techniques for computational problems that involve geometry. Convex hulls, line segment intersection, polygon triangulation, 2D linear programming, range queries, point location, arrangements and duality, Voronoi diagrams, Delaunay triangulations, geometric data structures, robot motion planning, visibility graphs.
+/
+Logic for Mathematics and Computer Science
+Propositional and predicate logic. Topics selected from Horn logic, equational logic, resolution and unification, foundations of logic programming, reasoning about programs, program specification and verification, model checking and binary decision diagrams, temporal logic and modal logic.
+/
+Introduction to High Performance Computing
+Unix, serial programming of scientific applications, OpenMP for shared-memory parallelization. No Unix, Fortran or C experience required.
+/
+High Performance Computing for Scientific and Engineering Applications
+Introduction to high performance computing platforms including parallel computers and workstation clusters. Discussion of parallel architectures, performance, programming models, and software development issues. Sample applications from science and engineering. Practical issues in high performance computing will be emphasized via a number of programming projects using a variety of programming models and case studies. Oral and written reports.
+/
+Introduction to Parallel Algorithms and Programming
+Models of parallel computation, performance measures, basic parallel constructs and communication primitives, parallel programming using MPI, parallel algorithms for selected problems including sorting, matrix, tree and graph problems, fast Fourier transforms.
+/
+Concurrent Programming in Practice
+A practical course in concepts, techniques, languages, and frameworks for concurrent and asynchronous systems. Concurrency fundamentals: threads, synchronization locks, waiting and notification, memory visibility. Immutability and thread confinement. Concurrent data structures and utilities, thread pools. Asynchronous programming with callbacks, futures, and message passing. Issues of aliasing, ownership and borrowing. Transactional memory, immutable and versioned data structures. Alternatives to threads and locks: event-driven systems, the actor model, CSP, coroutines
+/
+Molecular Programming of Nanoscale Devices and Processes
+Programming, modeling, and analysis of natural and engineered systems at the nanoscale. Topics include chemical reaction networks, strand displacement systems, models of self-assembly, biomolecular origami, and molecular robotics. Emphasis on mathematical methods of describing, simulating, programming, and assessing the computational power of such systems. Graduate credit requires a written or oral report on current research.
+/
+Algorithms for Large Data Sets: Theory and Practice
+Algorithmic challenges involved in solving computational problems on massive data sets. Probabilistic data structures, Curse of Dimensionality and dimensionality reduction, locality sensitive hashing, similarity measures, matrix decompositions. Optimization problems in massive data analysis. Computational problems that arise in the context of web search, social network analysis, online advertising etc. 
+/
+Computer Game and Media Programming
+Students will learn video game programming using current game engine interfaces with real hardware. Particular attention is paid to the development environment, tool chains, 2D graphics, 3D graphics, controllers, memory management, and audio systems.
+/
+Principles and Practice of Compiling
+Theory of compiling and implementation issues of programming languages. Programming projects leading to the construction of a compiler. Projects with different difficulty levels will be given for 440 and 540. Topics include: lexical, syntactic and semantic analyses, syntax-directed translation, code generation, runtime environment and library support.
+/
+Programming Languages
+Survey of the goals and problems of language design. Formal and informal studies of a wide variety of programming language features including type systems. Creative use of functional and declarative programming paradigms.
+/
+Bioinformatic Analysis
+Broad overview of bioinformatics with a significant problem-solving component, including hands-on practice using computational tools to solve a variety of biological problems. Topics include: bioinformatic data processing, Python programming, genome assembly, database search, sequence alignment, gene prediction, next-generation sequencing, comparative and functional genomics, and systems biology.
+/
+Distributed Systems
+Theoretical and practical issues of design and implementation of distributed systems. The client server paradigm, inter-process communications, synchronization and concurrency control, naming, consistency and replication, fault tolerance, and distributed file systems. Graduate credit requires additional in-depth study of concepts. Programming projects and written reports.
+/
+Simulation: Algorithms and Implementation
+Introduction to discrete-event simulation with a focus on computer science applications, including performance evaluation of networks and distributed systems. Overview of algorithms and data structures necessary to implement simulation software. Discrete and continuous stochastic models, random number generation, elementary statistics, simulation of queuing and inventory systems, Monte Carlo simulation, point and interval parameter estimation. Graduate credit requires additional in-depth study of concepts.
+/
+Principles and Internals of Database Systems
+Database design including entity-relationship model, relational data model, and non-relational data models, data dependency, and normalization. Database management including physical storage, access methods, query processing, and transaction management. Database systems of special purposes such as spatial databases, mobile object databases, and multimedia databases. Introduction to current database research such as cloud data management and Internet information retrieval.
+/
+Principles of Artificial Intelligence
+Specification, design, implementation, and selected applications of intelligent software agents and multi-agent systems. Computational models of intelligent behavior, including problem solving, knowledge representation, reasoning, planning, decision making, learning, perception, action, communication and interaction. Reactive, deliberative, rational, adaptive, learning and communicative agents and multiagent systems. Artificial intelligence programming. Research project and written report required for graduate credit.
+/
+Introduction to Machine Learning
+Introduction to tools and techniques of machine learning for applications. Selected machine learning techniques in practical data mining for classification, regression, and clustering, e.g., association rules, decision trees, linear models, Bayesian learning, support vector machines, artificial neural networks, instance-based learning, probabilistic graphical models, ensemble learning, and clustering algorithms. Selected applications in data mining and pattern recognition.
+/
+Problem Solving Techniques for Applied Computer Science	
+Selected topics in applied mathematics, algorithms, and geometry that have found applications in areas such as geometric modeling, graphics, robotics, vision, human machine interface, speech recognition, computer animation, etc. Homogeneous coordinates and transformations, perspective projection, rotations in space, quaternions, polynomial interpolation, roots of polynomials and polynomial systems, solution of linear and nonlinear equations, parametric and algebraic curves, curvature, torsion, Frenet formulas, surfaces, principal curvatures, Gaussian and mean curvatures, geodesics, approximation, Fourier series and fast Fourier transform, linear programming, data fitting, least squares, simplex method, nonlinear optimization, Lagrange multipliers, calculus of variations.
+/
+Numerical Methods for Differential Equations
+First order Euler method, high order Runge-Kutta methods, and multistep methods for solving ordinary differential equations. Finite difference and finite element methods for solving partial differential equations. Local truncation error, stability, and convergence for finite difference method. Numerical solution space, polynomial approximation, and error estimate for finite element method.
+/
+Fundamental Concepts in Computer Networking
+An introduction to fundamental concepts in the design and implementation of computer communication in both wired and wireless networks, their protocols, and applications. Layered network architecture in the Internet, applications, transport, network, and data link layers and their protocols, Socket API, software-defined networking, and network security.
+/
+Network Programming, Applications, and Research Issues
+Programming paradigms for building distributed and networking applications, including multithreaded client-server programming, socket programming, distributed object frameworks and programming suites, and web computing and security. Introduction to some on-going research issues in distributed and networking applications, including peer-to-peer computing, multimedia communications, and mobile computing and networking. Written report and oral presentation required for graduate credit.
+/
+Basics of Information System Security
+Introduction to and application of basic mechanisms for protecting information systems from accidental and intentional threats. Basic cryptography use and practice. Computer security issues including authentication, access control, and malicious code. Network security mechanisms such as intrusion detection, firewalls, IPSEC, and related protocols. Ethics and legal issues in information security. Wireless security. 
+/
+Real Time Systems
+Fundamental concepts in real-time systems. Real time task scheduling paradigms. Resource management in uniprocessor, multiprocessor, and distributed real-time systems. Fault-tolerance, resource reclaiming, and overload handling. Real-time channel, packet scheduling, and real-time LAN protocols. Case study of real-time operating systems. Laboratory experiments.
+/
+Computer Networking and Data Communications
+Modern computer networking and data communications concepts. TCP/IP, OSI protocols, client server programming, data link protocols, local area networks, and routing protocols.
+/
+Philosophy of Technology
+Moral and other philosophical problems related to developments in technology. Topics may include conditions under which technological innovations contribute to human emancipation, relationship of technology and democracy, utility and limits of technical rationality, and problems of ensuring that benefits of technological advance are communally shared. Topics discussed with reference to such issues as contemporary developments in microelectronics, technology transfer to the Third World, 
+/
+Fundamentals of Public Speaking
+Theory and practice of basic speech communication principles applied to public speaking. Practice in the preparation and delivery of extemporaneous speeches.
+/
+Calculus I
+Differential calculus, applications of the derivative, introduction to integral calculus
+/
+Calculus II
+Integral calculus, applications of the integral, infinite series, parametric curves and polar coordinates.
+/
+Discrete Computational Structures
+Concepts in discrete mathematics as applied to computer science. Logic, set theory, functions, relations, combinatorics, discrete probability, graph theory and number theory. Proof techniques, induction and recursion.
+/
+Engineering Statistics
+Statistics for engineering problem solving. Principles of engineering data collection; descriptive statistics; elementary probability distributions; principles of experimentation; confidence intervals and significance tests; one-, two-, and multi-sample studies; regression analysis; use of statistical software
+/
+Probability and Statistics for Computer Science
+Topics from probability and statistics applicable to computer science. Basic probability; Random variables and their distributions; Stochastic processes including Markov chains; Queuing models; Basic statistical inference; Introduction to regression.
+/
+Introduction to the Theory of Probability and Statistics I
+Probability; distribution functions and their properties; classical discrete and continuous distribution functions; multivariate probability distributions and their properties; moment generating functions; transformations of random variables; simulation of random variables and use of the R statistical package.
+/
+Matrices and Linear Algebra
+Systems of linear equations, determinants, vector spaces, linear transformations, orthogonality, least-squares methods, eigenvalues and eigenvectors. Emphasis on applications and techniques
+/
+Calculus III
+Analytic geometry and vectors, differential calculus of functions of several variables, multiple integrals, vector calculus.
+/
+Elementary Differential Equations
+Solution methods for ordinary differential equations. First order equations, linear equations, constant coefficient equations. Eigenvalue methods for systems of first order linear equations. Introduction to stability and phase plane analysis.
+/
+Elementary Differential Equations and Laplace Transforms
+but also including Laplace transforms and power series solutions to ordinary differential equations.
+/
+Combinatorics
+Enumeration strategies involving permutations, combinations, partitions, binomial coefficients, inclusion-exclusion principle, recurrence relations, generating functions. Additional topics selected from probability, algebraic combinatorics, and applications.
+/
+Graph Theory
+Structure and extremal properties of graphs. Topics are selected from: trees, networks, colorings, paths and cycles, connectivity, planarity, directed graphs, matchings, Ramsey theory, forbidden structures, enumeration, applications.
+/
+Theory of Linear Algebra
+Systems of linear equations, determinants, vector spaces, inner product spaces, linear transformations, eigenvalues and eigenvectors. Emphasis on writing proofs and results.
+/
+Principles of Biology I
+Introduction to the nature of life, including the diversity of microbial, plant, and animal life; the nature of heredity; evolution; and principles of ecology. Intended for life science majors.
+/
+Principles of Biology Laboratory I
+Principles of Biology Laboratory I
+/
+Principles of Biology II
+Introduction to the chemical, molecular, and cellular basis of life; form and function of microbial, plant, and animal life. Intended for life science majors.
+/
+Principles of Biology Laboratory II
+Principles of Biology Laboratory II
+/
+Fundamentals of Human Anatomy
+An introduction to human anatomy, beginning with cells and tissues, surveying all body systems, relating form to function. Systems covered include: integumentary, bones and joints, muscles, nervous, sensory, endocrine, circulatory, lymphatic, respiratory, digestive, urinary, and reproductive.
+/
+Fundamentals of Human Anatomy Laboratory
+Fundamentals of Human Anatomy Laboratory
+/
+Fundamentals of Human Physiology
+An introduction to human physiology, studying the function of all body systems. Systems covered include: integumentary, bones and joints, muscles, nervous, sensory, endocrine, circulatory, lymphatic and immune, respiratory, digestive, urinary, and reproductive.
+/
+Fundamentals of Human Physiology Laboratory
+Fundamentals of Human Physiology Laboratory
+/
+General Chemistry I
+The first semester of a two semester sequence which explores chemistry at a greater depth and with more emphasis on concepts, problems, and calculations than 163. Recommended for physical and biological science majors, chemical engineering majors, and all others intending to take 300-level chemistry courses. Principles and quantitative relationships, stoichiometry, chemical equilibrium, acid-base chemistry, thermochemistry, rates and mechanism of reactions, changes of state, solution behavior, atomic structure, periodic relationships, chemical bonding
+/
+Laboratory in General Chemistry I
+Laboratory in General Chemistry I
+/
+General Chemistry II
+General Chemistry II
+/
+How the Earth Works
+How does the earth work, what is it made of, and how does it change through time? Plate tectonics, Earth materials, landforms, structures, climate, and natural resources. Emphasis on the observations and hypotheses used to interpret earth system processes
+/
+How the Earth Works: Laboratory
+How the Earth Works: Laboratory
+/
+History of the Earth
+The Earth's physical and biological evolution; concepts of global tectonics. Methods used to decipher earth history
+/
+History of the Earth: Laboratory
+History of the Earth: Laboratory
+/
+Introduction to Classical Physics I
+For engineering and science majors. 3 hours of lecture each week plus 3 recitations and 1 laboratory every 2 weeks. Elementary mechanics including kinematics and dynamics of particles, work and energy, linear and angular momentum, conservation laws, rotational motion, oscillations, gravitation. Heat, thermodynamics, kinetic theory of gases; waves and sound.
+/
+Principles and Symmetries in Classical Physics I
+Covers all of mechanics; Kinematics and dynamics of particles, work and energy, linear and angular momentum, conservation laws, rotational motion, oscillations, gravitation, and extremum principles. Topics in kinetic theory, thermodynamics, waves and sound.
+/
+Introduction to Classical Physics II
+Fluid dynamics. Electric forces and fields. Electrical currents; DC circuits. Magnetic forces and fields: LR, LC, LCR circuits; Maxwell's equations; wave optics.
+/
+Principles and Symmetries in Classical Physics II
+Fluid dynamics, electrostatics, potentials and fields, currents, fields of moving charges, the magnetic field, electromagnetic induction, DC and AC circuits, Maxwell's equations and electromagnetic waves, electric and magnetic fields in matter. Topics in optics and special relativity.
+/
+Information Literacy
+Information Literacy
+/	
+Critical Thinking and Communication
+Application of critical reading and thinking abilities to topics of civic and cultural importance. Introduction of basic oral, visual, and electronic communication principles to support writing development. Initiation of communication portfolio.
+/
+Written, Oral, Visual, and Electronic Composition
+Written, Oral, Visual, and Electronic Composition
+/
+Business Communication
+Rhetorical concepts and processes to successfully communicate individually and collaboratively via written, oral, visual, and electronic modes across a range of business disciplines. Covers strategies for analyzing audiences internal and external to an organization in order to communicate positive, neutral, and negative messages clearly, completely, correctly, and ethically; save an audience’s time; and create goodwill.
+/
+Creative Writing: Nonfiction
+Workshop in writing imaginative essays, both critical and personal. Analytical reading, development of literary techniques. Individual and small group conferences.
+/
+Proposal and Report Writing
+Rhetorical concepts and processes to individually and collaboratively develop proposals for business, governmental, nonprofit, or other organizations and to report on the work completed both orally and in writing. Emphasizes the structure and classification of proposal and report types, qualitative and quantitative research methods, audience analysis, document design, and data visualization.
+/
+Technical Communication
+Rhetorical concepts and processes to successfully communicate technical information individually and collaboratively via written, oral, visual, and electronic modes. Emphasizes the major strategies for analyzing expert and lay audiences and adapting information to those audiences. Covers developing and designing usable technical documentation, visualizing data, and presenting technical information orally.
+/
+
+

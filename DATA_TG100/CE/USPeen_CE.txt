@@ -1,0 +1,106 @@
+/
+First-Year Seminar
+First-Year Seminar
+/
+Calculus with Analytic Geometry I
+Differential calculus topics include derivatives and their applications to rates of change, related rates, linearization, optimization, and graphing techniques. The Fundamental Theorem of Calculus, relating differential and integral calculus begins the study of Integral Calculus. Antidifferentiation and the technique of substitution is used in integration applications of finding areas of plane figures and volumes of solids of revolution. Trigonometric functions are included in every topic
+/
+General Physics: Mechanics
+Calculus-based introduction to classical mechanics, including such topics as: measurement, dimensional analysis, motion in one-dimension, vectors, motion in 2 and 3 dimensions, relative and circular motion, force and dynamics, Newton's Laws, friction, kinetic energy, work, potential energy, energy conservation, systems of particles, center of mass and momentum, elastic and inelastic collisions, rotation (moments of inertia), rolling motion, torque, angular momentum, static equilibrium, gravitational force and Kepler's laws, gravitational potential energy, oscillations, waves (transverse and longitudinal, superposition of waves). This course is designed to provide students with a working knowledge of the elementary physics principles mentioned above, as well as their applications, and to enhance their conceptual understanding of physical laws. The exact model of instruction varies at different campuses due to different resources and class sizes. Students attend several class meetings including at least one lab or activity period per week. Use of a combination of computer-based and traditional lab exercises is expected and collaborative learning exercises will be used in both small class sessions. The introduction of data acquisition and analysis methods (often making use of modern computer tools) will be stressed in the laboratory/activity period. Course evaluation is based on a combination assessments such as homework, quizzes, lab reports, midterm and final exams, and other evaluative tools. The course is an important prerequisite for later work in many science and engineering disciplines.
+/
+Introduction to Programming Techniques
+Design and implementation of algorithms. Structured programming. Problem solving techniques. Introduction to a high-level language, including arrays, procedures, and recursion.
+/
+English Composition
+An overview of composition studies, with particular attention to the schools of writing pedagogy.
+/
+Health and Physical Activity
+Health and Physical Activity
+/
+Calculus with Analytic Geometry II
+is the second course in a two- or three-course calculus sequence for students in science, engineering and related fields. Calculus is an important building block in the education of any professional who uses quantitative analysis. This course further introduces and develops the mathematical skills required for analyzing growth and change and creating mathematical models that replicate reallife phenomena. The goals of our calculus courses include to develop the students' knowledge of calculus techniques and to use the calculus environment to develop critical thinking and problem solving skills. This course covers the following topics: logarithms, exponentials, and inverse trigonometric functions; applications of the definite integral and techniques of integration; sequences and series; power series and Taylor polynomials; parametric equations and polar functions.
+/
+Intermediate Programming
+Object-oriented programming, recursion, fundamental data structures (including stacks, queues, linked lists, hash tables, trees, and graphs), the basics of algorithmic analysis, and an introduction to the principles of language translation.
+/
+General Physics: Electricity and Magnetism
+General Physics: Electricity and Magnetism (4) (GN)(BA) This course meets the Bachelor of Arts degree requirements. Calculus-based introduction to classical electricity and magnetism, including such topics as, electric charge and electric fields, Gauss's law, electric potential, capacitance, current, resistance, and circuits, magnetic fields, and fields due to currents, induction and inductance, magnetism of matter, Maxwell's equations, and electromagnetic oscillations.
+/
+Chemical Principles I
+is the first semester of a two-semester, comprehensive general chemistry course which introduces students to the basic principles of chemistry with an emphasis on the relationships between the microscopic structure and macroscopic properties of matter. Principles are illustrated with examples from the sciences, engineering and technology, and from everyday life. Topics covered are atomic structure and periodic properties, molecular compounds and chemical bonding, molecular structure, intermolecular forces, the properties of gases, liquids, and solutions, chemical reactions, stoichiometry and thermochemistry
+/
+Experimental Chemistry I
+Students are introduced to laboratory safety and good experimental technique, how to keep a proper laboratory notebook, and interpret experimental data. The course introduces laboratory experimentation in the context of a variety of specific topics, such as reactions in solutions, spectroscopy, acids and bases, and the synthesis and analysis of chemical compounds.
+/
+Ordinary Differential Equations
+First- and second-order equations; special functions; Laplace transform solutions; higher order equations.
+/
+Introduction to Digital Systems
+Introduction to logic design and digital systems. Boolean algebra, and introduction to combinatorial and sequential circuit design and analysis.
+/
+Matrices
+The initial portion of the course teaches the fundamentals of solving linear systems. This requires the language and notation of matrices and fundamental techniques for working with matrices such as row and column operations, echelon form, and invertibility. The determinant of a matrix is also introduced; it gives a test for invertibility. In the second part of the course the key ideas of eigenvector and eigenvalue are developed. These allow one to analyze a complicated matrix problem into simpler components and appear in many disguises in physical problems. The course also introduces the concept of a vector space, a crucial element in future linear algebra courses. This course is completed by a wide variety of students across the university, including students majoring in engineering programs, the sciences, and mathematics
+/
+Introduction to Microeconomics 
+Introduction to Microeconomics 
+/
+Effective Speech
+Introduction to speech communication: formal speaking, group discussion, analysis and evaluation of messages.
+/
+Circuits and Devices
+Introduction to electrical circuit analysis, electronic devices, amplifiers, and time-domain transient analysis.
+/
+Calculus and Vector Analysis
+Introduction to electrical circuit analysis, electronic devices, amplifiers, and time-domain transient analysis.
+/
+General Physics: Wave Motion and Quantum Physics
+General Physics: Wave Motion and Quantum Physics (2) (GN)(BA) This course meets the Bachelor of Arts degree requirements. Calculus-based introduction to the basic concepts of wave motion, geometrical optics, interference phenomena, photons, wave mechanics, and the structure of matter, including such topics as: electromagnetic waves: Poynting Vector, polarization and reflection, geometrical optics: mirrors, refraction, lenses, optical instruments, interference and diffraction, photons and matter waves, energy quantization, structure of matter: hydrogen atom, conduction of electrons in solids, and nuclear physics and nuclear energy.This course is designed to provide students with a working knowledge of the elementary physics principles mentioned above, as well as their applications, and to enhance their conceptual understanding of physical laws. The exact model of course instruction varies at different campuses due to different resources and class sizes. Students attend several class meetings including at least one lab or activity period per week. Use of a combination of computer-based and traditional lab exercises is expected and collaborative learning exercises will be used in small class settings. The introduction of data acquisition and analysis methods (often making use of modern computer tools) will be stressed in the laboratory/activity period. The course is an important prerequisite for later work in many science and engineering disciplines.
+/
+Discrete Mathematics for Computer Science
+Discrete mathematics and foundations for modern computer science. Topics include sets, relations, logic, algorithms, graphs, finite state machines and regular expressions.
+/
+Effective Writing: Technical Writing
+is an advanced writing course designed to help students in science and engineering develop the writing strategies that they will need to communicate successfully on the job and to help them understand why those strategies are appropriate and effective. A key emphasis will be on the rhetorical principles of effective communication, including context analysis and defining clear, actionable purposes. Students will gain experience with a wide range of technical writing genres, including reports, descriptions, definitions, procedures, job application documents, emails, memos, and web applications. Students will also learn about the importance of document and graphic design, including how best to design communications to maximize their potential for success.
+/
+Data Structure and Algorithms
+Fundamental concepts of computer science: data structures, analysis of algorithms, recursion, trees, sets, graphs, sorting.
+/
+Advanced Digital Design
+Theory, design, and implementation of digital circuits based on combinational and sequential circuits; implementation of designs using hardware description language
+/
+Electronic and Circuit Design
+Electronic and Circuit Design
+/
+Microprocessors
+This course is designed to provide students with strong foundation in microprocessor programming and hardware interfacing both in the classroom and laboratory settings. This course is a required course in the Electrical Engineering BS curriculum and is intended to be taken by students who have completed their digital systems and first electronics course requirements. As such, the course integrates materials from the above undergraduate electrical courses in addition to related math, engineering, and science courses.
+/
+Statistical Analysis I 
+Probability concepts; nature of statistical methods; elementary distribution and sampling theory; fundamental ideas relative to estimation and testing hypotheses.
+/
+Signals and Systems: Continuous and Discrete-Time
+Transient response, frequency response, Bode plots, resonance, filters, Laplace transform, Fourier series and transform, discrete-time signals/ systems; sampling z-transform. is a course designed to study the characteristics of continuous and discrete time linear systems. These include signal and power input/output relationships in both domains, impulse responses, and the differential equations that describe these systems. Convolution is an essential component of any linear systems course, therefore several classes will be devoted to this topic in order that students fully understand the concept. Fourier series is used to determine the spectral content of periodic signals thus illustrating how a signal is distributed in frequency. This is very important when determining bandwidth requirements. There will be a brief refresher on the trigonometric Fourier series then the exponential series will be studied extensively. The Fourier transform can be used to determine the spectral content of virtually any signal encountered in the undergraduate curriculum, aperiodic, or periodic. It is also valuable in determining the frequency response characteristics of linear systems. Some filter theory is included in the course along with the Laplace transform. Much of the signal processing performed today is done digitally so the remainder of the course will approach most of the aforementioned topics from the viewpoint of the discrete domain with a strong emphasis on sampling and aliasing. Finite impulse response filters will be introduced along with recursive filters using the bilinear transform method.
+/
+VLSI Design Circuits
+VLSI Design Circuits
+/
+Embedded Systems Design
+Design/development of embedded systems for data acquisition, process control, and special-purpose computing systems; peripheral interfacing, serial/parallel communications and bus systems. CMPEN 352W Microprocessor-based System Design (3) In this course students learn how to design application specific embedded systems. Embedded systems are increasingly important as they are used in industrial applications, personal computing, and consumer products. Embedded systems are based on microprocessors and microcomputers, but are not intended to be general-purpose computers. In the laboratory students will design, implement, and validate application specific embedded systems. Being a writing-across-curriculum course, students will learn effective techniques of reporting their technical designs.
+/
+Introduction to Computer Architecture
+Introduction to Computer Architecture (3) This course will introduce students to the architecture-level design issues of a computer system. They will apply their knowledge of digital logic design to explore the high-level interaction of the individual computer system hardware components. Concepts of sequential and parallel architecture including the interaction of different memory components, their layout and placement, communication among multiple processors, effects of pipelining, and performance issues, will be covered. Students will apply these concepts by studying and evaluating the merits and demerits of selected computer system architectures.
+/
+Computer Engineering Design
+Computer Engineering Design (3) This course prepares senior computer engineering students for industrial engineering design and project management. It covers the engineering design process, project planning and evaluation, engineering ethics, and engineering economy.
+/
+Communications Network
+Data transmission, encoding, link control techniques; communication network architecture, design; computer communication system architecture, protocols
+/
+Operating Systems
+Resource management in computer systems. Process scheduling, memory management, file system design, I/O management, Unix operating system.
+/
+Health and Physical Activity
+Health and Physical Activity
+/
+Computer Engineering Project
+Computer Engineering Project
+/

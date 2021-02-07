@@ -1,0 +1,178 @@
+/
+Introduction to Electric Power Systems
+Electric circuit theory with application to power handling electric circuits. Modeling and behavior of electromechanical devices, including magnetic circuits, motors, and generators. Operational fundamentals of synchronous. Interconnection of generators and motors with electric power transmission and distribution circuits. Power generation, including alternative and sustainable sources. Incorporation of energy storage in power systems. Students taking graduate version complete additional assignments. 
+/
+Database Systems
+Topics related to the engineering and design of database systems, including data models; database and schema design; schema normalization and integrity constraints; query processing; query optimization and cost estimation; transactions; recovery; concurrency control; isolation and consistency; distributed, parallel and heterogeneous databases; adaptive databases; trigger systems; pub-sub systems; semi structured data and XML querying. Lecture and readings from original research papers. Semester-long project and paper. Students taking graduate version complete different assignments. Enrollment may be limited.
+/
+Introduction to EECS via Communication Networks
+Studies key concepts, systems, and algorithms to reliably communicate data in settings ranging from the cellular phone network and the Internet to deep space. Weekly laboratory experiments explore these areas in depth. Topics presented in three modules - bits, signals, and packets - spanning the multiple layers of a communication system. Bits module includes information, entropy, data compression algorithms, and error correction with block and convolutional codes. Signals module includes modeling physical channels and noise, signal design, filtering and detection, modulation, and frequency-division multiplexing. Packets module includes switching and queuing principles, media access control, routing protocols, and data transport protocols. 
+/
+Introductory Digital Systems Laboratory
+Introduces digital systems with lectures and labs on logic, flip flops,  FPGAs, counters, timing, synchronization, and finite-state machines. Includes overview of accelerometers, gyros, time of light and other modern sensors.  Prepares students for the design and implementation of a final project of their choice: games, music, digital filters, wireless communications, video, or graphics.  Extensive use of Verilog for describing and implementing digital logic designs. 
+/
+Medical Device Design
+Provides an intense project-based learning experience around the design of medical devices with foci ranging from mechanical to electro mechanical to electronics. Projects motivated by real-world clinical challenges provided by sponsors and clinicians who also help mentor teams. Covers the design process, project management, and fundamentals of mechanical and electrical circuit and sensor design. Students work in small teams to execute a substantial term project, with emphasis placed upon developing creative designs - via a deterministic design process - that are developed and optimized using analytical techniques. Instruction and practice in written and oral communication provided. Students taking graduate version complete additional assignments. Enrollment limited.
+/
+Introduction to EECS via Interconnected Embedded Systems
+Introduction to embedded systems in the context of connected devices, wearables and the "Internet of Things" (IoT). Topics include microcontrollers, energy utilization, algorithmic efficiency, interfacing with sensors, networking, cryptography, and local versus distributed computation. Students design, make, and program an internet-connected wearable or handheld device. In final project, student teams design and demo their own cloud-connected IoT system. Enrollment limited; preference to first- and second-year students.
+/
+Software Studio
+Covers design and implementation of software systems, using web applications as the platform. Emphasizes the role of conceptual design in achieving clarity, simplicity, and modularity. Students complete open-ended individual assignments and a major team project. Enrollment may be limited.
+/
+Power Electronics Laboratory
+Introduces the design and construction of power electronic circuits and motor drives. Laboratory exercises include the construction of drive circuitry for an electric go-cart, flash strobes, computer power supplies, three-phase inverters for AC motors, and resonant drives for lamp ballasts and induction heating. Basic electric machines introduced include DC, induction, and permanent magnet motors, with drive considerations. Provides instruction in written and oral communication. Students taking independent inquiry version 6.1131 expand the scope of their laboratory project. 
+/
+Mathematics for Computer Science
+Elementary discrete mathematics for computer science and engineering. Emphasis on mathematical definitions and proofs as well as on applicable methods. Topics include formal logic notation, proof methods; induction, well-ordering; sets, relations; elementary graph theory; asymptotic notation and growth of functions; permutations and combinations, counting principles; discrete probability. Further selected topics include recursive definition and structural induction, state machines and invariants, integer congruences, recurrences, generating functions. 
+/
+Automata, Computability, and Complexity
+Mathematical introduction to questions concerning the definition of computation, and what problems can be solved by computers. Considers what problems can be efficiently solved by way of finite automata, circuits, Turing machines, and communication complexity. Provides complete, rigorous answers to the questions in some cases; others are major open problems. Builds skills in classifying computational problems in terms of their difficulty. Discusses other fundamental issues, including the Church-Turing Thesis, the P versus NP problem, and the power of randomness. 
+/
+Oral Communication
+Provides instruction in aspects of effective technical oral presentations and exposure to communication skills useful in a workplace setting. Students create, give and revise a number of presentations of varying length targeting a range of different audiences. Enrollment may be limited.
+/
+Advanced Natural Language Processing
+Introduces the study of human language from a computational perspective, including syntactic, semantic and discourse processing models. Emphasizes machine learning methods and algorithms. Uses these methods and models in applications such as syntactic parsing, information extraction, statistical machine translation, dialogue systems, and summarization. Students taking graduate version complete additional assignments. 
+/
+Computational Biology: Genomes, Networks, Evolution
+Covers the algorithmic and machine learning foundations of computational biology, combining theory with practice. Principles of algorithm design, influential problems and techniques, and analysis of large-scale biological datasets. Topics include (a) genomes: sequence analysis, gene finding, RNA folding, genome alignment and assembly, database search; (b) networks: gene expression analysis, regulatory motifs, biological network analysis; (c) evolution: comparative genomics, phylogenetics, genome duplication, genome rearrangements, evolutionary theory. These are coupled with fundamental algorithmic techniques including: dynamic programming, hashing, Gibbs sampling, expectation maximization, hidden Markov models, stochastic context-free grammars, graph clustering, dimensionality reduction, Bayesian networks. 
+/
+Principles and Practice of Assistive Technology
+Students work closely with people with disabilities to develop assistive and adaptive technologies that help them live more independently. Covers design methods and problem-solving strategies; human factors; human-machine interfaces; community perspectives; social and ethical aspects; and assistive technology for motor, cognitive, perceptual, and age-related impairments. Prior knowledge of one or more of the following areas useful: software; electronics; human-computer interaction; cognitive science; mechanical engineering; control; or MIT hobby shop, MIT PSC, or other relevant independent project experience. 
+/
+Fields, Forces and Flows in Biological Systems
+Introduction to electric fields, fluid flows, transport phenomena and their application to biological systems. Flux and continuity laws, Maxwell's equations, electro-quasistatics, electro-chemical-mechanical driving forces, conservation of mass and momentum, Navier-Stokes flows, and electrokinetics. Applications include biomolecular transport in tissues, electrophoresis, and microfluidics.
+/
+Introductory Analog Electronics Laboratory
+Introductory experimental laboratory explores the design, construction, and debugging of analog electronic circuits. Lectures and laboratory projects in the first half of the course investigate the performance characteristics of semiconductor devices (diodes, BJTs, and MOSFETs) and functional analog building blocks, including single-stage amplifiers, op amps, small audio amplifier, filters, converters, sensor circuits, and medical electronics (ECG, pulse-oximetry). Projects involve design, implementation, and presentation in an environment similar to that of industry engineering design teams. Instruction and practice in written and oral communication provided. Opportunity to simulate real-world problems and solutions that involve tradeoffs and the use of engineering judgment. 
+/
+Computer Language Engineering
+Analyzes issues associated with the implementation of higher-level programming languages. Fundamental concepts, functions, and structures of compilers. The interaction of theory and practice. Using tools in building software. Includes a multi-person project on compiler design and implementation. 
+/
+Introduction to Nanoelectronics
+Transistors at the nanoscale. Quantization, wavefunctions, and Schrodinger's equation. Introduction to electronic properties of molecules, carbon nanotubes, and crystals. Energy band formation and the origin of metals, insulators and semiconductors. Ballistic transport, Ohm's law, ballistic versus traditional MOSFETs, fundamental limits to computation. 
+/
+Design and Fabrication of Microelectromechanical Systems
+Provides an introduction to microsystem design. Covers material properties, microfabrication technologies, structural behavior, sensing methods, electromechanical actuation, thermal actuation and control, multi-domain modeling, noise, and microsystem packaging. Applies microsystem modeling, and manufacturing principles to the design and analysis a variety of microscale sensors and actuators (e.g., optical MEMS, bioMEMS, and inertial sensors). Emphasizes modeling and simulation in the design process. Students taking the graduate version complete additional assignments.
+/
+Foundations of Computational and Systems Biology
+Provides an introduction to computational and systems biology. Includes units on the analysis of protein and nucleic acid sequences, protein structures, and biological networks. Presents principles and methods used for sequence alignment, motif finding, expression array analysis, structural modeling, structure design and prediction, and network analysis and modeling. Techniques include dynamic programming, Markov and hidden Markov models, Bayesian networks, clustering methods, and energy minimization approaches. Exposes students to emerging research areas. Designed for students with strong backgrounds in either molecular biology or computer science. Some foundational material covering basic programming skills, probability and statistics is provided for students with less quantitative backgrounds. Students taking graduate version complete additional assignments.
+/
+Computational Cognitive Science
+Introduction to computational theories of human cognition. Focus on principles of inductive learning and inference, and the representation of knowledge. Computational frameworks covered include Bayesian and hierarchical Bayesian models; probabilistic graphical models; nonparametric statistical models and the Bayesian Occam's razor; sampling algorithms for approximate learning and inference; and probabilistic models defined over structured representations such as first-order logic, grammars, or relational schemas. Applications to understanding core aspects of cognition, such as concept learning and categorization, causal reasoning, theory formation, language acquisition, and social inference. Graduate students complete a final project.
+/
+Microcomputer Project Laboratory
+Introduces analysis and design of embedded systems. Microcontrollers provide adaptation, flexibility, and real-time control. Emphasizes construction of complete systems, including a five-axis robot arm, a fluorescent lamp ballast, a tomographic imaging station (e.g., a CAT scan), and a simple calculator. Presents a wide range of basic tools, including software and development tools, programmable system on chip, peripheral components such as A
+/
+Computation Structures
+Introduces architecture of digital systems, emphasizing structural principles common to a wide range of technologies. Multilevel implementation strategies; definition of new primitives (e.g., gates, instructions, procedures, and processes) and their mechanization using lower-level elements. Analysis of potential concurrency; precedence constraints and performance measures; pipelined and multidimensional systems. Instruction set design issues; architectural support for contemporary software structures. 
+/
+Ethics for Engineers - Independent Inquiry
+Explores the ethical principles by which an engineer ought to be guided. Integrates foundational texts in ethics with case studies illustrating ethical problems arising in the practice of engineering. Readings from classic sources including Aristotle, Kant, Machiavelli, Hobbes, Locke, Rousseau, Franklin and Tocqueville. Case studies include articles and films that address engineering disasters, safety, ethical codes, biotechnology, the internet and AI, and the ultimate scope and aims of engineering.  To satisfy the independent inquiry component of this subject, students expand the scope of their term project. Students taking 20.005 focus their term project on a problem in biological engineering in which there are intertwined ethical and technical issues. 
+/
+Advances in Computer Vision
+Advanced topics in computer vision with a focus on the use of machine learning techniques and applications in graphics and human-computer interface. Covers image representations, texture models, structure-from-motion algorithms, Bayesian techniques, object and scene recognition, tracking, shape modeling, and image databases. Applications may include face recognition, multimodal interaction, interactive systems, cinematic special effects, and photorealistic rendering. Covers topics complementary to 6.801. Students taking graduate version complete additional assignments. 
+/
+Introduction to Algorithms
+Introduction to mathematical modeling of computational problems, as well as common algorithms, algorithmic paradigms, and data structures used to solve these problems. Emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems. 
+/
+Digital and Computational Photography
+Presents fundamentals and applications of hardware and software techniques used in digital and computational photography, with an emphasis on software methods. Provides sufficient background to implement solutions to photographic challenges and opportunities. Topics include cameras and image formation, image processing and image representations, high-dynamic-range imaging, human visual perception and color, single view 3-D model reconstruction, morphing, data-rich photography, super-resolution, and image-based rendering. Students taking graduate version complete additional assignments. 
+/
+Psychoacoustics Project Laboratory
+Introduces the methods used to measure human auditory abilities. Discusses auditory function, principles of psychoacoustic measurement, models for psychoacoustic performance, and experimental techniques. Project topics: absolute and differential auditory sensitivity, operating characteristics of human observers, span of auditory judgment, adaptive measurement procedures, and scaling sensory magnitudes. Knowledge of probability helpful. Students engage in extensive written and oral communication exercises. 
+/
+Design and Analysis of Algorithms
+Techniques for the design and analysis of efficient algorithms, emphasizing methods useful in practice. Topics include sorting; search trees, heaps, and hashing; divide-and-conquer; dynamic programming; greedy algorithms; amortized analysis; graph algorithms; and shortest paths. Advanced topics may include network flow; computational geometry; number-theoretic algorithms; polynomial and matrix calculations; caching; and parallel computing. 
+/
+Fundamentals of Programming
+Introduces fundamental concepts of programming. Designed to develop skills in applying basic methods from programming languages to abstract problems. Topics include programming and Python basics, computational concepts, software engineering, algorithmic techniques, data types, and recursion.  Lab component consists of software design, construction, and implementation of design. Enrollment may be limited.
+/
+Introduction to EECS via Robotics
+An integrated introduction to electrical engineering and computer science, taught using substantial laboratory experiments with mobile robots. Key issues in the design of engineered artifacts operating in the natural world: measuring and modeling system behaviors; assessing errors in sensors and effectors; specifying tasks; designing solutions based on analytical and computational models; planning, executing, and evaluating experimental tests of performance; refining models and designs. Issues addressed in the context of computer programs, control systems, probabilistic inference problems, circuits and transducers, which all play important roles in achieving robust operation of a large variety of engineered systems. 
+/
+Introduction to Computer Science Programming in Python
+Introduction to computer science and programming for students with little or no programming experience. Students develop skills to program and use computational techniques to solve problems. Topics include the notion of computation, Python, simple algorithms and data structures, testing and debugging, and algorithmic complexity. Meets with 6.00 first half of term. Credit cannot also be received for 6.00. Combination of 6.0001 and 6.0002 counts as REST subject. Final given in the seventh week of the term. 
+/
+Robotics: Science and Systems
+Presents concepts, principles, and algorithmic foundations for robots and autonomous vehicles operating in the physical world. Topics include sensing, kinematics and dynamics, state estimation, computer vision, perception, learning, control, motion planning, and embedded system development. Students design and implement advanced algorithms on complex robotic platforms capable of agile autonomous navigation and real-time interaction with the physical word. Students engage in extensive written and oral communication exercises. Enrollment limited.
+/
+Solid-State Circuits
+Analysis and design of transistor circuits, based directly on the semiconductor physics and transistor circuit models developed in 6.012. High-frequency and low-frequency design calculations and simulation of multistage transistor circuits. Trans-linear circuits. Introduction to operational-amplifier design and application. Some previous laboratory experience assumed. 
+/
+Artificial Intelligence
+Introduces representations, methods, and architectures used to build applications and to account for human intelligence from a computational point of view. Covers applications of rule chaining, constraint propagation, constrained search, inheritance, statistical inference, and other problem-solving paradigms. Also addresses applications of identification trees, neural nets, genetic algorithms, support-vector machines, boosting, and other learning paradigms. Considers what separates human intelligence from that of other animals. 
+/
+Foundations of Information Policy
+Studies the growth of computer and communications technology and the new legal and ethical challenges that reflect tensions between individual rights and societal needs. Topics include computer crime; intellectual property restrictions on software; encryption, privacy, and national security; academic freedom and free speech. Students meet and question technologists, activists, law enforcement agents, journalists, and legal experts. Instruction and practice in oral and written communication provided. Students taking graduate version complete additional assignments. Enrollment limited.
+/
+Seminar in Undergraduate Advanced Research
+Instruction in effective undergraduate research, including choosing and developing a research topic, surveying previous work and publications, research topics in EECS, industry best practices, design for robustness, technical presentation, authorship and collaboration, and ethics. Students engage in extensive written and oral communication exercises, in the context of an approved advanced research project. A total of 12 units of credit is awarded for completion of the Fall and subsequent Spring term offerings. Application required; consult EECS SuperUROP website for more information.
+/
+Performance Engineering of Software Systems
+Project-based introduction to building efficient, high-performance and scalable software systems. Topics include performance analysis, algorithmic techniques for high performance, instruction-level optimizations, vectorization, cache and memory hierarchy optimization, and parallel programming. 
+/
+The Human Intelligence Enterprise
+Analyzes seminal work directed at the development of a computational understanding of human intelligence, such as work on learning, language, vision, event representation, commonsense reasoning, self reflection, story understanding, and analogy. Reviews visionary ideas of Turing, Minsky, and other influential thinkers. Examines the implications of work on brain scanning, developmental psychology, and cognitive psychology. Emphasis on discussion and analysis of original papers. Students taking graduate version complete additional assignments. Enrollment limited.
+/
+Biomolecular Feedback Systems
+Comprehensive introduction to dynamics and control of biomolecular systems with emphasis on design/analysis techniques from control theory. Provides a review of biology concepts, regulation mechanisms, and models. Covers basic enabling technologies, engineering principles for designing biological functions, modular design techniques, and design limitations. Students taking graduate version complete additional assignments.
+/
+Biological Circuit Engineering Laboratory
+Students assemble individual genes and regulatory elements into larger-scale circuits; they experimentally characterize these circuits in yeast cells using quantitative techniques, including flow cytometry, and model their results computationally. Emphasizes concepts and techniques to perform independent experimental and computational synthetic biology research. Discusses current literature and ongoing research in the field of synthetic biology. Instruction and practice in oral and written communication provided. Enrollment limited.
+/
+Interactive Music Systems
+Explores audio synthesis, musical structure, human computer interaction (HCI), and visual presentation for the creation of interactive musical experiences. Topics include audio synthesis; mixing and looping; MIDI sequencing; generative composition; motion sensors; music games; and graphics for UI, visualization, and aesthetics. Includes weekly programming assignments in python. Teams build an original, dynamic, and engaging interactive music system for their final project.
+/
+Modern Optics Project Laboratory
+Lectures, laboratory exercises and projects on optical signal generation, transmission, detection, storage, processing and display. Topics include polarization properties of light; reflection and refraction; coherence and interference; Fraunhofer and Fresnel diffraction; holography; Fourier optics; coherent and incoherent imaging and signal processing systems; optical properties of materials; lasers and LEDs; electro-optic and acousto-optic light modulators; photorefractive and liquid-crystal light modulation; display technologies; optical waveguides and fiber-optic communication systems; photodetectors. Students may use this subject to find an advanced undergraduate project. Students engage in extensive oral and written communcation exercises. Recommended prerequisite: 8.03. 
+/
+Elements of Software Construction
+Introduces fundamental principles and techniques of software development: how to write software that is safe from bugs, easy to understand, and ready for change. Topics include specifications and invariants; testing, test-case generation, and coverage; abstract data types and representation independence; design patterns for object-oriented programming; concurrent programming, including message passing and shared memory concurrency, and defending against races and deadlock; and functional programming with immutable data and higher-order functions. Includes weekly programming exercises and larger group programming projects. 
+/
+Introduction to Machine Learning
+Introduces principles, algorithms, and applications of machine learning from the point of view of modeling and prediction; formulation of learning problems; representation, over-fitting, generalization; clustering, classification, probabilistic modeling; and methods such as support vector machines, hidden Markov models, and neural networks. Students taking graduate version complete additional assignments. Meets with 6.862 when offered concurrently. Recommended prerequisites: 6.006 and 18.06. Enrollment may be limited; no listeners.
+/
+Electrical Engineering and Computer Science Project
+Individual experimental work related to electrical engineering and computer science. Student must make arrangements with a project supervisor and file a proposal endorsed by the supervisor. Departmental approval required. Written report to be submitted upon completion of work. 
+/
+Large-scale Symbolic Systems
+Concepts and techniques for the design and implementation of large software systems that can be adapted to uses not anticipated by the designer. Applications include compilers, computer-algebra systems, deductive systems, and some artificial intelligence applications. Covers means for decoupling goals from strategy, mechanisms for implementing additive data-directed invocation, work with partially-specified entities, and how to manage multiple viewpoints. Topics include combinators, generic operations, pattern matching, pattern-directed invocation, rule systems, backtracking, dependencies, indeterminacy, memoization, constraint propagation, and incremental refinement. Students taking graduate version complete additional assignments. 
+/
+User Interface Design and Implementation
+Examines human-computer interaction in the context of graphical user interfaces. Covers human capabilities, design principles, prototyping techniques, evaluation techniques, and the implementation of graphical user interfaces. Includes short programming assignments and a semester-long group project. Students taking the graduate version also have readings from current literature and additional assignments. Enrollment limited.
+/
+Computer Graphics
+Introduction to computer graphics algorithms, software and hardware. Topics include ray tracing, the graphics pipeline, transformations, texture mapping, shadows, sampling, global illumination, splines, animation and color. 
+/
+Fundamentals of Photonics
+Covers the fundamentals of optics and the interaction of light and matter, leading to devices such as light emitting diodes, optical amplifiers, and lasers. Topics include classical ray, wave, beam, and Fourier optics; Maxwell's electromagnetic waves; resonators; quantum theory of photons; light-matter interaction; laser amplification; lasers; and semiconductors optoelectronics. Students taking graduate version complete additional assignments. 
+/
+Machine Vision
+Deriving a symbolic description of the environment from an image. Understanding physics of image formation. Image analysis as an inversion problem. Binary image processing and filtering of images as preprocessing steps. Recovering shape, lightness, orientation, and motion. Using constraints to reduce the ambiguity. Photometric stereo and extended Gaussian sphere. Applications to robotics; intelligent interaction of machines with their environment. Students taking the graduate version complete different assignments. 
+/
+Computer Systems Engineering
+Topics on the engineering of computer software and hardware systems: techniques for controlling complexity; strong modularity using client-server design, operating systems; performance, networks; naming; security and privacy; fault-tolerant systems, atomicity and coordination of concurrent activities, and recovery; impact of computer systems on society. Case studies of working systems and readings from the current literature provide comparisons and contrasts. Includes a single, semester-long design project. Students engage in extensive written communication exercises. Enrollment may be limited.
+/
+Strobe Project Laboratory
+Application of electronic flash sources to measurement and photography. First half covers fundamentals of photography and electronic flashes, including experiments on application of electronic flash to photography, stroboscopy, motion analysis, and high-speed videography. Students write four extensive lab reports. In the second half, students work in small groups to select, design, and execute independent projects in measurement or photography that apply learned techniques. Project planning and execution skills are discussed and developed over the term. Students engage in extensive written and oral communication exercises. Enrollment limited.
+/
+Microcomputer Project Laboratory - Independent Inquiry
+Introduces analysis and design of embedded systems. Microcontrollers provide adaptation, flexibility, and real-time control. Emphasizes construction of complete systems, including a five-axis robot arm, a fluorescent lamp ballast, a tomographic imaging station (e.g., a CAT scan), and a simple calculator. Presents a wide range of basic tools, including software and development tools, programmable system on chip, peripheral components such as A
+/
+Introduction to EECS via Medical Technology
+Explores biomedical signals generated from electrocardiograms, glucose detectors or ultrasound images, and magnetic resonance images. Topics include physical characterization and modeling of systems in the time and frequency domains; analog and digital signals and noise; basic machine learning including decision trees, clustering, and classification; and introductory machine vision. Labs designed to strengthen background in signal processing and machine learning. Students design and run structured experiments, and develop and test procedures through further experimentation. 
+/
+Constructive Computer Architecture
+Illustrates a constructive (as opposed to a descriptive) approach to computer architecture. Topics include combinational and pipelined arithmetic-logic units (ALU), in-order pipelined microarchitectures, branch prediction, blocking and unblocking caches, interrupts, virtual memory support, cache coherence and multicore architectures. Labs in a modern Hardware Design Language (HDL) illustrate various aspects of microprocessor design, culminating in a term project in which students present a multicore design running on an FPGA board. 
+/
+Multicore Programming
+Introduces principles and core techniques for programming multicore machines. Topics include locking, scalability, concurrent data structures, multiprocessor scheduling, load balancing, and state-of-the-art synchronization techniques, such as transactional memory. Includes sequence of programming assignments on a large multicore machine, culminating with the design of a highly concurrent application. Students taking graduate version complete additional assignments. 
+/
+Feedback System Design
+Learn-by-design introduction to continuous and discrete-time system modeling and feedback control. Topics include performance metrics; time- and frequency-domain model extraction: classical control topics, such as dominant pole, PID, and lead-lag compensation; and state-space control topics, such as eigenvalue assignment, linear-quadratic regulators, and observer systems. In lab, students combine circuits, sensors, actuators, algorithms, and a high-performance micro-controller to address problems such as controlling the angle of a propeller-levitated robot arm, stabilizing magnetic levitation, accelerating scans in a tilted-mirror laser imager, eliminating interference in a PWM-based audio amplifier, balancing a two-wheel vehicle, or multi-axis positioning. 
+/
+Power Electronics Laboratory - Independent Inquiry
+Introduces the design and construction of power electronic circuits and motor drives. Laboratory exercises include the construction of drive circuitry for an electric go-cart, flash strobes, computer power supplies, three-phase inverters for AC motors, and resonant drives for lamp ballasts and induction heating. Basic electric machines introduced include DC, induction, and permanent magnet motors, with drive considerations. Provides instruction in written and oral communication. To satisfy the independent inquiry component of this subject, students expand the scope of their laboratory project. 
+/

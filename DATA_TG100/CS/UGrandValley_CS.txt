@@ -1,0 +1,138 @@
+Speech
+Focuses on oral communication. The student will examine practical programs in speech preparation, delivery, informative and persuasive strategies, and listening and responding to messages of others. Most of what a student gains from this course will come not only from reading a text but also from in-class projects, simulation exercises, and skills training.
+/
+Calculus I
+A development of the fundamental concepts of calculus using graphical, numerical, and analytic methods with algebraic and trigonometric functions of a single variable. Limits and continuity, derivatives, indefinite integrals, definite integrals, and the Fundamental Theorem of Calculus; applications of derivatives and integrals. 
+/
+Discrete Structures: Computer Science
+Logic, sets, counting techniques, cardinality, relations, functions and sequences, matrices, mathematical induction, and computer science applications. Please see the mathematics program for placement details. Offered fall and winter semesters.
+/
+Discrete Structures: Computer Science 2
+Properties of relations, equivalence relations, partial orderings, fundamental concepts of graphs, trees, digraphs, networks, and associated algorithms; computer science applications
+/
+Introductory Applied Statistics
+A technique-oriented approach to statistical problems with emphasis on applications. Descriptive statistics, probability distributions, estimation, testing hypotheses, t-test, regression and correlation, chi-square tests, and one-way analysis of variance. A statistical software package will provide computational assistance. 
+/
+Business Communication
+Training in communication skills for business and the professions. Assignments cover varieties of information management, including handling research, gathering data, writing reports, manuals, directions, and correspondence, and making oral presentations.
+/
+Calculus II
+Continuation of MTH 201 using graphical, numerical, and analytic methods to study exponential, logarithmic, hyperbolic, and inverse trigonometric functions. Indeterminate forms, improper integrals, integration techniques, sequences and series, Taylor polynomials, and power series.
+/
+Linear Algebra I
+Vectors in two and three dimensional space, systems of linear equations, matrix algebra, determinants, vectors in n dimensional space, subspace, dependence, bases, linear transformations, eigenvectors, and applications. 
+/
+Automata and Theory of Computation
+Introduction to basic mathematical models of computation and the finite representation of infinite objects. Finite automata, regular languages, nondeterminism, pushdown automata, context-free languages, Turing machines and variants, halting problems, time complexity of algorithms, and NP-Complete problems.
+/
+Intermediate Applied Statistics
+Project-oriented introduction to major statistical techniques using a statistical package such as SAS or SPSS. Hypothesis testing, t-test, multivariate regression, analysis of variance, analysis of covariance, chi-square tests, and nonparametric statistics
+/
+General Biology I
+Introduction to cell structure and physiology, growth and development, and genetics (3-0-3). Offered every semester. Fulfills Foundations - Life Sciences with a lab.
+/
+Statistical Computing and Graphics with R
+An introduction to statistical programming and graphics using the object-oriented statistical language R. Skills in writing R code to perform statistical analyses, graphics, and simulations are developed. Emphasis will be on solving real problems with hands-on work including randomization statistics, time series, data mining, and big data analysis. 
+/
+General Biology II
+Students will be introduced to the diversity of living organisms, emphasizing fundamental biological processes operating at the scale of individual organisms. Form and function of organisms will be studied in ecological and evolutionary contexts.
+/
+Anatomy and Physiology
+An introduction to the human body, its form and function. With the study of each system, correlations between its function and the functions of other systems are emphasized. 
+/
+Principles of Chemistry I
+First semester of the two-semester general chemistry sequence for the sciences. Concepts of atomic structure, development of the principles of modern chemistry, connections between atomic/molecular structure, and observed behavior
+/
+Principles of Chemistry II
+The second semester in the two-semester general chemistry sequence for the sciences. Builds on the theoretical foundation of CHM 115 to develop the concepts of equilibria, solubility, acids and bases, kinetics, and thermodynamics
+/
+Exploring the Earth
+Introduction to the study of earth materials and processes, including minerals, rocks, mineral deposits, weathering, erosion, volcanism, and mountain building. Lectures, laboratories, and field trips
+/
+General Physics I
+The first half of a two-semester noncalculus sequence with a laboratory; recommended for life science majors. Kinematics, vectors, Newtonian mechanics, gravity, work, conservation of energy and momentum, fluids, and properties of matter. 
+/
+General Physics II
+The second half of a standard one-year noncalculus sequence with a laboratory; recommended for life science majors. Electricity and magnetism, fields, simple electrical circuits, light and optics, and introduction to quantum and nuclear phenomena.
+/
+Principles of Physics II
+The second course in a two-semester sequence for students of science and engineering, with a laboratory. Topics include thermodynamics, Coulomb’s law, electric fields and potential energy, Gauss’s law, circuits, electrical waves and oscillations, Maxwell’s equations, and optics
+/
+Computer Science I
+Introduction to programming and computer science through lab and lecture. Simple and structured data types and program control structures. Problem analysis, algorithm design, and computer implementation using a high-level language. Offered every semester
+/
+Computer Science II
+Intermediate object-oriented programming: inheritance, abstract classes, interfaces, and exception handling. Introduction to algorithms and data structures: basic analysis of performance using big O(), recursion, searching, sorting, linked lists, stacks, queues, and basics of trees and tree traversal algorithms. 
+/
+System-level Programming and Utilities
+Introduction software infrastructure underlying development of computer programs. Topics include Linux utilities, shell scripting, processes, facilities for programming, the C programming language, libraries, structures, pointers, dynamic memory management, and system calls
+/
+Data Structures and Algorithms
+Advanced data structures, including lists, trees, sets, and graphs. Analysis of algorithms. Emphasis on abstract data types, their representations, and role as models in the development of computer algorithms.
+/
+CIS Internship Preparation
+CIS Internship Preparation
+/
+Structure of Programming Languages
+Language definition structure. Data types and structures. Control structures and data flow. Lexical analysis and parsing. Interpretive languages. Run time considerations. 
+/
+Introduction to Software Engineering
+Systems development life cycle from project request through project implementation and evaluation. Systems analysis and design concepts, tools, and techniques are emphasized
+/
+Computer Organization and Assembly Language
+Introduction to the logical structure of computers, including combinational and sequential logic, arithmetic, datapaths, CPU control, caches, and basic pipelining. Introduction to assembly language including data movement, arithmetic, comparing and branching, bit manipulation, procedure calling, memory access, and implementation of high-level language constructs
+/
+Database
+The study and application of established sound principles in the modeling, design, implementation, and manipulation of databases using industrial-strength Database Management Systems 
+/
+Operating Systems Concepts
+Fundamental operating systems concepts: processes and threads, CPU scheduling, coordination and synchronization, deadlock, memory management, input/output devices, file systems, distributed systems, protection and security. Case studies and lab exercises using modern operating systems
+/
+Data Communications
+An introduction to data communications techniques, particularly as applied to computer networks. Physical media and devices, data link and network protocols, and other data communications topics will be studied
+/
+Computer Science Project
+Computer Science Project
+/
+Internship
+Internship
+/
+Data Mining
+Data mining is the application of computational techniques to the discovery of useful information in large data sets. This course will provide a hands-on study of computational methods for such knowledge discovery. Topics include clustering, classification techniques, and selected data mining software. 
+/
+Mobile Application Development
+Fundamental concepts and technologies underlying mobile application development. All aspects of developing and deploying conventional mobile applications are covered, including mobile user interfaces, location-based services, integration with social media and other cloud-based services.
+/
+Information Management and Science
+Introduction to information representation, modeling, storage, retrieval, processing, analysis, visualization, and science. Topics may include digital libraries, repositories, collections, metadata, databases, ontologies, vocabularies, dictionaries, and multimedia, as applied to complex and compound content at a large scale. Approaches will be discussed for business, medical, humanities, and scientific contexts.
+/
+Artificial Intelligence
+Introduction to the concepts of artificial intelligence using the LISP programming language. Knowledge representation and problem solving applied to expert systems, natural language understanding, machine learning, and vision
+/
+Computer Graphics
+Principles of computer graphics. I/O devices. Basic graphic primitives and attributes. Transformations: translation, scaling, and rotation. World and screen coordinates, windows and viewports, clipping. Circle drawing. Graphics and text modes. Raster graphics. Filling algorithms. 3-D graphics.
+/
+Usability Design and Evaluation
+The usability engineering design cycle. Discount usability evaluation techniques. Graphical user interface development. Technical communication skills
+/
+Web Application Programming
+The tools and techniques for developing dynamic Web applications. Topics include scripting languages, markup languages, database connectivity, Web standards and security issues.
+/
+Wireless Networking Systems
+A multidisciplinary, hands-on oriented course that integrates topics at all layers of wireless networks and mobile systems, starting from wireless physical layer through application layer. The course emphasizes hands-on learning through experiments, case studies, and design projects. 
+/
+Computer and Cyber Forensics
+Introduction to the fundamental concepts of digital forensics and cybercrime. The course covers the recovery and analysis of digital evidence, addressing both legal and technical issues. Hands on lab activities use primarily open source and commercial forensics toolkits and a variety of hardware to reinforce the concepts discussed in lecture. 
+/
+Automata and Theory of Computation
+Introduction to basic mathematical models of computation and the finite representation of infinite objects. Finite automata, regular languages, nondeterminism, pushdown automata, context-free languages, Turing machines and variants, halting problem, time complexity of algorithms, and NP-complete problems
+/
+Compiler Design and Construction
+Basics of compiler construction. Topics include lexical analysis, grammars for programming languages, parsing algorithms, symbol table construction and management, code generation and optimization
+/
+System Security
+Learn the tools needed to protect computer systems from both inside attacks and network based attacks. Theory and applications of various techniques will be explored. 
+/
+Computer Architecture
+This course will survey advanced computer architecture techniques such as branch prediction, super-scalar, multiprocessors and multicomputers. It will also compare CPU design options (such as CISC vs. RISC) and discuss the effects of these options on performance
+/

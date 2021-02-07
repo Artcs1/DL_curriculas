@@ -1,0 +1,152 @@
+/
+ENGLISH COMPOSITION I
+Prepares students for diverse types of college writing. Covers the writing process, general criteria used to evaluate writing, collaborative writing, and rhetoric, especially audience analysis. 
+/
+ENGLISH COMPOSITION II
+ENGLISH COMPOSITION II
+/
+INTRO TO COMMUNICATION MEDIA
+Course examines various approaches people take to communicating. Focuses on developing an awareness of how and why we communicate and why we do not always communicate effectively. Includes consideration of variables related to interpersonal, group, public, and mass-communication contexts.
+/
+BRIT LIT BEFORE 1785
+This course introduces students to the cultural heritage of the British Isles by studying representatives literary works from the Middle Ages through the 18th Century.
+/
+ART APPRECIATION
+A broad introduction to the nature, vocabulary, and media of the visual arts of drawing, painting, prints, the camera arts, graphic design, sculpture, crafts, and architecture.
+/
+GENERAL CHEMISTRY I
+Topics include the nuclear model, stoichiometry, chemical reactions, gas laws, thermochemistry, atomic structure, and molecular bonding. 
+/
+INTRODUCTION TO ASTRONOMY
+This is a descriptive survey course of elementary astronomy with laboratory intended for both non-science and science majors. Topics covered include a description of the celestial sphere, a tour of the Solar System, techniques for measuring and classifying stars, stellar evolution, white dwarfs, black holes, neutron stars, galaxies, and Big Bang cosmology. 
+/
+PHYSICAL GEOLOGY
+Materials that make up the Earth as well as the properties and geological processes that operate in the Earth. Special topics include plate tectonics, mineral chemistry, the rock cycle, sedimentary processes, metamorphism and geological map reading.
+/
+LIFE SCIENCE I
+The basic principles of biological phenomena are emphasized by examples relating to the human. Cell structure and function, energy and organ systems are studied.
+/
+MARINE SCIENCE I
+This course will present the basic principles of geological and physical oceanography. Marine science is an interdisciplinary science field in which geology, physics, chemistry and biology interact in complex ways that are fundamental to the oceanic environment. 
+/
+ATMOSPHERIC PROCESSES
+Introduces students to the natural science branch of geography. Emphasizes Earth-Sun relationships, weather and climate. 
+/
+LANDSCAPE PROCESSES
+Introduces students to the natural science branch of geography. Emphasizes spatial patterns and processes related to natural landscape regions and landforms. 
+/
+CALCULUS AND ITS APPLICATIONS
+Introduction to calculus with an emphasis on problem solving and applications. Key concepts are presented graphically, numerically and algebraically, although the stress is on a clear understanding of graphs and tabular data. The course covers: algebraic, exponential and logarithmic functions, their properties and their use in modeling; the concepts of derivative and definite integral and applications. 
+/
+BUSINESS ANALYTICS I
+An introduction to data analytics in business that includes analysis to make data driven business decisions. This course utilizes statistical applications in business problems solving using descriptive statistics, probability theory, sampling distributions, methods of estimation, and tests of hypotheses. 
+/
+STAT REASON AND APPLICATION
+An introduction to modern statistics designed to provide the student with a solid foundation in statistical concepts, reasoning and applications. Emphasis given to problem identification, methodology selection and interpretation of results. Analysis of data accomplished by extensive use of statistical computer software, thereby minimizing manual computation. 
+/
+BUSINESS ANALYTICS II
+A second course in quantitative data analytics in business decision making utilizing methods of analysis including statistical inference, predictive, modeling, forecasting, correlation and regression analysis. It further develops fundamental knowledge and skills for making data driven business decisions including the use of computer applications for problem solving. 
+/
+STAT RESEARCH TECHNIQUES
+Coverage includes analysis of experimental designs such as completely randomized design, randomized block design, and factorial design using analysis of variance (ANOVA), correlation, simple and multiple regression analysis, model building, nonparametric techniques, contingency table analysis, sampling and survey methods. Time permitting topics such as time series analysis and statistical simulations will be covered. Statistical computer software will be extensively used for data analysis. 
+/
+DESIGN-ANALYSIS OF EXPERIMENTS
+Principles, constructions, and analysis of experimental designs to include completely randomized, randomized complete block, Latin square and split plot designs, factorial experiments, designs with nested and/or crossed factors, multifactor experiments with randomization restrictions, transformations, incomplete block designs, multiple comparisons including contrasts, confounding, fractional replication, computer-assisted data analysis.
+/
+HY OF WESTERN CIVILIZATION I
+History of humankind, emphasizing the development of the West to c. 1600 C.E. Topics may include Mesopotamia and Egypt, Ancient Greece and Rome, the origins of monotheistic religions, and medieval Europe.
+/
+INTRO TO CULTURAL ANTHROPOLOGY
+Introduces culture as a set of integrated behaviors and meanings learned in a social environment. Explores the diversity of human cultural practices in terms of kinship, gender, religion, subsistence, and politics. Language is emphasized as the means by which culture is transmitted from one generation to the next.
+/
+PRIN OF MICROECONOMICS
+Functions of the price system in a market economy; role of households and business firms in mobilizing resources to meet human needs. The functional and personal distribution and use of income. Relevant problems are discussed.
+/
+INTRODUCTION TO PSYCHOLOGY
+A survey of the basic theories, concepts, principles, and research findings in the field of Psychology. 
+/
+DECISION MAKING - SMALL GROUPS
+Theory and practice in leading and participating in small group decision making Special focus on group problem solving and the management of conflict in small group decision-making meetings. 
+/
+TECHNICAL WRITING - W
+The purpose of this course is to train students in the kinds of written reports required of practicing professionals, aiming to improve mastery of the whole process of report writing from conceptual stage through editing stage.
+/
+WRITING IN PROFESSIONS - W
+Practice in the kinds of writing done in such professions as speech pathology and audiology, nursing, teaching, criminal justice, and business. Assignments, which emphasize persuasive writing, may include position papers, correspondence, and reports.
+/
+BEGINNING PROGRAMMING
+A first course in programming using a visual, event-driven programming language. Coverage includes algorithmic problem solving, fundamentals of programming, procedures, decisions, repetition, and arrays.
+/
+INFO TECHN IN ORGANIZATIONS
+This course introduces students to the Information Technology (IT) concepts and the software that facilitates IT solutions. Topics include: data, information, and knowledge concepts, productivity software tools, role of networking and communication, the "digital phenomena", and the benefits of IT. Also included are IT program concepts such as: ethics, the importance of effective written and oral communication, continuous learning, and technology monitoring-evaluation.
+/
+SYSTEMS ARCHITECTURE
+This course introduces students to the Information Technology (IT) hardware and systems software concepts. Topics include: computer hardware, operating systems, system software, hardware and software integration, operating procedures, system performance, security/safety, and compatibility. 
+/
+INTERMEDIATE PROGRAMMING
+Topics include arrays, sequential files, random access files, structured exception handling, use of LINQ, object-oriented programming, debugging, and additional controls and objects. 
+/
+INFORMATION TECH IN SOCIETY
+A discussion of personal, local, national, and global impact of information technology on ethical, legal, and social issues. 
+/
+DATA COMM AND NETWORKING
+An introduction to data communications, computer networking and network operating systems. Topics include: basic concepts of data transmission, network architectures, communications devices, and communication protocols.
+/
+DATABASE DESIGN-DEV-MGT
+Analysis, design, and development of desktop database systems. Coverage of normalization concepts, DBMS models, E-R/Semantic modeling, and query processing.
+/
+ADV APPLICATION DEVELOPMENT
+This course explores advanced topics in visual applications development. Emphasis is placed upon developing increased program functionality and connectivity with local and remote databases. Other topics: integrating programming components and libraries, object-oriented application development and testing methodologies, and using an object-oriented approach for multi-tiered applications. 
+/
+HUMAN COMPUTER INTERFACE
+Students will study the concepts of human-computer interaction and interface design. Topics include: detailed human-computer interaction concepts, modern graphical user interface models, and interface usability testing. Students will use rapid-prototyping tools to develop and test a typical user interface. 
+/
+IT PROJECT MANAGEMENT
+This course examines the principles and techniques of project management from an information technology perspective. Topics included are: project planning, scheduling, resource allocation, and project management software tools. There is a specific focus on management of software projects, integrating the principles of information systems/needs analysis, software engineering, risk management, and change management. 
+/
+NEEDS ASSESS-TECH EVAL - W
+This course presents methodologies for assessing technological needs in support of organizational information requirements. Students learn the next logical step is a formal means of evaluating a given technology. Major topics of the course are specifying organizational needs, identifying potential technologies, evaluating potential benefits, assessing the organization's ability to utilize the technology. 
+/
+ITE SENIOR DEMO PROJECT
+A senior capstone project course that utilizes teams and/or individuals working from problem requirements and specifications to produce a solution.
+/
+SENIOR CAPSTONE EXPERIENCE-W
+A comprehensive team project will be completed and documented. Writing assignments will reinforce the importance of life-long learning, leadership skills, and the ethical issues of computing as well as appropriate resume and job application cover letter creation. 
+/
+CIS SENIOR SEMINAR
+A series of mini-seminars designed to prepare graduating seniors for transition to professional careers in computing or graduate study and to assess student learning outcomes in the curriculum. Mini-seminars would include, but would not be limited to: resume development, interviewing tips and techniques, career planning, professionalism and ethics in the workplace, and advanced graduate study and professional development.
+/
+PUBLISHING FOR THE WWW
+This course is an introduction to the models and tools used to develop documents for the World Wide Web. Course topics include website planning and design, markup and styling languages, graphics, multimedia utilization, typography, and scripting. 
+/
+MULTIMEDIA PRODUCTION
+This course covers the models and tools of multimedia development and production. Development models include: message analysis, audience analysis, and media formats. Technical issues include: data formats, data interoperability, and hardware concepts. 
+/
+WEB SITE MANAGEMENT
+This course addresses the design, establishment and implementation of a World Wide Web site. Issues addressed are: definition of the site, establishment of a physical site, choice of a Web server, determination of software requirements, implementation details, security, management, and monitoring of the site.
+/
+ADV WEB DEVELOPMENT
+This is an advanced course in web programming and development. This course provides a hands-on approach using high-level development tools to learning advanced web programming concepts including server-side and database processing. 
+/
+NETWORK ADMINISTRATION
+This course examines the network and database administrator functions in an organization. Students study the functions required of an administrator to facilitate the usage of the environment while securing the resources. Various methods and software products will demonstrate the areas of access and security.
+/
+NETWORK INFRASTRUCTURE SYSTEMS
+This course focuses upon the concepts of network hardware systems that provide interconnection of communication devices. Topics include: network architectures and technologies, concepts such as routing, addressing, and network protocols (TCP/IP and others). 
+/
+NETWORK SECURITY MANAGEMENT
+This course examines network and web security issues including: risks and threats, system access points, hardware and software defense methods, and organizational security policies. 
+/
+ADVANCED NETWORK MANAGEMENT
+This course explores advanced network management issues including: developing/designing network implementation strategies, managing users and data, providing operational support and help-desk, developing network use policies, developing network recovery procedures. 
+/
+ADVANCED OPERATING SYSTEMS
+This course introduces students to advanced Operating Systems techniques and related system architecture concepts. 
+/
+FILE SYS FOR DIGITAL FORENSICS
+This course introduces students to advanced file system techniques used in Forensic Analysis. Students will examine the current principles in drive storage hardware and file systems, including Windows and Linux-based systems and evaluate possible data hiding techniques which can be employed within these systems. 
+/
+INTRO TO CRIMINAL JUSTICE
+An overview of crime in the U.S. and the three major criminal justice agencies: law enforcement, courts, and corrections. 
+/
+

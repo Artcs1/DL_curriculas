@@ -1,0 +1,143 @@
+General Chemistry
+General principles of chemistry for science and engineering students. Composition and
+structure of matter, chemical reactions, bonding, solution chemistry, and
+kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry,
+and coordination compounds. 
+/
+General Chemistry Laboratory
+AGeneral Chemistry Laboratory 
+/
+General Physics I
+Calculus-based introduction to general physics and its applications. Mechanics, heat, and sound. 
+/
+General Physics I Laboratory
+General Physics I Laboratory
+/
+Database Management Systems
+Logical and physical organization of databases. Data models and query languages, with emphasis on the relational model and its semantics. Data
+independence, security, integrity, concurrency. 
+/
+Accelerated Single-Variable Calculus I
+Functions, limits, differentiation of algebraic functions, integration, applications including extrema problems, areas, volumes, centroids, and work. 
+/
+Accelerated Single-Variable Calculus II – 4
+Differentiation and integration of transcendental functions,
+applications, methods of integration, coordinate geometry, polar coordinates, infinite series 
+/
+Introduction to Engineering, Module 1
+Introduction to Engineering, Module 1
+/
+Introduction to Engineering, Module 3
+Introduction to Engineering, Module 3
+/
+Programming and Problem Solving
+An intensive introduction to algorithm development and problem solving on the computer. Structured problem definition, top down and modular algorithm design. Running, debugging, and testing programs. Program documentation.
+/
+Myth, Ritual, Belief: The Anthropology of Religion
+Cross-cultural survey of religious and ritual beliefs in light
+of theories of religion. Topics include sacrifice, myth, witchcraft, divination,
+religious change, and millenarian movements.
+/
+General Physics II
+Calculus-based introduction to general physics and its applications. Electricity and magnetism, optics, modern physics.
+/
+General Physics II Laboratory
+General Physics II Laboratory
+/
+Multivariable Calculus
+Vectors, curves, and surfaces in space. Functions of several variables, partial derivatives, multiple integrals. Vector integral calculus, including line and surface
+integrals. 
+/
+Digital Systems
+Digital systems and computer architectures and digital systems, from transistor circuits and logic gates, to
+simple machine (e.g. von Neumann) models. Boolean algebra, Information representation, state machines, processors, process handling, I/O
+handling, and assembler concepts. 
+/
+Digital Systems Laboratory
+Digital Systems Laboratory
+/
+Program Design and Data Structures 
+The study of elementary data structures, their associated algorithms and their application in problems; rigorous development of programming techniques and style; design and
+implementation of programs with multiple modules, using good data structures and good programming style. 
+/
+Discrete Structures 
+Survey of the mathematical tools necessary for an understanding of computer science. Sets, relations, functions, basic counting techniques, permutations, combinations, graphs, recurrence relations, simple analysis of
+algorithms, O-notation, Boolean algebra, propositional calculus, and numeric representation. 
+/
+Intermediate Software Design 
+High quality development and reuse of architectural patterns, design patterns, and software components. Theoretical and practical aspects of developing, documenting, testing, and applying reusable class libraries and object-oriented frameworks using object-oriented and component-based programming languages and tools. 
+/
+Crafting Pottery in the Ancient World
+Pottery as craft or locally grounded knowledge of making. Practice-based versus formal
+textbook learning. Hands-on experience of making and studying ceramic
+vessels. Diversity of pottery in ancient societies. Qualitative and quantitative
+analysis of ceramic forms, fabrics, and decorations. 
+/
+Foundations of Machine Learning
+Theoretical and algorithmic foundations of supervised learning, unsupervised learning, and
+reinforcement learning. Linear and nonlinear regression, kernel methods, support vector machines, neural networks and deep learning
+methods, instance-based methods, ensemble classifiers, clustering
+and dimensionality reduction, value and policy iteration. Explainable
+AI, ethics, and data privacy. 
+/
+Methods of Linear Algebra
+Vectors and matrix operations. Linear transformations and fundamental properties
+of finite dimensional vector spaces. Solutions of systems of linear equations.
+Eigenvalues and eigenvectors. 
+/
+Introduction to Probability and Mathematical Statistics
+Discrete and continuous probability models, mathematical expectation, and joint densities. Laws of large numbers, point estimation, and confidence intervals. Hypothesis testing and applications. Students taking 2820 are encouraged to take 2820L concurrently. 
+/
+Algorithms
+Advanced data structures, systematic study and analysis of important algorithms for searching; sorting; string processing; mathematical, geometrical, and graph algorithms, classes of P and NP, NP-complete and intractable problems.
+/
+Programming Languages 
+General criteria for design, implementation, and evaluation of programming languages. Historical perspective. Syntactic and semantic specification,
+compilations, and interpretation processes. Comparative studies of data types and data control, procedures and parameters, sequence control, nesting, scope and storage management, run-time representations. 
+/
+Principles of Operating Systems I 
+Resource allocation and control functions of operating systems.
+Scheduling of processes and processors. Concurrent processes and primitives for their synchronization. Use of parallel processes in designing operating system subsystems. Methods of implementing parallel
+processes on conventional computers. Virtual memory, paging, protection of shared and non-shared information. Structures of data files
+in secondary storage. Security issues. Case studies.
+/
+Artifcial Intelligence
+Principles and programming techniques of artificial intelligence. Strategies for searching, representation of knowledge and automatic deduction, learning, and
+adaptive systems. 
+/
+Maymester Contemporary Art Blitz
+Intensive review of contemporary art through excursions to museums, galleries, and artists’ studios. Insights from curators, dealers, and films. Cities
+vary each year. 
+/
+Technical Communications.
+Instruction and practice in written and oral communication. Emphasis is on organization and presentation of information to a specific audience
+for a specific purpose. Course includes writing and editing reports of various lengths, preparing and using visual aids, and presenting oral
+reports. 
+/
+Computer Science Seminar 
+Elements of professional engineering practice, professional education and lifelong learning, intellectual property and software patents, open source and crowd source software development, liability, soft risk safety and security, privacy issues, interdisciplinary teams and team tools, professional organization, careers, entrepreneurship, human computer interaction.
+/
+Project in Computer Animation Design and Technology
+Principles and techniques of computer animation. Topics include storyboarding, camera control, skeletons, inverse kinematics, splines, keyframing, motion capture, dynamic simulation, particle systems, facial animation, and motion perception. 
+/
+Image Processing
+Theory of signals and systems is extended to two dimensions. Filtering, 2-D FFTs,
+edge detection, and image enhancement. 
+/
+Single-Variable Calculus I
+Review of algebra and trigonometry. Exponential functions; inverse functions and
+logarithms. Limits; differentiation of algebraic and transcendental functions;
+rules of differentiation; related rates.
+/
+Applied Behavioral Science
+Leadership styles, power team building, conflict resolution, management resolution, interviewing techniques. 
+/
+Comparative Writing Systems. 
+The origins, development, and social uses of writing in the ancient Middle East,
+Mediterranean, and Mesoamerica. Decipherments of hieroglyphic systems.
+Literacy, historiography, and cross-cultural translation.
+/
+Computer Graphics
+2D rendering and image-based techniques, 2D and 3D transformations, modeling, 3D
+rendering, graphics pipeline, ray-tracing, and texture-mapping
+/

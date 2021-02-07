@@ -1,0 +1,285 @@
+/
+General Chemistry I
+A general overview of chemistry, including principles and theories as
+well as descriptive chemistry of important elements and
+compounds. Laboratory experiments augment lecture topics to
+provide a small group hands-on learning experience. 
+/
+Introduction to Computer Science I
+This course is an introduction to basic concepts of computer science,
+with emphasis on programming. Computer programming is to the
+study of computer science what writing is to the study of literature.
+It is a primary tool for implementing algorithms in computer science.
+Fundamental techniques for software design and implementation
+will be covered and these concepts demonstrated in a programming
+language like C++. Additional topics include top-down modular
+design, developing general-purpose software tools, procedural and
+data abstraction, algorithms, and an introduction to recursion and
+dynamic data structures. 
+/
+Introduction to Engineering Use of the Computer
+Introduction to computer programming
+using equation solving software applied to engineering problems
+/
+Engineering and Society
+Engineers apply scientific knowledge and principles, and use the
+engineering design process to develop technology. While engineers
+frequently develop solutions to problems in controlled
+environments, the products that are developed are used by 'real
+people' in the 'real world.' Thus, it is essential that engineers have an
+understanding o the interactions between engineering, technology
+development, and society. This course will highlight the diverse
+applications of engineering and technological skills in addition to
+ethical and other concerns about the societal consequences of
+technological developments. Students will gain an understanding of
+ways that conceptual models can be used to frame how both
+science and technology shape society and how society can shape
+science and technology. 
+/
+Calculus I
+Functions and graphs; derivative concept and formulas, including
+chain rule and implicit differentiation; integral concept; the
+Fundamental Theorem of Calculus; properties and applications of
+the derivative, including max-min problems and graph sketching;
+exponential, logarithmic, and inverse trigonometric functions.
+/
+Calculus II
+Properties and applications of the
+integral, including areas, volumes, arc length and differential
+equations; integration techniques, including parts, partial fractions,
+trigonometric substitution, and numerical integration;
+indeterminate forms; improper integrals; infinite series and Taylor
+series; introduction to polar coordinates, complex numbers, and
+parametric equations. 
+/
+Physics I
+Calculus-based general physics course covering elements of
+Newtonian mechanics and thermal physics. Laboratory experiments
+keyed to the lectures to illustrate and demonstrate some of the
+physical principles and concepts
+/
+Physics II
+Calculus-based general physics course covering elements of
+electricity and magnetism, waves and optics. Laboratory
+experiments keyed to the lectures to illustrate and demonstrate
+some of the physical principles and concepts. 
+/
+ECE Laboratory I
+An introductory course that presents the fundamentals of electrical
+instrumentation while developing laboratory skills. Experiments
+explore basic electrical properties of analog and digital circuits. The
+development of sound techniques for circuit construction and
+troubleshooting are emphasized, as is the role of the computer in a
+laboratory environment. Use of CAD/CAE tools such as Pspice and
+LabView is integrated into the course. Lab safety and the
+documentation and reporting of laboratory results are covered. 
+/
+Linear Circuits
+Steady state response of linear circuits to both sinusoidal and
+periodic inputs. AC steady-state power. Magnetically coupled
+circuits. Network functions, transfer functions, gain and phase shift.
+Bode plots. Fourier series. Laplace transform. The relationship
+between the time and frequency domain solutions. 
+/
+Embedded Systems
+An introductory course covering the fundamentals of
+microcontroller hardware and software. Topics include
+microcontroller systems, input/output (I/O) standards and data
+communication protocols, interfacing with memory systems and
+sensors, data collection, display, and control of peripheral modules
+and actuators. The microcontroller will be programmed in the C
+programming language. Interfacing assembly language to high level
+language code will be treated as well. A comprehensive term
+project will allow student teams to apply the theoretical concepts
+for solving a practical problem using a microcontroller and
+peripheral devices.
+/
+Intro to Object-Oriented Programming and Software Design
+A thorough introduction to Object Oriented Programming, including
+classes, inheritance and subtyping, overloading, and overriding.
+Dynamic memory management. Debugging. Introduction to Testing
+Driven Development. Introduction to fundamental data structures. 
+/
+Introduction to Digital Design
+An introductory course covering the fundamentals of computer
+system hardware. Topics include data representation using number
+systems and codes, Boolean algebra and logic, digital logic devices,
+combinational and sequential circuits, arithmetic logic units and
+simple processor organization including registers, memory,
+addressing and processing of machine instructions. 
+/
+Computer Engineering Junior Laboratory
+A design laboratory in computer engineering emphasizing the
+fundamentals of designing and testing computer system
+components. Sub-system level digital circuits are designed,
+constructed, and tested using standard small- and medium-scale
+integrated circuits and programmable logic devices. Software
+components which interface with hardware and operating systems
+are also designed, written and tested. All design projects employ a
+team based approach. 
+/
+Systems and Signal Processing
+Characterization, classification and representation of signals and
+systems. Convolution. Fourier transforms. Discrete time systems and
+z transforms. Sampling theorem
+/
+Microelectronics
+Theory of semiconductor materials, p-n junctions, bipolar and field
+effect transistors. Analysis of device characteristics, device modeling
+and equivalent-circuits. PSpice simulation of electronic circuits.
+Applications including study of biasing, low frequency amplifiers,
+switching circuits and digital logic operations. 
+/
+Fundamentals of Software Engineering
+This is a foundation course in the design of computer software. It
+covers fundamental techniques and methodologies for software
+design and implementation. Topics include the software engineering
+life cycle, object-oriented design, data and procedural abstraction,
+recursion, iteration, file I/O, and elementary data structures. 
+/
+Software Components and Generic Programming
+This course is concerned with software design principles that foster
+creation of reusable software components. Topics include abstract
+data types, behavioral inheritance and subtyping, generics, interface
+design, dependency injection, and analysis of algorithmic behavior.
+Students will gain experience with software development best
+practices including design of test scenarios, unit testing, code
+reviews, refactoring and version control in the context of a modern
+integrated development environment.
+/
+Advanced Digital Circuit Design
+An advanced course in digital circuit design. This course begins with
+an overview of electrical characteristics of logic gates, various
+standards for I/O buses and communication interfaces. Topics
+include hierarchical and modular design of digital logic circuits,
+simulation and synthesis of digital systems on programmable logic
+devices using computer-aided design software, and debug and
+verification of design using embedded and standalone logic
+analyzers. 
+/
+Computer Engineering Senior Laboratory
+In conjunction with EE464, students develop specifications for
+design, build, test, debug and document a complete digital system
+based on an embedded microcomputer and supporting integrated
+circuits.
+/
+Software System Architecture
+A study of system software components in the context of a modern
+operating system such as UNIX, together with the necessary tools
+and utilities for software development. Topics will include software
+development tools, operating system interfaces and utilities, and
+network access methods. Emphasis will be placed on conceptual
+understanding and practical use of system software components
+rather than on detailed implementation
+/
+Digital Systems Design
+A study of embedded microcomputer system design. Topics include
+CPU architecture, memory organization, interrupts, real-time
+operation, and interfacing with a wide range of external devices.
+Practical problems in digital design, testability, hardware and
+software trade-off analysis are covered. In addition to the technical
+topics, students develop teamwork skills, learn project
+management, system specification and documentation. Each
+student does both significant written documentation and oral
+presentations of his or her work. This course and the senior lab (EE
+416) together provide both the conceptual knowledge and practical
+skills necessary to design application-oriented digital systems
+/
+Computer Architecture
+A study of modern processor system architecture including set
+design and performance enhancement of computer systems will be
+discussed. Topics include pipelining, cache organization, memory
+management, and multiprocessors. Tradeoffs in system design and
+the impact of hardware/software interactions will be discussed. 
+/
+Electrical Science
+Network concepts. DC circuits: mesh and node equations, network
+theorems, operational amplifiers. Complex numbers, effective
+values, sinusoids and phasors. AC circuits: phasor diagrams, power.
+Time domain solution of first order circuits. 
+/
+Foundations
+A transitional course between the technique-oriented lower level
+courses and the concept-oriented upper level courses in both
+mathematics and computer science. Logic, numbers, sets, functions,
+equivalence relations, completeness, combinatorics. Additional
+topics may include probability and number systems.
+/
+Elementary Differential Equations
+Solutions and applications of first-order differential equations and
+linear differential equations with constant coefficients. Laplace
+transform methods. Introduction to matrix algebra, systems of
+algebraic equations, eigenvalues and eigenvectors, with application
+to systems of differential equations. Other topics may include
+modeling, engineering applications or numerical methods
+/
+Probability and Statistics
+A calculus based introduction to topics in probability and statistics.
+Probability content includes events and sample spaces, the basic
+axioms of probability, discrete and continuous random variables
+(definitions and basic characterizations such as the means and
+variances) including binomial, Poisson, normal, exponential, studentt, and uniform distributions. Topics in statistics include the central
+limit theorem, statistical inference including confidence intervals
+and hypothesis testing for one and two sample data, and linear
+regression. Students will use statistical software to read data and
+interpret software generated output. 
+/
+Control Systems
+Introduction to the analysis and design of
+continuous-time feedback control systems. Topics include:
+mathematical representation of physical systems with linear
+differential equations, Laplace transforms, transfer functions, block
+diagrams and signal flow graphs, feedback, sensitivity, transient
+specifications, steady-state tracking errors, stability, root locus plots,
+compensator design, simulation. 
+/
+Neural Engineering
+This course applies
+engineering principles to the study of neuroscience and to the
+design of devices or techniques intended to replace missing or
+augment existing functions such as seeing, hearing, speaking, and 
+walking. The course provides a detailed overview of sensorimotor
+systems, neurophysiology, neuroanatomy, neuropathology and
+clinical neurology. The class sequences through the various sensory
+and movement systems, providing a quantitative basis for how the
+nervous systems works for these systems, for how it dysfunctions,
+for the disability produced, and finally for how function can be
+restored by neuroprostheses. Students will prepare and present a
+paper on a neural engineering topic. 
+/
+Computer Graphics
+An introduction to computer graphics.
+Graphics hardware, algorithms for generating and displaying two
+and three-dimensional geometric figures, animation, interactive
+displays. Programming projects using OpenGL will be assigned.
+Prerequisites: Programming experience in C/C++ family language,
+basic concepts in linear algebra and matrices
+/
+Robotics I
+The course presents an introduction to the
+fundamentals of mobile robotic systems including common
+mechanical configurations with sensors and actuators, as well as the
+typical sensory, perceptual, and cognitive layers that comprise the
+field of study. Topics explored will include: Mobile Robot
+Locomotion (e.g., Legged, Wheeled, and Aerial), Mobile Robot
+Kinematics (e.g., Models and Constraints, Maneuverability,
+Workspace Analysis, and Motion Control), Mobile Robot Perception
+(e.g., Exploration of Sensors, Fundamentals of Computer Vision,
+Fundamentals of Image Processing, Feature Extraction, and Place
+Recognition), Mobile Robot Localization (e.g., Noise and Aliasing,
+Localization-Based Navigation, Map Representations, Probabilistic
+Map-Based Localization and Autonomous Map Building), and
+Planning and Navigation (Path Planning, Obstacle Avoidance, and
+Navigation Architectures)
+/
+Robotics II
+The course presents an introduction to the fundamentals of
+industrial robotics. Topics explored will include: Robotic
+manipulation, direct kinematics, inverse kinematics, workspace
+analysis and trajectory planning, differential motion and statics,
+manipulator dynamics, robot control, robot vision and task planning.
+Throughout the course, students will work in teams with a supplied
+robotics kit of parts and appropriate software tools to design and
+implement a robot manipulator that demonstrates various aspects
+of the course applied to a real-world problem. 
+/

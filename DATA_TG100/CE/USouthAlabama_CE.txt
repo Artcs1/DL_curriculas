@@ -1,0 +1,129 @@
+/
+CALCULUS I
+The course provides an introduction to calculus with emphasis on differential calculus. Topics include limits of functions, derivatives of algebraic and transcendental functions, application of the derivative to curve sketching, optimization problems, and examples in the natural sciences, engineering, and economics. 
+/
+GENERAL CHEMISTRY I
+First of a two-semester sequence for majors, minors, and others seeking quantitative treatment. Topics include the nuclear model, stoichiometry, chemical reactions, gas laws, thermochemistry, atomic structure, and molecular bonding.
+/
+GENERAL CHEMISTRY I LAB
+GENERAL CHEMISTRY I LAB
+/
+ENGLISH COMPOSITION I
+Prepares students for diverse types of college writing. Covers the writing process, general criteria used to evaluate writing, collaborative writing, and rhetoric, especially audience analysis. 
+/
+INTRO TO ENGINEERING & DESIGN
+A course for first time engineering students that assists with maximizing the student's potential to achieve academic success and to adjust responsibly to the individual and interpersonal challenges presented by college life. Introduction to engineering fundamentals through reading, homework assignments, laboratory investigations, guest lecturers and group discussions on the engineering profession.
+/
+CALCULUS II
+Topics include techniques of integration; applications of the definite integral to geometry, natural sciences, engineering, and economics; improper integrals; infinite sequences and series; Taylor polynomials and Taylor series; parametric equations and polar coordinates. 
+/
+ENGLISH COMPOSITION II
+EH 102 prepares students for college writing by focusing on argumentation, research, and the critical thinking required to argue effectively. 
+/
+CALCULUS-BASED PHYSICS I
+First semester of a two-semester introductory course in calculus-based physics with recitation and laboratory. This course covers: one and two-dimensional motion, vectors, Newton's laws of motion and their applications, work and energy, momentum and collisions, circular motion, rotational motion, properties of materials, simple harmonic motion, wave motion and topics in thermodynamics. 
+/
+INTRO TO C++ PROGRAMMING
+Introduction and fundamentals of C++ programming, input-output operations, variables, data types, arithmetic expressions, control statements, looping, functions, arrays, pointers, strings, structures, and abstract data types.
+/
+CALCULUS III
+Vectors; functions of several variables; partial derivatives; local linearity; directional derivatives; the gradient; differential of a function; the chain rule; higher order partial derivatives; optimization of functions of several variables; multiple integrals and their applications; parametric curves and surfaces; vector fields; line and surface integrals; vector calculus. 
+/
+CALCULUS-BASED PHYSICS II
+Second semester of a two-semester introductory course in calculus-based physics with laboratory. This course covers electrostatic fields and Gauss' law, electric potential, electric circuits, magnetic fields, Ampere's law, Faraday's law, inductance, Maxwell's equations, electromagnetic waves and optics. 
+/
+DIGITAL LOGIC DESIGN
+Number systems, introduction to basic logic circuits, analysis and design of combinational and sequential logic circuits, HDL based logic circuit simulation and design. 
+/
+CIRCUIT ANALYSIS I
+Resistive networks with independent and dependent sources: Ohm's law; Kirchhoff's law; nodal and loop analysis; network theorems; energy storage elements (capacitors and inductors); operational amplifiers; steady state AC analysis; and introduction to PSpice. 
+/
+NETWORK ANALYSIS
+Transient analysis of RLC circuits; Three-phrase systems; power-factor correction in three-phase power systems; magnetically coupled networks; Operational amplifiers; network frequency response functions and resonance; Fourier series.
+/
+CIRCUITS AND DEVICES LAB
+Introduction to electrical laboratory equipment and instrumentation; analog and digital meters, oscilloscopes, bridges, power supplies, function generators. Measurement of voltage, current and power in DC networks and in single-phase and three-phase AC networks. Verification of Kirchoff's laws. Measurement of resistance, capacitance, and inductance. 
+/
+MICROPROCESSOR SYS-INTERFACING
+Small computer organization, assembly and machine level programming, microprocessor architectures and instruction sets, microprocessor and microcontroller system design, and microprocessor based peripheral interfacing.
+/
+DIGITAL LOGIC DESIGN LAB
+Design projects include standard SSI and MSI digital circuit based simulation and experiments.
+/
+LINEAR ALGEBRA I
+This course provides an introduction to linear algebra. Topics include systems of linear equations, matrices, Gaussian elimination, rank, linear independence, subspaces, basis, dimension, linear transformations, determinants, eigenvalues and eigenvectors, change of basis, diagonalization, the abstract concept of a vector space, and applications. 1
+/
+DIFFERENTIAL EQUATIONS I
+This course provides an introduction to ordinary differential equations. Topics include first order differential equations, higher order linear differential equations, systems of first order linear differential equations, Laplace transforms, methods for approximating solutions to first order differential equations, applications. 
+/
+ENGINEERING THERMODYNAMICS
+ENGINEERING THERMODYNAMICS
+/
+SIGNALS, SYSTEMS & TRANSFORMS
+Modeling of analog and discrete-time signals and systems, time domain analysis, Fourier series, continuous and discrete time Fourier transforms and applications, sampling, z-transform, state variables, analysis of signals and systems and basic filter design, filter implementation using MatLab. 
+/
+PROB, RAND SIGS & STAT ANLYS
+Discrete and continuous probability distributions; random variables; Bernoulli trials; hypothesis testing; confidence intervals; Anova multiple comparisons; Bayes' theorem; estimation; sampling; random processes and random signals in linear systems. Probability applications in computer and electrical engineering. 
+/
+PHYSICAL ELECTRONICS
+Introduction to quantum concepts; particles in one dimensional potential well; tunneling. Silicon band structure, electrons and holes. Drift and diffusion current density; band bending; Einstein diffusion coefficient; recombination/generation. The pn junction; step and linear junctions; depletion layer. I-V characteristics of a pn junction and steady-state carrier concentrations at junctions. Bipolar junction transistor fundamentals; pnp and npn types; common emitter configuration, biasing and gain. 
+/
+ELECTROMAGNETICS I
+Basic concepts of electrostatics, electric potential theory, electric fields and currents, fields of moving charge, Poisson's and Laplace's equations, magnetostatics, metallic conductors and dielectric materials, electric-scalar and magnetic-vector potentials and boundary conditions, general time varying fields and Maxwell's equations.
+/
+MICROPROCESSOR SYS INTERF LAB1 cr
+Topics include integration of microprocessor software, hardware and peripheral devices; assembly level programming and hardware interfaces for control and instrumentation.
+/
+ELECTROMECH ENERGY CONVERSION
+Introduction to the principles of electromechanical energy conversion. Energy balance, force, and torque of electromagnetic systems; magnetic circuits and ferromagnetic losses; transformers and their connections three-phase induction motors; synchronous generators and motors; non-salient machines. Parallel operation of synchronous generators. Dynamics of electric machines. 
+/
+FEEDBACK CONTROL SYSTEMS
+Review of the Laplace Transform. Transfer functions; block diagrams; signal-flow graphs and Mason's Gain Formula. Introduction to the state-space representation. Stability of feedback control systems; Routh-Hurwitz criterion; root-locus technique and the Nyquist criterion. Bode plots; gain and phase margins. PI, PD and PID controller design. Introduction to the use of Matlab for analysis and design.
+/
+DIGITAL ELECTRONICS
+Review of semiconductor diodes and Diode circuits, Field effect devices, Operating characteristics and DC analysis. Introduction to digital electronics, NMOS, PMOS, CMOS devices and logic circuits, Transmission gates, Review of BJTs TTL logic gates, Design considerations.
+/
+ELECTROMAGNETICS II
+Lumped versus distributed circuit components, capacitance, inductance and mutual inductance, uniform plane waves, power flow and skin effect, reflection, transmission and propagation of uniform plane waves through different media, wave polarization, transmission lines, waveguides, optical fiber, electromagnetic radiation and antennas, the Radar equation.
+/
+DIGITAL SIGNAL PROCESSING
+Review of discrete Fourier and Z-transforms; review of analog filter design; design of IIR and FIR digital filters. Fast Fourier transform (FFT) and applications; Hardware implementation and quantization effects. Advanced digital filter structures and design. DSP algorithm design and implementation. Analysis of finite word length effects of DSP applications.
+/
+INTRODUCTION TO COMMUNICATIONS
+Introduction to communication systems; analog, digital, deterministic and stochastic messages; modulation; redundancy coding. Signal energy and power; correlation; orthogonal signal set and Fourier series. Fourier transforms; signal transmission through linear systems; ideal and practical filters; signal distortion; Parseval's theorem; essential band-width and energy and power spectral density. Amplitude modulation: DSB, SSB, AM, QAM and VSB; phase and frequency modulation and the basic design of a FM transmitter. Sampling theorem; pulse code modulation and differential pulse code modulation.
+/
+ENERGY CONVERSION LAB
+Laboratory experiments based on: Faraday's Law and magnetic coupling; magnetic circuits; transformers (single and three phase) their connections and tests. Three phase induction motors-tests and performance characteristics; synchronous generators and motors. 
+/
+INTRO ELEC AND CPE DESIGN - W
+Specification of design criteria. Written and oral presentations of design proposals. 
+/
+INTRO TO ETHICS AND ECONOMICS
+Introduction to ethics and the use of codes of ethics in developing an ethical profession. Application of engineering economic principles to engineering problems.
+/
+ANALOG ELECTRONICS
+Small signal model of diodes and application, advanced OP-AMP applications, Miller s Theorem, Nyquest stability criterion and frequency response, principle of operation of FETs small signal model of FETs basic FET amplifies, small signal model of BJT and basic BJT amplifiers, differential and multistage amplifiers, internal circuit of typical OP-AMP.
+/
+ELECTRONICS LAB
+Computer analysis and measurement of the characteristics and parameters of power supplies; operations amplifiers; voltage and power amplifiers; oscillators and active filters. 
+/
+ELECTRICAL AND COMPUTER ENGINE
+Implementation of design project from the field of Electrical or Computer Engineering in the broadest sense and under the guidance of a project director from the electrical and computer engineering faculty.
+/
+ADV FEEDBACK CONTROL SYSTEMS
+Sensors, encoders and DC motors in control systems. The performance and design of feedback control systems. System bandwidth; Nichol's Chart and the stability of control systems with time delays. State variable analysis and design. 
+/
+NONLINEAR CONTROL SYSTEMS
+State space description; methods of linearization; isoclines; stability of nonlinear systems; Lyapunov's direct method; harmonic linearization; describing functions; dual input describing functions; Popov's method; circle criterion and computer aided analysis.
+/
+PROG LOGIC CONTROLLER LAB
+PLC overview; ladder logic; programming of timers and counters; programming control; data manipulation and math; instructions; sequencers and shift register instructions; data acquisition methods.
+/
+CONTROL AND COMMUNICATIONS LAB
+Computer-aided modeling, design and performance analysis in time and frequency domain of analog and digital communication end-to-end systems, and automatic control systems.
+/
+/
+/
+
+
+

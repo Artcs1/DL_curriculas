@@ -1,0 +1,91 @@
+/
+Computer Science I
+Introduction to computer science and engineering, problem-solving techniques, algorithmic processes, software design and development.
+/
+Computer Science II
+Software design, structured programming, object-oriented design and programming.
+/
+Foundations of Computing
+Conceptual and formal models, efficiency and levels of abstraction as used in the field of computing, big-Oh notation, combinatorics and conditional probability, basic operations of sets, functions, relations, trees and graphs, regular expressions, deterministic finite automata and non-deterministic finite automata to describe patterns in strings.
+/
+Foundations of Data Structures
+Data structures and formalisms used in computing, such as asymptotic behavior of algorithms, graph, table, relational and set data structures, context-free grammars to describe patterns, assertions in propositional logic form, amortized analysis to evaluate efficiency of data structures such as splay trees and O(1) expansion of tables.
+/
+Assembly Language and Computer Organization
+Principles of computer systems organization, instruction sets, assembly language programming, computer arithmetic, data and control paths, and introduction to memory hierarchy.
+/
+Data Structures and Algorithms
+Time complexity of algorithms; merge sort and heap sort; data structures for trees and graphs; elementary graph algorithms, breadth-first search, depth-first search, topological sorting, Prim’s algorithm and Kruskal’s algorithm
+/
+Software Engineering
+Modular design and implementation of software systems. Topics include requirements and specifications development, documentation of the design using current design tools such as UML, testing of software implementation, and system and user documentation.
+/
+Principles of Systems Programming
+Introduction to the design and operation of systems software. Analysis is made of current system software technology, including operating systems, language translation systems and file systems.
+/
+Social Issues in Computing
+The effect of computer science and engineering on the home and workplace, with emphasis on the role of computer professional in modern society.
+/
+Algorithms
+Time complexity of algorithms; algorithm design methodologies including divide and conquer, greedy, and dynamic programming; exposure to approximation algorithms for NP-hard problems; performance evaluation of algorithms.
+/
+Software Development Capstone I
+Software Development Capstone I
+/
+Software Development Capstone II
+Software Development Capstone II
+/
+Senior Thesis
+Intended to be a serious exercise in the organization and presentation of written material. Students select their own topics, in consultation with their faculty advisor. The thesis is a research paper and students are responsible, with the advice of their faculty, for the investigation of sources, the accumulation of data, the selection of pertinent material and the preparation of the thesis in acceptable form.
+/
+Introduction to Computer Networks
+Introduction to data communications; asynchronous, synchronous, networks and current technology.
+/
+Formal Languages, Automata and Computability
+Introduces students to the formal language theory that underlies modern computer science. Topics include different representational forms for regular languages, context-free grammars, pushdown automata, pumping lemmas for regular and context-free languages, and Chomsky’s hierarchy.
+/
+Programming Languages
+Syntax, semantics and computation models of programming languages. Formal foundations of major programming paradigms and in-depth study of key features of high-level programming languages from each paradigm.
+/
+Introduction to Operating Systems
+Concepts in operating system analysis and design. General topics of process, resource and file management are presented and analyzed in the context of different system architectures and performance constraints.
+/
+Introduction to Compilation Techniques
+Topics include parsing, syntax-directed translation, run-time storage management, error recovery, code generation and optimization. A significant project is required.
+/
+Introduction to Artificial Intelligence
+Introduction to concepts and ideas in artificial intelligence, including topics such as search techniques, knowledge representation, problem-solving, logic, probabilistic reasoning, learning, perception and natural language processing.
+/
+Introduction to Natural Language Processing
+Introduction to natural language processing, modern theories of syntax, context free parsing, transformational syntax and parsing, computational semantics, and survey of natural language processing systems.
+/
+Calculus I
+Limits and continuity, derivatives and integrals; differentiation and integration of polynomial, rational, trigonometric, and algebraic functions; applications, including slope, velocity, extrema, area, volume and work.
+/
+Calculus II
+Differentiation and integration of exponential, logarithmic and transcendental functions; integration techniques; indeterminate forms; improper integrals; area and arc length in polar coordinates; infinite series; power series; Taylor’s theorem.
+/
+Probability Models
+Probability theory, discrete and continuous random variables, Markov chains, limit theorems, stochastic processes, models for phenomena with statistical regularity.
+/
+Probability theory, discrete and continuous random variables, Markov chains, limit theorems, stochastic processes, models for phenomena with statistical regularity.
+Vector spaces over the real number field; applications to systems of linear equations and analytic geometry in En, linear transformations, matrices, determinants and eigenvalues.
+/
+Digital Logic Design
+History and overview; switching theory; combinational logic circuits; modular design of combinational circuits; memory elements; sequential logic circuits; digital system design; fault models and testing.
+/
+Technical Writing
+Expository writing, especially for science, pre-engineering and business students.
+/
+Mechanics
+Laws of motion; inertia, acceleration, force, energy, momentum and angular momentum. Rotational and oscillatory motion. Gravitation.
+/
+Electricity and Magnetism
+Electric fields, dc and ac circuits, magnetic fields and magnetic induction. Electric and magnetic properties of matter.
+/
+Biology for Science Majors I
+An integrated approach to cell and molecular biology with an emphasis on biological chemistry, cell structure and function, Mendelian and molecular genetics, evolutionary biology.
+/
+General Chemistry for Science Majors
+Fundamental concepts, states of matter, periodic table, structure and bonding, stoichiometry, oxidation and reduction, solutions, and compounds of representative elements.
+/

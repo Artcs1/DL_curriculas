@@ -1,0 +1,94 @@
+/
+Fundamentals of Computer Science I
+This course introduces the fundamental techniques of algorithm design and program construction using procedural constructs. Topics will include problem analysis; algorithm design; and implementation and debugging strategies using good programming practices. The course will cover basic data structures including variables, arrays, strings, records, and pointers; and control structures including decisions, iterations, functions, and file I/O. The course will focus on applications from computer science and engineering using C/C++/C#
+/
+First-Year Seminar
+This course helps prepare new students for the creative, interdisciplinary, and rigorous modes of inquiry that characterize a York College education.  The First-Year Seminar is intended to create a sense of intellectual community for students and faculty, to emphasize attainment of key learning outcomes, to introduce students to college-level rigor and expectations, to encourage the academic growth of students, and to purposefully expose students to a variety of co-curricular experiences and resources available at York College
+/
+Calculus I
+Both a theoretical and an applied approach to physics and engineering are emphasized in this in-depth study of introductory calculus topics. The topics of the course include a review of algebra and trigonometry, limits, differentiation, and applications of the derivative
+/
+Physical Science
+Physical Sciences
+/
+Technical and Scientific Communication
+This course offers students expertise in applying rhetorical techniques and problem-solving skills to the types of communication associated with technical and scientific (including medical) settings.  Using cases and scenarios in some instances, students will create written documents (such as proposals, research reports, usability analysis, and process descriptions) in both print and online environments and will learn about effective document design, use of visuals, and oral presentation in technical and scientific contexts
+/
+Design and Analysis of Digital Circuits
+This course focuses on fundamentals in the analysis and design of digital circuits. Boolean algebra, gate-logic, combinational and sequential gates, and related logic networks, such as encoders, multiplexers, registers, counters, timers, and comparators, are introduced. Synchronous and asynchronous circuits are studied. Open-collector, tri-state, and programmable logic devices are introduced. Popular logic families and interfacing issues between digital and analog systems are studied
+/
+Discrete Mathematics
+A course in discrete mathematics emphasizing the finite and combinatorial aspect of many mathematical structures and problems. It includes applications to computer science and probability.
+/
+Lab Science
+Lab Science
+/
+Rhetorical Communication
+This course provides students with the knowledge and skills necessary for successful, goal-driven written, oral, and visual communication in academic and professional contexts.  All subjects and professional fields require effective (i.e., rhetorical) communication directed at well-defined audiences to explain information and to offer a compelling rationale, and this course illustrates the process-oriented approach needed to achieve rhetorical objectives.  Rhetorical Communication also introduces students to the knowledge-producing and critical thinking potential of language, the impact of technology on language and information, and the nature of communication as ethical action. 
+/
+Fundamentals of Computer Science II
+This course introduces advanced object-oriented constructs such as abstraction, virtual methods, and generic classes. Advanced data structures including arrays, linked lists, queues, stacks, trees, heaps, and hash tables will be discussed both natively as well as through standard template libraries. Fundamental sorting and searching algorithms will be introduced. Basic analytical and proof techniques will be used to characterize the data structures and algorithms discussed. The course will focus on implementing applications from computer science and engineering using languages such as C++/C#/Java
+/
+Calculus II
+Topics in this second course in calculus include the definition and theory of the definite integral; numerical integration; integral applications; the calculus of logarithms, exponential, inverse, and hyperbolic functions; techniques of integration; and applications of the integral to physics and engineering.
+/
+Computer Science Career Training Preparation
+This one-credit-hour seminar prepares students for their internship experience.  In this course students will learn to search for employment opportunities using web resources and presentations by potential internship employers, and prepare effective cover letters and resumes.  Interview skills will be developed through various activities which may include mock interviews, discussions with current CS students that have completed internships and York College alumni, and human resource manager guest speakers.  Students will also be exposed to ethical issues related to the computing profession through discussion of case studies, role playing, and presentations by professionals in the industry.
+/
+Software Engineering and Design
+This course describes the software development process in detail, including the software life cycle and models of software development; requirements analysis and software design techniques, including structured analysis and object-oriented approaches; techniques for software quality assurance, including design reviews, testing, metrics, and an introduction to program verification; and software project planning, organization, and management.
+/
+Fundamentals of Computer Engineering
+design, integrated circuits, register transfer description, basic computer organization and machine-level programming. The relationship between software and hardware is stressed. Topics include fundamentals of computer architecture, computer arithmetic and digital logic, memory system organization and architecture, interfacing and communication, device subsystems, machine level representation of data, assembly level machine organization, functional organization, multiprocessing, and alternative architectures. 
+/
+Technical and Scientific Communication
+This course offers students expertise in applying rhetorical techniques and problem-solving skills to the types of communication associated with technical and scientific (including medical) settings.  Using cases and scenarios in some instances, students will create written documents (such as proposals, research reports, usability analysis, and process descriptions) in both print and online environments and will learn about effective document design, use of visuals, and oral presentation in technical and scientific contexts. 
+/
+Linear Algebra I
+An introductory course in linear equations, determinants, vectors in the plane and in space, vector spaces, linear transformations, and eigenvalues. Designed as a serious mathematics course for students in the physical sciences, mathematics education, business, or the mathematically curious
+/
+Calculus III
+In this third course in calculus, students study infinite series, conic sections, vectors, and the calculus of three-dimensional space, polar coordinates, partial derivatives, and multiple integrals with applications to physics and engineering. 
+/
+Differential Equations
+The course in differential equations covers the standard methods of solving ordinary differential equations and their applications to physics and electrical and mechanical engineering. Topics include methods for first solving order differential equations; second and higher-order equations; numerical methods for non-linear differential equations; and series solutions. 
+/
+Network Applications and Protocols
+The course covers computer networks from the application layer down to the physical layer, with emphasis on the application, transport, and network layers.  Topics will include network applications and protocols, layered services, reliable transport, routing, link layer protocols, and network security.  Lab exercises and programming assignments will provide hands-on experience developing network applications and protocols. 
+/
+Programming Language Design
+This course examines the semantics of programming languages. Topics include formal specifications of syntax, declarations, binding, allocation, data structures, data types, control structures, control and data flow; the implementation and execution of programs; and functional programming versus imperative programming. This course will include substantial treatment of formal languages, automata, and theory of computation.  Other possible topics include nonprocedural and logic programming; object-oriented programming; and program verification
+/
+Data Structures
+This course is an in-depth examination of important data structures, their algorithms, and implementation techniques. Both abstract and concrete data structures are discussed including sequences, stacks, queues, maps, sets, graphs, array lists, linked lists, skip lists, search trees, heaps, and hash tables. Students will implement and apply the data structures through a series of programming assignments
+/
+Numerical Analysis
+This is an advanced mathematics course covering selected topics in the field of applied mathematics. These topics will include Taylor series expansions and approximations, numerical integration and differentiation, solution of systems of equations, and numerical solution of ordinary and partial differential equations representing dynamics of physical systems. Solutions to the differential equations may be applied to mathematical modeling of vibrations, fluid flow, heat transfer, or other dynamical phenomena.
+/
+Analysis of Algorithms
+This course studies fundamental algorithms, strategies for designing algorithms and mathematical tools for analyzing algorithms. Fundamental algorithms studied in this course include graph algorithms; algorithms for sorting and searching; hashing; integer arithmetic; and selected combinatorial tasks. Mathematical tools include asymptotic notations and methods for solving recurrences. Algorithm design strategies include the greedy method, divide-and-conquer, dynamic programming, and randomization
+/
+Probability and Statistics
+A calculus-based course in probability and statistics that will involve probability and a study of the distributions and expected values of continuous and discrete random variables.  Suitable for business, computer science, engineering, math, and mathematics education majors that have such a course as one of their electives or requirements.
+/
+Operating Systems
+This course provides an introduction to the fundamentals of operating systems. Topics include inter-process communication, process scheduling, deadlock, memory management, virtual memory, file systems, and distributed systems. Formal principles are illustrated with examples and case studies of one or more contemporary operating systems. Also, students will study a widely used operating system such as Windows or UNIX with an emphasis on system programming for the operating system. Topics include kernel design, the I/O system, scheduling algorithms, process control, inter-process communication, system calls, and memory management. 
+/
+Senior Software Project I
+Student teams will complete a substantial project provided by sponsors drawn from both industry and research organizations. These projects will be developed under the direction of the course instructor and members of the sponsoring organization
+/
+Computer Science Internship I
+In the internship the student carries out a planned and supervised work experience in the field of computer science at a selected cooperating firm. The student may undergo supplementary training provided by the firm. The student will be required to submit a final report of the internship experience and will be subject to a final performance appraisal by his/her employer.
+/
+Social and Professional Issues in Computing
+This course studies the social impact, implications and effects of computers, and the responsibilities of computer professionals in directing the emerging technology. Specific topics include an overview of the history of computing, computer applications and their impact, the computing profession, the legal and ethical responsibilities of professionals, and careers in computing
+/
+Computer Graphics Programming I
+This course introduces the fundamental concepts in computer graphics programming. Topics include color models, basic coordinate transformations and clipping, raster and vector models, basic rendering techniques., lighting, and texture mapping. Additionally programmable shaders will be introduced through current graphics API shader languages. Students will demonstrate these topics through projects using a standard graphics API as the programming platform.
+/
+Parallel and Distributed Computing
+This course explores the theory and practice of designing and implementing programs to run on multiple processors in parallel. A number of programming projects using C/C++ with the pthreads and MPI libraries will provide an opportunity to implement and benchmark parallel programs. Additional topics may include OpenMP, fork/join frameworks, Java threads, lock-free and optimistic concurrency, distributed object frameworks, and general network communication using sockets
+/
+Introduction to Film
+This course is an introduction to film as a communicative and artistic medium, with attention to its technological, industrial, social, and aesthetic dimensions. Students will view a wide range of films, including early as well as recent American and foreign films, and learn about the various techniques used to express meaning in cinema, as well as the major critical approaches that can be used to make sense of films.
+/

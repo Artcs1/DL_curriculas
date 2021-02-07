@@ -1,0 +1,82 @@
+English Composition
+English Composition
+/
+Oral Communication
+Oral Communication
+/
+Technical Writing
+Technical Writing
+/
+Discrete Math
+Discrete Math
+/
+Calculus 
+Calculus
+/
+Calculus IV
+Calculus IV
+/
+Differential Equations
+Differential Equations
+/
+Probability and Statistics
+Probability and Statistics
+/
+Introduction to CSE
+Introduction to CSE
+/
+Introduction to Computer Programming
+Introduction to Computer Programming
+/
+Intermediate Computer Programming
+Intermediate Computer Programming
+/
+Data Structures and Analysis of Algorithms
+Data Structures and Analysis of Algorithms
+/
+Distributed Client Server Programming
+Distributed Client Server Programming
+/
+Digital Devices
+Digital Devices
+/
+Microprocessors I
+Microprocessors I
+/
+Data Communications
+Data Communications
+/
+Database Management Systems
+Database Management Systems
+/
+Operating Systems
+Operating Systems
+/
+Introduction to Analysis of Algorithms
+Introduction to Analysis of Algorithms
+/
+Software Engineering
+Software Engineering
+/
+Social and Ethical Issues
+Social and Ethical Issues
+/
+Introduction to Software Engineering
+Introduction to Software Engineering
+/
+Software Architecture and Design Paradigms
+Software Architecture and Design Paradigms
+/
+Security Elective
+Security Elective
+/
+Software Testing & Quality Assurance
+Software Testing & Quality Assurance
+/
+Project Management
+Project Management
+/
+Software Engineering Senior Project I & II
+Software Engineering Senior Project I & II
+/
+

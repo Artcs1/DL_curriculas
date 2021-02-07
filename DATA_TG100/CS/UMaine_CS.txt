@@ -1,0 +1,82 @@
+/
+Intro to Problem Solving using Computer Programming
+An introduction to computer science through problem solving and computer programming. Topics include variable and operators, control logic, functions, strings, loops, input/output, and recursion.  Programming concepts covered by this course include modularity, abstraction, top-down design, specifications, documentation, debugging, and testing.
+/
+Foundations of Computer Science
+A rigorous, non-programming introduction to the field of computer science.  Several core areas of computer science are introduced, including digital logic, computer organization and architecture, operating systems, programming languages, and computer networks.  For each, particular solutions to fundamental problems in the area are studied in depth to expose the student to what the field is actually about how computer scientists think. 
+/
+Calculus I
+An introduction to calculus for students in mathematics, engineering, and the sciences. Covers the differential calculus of the algebraic, trigonometric, exponential and logarithmic functions, concluding with the definite integral and the fundamental theorem of calculus. The approach is intuitive and geometric, with emphasis on understanding the basic concepts of function, limit, derivative and integral.
+/
+College Composition
+Students practice the ways in which writing serves to expand, clarify, and order experience and knowledge, with particular attention to persuasive writing. Satisfactory completion of the course depends upon quality of weekly writing assignments as well as demonstration of proficiency in college-level writing.
+/
+Applied C Programming
+Studies the C programming language, introduces concepts in computer hardware and operating systems to support discussion of how a computer program is represented from the machine layer to the application layer.
+/
+Object Oriented Design & DataStructures
+Introduces the student to the fundamental principles of object-oriented design and programming using a high-level object-oriented language. Focuses on the specification, design, and implementation of classes and the interactions between classes, inheritance, abstract classes, and polymorphism. Introduces fundamental data structures including stacks, queues, lists, and binary trees.
+/
+Calculus II
+Completes the study of single-variable calculus. Topics covered include inverse trigonometric functions, hyperbolic functions, methods of integration, improper integrals, indeterminate forms, parametric equations, polar coordinates and infinite series.
+/
+Intro to Data Structures
+Introduces the student to the fundamental principles of data structure usage, specification, and implementation using a high-level, object-oriented language. Driven by the use of object-oriented techniques for program specification and modeling. Focuses on how data structure implementation choices affect and are affected by application needs.
+/
+Discrete Structures	
+Introduction to discrete structures used in various areas of computer science. Topics include logic, sets, relations, functions, cardinality, enumeration, and computability.
+/
+Computer Architecture
+Examines the architecture and organization of the computer including digital logic, the CPU, busses, internal and external memory, computer number representation and computer instructions. Particular attention is paid to assembly and C languages as a mechanism for better understanding the architecture.
+/
+Data Structures and Algorithms
+Introduction to abstract data types as a unifying concept in the study of data structures. Topics include lists, queues, multi-linked lists, priority queues, trees, and graphs. The impact of these structures on algorithm design is explored. 
+/
+Programming Languages
+Introduction to the fundamental concepts of programming languages.  Topics include the evolution and characteristics of the major programming languages, syntax and semantics, lexical and syntactic analysis, scope and binding, data types, control structures, subprograms and their implementation, abstract data types, and object-oriented programming.
+/
+Operating Systems
+Study of the structure of current computer operating systems. Topics include I/O management, memory management, multiprogramming, linking loaders, real and virtual systems, batch and time sharing.
+/
+Intro to Software Engineering
+A broad view of software engineering which introduces a variety of software engineering techniques which can be applied to practical software projects. Topics include process models, human factors, software specification; software design, programming techniques and tools, and validation.
+/
+Intro to Cybersecurity
+An overview of Cybersecurity as information security, policies, guidelines, and legal issues; the nature of network and computer attacks, system vulnerabilities and defense; implementation issues in Unix/Linux.  Projects include system setup, attack, and defense.
+/
+CS Capstone 1
+The first of a two-course sequence, designed to guide students in proposing the Capstone project in either an independent study, group project, or field experience format.  The focus is on the early stages of project work, including finding a suitable topic and project advisor, investigating related work, and writing a thorough project proposal.  
+/
+Computer, Ethics and Society	
+Consideration of human and social consequences of technological development and application of computers, ethical questions of computer use, professional ethics.
+/
+CS Capstone 2
+The second of a two-course sequence, designed to guide students in completing the Capstone project in either an independent study, group project, or field experience format.  The focus is on the later stages of project work, including completing the programming tasks, evaluating the implemented systems, documenting all work in a project report, demonstrating the work in action, and making a public oral presentation.  The relevant skills are covered and practiced by studying a collection of classic and topical papers.
+/
+Automata, Computability and Languges
+Fundamentals of formal languages and the mathematical theory of computation; finitestate automata, nondeterminism, regular expressions, and Kleene’s Theorem; context-free grammars, pushdown automata, the correspondence theorem and the pumping lemma; computability, Turning machines, and the halting problem.
+/
+Introduction to Problem Solving Using Computer Programming
+An introduction to computer science through problem solving and computer programming. Topics include variable and operators, control logic, functions, strings, loops, input/output, and recursion.  Programming concepts covered by this course include modularity, abstraction, top-down design, specifications, documentation, debugging, and testing.
+/
+Foundations of Computer Science
+A rigorous, non-programming introduction to the field of computer science.  Several core areas of computer science are introduced, including digital logic, computer organization and architecture, operating systems, programming languages, and computer networks.  For each, particular solutions to fundamental problems in the area are studied in depth to expose the student to what the field is actually about how computer scientists think.  
+/
+Object-Oriented Design and Data Structures
+Introduces the student to the fundamental principles of object-oriented design and programming using a high-level object-oriented language. Focuses on the specification, design, and implementation of classes and the interactions between classes, inheritance, abstract classes, and polymorphism. Introduces fundamental data structures including stacks, queues, lists, and binary trees.
+/
+Introduction to Data Structures
+Introduces the student to the fundamental principles of data structure usage, specification, and implementation using a high-level, object-oriented language. Driven by the use of object-oriented techniques for program specification and modeling.
+/
+Foundations of Computer Science 
+A rigorous, non-programming introduction to the field of computer science.  Several core areas of computer science are introduced, including digital logic, computer organization and architecture, operating systems, programming languages, and computer networks.  For each, particular solutions to fundamental problems in the area are studied in depth to expose the student to what the field is actually about how computer scientists think.
+/
+Introduction to C++ Programming 
+Topics include programming techniques with a brief introduction to hardware concepts as they apply to software development. Students are assigned programs emphasizing numerical algorithms for implementation in the C++ language. Assumes knowledge of the Windows operating system, basic word processing, and file and folder management.
+/
+General Chemistry I
+Topics include matter, chemical reactions, stoichiometry, thermochemistry, quantum theory, atomic structure, electronic configurations, periodic properties of elements, bonding theories, and molecular geometries. 
+/
+Introduction to Geology
+A study of earth materials and processes, including their impact on humans.  Topics include mineralogy, formation of igneous, metamorphic and sedimentary rocks, geologic time, weathering and soil formation, glaciation, deserts and desertification, coastlines, earthquakes and seismology, and evolution of mountain belts and plate tectonics.  
+/

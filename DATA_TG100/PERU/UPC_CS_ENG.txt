@@ -1,0 +1,263 @@
+ACADEMIC WRITING
+The Academic Writing course is optional and belongs to the second language line in the Translation and Interpreting career, it is theoretical-practical, it is aimed at students who have an intermediate level of English (B1) according to the Common European Framework of Reference for Languages And seeks to develop the general competence of written communication.
+Immersed in the information age, effective communication is essential to promote understanding and peaceful coexistence in a globalized world. Today, we are witnessing how written communication goes beyond the limits of space and time and the positive and / or negative impact it has on society and on people's reputation. Therefore, it is essential to develop the competence of written communication, since writing correctly guarantees a good academic and professional performance.
+and increases the chances of employability and professional development within an organization. Be a tool that facilitates communication between its members. The course is designed
+so that the student gradually acquires the skills of written expression
+beginning with the stylistic analysis of authentic texts written in English and then continuing with the organization and writing of paragraphs and finally ending with the elaboration of several
+types of academic essays in English. To take the Academic Writing course, the student must have completed the English 5 course, this being the prerequisite.
+/ 
+INFORMATION ADMINISTRATION
+The Information Management specialization course of the Computer Science degree is theoretical and practical and is aimed at students in the fifth cycle. The course seeks to develop general oral communication competence and specific competence.
+apply the design and development of principles in the construction of software systems of varied complexity according to ABET-Student Result (K). The course offers the possibility of learning good data management practices with emphasis on the handling of high-dimensional, multimodal and time-varying data manipulation, such as image collections, document collections, music collections, social networks and multidimensional data sets in general. The course deals with the process of data acquisition, preprocessing, transformation, analysis, visualization and knowledge generation that is very useful in the management of information in organizations. Oral communication Ability to transmit oral messages effectively to various audiences, using different resources that facilitate the understanding of the message and the achievement of the purpose.
+/ 
+ADVERTISING MANAGEMENT
+The Advertising Management course of the Strategic Marketing mention focuses on the strategic management of offline and online advertising to strengthen the positioning of brands, products and services in order to attract and retain the consumer in the search for generate Branding and business results that maximize revenue for companies. . Today, with the development of the Internet, 360 ° marketing campaigns imply an understanding of the multichannel integration of media and consumer contact points to develop advertising strategies that generate commitment and reach audiences to ensure results. Business commercials.
+/ 
+LINEAR ALGEBRA
+This is a compulsory theoretical course that belongs to the fourth cycle of the curriculum of the students of Computer Science. In the ABET accreditation design,
+It is considered as a training course, with it it seeks to develop the quantitative reasoning of the student by modeling problems to obtain conclusions and build
+arguments based on valid results. In this subject the concepts will be developed in a simple way and the problems can be solved by two or three methods of analysis so that the student develops the ability to use mathematics as an engineering language and serve as a tool to solve
+problems through the most direct and effective method. The purpose of this course is to ensure that in learning the topics of Linear Algebra, the student begins to realize the relevance of abstract ideas and, therefore, feels motivated in the application of these ideas in computing.
+/
+ALGORITHMS AND DATA STRUCTURES
+The specialty course of Algorithms and Data Structures, of the Computer Science (CC) and Software Engineering (ISW) careers, is theoretical-practical and is aimed at
+Third cycle students for both careers. The course seeks to develop the general competence of innovative thinking and the specific competence of design of processes and systems
+according to the ABET-Student Outcome (C). The main tools used today to solve problems of information processing and analysis in the industry are nothing more than the combination of many algorithms and data structures; know the design and operation of these structures of
+Data helps us to develop and refine essential skills such as the ability to make decisions based on quantitative data of the built components.
+/
+ENVIRONMENTAL ANALYSIS
+Environmental analysis is a semi-classroom course (blended), with a perspective that starts from the geographic sciences and from the Humanities approach. It takes into account the global and national context with the intention that the student reflects on the various ways in which human societies establish their relationship between them and the environment of which they are part.
+/
+OPEN SOURCE APPLICATIONS
+The Open Source Applications course in the Software Engineering degree is theoretical-practical for students in the 5th cycle who seek to develop the competence to use techniques, tools and methodologies necessary for engineering practice. It is important in the development of career projects as well as in professional life because it covers the implementation of web applications using Java EE and Spring Framework.
+/
+COMPUTER ARCHITECTURE AND OPERATING SYSTEMS
+The course performs an exploration from digital mathematics and digital circuits to the main components of a computer's architecture such as processor (CPU), memory,
+buses, GPU, inputs and outputs (I / O). At the same time the operation of the operating system and its integration with real memory, virtual memory, processes, file systems, is established.
+among others. As well as the various mathematical algorithms with which these components of both hardware and software work, are analyzed and applied. Due to the inclusion of emerging technologies, the course allows for an update highlighting the generational change towards mobile devices, server infrastructure and enterprise storage, ARM architecture (tablets and cell phones), Cloud Computing, among
+others; covering in this way the post-personal computer (PC) era, moving towards mobile cloud computing.
+In such a way that the student is provided with the updated knowledge and experiences of logical mathematics, algorithms, hardware and operating system, which are useful for determining
+IT capabilities in large-scale projects, allowing you to simplify the management of information within companies.
+/
+BUSINESS MARKETING STRATEGY
+The design of marketing strategies is the most important aspect in business performance in any organization. The income of the companies depends fundamentally on the strategic planning developed in the marketing area. These commercial strategies should complement the long-term objectives of the company. For this, it is necessary to identify and prioritize the potential sustained growth and profitability in the organization.
+The purpose of this course is to develop the skill and experience in the formulation and planning of marketing strategies in the current era. This course deepens strategic decision making in companies at senior management level. In particular, the course brings together and develops the Strategic Reasoning at Level 3 and Strategic Planning at Level 3 competition, as well as new market concepts in the digital era. The course emphasizes how to design and implement marketing strategies: how to put the basic elements into practice and strategically. The course has a practical perspective, is developed as a workshop and is oriented to the application of the strategies through the cases of
+Harvard Business Publishing for the purposes of decision making dynamics.
+/
+CALCULUS I
+Calculus I is a general course for all engineering careers; of a theoretical nature and is dictated in the blended mode, it is aimed at second-cycle students, provides the student with mathematical support for the following subjects specific to each specialty, for this reason the concepts of each topic are defined in a simple way, relating them with problems
+Engineering related. In this course the student will develop the general competence of quantitative reasoning, at level 1, through the dimensions of: interpretation, representation, calculation, analysis and communication or argumentation in simple problems of engineering contexts.
+/
+CALCULus II
+This is a general course for Industrial, Civil, Information System and Management Engineering; theoretical and practical and is dictated in the blended mode, it is directed
+to students from third cycle to fifth cycle depending on the career; With it, we seek to develop the concepts of multivariate calculation in a simple way, the topics are presented with geometric, numerical and algebraic approaches, emphasizing the understanding of the concepts and relating them to engineering related problems. Through the dimensions, the student acquires the ability to interpret alphanumeric data and sometimes represents them graphically, performs mathematical operations showing precision in the developments, uses them as arguments to support an idea or project, modeling context problems real and that can be solved by two or three methods of analysis, so that the student develops the ability to use mathematics as the language of engineering and serve as a tool to solve problems through the most direct and effective method, to draw conclusions and build arguments based on valid results by emphasizing verbalization and descriptive issues in real context. Visualization, numerical and graphic experimentation and other approaches have modified the way in which conceptual reasoning is learned.
+/
+COACHING AND CONFLICT RESOLUTION
+Coaching and Conflict Resolution is an elective course aimed at students from seventh to tenth cycle of all careers.
+Coaching is a learning process that allows the individual to develop their personal potential, look at themselves, develop conversational and interaction skills, as well as
+Improve the effectiveness of your actions and results.
+The conflict is inherent to the human being, is present throughout his life and is manifested through attitudes and procedures of each person. There are conflicts that improve relationships and also affect them without building elements
+of growth and development within the groups, despite this it is important to address them and transform them to achieve the best solution and grow as people.
+This course promotes a space in which students review their relationship and achieve proposed objectives, managing a map of possibilities and alternatives that
+allow to face situations of difficulty or conflict. Coaching and Conflict Resolution is a course that has been designed with the aim of strengthening the personal and professional profile of students, for this they will learn and implement, the
+basic principles, tools and techniques of coaching that favor respectful interpersonal relationships in heterogeneous social contexts, taking care of the consequences of their actions.
+/
+ALGORITHMIC COMPLEXITY
+The Algorithmic Complexity specialty course, of the Computer Science (CC) and Software Engineering (ISW) careers, is theoretical-practical and is aimed at students
+fourth cycle for CC and sixth cycle for ISW. The course seeks to develop the general competence of Quantitative Reasoning and the specific competence of using techniques and tools
+according to the ABET - Student Outcome (I) for CC, and the specific competence of using modern engineering tools according to the ABET - Student Outcome (K) for ISW.
+The course addresses the mathematical basis for analyzing algorithms. It is intended that the student be able to identify the classes of existing algorithmic problems and address the
+Solution calculation with reasonable use of resources. This is very useful to solve problems of high levels of complexity that will be presented in his career projects and in his professional life.
+/
+UNDERSTANDING AND PRODUCTION OF LANGUAGE I
+It is a first cycle course, which seeks to develop the skills related to reading comprehension and the writing of formal written texts appropriate to a specific communicative situation. Therefore, during the course, the activities will require the student to reflect if they communicate properly according to the communicative situation they are in: the student will not use the language in the same way to communicate with their friends, by writing an email to a teacher or submit a claim request to a private institution. In that sense, this course proposes the writing of formal written texts according to the communicative needs of the current university environment. These products must present a convenient organization, a solid and sufficient development (which implies a critical reading of the sources of information), and a writing in accordance with current regulations.
+/
+UNDERSTANDING AND PRODUCTION OF LANGUAGE II
+It is a course in which the student develops his abilities to read information critically and write argumentative texts for a formal academic context. To do this, he reviews and applies rhetorical strategies that will allow him to sustain his position on a subject in a solid and convincing way. This course has as a requisite Comprehension and Production of Language 1. Develop, following the educational policy proposed by the UPC in SICA, the written communication competence and the reading comprehension competence at the level of achievement 2. Similarly, the Thought competition works critical at level 1. The purpose is that the student can produce coherent and sustained academic arguments, based on a critical evaluation of the
+information. The development of this capacity will imply that the student critically examines the fundamentals and positions of various authors. These skills will allow you to justify your own views in the other courses of your careers. In addition, in the world of work, it will allow you to sustain your proposals and projects efficiently.
+/
+COMPUTER GRAPHICS
+The Graphic Computing specialty course, of the Computer Science degree, is theoretical-practical and is aimed at students in the fifth cycle. The course seeks to develop the general competence of Quantitative Reasoning and the specific competence of lifelong learning needs.
+In this millennium we need professionals who are capable of creating interactive graphic solutions that range from creative ways of presenting information to make decisions.
+until the development of techniques and methods that allow the creation of entertainment and computer animation products. For this purpose, concepts of geometric transformations, representation and modeling of solids, shading models,
+rendering, lighting and animation.
+/
+ACCOUNTING AND BUDGETS
+Specialized course in engineering, theoretical and practical, aimed at students from the third cycle, which seeks to develop the general competence of quantitative reasoning. The accounting and budgeting course will provide the student with the concepts of accounting information and how it is used is in decision making by managers.
+At the beginning of the course, the accounting information to be studied will refer to the financial statements and the analysis of these for the management decisions, the development of the concepts of costs will continue and the analysis of the master budget will be finalized.
+/
+DATA MINING
+The Data Mining specialty course, of the Computer Science degree, is theoretical-practical and is aimed at students in the eighth cycle. The course seeks to develop the general competence of Innovative Thinking and the specific competence of using appropriate techniques and tools. The course presents concepts, techniques and tools for data analysis and knowledge discovery through data mining techniques, exploring in depth the aspects associated with this area. This area is transversal to other areas such as marketing, retails, social networks among others, allowing data to be exploited to establish new strategies based on the new knowledge discovered, something that is very important today in companies.
+/
+GAME DEVELOPMENT 1
+This course addresses the basis of the development of software architecture for video games. The objective will be to implement a video game engine with the most fundamental subsystems
+/
+GAME DEVELOPMENT FOR MOBILE DEVICES
+This course allows the student to understand the development of games on emerging platforms such as Smart TVs and mobile devices.
+/
+ENTERTAINMENT SOFTWARE DEVELOPMENT
+The Practical Entertainment Software Development course, seeks to develop video games or other entertainment software with the use of modern and high-quality tools
+labor demand. Throughout the course, all the main systems and sub-systems that make up a game engine from the commercial point of view will be covered to adopt it on the
+Production process of a video game.
+/
+WEB DEVELOPMENT
+The Web Development specialty course, of the Computer Science degree, is theoretical-practical and is aimed at students in the fifth cycle. The course provides the ability to design, implement and provide Web solutions with
+security components using the main technologies and programming languages, solving a specific problem and this goes hand in hand with business solutions
+that are needed today.
+/
+DESIGN THINKING
+It is a specialty course of the career, theoretical-practical character aimed at students of the seventh cycle. It aims to strengthen creativity and innovation skills
+for the generation of people-centered ideas and disruptive projects, taking a deep dive into the methodology of design thinking (Design Thinking) and staging real challenges (development of creativity projects that result in a business idea ).
+/
+DATABASE DESIGN
+The specialization course in Database Design, Computer Science (CC), Software Engineering (ISW) and Information Systems Engineering (ISI), is theoretical-practical and is aimed at Fourth cycle students for the three careers. The knowledge acquired throughout the course is very important in the professional development of the student since the information management in database is one of the pillars in the formation, development and growth of any Company in the market. In this way, they can participate in the development and implementation of the most important asset of a company such as its Database.
+/
+DESIGN OF EXPERIMENTS IN SOFTWARE ENGINEERING
+The importance of the course is due to the fact that it focuses on analyzing, designing and choosing the appropriate tools and techniques to execute those tests with which it is most likely to discover not
+conformities in the entertainment software product. Free and proprietary tools are used for the administration of test projects, test plans, test cases, visualization of results and reports, defect management and test automation, and the necessary test processes are configured to guarantee and control quality of the software This is necessary in the professional environment to offer quality software
+/
+GAME DESIGN
+In the course, various strategies to design videogames and make prototypes will be dealt with quickly, so that the student is able to perform game mechanics that meet the objectives of the game and optimize the production time of a videogame through the prototyping learning This is useful for both career projects and professional performance in the world of video games.
+/
+ENGLISH COMPOSITION 1
+Being immersed in a globalized world, international education is the new educational paradigm of the 21st century. The student exchange is the fundamental piece that sustains the contact and enrichment between different countries and cultures through international students. Therefore, it is essential to provide these students with the necessary tools to embark on an experience of student exchange in the best conditions. This course is designed for the student to gradually acquire the skills of analytical writing that he will have to use during his academic stay at any English-speaking university abroad. Recognizing, understanding, designing and writing different types of analytical writing is essential to successfully complete the academic tasks requested by the host institution. In order to enroll in this course, students must
+have successfully passed the Academic Writing course.
+/
+SPECIFICATION AND ANALYSIS OF REQUIREMENTS
+Today it is important to propose creative and innovative solutions to various problems that meet specific needs, this is largely obtained by conducting an analysis and
+systematization of the requirements. Within the software development process, you must start with the collection of user needs, as well as a diagnosis of the situation
+Current business. This leads us to be able to describe prototypes or software models, project a specific product and analyze risks before developing it, optimizing resources and time.
+/
+APPLIED STATISTICS I
+ The course is oriented to decision making about
+the basis of descriptive statistics, probabilities and interval estimation. For this, the student must take into account relevant information that helps to draw conclusions and decision making. The course considers the use of scientific calculators, the Excel spreadsheet or other statistical packages as a support tool for data processing. The course of applied statistics 1 is intended to provide the future engineering professional
+a set of qualitative and quantitative information analysis tools for decision making in real career situations. The course contributes directly to developing general skills of quantitative reasoning at a level 1.
+/
+NEGOTIATING STRATEGIES
+Negotiation is a tool that is important to know and develop because the conflict is present in the different instances of relations with customers, suppliers, partners, interest groups among others. The course has been designed to favor the learning of negotiation techniques and strategies both through theoretical and practical classes that
+they develop cases of different conflict situations in which the knowledge provided in the theoretical classes will be applied. This dynamic will allow students to develop their analytical and communication skills in situations of conflict.
+/
+FUNDAMENTALS OF GAME THEORY
+This course the student implements a subsystem within the framework of the video game engine architecture. By understanding the architecture of video game engines, students recognize
+the importance of implementing aspects of a video game such as rendering, input, animations, audio, among others. And by recognizing the importance of its implementation, they may seek to achieve better results in game development compared to games developed from previously existing engines.
+/
+FUNDAMENTALS IN BUSINESS INTELLIGENCE
+At present, companies, and organizations in general, produce high volumes of information as a result of their processes, which is not always properly utilized.
+to support the decision making process. This course will focus on the identification of information exploitation opportunities based on datawarehouse solutions, and
+data visualization tools, promoting with them, the development of knowledge and the achievement of competitive advantages in organizations.
+/
+SOFTWARE PROJECT MANAGEMENT
+The student is trained to define and plan a software project according to the requirements of the product and established restrictions, control its execution and perform the closing
+successful achieving the goals set. This knowledge acquired in the course serves for the last cycle workshops as well as for their professional performance.
+/
+/
+SOFTWARE ENGINEERING
+Currently, it is necessary to know about software development processes. To reach this end, students need to understand the different models and processes of software development so that they can choose the most appropriate model for each development project. Also, the development of complex software involves the use of patterns and component-based design, something that will be very necessary in projects that are part of your professional work.
+/
+ARTIFICIAL INTELLIGENCE
+Artificial Intelligence is the area of Computer Science that is concerned with automating intelligent behavior. Research in the area has dealt with tasks that range from sensory interactions with the world (vision, dialogue, movement) to cognitive (analysis, problem solving, games). AI helps people in different areas of knowledge to better use information and work smarter.
+/
+MACHINE LEARNING
+At present, many organizations have large amounts of information in digital format. Obtaining patterns from this data is a fairly complex task for the human being. Machine Learning algorithms are important because they allow them to be obtained automatically. The course is designed to study the algorithms and theory of the Machine Learning area. This includes techniques to develop algorithms that can learn or improve their performance, using examples of previously observed situations.
+/
+BASIC MATHEMATICS
+This is a general course that corresponds to the line of mathematics for engineering careers, is theoretical-practical and is taught in the blended modality; It is directed
+to first cycle students; provides mathematical support to the student for the following subjects specific to each specialty, for this reason the concepts of each subject are
+they define in a simple way, relating them to problems related to engineering.
+In this course the student will develop the general competence of quantitative reasoning, at level 1, through the dimensions of: interpretation, representation, calculation, analysis and communication or argumentation in simple problems of real context. At the end of the course the student will be able to work with alphanumeric data, represented in different ways (tables, graphs, etc.) and use them as arguments to support an idea or make decisions based on this information.
+/
+COMPUTATIONAL MATHEMATICS
+This course in Computational Mathematics is a theoretical course of a general nature, taught by the area of Science, for students in the third cycle of the Computer Science degree, and
+Fourth cycle of Information Systems Engineering and Software Engineering. This course seeks to develop the following competence: Quantitative reasoning: Provides the ability to work with alphanumeric data and the
+sometimes represented in graphic form. Apply them as arguments to support an idea or project. Performs mathematical operations showing, in most cases, precision in the developments modeling everyday problems to obtain conclusions and construct arguments based on valid results. They have the ability to apply concepts and techniques of mathematics, science and engineering obtaining results that
+solve problems of greater complexity, related to development, process improvement, and other aspects of the engineering field. Future engineers have to exercise their activity in the real world, so the course is intended to provide cognitive skills that allow you to know the basis of the
+different processes to solve computational problems related to their careers and relate the language of engineering with that of mathematics. In this subject the concepts are developed in a simple way and the proposed problems can be solved by more than one method supporting their application.
+/
+/
+NEW MEDIA AND NEW TRENDS
+The New Media and New Trends course seeks to bring students closer to the changing reality of communication. For this we will take a tour of the new media that emerged after the emergence of the Internet such as social networks, blogs, wikis, among others. On the other hand, we will analyze the technological trends that will shape our future such as artificial intelligence, big data, cryptocurrencies, virtual reality, augmented reality, collaborative economics, among others, and how they affect audiovisual creators. The New Media and New Trends course is a third cycle course of a theoretical nature
+practical and has been designed with the purpose of allowing the future communicator to develop the essential digital skills to develop in their environment. The course contributes directly to the development of the general competencies of Oral Communication, Quantitative Reasoning and Innovative Thinking and of the specific competences of Audiovisual Businesses and Companies and Analysis and understanding of reality.
+/
+ORGANIZATION AND MANAGEMENT OF COMPANIES
+The course aims to familiarize students with the business environment, their management and their planning, their market positioning through marketing,
+the operation of the organization through its operations, the importance of human resources in any organization, the use of technologies and the control and monitoring of operations within an organization. Likewise, students participate in an Entrepreneurship workshop in order to learn how to generate business ideas. In addition the product that
+generate in this workshop will serve as a starting point for the final work which will consist of presenting an implementation plan in the market of the chosen product.
+/
+BASIC PORTUGUESE
+Currently, one of the competencies required of professionals is the command of foreign languages to facilitate communication in an increasingly globalized world. Portuguese
+It represents an option against the possibilities of cultural and commercial exchange of a language of 220 million speakers, which makes this language the third most spoken in the world
+Western, second only to English and Spanish. Also, considering the strengthening of bilateral relations between Brazil and Peru, learning Portuguese offers interesting
+opportunities for professional development. This course is designed for the student to develop the four basic skills required in this language: oral comprehension, reading comprehension, oral expression and text production, at level A1 according to the Common European Framework of Reference for languages so that they can communicate in your working life
+/
+IMAGE PROCESSING
+In this course, the student will apply pixel operations and transformations, through the development of computer programs that allow the improvement, restoration, understanding and recovery of objects in a digital image. During the course, emphasis is given to the application of the concepts learned. For example, for cases of: image recovery by content (image searches), local tone mapping (quality improvements for wide-range lighting scenes [HDR]) and object segmentation into images (obtaining items that can later be processed by the area of Computational Vision).
+/
+CONCURRENT AND DISTRIBUTED PROGRAMMING
+The specialty course of Concurrent and Distributed Programming, of the degrees of Computer Science (CC) and Software Engineering (ISW), is of a theoretical theoretical nature aimed at
+ninth cycle students for CC and seventh cycle for ISW. The course seeks to develop the general competence of Information Management, the specific competence of planning and conducting experiments in accordance with the ABET-Student Outcome (B) for CC and the specific competence of solving engineering problems in accordance with the ABET-Student Outcome (E) for
+ISW At present, the growth of computing capacity is due to multicore processors, graphic processors used for general purpose or distributed computer clusters. Mastering the techniques and tools to develop applications from a high performance computing perspective, gives us a competitive advantage in the student's professional training.
+/
+PROGRAMMING I
+The specialization course in Programming I, in Computer Science (CC), Software Engineering (ISW) and Information Systems Engineering (ISI), is theoretical-practical and is aimed at students in the first cycle. The course allows the student to know the principles of structured and modular programming, write programs by doing
+use of mathematical and / or scientific knowledge, use basic data types, control structures, vectors, matrices, functions and pointers. The C ++ language is the one that will be used for coding your programs.
+/
+PROGRAMMING II
+In the course the student will learn to program, using the Object Oriented Programming paradigm. To that end, the lessons learned in the previous Programming I course are taken as the basis, in which the students learned to program in a structured way. Initially, the course will focus on the conceptualization of real problems and their respective modeling under the object-oriented programming approach, developing the different relationships between classes and their principles. Next, we will deal with the development of Visual Applications and their respective event management based on modeling. The final cycle work is aimed at concretizing their knowledge acquired during the course, through the development of a Case Study. This work is sequential and has up to 3 deliverables. The knowledge, which the student acquires in this course, constitutes the basis on which the course of Algorithms and Data Structures will be developed in the case of pursuing the careers of Computer Science (CC) or Software Engineering (ISW) or in the case of taking the course of Fundamentals of Data and Information for the career of Information Systems Engineering (ISI).
+/
+NETWORKS AND COMMUNICATIONS PROTOCOL
+The course of networks and communications protocol develops the basic concepts of communications focused on the technology used on the Internet and this in turn is necessary for today's professional because he needs to know the technology to carry out his computer projects.
+/
+INFORMATIC SECURITY
+Currently all organizations recognize the latent risk they face when they are integrated into emerging scenarios such as Outsourcing, IOT (Internet of Things), Mobile, Cloud
+Computing, among others; becoming a major concern risk mitigation and protection of computer assets. Therefore, it is important that the student master the topic of computer security to apply it in the operations and projects of the organizations in which it is developed.
+/
+ACADEMIC RESEARCH SEMINAR I
+Academic Research Seminar I is a first approach to bibliographic research and the development of academic texts. The course allows the student to define a problem of
+research and deepen the various positions around it, summarizing the academic debate held until the date of preparation of the document. This seminar is a course of
+general training aimed at students of cycles 2 and 3 of the Faculties of Communications, Economics and Engineering, and of the Gastronomy and Culinary Management and Music careers. Has as
+Prerequisite the course HU03 Comprehension and Production of Language I. Its character is theoretical-practical and contributes to the development in level 1 of two general competences of our university: Information Management and Written Communication. Therefore, it fulfills a formative and instrumental role for both university and professional life, as it lays the foundation and provides experience in activities related to academic research.
+/
+SQL SERVER
+Elective course for Software Engineering (ISW), Information Systems Engineering (ISI) and Computer Science (CC), theoretical-practical, aimed at students
+Seventh level students for (CC), ninth level for (ISI) and tenth level for (ISW), which seeks to develop the competence design systems, components or processes to find solutions in the attention of needs taking into account economic, social constraints, policies, ethics, health and safety and others typical of the business environment. According to the ABET Student Outcome (C) for (ISW). In this course the student will be able to design, implement and manage database solutions
+oriented to companies, using Microsoft SQL Server 2012 as an engine. Currently, most computer projects need a solid database knowledge.
+/
+RESEARCH AND DEVELOPMENT WORKSHOP
+Elective course for Software Engineering (ISW), Information Systems Engineering (ISI) and Computer Science (CC), theoretical-practical, aimed at students
+ninth level students for (CC), (ISI) and (ISW), seeks to develop the general competence of quantitative reasoning for (ISI) and the specific competence of teamwork according to the
+ABET Student Outcome (D) for (ISW). During the course, the teacher and the students carry out an investigation of a certain platform
+technology, software or methodology, which becomes tangible in:
+A Word file that contains the documentation found, organized and structured. One or several demonstrations.
+A software based on the subject under investigation (if applicable). A presentation of the investigation.
+Participation in the Exhibition Fair to be held in Week 10 (October 20-22) of this cycle.
+The methodology to be used for the Software Development Process will be selected by each group, and must comply with the disciplines of analysis, design, implementation, certification and
+start-up of the software to be implemented (if applicable). If necessary, adequate Project Management must be applied, using the PMBOK of the Project as a basis
+/
+PROJECT WORKSHOP I
+PROJECT WORKSHOP I
+/
+PROJECT WORKSHOP II
+PROJECT WORKSHOP II
+/
+LEARNING TECHNIQUES
+The Learning Techniques course seeks to develop and strengthen in the student skills that allow him to achieve good academic, personal and social performance. In the academic field, the course proposes a set of strategies and tools for information management and study so that the student is prepared to face various difficulties of university life, especially in relation to access and
+written information processing.
+As for the personal field, the course provides resources that promote self-development, aimed at promoting autonomous learning, understood as the strengthening of criteria
+own and responsibility for the student to carry out initiatives aimed at their well-being. In relation to the social field, the course provides elements for the development of skills that
+They facilitate the understanding of the social reality of the environment in which you live. Likewise, the course fosters peer interaction skills, aimed at the organization and participation for
+joint elaboration (in teams) of academic works.
+/
+THEMES OF HISTORY OF PERU
+History is the study of the past in order to better understand our present. Historians seek to explain historical processes from the analysis of available sources.
+The resulting interpretations are subject to constant revision as new questions are raised, new sources are discovered, or new ways of reading them are raised. This course focuses on the history of republican Peru, from the beginning of the 20th century until the first decades of the 21st century. It is considered that the discussion about these processes will give students more light to understand the nation in which they live. This is a course of General Studies of a theoretical nature, aimed at students of first cycles of the Faculties of Contemporary Arts, Human Sciences, Communications, Law, Education, Engineering and Psychology that you are looking for, from the analysis of the historical processes of Peru Republican and its relationship with the present, develop in the student the general competences of the educational model of the UPC: Critical Thinking, at level 1, and Citizenship, at level 1. The course is intended for the student to know and Understand the history of Peru, and be aware of what we have done, what we are doing and what we can do. By reviewing the main processes of contemporary Peru, the student will be able to better understand the roots of the problems of the Peruvian present and adequately raise the future possibilities contributing in this way to their general training within the professional profile.
+/
+THEORY OF THE IMAGE AND THE SOUND
+For the proper handling of the image and sound in any process
+of audiovisual communication, it is necessary to decode the visual and sound messages that we send and receive; not only in its form, but also in its content. This course is an analytical, aesthetic and creative approach to the world of audiovisual stimuli and the influences received from other artistic disciplines such as painting, architecture and photography. The course will allow the student adequate management and understanding of the scope and implications of audiovisual language to enrich their own stories; It seeks to develop the general skills of written communication and oral communication as well as the specific skills of audiovisual language and the construction of a story in images and sound.
+/
+TOPICS IN COMPUTATION SCIENCES
+Currently, there are complex tasks that, considering software research and development, cannot be modeled and solved in a deterministic way at the computational level.
+These tasks can be automated by considering intelligent models with probabilistic basis. The course deals with the fundamentals of probabilistic graphic models and probabilistic machine learning seeking to model solutions to real and complex tasks.
+/
+COMPUTATIONAL VISION
+In this course, the student will apply advanced image analysis algorithms to simulate the human vision process on a computer. During the course, emphasis is placed on understanding the concepts underlying the vision algorithms, which are generally of a mathematical formal nature. Likewise, we emphasize the computational implementation of these algorithms using high-level programming languages. Finally, the student will implement a solution to a real problem by testing the knowledge acquired.

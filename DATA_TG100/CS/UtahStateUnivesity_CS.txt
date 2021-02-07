@@ -1,0 +1,109 @@
+/
+Introduction to Computer Science
+This is an introduction to the science problem-solving, programming, program development, algorithm analysis, and data structures. Students learn to develop correct software in a current programming language environment.
+/
+Introduction to Writing: Academic Prose
+Students learn skills and strategies for becoming successful academic readers, writers, and speakers: how to read and write critically, generate and develop ideas, work through multiple drafts, collaborate with peers, present ideas orally, and use computers as writing tools.
+/
+Calculus I
+Analytic geometry, differential and integral calculus, transcendental functions, and applications. Graphing calculator required.
+/
+Integrated Life Science
+Interdisciplinary course focusing on basic concepts of life science. Demonstrates role of modeling, prediction, and observation in the process of scientific discovery, which occurs within an historical and social context.
+/
+Introduction to Computer Science
+Introduction to science of problem solving, programming, program development, algorithm analysis, and data structures. Students will learn to develop correct software in a current programming language environment.
+/
+Methods in Computer Science
+This class is not focused on learning a features or constructs of a programming language; rather, it teaches principles and practices that help manage complexity, improve software quality, and leverage existing or new technologies.
+/
+Calculus II
+Integration, infinite series, introduction to vectors, and applications. Graphing calculator required.
+/
+American Civilization
+Fundamentals of American civilization. Covers history, political system, and economic institutions of the United States. Fulfills American Institutions requirement.
+/
+Cultural Anthropology
+Role of cultural concepts within discipline of anthropology. Relationship of cultural concepts to survival and adaptation, society and social life, ideology and symbolism, and cultural change and diversity. Applications to contemporary world problems.
+/
+Algorithms and Data Structures
+Students learn various data structures and algorithms, and refine their programming skills. Course topics include strategies for the design and evaluation of algorithms, algorithm analysis, sorting, trees, graphs, hash tables, priority queues, disjoint sets, dynamic programming, and greedy algorithms.
+/
+Introduction to Event Driven Programming and GUIs
+Students learn the fundamentals of event-driven software, common graphical user interface (GUI) components, GUI development environments and a new programming language.  They also strengthen their understanding of essential object-oriented concepts, including classes, inheritance, and polymorphism.
+/
+Discrete Mathematics
+Students learn logic and axiomatics, sets, functions, counting methods, recurrence relations, graph theory, Boolean algebras, combinatorial circuits, automata, grammars, and languages.
+/
+Physics for Scientists and Engineers I
+This course covers the study of motion and thermal physics including vectors, kinematics, forces, Newtons three laws of motion, circular motion and rotations, harmonic motion, momentum, energy and work, gravity, fluids, and thermodynamics. It includes lecture and required recitation. 
+/
+Linear Algebra
+This course teaches solutions of linear systems, matrix operations, matrix factorization, vector spaces, subspaces, linear independence, bases, linear transformations, eigensystems, orthogonality, Gram-Schmidt orthogonalization, and projections.
+/
+Developing Dynamic, Database-Driven, Web Applications
+Develop secure, dynamic, database-driven web applications. Learn the fundamentals of building web pages. Add interactive capabilities with client-side and server-side technologies. Learn about information representation, storage, retrieval and transmission in Internet-based environments.
+/
+Computer Systems Organization and Architecture
+This course examines the organization and architecture of computer systems. It covers terminology, data representation, Boolean Algebra, and combinational and sequential logic circuits as they apply to computer hardware and software.
+/
+Physics for Scientists and Engineers II
+This course covers the study of waves, electricity and magnetism, optics, and quantum phenomena. Topics include electric and magnetic forces and fields, electric potential, Maxwells equations, DC and AC circuits, geometrical optics, wave nature of light, special relativity, and atomic, molecular, nuclear phenomena. The course includes lecture and required recitation.
+/
+Intermediate Writing: Research Writing in a Persuasive Mode
+Writing of reasoned academic argument supported with appropriately documented sources. Focuses on library and Internet research, evaluating and citing sources, oral presentations based on research, and collaboration
+/
+Operating Systems and Concurrency
+Design and implementation of operating systems. UNIX will be used as one example, but all categories of operating systems will be discussed. Presentation of the concept of concurrency as it applies to operating system design and application.
+/
+Introduction to Software Engineering
+Students learn the fundamentals of software engineering principles and practices, including project management, configuration management, requirements definition, system analysis, design, testing, and deployment. This course provides students with hands-on experience in a group software development project.
+/
+Theory of Computability
+Theory of computation, including presentation of computability, decidability, and complexity. Includes formal grammars, finite and pushdown automata, and turing machines.
+/
+Technical Communication for Engineers
+The goal of this course is to prepare engineering students with the foundational research, individual and collaborative technical writing, teamwork, and presentation skills necessary to be effective technical and professional communicators in academic and professional settings.
+/
+Programming Languages
+Theories of programming design and implementation. Introduction to variety of programming languages, showing how they represent trade-offs with respect to these theories.
+/
+Statistics for Scientists
+Introduction to statistical concepts, graphical techniques, discrete and continuous distributions, parameter estimation, hypothesis testing, and chi-square tests.
+/
+Culture of East Asia
+Students explore the cultures of three East Asian countries: China, Japan and Korea. Students gain an understanding of these cultures through readings, activities, video materials, writing, and discussions. Topics include: customs, traditions, beliefs, food, contemporary issues, and more. 
+/
+Mobile Application Development
+Programming and application development for mobile computing devices such as mobile phones, music players, and tablet computers through the model-view-controller model of computing. Makes use of current technology and software development environments.
+/
+Data Mining
+Covers recent advances in machine learning and intelligent information retrieval. Focuses on how these topics relate to and are applied in data mining.
+/
+Neural Networks
+Advanced course in theories and techniques of machine intelligence, using neural networks. Emphasizes various neural network paradigms and the types of problems they are best suited to solve.
+/
+AI: Advanced Intelligent Systems
+Introduction to artificial intelligence topics, including software agent design, informed search, heuristics, inference (logical and probabilistic), knowledge representation, game playing, planning, machine learning, philosophy, and ethics. Graduate students must complete an independent project.
+/
+Parallel Computing Systems
+Design of large-scale parallel systems. Explores machine organizations SIMD and/or MIMD modes of parallelism, emphasizing interconnection patterns among processors. Discussion of low-level parallel processing algorithms. Presents case studies of existing and proposed systems.
+/
+Computer Graphics II
+Study of computer rendering of three-dimensional objects. Object representation, hidden surface removal, and shading. Ray tracing of synthetic scenes using mathematically defined surfaces.
+/
+Bioinformatics I
+Introduction to tools and techniques used in the study of bioinformatics, genomics, and computational biology. Explores usage of these tools and techniques for storage, retrieval (mining), processing, visualization, and analysis of biological information.
+/
+Mobile Application Development
+Programming and application development for mobile computing devices such as mobile phones, music players, and tablet computers through the model-view-controller model of computing. Makes use of current technology and software development environments.
+/
+Scientific Computing with Python
+In this introduction to scientific computing with Python, students become familiar with matrix algebra, decision trees, random forests, probability distributions, basic image analysis, and machine learning. The class uses both Python 2 and 3. Linux and open source are emphasized.
+/
+Utah Archaeology
+Popular introduction to the archaeology and prehistory of Utah and surrounding regions. Employs approachable texts with some supplementary readings. Features liberal use of photographs and maps to illustrate lectures. Class website provides context, discussion forums, and study aids.
+/
+Introduction to Fiction
+Readings in fiction, including novels, novellas, and stories. The course will examine elements of the genre such as character, plot, theme, and style. Various critical approaches and contexts will be discussed, as well as the historical development of the form.
+/

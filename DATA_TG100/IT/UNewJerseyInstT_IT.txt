@@ -1,0 +1,272 @@
+/
+CS 100.  Roadmap to Computing.  3 credits, 3 contact hours (3;0;0).
+An introduction to programming and problem solving skills using Python or other very high level language. Topics include basic strategies for problem solving, constructs that control the flow of execution of a program and the use of high level data types such as lists, strings and dictionaries in problem representation. The course also presents an overview of selected topics in computing, such as networking and databases.
+/
+IT 220.  Wireless Networks.  3 credits, 3 contact hours (3;0;0).
+Prerequisite: IT 120. This course introduces the students to the applied topic of Wireless Networks, focusing on applied methods, tools and technologies, as well as practical experience in designing & implementing wireless networks.  Topics include hardware, software, data, applications, communication, design & installation of wireless networks, together with the implementation, performance, security and limitations of such systems.
+/
+IS 219.  Adv Website Development.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: (IS 117 or IT 202) and (CS 100, CS 113, or CS 115). 
+IS 218 is strongly encouraged as additional foundation knowledge. This course discusses the concepts and skills required to plan, design and build advanced websites, with a focus on sophisticated user interaction enabled by programming the web browser (such as Internet Explorer or Chrome). Such programming is known as client-side scripting. These interactive websites utilize forms to gather user inputs, and vary both the content and display of the webpages based on the current user tasks and preferences. This includes designing and dynamically changing tabs and menus, as well as expanding and contracting sections of pages. Students will develop a thorough understanding of website usability (designing effective sites that people like, security and user privacy, browser capability (ensuring websites work on every major web browser), and the tools and skills that web developers use to add interactive features to websites. These skills include Javascript (for programming interactive features), the Document Object Model or DOM (specifying the internal structure of web pages), JQuery (to access information utilizing this internal structure, create animations and generally streamline Javascript), browser variables (providing information about the browser characteristics), HTML input forms, form validation (ensuring correctness of user input), securing user input (to ensure user privacy), cookies (tracking user information), basic communication with the web server (which processes the information users input into forms), and AJAX ( which integrates many of these technologies). The course will be taught in a lab to ensure hands-on experience and will include substantial design and development projects.
+/
+IT 101.  Introduction to Information Technology.  3 credits, 3 contact hours (3;0;0).
+The foundations of information technology (IT), including basic computer architecture, various kinds of computer hardware, and networking technology, are introduced. Various data representation schemes, such as the binary number systems, are covered. Different levels of software are examined, including aspects of the operating systems from the perspective of the IT professional. The software development process is discussed. Database management software and SQL are dealt with, as are applications and languages developed around the internet and Web infrastructure. Overall, fundamental knowledge required of today's IT professional is obtained along with an appreciation of IT's impact on business and society. Hands-on experience with some important elements of the IT field is gained through various laboratory assignments.
+/
+IS 331.  Database Design Management and Applications.  3 credits, 3 contact hours (3;0;0).
+Prerequisite: IS 218 or IT 202. Businesses use databases extensively for analysis and decision-making because they provide efficient, large-scale information storage and rapid retrieval. Databases support the "back end functionality" of most large web systems. This course gives students extensive, pragmatic experience in designing, building, querying, updating, maintaining and managing relational databases, using the Structured Query Language (SQL). Proper database design principles are emphasized throughout the course, beginning with high level descriptions of relational databases using data modeling tools (such as entity-relationship or ER diagrams)and progressing to relational database design principles based on higher order normalizations. We will examine some poorly designed databases and show how these can be transformed into well designed databases. SQL will be extensively covered, and students will design and implement sophisticated SQL queries invoking self-joins, outer joins, correlated subqueries and related concepts. Students will explore and utilize design methodologies for input data validation and maintaining database integrity, and study issues of database privacy and security. Advanced topics to be discussed include the role of the Database Administrator (DBA), database life cycle activities, database denormalization, read-only databases and data warehouses. Hands-on experience will be gained by working with actual databases using industry-standard database management systems such as Oracle.
+/
+MIS 363.  Project Management for Managers.  3 credits, 3 contact hours (3;0;0).
+Prerequisite: Junior standing (57 credits). This course covers theories, tools, and techniques to manage projects in organizations. Students will learn how to put together a project charter, define project goals, and develop project teams, schedules, and budgets. The course will illustrate the key aspects of project lifecycles (initiation, planning, execution, monitor and control, and closing). It will also emphasize aspects of team, performance, risk, and quality management.
+/
+YWCC 307.  Professional Dev in Computing.  1 credit, 1 contact hour (1;0;0).
+Prerequisites: YWCC207 
+This course is designed for junior year students to reflect back on the college experience and to help plan for the future as a computing professional. The course will explore transitional issues that occur during the progression from student to professional through reflection on co-op and/or internship.
+/
+R202 202.  Gender Crime & Justice.  3 credits, 0 contact hours (0;0;0).
+/
+CS 458.  Technologies-Network Security.  3 credits, 3 contact hours (3;0;0).
+Prerequisite: CS 351. This course provides both an in-depth theoretical study and a practical exposure to technologies that are critical in providing secure communication over the Internet. Topics include remote access security, web security, wireless security, e-mail security, spam and spam filtering techniques, computer viruses and internet worms, honeypots and honeynets, security liability issues and compliance.
+/
+IS 375.  Discovering User Needs for UX.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: none
+What new digital products or services need to be developed? How do you anticipate someone’s needs before they do? How do you understand how people interact with products? These are key questions that both interaction designers and start-up entrepreneurs need to answer. It’s all about understanding the user. We need to work with users to investigate or "research" their needs and how they interact with the product or service.  In this course, we take a deep dive into qualitative user experience (UX) research. UX research is the process of understanding why and how people use products and services. This course will teach you a set of research tools to discover user needs, investigate the user experience, and enhance the user experience by deriving design recommendations. We will cover techniques like ethnography, focus groups, interviewing, and analyzing qualitative data. We will be talking with user experience researchers at major companies and getting involved with actual user research. This practical, hands-on course will give you an insight into the psychology of user behavior and lay the foundation for students who are pursuing careers designing, evaluating, or marketing products for people.
+/
+COM 266.  Foundations of Game Production.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: HUM 101 and HUM 102 and IT 201 and IT 265 with grades of C or higher; HUM 102 may be taken concurrently as a co-requisite. This class introduces students to many of the tools and production methodologies needed for electron games. This class will focus heavily on content control and story handling through the use of scripting and game development tools. Students will learn a few scripting languages that are used in the games industry and create a new game experience. This course does not satisfy the three credit 200 GER in History and Humanities.
+/
+ACCT 117.  Principles Of Fin Accountng.  3 credits, 3 contact hours (3;0;0).
+This is an introductory course designed to develop fundamentals of financial accounting-a process of identifying, recording, and communicating economic events of an organization. This course will provide students with an opportunity to develop skills in applying financial accounting principles to record basic economic transactions, summarize and present such transactions in financial statements as well as analyze reported accounting information by using ratios.
+/
+MATH 337.  Linear Algebra.  3 credits, 3 contact hours (3;0;0).
+Prerequisite: MATH 112 with a grade of C or better or MATH 133 with a grade of C or better. Matrices, determinants, systems of linear equations, vector spaces, linear transformations, eigenvalues, eigenvectors, and related topics.
+/
+IT 286.  Foundations of Game Production.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: IT 202 and IT 265. This class introduces students to many of the tools and design methodologies needed for electronic game production. This class will focus heavily on scripting, level design and content control as applied to game development. Students will learn a few scripting languages that are used in the games industry such as Unreal Script and Python. Students will work on projects to develop the levels, controls and scripts in order to create a new game experience with a professional game.
+/
+IT 114.  Advanced Programming for Information Technology.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: CS 113 or CS 115. Problem solving techniques and program design knowledge are expanded with an eye toward IT-related applications. Various kinds of data structures are introduced, including classic containers such as lists, stacks, queues, and trees. Sorting and searching techniques are examined. The fundamentals of client/server programming and the use of sockets are covered. Recursion and its various applications are studied. The built-in class library features of an object-oriented programming language are exploited throughout.
+/
+IT 310.  E-Commerce Technology.  3 credits, 3 contact hours (3;0;0).
+An overview of the technologies relevant to electronic commerce. Communications and networking, web authoring tools, system security, databases and archiving, EDI, transaction processing, and factory/warehouse data networks. Provides competency to appraise tools such as HTTP servers, secure transaction software and firewalls, low and high-end database systems, heterogeneous networks, NNTP Servers, client software, procurement systems, and intelligent agents. Covers e-commerce models including agent-based and Java-based, electronic contracts and the electronic exchange of technical data, electronic cash systems and user security.
+/
+IT 265.  Game Architecture and Design.  3 credits, 3 contact hours (3;0;0).
+Prerequisite: IT 201 or equivalent. Course introduces students to the core concepts and design methodologies integral to designing and developing games and other Entertainment Software.
+/
+COM 350.  Digital Video Production.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: HUM 102 with a grade of C or higher, and one History and Humanities GER 200 level course with a grade of C or higher. Instruction in the creation and editing of non-linear digital video; emphasis on team production of a short film; individual editing skills with Final Cut Pro editing software; development and editing of a variety of graphic formats and digital images; formulation of a script treatment; and development of a storyboard. Topics covered include: digital multi-media production; web-casting; interactive television; data-casting; CD and DVD production. This course satisfies the three credit 300 GER in History and Humanities.
+/
+IT 400.  Information Technology and the Law.  3 credits, 3 contact hours (3;0;0).
+This course will provide an introduction to legal concepts, principles and terminology as applied to modern information technology. The historical background and foundations of the various principles of U.S. Statutory and Common Law will be considered and will be used to explore how such principles may be applied to encompass and govern modern legal interactions in the U.S. and internationally. Through assignments and class discussion, which will often involve the Socratic Method, students will be expected to spot potential legal issues and make logical arguments for and against various legal propositions.
+/
+IT 266.  Game Modification Development.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: IT 102 or IT 114 or CS 116 or CS 114. This course introduces students to the basic concepts of game programming and development. Students will learn how to reprogram a professional game engine, or Modification (Mod) development as it is referred to in the industry. Students will work with C intensively. Students will work on their own game projects utilizing the professional game engine.
+/
+OM 375.  Management Science.  3 credits, 3 contact hours (3;0;0).
+Prerequisite: MGMT 216. The course emphasizes decision modeling and how to apply modeling and process simulation techniques to solving various classes of problems that arise in operational functions in business settings. It covers decision modeling techniques that range from deterministic to probabilistic models. It also emphasizes the ability to recognize what modeling skills and techniques to use to answer specific business operation and process questions, the use of computer tools and process simulation techniques to solve problems, and on the interpretation and communication of model solutions.
+/
+IS 350.  Computers, Society and Ethics.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: GER (CS 100, CS 101, CS 103, CS 104, CS 111, CS 113, CS 115, or BNFO 135), AND any History and Humanities GER 200 level course AND HUM 101. Examines the historical evolution of computer and information systems and explores their implications in the home, business, government, medicine and education. Topics include automation and job impact, privacy, and legal and ethical issues.
+/
+IS 392.  Web Mining and Information Retrieval.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: IS 218, IT 114, or CS 114. This course introduces the design, implementation and evaluation of search engines and web mining applications. Topics include: automatic indexing, natural language processing, retrieval algorithms, web page classification and clustering, information extraction, summarization, search engine optimization, and web analytics. Students will gain hands-on experience applying theories in case studies.
+/
+IT 330.  Computer Forensic.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: IT 230.  This course introduces students to the applied topic of Computer Forensic, the study of obtaining and analyzing digital information from computers that have been used to commit illegal actions (computer crime), for use as evidence in civil, criminal, or administrative cases.
+/
+IT 386.  3D Modeling and Animation.  3 credits, 3 contact hours (3;0;0).
+Prerequisite: IT 201. This class introduces students to the concepts of 3D modeling and animation, and putting those concepts into action by working with software. This class will be a hands-on, project focused  course, using 3D modeling packages, taking students from design to final render.
+/
+YWCC 207.  Computing & Effective Com.  1 credit, 1 contact hour (1;0;0).
+Prerequisites: Student of YWCC and sophomore/junior standing. Through encouraging collaboration and communication, this course addresses how to best present oneself via verbal and nonverbal communication. Students will learn how to effectively network, create resumes, interview and best present ideas. The skills learned in this course prepare students for co-op/internship opportunities as well as future employment.
+/
+HUM 101.  English Composition: Writing, Speaking, Thinking I.  3 credits, 3 contact hours (3;0;0).
+Entrance is determined by placement test score or completion of HUM 099 with a grade of C or better. Focuses on developing written and oral communication skills; emphasizes writing expository and research essays; preparing oral reports; drafting, revising, editing; evaluation and proper documentation of source material; using rhetorical strategies such as narration and argument.
+/
+CS 280.  Programming Language Concepts.  3 credits, 3 contact hours (3;0;0).
+Prerequisite: CS 114 OR CS 116 OR IT 114 OR IT 102. Conceptual study of programming language syntax, semantics and implementation. Course covers language definition structure, data types and structures, control structures and data flow, run-time consideration, and interpretative languages.
+/
+R202 310.  Case Proc Law Courts.  3 credits, 3 contact hours (3;0;0).
+/
+ENG 353.  Composing Documents for Print.  3 credits, 3 contact hours (3;0;0).
+R350 353.  Mod/Contemp Eng Nov.  3 credits, 0 contact hours (0;0;0).
+Prerequisites: HUM 102 with a grade of C or higher, and one History and Humanities GER 200 level course with a grade of C or higher. Explores information structuring via print and digital media; how computer technology has influenced the ways in which information is presented in modern culture. Focuses on the optimal ways to prepare and present information for technical and commercial use. Important concepts such as visual literacy and effective design are discussed and addressed. This course satisfies the three credit 300 GER in History and Humanities.
+/
+MGMT 480.  Managing Technology and Innovation.  3 credits, 3 contact hours (3;0;0).
+Prerequisite: Junior standing(57 credits). Introduction to an array of technologies affecting management functions to provide an appreciation and understanding of the importance of new technologies as critical success factors for modern organizations. An integrative approach is taken in analyzing how changes in technology affect individual, group, and organizational effectiveness.
+/
+IT 340.  Introduction to System Administration.  3 credits, 3 contact hours (3;0;0).
+Prerequisite: IT 120. This course will introduce the tasks and techniques required to perform as a system administrator of Linux systems. Topics to be covered include: booting, process control, the file system, managing users and resources, backups, configuration management, networking, the network file system, email servers, security, hardware devices, interoperability and daemons. Whenever possible, lectures will be augmented with hands-on exercises.
+/
+IT 202.  Internet Applications.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: CS 100 or CS 113 or CS 115 or a course in a high-level programming language as approved by department. This course presents the concepts and software technologies that underline web-oriented, three-tier software architectures and applications. The enabling software mechanism include the markup languages (HTML5 and CSS3) used by browsers, client-side scripting languages and libraries (Javascript and AJAX), web servers and server-side-scripting languages (Apache, PHP, HTTP protocol), and background databases (SQL, MySQL). The course uses a hands-on, guided development approach with substantial assignments to illustrate the fundamental computing concepts systems, and technologies considered and to provide direct experience in their use.
+/
+CS 276.  2D Game Development.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: CS 265 and CS 266 or IT 265 and IT 266. This course introduces students to the core concepts and skills necessary for the development of games utilizing 2D graphics. Students will learn how to set up and program their own 2D graphics based game engine. The engine will integrate 2D graphics, audio, input handling and network socket programming. Students will learn how to utilize their own custom 2D graphics and sounds into their projects. Once complete, students will have created two fully functional games.
+/
+IT 331.  Privacy and Information Technology.  3 credits, 3 contact hours (3;0;0).
+Prerequisite: Computing GUR. This course will introduce the legal, social and technical issues involving information privacy. Topics covered will include the historical development of information privacy law; law enforcement, technology and surveillance; government databases and records; privacy and business records and financial information; privacy and the media; health and genetic privacy and international privacy law.
+/
+R202 203.  Police And Community.  3 credits, 3 contact hours (3;0;0).
+/
+ENG 354.  Composing Documents for the Web.  3 credits, 3 contact hours (3;0;0).
+R350 354.  Mod/Contemp Eng Nov.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: HUM 102 with a grade of C or higher, and one History and Humanities GER 200 level course with a grade of C or higher. Seminar and laboratory-based course designed for BA/BS majors; open to others with appropriate backgrounds and interests and permission of instructor. Follow up of ENG 353, explores information structuring via digital media, and how computer technology has influenced the ways in which information is presented in contemporary culture. Through guided interactive research, presents information for technical, commercial, and artistic use. Projects involve use of HTML editors, NJIT networks, and graphical and animation software. This course satisfies the three credit 300 GER in History and Humanities.
+/
+COM 335.  3-D Modeling and Animation.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: HUM 102 with a grade of C or higher, IT 201 and one History and Humanities GER 200 level course with a grade of C or higher. This class introduces students to the concepts of 3D modeling and animation, and putting those concepts into action by working with software. This class will be a hands-on, project focused course, using 3D modeling packages, taking students from design to final render. This course does not satisfy the three credit 300 GER in History and Humanities.
+/
+MATH 138.  General Calculus I.  3 credits, 3 contact hours (3;0;0).
+Intended for students who are not in Science or in Engineering. Prerequisite: MATH 107 with a grade of C or better, or MATH 110 with a grade of C or better or NJIT placement. An introduction to differential and integral calculus of a single variable.
+/
+IT 490.  Systems Integration.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: CS 113, IS 331 and IT 340. The course will introduce the major design, implementation & distributed deployment issues regarding system integration, Network Operating Systems (NOS), cross platform database integration, e-commerce and e-business applications implementation, cross-servers & multiple locations e-sessions migration and the related communications security.
+/
+R202 301.  Cj Reserach Methods.  4 credits, 0 contact hours (0;0;0).
+/
+R202 331.  Delinquency Juv Justice.  3 credits, 3 contact hours (3;0;0).
+/
+IT 276.  Game Development.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: IT 265 and IT 266, or, CS 265 and CS 266. This course introduces students to the core concepts and skills necessary for the development of games utilizing 2D graphics. Students will learn how to set up and program their own 2D graphics based game engine. The engine will integrate 2D graphics, audio, input handling and network socket programming. Students will learn how to utilize their own custom 2D graphics and sounds into their projects. Once complete, students will have created two fully functional games.
+/
+R202 102.  Criminology.  3 credits, 3 contact hours (3;0;0).
+/
+CS 357.  Fundamentals of Network Security.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: CS 356 or IT 420. This course is designed for Computer Science and Information Technology students. They must have a networking course before taking CS 357. IT students take IT 420 and Computer Science students take CS 356. This course offers an in-depth study of network security issues, types of computer and network attacks, and effective defenses. It provides both a theoretical foundation in the area of security and hands-on experience with various attack tools, firewalls, and intrusion-detection systems. Topics include: network scanning, TCP/IP stack fingerprinting, system vulnerability analysis, buffer overflows, password cracking, session hijacking, denial-of-service attacks, intrusion detection.
+/
+IT 332.  Digital Crime.  3 credits, 3 contact hours (3;0;0).
+Prerequisite: Computing GUR. Comprehensive, multidisciplinary overview of the methods and means by which technology is used by the criminal in today's society. An examination of the historical, legal, technological and sociological aspects of cybercrime. The course covers the challenges of a new era of technology has brought to combating crime of all types, including terrorism. Topics covered will include: the sociology of the white collar criminal, the criminal justice system and law enforcement, computer security and deterrence/prevention.
+/
+IS 270.  Designing the Multimedia Experience.  3 credits, 3 contact hours (3;0;0).
+Prerequisite: Completion of 100 level course in the computing sciences: CS 101 or CS 111 or CS 113 or CS 115 or IS 118. Multimedia combines text, graphics, sound, video, and animation in a single application. Preparation for creating multimedia information systems, and understanding the crucial issues involving technology, design and effectiveness of multimedia applications. Programming techniques for integrating video, sound, animation, and graphics, and design strategies for multimedia information systems.
+/
+COM 303.  Video Narrative.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: HUM 102 with a grade of C or higher, and one History and Humanities GER 200 level course with a grade of C or higher. Introduces various multimedia resources and environments in order to develop new strategies for both reading and writing within a visually-based, screen-oriented culture. Students will study different historical and theoretical lineages in videography, and learn hands-on techniques and technologies to produce independent media works of their own.  This course satisfies the three credit 300 GER in History and Humanities.
+/
+IS 117.  Introduction to Website Development.  3 credits, 3 contact hours (3;0;0).
+This course discusses the concepts and skills required to plan, design and build websites. It will be taught in a lab to ensure hands-on experience with each of these tasks. The course begins with an overview of web technologies. Students learn to plan websites, which includes determining the business and end-user requirements for the site. Design includes learning to develop "mockups" of how the site will look and how people will use it. The major tools for building websites will be industry standard HTML and XHTML to describe webpage content, and Cascading Style Sheets (CSS) for flexibly formatting the content. Using XHTML and CSS makes it relatively simple to change formats across the entire site, as well as "future-proofs" a website, allowing it to be viewed on every major web browser (such as Firefox or Chrome) and easily adapt to changes in future browser technology. The course features substantial hands-on projects comprising websites of several interlinked pages and images, enabling students to thoroughly learn the course's important concepts and skills.
+/
+COM 352.  Photojournalism.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: HUM 102 with a grade of C or higher, and one History and Humanities GER 200 level course with a grade of C or higher. Through hands-on writing and photography supervised by the instructor, students develop competencies in discovering and creating an interdisciplinary viewpoint using a variety of writing methods and photographic viewpoints. Special focus on interpreting architecture and architectural detail, nature's conflict and place in urban and suburban environs, and the human interface with nature and man-made spaces. Particular emphasis is placed on the creative process and critical revision. This course satisfies the three credit 300 GER in History and Humanities.
+/
+IS 373.  Content Management Systems.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: IS 117 or IT 202.
+This course provides a hands-on introduction to the design and implementation of enterprise-scale web systems built upon web based content management systems (CMS). CMS manage the creation, storage, retrieval, dissemination, and collection of information in order to meet the needs of businesses, organizations and individuals. Students learn to how to create blogs, discussion boards, wiki, intranets, and dynamic websites using popular CMS packages such as Wordpress and Drupal. Throughout the course students learn how to overcome common challenges that impact the design of these systems such as security for multi-user systems, content strategy, marketing and performance.
+/
+IS 421.  Advanced Web Applications.  3 credits, 3 contact hours (3;0;0).
+Prerequistes: IS 219 and (IS 331 or CS 431). 
+This course focuses on the design, development, and management of cloud-based web information systems, within the context of startup companies and established organizations.  Within the course, we examine business, organizational and technical challenges faced by developers, project managers, and the business development professionals that create web-based software products.  The course consists of readings, discussions, and a final team project that demonstrates modular design, planned scalability, maintainability, and the creation of a set of organizational processes that supports the continued support and development of the application.  Some of the topics covered in the course are: continuous deployment, continuous integration, automated unit testing, modular design, software team management, agile development, Kanban, customer focused development, and the technologies used to scale cloud applications.
+/
+HRM 301.  Organizational Behavior.  3 credits, 3 contact hours (3;0;0).
+Restriction: upper division standing. A foundation course in individual and group behavior in organizations. Processes such as perception, motivation and leadership are examined with a focus on issues central to technology-based organizations (innovation, creativity, managing technical professionals).
+/
+AD 150.  Color and Composition.  3 credits, 5 contact hours (2;3;0).
+Introduction to principles of 2D composition with emphasis on color use and color theory. Students are introduced to traditional media (watercolor and collage) and digital raster graphics (painting, image processing, and compositioning). Applications that include interior design, product/industrial design, advertising, web design, and fine arts are discussed. Concepts include grids and hierarchy, color models and mixing, color interaction, human response to color, printing, etc. Creative projects.
+/
+IT 491.  IT Capstone Project.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: senior standing. An opportunity for students to integrate the knowledge and skills gained in previous information technology work into a team research project. The project involves investigation of current literature as well as implementation of either a part of a large application or the whole of a small system.
+/
+STS 349.  Advanced Music Technology.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: HUM 102 with a grade of C or higher, and one History and Humanities GER 200 level course with a grade of C or higher. Students will learn the basics of notebook computer-based music composition and production. Emphasis will be on composition and making of music, learning the aesthetics necessary to get the most out of your machine. Course will require extensive work on your own laptop computer. Computer requirements: A PC or Macintosh system running Ableton Live. This course satisfies the three credit 300 GER in History and Humanities.
+/
+MATH 105.  Elementary Probability and Statistics.  3 credits, 3 contact hours (3;0;0).
+Consider notions of probability. Topics include the binomial and normal distributions, expected value, and variance. The notions of sampling, hypothesis testing, and confidence intervals are applied to elementary situations.
+/
+IT 120.  Introduction to Network Technology.  3 credits, 3 contact hours (3;0;0).
+An introduction to the basics of networking in a modern operating system environment. Emphasis is placed on the application and management of networking technology. Topics to be covered include: the OSI model, network hardware and technologies, network protocols, wired and wireless networks, TCP/IP. Whenever possible, concepts will be explained through the use of hands-on exercises that reinforce the lecture material.
+/
+ENG 355.  Television News Writing and Production.  3 credits, 4 contact hours (3;1;0).
+Prerequisites: HUM 102 with a grade of C or higher, and one History and Humanities GER 200 level course with a grade of C or higher. This course consists of lectures and hands-on practice with the basics of television news writing and production and a field trip to a television station. After learning the fundamentals, the class will then begin its own news production by refining the video taped "packages" and integrating them into a studio newscast they will write and produce while guided by the instructor and with technical support from the staff of Instructional Technology and Media Services. The semester culminates in a final program that can be delivered to the campus community through ITMS's cable network. This course satisfies the three credit 300 GER in History and Humanities.
+/
+CS 332.  Principles of Operating Systems.  3 credits, 3 contact hours (3;0;0).
+Prerequisite: CS 114 or CS 116 or IT 114 or IT 102. Organization of operating systems covering structure, process management and scheduling; interaction of concurrent processes; interrupts; I/O, device handling; memory and virtual memory management and file management.
+/
+IT 302.  Advanced Internet Applications.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: IT 202 or IS 217. This course covers Internet-related software technologies in a more comprehensive, in-depth manner than IT 202. Topics considered include: client-side technologies like HTML5 and jQuery, JQuery UI (user interface) library, jQuery Mobile, CSS3 (transitions, animations), feature detection and polyfills using jQuery UI and Modernizr, advanced Javascript DOM and JSON (Javascript Object Notation), basic web services applications, JSONP. Advanced PHP topics considered include: sessions, cookies, HTTP exchanges, encryption, graphics library (CAPTCHA?s), and as time permits regular expressions and remote file access. An introduction to the Model-View-Controller (MVC) paradigm is presented using Ruby-on-Rails environment. Programming assignments are required which provide experience with the concepts covered.
+/
+MRKT 330.  Principles of Marketing.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: MGMT 190 or MGMT 390 or departmental approval. Provides an understanding of how environmental factors (political, legal, economy, competition, socio-cultural, and technology) influence the design of product, pricing, promotion and distribution strategies. Topics discussed include strategies to satisfy target markets, market segmentation, buyer behavior, marketing ethics, and an introduction to global marketing issues. Fundamentals of marketing are integrated using cases, videos, and class projects.
+/
+IS 344.  Computing Applications in Business.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: MIS 245 or IS 265 or ACCT 115 or ACCT 117 or MGMT 390
+A comprehensive overview of the various types of computing applications used by businesses in order to run effectively and efficiently. All the major functional departments within organizations are examined and evaluated to see how applications are integrated to implement "business processes" that flow across department boundaries, and from suppliers to customers. Students will learn to model business situations and the design of applicable software solutions. A full-semester hands-on student project will provide experience in designing solutions to changes in the business environment.
+/
+CS 366.  3D Game Development.  3 credits, 3 contact hours (3;0;0).
+This course introduces students to the core concepts and skills necessary for the development of games utilizing 3D graphics. Students will learn how to set up and program their own 3D graphics based game engine using OpenGL. Students will learn how to load and display custom 3D models created using existing 3D modeling tools. Once complete, students will have created two fully functional 3D games and tools to work with them.
+/
+COM 376.  Game Design Studio.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: HUM 102 with a grade of C or higher, and one History and Humanities GER 200 level course with a grade of C or higher, and COM 266, COM 335, and COM 345 with a grade of C or higher. This class challenges students to apply what they have learned in previous courses about game design. Students work in groups to design and create games for various platforms. Groups will work closely with the instructor to get constant feedback and criticism on their work. Students will complete case studies of various game genres. Students will work on one large project and complete it in stages, as a project would in the industry. This course does not satisfy the three credit 300 GER in History and Humanities.
+/
+IS 247.  Designing the User Experience.  3 credits, 3 contact hours (3;0;0).
+This course covers the design and evaluation of the human-computer interface in interactive computer systems. Among the topics covered are approaches to interface design such as menus, commands, direct manipulation; screen layout strategies; metaphor models; models of human information processes; evaluation approaches such as protocol for analysis, interactive monitoring, use of surveys; and requirements for documentation and help. Students are expected to design interface mockups and evaluate them.
+/
+COM 345.  Character Modeling and Animation.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: HUM 102 with a grade of C or higher, IT 201 and one History and Humanities GER 200 level course with a grade of C or higher. This class builds on the concepts of 3D modeling and animation, applying those techniques to character creation and animation. This class focuses on the considerations and techniques involved in the creation and animation of character in 3D. This course does not satisfy the three credit 300 GER in History and Humanities.
+/
+MIS 245.  Introduction to Management Information Systems.  3 credits, 3 contact hours (3;0;0).
+Concepts of information systems, business process, hardware, software, systems analysis, e-commerce, enterprise systems and computer applications in organizations, techniques of systems analysis, systems designs, implementations, and information management (both technical and behavioral)are studied in the organizational context of management information needs.
+/
+FRSH SEM.  Freshman Seminar.  0 credits, 1 contact hour (1;0;0).
+Addresses issues related to a successful college life during weekly seminars. Topics include time management, study skills, interpersonal relationships, wellness, multicultural issues and career decision making. Freshman Seminar is a graduation requirement for all first-time, full-time freshmen.
+/
+IS 455.  IS Mgmt & Business Processes.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: (IS 265 or MIS 245) and IS 390. Grade of C or better. This course will emphasize how information systems enable core and supportive business processes, as well as those that interface with suppliers, partners and customers. It will discuss basic administrative, management and policy issues associated with the impact of information systems on the user and organization. The second part of the course looks at business processes in organizations: what the business process view is and why it is important, how information systems can improve processes, and how Enterprise Resource Planning systems help with that improvement. Hands-on use of a major ERP system (SAP) is included.
+/
+IS 218.  Building Web Applications.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: (IS 117 or IT 202) and (CS 100, CS 113, or CS 115).
+This course provides a critical, hands-on introduction to the design of Web-based Information Systems. We will explore and discuss emerging trends, capabilities, and limitations of web technologies used to capture, store, access, and disseminate information for both businesses and online communities. Students, working in groups, will design and develop different types of web applications, which will then be analyzed and critiqued by the students as to their usability in actual public and private settings. An open-source web content management system will be utilized throughout the course.
+/
+IT 420.  Computer Systems and Networks.  3 credits, 3 contact hours (3;0;0).
+Prerequisite: IT 120. This course provides students with an understanding of methods, tools and technologies required to work with computer systems and networks. It includes a detailed discussion of Internet/intranet issues, including standards, connectivity, performance, protocols, network configurations, network design, wireless technology, management and simulation through practical cases, covering both hardware and software systems.
+/
+IT 287.  Advanced Game Production.  3 credits, 3 contact hours (3;0;0).
+Prerequisite: IT 286 or COM 266. This course will build on tools and techniques presented in Foundations of Game Production and guide students through the development cycle of game levels. This will be a hands-on class that will teach students the development styles and revision techniques used in the professional game industry. Upon completion of the course, students will have first hand experience producing professional quality content for electronic games and a portfolio of work.
+/
+COM 351.  Documentary Studies.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: HUM 102 with a grade of C or higher, and one History and Humanities GER 200 level course with a grade of C or higher. This course will allow students to study the methods by which documentary work is conducted and to complete a documentary project of their own. The course will connect the qualitative methods of the social sciences and the humanistic concerns of the arts by allowing students to study documentary subjects as captured by non-fiction, photography, film, tape recorder, and the World Wide Web. Special emphasis will be placed on narrative and metaphor. This course satisfies the three credit 300 GER in History and Humanities.
+/
+IT 430.  Ethical Hacking for System Administrators.  3 credits, 3 contact hours (3;0;0).
+Prerequisite: IT 340 or equivalent. This course will explore the various means that an intruder has available to gain access to computer resources. Traditional security analysis often falls short due to the rapidly evolving threats that exist. The course was developed to teach how system and network vulnerabilities are found and exploited and what steps can be taken to mitigate the risk.
+/
+IS 322.  Mobile Applications: Design, Interface, Implementation.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: IS 218, IS 219, or IT 202. This course is a practical introduction to building applications for mobile devices. The course combines hands on design and development experience, with a conceptual overview and discussion of design and practical development issues. Taken into account will be constraints and requirements of devices with small screen sizes, limited battery power, limited computational power, etc. Tools used for building an application in the context of a specific device such as iPhone or an Android based device will be discussed. Students build a mobile application to demonstrate their understanding of mobile web constraints and tools.
+/
+STS 318.  Educational Media Design.  3 credits, 3 contact hours (3;0;0).
+Prerequisite: IT 201. Educational Media Design employs the instructional principles of constructivist pedagogy as the process used to develop a solution to develop courseware for K-12 audience. The course builds on the participatory design model of software engineering in order to develop integrated learning environments that support visual and verbal literacy; enables student to be able to plan, organize, and systematically develop instructional materials. This course implements instructional design theory and pedagogy in order to create an actual application for a computer-based environment. Same as IT 380. This course does not satisfy the three credit 300 GER in History and Humanities.
+/
+IT 201.  Information Design Techniques.  3 credits, 3 contact hours (3;0;0).
+Prerequisite: IT 101. This course presents an introduction to the theory and practice of information design. Topics covered include the theoretical foundations of information design, graphic design, content design, interaction design, usability, multimedia design, sound and video, animation, and an introduction to 3D modeling.
+/
+HUM 102.  English Composition: Writing, Speaking, Thinking II.  3 credits, 3 contact hours (3;0;0).
+Prerequisite: HUM 101 with a grade of C or better or HUM 100 with a grade of C or better. Focuses on enhanced written and oral communication skills; emphasizes reading and interpretation of literary forms; critical analysis; methods of research using print and on-line sources; report writing and writing about literature.
+/
+ENG 340.  Oral Presentations.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: HUM 102 with a grade of C or higher, and one History and Humanities GER 200 level course with a grade of C or higher. Instruction and practice in effective oral presentations. Students deliver a wide range of presentations adapted to the needs of a variety of audiences. Topics include voice and diction, presentation skills, the effective use of visual aids, reporting technical material and audience analysis. This course satisfies the three credit 300 GER in History and Humanities.
+/
+IT 230.  Computer and Network Security.  3 credits, 3 contact hours (3;0;0).
+Prerequisite: IT 120. This course introduces the applied topic of Computer Security, presenting the evolution of computer security, the main threats, attacks & mechanisms, applied computer operations & security protocols, main data transmission & storage protection methods via cryptography, ways of identifying, understanding & recovery from attacks against computer systems, various methods of security breach prevention, network systems availability, applications security, recovery & business continuation procedures and counter systems penetrations techniques and the role of the US Government in security of national computer infrastructure.
+/
+CS 266.  Game Modification Development.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: IT 102 OR IT 114 OR CS 116, OR CS 114. This course introduces students to the basic concepts of game programming and development. Students will learn how to reprogram a professional game engine, or Modification (Mod) development as it is referred to in the industry. Students will work with C extensively. Students will work on their own game projects utilizing the professional game engine.
+/
+ENG 352.  Technical Writing.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: HUM 102 with a grade of C or higher, and one History and Humanities GER 200 level course with a grade of C or higher. An advanced writing course. Combines current theory with actual practice to prepare students as technical writers. Analyze complex communication situations and design appropriate responses through tasks that involve problem solving, rhetorical theory, document design, oral presentations, writing teams, audience awareness, ethical considerations, and gender equity issues. This course satisfies the three credit 300 GER in History and Humanities.
+/
+STS 347.  Introduction to Music.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: HUM 102 with a grade of C or higher, and one History and Humanities GER 200 level course with a grade of C or higher. This course is an introduction to the history of music, from ancient to present times, Western, Eastern, folk, world, classical, jazz, rock, and electronic. The class aims to develop in the student an informed and critical ear to make sense of the vast array of music available today. We also cover the role that technology has played in transforming how we experience and create music, from the development of the piano to the computer. The course involves extensive music listening and writing about music. This course satisfies the three credit 300 GER in History and Humanities.
+/
+IS 465.  Advanced Information Systems.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: Statistical GER (MATH 105, MATH 120, MATH 225, MATH 244, MATH 279, MATH 305, MATH 333, IE 331, ECE 321 or MNET 315), and (IS 265 or MIS 245) and IS 344, and (IS 331 or CS 431). This course serves as an introduction to data analysis, probability and statistics from an information systems perspective, including many of the techniques that are most relevant to the profession of Data Scientist for business, data and web analytics, as well as current research areas. The course emphasizes manipulation and analysis of relevant data sets. Course topics include the rudiments of probability and random variables, estimation, hypothesis testing, graphics and visualization, data warehousing and OLAP analysis, dashboard, scorecard, data mining algorithms, optimization techniques, DSS and knowledge systems. Students will get hands-on experience in designing and building a data warehouse. They will get hands-on experience building a dashboard with real-world data, and they will apply various data mining algorithms learned in class to solve real world problems.
+/
+IS 265.  Introduction to Information Systems.  3 credits, 3 contact hours (3;0;0).
+Information systems is the study of how organizations use information technology. This course is an overview of the information systems discipline, the role of information systems in organizations, and the changing nature of information technology. Computer tools for analysis and presentation are used.
+/
+COM 369.  Digital Poetry.  3 credits, 3 contact hours (3;0;0).
+Prerequisites: HUM 102 with a grade of C or higher, and one History and Humanities GER 200 level course with a grade of C or higher. An investigation of activities taken up by poets who integrate computer technology in their works. Students discuss and evaluate virtues of the dynamics presented in an array of titles that include algorithmic programming, graphical artistry, videography, holography, hypermedia, and sonic design in order to build an understanding of the combined values of these disparate forms of expression. This course satisfies the three credit 300 GER in History and Humanities.
+/
+IS 390.  Requirements Analysis and Systems Design.  3 credits, 3 contact hours (3;0;0).
+Prerequisite: CS 103, CS 113, CS 115, IS 218 or IT 202 
+A study of the information systems development life-cycle, from the initial stages of information requirements analysis and determination to the ultimate activities involving systems design. Theory, methodologies and strategies for information requirements analysis, including the assessment of transactions and decisions, fact-finding methodologies, structured analysis development tools, strategies of prototype development, and an overview of computer-aided software engineering (CASE) tools. Theory, methodologies and strategies for systems design, including design of user-interfaces, particularly menu-driven and keyword dialogue strategies, and issues in the proper design of computer output.
+/
+CS 113.  Introduction to Computer Science.  3 credits, 3 contact hours (3;0;0).
+Prerequisite: CS 100 with a grade C or better. Intensive introduction to computer science. Problem solving decomposition. Writing, debugging, and analyzing computer programs. Introduction to arrays and lists. Iteration and recursion. The Java language is introduced and used to highlight these concepts. A student receiving degree credit for CS 113 cannot receive degree credit for CS 115.
+/

@@ -1,0 +1,147 @@
+﻿Foundations of Electric Circuits
+Covers basic electric circuit concepts and laws; circuit theorems; mesh and node methods; analysis of first-order electric circuits; forced and natural response; sinusoidal steady state analysis; complex frequency.
+/
+General Chemistry II
+Covers chemical equilibrium, including acid-base equilibria in solution; electrochemistry; organic chemistry; polymers; and petroleum.
+/
+Introductory Programming for Engineers
+An introduction to the fundamentals of programming and algorithmic problem solving with applications in engineering. Emphases include (a) producing clear, robust, and efficient code, and (b) conceptualizing and designing computational algorithms to solve engineering problems. Upon completion, students will possess the programming skills necessary to perform computational analysis in any engineering discipline. 
+/
+Introduction to Civic Engagement 
+This course is designed to help students develop skills as active participants in a pluralistic, democratic society through direct service, education and reflection opportunities.
+/
+Programming for Engineers 
+An introduction to the fundamentals of programming and algorithmic problem solving with applications in engineering. Emphases include (a) producing clear, robust, and efficient code, and (b) conceptualizing and designing computational algorithms to solve engineering problems. Upon completion, students will possess the programming skills necessary to perform computational analysis in any engineering discipline. 
+
+
+This course is designed for students with some high-school Computer Science or programming experience in any language.
+/
+ECE Laboratory
+This course has an emphasis on measurement systems, and develops both theory and application. The software and digital and analog hardware used are relevant to both electrical and computer engineers. Multi-week design projects and design teams are used to prepare students for Senior Design work.
+/
+Senior Design Project II 
+Requires written and oral progress reports. This is a writing intensive course.
+
+
+/
+Programming for Engineers II
+This course will cover advanced usage and understanding of programming concepts using Python within the Linux environment.  By the end of the course, students will not only possess strong programming capabilities but will also have a firm grasp on scientific computing fundamentals. Students should already have a working knowledge of bash, python, pylint, tmux/GNU screen, X11 tunnelling, and at least one terminal based editor (vim, nano, joe, etc) 
+/
+The Drexel Experience 0.0
+This course introduces first year students to university life, his/her major, our community, and Co-op.
+/
+General Chemistry I 
+Covers fundamental principles of chemistry, stoichiometry, atomic and molecular structure, chemical bonding, states of matter, thermochemistry, and periodicity.
+/
+Techniques of Speaking
+A workshop course in improving public speaking skills. Provides experience in speeches of explanation, persuasion, and argument.
+/
+Senior Design Project III 
+Requires written and oral final reports, including oral presentations by each design team at a formal Design Conference open to the public and conducted in the style of a professional conference.
+/
+Linear Engineering Systems 
+Provides an overview of systems and modeling; specifically using linear algebra as the model.  Specific emphasis will be placed on developing models of engineering systems and the use of computational tools for solutions of the problems.  The focus of the lab will be the use of MATLAB for solution of contemporary engineering problems.
+/
+Introduction to Engineering Design Methods 
+Introduces the design process, including information retrieval, problem definition, proposal writing, patents, and design notebooks. Includes presentations on problem areas by experts from industry, government, and education.
+/
+Fundamentals of Physics II
+Second of a four course sequence teaching fundamental physics to engineering and science majors.  Topics include: electrostatics, capacitors, charges in motion, insulators, semiconductors, conductors, superconductors, voltage and current measurements, magnetism, electromagnetic induction, magnetic materials, quantum dots, magnetic resonance phenomenon.
+/
+Multivariate Calculus
+Vectors, curves, partial derivatives, gradient, constrained optimization, coordinate system, multiple integrals, and applications.
+/
+Calculus II
+Definite integrals, Fundamental Theorem of Calculus, integration techniques, applications of integration, numerical integration and differential equations.
+/
+Foundations of Electric Circuits II
+Covers analysis of operational amplifiers, second-order electric circuits; ac power; and an introduction to the Laplace transform.
+/
+English Composition III 
+Advances multilingual (non-native speakers of English) students' development in the reading, writing, and research processes. Some courses may focus on the student's academic and discipline-specific experiences, while others may be based on literary or social themes. Enhances multilingual students’ ability to read texts critically and to reflect on their own and others’ writing, scholarly and literary works, and social events. Promotes a positive attitude toward writing.
+/
+Calculus I
+Functions, limits and continuity, derivatives, trancendental functions, and applications.
+/
+Dynamic Engineering Systems
+Provides an overview of dynamic systems and modeling; specifically using differential equations as a model.  Specific emphasis will be placed on developing models of dynamic systems and the use of computational tools for solutions of the problems.  The focus of the lab will be the use of MATLAB for solution of contemporary engineering problems.
+/
+Fundamentals of Physics I 
+First of a four course sequence teaching fundamental physics to engineering and science majors.  Topics include: description of motion, inertial and non-inertial frames, special relativity, Newton's Laws, translational and rotational equilibrium, one- and two-dimensional motion, fundamental forces, inverse square laws, Gauss' Law, Bohr's quantization, rotational dynamics, potential energy, black holes, determinism and chaos.
+/
+Composition and Rhetoric I: Inquiry and Exploratory Research
+Develops students’ abilities to use writing as a tool for inquiry. Introduces genre theory, writing as a process, revision, and strategies of primary and secondary research. Reviews grammar, style, and documentation conventions. 
+/
+Essential Biology
+Introduces essential biological concepts to engineering students. Content covers five core topics: cells, genetics, evolution, ecology and physiology with application to societal concerns about biotechnology, health, conservation biodiversity and bioethics. Evolution will be woven throughout the course as a unifying theme in understanding all aspects of biology.
+/
+Data Structures 
+Covers stacks, queues, linked allocation, binary trees, internal searching and sorting, hashing, and applications.
+/
+Advanced Programming for Engineers
+This course will cover advanced usage and understanding of programming concepts using the C programming language within a Linux development environment. C will serve as a foundation for future embedded firmware and system level software authorship as well as a means to better understand the underlying program execution model and memory organization used by modern computing systems.
+/
+Discrete Mathematics 
+Elementary set theory, combinatorics, elementary number theory, graphs, and special topics chosen from formal language theory, graph algorithms, coding theory, and other applications.
+/
+Digital Logic Design
+Number systems and representation, two's complement arithmetic, digital logic devices, switching algebra, truth tables, minimization of Boolean functions, combinational logic design and analysis, sequential circuit analysis and design.
+/
+Technical Communication
+Develops skills in communicating technical information. Focuses on writing letters, resumes, proposals, reports, and instructions. Offers extensive writing practice along with exercises and presentations. This is a writing intensive course.
+/
+Digital Systems Projects 
+Studies the theory of digital system design and the topdown design methodology using hardware description language and software tools for simulation, synthesis and Field Programmable Gate Array (FPGA) implementation.
+/
+First-Year Engineering Design
+In this course, students will focus on applying the engineering design process to problems of particular interest in the various engineering fields.  A key component of the course is a term-long project where students will work in teams to solve an engineering problem.
+/
+English Composition II 
+Advances multilingual (non-native speakers of English) students’ abilities to use of writing as a tool for research and reflection and their understanding of writing as a process. Develops the critical evaluation and integration of information into students’ own writing as they research social, political, and educational open-ended issues. Continues review of grammar, organization, style, and documentation conventions. Enhances effective strategies for secondary research and collaboration skills. Promotes positive attitude towards writing.
+/
+Computer Organization & Architecture
+This course will cover the principles of designing microprocessors using solid engineering fundamentals and quantitative cost/performance trade-offs.  Topics will cover instruction set architectures, arithmetic for computers, assessing and understanding processor performance, processor datapath and control, pipelining, cache design, and virtual-memory design.
+/
+Teacher Education: Mathematics
+Math 112 emphasizes team-based approaches to working and learning, regular problem solving, and an appreciation for how mathematics is connected with your discipline. 
+/
+Composition and Rhetoric III: Themes and Genres 
+Advances students' development in the writing and research processes and their understanding of how genres of writing shape meaning. Some courses may focus on the student's academic and discipline-specific experiences; Others may be based on literary or social themes. Promotes a critical reading of texts, reflective analysis, and a positive attitude toward writing.
+/
+Introduction to Engineering Design & Data Analysis
+This course introduces students to engineering design and concepts in data collection, analysis, 
+modeling, and presentation that are central to all fields of engineering.  
+/
+Cells and Genetics 
+An introduction to the concepts of cell and function, cell and reproduction, cell communication, genetic inheritance, and population genetics. The relevance of genetics to society and ethical issues are included.
+/
+Design with Microcontrollers
+Offers hands-on experience in the design of controllers that incorporate microcontrollers as an embedded component in a larger system. The microcomputer topics to be studied will include architecture, software, programming and interfaces.
+/
+Senior Design Project I 
+Introduces the design process, including information retrieval, problem definition, proposal writing, patents, and design notebooks. Includes presentations on problem areas by experts from industry, government, and education. This is a writing intensive course.
+/
+Probability and Data Analytics for Engineers
+This course will cover topics related to probability and statistics. Probability topics include sample space and probability, discrete and continuous random variables (single and multiple), and their properties and applications to modeling, and the central limit theorem. Topics in statistics will include parametric and non-parametric hypothesis testing, data analytics and related topics, computational approaches and bootstrapping.
+/
+Composition and Rhetoric II: Advanced Research and Evidence-Based Writing
+Advances students’ development in the writing processes. Promotes a critical evaluation and integration of information into their own writing as they research complex and open-ended issues. Identifies the relationships between rhetorical situations, the status of claims, and the need for evidence and warrants. Continues review of grammar, style, and documentation conventions. Encourages collaboration and effective search strategies of the Internet and library resources. Promotes students’ reflective analysis and a positive attitude toward writing.
+/
+Advanced Programming Tools and Techniques 
+Introduction to the basic principles of programming practice: testing, debugging, portability, performance, design alternatives, and style.  Application in a variety of programming languages, programming environments, and operating systems. Introduction to tools used in the software development process for improving program functionality, performance, and robustness.
+/
+Signals and Systems I
+This course covers time and frequency domain analysis of both continuous and discrete time signals and systems. Topics covered include a discussion of fundamental signals and basic system properties, convolution, the Fourier series, the Fourier transform, and introductory filtering. Students will learn to design and analyze the input output relationships of linear time-invariant signals, and will discuss applications in the field of electrical engineering.
+/
+Introduction to Computer Networks
+History of the Internet; introduction to packet switching, circuit switching and virtual circuit switching; statistical multiplexing; protocol layering; metrics of network performance including bandwidth, delay and loss; medium access protocols and Ethernet; routing algorithms; end-to-end issues; flow and congestion control; an overview of application layer protocols.
+/
+Engineering Ethics 
+Provides critical reflection on the nature of engineering and technology and on the ethical obligations and responsibilities unique to the engineering profession. Topics include the social responsibilities of engineering, the nature of professionalism, professional autonomy, whistleblowing, conflicts of interest, organizational (dis)obedience, the ethics of risk assessment, and the place and purpose of engineering codes of ethics.
+/
+Fundamentals of Physics III 
+Third of a four course sequence teaching fundamental physics to engineering and science majors. Topics include: oscillations, EM waves, interference, diffraction, wave-particle duality, energy-matter equivalence, uncertainty relations, Schrodinger's equation, Hydrogen atom, laser, and nuclear physics.
+/
+English Composition I 
+Develops multilingual (non-native speakers of English) students' abilities to use writing as a tool for research and reflection. Introduces the concept of genre, writing as a process, reflection on students’ own and others’ work, revision, and approaches to primary and secondary research. Reviews grammar, organization, style, and documentation conventions. Promotes positive attitudes toward writing.
+/

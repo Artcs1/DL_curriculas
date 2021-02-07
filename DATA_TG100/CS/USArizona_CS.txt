@@ -1,0 +1,109 @@
+/
+Principles of Programming with Java
+Concepts of problem solving using an object-oriented programming language, algorithm design, structured programming, fundamental algorithms and techniques.
+/
+Calculus for Engineers I
+Limits and continuity, differential calculus of functions of one variable, introduction to integration.
+/
+The ASU Experience
+Students will learn about ASU's mission as the New American University, the importance and benefits of an entrepreneurial approach to problem solving, solutions to sustainability challenges, and the importance of social embeddedness. Additionally, through various course discussions and assignments, students will examine the concept of academic integrity and its potential impact on their future, gain awareness of the value of engaging in research activities, and learn about taking an interdisciplinary perspective.
+/
+First-Year Composition
+Critical reading and writing; emphasizes strategies of academic discourse. Research paper required.
+/
+Introduction to Engineering
+Introduces the engineering design process; working in engineering teams; the profession of engineering; engineering models, written and oral technical communication skills.
+/
+Introduction to Africana Studies
+Introduces the study of African and African-descended peoples; theory, themes, and perspectives.
+/
+Object-Oriented Programming and Data Structures
+Problem solving by programming with an object-oriented programming language. Introduces data structures. Overview of computer science topics.
+/
+Calculus for Engineers II
+Methods of integration, applications of calculus, elements of analytic geometry, improper integrals, Taylor series.
+/
+Advanced First-Year Composition
+Concentrated composition course for students with superior writing skills; intensive reading; research papers; logical and rhetorical effectiveness.
+/
+African American Literature: Beginnings through the Harlem Renaissance
+Focuses on the history of African American literature through the Harlem Renaissance, as exemplified in selected slave narratives, poems, and fiction.
+/
+Introduction to Environmental Science
+Introduces the interconnected nature of Earth's hydrosphere, lithosphere (soils and rocks), atmosphere, and biosphere.
+/
+Digital Design Fundamentals
+Number systems, conversion methods, binary and complement arithmetic, Boolean algebra, circuit minimization, ROMs, PLAs, flipflops, synchronous sequential circuits.
+/
+Discrete Mathematical Structures
+Logic, sets, functions, elementary number theory and combinatorics, recursive algorithms, and mathematical reasoning, including induction. Emphasizes connections to computer science.
+/
+Calculus for Engineers III
+Vector-valued functions of several variables, partial derivatives, multiple integration.
+/
+Introduction to Environmental Science
+Introduces the interconnected nature of Earth's hydrosphere, lithosphere (soils and rocks), atmosphere, and biosphere.
+/
+Computer Organization and Assembly Language Programming
+Register-level computer organization. Instruction set architecture. Assembly language. Processor organization and design. Memory organization. IO programming. Exception/interrupt handling.
+/
+Introduction to Programming Languages
+Introduces the procedural, object-oriented, functional and declarative languages.
+/
+Applied Linear Algebra
+Solving linear systems, matrices, determinants, vector spaces, bases, linear transformations, eigenvectors, norms, inner products, decompositions, applications. 
+/
+Bob Marley and Reggae: Lyrics of Resistance
+Studies political content, influence, and impact of Caribbean popular music, in particular the music of Bob Marley.
+/
+Introduction to Environmental Science
+Introduces the interconnected nature of Earth's hydrosphere, lithosphere (soils and rocks), atmosphere, and biosphere.
+/
+Data Structures and Algorithms
+Advanced data structures and algorithms, including stacks, queues, trees (B, B+, AVL), and graphs. Searching for graphs, hashing, external sorting.
+/
+Computing Ethics
+Ethics for computing majors: history of computing, intellectual property, privacy, ethical frameworks, professional ethical responsibilities, and risks of computer-based systems
+/
+Introduction to Software Engineering
+Software life cycle models; project management, team development environments and methodologies; software architectures; quality assurance and standards; legal, ethical issues.
+/
+Information Assurance
+Concepts of information assurance (IA); basic IA techniques, policies, risk management, administration, legal and ethics issues
+/
+Probability and Statistics for Engineering Problem Solving
+Applications-oriented course with computer-based experience using statistical software for formulating and solving engineering problems.
+/
+Principles of Programming Languages
+Formal syntactic and semantic descriptions, compilation and implementation issues, and theoretical foundations for several programming paradigms.
+/
+Operating Systems
+Operating system structure and services, processor scheduling, concurrent processes, synchronization techniques, memory management, virtual memory, input/output, storage management, and file systems.
+/
+Introduction to Theoretical Computer Science
+Introduces formal language theory and automata, Turing machines, decidability/undecidability, recursive function theory, and complexity theory.
+/
+Computer Networks
+Network architecture and protocols, principles of network applications, socket programming, flow and congestion control, switching and routing, link-layer technologies, traffic capture and analysis, security.
+/
+African and African Diaspora Women Writers
+Intersection of race, class, gender, and ethnicity in black women's fiction from the United States, the Caribbean, and Africa.
+/
+Computer Science Capstone Project I
+Computer Science Capstone Project I
+/
+Multimedia Information Systems
+Design, use, and applications of multimedia systems. Introduces acquisition, compression, storage, retrieval, and presentation of data from different media such as images, text, voice, and alphanumeric.
+/
+Computer Science Capstone Project II
+Computer Science Capstone Project II
+/
+Multimedia Information Systems
+Design, use, and applications of multimedia systems. Introduces acquisition, compression, storage, retrieval, and presentation of data from different media such as images, text, voice, and alphanumeric.
+/
+Intelligent Interactive Instructional Systems
+Intelligent interactive instructional systems serve as tutors, as learning companions or both. Covers their design, the technology that powers them, the learning theories that motivate them and results from experimental evaluations. Emphasizes intelligent tutoring systems, as they are a more mature technology.
+/
+Graphics for Games
+Examines real-time rendering of high-quality interactive graphics. Studies advances in graphics hardware and algorithms that make this possible. Examples of techniques and topics include nonphotorealistic rendering, occlusion culling, level of detail, terrain rendering, shadow generation, image-based rendering, and physical simulation
+/

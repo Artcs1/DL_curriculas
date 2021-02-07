@@ -1,0 +1,133 @@
+/
+Digital Logic 1
+This course introduces combinational logic analysis and design. The topics include digital signals, binary numbers, logic gates, logic families, combinational building blocks, Boolean algebra, combinational circuit analysis, and combinational circuit design techniques. Emphasis is placed on the VHDL hardware description language as a vehicle for circuit description and simulation. Laboratory exercises require the student to design, simulate, implement, and test a wide range of digital circuits using standard logic families and programmable logic devices
+/
+Software Development I
+This course provides an introduction to object-oriented software development using the Java programming language. Emphasis is placed on translating written problem descriptions into robust software solutions. Topics covered include Java program structure, algorithmic problem solving and modularization, I/O statements, control constructs, looping techniques, class libraries, user-defined classes and methods, arrays, and ArrayLists
+/
+Freshman Studies I
+This course emphasizes close reading of “texts,” including not only printed materials but also art, photographs, maps, film, music, and other documents. At the same time, this course requires students to shift focus from the “micro” level of a text to the “macro” level of its context in a way that allows them to understand a problem in terms of the larger system(s) of which it is part. Critical thinking skills are developed as students interpret and synthesize these “micro” and “macro” elements of text and context. Similarly, personal growth is encouraged as students make connections between course material and their own experiences, beliefs, and values. A primary course focus will be rhetorical strategies for communicating ideas clearly, concisely, and correctly. Students will engage in some form of civic activity in the form of experiential learning that involves the larger community and society outside of MSOE.
+/
+Calculus I
+This course begins with a short review of topics in algebra and trigonometry before introducing the student to differential calculus. Topics include algebra of functions, limits, continuity, differentiation of algebraic, trigonometric, exponential and logarithmic functions and application of the derivative to curve sketching and optimization problems
+/
+Digital Logic 2
+This course introduces sequential logic analysis and design. The topics include flip-flops, registers, counters, shift-registers, algorithmic state machines, basic algebraic data paths, register files, and memories. Emphasis is placed on the VHDL hardware description language as a vehicle for circuit description and simulation. Laboratory exercises require the student to design, simulate, implement, and test a wide range of sequential digital circuits using standard logic families and programmable logic devices.
+/
+Software Development II
+This course continues the study of objected-oriented software development using the Java programming language. Students design, document and implement software classes and incorporate these classes into larger applications. Topics covered include abstraction, encapsulation, declaring and implementing abstract data types, interfaces, inheritance, polymorphism, graphical user interfaces, simple event-driven programming, exception handling, and file I/O.
+/
+Freshman Studies II
+Freshman Studies II
+/
+Calculus II
+and an introduction to integral calculus. Topics include Newton’s method, differentials, basic integrals involving algebraic, trigonometric, exponential, logarithmic, and inverse trig functions. Topics also include rectilinear motion, work, areas and volumes of revolution, integration techniques such as integration by parts and partial fractions, and numerical integration methods
+/
+Computer Architecture
+This course introduces the concepts of computer architecture and performance trade-offs that must be made in the design of computer systems. Topics covered include reduced instruction set computers, instruction set design options, processor implementation, pipelining, and memory hierarchy. The lectures are reinforced through laboratory projects that require students to design and simulate the data path and control circuitry of a reduced instruction set microprocessor
+/
+Data Structures
+This course covers the organization of data and the algorithms that act upon them. The topics of arrays, linked lists, stacks, queues, trees, sets, and hash tables are introduced. Fundamentals of algorithm performance are also introduced, with an emphasis placed on time complexity analysis. Laboratory activities include implementation of data structures as well as the application of data structures from standard libraries.
+/
+Freshman Studies III
+Freshman Studies III
+/
+Calculus III
+Topics include LHopital rule, improper integrals, parametric equations, polar coordinates, vector algebra, infinite series with tests for convergence, power series, Taylor and Maclaurin series, and operations with series.
+/
+Embedded Systems I
+This course presents a typical embedded microcontroller and assembly language programming as an efficient and direct means of programmatically controlling an embedded system. Topics covered include the addressing modes, register file, and instruction set of a microcontroller; subsystems such as timers and analog to digital conversion; and interrupts. Software control of hardware is stressed. In the laboratory, students design software to demonstrate proficiency in these areas. 
+/
+Linear Circuits - Steady State I
+This course introduces the basic laws used in the analysis of electrical circuits. Specific topics covered include Kirchhoff’s Laws, resistors in series and parallel, circuit analysis methods, op amps, Thevenin/Norton equivalent circuits, and superposition. The course is limited to DC circuit analysis. Circuit simulation software is introduced as a computer analysis tool
+/
+Differential Equations
+This course discusses the solution of first-order differential equations, the solution of higher-order differential equations with constant coefficients, applications of differential equations, and an introduction to the method of Laplace transforms applied to the solution of certain differential equations
+/
+Physics I - Mechanics
+This course is a calculus-based introduction to mechanics. Topics include: linear and rotational kinematics and dynamics, work, energy, and momentum. The mathematical level of this course includes the use of vector algebra and elementary applications of differential and integral calculus. The laboratory part of the course emphasizes measurement precision, experimental technique,
+/
+Embedded Systems II
+and introduces C as a portable high-level language for embedded systems programming. Topics include C language syntax, variables, and pointers. C functions are covered with special attention to passing by value versus passing by reference. Specialized embedded topics included using pointers to interact with microcontroller subsystems, creating interrupts in C, and the C/assembly interface. Designing modular application by use of multiple files is emphasized throughout the course. Laboratory exercises employ peripheral subsystems as well as reinforce other key topics
+/
+Linear Circuits - Steady State II
+After a brief review of DC circuit concepts and methods, AC circuit analysis and frequency as a variable are introduced and developed. Specific topics covered include phasors, impedance, complex AC power, mutual inductance and transformers, RL and RC filters, and Bode plots. The use of computer circuit simulation software is continued to include the AC analysis of circuits. The associated laboratory reinforces the lecture material
+/
+Calculus IV
+and an introduction to multivariate calculus. Topics include surfaces in three dimensions, partial derivatives, double and triple integrals with applications to areas, volumes, and moments.
+/
+Physics II - ElectroMagnetism
+The purpose of this subject is to acquaint the students with the fundamental laws of electricity and magnetism. Particular topics include electrostatic vector fields, scalar potential, capacitance and dielectrics, energy and force in electrostatic systems, current, resistance and electromotive force, magnetic fields and forces and electromagnetic waves. PH 2021 is taught in an integrated lecture-lab format.
+/
+Embedded Systems III
+This course is the third in the embedded system sequence. In this course students will carry out a complete design and implementation of an embedded system over the course of the term with weekly milestones. Topics include a review of C programming, a review of interrupt driven I/O and review of typical microcontroller peripherals such as the UART, timer-counters and others. The I2C and SPI serial protocols will be introduced along with peripherals that implement these protocols. Interface timing will be discussed, and calculations performed to determine the timing compatibility between external devices and the microcontroller based on data sheet information.  System-on-chip concepts will be introduced along with techniques for developing custom peripherals in a hardware description language
+/
+Linear Circuits - Transients
+After a brief review of DC and AC circuit concepts and methods, the course introduces and develops series and parallel resonance and the transient analysis of circuits, using both classical and Laplace transform techniques.  In addition, the analysis of circuits with step-function and sinusoidal sources leads to a general consideration of transfer functions.  Multisim is used to simulate system responses.
+/
+Probability and Statistics
+This course provides a basic introduction to the laws of probability needed to perform statistical analyses. Both descriptive and inferential statistics are considered. Probability distributions, the Central Limit Theorem, confidence intervals, hypothesis testing, and analysis of variance are considered in depth.
+/
+Waves, Optics, Thermodynamics, and Quantum Physics
+This course is a continuation of Physics I and Physics II. This course begins with a brief review of traveling wave theory, and then applies this theory to multiple waves traveling in the same medium, standing waves, resonance, and interference effects involving both light and sound. Polarization, reflection, and refraction of light is also discussed
+/
+Software Engineering Tools and Practices
+This course provides an introduction to the software engineering tools and practices - a look at typical approaches software engineers use to create applications in practice. Topics include requirements analysis, high-level design, detail-level design, UML modeling, code generation, basic unit testing, application building, continuous integration, and revision management. 
+/
+Leading Project Teams
+This course focuses on the sociocultural dimensions of project management and explores how to identify, build, lead, and motivate project teams to achieve organizational objectives. Special attention is paid to processes to build and develop teams; students will learn to recognize and leverage different personalities and perspectives, resolve conflict, negotiate with stakeholders, and plan and facilitate problem solving, decision making and planning meetings through the use of effective communication strategies. Another critical aspect of project leadership is knowing how to advocate on behalf of your project to champion organizational change
+/
+Design of Operating Systems
+This course introduces the design and implementation of modern operating systems, as well as the implementation of C programs in a hosted environment. Topics covered include the multiprocess programming, multithreaded programming, synchronization and scheduling, deadlock detection and avoidance, memory management, file systems, and input/output systems. Laboratory projects provide experience in using operating system facilities available on a Linux virtual machine
+/
+Signals and Systems
+This course introduces fundamental engineering signals and systems analysis. Important signal and system topics include signal and system properties, impulse and step responses, convolution, Fourier series, Fourier transform, power and energy, frequency response, and sampling. Applications such as signal filtering, radar systems, music, and communication systems will be covered during in-class application modules
+/
+Discrete Mathematics I
+This course provides an introduction to discrete mathematics as it applies to computer science. Topics include sets, logic, relations, functions, recursion, Boolean algebra, and graph theory
+/
+Digital Signal Processing
+This course is an introduction to the digital processing of signals. It begins with the examination of sampling and reconstruction of continuous-time signals, which then motivates the study of fundamental DSP topics. Discrete time signal and system interaction is examined in both the time and frequency domains.  The course then examines DSP topics and techniques including the discrete Fourier transform, fast Fourier transform, FIR and IIR filtering, and design of digital filters using various techniques. Lecture topics are supported and extended by laboratory experiments that integrate DSP theory, MATLAB simulation, and implementation on actual real-time DSP hardware.
+/
+Linear Algebra
+Topics include the use of elementary row operations to solve systems of linear equations, linear dependence, linear transformations, matrix operations, inverse of a matrix, determinants, subspaces, null spaces, column spaces, dimension and rank, eigenvalues and eigenvectors, diagonalization of matrices, and similarity
+/
+Professional Guidance
+Professional Guidance
+/
+Physics of Semiconductor Materials and Devices
+This subject is intended to provide students with the fundamentals of semiconductor physics and its application to common semiconductor devices. The course starts with an in-depth look at the theory of semiconductors including energy gap, Fermi-Dirac statistics, mobility of electrons and holes, influence of temperature on conductivity, doping, photoconductivity, drift and diffusion of charge carriers and the (Shockley) ideal diode equation. Then, properties of the abrupt p-n junction are studied and applied to various practical devices including the signal diode, zener diode, varactor diode, photo-diode, light-emitting diode, solar cell, bipolar junction transistor, and finally field effect transistors
+/
+Digital Electronics and Computer Interfacing
+Digital electronics are diode and transistor circuits that operate on digital signals. This course introduces the design and analysis of diode circuits, BJT circuits, and MOSFET circuits with a focus on digital logic families. It also examines electronic circuits commonly used to interface sensors or actuators to the computer. Interfacing topics include analog-to-digital signal conditioning using operational amplifiers, digital-to-analog conversion using standard solid-state components, and large-signal biasing of BJT and MOSFET drivers
+/
+Computer Graphics
+This course introduces computer graphics with implementation in C++ on the Linux platform, reinforcing the object-oriented programming concepts of inheritance and polymorphism. Algorithms, data structures, graphics primitives, and graphics standards are discussed in addition to hardware aspects of computer graphics. Topics such as 2-D and 3-D transformations, graphics libraries, and clipping algorithms are presented. Laboratory exercises provide opportunities for students to develop graphics algorithms and interactive applications.
+/
+Ethics for Professional Managers and Engineers
+This course examines and evaluates the meaning of ethics and professional conduct. A guiding theme is the human search or quest for values and ethical direction in terms of professional and/or personal conduct and our daily life relationships with others. We will articulate and evaluate our own ethical principles and values and their foundations.
+/
+Innovation and Business Markets
+This course explores the foundation, functions and models of businesses based on innovation, creativity and value production. Course topics include (a) generation of commercializable new ideas in both new ventures and existing organizations; (b) challenges to organizations based on creativity and innovation; (c) trade-offs in making resource allocation decisions innovative ideas; and (d) strategies for businesses based on fast-changing creative and innovative products. The course features guest speakers and includes assignments involving entrepreneurship and business development. Students will develop an understanding for the steps and strategies needed to move innovative ideas to commercial success.
+/
+Senior Design Project I
+Senior Design Project I
+/
+Networking I
+This course presents principles of data communication and computer networks, with emphasis on the physical and data link layers of communication networks. Topics include: network topology, the principles of signaling on physical links, transmission media, modulation, error control, flow control, LANs, and Ethernet protocols. The laboratory includes experiments on data communication signaling and error control. The laboratory also includes a course project involving both hardware and software aspects of network systems.
+/
+Foundations of Business Economics
+This course presents fundamental concepts of economics and expects a student will demonstrate understanding of the interactive nature of global, national and local economic systems. The course explores how individuals, households, businesses and governments use scarce resources to satisfy unlimited wants and needs. Emphasis is placed on how economics serves as the basis for business decisions.
+/
+Senior Design Project II
+Senior Design Project II
+/
+Networking II
+This course introduces the data transfer and software aspects of networks common in computing. The layered architecture of the modern Internet is studied with a focus on many of the common protocols used to transfer information and to provide services. The laboratory projects provide an opportunity for teams of students to implement servers and clients using various protocol
+/
+Senior Design Project III
+This is the third course in the senior design sequence, in which each student team works on a design project from conception through implementation and testing. Teams meet regularly with the instructor to track technical and project management issues. Written reports and oral presentations are required.
+/
+Information Security
+This course provides a survey of computer security, consisting of the business case for security, principles of security, classes of vulnerabilities (e.g., buffer overrun), and the principles of cryptography. Cryptography topics are covered in depth, including secret and public key methods, stream ciphers, and related tools and standards such as Kerberos and PGP
+/

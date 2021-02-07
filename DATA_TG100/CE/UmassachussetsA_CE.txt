@@ -1,0 +1,141 @@
+﻿College Writing
+College Writing
+/
+Writing in Engineering
+Writing in Engineering
+/
+INTRODUCTION TO PROBLEM SOLVING WITH COMPUTERS
+Provides an introduction to problem solving and computer programming using the programming language Java. The course teaches how real-world problems can be solved computationally using the object-oriented metaphor that underlies Java. Concepts and techniques covered include data types, expressions, objects, methods, top-down program design, program testing and debugging, state representation, interactive programs, data abstraction, conditionals, iteration, interfaces, inheritance, polymorphism, arrays, graphics, and GUIs. 
+/
+Calculus I
+Continuity, limits, and the derivative for algebraic, trigonometric, logarithmic, exponential, and inverse functions. Applications to physics, chemistry, and engineering.
+/
+Calculus II
+The definite integral, techniques of integration, and applications to physics, chemistry, and engineering. Sequences, series, and power series. Taylor and MacLaurin series. Students expected to have and use a Texas Instruments 86 graphics, programmable calculator.
+/
+Introduction to Linear Algebra
+Basic concepts of linear algebra. Matrices, determinants, systems of linear equations, vector spaces, linear transformations, and eigenvalues.
+/
+Ordinary Differential Equations for Scientists and Engineers
+Introduction to ordinary differential equations.First and second order linear differential equations, systems of linear differential equations, Laplace transform, numerical methods, applications. 
+/
+General Physics I
+Mechanics is the study of motion of all types, from the smallest particles to the largest astrophysical objects. This course introduces the student to a number of concepts to help analyze classical motion, including kinematics, force, energy, and linear momentum. Newton's laws of motion and laws of universal gravitation are covered in detail. Instruction concentrates on basic principles of physics and general problem-solving techniques, both in class and in web-based homework assignments.
+/
+General Physics II
+Heat, kinetic theory, first and second laws of thermodynamics. Comprehensive study of electricity and magnetism from Coulomb's law to AmpEre's law. Applications to basic circuits and ending with AC circuits.
+/
+Intro to Electrical & Computer Engineering
+Within a small class, student teams explore real engineering designs.  This introduction to engineering design and/or manufacturing emphasizes development of communication skills
+/
+INTRODUCTION TO COMPUTATION
+Lecture, discussion. Basic concepts of discrete mathematics useful to computer science: set theory, strings and formal languages, propositional and predicate calculus, relations and functions, basic number theory. Induction and recursion: interplay of inductive definition, inductive proof, and recursive algorithms. Graphs, trees, and search. Finite-state machines, regular languages, nondeterministic finite automata, Kleene's Theorem
+/
+Intro to Programming for ECE
+A comprehensive introduction to computer programming with applications to various areas in electrical and computer engineering. Limited to ENGIN majors.
+/
+Intro to Digital and Computer Systems
+The theory of digital circuits and computer systems stressing general techniques for the analysis and synthesis of combinational and sequential logic systems. 
+/
+Circuit Analysis I
+Mathematical models for analog circuit elements. Basic circuit laws and network theorems applied to dc, transient, and steady-state response of first- and second-order circuits. Modeling circuit responses using differential equations and the Laplace transform. Solving RLC networks in both the time and frequency domains. Computer projects and circuit simulations using MATLAB, Excel, and PSpice. 
+/
+Circuit Analysis II
+With lab. Continuation of ECE 211. Analysis techniques for ac circuits, frequency response, resonance, Bode plots, phasor representation of sinusoidal steady-state systems, complex frequency domain, transfer functions. MOSFETs as amplifiers; operational amplifiers. Transformers, two-port networks, Fourier series. 
+/
+Hardware Organization and Design I
+An introduction to computer architecture and hardware design. Computer abstractions and technology, performance evaluation, instruction set architectures, computer arithmetic, pipelining, memory systems, interfacing. Hardware description languages, machine languages and assembly languages.
+/
+Data Structures & Algorithms
+Data structures course using the Java programming language. Basic mathematical, logical, and programming concepts relevant to description and manipulation of information structures such as arrays, lists, trees, graphs, and files; the underlying principles of algorithm design and analysis applied to sorting and searching problems. 
+/
+ECE Junior Seminar
+Overview of the electrical and computer engineering field, including introduction to various subdisciplines and the corresponding upper-level ECE courses. 
+/
+Electronics I
+With discussions and lab. Use of nonlinear devices such as diodes, field effect transistors (FETs), and bipolar junction transistors (BJTs) in the design of simple analog and digital circuits. Design projects make use of PSPICE. 
+/
+Signals and Systems
+This course focuses on the study of signals and linear systems. It constitutes the basic theory behind a further study of communication theory and systems, control theory and systems, signal processing, microwave and radar systems, networking and almost all disciplines of electrical engineering.
+/
+Electronics II
+Continuation of E&C-ENG 323. Design of more advanced electronic circuits. Design and analysis of integrated circuit amplifiers. Design and analysis of feedback amplifiers
+/
+Fields and Waves I
+The nature of electromagnetic fields and waves. Transmission lines modeled as distributed circuits. Propagation of waves and wave reflections on transmission lines. Review of vector analysis, coordinate systems, gradient, divergence, curl; review of surface and volume integrals. Electrostatic and magnetostatic fields and boundary conditions. Fields in conductors, dielectrics and magnetic materials. Time-varying fields and electromagnetic induction. Maxwell's equations for time-varying fields.
+/
+Semiconductor Devices & Materials
+Introduction to the quantum theory of solids and conduction processes in semiconductors. Theory of p-n junction diodes, bipolar junction transistors (BJTs), and field-effect transistors (FETs). Integrated circuits (ICs).
+/
+Computer Systems Lab I
+Lab. Design and analysis of digital computer (sub)systems, including sequential controllers, asynchronous system interfacing, bus arbitration, static and dynamic memory design, and microprogrammed microprocessor design. Use of hardware description languages and programmable logic. Breadboarding and use of diagnostic equipment.
+/
+Computer Systems Lab II
+Lab. Advanced computer systems engineering. CISC and RISC microprocessors, microcontrollers and their role in embedded systems. Integration of hardware and software, assembly language, memory systems, programmable logic, and I/O systems. Design methodologies. Manufacturing issues. Advanced diagnostic techniques.
+/
+Software Intensive Engineering
+Theoretical and practical foundations for engineering the production of contemporary and future software intensive systems.  Advanced engineering problem solving concepts and skills enabled by means of state of the art modeling and testing tools.  Provides the basis for the analysis and co-design of complex hardware and software systems.
+/
+Computer Networks and Internet
+This course explores the principles of computer networking and how the theoretical principles are implemented in practice.  Introduction to concepts, principles, and practice of computer communication networks and the Internet with examples from existing architectures, protocols and standards.  Emphasis on physical layer communication, data link layer protocols, routing protocols, transport layer protocols, application layer programming, network management, network security and wireless networks.
+/
+Senior Design Project I
+The course requires students to work in small design teams to solve a significant engineering problem. Students develop, design, and implement a solution to the engineering problem in conjunction with a faculty advisor. The course reinforces principles of the engineering design process and serves as a capstone for electrical and computer engineering knowledge obtained in the ECE curriculum. The consideration of the ethical and social implications of technology and the basic concepts of business are also aspects of the course. Each student design team is expected to present information related to their project in both written and oral formats. Preliminary paper design is followed by implementation in the lab using digital and analog hardware design techniques and through software engineering. It is expected that a complete or partially working system will be demonstrated at the end of the course. 
+/
+Senior Design Project II
+Design of small electronic system built, refined, tested, and demonstrated. Final prototype shown to meet initial specifications. 
+/
+Security Engineering
+This course provides an introduction to the new area of Security Engineering, and provides examples drawn from recent research at UMASS and elsewhere. Security Engineering is a multi-disciplinary field combining technical aspects of Applied Cryptography, Computer Engineering, and Networking as well as issues from Psychology, Sociology, Policy and Economics. Several guest lectures will be presented by experts in these disciplines.
+/
+Trustworthy Computing
+The Internet age of universal electronic connectivity is vital for every aspect of our lives and our economy.  It enables businesses, transportation, electronic banking, health records, as well as entertainment.  To maintain the integrity of the Internet, it is vital to protect and defend this infrastructure from malicious viruses, worms, eavesdropping, electronic fraud, denial-of-service attacks etc. In this course we introduce the fundamentals of network security as well as provide a practical survey of network security applications and standards as implemented on the Internet and for corporate networks.
+/
+Intro to VLSI Design
+With lab. Introduction to VLSI design and custom design methodology in MOS. Topics include: MOS devices and circuits, fabrication, structures, sub-system and system design, layout, CAD techniques, and testing.
+/
+Intro Communications & Signal Processing
+Continuous-time (CT) and discrete-time (DT) signals and systems. DT processing of CT signals. DT and CT random processes and noise models. Analog communication systems and their performance in noise. Digital filter design methods
+/
+Communication Systems
+Waveform coding, source coding and data compression. Pulse modulation systems: signal spaces, optimal receivers, probability of error. Baseband and bandpass data transmission. Introduction to channel coding
+/
+Digital Signal Processing
+With lab. IIR and FIR digital filter design. Applications of DFT and FFT. Transform domain analysis of discrete-time (DT) linear time-invariant systems: minimum phase, allpass, linear phase systems. Im-plementation of DT systems. Finite wordlength effects. Multirate digital signal processing. Power spectrum estimation. Lab includes projects using digital signal processors.
+/
+Computer Architecture
+Quantitative study of pipelined processor architectures, memory hierarchy, cache memory, Input/Output, RISC processors and vector machines. 
+/
+Microelectronic Fabrication
+With lab. Semiconductor instructional processing laboratory (SIPL) and lectures. Principles and practice of modern microelectronic silicon device processing. Theory and practice of basic processing technology including photo-lithography, oxidation, diffusion, thin film deposition, ion implantation, packaging, yield, and process integration. State-of-the-art laboratory fabrication of working microelectronic devices and process simulation techniques
+/
+Optoelectronics
+Theory and applications of modern optoelectronic components such as waveguides and optical fibers, photodetectors, light emitting diodes, and semiconductor lasers. Emphasis on the physics and operating characteristics of optoelectronic semiconductor devices
+/
+Intro to Analog Integrated Circuit Design
+This course covers the basics of analog integrated circuit design.  Topics include standard circuit building blocks such as current mirrors, voltage references, single stage amplifier topologies, differential pairs.  Device models, bias choices, temperature effects, the body effect, and mismatch.  Op-amp and OTA design as well as frequency response, stability, and compensation.  Noise analysis is applied to various circuit configurations.  More complex topics will be discussed if time permits.
+/
+System Software Design
+This course provides an introduction to software systems with emphasis on operating system design and implementation. A key aspect is computer architecture and system software interaction. Topics include: process management, threading, synchronization, deadlocks, scheduling, security, IO systems, and distributed systems
+/
+Feedback Control Systems
+Time domain and frequency domain analysis and synthesis techniques for linear continuous-time feedback control systems. Topics include benefits and costs of feedback, modeling of dynamic systems,steady-state and transient performance, stability, PID control, root locus, frequency response, Nyquist stability cri-terion, and introduction to loop-shaping
+/
+ST - Electricity Infrastructure and Delivery in the Developing World
+This course surveys the current state of the electricity infrastructure in developing countries as well as the challenges and technology trends that are shaping the evolution of these systems. Concepts include infrastructure components, electricity access initiatives, measurement of electricity reliability and power quality, and the relationship between electricity and international development. 
+/
+ST - Nanoelectronics
+This class covers the fundamental of the nanoelectronics discipline ranging from nanophysics, to nano structures and nanodevices. It provides first an overview of the fundamental physical principles required for understanding the electronic properties of matter at the nanoscale. From the basic description of quantum dots, wires and wells, we will review the main electrical property differences between atoms, molecules and nanostructures including Carbon nanotubes and Nanoribbons. An introduction to the electron transport properties in nanostructures is also provides.
+/
+Parallel and Distributed Programming
+Key concepts to parallel programming: processes, threads, synchronization (semaphores, mutual exclusion, transactional memories), profiling, performance evaluation, parallel patterns (fork-join, wavefront, stream), load balancing aspects and scheduling. APIs and tools for parallel programming with shared memory and message passing: Pthreads, OpenMP and MPI. Current trends related to multi/many-cores, GPU, FPGAs, dataflow, fog/edge/in-situ computing and cloud computing.
+/
+Photonics
+Introduction to the fundamental principles of photonics. The topics covered include: ray optics, physical optics, Gaussian beams, Fourier optics, optical waveguides, resonators, integrated optics component, optical amplifiers, and lasers.
+/
+Reverse Engineering
+Reverse Engineering
+/
+Modeling and Verification of Embedded Systems
+This course introduces the theoretical foundations of embedded systems, with a focus on applications in the domains of medical devices and other low-power systems. The topics covered will include modeling, scheduling, analysis and verification of systems with discrete, continuous, and hybrid dynamics.
+/

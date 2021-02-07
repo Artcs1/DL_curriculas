@@ -1,0 +1,82 @@
+/
+Applications in Engineering
+Introduction of various concepts in engineering. Emphasis on project work, engineering ethics, and engineering design process.  
+/
+Introduction To Computing In Engineering
+An introduction to engineering problem-solving with the aid of computational software. Scientific computing concepts will be introduced including number representation, arrays, structured programming techniques, and good coding practices.  Basic numerical and data analysis methods will be introduced including numerical differentiation and integration, matrix operations, descriptive statistics, curve fitting, and optimization. 
+/
+Calculus I
+Differential and integral calculus: limits and continuity, the derivative and techniques of differentiation, extremal problems, related rates, the definite integral, Fundamental Theorem of Calculus, derivatives and integrals of trigonometric functions, logarithmic and exponential functions.
+/
+Calculus II
+Applications of the integral, techniques of integration, separable differential equations, improper integrals. Sequences, series, convergence tests, Taylor series. Polar coordinates, complex numbers.
+/
+General Physics I W/lab
+Principles of classical mechanics, fluids, heat, thermodynamics. 
+/
+General Physics II W/lab
+Principles of  electricity and magnetism, waves, sound, and light. 
+/
+Expository Writing
+Explores the principles of effective written communication and provides intensive practice in writing various types of expository prose, especially analysis and persuasion. Examines essays by contemporary and earlier authors as instances of the range and versatility of standard written English.
+/
+Introduction To Electrical Systems W/ Lab	
+Definitions of circuit elements, fundamental laws, selected network theorems, controlled sources, introduction to the oscilloscope, energy and power, natural response and complete response of first order circuits, steady state sinusoidal behavior, algebra of complex numbers, phasors, impedance, average and reactive power, introduction to analog and digital systems, frequency response and filters, measurements and instrumentation, introduction to computer applications for circuit analysis and design. 
+/
+Introduction To Digital Logic Circuits W/ Lab	
+Number systems and their conversions. Boolean algebra and Karnaugh map minimizations of Boolean expressions. Logic gates. Analysis and design of combinational logic circuits. Characteristics of various flip-flops. Analysis and design of sequential logic circuits. Design of counter and shift register circuits. Various binary codes and code conversion circuits. Binary arithmetic and arithmetic circuits.
+/
+Linear Algebra
+Introduction to the theory of vector spaces and linear transformations over the real or complex numbers, including linear independence, dimension, matrix multiplication, similarity and change of basis, inner products, eigenvalues and eigenvectors, and some applications. 
+/
+Electronics I W/lab
+Characteristics of the operational amplifier; amplifiers and active filters using the operational amplifier; analysis and design of filters using phasors; characteristics of junction diodes, analysis and design of diode circuits; field-effect transistors, MOSFET device operation, small-signal models and the low-frequency analysis of transistor amplifiers; Elementary MOS amplifier configurations. 
+/
+Calculus III
+Vectors in two and three dimensions, applications of the derivative of vector-valued functions of a single variable. Functions of several variables, continuity, partial derivatives, the gradient, directional derivatives. Multiple integrals and their applications. Line integrals, Green's theorem, divergence theorem, Stokes’ theorem. 
+/
+Differential Equations
+An introduction to linear differential equations with constant coefficients, linear algebra, and Laplace transforms.
+/
+Introduction To Computer Science
+The study of computer science centers on two complementary aspects of the discipline. First, computer science is fundamentally concerned with the problem-solving methodologies it derives from its foundational fields: the design principles of engineering, mathematical theory, and scientific empirical study. Second, these methodologies are applied in the complex context of a modern day computing system. In this course we will address both of these important aspects. As a means for developing your design skills, we will discuss the fundamental features of a high level, general purpose programming language — namely C++ — and learn how to use it as a tool for problem solving. We will also consider the performance of solutions, and how to apply both analytical and empirical assessment techniques. 
+/
+Microprocessor Architecture And Applications  W/lab	
+Introduction to the microprocessor with a comparative analysis of some popular forms; memory devices, interface devices, and other support circuitry; machine language and assembly language programming. Microprocessor use in dedicated applications.
+/ 
+Electromagnetic Fields And Waves  W/lab	
+Coordinate systems and transformations, base vectors, scalar and vector point functions, gradient, divergence, curl, Laplacian, divergence theorem, Stokes theorem, source-point and field-point notation, electrostatic and magnetostatic fields and laws, scalar and vector potential functions, continuity equation, Maxwell's equations in differential and integral form, boundary conditions, wave equation, time-harmonic fields, plane waves, electromagnetic radiation, dipole antenna, Poynting theorem, distributed circuits and transmission lines.
+/
+Linear Systems
+Vector spaces, orthogonality, the continuous and discrete bi-lateral and uni-lateral Fourier transform, the bi-lateral and uni-lateral Laplace transform, convolution, and correlation; Introduction to discrete Fourier transform and Fast Fourier transform via MatLab; the Z transform.; matrices, eigenvectors, and eigenvalues; numerical methods for linear systems through stability and causality for control systems for analog applications and up-sampling an down-sampling for discrete systems.
+/
+Probabilistic Systems Analysis	
+Development of analytical tools for the modeling and analysis of random phenomena with application to problems across a range of engineering and applied science disciplines. Probability theory, sample and event spaces, discrete and continuous random variables, conditional probability, expectations and conditional expectations, and derived distributions. 
+/
+Data Structures
+Data structures and algorithms are studied through major programming projects. Topics include linked lists, trees, graphs, dynamic storage allocation, and recursion.
+/
+Digital Logic Systems  W/lab
+Integrated circuit logic families and their characteristics. Review of combinatorial and sequential design using SSI devices. Arithmetic circuits, shift registers, and counters. Random access and read only memories. Design of memory systems. Waveshaping devices and display devices. Programmable logic arrays and their applications. Asynchronous and synchronous system design using MSI and LSI devices. Finite state machines and the specification of system controllers. Systematic approaches to controller realization. 
+/
+Discrete Mathematics
+Sets, relations and functions, logic and methods of proof, combinatorics, graphs and digraphs.
+/
+Junior Design Project
+Introduction of the engineering method: concept, planning and analysis, design, test. Integration of theoretical concepts from circuit theory, digital and analog electronics, signal processing, engineering economics, and engineering design practices to deliver a working prototype. Use of microcontroller and peripherals, analog-to-digital converters, digital signal-processors, memory and computer aided design tools.
+/
+Senior Design Project
+A comprehensive design project undertaken during the senior year, individually or as a team, under the guidance of a faculty supervisor.
+/
+Senior Design Project
+A comprehensive design project undertaken during the senior year, individually or as a team, under the guidance of a faculty supervisor. The work is spread over two terms.Please see departmental website for specific details.
+/
+Introduction To Vlsi Design
+Topics include the structure of the MOS transistor, theory of operation, fabrication methods, CMOS circuit design, subsystem design, the PLA and finite state machines, introduction to memory design, system timing techniques. 
+/
+Computer Engineering  W/lab
+Topics covered include computer abstractions, performance measurements, instruction set architectures, designing processor datapath and control, pipelining, memory hierarchy, I/O, multiprocessors. The associated lab consists of designing, implementing, and validating a simplified MIOS processor using Verilog, a hardware description language. 
+/
+Operating Systems
+Fundamental issues in operating system design. Concurrent processes: synchronization, sharing, deadlock, scheduling. Relevant hardware properties of uniprocessor and multiprocessor computer systems.
+/

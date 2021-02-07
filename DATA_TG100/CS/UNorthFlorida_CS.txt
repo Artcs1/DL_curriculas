@@ -1,0 +1,85 @@
+/
+Rhetoric and Writing
+This course will introduce students to common textual issues surrounding audience and purpose to prepare them for the different kinds of texts they will encounter in upper-level academic courses as well as professional settings.
+/
+Calculus I
+This course examines the notions of limit, continuity and derivatives of functions of one variable. The course explores differentiation rules for algebraic, trigonometric, exponential and logarithmic functions. The course discusses applications of differential calculus, such as related rates problems, curve sketching, and optimization. The course also introduces students to definite and indefinite integrals and the Fundamental Theorem of Calculus. 
+/
+Beauty and Joy of Computing
+The course focuses on teaching students some of the Big Ideas of Computing such as abstraction, design, recursion, concurrency, simulations, and the limits of computation. The course also provides a historic perspective of Computing and where it is heading. Throughout the course, we will emphasis the relevance of Computing to the students, their future studies, their careers, and society. In this course students will learn Python as the programming language to deliver the concepts. 
+/
+Programming I
+This course provides an introduction to problem solving techniques and the computer programming process. Topics in the course include data types, operations, expressions, flow control, I/O, functions, program structure, software design techniques, and memory allocation.
+/
+Calculus II
+The course presents various integration techniques and their applications, convergence of sequences and series, as well as power series and Taylor series of a function of one variable.
+/
+Calculus-Based Physics I
+This course is an introduction to the fundamental laws and theories of physics with an emphasis on mechanics, heat and wave motion. 
+/
+Calculus-Based Physics I Lab
+Calculus-Based Physics I Lab
+/
+Computational Structures		 
+This course will cover the mathematical and logical fundamentals required in computer science, information systems, information science, and information technology. The course develops concepts in discrete mathematical structures as applied to computing in general through the topics of sets; logic; proof techniques; Boolean algebra; algorithms and problem solving; number systems; number theory; counting and discrete probability; and relations and graphs.
+/
+Programming II
+This course serves as a continuation to the Programming I course.Students are shown additional fundamental concepts of problem solving using the object-oriented paradigm and data structures. The topics in this course include classes, interfaces, objects, class types, events, exceptions, control structures, polymorphism, inheritance, linked lists, arrays, stacks, queues, and deques. 
+/
+Calculus-Based Physics II 
+This course is a continuation of PHY 2048 with emphasis on electricity, magnetism and light. 
+/
+Calculus-Based Physics II Lab
+Calculus-Based Physics II Lab
+/
+Data Structures
+Students in this course will study various data structures including binary trees, balanced trees, B-trees, hashing, and heaps. Additional topics include advanced data structures such as splay trees, tree representations, graphs, dynamic memory, and algorithms for sorting and searching. Students are expected to complete projects using object-oriented programming. .
+/
+Legal and Ethical Issues in Computing 
+This course provides an opportunity to discuss and analyze the legal and ethical issues facing today computing professionals, as well as the legal and ethical issues computing professionals may face in the future. Legal and ethical issues are considered from local, as well as global perspectives.
+/
+Prob/Statistics for Engineers 
+This course is a survey of the basic concepts in probability and statistics with applications in electrical, mechanical, and civil engineering. Topics include probability, common discrete and continuous probability distributions, estimation and hypothesis testing, and simple regression.
+/
+Introduction to Databases
+This course covers database modeling with emphasis on the relational data model. Principles of relational database design, normal forms, constraints, and SQL programming will be discussed extensively. Additionally, topics related to indexing, views, transactions, XML and No-SQL databases will also be discussed. The course will cover aspects of information security and assurance as they relate to data management.
+/
+Theory of Computation
+his course will cover the theory of computation using formal methods for describing and analyzing programming languages and algorithms. Topics include finite automata and regular expressions; formal languages and syntactic analysis; pushdown automata and Turing machines; and computational complexity.
+/
+Computer Networks
+In this course, students will study architectures, protocols, and layers in computer networks and develop client-server applications. Topics include the OSI and TCP/IP models, transmission fundamentals, flow and error control, switching and routing, network and transport layer protocols, local and wide-area networks, wireless networks, client-server models, and network security. 
+/
+Introduction to Artificial Intelligence
+Course topics include heuristic techniques for problem-solving and decision making, control and search strategies, knowledge representation, logic, AI languages, and tools. Applications such as machine learning, natural language understanding, planning, and robotics will be included.
+/
+Computer Arch. and Org.
+This course will cover the fundamental ideas in computer architecture and organization. Topics include machine-level data representation; digital logic; computer arithmetic; processor design; system components and inter-communication; memory hierarchy; multi-core processors; GPU; and modern technological advancements.
+/
+Linear Algebra
+This course covers matrix algebra, Gaussian elimination, determinants, Euclidean spaces, linear transformations, eigenvalues, eigenvectors, and vector spaces.
+/
+Intro to Systems Software
+This course covers computer structure, machine language, instruction execution, addressing techniques, system and utility programs including linking, loading, assembly and macro processing.
+/
+Design and Analysis of Algori
+This course will introduce fundamental techniques for designing and analyzing algorithms, including asymptotic analysis; divide-and-conquer algorithms and recurrences; greedy algorithms; dynamic programming; and graph algorithms.
+/
+Operating Systems
+Topics in this course will include process management, memory management, file management, input/output device management, and distributed systems issues
+/
+Software Engineering
+This course introduces students to fundamental Software Engineering concepts and current practices. Topics covered include: software process models; agile software development; requirements engineering; domain modeling; model-driven development; software architectures; design paradigms and patterns; project management, tracking, and release planning; collaborative development, testing, deployment, maintenance and evolution.
+/
+Constr of Language Translators
+This course introduces students to the theoretical foundations and practical issues of designing language translators.
+/
+Introduction to Visual and Procedural Programming 
+This course provides an introduction to the fundamentals of visual programming as well as procedural language structure and capabilities. Students learn about visual programming development, including problem definition, problem solving and algorithms, procedures, controls, arrays, structures, coding, visual interface design, testing, and debugging.
+/
+Web Systems Development 
+Students learn about the influence of local and global transaction processing, Internet, Web design and development, and Electronic Data Interchange on information systems. This course discusses the concepts and skills required to design and implement Web application systems using Model view controller (MVC) architecture. Students learn about how Web applications are developed using client-side and server-side scripting to implement internal and external business processes. After an introduction to the basic concepts of relational database systems and Object Relational Mapping (ORM) students will practice for storing and accessing data in the database.
+/
+Gaming and Mobile Apps Capstone I
+This is the first of a sequence of two courses where students will have the opportunity to analyze, implement, and deploy complex software systems as enterprise mobile applications, as computer games, and as an appropriate combination of both.
+/

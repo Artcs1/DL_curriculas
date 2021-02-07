@@ -1,0 +1,226 @@
+﻿Principles in System Design Library. 
+Principles in System Design Library. 
+/
+Introduction to Optimization.  
+A broad introduction to optimization. Unconstrained and constrained optimization. Equality and inequality constraints. Linear and integer programming. Stochastic dynamic programming.
+/
+Computational Photography and Vision.  
+Introduces the problems of computer vision through the application of computational photography. Specific topics include photo-editing (image warping, compositing, hole filling), panoramic image stitching, and face detection for digital photographs.
+/
+Computational Systems Biology.  
+Computational inference and modeling of gene regulation networks, signal transduction pathways, and the effects of regulatory networks in cellular processes, development, and disease. Introduction of required mathematical, computational, and data handling tools.
+/
+Computational Linear Algebra. 
+Matrices and linear transformations, systems of linear equations, determinants, linear vector spaces, eigenvalues and eigenvectors, orthogonal matrices, diagonalization, and least squares. Topics will be taught primarily from an algorithmic perspective, including computational solutions, applications, and numerical error analysis.
+/
+Boolean Logic and Discrete Structures.  
+Relations and their properties; Boolean algebras, formal languages; finite automata.
+/
+Python Programming and Libraries (Accelerated).
+Introduces Python syntax and semantics for fundamental programming concepts.  Constructing programs for varied problems and environments. Using library modules for applications such as graphics, sound, GUI, database, Web, and network programming. Accelerated course for students with previous programming background.
+/
+Principles of Data Management. 
+Covers fundamental principles underlying data management systems. Content includes key techniques including storage management, buffer management, record-oriented file system, access methods, query optimization, and query processing.
+/
+Advanced Computer Networks. 
+Fundamental principles in computer networks are applied to obtain practical experience and skills necessary for designing and implementing computer networks, protocols, and network applications. Various network design techniques, simulation techniques, and UNIX network programming are covered.
+/
+Project In Algorithms And Data Structures. 
+Design, implementation, execution, and analysis of algorithms for problems such as sorting, searching, data compression, and data encryption. Time-space-structure trade-offs.
+/
+Single-Variable Calculus.
+Definite integrals; the fundamental theorem of calculus. Applications of integration including finding areas and volumes. Techniques of integration. Infinite sequences and series.
+/
+Programming with Software Libraries.  
+Construction of programs for problems and computing environments more varied than in I&C SCI 31. Using library modules for applications such as graphics, sound, GUI, database, Web, and network programming. Language features beyond those in I&C SCI 31 are introduced as needed.
+/
+Project in User Interaction Software.  
+Students complete an end-to-end user interface programming project based on an iterative design paradigm. Topics may include requirements brainstorming, paper prototyping, iterative development, cognitive walk-through, quantitative evaluation, and acceptance testing. Materials fee.
+/
+Human Computer Interaction. 
+Basic principles of human-computer interaction (HCI). Introduces students to user interface design techniques, design guidelines, and usability testing. Students gain the ability to design and evaluate user interfaces and become familiar with some of the outstanding research problems in HCI.
+/
+Embedded Software Laboratory.
+Laboratory section to accompany COMPSCI 145.
+/
+Software Testing, Analysis, and Quality Assurance. 
+Preparation for developing high-quality software through successful veriﬁcation and validation techniques. Fundamental principles of software testing, implementing software testing practices, ensuring the thoroughness of testing to gain conﬁdence in the correctness of the software.
+/
+Project in Artificial Intelligence.  
+Construction of a working artificial intelligence system. Evaluation of capabilities of the system including impact of knowledge representation.
+/
+Information Retrieval.  
+An introduction to information retrieval including indexing, retrieval, classifying, and clustering text and multimedia documents.
+/
+
+
+
+
+Introduction to Probability and Statistics for Computer Science.
+Introduction to the basic concepts of probability and statistics with discussion of applications to computer science.
+/
+Introduction to Programming. 
+Introduction to fundamental concepts and techniques for writing software in a high-level programming language. Covers the syntax and semantics of data types, expressions, exceptions, control structures, input/output, methods, classes, and pragmatics of programming.
+/
+Projects in Advanced 3D Computer Graphics.  
+Projects in advanced 3D graphics such as illumination, geometric modeling, visualization, and animation. Topics include physically based and global illumination, solid modeling, curved surfaces, multiresolution modeling, image-based rendering, basic concepts of animation, and scientific visualization.
+/
+Design and Analysis of Algorithms.
+Techniques for efficient algorithm design, including divide-and-conquer and dynamic programming, and time/space analysis. Fast algorithms for problems applicable to networks, computer games, and scientific computing, such as sorting, shortest paths, minimum spanning trees, network flow, and pattern matching.
+/
+Introduction to Data Management. 
+Introduction to the design of databases and the use of database management systems (DBMS) for applications. Topics include entity-relationship modeling for design, relational data model, relational algebra, relational design theory, and Structured Query Language (SQL) programming.
+/
+Computer Networks. 
+Computer network architectures, protocols, and applications.  Internet congestion control, addressing, and routing. Local area networks. Multimedia networking.
+/
+Internet Applications Engineering. 
+Concepts in Internet applications engineering with emphasis on the Web. Peer-to-Peer and Interoperability. Topics include HTTP and REST, Remote Procedure/Method Calls, Web Services, data representations, content distribution networks, identity management, relevant W3C/IETF standards, and relevant new large-scale computing styles.
+/
+Parallel and Distributed Computing. 
+Parallel and distributed computer systems. Parallel programming models. Common parallel and distributed programming issues. Specific topics include parallel programming, performance models, coordination and synchronization, consistency and replication, transactions, fault tolerance.
+/
+Programming in C/C++ as a Second Language. 
+An introduction to the lexical, syntactic, semantic, and pragmatic characteristics of the C/C++ languages for experienced programmers. Emphasis on object-oriented programming, using standard libraries, and programming with manual garbage collection.
+/
+Digital Logic Design.
+Boolean algebra. Design/analysis of combinational and sequential systems using SSI/MSI/LSI modules. Number systems. Error detecting and correction codes. Arithmetic algorithms. Hardware/ firmware implementation of algorithms.
+/
+Internet Applications Engineering.
+Concepts in Internet applications engineering with emphasis on the Web. Peer-to-Peer and Interoperability. Topics include HTTP and REST, Remote Procedure/Method Calls, Web Services, data representations, content distribution networks, identity management, relevant W3C/IETF standards, and relevant new large-scale computing styles.
+/
+Digital Image Processing. 
+Introduction to the fundamental concepts of digital signal and image processing as applicable in areas such as multimedia, graphics, AI, data mining, databases, vision, or video games. Topics include image representation, space- and frequency-domain transformations, filters, segmentation, and compression.
+/
+Introduction to Linear Algebra.
+Systems of linear equations, matrix operations, determinants, eigenvalues and eigenvectors, vector spaces, subspaces, and dimension.
+/
+Computer Game Development. 
+Introduction to the principles of interactive 2D and 3D computer game development. Concepts in computer graphics, algorithms, software engineering, art and graphics, music and sound, story analysis, and artificial intelligence are presented and are the basis for student work.
+/
+Project in Computer Vision.
+Students undertake construction of a computer vision system. Topics include automatically building 3D models from photographs, searching photo collections, robot navigation, and human motion tracking.
+/
+Computer Graphics. 
+Introduction to the fundamental principles of 3D computer graphics including polygonal modeling, geometric transformations, visibility algorithms, illumination models, texturing, and rasterization. Use of an independently-learned 3D graphics API to implement these techniques.
+/
+Representations and Algorithms for Molecular Biology.  
+Introduction to computational methods in molecular biology, aimed at those interested in learning about this interdisciplinary area. Covers computational approaches to understanding and predicting the structure, function, interactions, and evolution of DNA, RNA, proteins, and related molecules and processes.
+/
+Algorithms for Probabilistic and Deterministic Graphical Models. 
+Graphical model techniques dealing with probabilistic and deterministic knowledge representations. Focuses on graphical models such as constraint networks, Bayesian networks, and Markov networks that have become a central paradigm for knowledge representation and reasoning in AI and general computer science.
+/
+Principles of Operating Systems.
+Principles and concepts of process and resource management, especially as seen in operating systems. Processes, memory management, protection, scheduling, file systems, and I/O systems are covered. Concepts illustrated in the context of several well-known systems.
+/
+Neural Networks and Deep Learning 
+Neural network and deep learning from multiple perspectives. Theory of parallel distributed processing systems, algorithmic approaches for learning from data in various manners, applications to difficult problems in AI from computer vision, to natural language understanding, to bioinformatics and chemoinformatics.
+/
+Single-Variable Calculus. 
+Introduction to derivatives, calculation of derivatives of algebraic and trigonometric functions; applications including curve sketching, related rates, and optimization. Exponential and logarithm functions.
+/
+New Students Seminar. 
+Introduces students to the Donald Bren School of Information and Computer Sciences. Focuses on advising students making the transition to UCI, community building, and mostly surveying the technical areas within departments in ICS, via talks by faculty on their research.
+/
+Embedded Software. 
+Principles of embedded computing systems: embedded systems architecture, hardware/software components, system software and interfacing, real-time operating systems, hardware/software co-development, and communication issues. Examples of embedded computing in real-world application domains. Simple programming using an embedded systems development environment.
+/
+Project in Software System Design. 
+Specification, design, construction, testing, and documentation of a complete software system. Special emphasis on the need for and use of teamwork, careful planning, and other techniques for working with large systems.
+/
+Programming in Java as a Second Language.  
+An introduction to the lexical, syntactic, semantic, and pragmatic characteristics of the Java language for experienced programmers. Emphasis on object-oriented programming, using standard libraries, and programming with automatic garbage collection.
+/
+Concepts of Programming Language II. 
+In-depth study of major programming paradigms: imperative, functional, declarative, object-oriented, and aspect-oriented. Understanding the role of programming languages in software development and the suitability of languages in context. Domain-specific languages. Designing new languages for better software development support.
+/
+Computational Geometry and Geometric Modeling.  
+Algorithms and data structures for computational geometry and geometric modeling, with applications to game and graphics programming. Topics: convex hulls, Voronoi diagrams, algorithms for triangulation, motion planning, and data structures for geometric searching and modeling of 2D and 3D objects.
+/
+Data Structure Implementation and Analysis. 
+Focuses on implementation and mathematical analysis of fundamental data structures and algorithms. Covers storage allocation and memory management techniques.
+/
+Critical Writing on Information Technology. 
+Study and practice of critical writing and oral communication as it applies to information technology. Each student writes assignments of varying lengths, totaling at least 4,000 words.
+/
+Project in Operating System Organization.  
+Detailed specification and design of critical components of an actual operating system including a memory manager, a process server, and a file/IO subsystem. Hardware/software tradeoffs. Emphasis on logical organization of system and communication.
+/
+Introduction to Software Engineering.
+Concepts, methods, and current practice of software engineering. Large-scale software production, software life cycle models, principles and techniques for each stage of development.
+/
+Intermediate Programming. 
+Intermediate-level language features and programming concepts for larger, more complex, higher-quality software. Functional programming, name spaces, modules, class protocols, inheritance, iterators, generators, operator overloading, reflection. Analysis of time and space efficiency.
+/
+Computer Design Laboratory. 
+Underlying primitives of computer instruction sets. Principles of microprogramming. Microprogramming. Microprograms written for one or more systems. Typical microprogramming applications discussed and implemented or simulated.
+/
+Computer and Network Security. 
+Overview of modern computer and networks security, attacks, and countermeasures. Authentication, identification, data secrecy, data integrity, authorization, access control, computer viruses, network security. Also covers secure e-commerce and applications of public key methods, digital certificates, and credentials.
+/
+Computer Systems Architecture.  
+Design of computer elements; ALU, control unit, and arithmetic circuits. Memory hierarchy and organization. Caches. Function unit sharing and pipelining. I/O and interrupt processing. RTL and behavioral modeling using hardware description languages. Microprocessor organization and implementation techniques.
+/
+Software Design: Applications.  
+Introduction to application design: designing the overall functionality of a software application. Topics include general design theory, software design theory, and software architecture. Includes practice in designing and case studies of existing designs.
+/
+Project in Databases and Web Applications.  
+Introduces students to advanced database technologies and Web applications. Topics include database connectivity (ODBC/JDBC), extending databases using stored procedures, database administration, Web servers, Web programming languages (Java servlets, XML, Ajax, and mobile platforms).
+/
+Concepts in Programming Languages I.  
+In-depth study of several contemporary programming languages stressing variety in data structures, operations, notation, and control. Examination of different programming paradigms, such as logic programming, functional programming and object-oriented programming; implementation strategies, programming environments, and programming style.
+/
+Graph  Algorithms.  
+Algorithms for solving fundamental problems in graph theory. Graph representations, graph traversal, network flow, connectivity, graph layout, matching problems.
+/
+Machine Learning and Data-Mining. 
+Introduction to principles of machine learning and data-mining applied to real-world datasets. Typical applications include spam filtering, object recognition, and credit scoring.
+/
+Modeling and World Building. 
+Use of 3D modeling software and related tools to design and create animated, textured models, and expansive virtual worlds incorporating objects, scenes, and venues for activity within game worlds and online environments.
+/
+Introductory Computer Organization.  
+Multilevel view of system hardware and software. Operation and interconnection of hardware elements. Instruction sets and addressing modes. Virtual memory and operating systems. Laboratory work using low-level programming languages.
+/
+Language Processor Construction.  
+Project course which provides working laboratory experience in construction and behavior of compilers and interpreters. Students build actual language processors and perform experiments which reveal their behaviors.
+/
+Formal Languages and Automata.
+Formal aspects of describing and recognizing languages by grammars and automata.  Parsing regular and context-free languages. Ambiguity, nondeterminism. Elements of computability; Turning machines, random access machines, undecidable problems, NP-completeness.
+/
+Requirements Analysis and Engineering.
+Equips students to develop techniques of software-intensive systems through successful requirements analysis techniques and requirements engineering. Students learn systematic process of developing requirements through cooperative problem analysis, representation, and validation.
+/
+Software Design: Structure and Implementation.  
+Introduction to implementation design: designing the internals of a software application. Topics include design aesthetics, design implementation, design recovery, design patterns, and component reuse. Includes practice in designing and case studies of existing designs.
+/
+Logic Design Laboratory. 
+Introduction to standard integrated circuits. Construction and debugging techniques. Design of digital systems using LSI and MSI components. Practical use of circuits in a laboratory environment, including implementation of small digital systems such as arithmetic modules, displays, and timers.
+/
+Compilers and Interpreters. 
+Introduction to the theory of programming language processors covering lexical analysis, syntax analysis, semantic analysis, intermediate representations, code generation, optimization, interpretation, and run-time support.
+/
+Introduction to Applied Cryptography.  
+An introduction to the essential aspects of applied cryptography, as it is used in practice. Topics include classical cryptography, block ciphers, stream ciphers, public-key cryptography, digital signatures, one-way hash functions, basic cryptographic protocols, and digital certificates and credentials.
+/
+Discrete Mathematics for Computer Science.  
+Covers essential tools from discrete mathematics used in computer science with an emphasis on the process of abstracting computational problems and analyzing them mathematically. Topics include mathematical induction, combinatorics, and recurrence relations.
+/
+User Interaction Software. 
+Introduction to human-computer interaction programming. Emphasis on current tools, standards, methodologies for implementing effective interaction designs. Widget toolkits, Web interface programming, geo-spatial and map interfaces, mobile phone interfaces.
+/
+Game Engine Lab. 
+The use of an open source game or graphics engine in the design and implementation of a computer game. Principles of game engine design. Students work on teams to design, implement, and evaluate new computer games based on an engine.
+/
+Introduction to Artificial Intelligence. 
+Different means of representing knowledge and uses of representations in heuristic problem solving. Representations considered include predicate logic, semantic nets, procedural representations, natural language grammars, and search trees.
+/
+Applications of Probability in Computer Science.  
+Application of probability to real-world problems in computer science. Typical topics include analysis of algorithms and graphs, probabilistic language models, network traffic modeling, data compression, and reliability modeling.
+/
+Principles in System Design. 
+Principles and practice of engineering of computer software and hardware systems. Topics include techniques for controlling complexity; strong modularity using client-server design, virtual memory, and threads; networks; coordination of parallel activities; security and encryption; and performance optimizations.
+/
+Next Generation Search Systems.
+Discusses concepts and techniques related to all aspects of search systems. After considering basic search technology and the state-of-art systems, rapidly developing techniques for multimedia search, local search, event-search, and video-on-demand are explored.
+/

@@ -1,0 +1,109 @@
+/
+English Composition
+Emphasizes reading and writing skills appropriate to academic discourse. Integrates the writing process, rhetorical modes and library skills into writing assignments related primarily to nonfiction readings.
+/
+College English I
+General education foundation course. Focuses on developing reading and writing skills appropriate to academic discourse. Integrates the writing process, rhetorical modes and library skills into writing assignments related primarily to nonfiction readings.
+/
+Public Speaking
+General education foundation course. Studies basic concepts of speech communication as applied to public speaking and critical analysis. For students wishing to enhance leadership potential by improvement in traditional public speaking situations.
+/
+College English II
+General education foundation course. Emphasizes critical reading, research and argumentation.
+/
+Art History
+Art History
+/
+Dance
+Dance
+/
+Musicology/Composition
+Musicology/Composition
+/
+Studio Arts
+Studio Arts
+/
+Theatre
+Theatre
+/
+Introductory Logic  
+General education humunities course. Deals with the uses of logical concepts and techniques to evaluate and criticize reasoning. Studies some elementary systems of formal logic. Arguments evaluated are drawn from such diverse fields as law, science, politics, religion and advertising.
+/
+Ethics and Computers 
+General education humanities course. Ethics with application to the ethical issues which may arise from the use of computers, including the moral responsibility of computer professionals for the effect their work has on persons and society; the moral obligations of a computer professional to clients, employer and society; the conceptual and ethical issues surrounding the control and ownership of software; and the justifiability of regulation of the design, use and marketing of computer technology.
+/
+Calculus I
+General education math and natural sciences course. Analytic geometry and the calculus in an interrelated form.
+/
+Calculus II
+General education math and natural sciences course.
+/
+Discrete Structures I
+Provides a mathematical foundation essential to the entire computer science curriculum. Includes propositional and predicate logic, induction, recursion and counting techniques.
+/
+Discrete Structures II
+Continuation of Discrete Structures I. Includes relations, graphs, trees, Boolean algebra and automata.
+/
+Linear Algebra
+An elementary study of linear algebra, including an examination of linear transformations and matrices over finite dimensional spaces
+/
+Physics for Scientists I
+General education math and natural sciences course. The first semester of a calculus-based physics sequence. Topics include motion, forces, energy, fluids, oscillations, waves and thermodynamics.
+/
+Physics for Scientists II
+General education math and natural sciences course. The second semester of a calculus-based physics sequence. Topics include electricity, magnetism, circuits, EM waves, light and selections from modern physics
+/
+University Physics Lab II
+General education math and natural sciences course
+/
+Engineering Probability and Statistics I
+Studies the concepts of probability theory, random variables, distributions, moments, sample statistics and hypothesis testing. 
+/
+Engineering Economy
+Economic comparisons of engineering alternatives considering the time value of money, taxes and depreciation; accounting and its relationship to economic analysis; replacement decisions.
+/
+Introduction to Digital Design
+Introduces digital design concepts. Includes number systems, Boolean algebra, Karnaugh maps, combinational circuit design, adders, multiplexers, decoders, sequential circuit design, state diagram, flip flops, sequence detectors and test different combinational and sequential circuits. Uses CAD tools for circuit simulation.
+/
+Introduction to Programming
+First course in computer programming in a high-level language. Emphasizes analyzing problems, designing solutions and expressing them in the form of a well-structured program using the procedural aspects of C++.
+/
+Assembly Language Programming
+Introduces basic concepts of computer organization and operation. Studies machine and assembly language programming concepts that illustrate basic principles and techniques. Laboratory exercises given for experience using personal computers
+/
+Object-Oriented Programming
+Concepts of object-oriented programming. Covers data abstractions, classes and objects, methods, inheritance, polymorphism, dynamically-bound method calls and data encapsulation. Includes programming assignments in C++
+/
+Introduction to Computer Architecture
+Introduces multilevel approach to computer systems, with an emphasis on micro architecture and instruction set architecture levels. Also introduces techniques to improve performance such as cache memory and instruction level parallelism.
+/
+Data Structures
+Introduces basic data structures and covers their implementations using classes in C++. Includes lists, stacks, queues, binary trees and hash tables.
+/
+Computer Networks
+First course on computer networking. Introduces OSI layers, direct link networks, packet switching, routing, end-to-end protocols and network applications. 
+/
+Introduction to Software Engineering
+Introduces the processes, methods and tools used in software development and maintenance. Topics include software development life cycle and processes, configuration management, requirements gathering, OOA/D with UML, cohesion and coupling, and unit testing.
+/
+Programming Language Concepts
+Theoretical concepts in the design and use of programming languages. Formal syntax, including Backus Normal Form (BNF), Extended Backus-Naur Form (EBNF), and syntax diagrams. Semantics, including declaration, allocation and evaluation, symbol table and runtime environment; data types and type checking, procedure activation and parameter passing, modules and abstract data types
+/
+Operating Systems
+Fundamental principles of modern operating systems. CPU management including processes, threads, scheduling, synchronization, resource allocation and deadlocks. Memory management including paging and virtual memory. Storage management and file systems.
+/
+Design and Analysis of Algorithms
+Design of various algorithms including several sorting algorithms. Analysis of their space and time complexities. Data structures include heaps, hash tables and binary search trees.
+/
+Introduction to Database Systems
+Fundamental aspects of relational database systems, conceptual database design and entity-relationship modeling; the relational data model and its foundations, relational languages and SQL, functional dependencies and logical database design; views, constraints and triggers. Course includes a group project involving the design and implementation of a relational database and embedded SQL programming
+/
+Senior Design Project I
+Senior Design Project I
+/
+Senior Design Project II
+Senior Design Project II
+/
+Introductory Logic
+General education humunities course. Deals with the uses of logical concepts and techniques to evaluate and criticize reasoning. Studies some elementary systems of formal logic. Arguments evaluated are drawn from such diverse fields as law, science, politics, religion and advertising.
+/

@@ -1,0 +1,106 @@
+/
+INFORMATION AND TECHNOLOGY FOR BUSINESS
+Retrieve, process, classify, sort and evaluate data and information. Problem solving techniques, creative thinking skills, communication skills, team building, and professional ethics. Laboratories covering the Internet, spreadsheets, and databases.
+/
+PRE-CALCULUS
+The concept of function, exponential, logarithmic, circular and trigonometric functions, systems of linear equations, vectors in two space, lines, conic sections and polar coordinates.
+/
+FUNDAMENTALS OF INFORMATION SYSTEMS & TECHNOLOGY 
+An introduction to information systems and technology in today's organizations. Topics include hardware, software and communications fundamentals, systems development, information management, work force considerations, and related societal, legal, and ethical issues.
+/
+INTRODUCTION TO COMPUTER SCIENCE I
+Introduction to structured problem solving, algorithm development and computer programming.
+/
+CALCULUS FOR APPLICATIONS
+Intended primarily for students in biology, business, economics, psychology and the social sciences. Elements of differential and integral calculus from an intuitive standpoint with emphasis on the use of calculus in the above fields. Exponential and logarithmic functions, partial derivatives included.
+/
+DISCRETE MATHEMATICS 
+Sets, logic, induction, functions, relations, sequences, recursion, combinatorics, graphs and trees, matrices with an emphasis on applications in computer science.
+/
+ENTERPRISE SYSTEMS AND ARCHITECTURE
+Key concepts of ERP systems and approaches to business process improvement through the use of Information Technology (IT) infrastructures including IT infrastructure frameworks, information architecture, the design, implementation, and management of enterprise IT Solutions, and related theoretical and practical issues. 
+/
+INTRODUCTION TO COMPUTER SCIENCE II
+Development of programming and problem-solving skills, with a focus on object-oriented programming and design. Students will design and develop programs using encapsulation and information hiding, inheritance, polymorphism, and generics. Introduction to data structures and their implementations (lists, stacks, queues, and trees), recursion, and searching and sorting algorithms. 
+/
+WRITING FOR BUSINESS AND INDUSTRY
+Standard written formats used in business and industry, including correspondence, memoranda, and reports. Projects individualized to meet student needs and career interests. 
+/
+FUNDAMENTALS OF WEB TECHNOLOGIES
+Introduction to web systems and technologies, including the fundamentals of design, implementation, and evaluation of web-based applications including related software, databases, interfaces, and digital media. Social, ethical, and security issues related to web-based systems are also explored.
+/
+SYSTEMS ANALYSIS AND DESIGN
+Guides students through the stages of the evolution of data processing systems, including analyses of present information flow, system specifications, equipment selection, and implementation of the system to provide an understanding of the skills and knowledge needed for effective use of data processing equipment in meeting information needs. 
+/
+DATA STRUCTURES AND ALGORITHM ANALYSIS
+Fundamental data structures used in programming and the basic techniques used to design and analyze algorithms. Topics include: complexity analysis of elementary algorithms, linear data structures, trees, heaps, graphs, search algorithms (balanced binary trees, B-trees, hashing), sorting algorithms, basic graph algorithms (graph traversal, topological sorting, shortest path, minimum spanning trees), and paradigms in the design of algorithms (divide and conquer, dynamic programming, greedy).
+/
+BASIC STATISTICS
+A non-calculus based introduction to statistics with emphasis on applications. Topics include categorical and quantitative data collection through sampling and experimental design, data description and displays, confidence intervals and hypothesis tests for one- and two-samples, and matched-pairs design; normal and t-distributions; correlation and simple linear regression. Emphasis on interpretations of results throughout. Substantial use of a computer package as a learning and computational tool. 
+/
+TELECOMMUNICATIONS 
+Addresses telecommunications from the perspectives of technology, systems, and management. 
+/
+HUMAN-COMPUTER INTERACTION
+Effective, productive information systems, including interactive computer systems, input and output devices, screen layouts, machine design, health issues, organizational impacts, and computers and the disabled.
+/
+ORGANIZATIONAL DATABASE MANAGEMENT
+The database environment in an organization. Database development, analysis, design, implementation, and administration. Applications of database programs for organizational information processing.
+/
+SOFTWARE ENGINEERING
+Methodology of designing and programming for a wide area of applications with a high degree of modifiability, efficiency, reliability, and understanding.
+/
+SOFTWARE PROJECT MNGT
+Technical and behavioral aspects of project management: concepts, needs identification, software project manager, software teams, software project organizations, project communications, software project planning, scheduling, control, associated costs, using management software tools.
+/
+OBJECT-ORIENTED DESIGN & PROGRAMMING
+Introduction to object-oriented design and programming technology (OOD/OOP). Main phases in object-oriented design and techniques in object-oriented programming. Programming language design and implementation issues for object-oriented languages.
+/
+WEB-BASED PROGRAM
+Applications executing on a client-server system, emphasizing client side. Technologies include HTTP protocol, dynamic HTML, common gateway interface (CGI) programming and Java applets.
+/
+SYSTEM DEVELOPMENT / E-COMMERCE
+Developing an organization's electronic commerce technical infrastructure, hardware and software specification issues, strategic development of computer-mediated business and tools, policy and societal impact issues as well as future directions in electronic commerce. 
+/
+INFORMATION SYSTEMS SECURITY
+Information systems security threats, technologies and business requirements, emphasizing human and technological aspects of IT security problems.
+/
+INFORMATION SYSTEMS CAPSTONE
+This senior level course integrates all core IS related competencies by allowing students working in teams to design and implement an information system with consideration of real-world issues including cost, safety, efficiency, and suitability for the intended user. Students will display the ability to integrate and apply critical technical skills with a variety of management concepts, principles, techniques, and practices while effectively managing people, information, information and communication technologies, and business processes for organizational strategic goals. In addition, students will learn about and apply specific modern information systems development methods (ISDM), such as Agile approaches, as a guiding process framework for developing an IS solution. 
+/
+ETHICAL AND SOCIETAL CONCERNS OF COMPUTER SCIENTISTS
+Ethical questions and societal concerns related to the widespread use of computers and the resulting responsibilities of computer scientists
+/
+GAMING INTERFACE DESIGN
+Focuses on game design and the computer gaming industry. Designed to introduce the fundamental elements, frameworks and standards related to computer gaming. Instruction will be a combination of lectures, group/individual projects and class assignments aimed at the dissemination of conceptual elements with practical application. 
+/
+SCRIPTING LANGUAGES 
+Provides students with a solid foundation in the concepts which underlie many scripting languages and environments without focusing exclusively on any on elanguage. The emphasis will be on the underlying concepts behind the development of small programs in various scripting languages commonly found in industry. 
+/----------------------------------------------------CORE-------------
+INTRO TO BUSINESS PROGRAMMING
+A study of computer programming for business applications using a language such as COBOL. Students will design, implement, test and document programs in application areas such as payroll, accounting, inventory and file maintenance.
+/
+VISUAL BASIC PROGRAMMING
+Concepts, tools and techniques of software development using an event-driven language that supports a graphical user interface and an object-oriented environment. 
+/
+INTERNSHIP IN CIS
+Students work in a local computing facility under on-site and faculty supervision. 
+/
+DECISION SUPPORT SYSTEMS
+Computer-based information systems for managerial decision-making. Includes mathematical modeling and decision support systems, systems architecture, DDS development tools, organization issues of decision support, multiparticipant DSS, and integration with other information systems. 
+/
+SELECT TOPICS INFO SYST
+Studies in selected areas of computer information systems.
+/
+APPLIED DATA MINING AND VISUAL ANALYTICS
+Provides students with a background in traditional data mining approaches using computational models as well as visual analytic approaches which map data onto a visual model enabling knowledge discovery through human perception. 
+/
+INDEPENDENT STUDY IN COMPUTER INFORMATION SYSTEMS 
+Directed study in selected areas of Computer Information Systems for which there is no regular course offered. The use of a proposal and well-defined objectives as well as a formal paper or project report are required. 
+/
+EMERGING INTERNET TECHNOLOGIES
+Focuses on emerging technologies that are essential in current trends and techniques related to Internet-based applications and their role in the IT field. Surveys the framework and essential elements in emerging Internet technology. Innovative technologies and related topics will be introduced along with the basic foundations required for their implementation and use.
+/
+CLOUD COMPUTING FOR ENTERPRISES
+Focuses on cloud computing and its role in the IT field. Introduces the fundamental elements, frameworks and standards of cloud computing. 
+/

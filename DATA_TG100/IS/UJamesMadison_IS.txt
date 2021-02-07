@@ -1,0 +1,141 @@
+/
+Fundamental Human Communication: Presentations
+Study of human communication as a process. Overview of the principles and practices of interpersonal, small group and public communication. Emphasis on examining the role of self-concept, perception, culture, verbal and nonverbal dimensions in the communication process, using power and managing conflict, applying critical listening, practicing audience analysis within informative speech making.
+/
+Business Decision Making in a Modern Society
+This course introduces the concepts of basic technology literacy, information retrieval via electronic and hard copy; along with critical thinking skills. Basic business principles will be introduced to reinforce these concepts and their relationships. The course provides opportunity for applying the skills of oral and written communication to a variety of learning activities.
+/
+Critical Reading and Writing
+Fosters reflective, critical reading, writing, and research in public discourse, culture, humanities, technology, and science. Challenges students to consider cross disciplinary modes of inquiry through multiple genres with an attention to enlightened, global citizenship. 
+/
+Introduction to American Studies
+This interdisciplinary course will highlight the student’s role in interrogating the cultural and political function of representations of America in literature, history, philosophy, religion, popular culture, music and art. Students will gain an understanding of why definitions of American identity matter and learn about the contemporary debates that inform the discipline of American Studies today. 
+/
+Literature/Culture/Ideas
+This course will take a thematic approach to literature by examining multiple literary texts that engage with a common course theme concerned with the human experience. Themes address cultural, political, social, religious or philosophical aspect ideas through literature. 
+/
+Art in General Culture
+An exploratory course that aims to develop a non-technical, general cultural understanding of the space arts, such as architecture, painting, sculpture and industrial design. 
+/
+Topics in Applied Calculus in ISAT 
+This course introduces the concepts of differential and integral calculus and ordinary differential equations to model real-world applications in science, business, technology and economics. This course includes a computer laboratory component emphasizing modeling and numerical methods.
+/
+Concepts of Chemistry 
+A one-semester introduction to the fundamental principles, laws and applications of chemistry. Examples relating to the health sciences are emphasized. 
+/
+Environment: Earth 
+A study of geological processes causing global change and their impact on human thought. The relationship between some geological processes and life on the Earth is also considered.
+/
+U.S. History
+A survey of U.S. history from the Colonial period to the present, emphasizing the development of American civic life, the involvement of the U.S. in world affairs and the cultural richness of the American people.
+/
+Cultural Anthropology
+An introduction to the nature of culture and its relationship to language, economics, politics, kinship and other institutions in diverse cultures. The course also provides an overview of the theories, methods and ethical responsibilities involved in the study of cultural systems and ethnographic writing.
+/
+Personal Wellness
+Emphasizes lifestyle behaviors contributing to health promotion and disease prevention. General areas affecting health status are identified. Suggestions are made as to how health-related behaviors, self-care and individual decisions contribute to health and influence dimensions of wellness. 
+/
+General Psychology
+A study of the nervous system, sensation, perception, consciousness, learning, memory, language, intelligence, motivation, emotion, life span development, personality, psychopathology, psychotherapy, social psychology and the scientific method. 
+/
+Business Analytics I
+The application of data analysis and statistical methods in business. Introduces data visualization, descriptive statistics, probability, sampling, estimation and hypothesis testing. Emphasis is on using spreadsheet tools and functions for statistical analysis to support analytical decision-­making in a business environment. 
+/
+Interpersonal Skills
+An applied course consisting of experiential exercises followed by class discussion. Cases are used as learning activities where the instructor acts as a facilitator to learning. Essential theory emanates from class discussions with a student-based rather than instructor-based format. 
+/
+Computer Information Systems
+An introduction to computer-­based information systems for students with a major in the COB or a CIS minor. Emphasis is placed on the role of computers in business and society, computer hardware and software, analysis, design and implementation of information systems, computer ethics, and collaboration using computers.
+/
+Financial Accounting
+The role of financial data in contemporary society; the problems of measuring and reporting income, assets, liabilities and equities; interpretation of financial statements.
+/
+Business Analytics II
+The application of quantitative modeling and analysis to managerial decision-­making. Introduces techniques from predictive and prescriptive analytics including linear optimization, decision analysis, queuing, regression, time­series forecasting, and simulation. Emphasis is on implementing, solving, and interpreting results from spreadsheet models for business applications. 
+/
+Introduction to Macroeconomics [C4GE]
+Behavior of systems at the national and international levels. Topics include the methodology of economics as a social science, supply and demand, definition and measurement of important macroeconomic variables, and theoretical models of growth, inflation, interest rates, unemployment, business cycles, stabilization policy, exchange rates and the balance of payments.
+/
+Introduction to Microeconomics
+Topics covered include supply and demand, consumer choice, economics of the firm and industry, production costs, distribution theory, international trade, comparative economic systems and the philosophy of economics. 
+/
+Introductory Calculus I [C3QR]
+Topics from differential and integral calculus with applications to the social, behavioral or life sciences and business or management.
+/
+Managerial Accounting
+The attention-directing and problem-solving functions of accounting in relation to current planning and control, evaluation of performance, special decisions and long-range planning. 
+/
+Integrative Business: Management
+This is the management component of an integrated learning experience consisting of four courses, taken concurrently, which introduces the fundamental conceptual tools of management, finance, operation and marketing in such a way as to establish their mutual relevance and interdependence. Students work in small project teams on tasks designed to require the application in concert of conceptual tools from each of the function areas.
+/
+Integrative Business: Finance
+This is the finance component of an integrated learning experience consisting of four courses, taken concurrently, which introduces the fundamental conceptual tools of management, finance, operation and marketing in such a way as to establish their mutual relevance and interdependence. 
+/
+Integrative Business: Operations
+This is the operations component of an integrated learning experience consisting of four courses, taken concurrently, which introduces the fundamental conceptual tools of management, finance, operation and marketing in such a way as to establish their mutual relevance and interdependence. 
+/
+Integrative Business: Marketing
+This is the marketing component of an integrated learning experience consisting of four courses, taken concurrently, which introduces the fundamental conceptual tools of management, finance, operation and marketing in such a way as to establish their mutual relevance and interdependence.
+/
+Principles of Programming
+Students will be required to solve real-world business problems using a programming language. Projects will include the use of control structures (selection and iteration), collections/lists of data, functions and file processing logic. 
+/
+Cloud Server Management
+This is a lab-based course that introduces the student to operating systems and server administration in a business environment. Students will learn the basic functions of managing cloud servers through the hands-on use of cloud resources. Additionally, students will acquire hands-on server administration skills in order to better understand the operational and security demands of business applications.
+/
+Enterprise Architecture
+This course explores the analysis, design, implementation, evaluation and management of enterprise IT solutions. Emphasis will be placed on planning and modeling the enterprise. Topics include functional modeling, physical architecture design, security planning and recovery issues, project management, emerging technologies, and ethical, financial and global considerations.
+/
+Computing and Telecommunications Networks
+This course focuses on the underlying principles of telecommunications and how these principles are deployed to provide efficient and secure networks for providing voice, data, and video services. Emphasis is placed on understanding basic routing, switching, and data aggregation techniques; information security strategies; and understanding how basic information systems applications utilize telecommunications services.
+/
+Database Design and Application
+A study of the tools and techniques of database analysis and design including the implementation of the design using common database management system models.
+/
+Intermediate Computer Programming
+Study of concepts and techniques used in object-oriented programming for business applications including program specification, design, development, testing, implementation and documentation. Topics include: basic programming structures; method, array and memory analysis; object-oriented principles (encapsulation, inheritance, polymorphism); graphical user interface (GUI) design and database connectivity.
+/
+Systems Analysis and Design
+An introduction to the techniques of systems analysis and design. Emphasizes concept of system life cycle and importance of users in system design. 
+/
+Information Systems Development and Implementation
+Comprehensive development and implementation of enterprise-level systems using object-oriented methodologies, database driven architectures, systems analysis and design procedures, and project management skills. Topics covered will include advanced programming techniques, database processing, GUI design, object communication and a comprehensive group capstone project. 
+/
+Advanced Visual Basic Programming
+Advanced course in Visual Basic programming. Emphasis will be placed on Object-Oriented programming, sequential and random data files and error trapping. Other topics covered will include data access objects, client server, printing in VB and Crystal Reports.  
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/

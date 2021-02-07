@@ -1,0 +1,78 @@
+Introduction to Academic Writing
+Teaches rhetorical knowledge and skills, focusing on critical reading, writing, and thinking. Introduces writing for specific academic audiences and situations. Emphasizes writing as a process through multiple drafts and revisions. May be delivered hybrid and/or online
+/
+Intermediate Writing/Academic Writing and Research
+Emphasizes academic inquiry and research. Explores issues from multiple perspectives. Teaches careful reasoning, argumentation, and rhetorical awareness of purpose, audience, and genre. Focuses on critically evaluating, effectively integrating, and properly documenting sources
+/
+Calculus I
+Covers limits, continuity, differentiation, applications of differentiation, integration, and applications of integration, including derivatives and integrals of polynomial functions, rational functions, exponential functions, logarithmic functions, trigonometric functions, inverse trigonometric functions, and hyperbolic functions.
+/
+US History to 1877
+Surveys the origins of the United States from the Pre-Columbian era and early colonization through Reconstruction. Focuses on encounters among indigenous, African and European peoples; gender, race, and Atlantic slavery; the causes and consequences of the American Revolution; the westward expansion of the United States; and the sectional crisis that lead to the American Civil War.
+/
+Ethics and Values
+Challenges students to explore and clarify their values; critically read works of philosophy, literature, religion, and history toward understanding the basis of their ethical views; and read, study, research, discuss, and write about difficult ethical issues. Focuses on issues of good vs. evil, justice vs. injustice, equality vs. inequality, and the necessity of defining and examining happiness and values.
+/
+Public Speaking
+Provides an introduction to basic concepts, theories, principles of oral communication as applied to a variety of speaking situations. Develops competence in oral communication through performance, the development of critical thinking skills, arrangement of ideas, and use of evidence and reasoning to support claims. Explains how culture influences what is considered effective public speaking. 
+/
+Physics
+A calculus-based treatment of introductory physics for scientists and engineers. Topics include mechanics, fluid physics, thermodynamics, vibrations, and waves.
+/
+Fundamentals of Programming
+For Majors in Computer Science, Computer Engineering, Software Engineering, and other majors requiring computer programming skills. Introduces the fundamental concepts of computer programming. Presents the ideas, tools, structure, syntax, and design techniques for developing well-formed programs. Studies problem solving, program structure, data types, decision logic, loops, functions, input and output, and arrays. Introduces the basic ideas of classes and objects. Requires students to program a number of assignments that demonstrate their understanding of these concepts
+/
+Object Oriented Programming
+Introduces the key concepts of object-oriented programming. Includes pointers and dynamic memory allocation, linked lists, inheritance and polymorphism, the development of graphical user interfaces, operator overloading, memory managment, exceptions, templates and the standard template library, and an overview of object-oriented analysis and design.
+/
+Discrete Mathematical Structures I
+For Computer Science Majors. Covers algebraic structures applied to computer programming. Includes logic, sets, elementary number theory, mathematical induction, recursion, algorithm complexity, combinatorics, and relations. First of a two-semester sequence
+/
+Introduction to Algorithms and Data Structures
+Introduces data structures using an object-oriented programming language, and paradigm. Studies data abstraction as a design tool. Includes advanced arrays, records, dynamic data structures, searching and sorting, vectors, trees, linked lists, and graphs
+/
+Web Programming I
+Covers design and development of browser-based programs with an emphasis on single-page applications. Teaches generation and modification of HTML via JavaScript, debugging techniques, communicating with web servers, and use of XML and JSON
+/
+Computer Networks I
+A rigorous introduction to computer networking theory and technologies for Computer Science and Information Technology majors. Includes theory of data communications protocols; theory and design of transmission systems; transmission media; and communication software.
+/
+Computer Networks II
+Focuses on the upper layers of the OSI and Internet models. Covers Internet (TCP/IP) protocols, routing theory, transport protocols, network application interfaces, presentation formatting, information theory and compression, cryptography, and other emerging technologies as time permits. Requires lab exercises and programming assignments to be completed outside of lecture.
+/
+Computer Organization and Architecture
+Uses assembly language to introduce basic concepts of computer organization. Includes number systems, CPU organization, instruction sets, programming in assembly, memory organization, debugging, program design, and documentation. Covers interrupts, vector tables, and disk I/O.
+/
+Global Social and Ethical Issues in Computing
+Examines how computers have affected global society and how they could further affect it in the future. Challenges students to (1) examine several types of ethical reasoning to establish an ethical framework to assist in making normative judgments, (2) examine various ethical issues surrounding computer usage, particularly in differing societal contexts, (3) understand the responsibilities they bear, to know how their actions can affect both society and individual people in their own and other cultural setings, and to appreciate both the good and the harm they can do and (4) consider many of the moral and professional issues that those who work with computers might expect to face.
+/
+Operating Systems Theory
+Introduces the Unix operating system. Presents the underlying theory and concepts of an operating system, and covers the following topics in depth: device management, processes, threads, synchronization, scheduling, deadlocks, memory management, virtual memory, and file systems. Provides practical experience in writing programs that use standard Unix system calls to interface directly with the operating system.
+/
+Discrete Mathematical Structures II
+Presents concepts from discrete mathematics including formal languages, and automata, including Turing machines, regular expressions, grammars, and computability.
+/
+Numerical Software Development
+Teaches the tools necessary for modern scientific computation. Covers computer representation of floating-point numbers, error analysis and numerical stability, IEEE floating-point standards, testing of numerical algorithms, calculation of elementary functions, roots of equations, solutions of linear systems, numerical integration and differentiation, interpolation and approximation, Monte Carlo methods. 
+/
+Database Theory
+Introduces theory, concepts, architecture, and use of database management systems (DBMS). Presents the relational and object-oriented database models used in both local and client/server databases. Discusses the Structured Query Language (SQL), database design, normalization theory, and relational calculus relating to database management systems.
+/
+Software Engineering
+Presents concepts, methodology and best-practices necessary to develop large scale software projects. Includes step-wise software requirements analysis, design, implementation, testing and release. Discusses software generation, reuse, scheduling, verification, and maintenance. Emphasizes current "real world" industry best-practices and tools
+/
+Python Software Development
+Covers the features of the Python programming language. Includes scripting, dynamic typing, data types (sequences, sets, mappings, files, etc.), loops, iterators, generators, functions, coroutines, classes and objects, modules, packages and scope, runtime services, data wrangling, concurrent programming
+/
+Analysis of Algorithms
+Introduces development and mathematical analysis of fundamental computer algorithms. Teaches divide and conquer and greedy algorithms, dynamic programming, backtracking, branch and bound and NP-completeness
+/
+C plus plus Software Development
+Teaches C++ programming in a production environment, emphasizing mastery of the standard C++ library. Covers the following topics in-depth: const correctness, operator overloading, exception handling, exception-safe design, programming with assertions, automated unit testing, advanced memory management, generic programming with templates, containers, iterators, algorithms, concurrency, and functional programming
+/
+Principles and Patterns of Software Design
+Gives students familiarity with modern principles and practices of software design. Emphasizes design patterns, including their motivation and the design principles on which they are based.
+/
+Advanced High Performance Computer Architecture
+Presents theory and concepts of high-performance computer architectures. Includes digital logic, buses, registers, ALU's, control units, pipelining, parallelism, DASD's, SASD's, RAID, caching, instruction-sets, memory hierarchy, multiprocessing, interconnection via networks.
+/

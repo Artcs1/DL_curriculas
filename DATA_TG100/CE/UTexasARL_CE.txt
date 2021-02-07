@@ -1,0 +1,96 @@
+﻿DISCRETE STRUCTURES.  
+Propositional and predicate logic, mathematical proof techniques, sets, combinatorics, functions and relations, graphs, and graph algorithms.
+/
+PROBLEM SOLVING IN ENGINEERING. 
+Broad introduction to engineering through the process of applying the principles of mathematics to solve real-life engineering problems. Math topics are presented within the context of engineering applications and reinforced through examples from engineering courses. Also introduces algorithm development through the use of the engineering analysis software MATLAB. 
+/
+EMBEDDED SYSTEMS II.  
+Advanced course in design of microcontroller-based systems. Emphasis is on the application of microcontrollers and other VLSI components to real-time, interactive, and online problems. 
+/
+ALGORITHMS & DATA STRUCTURES. 
+Design and analysis of algorithms with an emphasis on data structures. Approaches to analyzing lower bounds on problems and upper bounds on algorithms. Classical algorithm design techniques including algorithms for sorting, searching, and other operations on data structures such as hash tables, trees, graphs, strings, and advanced data structures, dynamic programming and greedy approaches. 
+/
+HISTORY OF THE UNITED STATES, 1865 TO PRESENT.  
+An introduction to the political, social, economic, and cultural history of the United States since 1865. This course is designed to help students understand and evaluate their society, comprehend the historical experience, and further develop reading and writing competencies and critical skills.
+/
+INTRODUCTION TO COMPUTER SCIENCE AND ENGINEERING.
+Introduction to engineering concepts, the computer science and engineering disciplines, skills for written communication, and departmental orientation.
+/
+ELECTRONICS FOR COMPUTER ENGINEERING.
+Review of basic electronics concepts, Integrated circuit technologies, Realization of digital logic devices, Analog filters, Signals and Signal Conditioning, Instrumentation, A/D, D/A conversion, Sensors, Oscillators, PLLs, Actuators, Prototyping, SMT and Schematics and PCBs (CAD). 
+/
+OPERATING SYSTEMS. 
+Functions and components of an operating system, including process synchronization, job scheduling, memory management, file systems protection, and deadlocks. Related system software, such as loaders, linkers, assemblers, and windowing systems. 
+/
+EMBEDDED SYSTEMS I. 
+Design of microcontroller-based systems, including microprocessor programming, component and system architectures, memory interfacing, asynchronous and synchronous serial interfaces, timer-based peripherals, analog to digital (A/D) and digital to analog (D/A) converters, and typical applications.
+/
+CIRCUITS AND SIGNALS. 
+Basic principles of electrical circuits using resistors, capacitors and inductors. Filter analysis and synthesis using complex algebra. Introduction to operational amplifiers. Time domain and frequency domain analysis and taxonomy of signals. Concurrent laboratory experiments complement lecture topics. 
+/
+HISTORY OF THE UNITED STATES TO 1865. 
+An introduction to the political, social, economic, and cultural history of the United States prior to 1865. This course is designed to help students understand and evaluate their society, comprehend the historical experience, and further develop reading and writing competencies and critical skills. 
+/
+OBJECT-ORIENTED PROGRAMMING. 
+Object-oriented concepts, class diagrams, collection classes, generics, polymorphism, and reusability.  Projects involve extensive programming and include graphical user interfaces and multithreading. 
+/
+PRACTICAL COMPUTER HARDWARE/SOFTWARE SYSTEMS. 
+A practical approach to hands-on computer hardware and software systems in a laboratory environment. Students will be exposed to basic design concepts using off-the-shelf hardware components and to tools that enable the design of complex software systems. 
+/
+STATE AND LOCAL GOVERNMENT.  
+The principles and organization of American state, county, and municipal government, together with current problems and the constitution and government of Texas.
+/
+PROFESSIONAL AND TECHNICAL COMMUNICATION FOR SCIENCE AND ENGINEERING.
+Theory and practice in written and oral presentations with an emphasis on professional and technical communication for science and engineering. 
+/
+INTRODUCTION TO MATRICES AND LINEAR ALGEBRA.
+Solving systems of linear equations, matrix operations, determinants, vector spaces, linear transformation, orthogonality, Gram-Schmidt process, projections, and eigenvalues and eigenvectors. 
+/
+GENERAL TECHNICAL PHYSICS I.  
+The first half of a one-year technical course. Required for many science and engineering majors, exceeds premedical requirement. The study of physical phenomena in the fields of mechanics, heat, and waves. 
+/
+COMPUTER ORGANIZATION & ASSEMBLY LANGUAGE PROGRAMMING. 
+Computer organization from the viewpoint of software, including: the memory hierarchy, instruction set architectures, memory addressing, input-output, integer and floating-point representation and arithmetic. The relationship of higher-level programming languages to the operating system and to instruction set architecture are explored. Some programming in an assembly language. 
+/
+LINEAR ALGEBRA FOR CSE. 
+Solving systems of equations, matrix algebra, determinants, vector spaces, orthogonality and least squares, with applications to computer science. 
+/
+RHETORIC AND COMPOSITION I. 
+Introduction to college reading and writing. Emphasizes recursive writing processes, rhetorical analysis, synthesis of sources, and argument.
+/
+INTRODUCTION TO DIGITAL LOGIC.
+Analysis, design and testing of combinational and sequential logic circuits. Topics include Boolean algebra, logic circuit minimization techniques, synchronous sequential circuit design, algorithmic state machine design, design of arithmetic/logic and control units. Computer aided design tools and utilized throughout the course.
+/
+CALCULUS II. 
+Applications of integration, techniques of integration, parametric equations, polar coordinates, sequences, and series.
+/
+CALCULUS I.
+Concepts of limit, continuity, differentiation and integration; applications of these concepts. 
+/
+INTRODUCTION TO SIGNAL PROCESSING.
+Examines models for presentation and processing of digital signals. Sampling theorem, correlation and convolution, time and frequency analysis of linear systems, Fourier transform, Z-transform, design of digital filters structures for discrete time systems. 
+/
+ENGINEERING PROBABILITY.  
+Topics in engineering that involve random processes. Applications and backgrounds for topics in reliability, inventory systems, and queuing problems, including absolute and conditional probabilities, discrete and continuous random variables, parameter estimation, hypothesis testing, and an introduction to linear regression, experimental design, and analysis of variance. 
+/
+GENERAL TECHNICAL PHYSICS II.  
+The second half of a one-year technical course. The study of physical phenomena including electricity, magnetism, circuit theory, light, and optics. 
+/
+COMPUTER SYSTEM DESIGN PROJECT I.  
+Analysis and design of an industry-type project that involves hardware and software components to meet desired needs within realistic constraints and standards. 
+/
+INTERMEDIATE PROGRAMMING
+Programming concepts beyond basic control and data structures. Emphasis is given to data structures including linked-lists and trees as well as modular design consistent with software engineering principles. 
+/
+PROFESSIONAL PRACTICES.  
+Ethics. Contemporary social aspects and responsibilities of computing in a global, societal context. Lifelong learning goals and resources. Entrepreneurship and intellectual property. Project involving written and oral communication.
+/
+COMPUTER SYSTEM DESIGN PROJECT II. 
+Implementation, integration, quality assurance through peer review and testing, and deployment of the project ; oral presentation, documentation and project demonstration. 
+/
+GOVERNMENT OF THE UNITED STATES. 
+The constitution and government of the United States. The organization, procedures, and duties of the branches of the government, together with their accomplishments and defects.
+/
+QUANTITATIVE COMPUTER ARCHITECTURE. 
+Pipelined processors, parallel processors including shared and distributed memory, multicore, Very Long Instruction Word (VLIW) and graphics processors, memory and cache design, computer peripherals, and computer clusters. 
+/

@@ -1,0 +1,295 @@
+Calculus I
+Introduction to calculus, including functions, limits, continuity, derivatives and applications of the derivative, sketching of graphs of functions, definite and indefinite integrals, and calculation of area. The course is especially recommended for science, engineering and mathematics majors.
+/
+Calculus II
+Continuation of MATH140, including techniques of integration, improper integrals, applications of integration (such as volumes, work, arc length, moments), inverse functions, exponential and logarithmic functions, sequences and series.
+/
+Differential Equations for Scientists and Engineers
+An introduction to the basic methods of solving ordinary differential equations. Equations of first and second order, linear differential equations, Laplace transforms, numerical methods and the qualitative theory of differential equations.
+/
+Discrete Structures
+Fundamental mathematical concepts related to computer science, includin finite and infinite sets, relations, functions, and propositional logic. Introduction to other techniques, modeling and solving problems in computer science. Introduction to permutations, combinations, graphs, and trees with selected applications.
+/
+General Physics: Mechanics and Particle Dynamics
+First semester of a three-semester calculus-based general physics course. Laws of motion, force, and energy; principles of mechanics, collisions, linear momentum, rotation, and gravitation.
+/
+General Physics: Vibration, Waves, Heat, Electricity and Magnetism
+Second semester of a three-semester calculus-based general physics course. Vibrations, waves, fluids; heat, kinetic theory, and thermodynamics; electrostatics, circuits, and magnetism.
+/
+General Physics: Vibrations, Waves, Heat, Electricity and Magnetism (Laboratory)
+Lab includes experiments on mechanics, vibrations, waves, heat, electricity and magnetism.
+/
+General Chemistry for Engineers
+The nature and composition of matter, solutions, chemical reactions, equilibria, and electrochemistry, with applications to various fields of engineering.
+/
+Introduction to Engineering Design
+Students work as teams to design and build a product using computer software for word-processing, spreadsheet, CAD, and communication skills.
+/
+Introduction to Electrical & Computer Engineering
+An exploration of topics within Electrical & Computer Engineering (ECE). Students will be introduced to key elements of both the Electrical Engineering and Computer Engineering curriculum, including: circuits, computing systems and software, communications and controls, electrodynamics and waves, microelectronics, signal processing, and power systems.
+/
+Technology and Consequences: Engineering, Ethics, and Humanity
+What makes a technology socially responsible? At UMD, the Fearless Ideas campaign asks us to aim our enthusiasm for technology at big real problems. At the same time, we are coming to appreciate the increasingly complex nature of technological systems as they become integrated into all forms of infrastructure, we realize they may be unpredictable, interdependent on social and biological systems, and have unintended consequences. In this midst of this complexity, people make decisions with far reaching impacts. How then do we follow our passion for technology and innovation but also stay skeptical in a way that allows us to consider the potential and shortcomings of technology? Designed for both engineering and non-engineering students wishing to explore and assess the impact of engineering technology on society and the role of society in generating that technology.
+/
+Electric Circuits
+Design, analysis, simulation, construction and evaluation of electric circuits. Terminal Relationships. Kirchoff's laws. DC and AC steady state analysis. Node and mesh methods. Thevenin and Norton equivalent circuits. Transient behavior of first- and second-order circuits. Frequency response and transfer functions. Ideal op-amp circuits. Diode and transistor circuits.
+/
+Elements of Discrete Signal Analysis
+Discrete-time and continuous-time signals, sampling. Linear transformers, orthogonal projections. Discrete Fourier Transform and its properties. Fourier Series. Introduction to discrete-time linear filters in both time and frequency domains.
+/
+Digital Logic Design
+The design and analysis of combinational and synchronous sequential systems comprising digital logic gates and flip-flop memory devices; underlying tools such as switching and Boolean algebras and Karnaugh map simplification of gate networks; design and use of decoders, multiplexers, encoders, adders, registers, counters, sequence recognizers, programmable logic arrays (PLAs), read-only memories (ROMS, PROMS), and similar devices. Arbitrary radix conversion.
+/
+Digital Circuits and Systems Laboratory
+Introduction to basic measurement techniques and electrical laboratory equipment (power supplies, oscilloscopes, voltmeters, etc.). Design, construction, and characterization of digital circuits containing logic gates, sequential elements, oscillators, and digital integrated circuits. Introduction to digital design and simulation with the Verilog Hardware Description Language (HDL).
+/
+Analog and Digital Electronics
+Conceptual operation of transistors and diodes. Large and small signal operation of BJTs and MOSFETs. Basic transistor configurations. Logic circuits and semiconductor memory. Multi-transistor circuits including differential amplifiers and current mirrors. Frequency response.
+/
+Engineering Probability
+Axioms of probability; conditional probability and Bayes' rules; random variables, probability distribution and densities: functions of random variables: weak law of large numbers and central limit theorem. Introduction to random processes; correlation functions, spectral densities, and linear systems. Applications to noise in electrical systems, filtering of signals from noise, estimation, and digital communications.
+/
+Computer Organization 
+Structure and organization of digital computers. Registers, memory, control and I/O. Data and instruction formats, addressing modes, assembly language programming. Elements of system software, subroutines and their linkages.
+/
+Digital Computer Design
+Hardware design of digital computers. Arithmetic and logic units, adders, multipliers and dividers. Floating-point arithmetic units. Bus and register structures. Control units, both hardwired and microprogrammed. Index registers, stacks, and other addressing schemes. Interrupts, DMA and interfacing.
+/
+Object-Oriented Programming II
+Introduction to use of computers to solve problems using software engineering principles. Design, build, test, and debug medium -size software systems and learn to use relevant tools. Use object-oriented methods to create effective and efficient problem solutions. Use and implement application programming interfaces (APIs). Programming done in Java.
+/
+Introduction to Computer Systems
+Introduction to the interaction between user programs and the operating system/hardware. Major topics include C programming, introductory systems programming, and assembly language. Other concepts covered include UNIX, machine data representation, thread management, optimization, and virtual memory. Programming is done in the Linux Environment.
+/
+Organization of Programming Languages
+A study of programming languages, including their syntax, semantics, and implementation. Several different models of languages are discussed, including dynamic, scripting (e.g., Ruby, Python) functional (e.g., OCaml, Haskell, Scheme), and memory safe systems programming (e.g., Rust). Explores language features such as formal syntax, scoping and binding of variables, higher-order programming, typing, and type polymorphism. Introduces finite automata, context free grammar, parsing, lambda calculus, and basics of security attacks and software security.
+/
+Algorithms 
+A systematic study of the complexity of some elementary algorithms related to sorting, graphs and trees, and combinatorics. Algorithms are analyzed using mathematical techniques to solve recurrences and summations.
+/
+Operating Systems
+A hands-on introduction to operating systems, including topics in: multiprogramming, communication and synchronization, memory management, IO subsystems, and resource scheduling polices. The laboratory component consists of constructing a small kernel, including functions for device IO, multi-tasking, and memory management.
+/
+Technical Writing
+The writing of technical papers and reports.
+/
+Capstone Design Project:Microprocessor-Based Design
+his course provides a team-based experience in the design and implementation of a microprocessor-based system to solve a real-world problem. A product specification or client requirement forms the basis for the student teams development of an initial technical design specification. The team then divides into smaller groups for the parallel development of hardware and software subsystems of the product device. Upon completion and test of the various subsystems, software and hardware components are integrated into the system prototype and the system is tested and documented.
+/
+Capstone Design Project: Modern Digital System Design
+A real-world digital system design experience that prepares students for careers in FPGA and ASIC design. Student teams use the Verilog hardware description language together with industry-standard simulation and synthesis tools to design medium-complexity digital chips that are ultimately configured and tested on FPGAs with real-world applications. Results from these projects will be presented through in-class presentations and written reports.
+/
+Capstone Design Project: Mixed Signal VLSI Design
+This course covers the design of very large scale integrated (VLSI) circuits including analysis and simulation of digital and analog circuits, layout, and component selection. The material involves extensive use of Computer-Aided Design (CAD) tools for circuit simulation and layout and draws upon knowledge from 300-level EE courses Following current industry paradigms, students work in teams to design, thoroughly simulate, and specify physical layout of mixed signal VLSI circuits prior to their fabrication in a foundry.
+/
+Capstone Design Project: Multimedia Signal Processing
+An introductory course on multimedia signal processing bringing real-world design experience to students using state-of-the-art multimedia software and hardware. Lectures will provide basic theories and principles on multimedia compression, processing, communications, security, and recognition.
+/
+Capstone Design Project: Autonomous Control of Interacting Robots
+The course involves students in the design,development, and application of autonomous robotic systems.The robots are 4 wheeled vehicles with on-board sensors (cameras, acoustic sensors),computers and wireless communications capabilities. The students work in teams to program the the robots to accomplish a task individually and in teams of 2 or more robots. Applications vary from semester to semester, including racing with passing, soccer, search and identify.
+/
+Capstone Design Project; Electric Cars
+A capstone course on the design of electric cars, which will be designedwith the objective to participate in the Formula SAE racing competition.This is a system level design course, which will eventually use a combination of off-the-shelf components. The major components inside theelectric car include lectric motor, power inverter, drive circuit, battery management system, sensors and encoders etc. This course will also discuss level simulation of electric vehicle along with the electrical components in Autonomie software.
+/
+Capstone Design Project; Electric Bikes
+A capstone course on the design of safe, light and utilitarian electric bikes for personal transportation. It is systems level and will make use of a combination of off-the-shelf and custom-made components. These vehicles must meet either one of these design challenges such as extended range superior terrain climbing capability. In addition, the vehicle must contain a plethora of wireless sensors for safety and convenience, such as GPS, on-board cameras, theft deterrent systems, communications and navigation. It must be able to operate under different road conditions, at all hours and even in slightly inclement weather.
+/
+Intermediate Topics in Computer Engineering; Advanced FPGA System Design using Verilog
+Intermediate Topics in Computer Engineering; Advanced FPGA System Design using Verilog
+/
+Topics in Computer Engineering; Reverse Engineering and Hardware Security Laboratory
+Topics in Computer Engineering; Reverse Engineering and Hardware Security Laboratory
+/
+Integrated Circuit Fabrication Laboratory
+Characterization of wafers and fabrication steps. Oxide growth, lithography, dopant diffusion, and metal deposition and patterning will be discussed in the lectures and carried out in the lab in fabricating NMOS transistor circuits. The transistor characteristics will be measured and related to the fabrication parameters.
+/
+Microelectronics Design Laboratory
+Students design and build fairly sophisticated circuits, mainly compose of discrete transistors and integrated circuits. Many of the projects are designed to require that students synthesize from what they have learned in many of the disciplines in electrical engineering. Students learn they can actually use their knowledge to build something very practical, which may include a high-fidelity amplifier, a radio, a memory cell, a transmitter, etc.
+/
+Communications Design Laboratory
+This course explores the signal processing and communication system theoretical concepts presented in ENEE 322 Signals and Systems, ENEE 324 Engineering Probability, ENEE 420 Communication Systems, and ENEE 425 Digital Signal Processing by implementing them on actual hardware in real time. In the process, students gain experience using equipment commonly used in industry, such as, oscilloscopes, spectrum analyzers, error rate test sets, channel simulators, digital signal processors, analog-to-digital and digital-to-analog converters, and signal generators. The experiments are based on using a Texas Instruments TMS320C6713 DSP Starter Kit (DSK) stand-alone board that communicates with the PC through a USB port.
+/
+Computer Laboratory
+This laboratory course focuses on the hardware/software interface in computer systems. Hand-on experiments are used to teach design, construction, analysis, and measurement of both hardware and software for embedded systems. Projects emphasize using microcontrollers for control, sensing, and communication through various I/O devices.
+/
+Control Systems Laboratory
+Students will design, implement, and test controllers for a variety of systems. This will enhance their understanding of feedback control and familiarize them with the characteristics and limitations of real control devices. They will also complete a small project. This will entail writing a proposal, purchasing parts for their controller, building the system, testing it, and writing a final report describing what they have done.
+/
+Electrical Machines Laboratory
+Experiments involving single and three phase transformers, induction machines, synchronous machines and D.C. machines.
+/
+Senior Projects in Electrical and Computer Engineering
+Senior Projects in Electrical and Computer Engineering
+/
+Lasers and Electro-optic Devices
+Modern physical optics: Gaussian beams, optical resonators, optical waveguides; theory of laser oscillation, rate equations; common laser systems. Selected modern optoelectronic devices like detectors and modulators. Role of lasers and optoelectronics in modern technology.
+/
+Physical Principles of Wireless Communications
+Physical Principles of Wireless Communications
+/
+Topics in Electrophysics; Quantum Phenomena in Electrical Engineering
+The course provides fundamental understanding of quantum mechanical principles for electrical engineering and nanotechnology applications. It is designed to acquaint electrical and computer engineering students with concepts on which modern electronic and optical devices are based. Topics include: wave phenomena and wave-particle duality, photons and quantum states, entanglement, paradoxes, quantum crytography, Schrodingers equation in 1-dimension, bound states, tunneling, scattering problems, optoelectronic and electronic devices and superconducting Josephson's junctions.
+/
+Independent Study in Electrical and Computer Engineering
+Independent Study in Electrical and Computer Engineering
+/
+Renewable Energy
+Solar Energy Conversion Systems: History of Photovoltaic (PV) Systems, PV Cell, Module and Array Models and Equivalent Circuits, Characteristic Resistance, Fill Factor, Effects of Parasitic Resistances, Mismatch Effects, Shading, Bypass Diodes, Sun Tracking Systems, Maximum Power Point Tracking (MPPT) Techniques, Isolated and Non-isolated Switch-mode DC/DC for PV Systems, Inverter Design and Control, Sizing the PV Panel and Battery Pack in PV Applications. Wind Energy Conversion Systems: Introduction to Wind Energy Harvesting, Horizontal and Vertical Wind Systems, Fundamentals of Wind Energy Harvesting Systems, Variable Speed and Fixed Speed Wind Energy Conversion Systems (WECS), Wind Turbines and Different Electrical Machines in Wind Applications, Induction Machine and Dynamic Model of Induction Machines, Synchronous Generators and Dynamic Model of SG, Control of Wind Energy Conversion Systems.
+/
+Power Electronics
+This course is suitable for undergraduate and graduate students who wan to learn the basic principles of power electronics and its applications. Special emphasis is placed on interdisciplinary nature of power electronics. Strong and intimate connections between power electronics and circuit theory, electronic circuits, semiconductor devices, electric power, magnetic, motor drives and control are stressed.
+/
+Power Systems
+Interconnected power systems, transmission lines, load flow studies, unit commitment and economic dispatch. Three phase networks, machine models. Symmetrical components, fault analysis and unbalanced operation. Power system transients, stability and numerical methods in power system analysis.
+/
+Digital Control Systems
+Introduction to techniques for the analysis and design of linear contro systems and implementation of control systems using digital technology. Topics include linearization, solution of linear equations, z-transforms and Laplace transforms, design of linear controllers, optimal control, and digital implementation of control designs. Students will use MATLAB for the solution of problems and the design of control systems.
+/
+Control Systems 
+Mathematical models for control system components. Transform and time domain methods for linear control systems. Introductory stability theory. Root locus, bode diagrams and Nyquist plots. Design specifications in the time and frequency domains. Compensation design in the time and frequency domain. Introduction to sampled data systems.
+/
+Topics in Computer Engineering; CAD Tools
+Verilog or VDHL hardware description languages (HDLs) and graphical printed ciruit design CAD packages are used to create a digital system implemented on a printed circuit-board. A practical design for hardware incorporating a processor and interface devices is to be created by the student. Simulation is used to explore practical issues of system performance and device resource constraints, and a printed-circuit board proof-of-concept will be produced by the student.
+/
+Computer Systems Security
+Theoretical and practical aspects of computer systems security. Topics covered include symmetric/asymmetric encryption, message authentication, digital signatures, access control, as well as network security, web security and cloud security. Students acquire tools necessary for designing secure computer systems and programs and for defending against malicious threats (e.g., viruses, worms, denial of service).
+/
+Microprocessors
+Microprocessor architectures, instruction sets, and applications. Bus structures, memory, I/O interfacing. Assembly language programming, LSI device configuration, and the embedding of microprocessors in systems.
+/
+Topics in Signal Processing; Machine Learning
+A broad introduction to machine learning and statistical pattern recognition. Topics include: Supervised learning (Bayesian learning and classifier, parametric/non-parametric learning, discriminant functions, support vector machines, neural networks, deep learning networks); Unsupervised learning (clustering, dimensionality reduction, autoencoders). The course will also discuss recent applications of machine learning, such as computer vision, data mining, autonomous navigation, and speech recognition.
+/
+Communication Networks
+The main design issues associated with computer networks, satellite systems, radio nets, and general communication networks. Application of analytical tools of queuing theory to design problems in such networks. Review of proposed architectures and protocols.
+/
+Digital Signal Processing
+Sampling as a modulation process; aliasing; the sampling theorem; the Z-transform and discrete-time system analysis; direct and computer-aided design of recursive and nonrecursive digital filters; the Discrete Fourier Transform (DFT) and Fast Fourier Transform (FFT); digital filtering using the FFT; analog-to-digital and digital-to analog conversion; effects of quantization and finite-word-length arithmetic.
+/
+Communication Systems
+Fourier series, Fourier transforms and linear system analysis; random signals, autocorrelation functions and power spectral densities; analog communication systems: amplitude modulation, single-sideband modulation, frequency and phase modulation, sampling theorem and pulse-amplitude modulation; digital communication systems pulse-code modulation, phase-shift keying, differential phase shift keying, frequency shift keying; performance of analog and digital communication systems in the presence of noise.
+/
+Advanced Electronic Devices
+Advanced devices and their physical operation, providing a thorough description of those parts not usually covered in introductory electronics courses. These include Schottky and tunnel junctions, negative resistance devices used in wireless communication, homo-structure compound semiconductor transistors, hetero-structure (quantum effect) transistors, non-volatile memory devices, photonic devices such as LEDs and solid-state lasers, solar cells, photo-detectors and camera imagers, as well as bio-related components. Special consideration will be given to achieve an understanding of noise processes that limit electronic device performance. In all cases, system-level applications will be illustrated.
+/
+Advanced Analog and Digital Electronics
+Examination of analog and digital device models for analysis, design, and simulation of transistor level electronic circuits, emphasizing Metal Oxide Silicon Field Effect Transistors (MOSFETs); fundamental single transistor configurations; frequency response, feedback, and stability of multi-transistor circuits, such as current mirrors, differential amplifiers, voltage references, operational amplifiers and data converters; complementary Metal Oxide Silicon (CMOS) implementations of static and clocked digital as well as mixed signal circuits.
+/
+Electromagnetic Theory
+Introduction to electromagnetic fields. Coulomb's law, Gauss's law, electrical potential, dielectric materials capacitance, boundary value problems, Biot-Savart law, Ampere's law, Lorentz force equation, magnetic materials, magnetic circuits, inductance, time varying fields and Maxwell's equations.
+/
+Introduction to Device Physics 
+Basic physics of devices including fields in solids, crystal structure, properties of electrons and holes. Current flow in Si using drift-diffusion model. Properties of the pn junction. Properties of devices including BJTs, FETs and their physical characteristics.
+/
+Computer & Network Security
+An introduction to the topic of security in the context of computer systems and networks. Identify, analyze, and solve network-related security problems in computer systems. Fundamentals of number theory, authentication, and encryption technologies, as well as the practical problems that have to be solved in order to make those technologies workable in a networked environment, particularly in the wide-area Internet environment.
+/
+Computer Networking 
+Computer networks and architectures. The OSI model including discussion and examples of various network layers. A general introduction to existing network protocols. Communication protocol specification, analysis, and testing.
+/
+Data Structures
+Description, properties, and storage allocation functions of data structures including balanced binary trees, B-Trees, hash tables, skiplists, tries, KD-Trees and Quadtrees. Algorithms for manipulating structures. Applications from areas such as String Processing, Computer Graphics, Information Retrieval, Computer Networks, Computer Vision, and Operating Systems.
+/
+Introduction to Artificial Intelligence
+Introduces a range of ideas and methods in AI, varying semester to semester but chosen largely from: automated heuristic search, planning, games, knowledge representation, logical and statistical inference, learning, natural language processing, vision, robotics, cognitive modeling, and intelligent agents. Programming projects will help students obtain a hands-on feel for various topics.
+/
+Introduction to Machine Learning
+Machine Learning studies representations and algorithms that allow machines to improve their performance on a task from experience. This is a broad overview of existing methods for machine learning and an introduction to adaptive systems in general. Emphasis is given to practical aspects of machine learning and data mining.
+/
+Bioinformatic Algorithms, Databases, and Tools
+An introduction to the main algorithms, databases, and tools used in bioinformatics. Topics may include assembly and analysis of genome sequences, reconstructing evolutionary histories, predicting protein structure, and clustering of biological data. Use of scripting languages to perform analysis tasks on biological data. No prior knowledge of biology is assumed.
+/
+Database Design
+Students are introduced to database systems and motivates the database approach as a mechanism for modeling the real world. An in-depth coverage of the relational model, logical database design, query languages, and other database concepts including query optimization, concurrency control; transaction management, and log based crash recovery. Distributed and Web database architectures are also discussed.
+/
+Game Programming
+An introduction to the principles and practice of computer game programming and design. This includes an introduction to game hardware and systems, the principles of game design, object and terrain modeling, game physics, artificial intelligence for games, networking for games, rendering and animation, and aural rendering. Course topics are reinforced through the design and implementation of a working computer game.
+/
+Computer Vision
+An introduction to basic concepts and techniques in computervision. This includes low-level operations such as image filtering and edge detection, 3D reconstruction of scenes using stereo and structure from motion, and object detection, recognition and classification.
+/
+Computer Graphics
+An introduction to 3D computer graphics, focusing on the underlying building blocks and algorithms for applications such as 3D computer games, and augmented and virtual reality (AR/VR). Covers the basics of 3D image generation and 3D modeling, with an emphasis on interactive applications. Discusses the representation of 3D geometry, 3D transformations, projections, rasterization, basics of color spaces, texturing and lighting models, as well as programming of modern Graphics Processing Units (GPUs). Includes programming projects where students build their own 3D rendering engine step-by-step.
+/
+Introduction to Compilers
+Topics include lexical analysis, parsing, intermediate representations, program analysis, optimization, and code generation.
+/
+Programming Language Technologies and Paradigms
+Programming language technologies (e.g., object-oriented programming), their implementations and use in software design and implementation.
+/
+Introduction to Human-Computer Interaction
+Assess usability by quantitative and qualitative methods. Conduct task analyses, usability tests, expert reviews, and continuing assessments of working products by interviews, surveys, and logging. Apply design processes and guidelines to develop professional quality user interfaces. Build low-fidelity paper mockups, and a high-fidelity prototype using contemporary tools such as graphic editors and a graphical programming environment (eg: Visual Basic, Java).
+/
+Programming Handheld Systems
+Fundamental principles and concepts that underlie the programming of handheld systems, such as mobile phones, personal digital assistants, and tablet computers. Particular emphasis will be placed on concepts such as limited display size, power, memory and CPU speed; and new input modalities, where handheld systems differ substantially from non-handheld systems, and thus require special programming tools and approaches. Students will apply these concepts and principles in the context of an existing handset programming platform.
+/
+Design and Analysis of Computer Algorithms
+Fundamental techniques for designing efficient computer algorithms, proving their correctness, and analyzing their complexity. General topics include graph algorithms, basic algorithm design paradigms (such as greedy algorithms, divide-and-conquer, and dynamic programming), network flows, NP-completeness, and other selected topics in algorithms.
+/
+Elementary Theory of Computation
+Techniques are developed to determine the difficulty of a problem relative to a model of computation. Topics include Finite Automata, P, NP, decidability, undecidability, and communication complexity.
+/
+Introduction to Computational Game Theory
+Game theory deals with interactions among agents (either human or computerized) whose objectives and preferences may differ from the objectives and preferences of the other agents. It will also provide a comprehensive introduction to game theory, concentrating on its computational aspects.
+/
+Selected Topics in Computer Science; Introduction to Wireless Communications and Software-Defined Radio 
+Selected Topics in Computer Science; Introduction to Wireless Communications and Software-Defined Radio 
+/
+Computational Methods
+Basic computational methods for interpolation, least squares, approximation, numerical quadrature, numerical solution of polynomial and transcendental equations, systems of linear equations and initial value problems for ordinary differential equations. Emphasis on methods and their computational properties rather than their analytic aspects. Intended primarily for students in the physical and engineering sciences.
+/
+Introduction to Numerical Analysis I
+Floating point computations, direct methods for linear systems, interpolation, solution of nonlinear equations.
+/
+Combinatorics and Graph Theory
+General enumeration methods, difference equations, generating functions. Elements of graph theory, matrix representations of graphs, applications of graph theory to transport networks, matching theory and graphical algorithms.
+/
+Cryptography
+The theory, application, and implementation of mathematical techniques used to secure modern communications. Topics include symmetric and public-key encryption, message integrity, hash functions, block-cipher design and analysis, number theory, and digital signatures.
+/
+Calculus III
+Introduction to multivariable calculus, including vectors and vector-valued functions, partial derivatives and applications of partial derivatives (such as tangent planes and Lagrange multipliers), multiple integrals, volume, surface area, and the classical theorems of Green, Stokes and Gauss.
+/
+Applications of Linear Algebra
+Various applications of linear algebra: theory of finite games, linear programming, matrix methods as applied to finite Markov chains, random walk, incidence matrices, graphs and directed graphs, networks and transportation problems.
+/
+Introduction to Abstract Algebra
+Integers; groups, rings, integral domains, fields.
+/
+Linear Algebra
+An abstract treatment of finite dimensional vector spaces. Linear transformations and their invariants.
+/
+Introduction to Number Theory
+Integers, divisibility, prime numbers, unique factorization, congruences, quadratic reciprocity, Diophantine equations and arithmetic functions.
+/
+Advanced Calculus I
+First semester of a year course. Subjects covered during the year are: sequences and series of numbers, continuity and differentiability of real valued functions of one variable, the Riemann integral, sequences of functions and power series. Functions of several variables including partial derivatives, multiple integrals, line and surface integrals. The implicit function theorem.
+/
+Advanced Calculus II
+Advanced Calculus II
+/
+Linear Algebra for Scientists and Engineers
+Basic concepts of linear algebra. This course is similar to MATH 240, but with more extensive coverage of the topics needed in applied linear algebra: change of basis, complex eigenvalues, diagonalization, the Jordan canonical form.
+/
+Partial Differential Equations
+Linear spaces and operators, orthogonality, Sturm-Liouville problems and eigenfunction expansions for ordinary differential equations. Introduction to partial differential equations, including the heat equation, wave equation and Laplace's equation. Boundary value problems, initial value problems and initial-boundary value problems.
+/
+Complex Variables
+The algebra of complex numbers, analytic functions, mapping properties of the elementary functions. Cauchy integral formula. Theory of residues and application to evaluation of integrals. Conformal mapping.
+/
+Transform Methods for Scientists and Engineers
+Fourier transform, Fourier series, discrete fast Fourier transform (DFT and FFT). Laplace transform. Poisson summations, and sampling. Optional Topics: Distributions and operational calculus, PDEs, Wavelet transform, Radon transform and applications such as Imaging, Speech Processing, PDEs of Mathematical Physics, Communications, Inverse Problems.
+/
+General Physics: Electrodynamics, Light, Relativity and Modern Physics
+Third semester of a three-semester calculus-based general physics course. Electrodynamics, Maxwell's equations and electromagnetic waves, geometrical optics, interference, diffraction, special theory of relativity, and modern physics. PHYS270 and PHYS271 (lab) must be taken in the same semester.
+/
+General Physics: Electrodynamics, Light, Relativity and Modern Physics (Laboratory) 
+Lab includes experiments on ac circuits, magnetism, light and modern physics.
+/
+Principles of Modern Physics
+A survey of atomic and nuclear phenomena and the main trends in modern physics. Appropriate for students in engineering and other physical sciences.
+/
+Special Problems in Physics
+Special Problems in Physics
+/
+

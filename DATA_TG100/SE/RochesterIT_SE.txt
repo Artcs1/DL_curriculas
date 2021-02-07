@@ -1,0 +1,208 @@
+Computer Science I
+This course serves as an introduction to computational thinking using a problem-centered approach. Specific topics covered include: expression of algorithms in pseudo code and a programming language; functional and imperative programming techniques; control structures; problem solving using recursion; basic searching and sorting; elementary data structures such as lists, trees, and graphs; and correctness, testing and debugging. Assignments (both in class and for homework) requiring a pseudo code solution and an implementation are an integral part of the course.
+/
+Computer Science II
+This course delves further into problem solving by continuing the discussion of data structure use and design, but now from an object-oriented perspective. Key topics include more information on tree and graph structures, nested data structures, objects, classes, inheritance, interfaces, object-oriented collection class libraries for abstract data types (e.g. stacks, queues, maps, and trees), and static vs. dynamic data types. Concepts of object-oriented design are a large part of the course. Software qualities related to object orientation, namely cohesion, minimal coupling, modifiability, and extensibility, are all introduced in this course, as well as a few elementary object-oriented design patterns. Input and output streams, graphical user interfaces, and exception handling are covered. Students will also be introduced to a modern integrated software development environment 
+/
+LAS Perspective 7A: Project-based Calculus I
+This is the first in a two-course sequence intended for students majoring in mathematics, science, or engineering. It emphasizes the understanding of concepts, and using them to solve physical problems. The course covers functions, limits, continuity, the derivative, rules of differentiation, applications of the derivative, Riemann sums, definite integrals, and indefinite integrals.
+/
+LAS Perspective 7B: Project-based Calculus II
+This is the second in a two-course sequence intended for students majoring in mathematics, science, or engineering. It emphasizes the understanding of concepts, and using them to solve physical problems. The course covers techniques of integration including integration by parts, partial fractions, improper integrals, applications of integration, representing functions by infinite series, convergence and divergence of series, parametric curves, and polar coordinates.
+/
+Discrete Mathematics for Computing	3
+This course introduces students to ideas and techniques from discrete mathematics that are widely used in Computer Science. Students will learn about the fundamentals of propositional and predicate calculus, set theory, relations, recursive structures and counting. This course will help increase students’ mathematical sophistication and their ability to handle abstract problems.
+/
+Software Engineering Freshman Seminar
+Provides first-year students with the skills necessary to succeed at RIT and in the software engineering program. Small group sessions are used to help new students make friends, create a stronger bond with RIT and their program and become acquainted with the campus and its facilities. In addition, students are introduced to the profession of software engineering and to ethical issues they will face at RIT and throughout their careers.
+/
+Personal Software Engineering
+This is a project-based course to enhance individual, technical engineering knowledge and skills as preparation for upper-division team-based coursework. Topics include adapting to new languages, tools and technologies; developing and analyzing models as a prelude to implementation; software construction concepts (proper documentation, implementing to standards etc.); unit and integration testing; component-level estimation; and software engineering professionalism.
+/
+First Year Writing
+First Year Writing
+/
+RIT 365: RIT Connections
+RIT 365: RIT Connections
+/
+Wellness Education 	
+Wellness Education
+/
+Communication (WI)
+An introduction to communication contexts and processes emphasizing both conceptual and practical dimensions. Participants engage in public speaking, small group problem solving and leadership, and writing exercises while acquiring theoretical background appropriate to understanding these skills.
+/
+University Physics I
+This is a course in calculus-based physics for science and engineering majors. Topics include kinematics, planar motion, Newton's Laws, gravitation, work and energy, momentum and impulse, conservation laws, systems of particles, rotational motion, static equilibrium, mechanical oscillations and waves, and data presentation/analysis
+/
+University Physics II
+This course is a continuation of PHYS-211, University Physics I. Topics include electrostatics, Gauss' law, electric field and potential, capacitance, resistance, DC circuits, magnetic field, Ampere's law, inductance, and geometrical and physical optics.
+/
+Applied Statistics
+This course covers basic statistical concepts and techniques including descriptive statistics, probability, inference, and quality control. The statistical package Minitab will be used to reinforce these techniques. The focus of this course is on statistical applications and quality improvement in engineering. This course is intended for engineering programs and has a calculus prerequisite.
+/
+Undergraduate Cooperative Education Seminar
+Undergraduate Cooperative Education Seminar
+/
+Mathematical Models of Software
+An introduction to the use of mathematics to model software as part of the software process. Included will be models of software structure and functionality, concurrent and distributed computation, and structured data.
+/
+Software Process and Project Management
+An introductory course to software process and related software project management issues. Emphasis is on the study, use, evaluation, and improvement of the software development process and related project management. Topics include software development methodologies, software project planning and tracking, change control, software quality assurance, risk management, and software process assessment and improvement.
+/
+Introduction to Software Engineering
+An introductory course in software engineering, emphasizing the organizational aspects of software development and software design and implementation by individuals and small teams within a process/product framework. Topics include the software lifecycle, software design, user interface issues, specification and implementation of components, assessing design quality, design reviews and code inspections, software testing, basic support tools, technical communications and system documentation, team-based development. A term-long, team-based project done in a studio format is used to reinforce concepts presented in class.
+/
+Engineering of Software Subsystems
+An introduction to the principles of the foundations of contemporary software design. Topics include software subsystem modeling, design patterns, design tradeoffs, and component-based software development, with a focus on application of these concepts to concrete design problems. The relationship between design and related process issues such as testing, estimation, and maintenance are also discussed.
+/
+Analysis of Algorithms
+This course provides an introduction to the design and analysis of algorithms. It covers a variety of classical algorithms and data structures and their complexity and will equip students with the intellectual tools to design, analyze, implement, and evaluate their own algorithms.
+/
+Human-Centered Requirements and Design
+This course introduces quantitative models and techniques of human-computer interface analysis, design and evaluation, which are relevant to the software engineering approach of software development. User-focused requirements engineering topics are also covered. Contemporary human computer interaction (HCI) techniques are surveyed, with a focus on when and where they are applicable in the software development process. Students will deliver usable software systems derived from an engineering approach to the application of scientific theory and modeling. Other topics may include usability evaluation design, methods of evaluation, data analysis, social and ethical impacts of usability, prototyping and tools.
+/
+Honors Human-Centered Requirements and Design
+This course introduces quantitative models and techniques of human-computer interface analysis, design and evaluation, which are relevant to the software engineering approach of software development. User-focused requirements engineering topics are also covered. Contemporary human computer interaction (HCI) techniques are surveyed, with a focus on when and where they are applicable in the software development process. Students will deliver usable software systems derived from an engineering approach to the application of scientific theory and modeling. Other topics may include: usability evaluation design, methods of evaluation, data analysis, social and ethical impacts of usability, prototyping and tools.
+/
+Engineering Secure Software
+Principles and practices forming the foundation for developing secure software systems. Coverage ranges across the entire development lifecycle: requirements, design, implementation and testing. Emphasis is on practices and patterns that reduce or eliminate security breaches in software intensive systems, and on testing systems to expose security weaknesses.
+/
+Software Design for Computing Systems
+To design and develop high quality products software engineers need to understand the physical components and systems that are an integral part of these products. This understanding is critical in the fulfillment of non-functional requirements such as performance, reliability and security. This course will provide software engineering students with hardware, computer architecture, and networking domain specific knowledge. Course programming assignments will provide practical experience developing software that interfaces with hardware components and systems.
+/
+Software System Requirements and Architecture (WI)
+Principles and practices related to identifying software system stakeholders, eliciting functional and quality requirements, translating requirements into architectural structures, and analyzing candidate architectures with respect to the requirements.
+/
+Software Engineering Project I
+The first course in a two-course, senior-level, capstone project experience. Students work as part of a team to develop solutions to problems posed by either internal or external customers. Problems may require considerable software development or evolution and maintenance of existing software products. Culminates with the completion and presentation of the first major increment of the project solution. Students must have co-op completed to enroll.
+/
+Software Engineering Project II
+This is the second course in a two-course, senior-level capstone project experience. Students submit one or more additional increments that build upon the solution submitted at the end of the first course. Students make major presentations for both customers as well as technical-oriented audiences, turn over a complete portfolio of project-related artifacts and offer an evaluation of the project and team experience.
+/
+Concepts of Parallel and Distributed Systems
+This course is an introduction to the organization and programming of systems comprising multiple computers. Topics include the organization of multi-core computers, parallel computer clusters, computing grids, client-server systems, and peer-to-peer systems; computer networks and network protocols; network security; multi-threaded programming; and network programming
+/
+Principles of Data Management
+This course provides a broad introduction to the principles and practice of modern data management, with an emphasis on the relational database model. Topics in relational database systems include data modeling; the relational model; relational algebra; Structured Query Language (SQL); and data quality, transactions, integrity and security. Students will also learn approaches to building relational database application programs. Additional topics include object-oriented and object-relational databases; semi-structured databases (such as XML); and information retrieval. A database project is required.
+/
+Introduction to Artificial Intelligence
+An introduction to the theories and algorithms used to create artificial intelligence (AI) systems. Topics include search algorithms, logic, planning, machine learning, and applications from areas such as computer vision, robotics, and natural language processing. Programming assignments are an integral part of the course.
+/
+Programming Language Concepts
+This course is a study of the syntax and semantics of a diverse set of high-level programming languages. The languages chosen are compared and contrasted in order to demonstrate general principles of programming language design and implementation. The course emphasizes the concepts underpinning modern languages rather than the mastery of particular language details. Programming projects will be required.
+/
+Data Communications and Networks
+This course is an in-depth study of data communications and networks. The course covers design of, and algorithms and protocols used in, the physical, data link, network, transport, and application layers in the Internet; methods for modeling and analyzing networks, including graphs, graph algorithms, and discrete event simulation; and an introduction to network science. Programming projects will be required.
+/
+Operating Systems
+An in-depth study of operating system concepts. Topics include process synchronization, interprocess communication, deadlock, multiprogramming and multiprocessing, processor scheduling and resource management, memory management, static and dynamic relocation, virtual memory, file systems, logical and physical I/O, device allocation, I/O processor scheduling, process and resource protection. Programming projects involving the development of or modification to operating system kernel features will be required.
+/
+Principles of Data Mining
+This course provides an introduction to the major concepts and techniques used in data mining of large databases. Topics include the knowledge discovery process; data exploration and cleaning; data mining algorithms; and ethical issues underlying data preparation and mining. Data mining projects, presentations, and a term paper are required.
+/
+Introduction to Computer Vision
+An introduction to the underlying concepts of computer vision. The course will consider fundamental topics, including image formation, edge detection, texture analysis, color, segmentation, shape analysis, detection of objects in images and high level image representation. Depending on the interest of the class, more advanced topics will be covered, such as image database retrieval or robotic vision.
+/
+Systems Programming
+Application of operating system concepts to the design of hardware interfaces for a multiprogramming environment. Laboratory work includes the development of a multiprogramming (optionally, multiprocessing) kernel with system call and interrupt handling facilities, and the building of device drivers for a variety of peripheral devices
+/
+Computer Architecture
+Computer Architecture is a study of the design of both modern and classic computer hardware. Topics include: a review of classical computer architectures; the design of operation codes and addressing modes, data formats, and their implementation; internal and external bus structures; architectural features to support virtual storage and page-replacement policies, high-level language features, and operating systems. 
+/
+Principles of Computer Security
+This course provides a broad introduction to the basic principles and practice of computer security and emphasizes policies and mechanisms for building secure and trusted computer systems. Topics include but are not limited to the following: security principles, policies and mechanisms; cryptographic tools; user authentication and access control; secure systems and networking; secure application development; secure data management; impact of mobile, web and cloud computing; intrusion detection and prevention; auditing and forensics; privacy; security management and risk assessment; and legal and ethical aspects. 
+/
+Introduction to Cryptography
+This course provides an introduction to cryptography, its mathematical foundations, and its relation to security. It covers classical cryptosystems, private-key cryptosystems (including DES and AES), hashing and public-key cryptosystems (including RSA). The course also provides an introduction to data integrity and authentication.
+/
+Xtreme Theory
+A fast paced, informal look at current trends in the theory of computing. Each week is dedicated to a different topic and will explore some of the underlying theory as well as the practical applications of the theory. Sample topics may include: quantum cryptography, networks and complex systems, social welfare and game theory, zero knowledge protocols.
+/
+Introduction to Computer Graphics
+Introduction to Computer Graphics is a study of the hardware and software principles of interactive raster graphics. Topics include an introduction to the basic concepts, 2-D and 3-D modeling and transformations, viewing transformations, projections, rendering techniques, graphical software packages and graphics systems. The course will focus on rasterization techniques and emphasize the hardware rasterization pipeline including the use of hardware shaders. Students will use a standard computer graphics API to reinforce concepts and study fundamental computer graphics algorithms.
+/
+Engineering of Concurrent and Distributed Software Systems
+The principles, practices and patterns applicable to the design and construction of concurrent and distributed software systems. Topics include synchronization, coordination and communication; deadlock, safety and liveness; concurrent and distributed design patterns; analysis of performance; distributed state management.
+/
+Engineering of Enterprise Software Systems
+This course addresses architecture-level design of large, enterprise-critical software systems. The course focuses on enterprise-level design patterns and on design approaches for object-oriented and aspect-oriented application containers: encapsulating database access, application distribution, concurrent session management, security, scalability, reliability, web-based user interaction, and the programming models and tools to support system development, integration, testing, and deployment. Hands-on exercises and a team project will reinforce the course concepts and expose students to the complexity of these systems.
+/
+Engineering of Web-based Software Systems
+ course in web engineering, emphasizing organizational aspects of web development, design and implementation by individuals and small teams. Students will be instructed in the proper application of software engineering principles to the creation of web applications. Course topics will include, but not be limited to web usability, accessibility, testing, web services, databases, requirements elicitation and negotiation
+/
+Software Engineering Design Seminar
+Software Engineering Design Seminar
+/	
+Real-Time and Embedded Systems
+This course provides a general introduction to real-time and embedded systems. It will introduce a representative family of microcontrollers and require students to program on these devices. Fundamental material on real-time operating systems, such as requirements specification, scheduling algorithms and priority inversion avoidance will be presented. 
+/
+Modeling of Real-Time Systems
+This course introduces the modeling of real-time software systems.? It takes an engineering approach to the design of these systems by analyzing system models before beginning implementation.? UML will be the primary modeling methodology. Non-UML methodologies will also be discussed.
+/
+Performance Engineering of Real-Time and Embedded Systems
+This course discusses issues of performance in real-time and embedded systems. Techniques for profiling the resource usage of a system and for measuring the effect of increasing system requirements will be covered. The control of physical systems will motivate the need for performance tuning of a real-time system. Students will write programs running under a real-time operating system that can maintain control of a physical system
+/
+Hardware/Software Co-Design for Cryptographic Applications
+The objective of this course is to establish knowledge and skills necessary for efficient implementations of cryptographic primitives on reconfigurable hardware. Implementation platform will be a field programmable gate array (FPGAs) containing general purpose processor and additional reconfigurable fabric for implementations of custom hardware accelerators. In the studio format students work on team projects that require them to design, and then compare and contrast software, custom FPGA hardware, and hybrid hardware-software co-design implementations of selected cryptographic primitives.
+/
+Engineering Self-Adaptive Software Systems
+This course introduces beginning graduate students to key concepts and techniques underlying the engineering of self-adaptive and autonomic software systems. Such software systems are capable of self-management, self-healing, self-tuning, self-configuration and self-protection. The course content includes an introduction of self-adaptive software systems and defines their characteristics. This will be followed by foundational engineering principles and methodology for achieving self-adaptive systems – feedback control, modeling, machine learning, and systems concepts. 
+/
+Engineering Accessible Software
+This course introduces software accessibility principles, which are relevant to the Software Engineering approach of software development. The course will survey assistive technologies, accessibility standards and their applications to new and existing software, and how to incorporate accessibility principles at the various phases of the software development life cycle. Students will deliver software based on software engineering approach to users with different abilities e.g. people with visual impairments, and older users. Other topics include mobile accessibility, accessibility testing, validation technologies, and tools.
+/
+Software Modeling
+Modeling plays a pivotal role during the software lifecycle during the pre-construction and post-construction activities of the software lifecycle. During the pre-construction stage, models help software engineers understand, specify, and analyze software requirements and designs. During the post-construction stage, models can be used to analyze software systems while in operation. This kind of analysis includes reliability and safety issues as well as timing constraint analysis
+/
+Model-Driven Development
+Software models help the software engineer to understand, specify, and analyze software requirements, designs, and implementations (code components, databases, support files, etc.). Model-driven development is a software engineering practice that uses tool-enabled transformation of requirements models to design models and then to code and associated implementation artifacts. Students will use the Unified Modeling Language (UML) and other modeling techniques to capture software requirements, designs, and implementations. Students will also use formal modeling methods to semi-automatically transform among the various models and to study the quality attributes of the modeled software, such as performance, reliability, security, and other qualities.
+/
+Software Architecture
+A system’s software architecture is the first technical artifact that illustrates a proposed solution to a stated problem. For all but the simplest system, the achievement of qualities such as flexibility, modifiability, security, and reliability is critically dependent on the components and interactions defined by the architecture. The course focuses on the definition of architectural structures, the analysis of architectures in terms of trade-offs among conflicting constraints, the documentation of architecture for use over a product’s life cycle, and the role of architecture during coding activities.
+/
+Graduate Special Topics (Design Focused)
+Graduate Special Topics (Design Focused)
+/
+Software Process and Product Quality
+This course covers advanced topics in software engineering relating to software quality, with processes and metrics being viewed as a means to achieving quality. Quality is interpreted broadly to include product functionality and performance, project schedule and budget, and business objectives. Software metrics help a software organization on two main fronts: quality assessment of its products and processes, and process improvement towards its main goal: the production of successful software artifacts within schedule and budget constraints.
+/
+Software Testing
+Concepts and techniques for testing soft ware and assuring its quality. Topics cover software testing at the unit and system levels; static vs. dynamic analysis; functional testing; inspections; and reliability assessment.
+/
+Trends in Software Development Processes
+A course in the exploration of current approaches in planning, executing and managing the project activities performed during the development of a professional software product. Topics include the characteristics of state of the practice development methods, selecting practices best suited based on project context and techniques for refining practices to achieve process improvement.
+/
+Process Engineering
+In this course, students will study various lifecycle models for developing software systems. They will study the Software Process Engineering Metamodel (SPEM) standard as a tool for modeling and analyzing engineering processes. Students will use SPEM to characterize various process and organization models and patterns, and they will align these process characteristics to categories of needs for various organizations and projects. The students will study process engineering frameworks and the configuration and assembly of reusable process components into processes. Students will also study how tools and methods support the process. Students will also study software process assessment models, including the Capability Maturity Models, and learn how to identify specific recommendations for an organization to improve their processes. Students will apply their learning to engineer software engineering processes, tools, and methods appropriate for their graduate projects, course projects, and projects for organizations they have worked for.
+/
+Collaborative Software Development
+This course covers processes, tools, and techniques for software development, in general, and collaborative, distributed software development, in particular. Students will learn how to design a process specific to their organization and development project needs. This includes how to select a software development life-cycle model, how to select and sequence the development and management activities of a collaborative, distributed software development team structure and dynamics, and how to define the work products, tools, and methods used to perform those activities. The Software Process Engineering Metamodel (SPEM, an Object Management Group standard) will serve to graphically describe, analyze, discuss, and improve software development processes. Special attention will be given to collaboration needs and approaches for small and large teams that may be globally distributed.
+/
+Software Quality Engineering
+This course begins with an exploration of the concepts underlying quality systems and the use of metrics. Students are encouraged to discuss the advantages as well as the limitations of systems and quantitative approaches, with a view to understanding the 40 importance of interpretation in metrics usage and of matching quality systems choices to organizational objectives and culture. They learn the use of modern metrics such as DRE, PCE, COQ/COPQ, reliability objectives and SUMI scores through exercises in analyzing and interpreting charts. This is complemented with a project where they work in teams to design an appropriate quality system for a specific project/organizational situation, and discuss the application and analysis of its evaluation experimentation as a means of improving the quality aspects of subject project/organizational situation.
+/
+Business Law I
+An introduction to legal principles and their relationship to business organizations. Explores the U.S. legal system, the U.S. court system, civil and criminal procedure, the role of government agencies, legal research, and the substantive areas of law most relevant to business, including constitutional law, tort law, criminal law, contract law, intellectual property, debtor-creditor relations, bankruptcy, business entities, securities regulation, and antitrust law
+/
+Financial Management
+Basic course in financial management. Covers business organization, time value of money, valuation of securities, capital budgeting decision rules, risk-return relation, Capital Asset Pricing Model, financial ratios, global finance, and working capital management.
+/
+Managerial Economics
+Managerial Economics involves the application of economic theory to business decision-making. Most of the emphasis is microeconomic in nature, the theory of the firm and consumer theory, but there is some macroeconomic influence, particularly in the forecasting area. Since this is an applied economics course, it has a strong quantitative flavor.
+/
+Entrepreneurship
+This course studies the process of creating new ventures with an emphasis on understanding the role of the entrepreneur in identifying opportunities, seeking capital and other resources, and managing the formation and growth of a new venture. It addresses the role of entrepreneurship in the economy and how entrepreneurial ventures are managed for growth.
+/
+General Biology I
+This course serves as an introduction to cellular, molecular, and evolutionary biology. Topics will include: a study of the basic principles of modern cellular biology, including cell structure and function; the chemical basis and functions of life, including enzyme systems and gene expression; and the origin of life and evolutionary patterns of organism development on Earth.
+/
+General Biology II
+This course serves as an introduction to animal and plant anatomy and physiology, in addition to the fundamentals of ecology. Topics will include: animal development; animal body systems; plant development; unique plant systems; Earth's terrestrial and aquatic environments; population and community ecology; animal behavior; and conservation biology.
+/
+Graph Theory
+This course covers the theory of graphs and networks for both directed and undirected graphs. Topics include graph isomorphism, Eulerian and Hamiltonian graphs, matching, covers, connectivity, coloring, and planarity. There is an emphasis on applications to real world problems and on graph algorithms such as those for spanning trees, shortest paths, and network flows.
+/
+Human Biology I
+This course is one of a two-course set of courses that explores the biology of the human body. This course focuses on: cells, their structure, and organization; the human reproductive cycle; principle of genetic inheritance; transmission of disease and the body’s defense against disease.
+/
+

@@ -1,0 +1,103 @@
+/
+Programming II for Information Technology and Systems
+Examines programming using traditional and visual development environments to learn event-driven, object-oriented design with emphasis on software development best practices for effective software
+maintenance and modernization.
+/
+Foundations of Information Management
+Examines the fundamental concepts involved in industry based database design, administration, and
+usage. Topics include information retrieval, database administration, database models, design theory,
+database security, and database driven application programming
+/
+Foundations of Human Computer Interaction for Information Technology & Systems
+Examines the principles of human computer interaction. Studies issues of computer and system design
+more holistically with an emphasis on how such systems can be improved through proactive designs.
+Topics include human factors, human-centered computing and evaluation, effective interfaces,
+accessibility, legal issues, and social and organizational context.
+/
+Foundations Web Design and Programming
+Examines selected topics in technology for web design and programming, paying particular attention to
+client interactions on the World Wide Web. Studies unique concepts and technologies in developing
+client-side of a web-based information system such as XHTML, CSS, JavaScript, DOM, XML, AJAX,
+JSON, and Web 2.0
+/
+Discrete Math for IT
+Examines selected topics of discrete mathematics and statistics as applicable to students of information
+technology and systems. Topics include basic logic, discrete probability, functions, relations, sets,
+hypothesis testing, sampling and description statistics, graphs and trees, regular expressions, and
+application of mathematics and statistics to information technology.
+/
+Foundations of Information Networking
+Explores computer networking and telecommunications fundamentals including LANs, WANs, Intranets,
+and the World Wide Web. Studies data communication concepts, models, and protocols. Practices
+installation, configuration, systems integration, and management of infrastructure technologies.
+/
+Foundations of Information Assurance
+Studies the need for information security policies, standards, and procedures. Topics include: trust
+models; security policy design and incident response; and tools and techniques to defend against, react
+to, and recover from a cyber attack.
+/
+Hardware and Software Systems
+Examines functions of hardware and software systems. Topics include CPU, memory, registers,
+addressing modes, busses, instruction-sets, multi processors versus single processors; peripherals: harddisks and storage, display, device controllers, input/output; operating systems functions and types;
+process, memory and file system management; and examples and contrasts of hardware architecture
+and operating systems.
+/
+Information Systems Analysis and Design
+Examines concepts and techniques for analyzing and designing software systems to meet maintenance and modernization requirements such as changes of business logics, integration, and computing
+paradigms. Topics include software aging, reengineering, modeling, pattern, process, and cases.
+/
+Managing Technical Teams
+Examines current topics and issues associated with study and practice of iterative and incremental
+development and project team management with emphasis on practical project experience. Studies
+topics like modeling computing projects through the discovery/invention/implementation cycle; learning,
+experiencing, and obtaining feedback on group dynamics; collaborative relationships; and conflict
+management.
+/
+Statistics
+Addresses introductory statistical concepts and analysis in modern society. Includes descriptive statistics,
+graphical displays of data, the normal distribution, data collection, probability, elements of statistical
+inference, hypothesis testing, and linear regression and correlation. Practical examples used to
+demonstrate statistical concepts. 
+/
+Technical Writing
+Teaches objective-oriented and audience-centered communication for the workplace, while focusing on
+key genres of technical communication - reports, proposals, manual, and document design - essential for
+success in the professional world.
+/
+Computers, Ethics, and Society
+Analyzes social, political, and ethical implications of computer and information technologies. Covers
+Western ethical theories, professional ethics, and diverse topics in computer ethics. Emphasizes writing
+and the construction of ethical arguments.
+/
+Senior Project
+Focuses on detail, implementation, testing, deployment, maintenance, and demonstration of the capstone
+design project. Requires written and oral reports and creation of a final project binder. 
+/
+Internship
+Gives experience working in real-world information technology environment. Demonstrates how the life
+cycle of information technology and systems such as maintenance, modernization, replacement, etc. is
+conducted within an organization. 
+/
+Database Design
+Provides an overview of various data solutions used today. Covers RDBMS design, performance
+optimization, NoSQL, object database, object relational database, and big data. Focuses on choosing the
+optimal database for application and designing 
+/
+Server Side Web Applications
+Examines selected topics in technology for client/server application, paying particular attention to
+client/server interactions on the WWW. Studies topics like multi-tier architecture, application server,
+database server, database middleware, forms, client-side programming, server-side programming,
+Component-Based Design (CBD), database programming for web application, rich client programming,
+and web services.
+/
+Network Security
+Covers cryptographic methods including public and private key algorithms. Examines protocols that utilize
+secure email, digital signatures, authorization, e-voting, and electronic cash. Examines the fundamentals
+of security issues arising from computer networks. 
+/
+Computer Security
+Discusses the theoretical and practical issues surrounding computer security and data protection.
+Explores formal models of encryption and authentication. Examines operating system and program
+security with vulnerabilities analyses. Includes a lab component for demonstrating computer security
+techniques such as malware analysis, and access control. 
+/

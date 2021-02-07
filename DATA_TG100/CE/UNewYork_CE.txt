@@ -1,0 +1,104 @@
+/
+Calculus I for Engineers
+Library of Functions, functions of one variable. Limits, derivatives of functions defined by graphs, tables and formulas, differentiation rules for power, polynomial, exponential and logarithmic functions, derivatives of trigonometric functions, the product and quotient rules, the chain rule, applications of the chain rule, maxima and minima, optimization. The definite integral, the Fundamental Theorem of Calculus and interpretations, theorems about definite integrals, anti-derivatives
+/
+Introduction to Engineering and Design
+This course introduces selected aspects of the history, philosophy, methodology, tools and contemporary topics in engineering. Also included are basic engineering experimentation and data analysis, a team design project and analysis and presentation of engineering data and designs.
+/
+Engineering and Technology Forum
+In this course the notion of invention, innovation and entrepreneurship (i2e) is introduced to the students’ educational experience. Students will be exposed to elements of a research-intensive institution and diverse research performed by leading engineers, scientists, inventors and entrepreneurs.
+/
+Introduction to Programming & Problem Solving
+This course introduces problem solving and computer programming and is for undergraduate Computer Science and Computer Engineering majors who have limited prior experience in programming in any language. The course covers fundamentals of computer programming and its underlying principles using the Python programming language. 
+/
+Writing the Essay
+Writing the Essay
+/
+Calculus II for Engineers
+This course covers techniques of integration, introduction to ordinary differential equations, improper integrals, numerical methods of integration, applications of integration, sequences, series, power series, approximations of functions via Taylor polynomials, Taylor series, functions of two variables, graphs of functions of two variables, contour diagrams, linear functions, functions of three variables.
+/
+Mechanics
+This course is the first of a three-semester lecture sequence in general physics for science and engineering students. Motion of particles and systems of particles. One-dimensional motion. Vectors and two-dimensional motions. Forces and acceleration. Conservation of energy and momentum. Rotations. The free and driven harmonic oscillator. Gravitation.
+/
+Data Structures and Algorithms
+This course covers abstract data types and the implementation and use of standard data structures along with fundamental algorithms and the basics of algorithm analysis. Not open to students who have taken CS-UY 2134.
+/
+The Advanced College Essay
+The course follows Writing the Essay (EW 1013) and provides advanced instruction in analyzing and interpreting written texts from a variety of academic disciplines, using written texts as evidence, developing ideas, and writing argumentative essays. It stresses analysis, argument, reflection, revision, and collaborative learning.
+/
+Introduction to Computer Engineering
+This course helps students to understand computer engineering as a balance among hardware, software, applications and theory, the notion of abstraction, computer layers and how they relate to various aspects of computer engineering, implementation of abstract and physical computer layers: Number systems, digital logic, basic processor structure, instruction set architecture, machine languages, assembly languages and high-level programming in C. Other computer concepts, including compilers, operating systems and algorithms, are presented, along with the simulator concept and its usage for understanding computer design, testing and analysis. Experts present special topics in the area
+/
+Linear Algebra and Differential Equations
+is an introduction to ordinary differential equations and linear algebra. The course develops the techniques for the analytic and numeric solutions of ordinary differential equations (and systems) that are widely used in modern engineering and science. Linear algebra is used as a tool for solving systems of linear equations as well as for understanding the structure of solutions to linear (systems) of differential equations. Topics covered include the fundamental concepts of linear algebra such as Gaussian elimination, matrix theory, linear transformations, vector spaces, subspaces, basis, eigenvectors, eigenvalues and the diagonalization of matrices, as well as the techniques for the analytic and numeric solutions of ordinary differential equations (and systems) that commonly appear in modern engineering and science.
+/
+Electricity, Magnetism, & Fluids
+This is the second course of a three-semester lecture sequence in general physics for science and engineering students. Fluids at rest and in motion. An introduction to electric and magnetic forces and fields. Electric charge density. Electric fields from simple charge distributions. Electric potential. Capacitance. Magnetic forces. Magnetic field from a current loop. Inductance. Magnetism in matter. Current and resistance.
+/
+General Physics Laboratory I
+An introductory level experimental course. Fundamental laboratory experiments in classical mechanics and electrostatics. Stresses basic experimental techniques, error analysis, and written presentation of experiment results. Experiments require progressively more detailed and sophisticated analysis. This laboratory class meets for three hours on alternate weeks.
+/
+Object Oriented Programming
+This intermediate-level programming course teaches object-oriented programming in C++. Topics: Pointers, dynamic memory allocation and recursion. Classes and objects including constructors, destructors, methods (member functions) and data members. Access and the interface to relationships of classes including composition, association and inheritance. Polymorphism through function overloading operators. Inheritance and templates. Use of the standard template library containers and algorithms
+/
+Fund. of Electric Circuits
+Fundamentals of Circuits includes circuit modeling and analysis techniques for AC, DC and transient responses. Independent and dependent sources, resistors, inductors and capacitors are modeled. Analysis techniques include Kirchhoff’s current and voltage laws, current and voltage division. Thevenin and Norton theorems, nodal and mesh analysis, and superposition. Natural and forced responses for RLC circuits, sinusoidal steady-state response and complex voltage and current (phasors) are analyzed. Alternate-week laboratory. A minimum of C- is required for students majoring in EE. Objective: fundamental knowledge of DC and AC circuit analysis.
+/
+Discrete Mathematics
+Logic, proofs, set theory, functions, relations, asymptotic notation, recurrences, modeling computation, graph theory.
+/
+Waves, Optics, & Thermodynamics
+This is the third course of a three-semester lecture sequence in general physics for science and engineering students. Water, sound and electromagnetic waves. Reflection, scattering and absorption. Standing waves and spectra. Superposition, diffraction and beats. Geometrical optics. Introduction to thermodynamics; temperature, heat, and entropy. 
+/
+General Physics Laboratory II
+The second part of the introductory physics laboratory program. Fundamental laboratory experiments in E&M, waves, optics, and thermodynamics. Stresses experimental models and design, error and data analysis.
+/
+Digital Logic and State Machine Design
+This course covers combinational and sequential digital circuits. Topics: Introduction to digital systems. Number systems and binary arithmetic. Switching algebra and logic design. Error detection and correction. Combinational integrated circuits, including adders. Timing hazards. Sequential circuits, flipflops, state diagrams and synchronous machine synthesis
+/
+Fundamentals of Electronics I
+This course focuses on circuit models and amplifier frequency response, op-amps, difference amplifier, voltage-to-current converter, slew rate, full-power bandwidth, common-mode rejection, frequency response of closed-loop amplifier, gain-bandwidth product rule, diodes, limiters, clamps and semiconductor physics. Other topics include Bipolar Junction Transistors; small-signal models, cut-off, saturation and active regions; common emitter, common base and emitter-follower amplifier configurations; Field-Effect Transistors (MOSFET and JFET); biasing; small-signal models; common-source and common gate amplifiers; and integrated circuit MOS amplifiers. The alternate-week laboratory experiments on OP-AMP applications, BJT biasing, large signal operation and FET characteristics. The course studies design and analysis of operational amplifiers; small-signal bipolar junction transistor and field-effect transistor amplifiers; diode circuits; differential pair amplifiers and semiconductor device- physics fundamentals.
+/
+Calculus III: Multi-dimensional Calculus
+Vectors in the plane and space. Partial derivatives with applications, especially Lagrange multipliers. Double and triple integrals. Spherical and cylindrical coordinates. Surface and line integrals. Divergence, gradient, and curl. Theorems of Gauss and Stokes.
+/
+General Chemistry for Engineers
+This is a one-semester introductory course in general chemistry. It covers chemical equations, stoichiometry, thermodynamics, gases, atomic and molecular structure, periodic table, chemical bonding, states of matter, chemical equilibrium, organic, inorganic and polymeric materials and electrochemistry.
+/
+Computer Architecture and Organization
+This course covers a top-down approach to computer design. Topics: Computer architecture, introduction to assembly language programming and machine language set design. Computer organization, logical modules; CPU, memory and I/O units. Instruction cycles, the datapath and control unit. Hardwiring and microprogramming. The memory subsystem and timing. I/O interface, interrupts, programmed I/O and DMA. Introduction to pipelining and memory hierarchies. Fundamentals of computer networks.
+/
+Professional Development & Presentation
+This course provides electrical and computer engineering students with concepts, theory, principles and experience in project management and project presentation. Students learn how to apply skills learned in engineering coursework to team projects in a professional environment.
+/
+Data Analysis
+An introductory course to probability and statistics. It affords the student some acquaintance with both probability and statistics in a single term. Topics in Probability include mathematical treatment of chance; combinatorics; binomial, Poisson, and Gaussian distributions; the Central Limit Theorem and the normal approximation. Topics in Statistics include sampling distributions of sample mean and sample variance; normal, t-, and Chi-square distributions; confidence intervals; testing of hypotheses; least squares regression model. Applications to scientific, industrial, and financial data are integrated into the course.
+/
+Design Project I 
+Design Project I 
+/
+Design Project II
+Design Project II
+/
+Design & Analysis of Algorithms
+This course covers fundamental principles of the design and analysis of algorithms. Topics include asymptotic notation, recurrences, randomized algorithms, sorting and selection, balanced binary search trees, augmented data structures, advanced data structures, algorithms on strings, graph algorithms, geometric algorithms, greedy algorithms, dynamic programming and NP completeness.
+Prerequisites for Brooklyn Engineering Students
+/
+Introduction to Databases
+This course introduces database systems and their approach as a mechanism to model the real world. The course covers data models (relational, object-oriented), physical database design, query languages, query processing and optimization, as well as transaction management techniques. Implementation issues, object oriented and distributed databases also are introduced.
+/
+Introduction to Operating Systm
+This course studies the fundamental concepts and principles of operating systems. Batch, spooling and multiprogramming systems are introduced. The parts of an operating system are described in terms of their functions, structure and implementation. Basic policies for allocating resources are discussed.
+/
+Introduction to Parallel and Distributed Systems
+This course offers a solid grounding in the basic issues and techniques of parallel and distributed computing. The material covers the spectrum from theoretical models of parallel and distributed systems to actual programming assignments.
+/
+Design and Implementation of Programming Language
+This course covers issues underlying the design of high-level programming languages, along with elements of the compiler technology used to translate those languages into executable code. Topics covered include formal description of language syntax, parsing, memory management, attributes of variables and their binding times, control and data-abstraction mechanisms and object-oriented language features. The focus is on imperative and object-oriented languages, with brief introduction to functional and logic-programming paradigms. Substantial programming projects are required.
+/
+Computer Security
+This course covers cryptographic systems. Topics: Capability and access control mechanisms, authentication models, protection models. Database and operating system security issues, mobile code, security kernels. Malicious code, Trojan horses and computer viruses. Security policy formation and enforcement enforcement, legal aspects and ethical aspects.
+/
+Software Engineering
+Focusing on software engineering, the course introduces techniques to specify, design, test and document medium and large software systems. Design techniques include information engineering, object orientation and complexity measures. Also covered are testing methods, such as path testing, exhaustive test models and construction of test data. An introduction to software tools and project management techniques is presented. Student projects involve team software development and tracking.
+/

@@ -1,0 +1,154 @@
+﻿/
+Introduction to Computer Science in C++. 
+Fundamentals of computer science are introduced, with emphasis on programming methodology and problem solving. Topics include basic concepts of computer systems, software engineering, algorithm design, programming languages and data abstraction, with applications. The high level language C++ is fully discussed and serves as the vehicle to illustrate many of the concepts. 
+/
+Calculus I. 
+Topics include limits, differentiation, applications of differentiation, and integration.
+/
+Wireless Communication Systems.  
+Introduction to wireless system design and engineering. Develops an understanding and appreciation of the wireless engineering problems such as cellular layout design, resource allocation, mobility management, capacity and performance and signaling load calculations. Introduces physical layer building blocks such as modulation, synchronization, coding, diversity, equalization, and spreading.
+/
+Differential Equations.  
+Methods for solving ordinary differential equations are studied together with physical applications, Laplace transforms, numerical solutions, and series solutions.
+/
+Co-op Work Experience II. 
+Approval of department; Approval of CDS. Cooperative Education and Internships. Students gain major-related work experience and reinforcement of their academic program. Mandatory participation in seminars and completion of a report.
+/
+Computer Organization and Architecture.  
+Emphasizes the hardware design of computer systems. Topics include register transfer logic, central processing unit design, microprogramming, ALU design, pipelining, vector processing, micro-coded arithmetic algorithms, I/O organization, memory organization and multiprocessing.
+/
+Freshman Seminar.  
+Addresses issues related to a successful college life during weekly seminars. Topics include time management, study skills, interpersonal relationships, wellness, multicultural issues and career decision making. Freshman Seminar is a graduation requirement for all first-time, full-time freshmen.
+/
+Microprocessors.
+An introduction to microprocessor system organization and assembly language programming. The course covers the architecture, instruction set and assembly language of a specific microprocessor. Other topics included are memory organization, input/output interfacing, interrupt processing as well as exception processing. The problems associated with the design of a single board computer are also covered. 
+/
+Digital Systems Lab. 
+Digital Systems Lab. 
+/
+Principles of Business. 
+This course explores strategies that allow companies to grow and compete in today’s global marketplace, along with skills you will need to turn ideas into action for success in business. You will get an overview of key business processes, and an understanding of how they work together. Learning will be reinforced by real time case studies. A comprehensive project-based learning exercise will allow you to act as a management consultant and relate what you cover in class to a real company.
+/
+Microprocessor Laboratory. 
+In this laboratory the students are expected to learn to apply their theoretical knowledge of both the hardware and software aspects of microprocessors. To attain this objective the students are required to construct a microprocessor based single board computer (SBC), with adequate interfacing capabilities to be able to perform some useful control tasks. Programming of the device is done in assembly language. Some of the experiments that follow the construction project deal with software while others deal with the problems of interfacing of microprocessors.
+/
+Calculus II.  
+Topics include integration, applications of integration, series, exponential and logarithmic functions, transcendental functions, polar coordinates, and conic sections.
+/
+Electrical & Computer Engineering Project II.
+Electrical & Computer Engineering Project II.
+/
+Programming Language Concepts.  
+Conceptual study of programming language syntax, semantics and implementation. Course covers language definition structure, data types and structures, control structures and data flow, run-time consideration, and interpretative languages.
+/
+Applied Numerical Methods. 
+Introduction to numerical methods with emphasis on mathematical models. Implements and investigates numerical techniques for the solution of linear and nonlinear systems of equations, eigenvalue problems, interpolation and approximation, techniques of optimization, Monte Carlo methods, and applications to ordinary differential equations and integration.
+/
+Engineering Ethics and Technological Practice: Philosophical Perspectives on Engineering.
+A philosophical examination of the nature of engineering practice and applied technology. Considers such questions as: How do the societal functions of engineers and the practical application of technologies relate to basic moral and intellectual values? What moral obligations are implied by the uses of technology? What are the ethical duties of engineers in the practice of their careers? How are technological practice and engineering related to questions about knowledge and reality? This course satisfies the three credit 300 GER in History and Humanities.
+/
+Advanced Computer Systems Design Lab. 
+Design laboratory component of the advanced computer systems technical track offered to COE majors in the senior year. Experiments emphasize advanced CPU design concepts, such as RISC approaches and exception handling, multiprocessor and systolic array computers, and FPGAs. Develop software programs to test the capabilities of these hardware designs.
+/
+Principles of Operating Systems.  
+Organization of operating systems covering structure, process management and scheduling; interaction of concurrent processes; interrupts; I/O, device handling; memory and virtual memory management and file management.
+/
+Introduction to Discrete Event Systems.
+Introduces logical models, timed models, and stochastic timed models of discrete event systems. Applies petri net methodology to the modeling of computer systems, flexible manufacturing systems, communication networks, and robotics. Contrasts the approaches of simulation, elementary queueing theory, and Markov processes.
+/
+Fundamentals of Engineering Design. 
+Teams of students work on open-ended engineering projects. Sections are offered to represent an introduction to real-world engineering design problems in a specific engineering discipline. Topics covered include introduction to basic engineering design elements, processes, measurements, product and project design and development, with hands-on experiments in a specific major area. Students also learn to use engineering tools for computer-aided design and simulation. Technical writing and oral presentation along with project management skills are emphasized. Students are required to take an FED section corresponding to their declared major. Undecided students will be placed in FED sections which best correspond to their interests according to space availability.
+/
+Signal Transmission.  
+Signal transmission both within and between digital systems. Topics include the telegrapher's equations, wave propagation, lattice diagrams, transients in digital systems, crosstalk, proper termination for high-speed logic, and the transmission characteristics of various interconnecting geometries.
+/
+Circuits and Systems I.
+The basic concepts of electric circuit theory and system analysis. Topics include basic circuit elements, loop and node analysis, network theorems, sinusoidal steady-state analysis, power, resonance, mutual inductance, and ideal transformers.
+/
+Probability and Statistics. 
+Descriptive statistics and statistical inference. Topics include discrete and continuous distributions of random variables, statistical inference for the mean and variance of populations, and graphical analysis of data.
+/
+Systems Simulation.  
+This course introduces computer simulation as an algorithmic problem solving technique. Includes discrete simulation models, elementary theory, stochastic processes, use of simulation languages, random number generators, simulation of probabilistic processes, design of simulation experiments, validation of models, queueing systems, and applications to the design and analysis of operational systems. The GPSS language is covered in detail.
+/
+Co-op Work Experience I.
+Cumulative GPA 2.5; Approval of department; Approval of CDS. Cooperative Education and Internships. Students gain major-related work experience and reinforcement of their academic program. Mandatory participation in seminars and completion of a report.
+/
+Electricity & Magntsm ECE Appl.
+This course emphasizes applications of electricity and magnetism to circuit problems, explores electric fields and magnetic fields of non-trivial charge and current distributions, introduce students to complex variables, and emphasizes methods for solving large linear problems. It provides a strong coupling of the underlying physics with calculus.
+/
+Electrical Engineering Laboratory I. 
+Assembling, testing and analysis of basic analog circuits. Emphasis electronic measurement techniques, instrumentation and data analysis. Simulations of dc, ac, and transient circuit response on the personal computer.
+/
+Electrical and Computer Engineering Project II.
+Progress of the project is monitored by the instructor with demonstrations and presentations at given due dates of the regularly scheduled course. An oral presentation and demonstration of the project by the student team must be given and a written report submitted at the end of the course. Successful projects are approved for the presentation at the Senior Design Project Workshop in the presence of students, faculty and industry representatives.
+/
+Electronic Circuits I. 
+The electronic devices, junction diodes, bipolar transistors and field-effect transistors, are introduced and studied based on semiconductor physics models.  The study then continues with analysis and design of main digital electronic circuits (NMOS and CMOS) inverters and logic gates, MOS memory and storage circuits) and with introduction to analog electronic circuits such as simple one transistor amplifiers.
+/
+Calculus III B.  
+Topics include vectors, curvature, partial derivatives, multiple integrals, line integrals, and Green's, divergence, and Stokes' theorems.
+/
+Career Planning Seminar for En.
+This course aims at providing engineering students with multidisciplinary and career planning skills in a seminar environment with emphasis on career planning, resume writing, and interview skills.
+/
+Discrete Analysis for Computer Engineers. 
+An introduction to mathematical logic, Boolean algebra, and Karnaugh maps. Other topics include functions, equivalence relations and partially ordered sets, counting, graph theory and finite state machines. The emphasis is on computation but proofs will be addressed.
+/
+Electrical and Computer Engineering Project I. 
+Discussion of issues related to the engineering profession, including such topics as: intellectual property, sources of technical information, engineering codes and standards, professional organizations, professional registration. Required of all ECE students.
+/
+Physics I Lab.
+Physics I Lab.
+/
+Linear Algebra.  
+Matrices, determinants, systems of linear equations, vector spaces, linear transformations, eigenvalues, eigenvectors, and related topics.
+/
+Digital Data Communication. 
+Topics include signal classification, correlation, spectral analysis, noise, signal transmission through linear systems, principles of digital data transmission, AM, FM and pulse modulations, sampling and digitalization of signals, inter-symbol interference and equalization, channel capacity, data compression techniques, error detection and correction methods.
+/
+Computer Communications Lab.  2
+Experiments with different protocols and standards used in the TCP/IP computer communications, including Ethernet/802.3 standard, Address Resolution Protocol (ARP), Internet Protocol (IP), Transport Control Protocol (TCP), User Datagram Protocol (UDP), and others. Exercises with network measurements and virtualization tools, and configurations of some commercial routers are included.
+/
+Computer Communications Networks.  
+Topics include the OSI reference model, the physical, data link, network, and transport layers, TCP/IP, LANs (including token ring, token bus, and ethernet), ALOHA, routing and flow control.
+/
+Engineering Management. 
+Restriction: junior or senior standing. An introduction for engineering majors to the fundamentals of engineering economics and the management process for engineering and development. Major topics include capital investment justification methods, project organization, scheduling and control techniques, legal, quality, and staffing issues.
+/
+Advanced Computer Architecture. 
+Introduces common performance measures used by hardware and software designers to facilitate comparative analysis. Main topics are: advanced pipelining, good instruction sets, CISC and RISC microprocessors, introduction to parallel computing, and a brief historical survey of computer designs.
+/
+Computer Engineering Design Lab.  
+Topics include combinational and sequential logic design using CAD tools, design based upon PLA/PLD devices, computer interface design using hardware and software, and an open-ended design project such as a central processing unit design.
+/
+Introduction to Electrical and Computer Engineerin
+Familiarize students with various disciplines, career opportunities and curricula in electrical and computer enginneering. Invited speakers include faculty and industrial representatives.
+/
+Digital Design.  
+The design of combinational and sequential logic circuits used in digital processing systems and computers. Basic register transfer operations are covered. Topics include Boolean algebra, minimization techniques and the design of logic circuits such as adders, comparators, decoders, multiplexers, counters, arithmetic logic units, and memory systems.
+/
+Physics I.  
+Elementary mechanics with an emphasis on the fundamental concepts and laws of mechanics, especially the conservation laws. Topics are scalar and vector quantities of mechanics; rectilinear and circular motion; equilibrium and Newton's laws of motion; work, energy, momentum; the conservation laws. Lab must be taken concurrently. .
+/
+Physics II Lab.  
+Physics II Lab.  
+/
+General Chemistry I. 
+The first semester of a two-semester sequence in chemistry. Introduces the basic concepts of chemistry, including chemical reactions and bonding, electronic and molecular structure, gases and thermochemistry.
+/
+Introduction to Computer Science II in C++..  
+A study of advanced programming topics with logical structures of data, their physical representation, design and analysis of computer algorithms operating on the structures, and techniques for program development and debugging. Course covers program specifications,  correctness and efficiency, data abstraction, basic aspects of simple data structures, internal searching and sorting, recursion and string processing. Algorithmic analysis is also discussed. 
+/
+Advanced Computer Architecture II. 
+Overview of recent advances and topics of current active research in the field of Computer Architecture. Includes: new computing paradigms such as brain inspired non-von Neumann architectures, stochastic computing, hybrid memory systems and other architectures leveraging emerging memory technologies. Systolic array systems; new interconnect architectures including NoCs; GPU-accelerated computing etc. are also discussed.
+/
+English Composition: Writing, Speaking, Thinking II.
+Focuses on enhanced written and oral communication skills; emphasizes reading and interpretation of literary forms; critical analysis; methods of research using print and on-line sources; report writing and writing about literature.
+/
+English Composition: Writing, Speaking, Thinking I.
+Focuses on developing written and oral communication skills; emphasizes writing expository and research essays; preparing oral reports; drafting, revising, editing; evaluation and proper documentation of source material; using rhetorical strategies such as narration and argument.
+/
+Circuits and Systems II.  
+A continuation of circuits and systems with special emphasis on transient response. Topics include Laplace transform analysis, transfer functions, convolution, Bode diagrams, and Fourier series.
+/

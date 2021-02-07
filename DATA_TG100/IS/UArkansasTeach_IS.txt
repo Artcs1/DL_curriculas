@@ -1,0 +1,107 @@
+/ 
+Composition I
+A review of grammar, introduction to research methods, and practice in writing exposition using reading to provide ideas and patterns.
+/
+Calculus for Business and Economics
+An introduction to the concepts of differentiation and integration. Emphasis will be placed on applications of calculus in business, economics, accounting, social sciences, and life sciences.
+/
+Orientation to the University
+A course designed to provide information and enhance skills that will enable students to take responsibility for a successful transition to college. The course will expose students to college resources and requirements and promote the development of practical skills for college success.
+/
+Orientation to Computing, Information, and Technology
+An overview of hardware, software, technology, and information systems concepts and terms as well as ethics and opportunities within the three fields.
+/
+Computer and Information Science Lab
+An introduction to the computing resources of the department and the university.
+/
+Composition II
+with readings in poetry, fiction, and drama.
+/
+History I
+HIstory I
+/
+Principles of Economics I
+Macroeconomic analysis of output, income, employment, price level, and business fluctuations, including the monetary system, fiscal and monetary policy, and international economics.
+/
+Microcomputer Applications
+This course provides hands-on experience with several software applications. Topics include intermediate and advanced word processing; spreadsheet design, formulas, and charts; database design principles and implementation; presentation design and techniques; and integration among these applications. Students will be required to apply each package on a semester project related to their major.
+/
+Foundations of Computer Programming I
+An introduction to the foundational concepts of programming using structured programming concepts of C++ as an implementation tool. Programming principles covered in lecture are practiced in lab. Major topics include sequential, selection, and iterative control structures, functions, parameter passing, and file processing. Arrays are introduced as a structured data type.
+/
+Technical Writing
+Practice in composing abstracts, instructions, visuals, proposals, questionnaires, letters, memos, and a variety of informal and formal reports.
+/
+Accounting Principles I
+A study of fundamental processes of accounting for day to day business transactions. Includes recording business events in journal entry form and preparing adjusting entries, trial balances, financial statements, and closing entries. Introduces the basic internal control system a business must employ. Concludes with the measurement and reporting of all assets and liabilities.
+/
+Microcomputer Applications
+This course provides hands-on experience with several software applications. Topics include intermediate and advanced word processing; spreadsheet design, formulas, and charts; database design principles and implementation; presentation design and techniques; and integration among these applications. Students will be required to apply each package on a semester project related to their major.
+/
+Discrete Structures for Technical Majors
+Fundamental mathematical concepts related to computing, including logic and proof techniques; sets, sequences, relations, and functions; combinatorics; algebraic structures and Boolean algebra ; trees and graphs.
+/
+Computer Networks and Architecture
+This course covers how to install and administer a local area network and connect it to the Internet. Topics include network architecture, hardware, and software, along with popular protocols for establishing connectivity for sharing resources such as printers and files. Participation in a designated lab outside of the regularly scheduled meeting time is required.
+/
+Social I 
+Social I
+/
+Data Structures
+This course involves a study of abstract data structures and the implementation of these abstract concepts as computer algorithms.
+/
+Database Design and Implementation
+This course focuses on the design and implementation of relational database systems. Fundamental principles of databases such as relational model, conceptual design and normalization are covered. Students will also gain experience in database and query implementation using a DBMS and SQL.
+/
+Legal Environment of Business
+A survey of the U.S. legal system, the ethical and public policy issues relevant to business, and the principles of law commonly affecting business, including Constitutional law, contract law, tort law, employment law, white-collar crime, and laws pertaining to corporations and other business organizations.
+/
+Business Statistics
+This course reviews basic descriptive statistics and probability distributions. The course introduces inferential statistics and their application to business problems. Topics covered include data collection, the t-tests for one sample, matched-pairs, and independent groups, the F-test for one and two-way analysis of variance, the z-test for one and two proportions, the chi-square tests for independence and goodness of fit, the t- and F- tests as they relate to simple and multiple regression, control charts, time-series analysis, the visual display of quantitative information, and the reporting of results. Problems are addressed using technology such as statistical calculators and advanced statistical software.
+/
+Business and Professional Speaking
+An oral communication course for individuals in business, industry and the professions. Human communication theories and behavioral research are used as a framework for generating competencies in interviewing, briefings, conference leadership, and intergroup coordination.
+/
+Management and Organizational Behavior
+Basic principles of management and organizational behavior including planning, organizing, leading, controlling, staffing, decision making, ethics, interpersonal influence, and group behavior; conflict management; job design; and organizational change and development
+/
+Administering and Using the IBM Platform
+This course is an introduction to the operations of the IBM midrange computer system. Topics include architecture, system security, user interface, and work management. Coverage will also extend to applications and programming using an introduction to DB2 and RPG.
+/
+Systems Software and Architecture
+This course covers the implementation of production operating systems, the fundamentals of digital logic, and machine architecture.
+/
+Data Mining
+Introduction to knowledge discovery from large databases: terminology, algorithms, methodologies, software, limitations, implications, and current trends. Students will implement and evaluate data mining techniques.
+/
+Visual Programming
+This course covers the design and development of event-driven programs using an object-oriented visual programming language such as Visual Basic, Visual C#, or Visual C++.
+/
+Data Communications and NetworksF
+Basic elements and functional aspects of the hardware and software required to establish and control data communications in a stand-alone or network environment. Topics include communication protocols, media, network topologies, and system support software. Participation in a designated lab outside of the regularly scheduled meeting time is required.
+/
+Fine Arts I
+Fine Arts I 
+/
+Implications of Technology on Society
+This course explores ethical issues faced by members of a complex technological society and by professionals in a technology-related field. Topics covered include professional ethics, ethical decision making, privacy issues, intellectual property, and technology issues relating to software development, productivity, and computer crime. Extensive research on current issues is expected.
+/
+Web Programming
+Topics include features of web forms and CGI processing via a scripting language. Basic database interaction and Server- Side Includes (SSI), client-side implementation of pop-up windows, form validation, cookies, security, and other concepts will also be discussed.
+/
+Systems Analysis and Design I
+The application of concepts, tools, procedures, and techniques involved in the development of information systems. Emphasis is placed on the systems approach to problem solving, user involvement, the management of quality, project control, and teamwork.
+/
+Application Program Development
+bject-oriented application development. Topics include 00 Programming, three-tier design, and model-driven development. The course involves a major individual programming project. Students will develop and present their own large-scale application program.
+/
+Systems Analysis and Design II
+Emphasis on the application of the theory and techniques covered in the previous course. Students will research, analyze, design, implement, test and document a complete system. Students, working as a team, will analyze, plan, implement, document, and present a complete system in a real world environment.
+/
+Information Systems Resource Management
+A study of the principles and concepts involved in the management of organizational maintenance of all information resources, including hardware, software, and personnel. Includes coverage of departmental functions within computer/information services, as well as legal, ethical, and professional issues, quality management, and the strategic impact of information systems.
+/
+Principles of Marketing
+Marketing fundamentals, the ultimate consumer, the retailing and wholesaling systems, marketing functions, marketing policies, marketing costs, critical appraisal of marketing, marketing and the government.
+/
+

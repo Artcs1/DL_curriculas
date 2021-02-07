@@ -1,0 +1,65 @@
+/
+Introduction to Web Interface Development
+An introduction to the design and development of interactive Web 2.0 user interfaces using client-side programming languages. 
+/
+Introduction to Algorithmic Design I
+An introduction to problem solving and algorithmic design methodology using a high-level programming language. Topics include problem solving techniques; subprograms and modularity; fundamental data types and structures; flow of control statements; and file input/output.
+/
+Introduction to Algorithmic Design I Laboratory
+Introduction to Algorithmic Design I Laboratory
+/
+Introduction to Algorithmic Design II
+Topics include object oriented programming and algorithm design; elementary data structures; user-defined data types, inheritance, and encapsulation.
+/
+Introduction to Algorithmic Design II Laboratory
+Introduction to Algorithmic Design II Laboratory
+/
+Ethics in Computer Science
+Provides real-world experiences that stimulate discussion of ethical issues in the technical work place. Topics include: ACM Code of Ethics, general moral responsibilities, privacy security, copyright and ownership agreements, computer crimes, and personal ethics.
+/
+Linux Fundamentals I 
+This course provides students with a fundamental understanding of how to use a Linux operating system.
+/
+Introduction to Relational Database and SQL
+This course will provide an introduction to relational database concepts and the design of relational databases. It will also provide a thorough introduction to SQL.
+/
+Information Management
+This course covers the key aspects of information management including the acquisition, classification, storage, analysis, presentation, and archival of information. Privacy and security of information are also addressed.
+/
+Data Communication Systems and Networks
+Fundamentals of data communications, including hardware, basic components of communications, configurations, networks and applications, protocols and software are discussed.
+/
+Introduction to Server-side Web Application Development
+A thorough introduction to development and deployment of web-based applications. Topics include middleware programming concepts, client server architecture, database access, state management, and application security. Students are expected to already have proficiency with introductory computer programming, HTML, CSS, Javascript, and SQL or other database query framework.
+/
+Systems Analysis & Software Engineering
+A thorough introduction to requirements management, and best practices in eliciting, documenting, and verifying requirements for programming systems. Topics include writing effective use cases, constructing UML-compliant models (including class, state, and activity diagrams), specification of user interface and data layers, testing, and integration.
+/
+Project Management
+This course will cover techniques in project management based on the Project Management Body of Knowledge from the Project Management Institute.
+/
+Introduction to Information Systems Security
+Comprehensive survey of security policies, models and mechanisms for confidentiality, integrity, management and legal and ethical issues.
+/
+Information Systems Capstone Course and Project
+This senior capstone course integrates and synthesizes the material covered in the field of Information Systems, including Systems Analysis, Project Management, System Development and Deployment, and Security. Students will develop a practical solution to an information systems problem. Presentation will be both oral and written. Lecture topics may vary from semester to semester.
+/
+Senior Assessment
+This course provides various resources to graduating seniors including strategies for job searching and/or entry to graduate school. Students will complete all final assessments required to maintain currency and quality of the program. It is intended for majors to take in their last semester prior to graduation.
+/
+Introduction to the Internet and World Wide Web
+This course incorporates critical thinking as students learn about the Internet and the World Wide Web. 
+/
+Software Engineering II
+Topics include project requirements, design specifications, testing, project management and group dynamics.
+/
+Calculus I
+Limits, continuity, differentiation and integration of algebraic and transcendental functions, applications of the derivative to curve sketching, optimization and related rates.
+/
+Trigonometry
+Right triangle and circular trigonometry, graphs of trigonometric and inverse trigonometric functions, trigonometric identities, solving trigonometric equations, vectors, complex numbers, and their applications.
+/
+Introduction to Discrete Mathematics
+Set theory, logic divisibility, induction, combinatorics, relations, functions, graphs, digraphs, and Boolean algebra.
+/
+

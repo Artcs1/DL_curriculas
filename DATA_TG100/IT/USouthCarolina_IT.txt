@@ -1,0 +1,115 @@
+/
+Critical Reading and Composition
+Instruction in strategies for critically reading and analyzing literature and non-literary texts; structured, sustained practice in composing expository and analytical essays.
+/
+Rhetoric and Composition
+Instruction and intensive practice in researching, analyzing, and composing written arguments about academic and public issues.
+/
+Discrete Mathematics for Computer Science
+Logic, number theory, sequences, series, recursion, mathematical induction, set theory, enumeration, functions, relations, graphs and trees. Connections to computers and to programming are emphasized when possible.
+/
+Elementary Statistics
+Introduction to the fundamentals of modern statistical methods, including descriptive statistics, probability, random sampling, simple linear regression, correlation, tests of hypotheses, and estimation.
+/
+Public Communication
+Introduction to theory and practice of oral communication in public, social, and institutional contexts. Includes foundational and cumulative training in the invention, performance, and critical analysis of oral communication, with emphasis on argumentation, persuasion, audience analysis, delivery, and ethical forms of engagement.
+/
+Introduction to Economics
+The study of supply and demand, markets, household and firm decision-making, gross domestic product, inflation, unemployment, and government policies. Open to all students except business administration and economics majors.
+/
+Business Law
+Formation of contracts and their operation as they apply to business; promissory notes and checks; agency and employment.
+/
+Business Communications
+Theory and processes in written business communications; composing effective business letters and reports.
+/
+Principles of Accounting I
+A study of the accounting cycle with emphasis on preparation and analysis of financial statements.
+/
+Personnel Organization and Supervision
+Recruitment, selection, utilization, and development of human resources; role of supervisors in management and personnel administration.
+/
+Thriving in the Tech Age
+Pervasive impact of computers on today’s global society; skills and strategies for using technology. How information technologies impact daily life and drive change.
+/
+Introduction to Computer Hardware and Software Support
+Understanding of current computer hardware and software through computer building, repairing, and troubleshooting.
+/
+Introduction to Networking
+Understanding the essential concepts of computer networks, including standards, topologies, security, media, switching, routing, and more.
+/
+Computer Applications in Business I
+Survey of core skills and techniques for spreadsheet design and analysis of business problems.
+/
+Computer Applications in Business II
+Fundamentals of modern database design and applications.
+/
+Program Design and Development
+Fundamental algorithms and processes used in business information systems. Development and representation of programming logic. Introduction to implementation using a high-level programming language.
+/
+Software Design
+Survey of core software development principles, application development from pseudocode and flow charting through coding process.
+/
+Algorithmic Design I
+Problem-solving, algorithmic design, and programming.
+/
+Algorithmic Design II
+Rigorous development of algorithms and computer programs; elementary data structures.
+/
+Professional Internship Seminar
+Preparation for professional internship.
+/
+Web-Based Support Systems
+The development of Web-based information systems for support and training. Communication technologies for the global dissemination of information, including static information and multimedia content.
+/
+Database Systems in Information Technology
+Survey of techniques for working with enterprise-level database systems.
+/
+Introduction to Human Computer Interaction
+Human computer interaction: human factors of interactive software, methods to develop and assess interfaces, interaction styles, and design considerations.
+/
+Advanced Networking
+Advanced administration of client/server networks with major emphasis on network operating system software.
+/
+Management of Information Technology
+Overview of current practices and trends in end-user technology and information system management.
+/
+Information Technology Security for Managers
+Information technology security from a managerial perspective, including security awareness, risk assessment, and security policy development
+/
+Professional Internship
+Internship coordinated by a faculty member and supervised by an approved business supervisor. Contract approved by instructor, advisor, and department head is required for undergraduate students.
+/
+Analysis and Applications of Project Management Software
+Project management principles and standard practices, including software applications for project management.
+/
+Project Management for Information Systems
+Application of project management software, technologies, and practices to the design and implementation of real-world information technology projects.
+/
+Mainframe Systems
+Introduction to the large scale computer systems used by businesses to support thousands of simultaneous users and process millions of transactions.
+/
+Job Control Language
+Programming in job control language used to process batch jobs on mainframe computers. Use of standard system utility programs.
+/
+Training Systems
+Theory, design, and implementation of technology-based training systems, including hardware and software solutions.
+/
+Telecommunications
+Telecommunications systems, applications, and equipment allowing for the global dissemination of information.
+/
+Linux Programming and Administration
+Shell scripting and administration in the Linux operating system.
+/
+Advanced Web Support Systems
+The development of advanced, dynamic, Web-based information systems, including the integration of back-end database-records management systems.
+/
+Database Management and Administration
+Introduction to database administration and implementation using an enterprise-level Relational Database Management System (RDBMS).
+/
+eCommerce Technology in Hospitality
+Provides students with advanced understanding of technologies applicable to hospitality and tourism industries. Students analyze current and emerging technologies to determine operational impact on hotels, restaurants, and travel businesses.
+/
+Special Topics in Integrated Information Technology
+Special Topics in Integrated Information Technology
+/

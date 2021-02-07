@@ -1,0 +1,231 @@
+HISTORY 102
+U.S. History Since 1877
+Credits: 3
+This course covers American history from the end of Reconstruction to the present.
+/
+INFO-TEC 321
+Introduction to Computing Resources Administration
+Credits: 3
+This introductory course is designed to give an overview of a wide variety of technical, interpersonal, documentation, and managerial skills needed to become an effective systems administrator. 
+/
+COMP-SCI 291
+Discrete Structures II
+Credits: 3
+Recurrence relations and their use in the analysis of algorithms. Graphs, trees, and network flow models. Introduction to Finite state machines, grammars, and automata. 
+/
+/
+COMP-SCI 456
+Human Computer Interface
+Credits: 3
+Design of human-computer interfaces considering the psychological and physical abilities of the user.  User interface design from a functional and ergonomic perspective. Contents organization, visual organization, navigation. Use of graphical user interface (GUI) and the development of high quality user interfaces. 
+/
+COMP-SCI 423
+Client/Server Programming and Applications
+Credits: 3
+Fundamentals of Client/Server programming using socket interface; features of network programming including connection oriented and  connectionless communication in multiple environments (Windows, UNIX, and Java); other client/server mechanisms, such as RPC and RMI) and formal object environments designed to facilitate network programming (CORBA, COM and Beans). 
+/
+DISC 200
+Discourse II: Culture and Diversity (Writing and Speech)
+Credits: 3
+Students will produce, perform, and analyze college-level, oral and written texts that are based on sustained academic research. Students will continue to develop their understanding of discourse analysis and language awareness in the context of a range of discursive forms. Students will interpret and synthesize college-level scholarship that addresses how diverse discourse communities define, evaluate, and transform individual, institutional, and cultural identities. 
+/
+COMP-SCI 421A
+Foundations of Data Networks
+Credits: 3
+This introductory course examines the analytical aspects of data communications and computer networking. Topics cover protocol concepts and performance analysis that arise in physical. data link layer, MAC sub layer, and network layer. 
+/
+ACCTNG 210
+Introduction To Financial Accounting
+Credits: 3
+An overview of basic concepts and terminology associated with reporting financial information to parties outside of an organization. This course requires students to take an accompanying lab that meets one day a week. 
+/
+COMP-SCI 303
+Data Structures
+Credits: 3
+Linear and hierarchical data structures, including stacks, queues, lists, trees, priority queues, advanced tree structures, hashing tables, dictionaries and disjoint-set. Abstractions and strategies for efficient implementations will be discussed. Linear and hierarchical algorithms will be studied as well as recursion and various searching and sorting algorithms. Programming concepts include Object Orientation, concurrency and parallel programming. Several in-depth projects in C++ will be required. 
+/
+COMP-SCI 457
+Software Architecture:  Requirements & Design
+Credits: 3
+Introduction to requirements and design engineering with emphasis on organization and presentation of system requirements and designs for customers, users and engineers; validation of requirements and design with needs of system customer; examination of requirement and design changes during the lifetime of a system; transformation of informal ideas into formal detailed descriptions; examination of the different stages in the design process including architectural design, interface design and data structure design, database design, program and transaction design; examination of domain modeling criteria and examination of design quality attributes; non-functional attributes and project resource allocation. 
+/
+CJC 364
+The Supreme Court And The Criminal Process
+Credits: 3
+Course examines recent Supreme Court decisions on the constitutional aspects of the administration of justice. Topics include the nationalization of the Bill of Rights and jurisdiction with an emphasis on problems involving the Fourth, Fifth, Sixth, Eighth, and 14th Amendments.
+/
+ENT 315
+Entrepreneurial Mindset and Opportunity Recognition
+Credits: 3
+This course teaches  students how to develop an entrepreneurial mindset.  Students will utilize play, creative problem solving, design thinking, and creativity tools while developing skills to mitigate risk and recognize opportunities.
+/
+COMP-SCI 424
+Software Methods and Tools
+Credits: 3
+This course covers a number of software methods and tools that are widely used in industry. These methods include architecture patterns and styles, software frameworks, unit testing, and version control. The covered software tools include Microsoft Project, IBM Rational Systems Modeler, Eclipse Plug-ins, JUnit, Subversion, and GIT. The course emphasizes practice. Students will use these methods and tools to develop a software system from the initial planning to final deployment. 
+/
+MGT 306
+Legal, Ethical And Regulatory Environment Of Business
+Credits: 3
+The course looks at legal and moral thought, with attention to ethical issues in business.  Students are introduced to our common law system; selected areas of law, with attention to the inclusion of cultural and moral values; and an introduction to government regulation of business. 
+/
+DISC 300
+Discourse III: Civic and Community Engagement (Speech and Writing)
+Credits: 3
+Students will put the knowledge and skills learned in Discourse I and II into practical use by engaging in a service-learning project that is interdisciplinary and intercultural. Students will use strategies of critical discourse analysis and critical language awareness to target the appropriate audience/recipients for their research  project, to develop innovative and rhetorically effective texts, and to reflect on their project’s purpose, methods, and consequences.  
+/
+COMP-SCI 201R
+Problem Solving and Programming II
+Credits: 3
+Problem solving and programming using classes and objects. Algorithm efficiency, abstract data types, searching and sorting, templates, pointers, linked lists, stacks and queues implemented in C++. 
+/
+COMP-SCI 449
+Foundations of Software Engineering
+Credits: 3
+The course introduces concepts of software engineering (e.g. definitions, context) and the software development process (i.e. life cycle). Students will get a solid foundation in agile methodology, software requirements, exceptions and assertions, verification and validation, software models and modeling, and user Interface design. Various software architectures will be discussed. 
+/
+DSOM 326
+Production/Operations Management
+Credits: 3
+This course presents an introduction to the concepts, models, and methods of operations management. Students will study approaches to planning, scheduling, and controlling product and service facilities, processes, cost, quality, quantity, production, capacity, inventory, and distribution requirements. Computer applications and computer-based operations control systems will be introduced as a means to effectively manage the operations functions of both product and service organizations. 
+/
+COMP-SCI 420
+Introductory Networking and Applications
+Credits: 3
+This introductory course examines the systems aspects of the different LAN/MAN/WAN models, including topics such as protocols, network operating systems, applications, management and wireless communication systems. It also examines how the different models are interconnected using bridges and routers. 
+/
+DISC 100
+Discourse I: Reasoning and Values (Speech and Writing)
+Credits: 3
+“Discourse” refers to the language, images, styles, genres, behaviors and other forms of communication used by specific social and professional groups. The techniques of discourse analysis and language awareness taught in this course will enable you to position yourself socially and professionally, helping you understand the discourse conventions, reasoning, and "commonsense" assumptions that create and define academic, political, professional, and other discourse formations and communities. Students will produce, perform, and analyze college-level, oral and written texts; and they will learn how written and oral performances function together in specific discourse communities. 
+/
+COMP-SCI 191
+Discrete Structures I
+Credits: 3
+Mathematical logic, sets, relations, functions, mathematical induction, algebraic structures with emphasis on computing applications. 
+/
+HISTORY 101
+U.S. History to 1877
+Credits: 3
+This course offers a broad survey of American history up to 1877.
+/
+COMP-SCI 458
+Software Architecture:  Testing & Maintenance
+Credits: 3
+Introduction of software system testing (including verification), software process, software reuse, software maintenance, and software re-engineering. 
+/
+HONORS 230
+Honors American Government
+Credits: 3
+This course will analyze the structure and operation of American government. Major topic areas include the historical development of American democracy, mass political behavior, political institutions, public policy, and their connections. The US and Missouri Constitutions provide a framework for the class and are examined in-depth throughout the class. 
+/
+COMP-SCI 201L
+Problem Solving and Programming II - Lab
+Credit: 1
+Programming exercises and demonstrations to reinforce concepts learned in COMP-SCI 201R and provide additional practice in C++ programming. 
+/
+MGT 330
+Understanding the Individual in the Organization
+Credits: 3
+This course explores the micro dynamics of organizations: the individual and his/her relationship to other people, teams, and work groups. Topics will include: individual traits, behaviors, and skills for effective performance; self-assessment and professional development; staffing; motivation; individual and group dynamics; multicultural understanding and diversity; and ethical decision making. 
+/
+COMP-SCI 431
+Introduction to Operating Systems
+Credits: 3
+This course covers concurrency and control of asynchronous processes, deadlocks, memory management, processor and disk scheduling, x86 assembly language, parallel processing, security, protection, and file system organization in operating systems. 
+/
+POL-SCI 210
+American Government
+Credits: 3
+American government and politics, with special reference to the U.S. Constitution.  This course meets the state requirement for study of the U.S. and Missouri Constitutions.
+/
+INFO-TEC 426
+Practical Network Security
+Credits: 3
+This course examines common threats to computer network security and discusses various techniques to mitigate those threats. The course material is supplemented with lab assignments that implement network security tools and use them to build a small secure network. It discusses information hiding, traffic monitoring and control, intrusion detection, and security policy. Note: NOT FOR GRADUATE CREDIT. 
+/
+INFO-TEC 429
+Introduction to Cybersecurity
+Credits: 3
+This course introduces students to cybersecurity and its domains. The course will cover topics such as cryptography, software development security, access control, security architecture, security operations, disaster recovery, and physical and environmental security. 
+/
+COMP-SCI 451R
+Software Engineering Capstone
+Credits: 3
+The course will focus on the requirements and project planning and managing of medium sized projects with deliverables of each phase of the software life cycle. Additional studies of system integration and architecture, software modeling, requirements specifications, configuration management, verification, validation, software evolution and quality and finally measurement, estimation and economics of the software process. 
+/
+INFO-TEC 222
+Multimedia Production and Concepts
+Credits: 3
+Multimedia production and concepts will give an overview of multimedia technology and communication theory needed to deliver information and to produce interactive presentations for the web, portable media,  and for in-person presentations and demos. The course offers exposure to software, hardware, other multimedia technologies, authoring and copyright matters. 
+/
+INFO-TEC 491
+Internship
+Credits: 1-6
+Students may participate in structured internships under the joint supervision of an employer and a faculty member. The student must carry out significant professional responsibilities that also have academic merit. The number of credit hours is based on the quality of the academic experience. Available for credit/no credit only, and students must be in good standing with a least 18 credit hours of CS/IT counting towards the degree. 
+/
+ECON 202
+Introduction To Economics II
+Credits: 3
+Economics II deals primarily with microeconomics, firm analysis, the principles of demand, supply, elasticity, price determination, costs, income distribution, market structures, trade, and other related social, economic issues.  ECON 201 and ECON 202 are prerequisites for most other economics courses.
+/
+COMP-SCI 101
+Problem Solving and Programming I
+Credits: 3
+Problem solving, algorithms, and program design. Use of structured programming, lists, control structures, recursion, objects and files in Python. Introduction to graphical interface programming. Coding, testing and debugging using a modern development environment. 
+/
+COMP-SCI 470
+Introduction to Database Management Systems
+Credits: 3
+This course covers database architecture, data independence, schema, Entity-Relationship (ER) and relational database modeling, relational algebra and calculus, SQL, file organization, relational database design, physical database organization, query processing and optimization, transaction structure and execution, concurrency control mechanisms, database recovery, and database security. 
+/
+ANCH 308
+Ethical Issues in Computing & Engineering
+Credits: 3
+Societal and ethical obligations of computer science, IT, and electrical/computer engineering practice. Topics include ethical obligations of professional practice, electronic privacy, intellectual property, software and system security and reliability, and whistle-blowing. This course teaches the principles of ethical analysis and how technology, law, and ethics interact in society, to help the graduate confront and deal with the ethical challenges that arise in professional practice. 
+/
+ACCTNG 211
+Introduction To Managerial Accounting
+Credits: 3
+An introduction to the use of cost accounting concepts and information in managing the activities of a business. 
+/
+COMP-SCI 281R
+Introduction to Computer Architecture and Organization
+Credits: 3
+Digital Logic and Data Representation, process architecture and instruction sequencing, memory hierarchy and bus-interfaces and functional organization. 
+/
+STAT 235
+Elementary Statistics
+Credits: 3
+An introduction to descriptive and inferential statistics. Organization and presentation of data, averages and variations, elementary probability, random variables, special discrete distributions, normal distributions, sampling distributions, point estimation, confidence intervals, and hypothesis testing. 
+/
+FIN 325
+Financial Management
+Credits: 3
+This course provides an overview of the relationship between business decisions and the value of the firm, as determined by the marketplace. Students will study the composition of capital structure, capital budgeting, and cost of capital theory, including incremental analysis of investment situations. 
+/
+COMP-SCI 371
+Database Design, Implementation and Validation
+Credits: 3
+This course discusses in detail all aspects of database management systems. It covers in detail database design, implementation, and validation. In addition to these, it briefly covers implementation, tuning, database security, and implementation. The course is suitable for undergraduates and professionals alike. 
+/
+COMP-SCI 349
+Java Programming with Applications
+Credits: 3
+The course covers the syntax and semantics of the Java programming language along with the use of essential class libraries. These topics will be taught in the context of application development. Students will learn how to write small to medium sized Java applications and applets. Specific topics covered include: essential classes in the Java API, interfaces, inheritance, exceptions, graphical user interface components, layout managers, events, I/O classes, Applets, data base access, and multithreading. Other topics will be covered as time permits. 
+/
+COMP-SCI 101L
+Problem Solving & Programming I Lab
+Credit: 1
+Programming exercises and demonstrations to reinforce concepts learned in COMP-SCI 101 and provide additional practice in Python programming.  
+/
+MATH 210
+Calculus I
+Credits: 4
+Functions and graphs, rational, trigonometric, exponential functions, composite and inverse functions, limits and continuity, differentiation and its applications, integration and its applications. 
+/
+MKT 324
+Principles of Marketing
+Credits: 3
+The course focuses on the processes involved in the marketing of goods and services, including the meaning and importance of marketing terminology, the marketing mix, the marketing concept, consumerism, market segmentation, market and marketing research, and the impacts of different competitive structures on marketing decision making. 
+/

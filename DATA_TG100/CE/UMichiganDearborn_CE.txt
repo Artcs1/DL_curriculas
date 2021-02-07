@@ -1,0 +1,114 @@
+/
+General Chemistry IA
+An introduction to chemical phenomena and principles with an emphasis on developing both an understanding of chemistry and an appreciation of what chemists do. Students will investigate the fundamentals of chemistry in the context of real-world problems and will utilize systems of biological and environmental importance. Core concepts include stoichiometry, aqueous chemistry, gas laws, thermochemistry, atomic structure, molecular structure and bonding. 
+/
+Chemistry I Lab
+Chemistry I Lab
+/
+Calculus I
+Calculus is the study of change and accumulation in continuously variable quantities. This course covers limits and continuity, derivatives and their applications, and integrals, with algebraic, exponential, and trigonometric functions and their inverses.  
+/
+Introduction to Engineering and Engineering Design
+The purpose of this course is to provide a general introduction to the engineering profession, to engineering design, and programming using MATLAB. The course introduces the design-build-test-learn cycle through lectures, hands-on based laboratory activities, and a team project.
+/
+Introduction to Engineering and Engineering Design Lab
+Introduction to Engineering and Engineering Design Lab
+/
+Introduction to Humanities   
+An introduction to the visual arts, music, and drama in western and world societies. Through study of individual works, the course teaches appreciation of the arts in their aesthetic and technical qualities, and understanding of the arts as expressions of diverse societies, varied historical conditions, and shared human experiences.
+/
+Digital Systems  
+Introduction to digital logic. Topics include numbers and coding systems; Boolean algebra with applications to logic systems; Karnaugh and Quine-McCluskey minimization; combinatorial logic design; flip-flops; sequential network design; and design of digital logic circuits.
+/
+Digital Systems Lab
+Digital Systems Lab
+/
+Calculus II 
+This course continues the study of Calculus from Math 115, including applications and techniques of integration, improper integrals, parametric equations, polar coordinates, and sequences and series, including Taylor series.
+/
+General Physics I
+Part I of an integrated, two-semester, calculus-based treatment of physics, with emphasis on the solution of physical problems through the understanding of a few basic concepts. Topics are drawn from mechanics.  
+/
+General Physics I Lab
+General Physics I Lab
+/
+Writing & Rhetoric I 
+Focuses on the study and practice of writing and rhetoric, with special emphasis on the writing process. Students write and read critically a range of texts, and consider academic and nonacademic genres and conventions.
+/
+Calculus III   
+Vectors in the plane and space, vector-valued functions and curves, functions of several variables including limits, continuity, partial differentiation and the chain rule, multiple integrals and coordinate transformations, integration in vector fields, and Green's and Stokes' theorems. 
+/
+General Physics II     
+Topics are drawn from electricity and magnetism, and optics. Three hours lecture, one hour discussion, three hours laboratory. 
+/
+General Physics II Lab
+General Physics II Lab 
+/
+Computer Methods in ECE I  
+Covers structured and object-oriented computer programming concepts in the context of the C/C++ programming language and engineering applications. Four lecture hours per week with programming assignments.
+/
+Circuits    
+Fundamental laws, electrical elements and sources, energy and power. DC analysis of linear circuits. Node and mesh analysis. Operational amplifiers and op-amp circuits, Thevenin and Norton theorems. Sinusoidal steady-state response and the phasor concept. Introductory concepts on complex frequency, average power in AC circuits.
+/
+Circuits Lab
+Circuits Lab
+/
+Differential Equations with Linear Algebra 
+This course provides an introduction to ordinary differential equations. Emphasis is placed on the development of abstract concepts and applications for first-order and linear higher-order differential equations, systems of differential equations, introductory numerical methods, matrix algebra, and Laplace transform techniques.
+/
+Discrete Math in Computer Engr    
+An introduction to fundamental concepts of discrete mathematics for computer engineering. Topics will be chosen from set theory, partially ordered sets, lattices, Boolean algebra, semi-groups, rings, graphical representation of algebraic systems, graphs, and directed graphs. Applications in various areas of computer engineering will be discussed.
+/
+Tech Writing for Engineers   
+Instruction and practice in designing technical reports. Students study the rhetorical problems facing the professional engineer in industry and learn practical strategies for analyzing and communicating technical information to both technical and non-technical audiences. Topics include audience analysis, technical research methods, report formats (written and oral, formal and informal), argumentation and persuasion, editing. 
+/
+Prin: Macroeconomics    
+This course serves to introduce the student to the basic ideas and concepts of modern economic analysis, and applies them to current economic problems, policies and issues. The focus of this course is on macroeconomics: income and wealth, employment, and prices at the national level in the United States economy.
+/
+Microprocessors & Embedded Systems 
+This course is an introduction to the operation, interfacing, and applications of micro processor based systems, and real-time embedded system design. Topics include: microprocessor architecture, embedded C programming, real-time programming.  
+/
+Microproc & Embedded Sys Lab
+Microproc & Embedded Sys Lab
+/
+Electronic Circuits I   
+Terminal characteristics and biasing of semiconductor diodes, bipolar and field-effect transistors, operational amplifiers. Rectifiers, amplifiers, and logic.  
+/
+Electric Circuits I Lab
+Electric Circuits I Lab
+/
+Adv Soft Techn in Comp Engr   
+Advanced concepts and techniques of modular object oriented and structured programming; representative real-world computer engineering applications including data structures, search and sorting. 
+/
+Eng Probability and Statistics     
+Set theory, combinatorial analysis, probability and axioms, random variables, continuous and discrete distribution functions, expectations, Chebychev's inequity, weak law of large numbers, central limit theorem, sampling statistics and distributions, point and interval estimation and linear regression. 
+/
+Intro to Comp Architecture     
+Introduction to architecture of mini- and mainframe computers. CPU, memory, and I/O characteristics. Introduction to parallel architectures and hardware design languages. Case studies of popular computer systems and design considerations.
+/
+Intr to Comp Archetecture Lab
+Intr to Comp Archetecture Lab
+/
+Embedded System Design    
+This course studies the issues dealing with real-time embedded system design. Topics include: microprocessor architecture, assembly language, real-time programming, space and time limitations, relations between ANSIC Compiler output and assembly language, compiler linkers and using a system development package for C programming.
+/
+Embedded System Design Lab
+Embedded System Design Lab
+/
+Comp Networks/Data Comm   
+Hardware and software techniques used in interfacing between computers and other computers or devices. Data transmission techniques and protocols. Introduction to popular local area network protocols. Forward Error Control Techniques and Data Compression. Introduction to wireless communications with focus on major challenges and obstacles and the cellular phone infrastructure.  
+/
+Comp Hardware Org/Design   
+Design methodology, performance analysis using probability and statistic methods, hardwired and microprogramming in CPU design, hardware design languages and memory design. Advanced concepts in computer architecture.
+/
+Operating Systems    
+Introduction to computer operating systems. Process management, threads, CPU scheduling, memory management, process synchronization, file systems and I/O devices. Selected advanced topics, e.g., distributed systems, deadlock, I/O, job scheduling, and performance analysis using queueing models, will be introduced. 
+/
+Computer Engineering Des I     
+This course is conducted as a guided project design course over a two semester period, with the class divided into teams, each assigned a specific design project. Periodic progress reports, a final written report, an oral presentation and project demonstration are required. Cost analysis, societal impact, safety issues, evaluation of design alternatives and application of engineering principles will be emphasized. A series of tutorials will be presented to provide student teams with insight into important system level considerations and trade offs.
+/
+Entrepreneurial Thinking&Behav   
+This course introduces entrepreneurship as an approach to one’s life and career advancement. It explores how entrepreneurial thought can create change and opportunities in many organizations, including large corporations, small business, and communities. The course will focus on how the entrepreneurial mindset is a toolkit that can be taught and how entrepreneurial skills empower individuals to bring about change. Students will be challenged to push the boundaries to identify unmet customer needs that are demanded by various demographics. Important aspects of the course include a careful analysis of the following: opportunity recognition, design thinking, market assessment, effective communication, operational partners, strategic management, and financial planning.
+/
+Computer Engin Design II     
+This course is conducted as a guided project design course over a two semester period, with the class divided into teams, each assigned a specific design project. Periodic progress reports, a final written report, an oral presentation and project demonstration are required. Cost analysis, societal impact, safety issues, evaluation of design alternatives and application of engineering principles will be emphasized.

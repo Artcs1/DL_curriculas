@@ -1,0 +1,145 @@
+/
+Accelerated Single-Variable Calculus I
+Functions, limits, differentiation of algebraic functions, integration, applications including extrema problems, areas, volumes, centroids, and work. 
+/
+Accelerated Single-Variable Calculus II
+Differentiation and integration of transcendental functions,
+applications, methods of integration, coordinate geometry, polar coordinates, infinite series. 
+/
+Multivariable Calculus
+Vectors, curves, and surfaces in space. Functions of several variables, partial derivatives, multiple integrals. Vector integral calculus, including line and surface
+integrals. 
+/
+Differential Equations with Linear Algebra
+Scalar differential equations, Laplace transforms, systems of differential equations. Gauss-elimination, algebra of matrices, determinants, vector spaces, linear operators, eigenvalues and eigenvectors. 
+/
+Probability and Statistics for Engineering
+Discrete and continuous probability functions, cumulative distributions. Normal distribution. Poisson distribution and Poisson process.
+Conditional probability and Bayes’ formula. Point estimation and interval
+estimation. Hypothesis testing. Covariance and correlation. Linear regression theory and the principle of least squares. 
+/
+General Chemistry
+General principles of chemistry for science and engineering students. Composition and
+structure of matter, chemical reactions, bonding, solution chemistry, and
+kinetics. Thermodynamics, equilibrium, acids and bases, electrochemistry,
+and coordination compounds. 
+/
+General Chemistry Laboratory
+General Chemistry Laboratory
+/
+General Physics I
+Calculus-based introduction to general physics and its applications. 
+/
+General Physics Laboratory I
+General Physics Laboratory I
+/
+General Physics II
+Calculus-based introduction to general physics and its applications. Electricity and magnetism, optics, modern physics. 
+/
+General Physics Laboratory II
+General Physics Laboratory II
+/
+Materials Science I
+Concepts of materials science developed from an understanding of the atomic and
+molecular structure of materials and their relationship to the properties of matter. Mechanical, electrical, physical, chemical, and magnetic
+properties of metals, ceramics, organics, composites, and semiconductors are covered. 
+/
+Materials Science Laboratory
+Materials Science Laboratory
+/
+Introduction to Engineering, Module 1
+First of three required discipline-specific modules for Introduction to
+Engineering credit providing an introduction to engineering analysis
+and design. Discipline-specific modules selected based on individual
+choice. 
+/
+Introduction to Engineering, Module 2
+Introduction to Engineering, Module 2
+/
+Introduction to Engineering, Module 3
+Introduction to Engineering, Module 3
+/
+Technical Communications
+Instruction and practice in written and oral communication. Emphasis is on
+organization and presentation of information to a specific audience
+for a specific purpose. 
+/
+Program and Project Management for EECE
+Methods for planning programs and projects. Organization
+structures and information management for project teams. Communications between project teams and clients, government agencies, and
+others. 
+/
+Electrical and Computer Engineering Design
+Based on product specifications typically supplied by
+industrial sponsors, teams of students responsible for the formulation,
+execution, qualification, and documentation of a culminating engineering design. The application of knowledge acquired from earlier coursework, both within and outside the major area, along with realistic technical, managerial, and budgetary constraints using standard systems
+engineering methodologies and practices. 
+/
+Senior Engineering Design Seminar
+Elements of professional engineering practice. Professionalism,
+licensing, ethics and ethical issues, intellectual property, contracts, liability, risk, reliability and safety, interdisciplinary teams and team tools,
+codes, standards, professional organizations, careers, entrepreneurship, human factors, and industrial design.
+/
+Circuits I
+Development of basic electrical circuit element models, signal representations, and methods
+of circuit analysis. Matrix methods and computer techniques. Demonstrations of physical components, measurement techniques, and
+transient phenomena.
+/
+Digital Systems
+Digital systems and computer architectures and digital systems, from transistor circuits and logic gates, to
+simple machine (e.g. von Neumann) models. Boolean algebra, Information representation, state machines.
+/
+Digital Systems Laboratory
+Digital Systems Laboratory
+/
+Microcontrollers
+Microprocessor and microcontroller architecture with emphasis on control applications.
+Usage of assembly language and interfacing with programs written in
+high-level languages. Interfacing and real-time I/O with 8-bit microprocessors, control algorithms, and networking with microcontrollers. 
+/
+Microcontrollers Laboratory
+Microcontrollers Laboratory
+/
+Programming and Problem Solving
+An intensive introduction to algorithm development and problem solving
+on the computer. Structured problem definition, top down and modular
+algorithm design. Running, debugging, and testing programs. Program
+documentation.  
+/
+Program Design and Data Structures
+The study of elementary data structures, their associated algorithms and their application in problems; rigorous development of programming techniques and style; design and
+implementation of programs with multiple modules, using good data
+structures and good programming style. 
+/
+Intermediate Software Design
+High quality development and reuse of architectural patterns, design patterns, and software components. Theoretical and practical aspects of
+developing, documenting, testing, and applying reusable class libraries and object-oriented frameworks using object-oriented and component-based programming languages and tools. 
+/
+Embedded Systems
+Design and implementation of embedded computer-based systems. Programming
+for real-time systems and the Internet of Things. Embedded system
+modeling, design, analysis, and implementation using real-time and
+event-driven techniques. 
+/
+Control Systems I
+Theory and design of feedback control systems, steady-state and transient analysis, stability considerations. Model representation. State-variable models. 
+/
+Principles of Operating Systems I
+Resource allocation and control functions of operating systems.
+Scheduling of processes and processors. Concurrent processes and
+primitives for their synchronization. Use of parallel processes in designing operating system subsystems. Methods of implementing parallel
+processes on conventional computers. Virtual memory, paging, protection of shared and non-shared information. Structures of data files
+in secondary storage. Security issues. Case studies. 
+/
+Database Management Systems
+Logical and physical organization of databases. Data models and query languages, with emphasis on the relational model and its semantics. Data
+independence, security, integrity, concurrency. 
+/
+Control Systems I
+Theory and design of feedback control systems, steady-state and transient analysis, stability considerations. Model representation. State-variable models. 
+/
+Artifcial Intelligence
+Principles and programming techniques of artificial intelligence. Strategies for searching,
+representation of knowledge and automatic deduction, learning, and
+adaptive systems. 
+/

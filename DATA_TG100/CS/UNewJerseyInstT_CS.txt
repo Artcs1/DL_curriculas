@@ -1,0 +1,94 @@
+﻿/
+Intensive Programming in Linux.
+The course covers Linux programming with Apache Web and MySql database using Php/Python and C as primary languages. It consists of four stages: basic tools such as Bash and C programming; searching trees and matrix computing, end-to-end applications such as one that constantly presents top 100 stocks; and extending the applications to run on multiple machines. The course provides students with hands-on experience for programming relatively large applications.
+/
+Introduction to Cybersecurity.
+This course will give a broad overview of cybersecurity. There are two main goals of this course. First, students will learn fundamental concepts of cybersecurity. Second, this course will help students gain knowledge of the applications to computer systems and communication security. Topics include basics of cryptography, access control, malware, software security, storage and file security, operating-system security, database security and secure communication protocols.
+/
+Introduction to Computer Science. 
+Intensive introduction to computer science. Problem solving decomposition. Writing, debugging, and analyzing computer programs. Introduction to arrays and lists. Iteration and recursion. The Java language is introduced and used to highlight these concepts.
+/
+Calculus II.
+Topics include integration, applications of integration, series, exponential and logarithmic functions, transcendental functions, polar coordinates, and conic sections.
+/
+English Composition: Writing, Speaking, Thinking I.
+Entrance is determined by placement test score or completion of HUM 099 with a grade of C or better. Focuses on developing written and oral communication skills; emphasizes writing expository and research essays; preparing oral reports; drafting, revising, editing; evaluation and proper documentation of source material; using rhetorical strategies such as narration and argument.
+/
+Probability and Statistics..
+Descriptive statistics and statistical inference. Topics include discrete and continuous distributions of random variables, statistical inference for the mean and variance of populations, and graphical analysis of data.
+/
+English Composition: Writing, Speaking, Thinking II.
+Focuses on enhanced written and oral communication skills; emphasizes reading and interpretation of literary forms; critical analysis; methods of research using print and on-line sources; report writing and writing about literature.
+/
+Programming Language Concepts.
+Conceptual study of programming language syntax, semantics and implementation. Course covers language definition structure, data types and structures, control structures and data flow, run-time consideration, and interpretative languages.
+/
+ Senior Project.
+An opportunity for the student to integrate the knowledge and skills gained in previous computer science work into a team-based project. The project involves investigation of current literature as well as computer implementation of either a part of a large program or the whole of a small system.
+/
+Oral Presentations.
+Instruction and practice in effective oral presentations. Students deliver a wide range of presentations adapted to the needs of a variety of audiences. Topics include voice and diction, presentation skills, the effective use of visual aids, reporting technical material and audience analysis. This course satisfies the three credit 300 GER in History and Humanities.
+/
+Professional Dev in Computing.
+This course is designed for junior year students to reflect back on the college experience and to help plan for the future as a computing professional. The course will explore transitional issues that occur during the progression from student to professional through reflection on co-op and/or internship.
+/
+Guided Design in Software Engineering.
+This course focuses on the methodology for developing software systems. Methods and techniques for functional requirements analysis and specifications, design, coding, testing and proving, integration and maintenance are discussed.
+/
+Advanced Data Structures and Algorithm Design.
+Advanced topics in data structures and algorithms, involving sequences, sets, and graphs such as searching, sorting, order statistics, balanced search tree operations, hash tables, graph traversals, graph connectivity and path problems. Algebraic and numeric algorithms. Performance measures, analysis techniques, and complexity of such algorithms.
+/
+Roadmap to Computing.
+An introduction to programming and problem solving skills using Python or other very high level language. Topics include basic strategies for problem solving, constructs that control the flow of execution of a program and the use of high level data types such as lists, strings and dictionaries in problem representation. The course also presents an overview of selected topics in computing, such as networking and databases.
+/
+Physics I Lab.
+Physics I Lab.
+/
+Computing & Effective Com.
+Through encouraging collaboration and communication, this course addresses how to best present oneself via verbal and nonverbal communication. Students will learn how to effectively network, create resumes, interview and best present ideas. The skills learned in this course prepare students for co-op/internship opportunities as well as future employment.
+/
+Freshman Seminar.
+Addresses issues related to a successful college life during weekly seminars. Topics include time management, study skills, interpersonal relationships, wellness, multicultural issues and career decision making. Freshman Seminar is a graduation requirement for all first-time, full-time freshmen.
+/
+Physics II.
+This course deals with an introduction to electricity and magnetism. Topics include simple dc circuits, the electric field, the magnetic field, electric potential, capacitance relationships between electric and magnetic fields, inductance, and simple ac circuits. Lab must be taken concurrently.
+/
+Intro to Computer Systems. 
+An introduction to the organization and architecture of computer systems, including the standard Von Neumann model and more recent architectural concepts. Among the topics covered are numeric data representation, assembly language organization, memory addressing, memory systems, both real and virtual, coding and compression, input/output structures treated as programmed, interrupt, and direct memory access, and functional organization of the CPU and the computer system.
+/
+Physics I. 
+Elementary mechanics with an emphasis on the fundamental concepts and laws of mechanics, especially the conservation laws. Topics are scalar and vector quantities of mechanics; rectilinear and circular motion; equilibrium and Newton's laws of motion; work, energy, momentum; the conservation laws. Lab must be taken concurrently.
+/
+Calculus I.
+Topics include limits, differentiation, applications of differentiation, and integration.
+/
+Introduction to Data Science.
+This course is designed for CS BS students to equip them with introductory principles as well as hands-on skills that are required to solve data science problems. The first part of the course focuses on learning models, formalism, and algorithmic techniques that are popular in data science and heavily used in practice. In the second part of the course, students are introduced to data science tools (e.g., Excel, Python).
+/
+Database System Design & Mgmt.
+Database system architecture; data modeling using the entity-relationship model; storage of databases; the hierarchical, network and relational data models; formal and commercial query languages; functional dependencies and normalization for relational database design; relation decomposition; concurrency control and transactions management. Student projects involve the use of a DBMS package.
+/
+Foundations of Computer Science I.
+An introduction to the foundations of computer science with emphasis on the development of  techniques for the design and proof of correctness of algorithms and the analysis of their computational complexity. Reasoning techniques based on propositional and predicate logic and relational calculus operations with applications to databases will also be introduced. Auxiliary topics such as combinatorics of finite sets, functions and relations, and graph-theory definitions and graph storage alternatives will also be examined.
+/
+Physics II Lab.
+Physics II Lab.
+/
+Introduction to Computer Science II.
+A study of advanced programming topics with logical structures of data, their physical representation, and the design of computer algorithms operating on the structures. Course covers program specifications, correctness and efficiency, data abstraction, and algorithm analysis.
+/
+Computers, Society and Ethics.
+Examines the historical evolution of computer and information systems and explores their implications in the home, business, government, medicine and education. Topics include automation and job impact, privacy, and legal and ethical issues.
+/
+Principles of Operating Systems.
+Organization of operating systems covering structure, process management and scheduling; interaction of concurrent processes; interrupts; I/O, device handling; memory and virtual memory management and file management.
+/
+Technical Writing.
+An advanced writing course. Combines current theory with actual practice to prepare students as technical writers. Analyze complex communication situations and design appropriate responses through tasks that involve problem solving, rhetorical theory, document design, oral presentations, writing teams, audience awareness, ethical considerations, and gender equity issues.
+/
+Foundations of Computer Science II. 
+This course provides an introduction to automata theory, computability theory, and complexity theory. Theoretical models such as finite-state machines, push-down stack machines, and Turing machines are developed and related to issues in programming language theory.  Also, the course covers undecidability and complexity classes P, NP, and NPC.
+/
+Introduction to Computer Networks.
+This course provides an introduction to computer networks, with a special focus on Internet architecture and protocols. Topics include layered-network architectures, addressing, naming, forwarding, routing, communication reliability, the client-server model, web and email protocols. Besides the theoretical foundations, students acquire practical experience by programming reduced versions of real Internet protocols.
+/

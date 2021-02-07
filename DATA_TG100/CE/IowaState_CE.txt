@@ -1,0 +1,284 @@
+Critical Thinking and Communication
+Application of critical reading and thinking abilities to topics of civic and cultural importance. Introduction of basic oral, visual, and electronic communication principles to support writing development. Initiation of communication portfolio.
+/
+Written, Oral, Visual, and Electronic Composition 
+Analyzing, composing, and reflecting on written, oral, visual, and electronic (WOVE) discourse within academic, civic, and cultural contexts. Emphasis on supporting a claim and using primary and secondary sources. Continued development of communication portfolio.
+/
+Information Literacy
+Provides a solid understanding of information literacy and the research process with emphases on finding, evaluating, and using scholarly information; the ethical and legal framework related to information use; and utilization of library discovery tools.
+/
+Technical Communication
+Rhetorical concepts and processes to successfully communicate technical information individually and collaboratively via written, oral, visual, and electronic modes. Emphasizes the major strategies for analyzing expert and lay audiences and adapting information to those audiences. Covers developing and designing usable technical documentation, visualizing data, and presenting technical information orally.
+/
+Proposal and Report Writing
+Rhetorical concepts and processes to individually and collaboratively develop proposals for business, governmental, nonprofit, or other organizations and to report on the work completed both orally and in writing. Emphasizes the structure and classification of proposal and report types, qualitative and quantitative research methods, audience analysis, document design, and data visualization.
+/
+General Chemistry for Engineering Students
+Principles of chemistry and properties of matter explained in terms of modern chemical theory with emphasis on topics of general interest to the engineer. 
+/
+General Chemistry I
+The first semester of a two semester sequence which explores chemistry at a greater depth and with more emphasis on concepts, problems, and calculations than 163. Recommended for physical and biological science majors, chemical engineering majors, and all others intending to take 300-level chemistry courses. Principles and quantitative relationships, stoichiometry, chemical equilibrium, acid-base chemistry, thermochemistry, rates and mechanism of reactions, changes of state, solution behavior, atomic structure, periodic relationships, chemical bonding
+/
+Engineering Orientation
+Introduction to the College of Engineering and the engineering profession. Information concerning university and college policies, procedures, and resources. Undeclared sections: Considerations in choosing an engineering curriculum. Opportunities to interact with departments
+/
+Introduction to Computer Engineering and Problem Solving
+Introduction to Computer Engineering. Project based examples from computer engineering. Individual interactive skills for small and large groups. Computer-based projects. Solving engineering problems and presenting solutions through technical reports. Solution of engineering problems using a programming language.
+/
+Information Literacy
+Eight-week course required for undergraduate degree. Provides a solid understanding of information literacy and the research process with emphases on finding, evaluating, and using scholarly information; the ethical and legal framework related to information use; and utilization of library discovery tools.
+/
+Calculus I
+Differential calculus, applications of the derivative, introduction to integral calculus.
+/
+Calculus II
+Integral calculus, applications of the integral, infinite series, parametric curves and polar coordinates.
+/
+Introduction to Classical Physics I
+For engineering and science majors. 3 hours of lecture each week plus 3 recitations and 1 laboratory every 2 weeks. Elementary mechanics including kinematics and dynamics of particles, work and energy, linear and angular momentum, conservation laws, rotational motion, oscillations, gravitation. 
+/
+Object-oriented Programming
+Computer programming using objects as the mechanism for modularity, abstraction, and code reuse. Instance variables, methods, and encapsulation. Review of control structures for conditionals and iteration. Developing algorithms on strings, arrays, and lists. Recursion, searching, and sorting. Text parsing and file I/O. Interfaces, inheritance, polymorphism, and abstract classes. Exception handling. Tools for unit testing and debugging. Emphasis on a disciplined approach to specification, code development, and testing. 
+/
+Introduction to Data Structures
+An object-oriented approach to data structures and algorithms. Object-oriented analysis, design, and programming, with emphasis on data abstraction, inheritance and subtype polymorphism, and generics. Abstract data type specification and correctness. Collections including lists, stacks, queues, trees, heaps, maps, hash tables, and graphs. Big-O notation and algorithm analysis. Searching and sorting. Graph search and shortest path algorithms. Emphasis on object-oriented design, writing and documenting medium-sized programs. 
+/
+Calculus III
+Analytic geometry and vectors, differential calculus of functions of several variables, multiple integrals, vector calculus.
+/
+Elementary Differential Equations and Laplace Transforms
+Same as MATH 266 but also including Laplace transforms and power series solutions to ordinary differential equations.
+/
+Introduction to Classical Physics II
+Fluid dynamics. Electric forces and fields. Electrical currents; DC circuits. Magnetic forces and fields: LR, LC, LCR circuits; Maxwell's equations; wave optics.
+/
+Digital Logic
+Number systems and representation. Boolean algebra and logic minimization. Combinational and sequential logic design. Arithmetic circuits and finite state machines. Use of programmable logic devices. Introduction to computer-aided schematic capture systems, simulation tools, and hardware description languages. Design of simple digital systems.
+/
+Embedded Systems I: Introduction
+Embedded C programming. Interrupt handling. Memory mapped I/O in the context of an application. Elementary embedded design flow/methodology. Timers, scheduling, resource allocation, optimization, state machine based controllers, real time constraints within the context of an application. 
+/
+Operating Systems: Principles and Practice
+Operating system concepts, processes, threads, synchronization between threads, process and thread scheduling, deadlocks, memory management, file systems, I/O systems,security, Linux-based lab experiments.
+/
+Theoretical Foundations of Computer Engineering
+Propositional logic and methods of proof; set theory and its applications; mathematical induction and recurrence relations; functions and relations; and counting; trees and graphs; applications in computer engineering.
+/
+Computer Organization and Assembly Level Programming
+Introduction to computer organization, evaluating performance of computer systems, instruction set design. Assembly level programming: arithmetic operations, control flow instructions, procedure calls, stack management. Processor design. Datapath and control, scalar pipelines, introduction to memory and I/O systems.
+/
+Software Development Practices
+A practical introduction to methods for managing software development. Process models, requirements analysis, structured and object-oriented design, coding, testing, maintenance, cost and schedule estimation, metrics. Programming projects.
+/
+Applications of Algorithms in Computer Engineering
+Solving computer engineering problems using algorithms. Emphasis on problems related to the core focus areas in computer engineering. Real world examples of algorithms used in the computer engineering domain. Algorithm engineering. Prototyping of algorithms.
+/
+Introduction to the Design and Analysis of Algorithms
+Basic techniques for design and analysis of algorithms. Sorting, searching, graph algorithms, string matching, and NP-completeness. Design techniques such as dynamic programming, divide and conquer, greedy method, and approximation. Asymptotic, worst-case, average-case and amortized analyses. Topics from advanced data structures such as balanced trees and hashing.
+/
+Electric Circuits
+Network theorems. DC, sinusoidal steady-state, and transient analysis. AC power. Frequency response. Two port models. Diodes, PSPICE. Laboratory instrumentation and experimentation. Credit for only E E 201 or 442 may be used towards graduation.
+/
+Electronic Circuits and Systems
+Frequency domain characterization of electronic circuits and systems, transfer functions, sinusoidal steady state response. Time domain models of linear and nonlinear electronic circuits, linearization, small signal analysis. Stability and feedback circuits. Operational amplifiers, device models, linear and nonlinear applications, transfer function realizations. A/D and D/A converters, sources of distortions, converter linearity and spectral characterization, applications. Design and laboratory instrumentation and measurements.
+/
+Senior Design Project I and Professionalism
+Preparing for entry to the workplace. Selected professional topics. Use of technical writing skills in developing project plan and design report; design review presentation. First of two-semester team-oriented, project design and implementation experience.
+/
+Senior Design Project II
+Second semester of a team design project experience. Emphasis on the successful implementation and demonstration of the design completed in E E 491 or Cpr E 491 and the evaluation of project results. Technical writing of final project report; oral presentation of project achievements; project poster.
+/
+Probability and Statistics for Computer Science
+Topics from probability and statistics applicable to computer science. Basic probability; Random variables and their distributions; Stochastic processes including Markov chains; Queuing models; Basic statistical inference; Introduction to regression.
+/
+Technical Communication 
+Rhetorical concepts and processes to successfully communicate technical information individually and collaboratively via written, oral, visual, and electronic modes. Emphasizes the major strategies for analyzing expert and lay audiences and adapting information to those audiences. Covers developing and designing usable technical documentation, visualizing data, and presenting technical information orally.
+/
+Proposal and Report Writing
+Rhetorical concepts and processes to individually and collaboratively develop proposals for business, governmental, nonprofit, or other organizations and to report on the work completed both orally and in writing. Emphasizes the structure and classification of proposal and report types, qualitative and quantitative research methods, audience analysis, document design, and data visualization.
+/
+Professional Programs Orientation
+Overview of the nature and scope of electrical engineering and computer engineering professions. Overview of portfolios. Departmental rules, student services operations, degree requirements, program of study planning, career options, and student organizations.
+/
+Program Discovery
+The roles of professionals in computer and electrical engineering. Relationship of coursework to industry and academic careers. Issues relevant to today's world. Offered on a satisfactory-fail basis only.
+/
+Program Exploration
+Exploration of academic and career fields for electrical and computer engineers. Examination of professionalism in the context of engineering and technology with competencies based skills. Introduction to professional portfolio development and construction. Offered on a satisfactory-fail basis only.
+/
+Portfolio Assessment
+Portfolio update and evaluation. Portfolios as a tool to enhance career opportunities.
+/
+Software Project Management
+Process-based software development. Capability Maturity Model (CMM). Project planning, cost estimation, and scheduling. Project management tools. Factors influencing productivity and success. Productivity metrics. Analysis of options and risks. Version control and configuration management. Inspections and reviews. Managing the testing process. Software quality metrics. Modern software engineering techniques and practices.
+/
+Integrated Electronics 
+Semiconductor technology for integrated circuits. Modeling of integrated devices including diodes, BJTs, and MOSFETs. Physical layout. Circuit simulation. Digital building blocks and digital circuit synthesis. Analysis and design of analog building blocks. Laboratory exercises and design projects with CAD tools and standard cells.
+/
+Software Architecture & Design
+Modeling and design of software at the architectural level. Architectural styles. Basics of model-driven architecture. Object-oriented design and analysis. Iterative development and unified process. Design patterns. Design by contract. Component based design. Product families. Measurement theory and appropriate use of metrics in design. Designing for qualities such as performance, safety, security, reliability, reusability, etc. Analysis and evaluation of software architectures. Introduction to architecture definition languages. Basics of software evolution, reengineering, and reverse engineering. Case studies. Introduction to distributed system software.
+/
+Embedded Systems II: Mobile Platforms
+Contemporary programming techniques for event driven systems. Mobile platforms and operating systems. Location and motion sensors based user interfaces. Threading and scheduling. Resource management - measurement and control techniques - for memory and energy. Client-server application design. Distributed applications. Laboratory includes exercises based on a mobile platform.
+/
+Formal Methods in Software Engineering
+A study of formal techniques for model-based specification and verification of software systems. Topics include logics, formalisms, graph theory, numerical computations, algorithms and tools for automatic analysis of systems. Graduate credit requires in-­depth study of concepts.
+/
+Software Evolution and Maintenance
+Practical importance of software evolution and maintenance, systematic defect analysis and debugging techniques, tracing and understanding large software, impact analysis, program migration and transformation, refactoring, tools for software evolution and maintenance, experimental studies and quantitative measurements of software evolution. Written reports and oral presentation.
+/
+High Speed Sys. Engr. Meas. & Test
+Measurement of high speed systems and mixed signal systems. Measurement accuracy and error. Network analysis and spectrum analysis used in high speed measurement and testing. Test specification process and parametric measurement. Sampling and digital signal processing concepts. Design for testability. Testing equipment. Applications.
+/
+Software Tools for Large Scale Data Analysis
+Software tools for managing and manipulating large volumes of data, external memory processing, large scale parallelism, and stream processing, data interchange formats. Weekly programming labs that involve the use of a parallel computing cluster
+/
+Software Analysis and Verification for Safety and Security
+Significance of software safety and security; various facets of security in cyber-physical and computer systems; threat modeling for software safety and security; and categorization of software vulnerabilities. Software analysis and verification: mathematical foundations, data structures and algorithms, program comprehension, analysis, and verification tools; automated vs. human-on-the-loop approach to analysis and verification; and practical considerations of efficiency, accuracy, robustness, and scalability of analysis and verification. Cases studies with application and systems software; evolving landscape of software security threats and mitigation techniques. Understanding large software, implementing software analysis and verification algorithms.
+/
+Introduction to High Performance Computing 
+Unix, serial programming of scientific applications, OpenMP for shared-memory parallelization. No Unix, Fortran or C experience required.
+/
+High Performance Computing for Scientific and Engineering Apps
+Introduction to high performance computing platforms including parallel computers and workstation clusters. Discussion of parallel architectures, performance, programming models, and software development issues. Sample applications from science and engineering. Practical issues in high performance computing will be emphasized via a number of programming projects using a variety of programming models and case studies. Oral and written reports.
+/
+Intro to Parallel Algorithms and Program
+Models of parallel computation, performance measures, basic parallel constructs and communication primitives, parallel programming using MPI, parallel algorithms for selected problems including sorting, matrix, tree and graph problems, fast Fourier transforms
+/
+Network Protocols and Security
+Detailed examination of networking standards, protocols, and their implementation. TCP/IP protocol suite, network application protocols. Network security issues, attack and mitigation techniques. Emphasis on laboratory experiments.
+/
+Basics of Information Systems Security
+Introduction to and application of basic mechanisms for protecting information systems from accidental and intentional threats. Basic cryptography use and practice. Computer security issues including authentication, access control, and malicious code. Network security mechanisms such as intrusion detection, firewalls, IPSEC, and related protocols. Ethics and legal issues in information security. Wireless security. Programming and system configuration assignments.
+/
+Analog VLSI Circuit Design
+Basic analog integrated circuit and system design including design space exploration, performance enhancement strategies, operational amplifiers, references, integrated filters, and data converters.
+/
+Introduction to Bioinformatics
+Broad overview of bioinformatics with a significant problem-solving component, including hands-on practice using computational tools to solve a variety of biological problems. Topics include: bioinformatic data processing, Python programming, genome assembly, database search, sequence alignment, gene prediction, next-generation sequencing, comparative and functional genomics, and systems biology.
+/
+Distributed Systems & Middleware 
+Fundamentals of distributed computing, software agents, naming services, distributed transactions, security management, distributed object-based systems, web-based systems, middleware-based application design and development, case studies of middleware and internet applications.
+/
+Distributed & Network Operating Systems
+Theoretical and practical issues of design and implementation of distributed systems. The client server paradigm, inter-process communications, synchronization and concurrency control, naming, consistency and replication, fault tolerance, and distributed file systems. Graduate credit requires additional in-depth study of concepts. Programming projects and written reports.
+/
+Real-Time Systems 
+Fundamental concepts in real-time systems. Real time task scheduling paradigms. Resource management in uniprocessor, multiprocessor, and distributed real-time systems. Fault-tolerance, resource reclaiming, and overload handling. Real-time channel, packet scheduling, and real-time LAN protocols. Case study of real-time operating systems. Laboratory experiments.
+/
+Digital VLSI Design
+Digital design of integrated circuits employing very large scale integration (VLSI) methodologies. Technology considerations in design. High level hardware design languages, CMOS logic design styles, area-energy-delay design space characterization, datapath blocks: arithmetic and memory, architectures and systems on a chip (SOC) considerations. VLSI chip hardware design project.
+/
+Multidisciplinary Engineering Design 
+Application of team design concepts to projects of a multidisciplinary nature. Concurrent treatment of design, manufacturing, and life cycle considerations. Application of design tools such as CAD, CAM, and FEM. Design methodologies, project scheduling, cost estimating, quality control, manufacturing processes. Development of a prototype and appropriate documentation in the form of written reports, oral presentations and computer models and engineering drawings.
+/
+Graphics Processing and Architecture
+Introduction to hardware architectures for computer graphics and their programming models. System-level view, including framebuffers, video output devices, displays, 2D and 3D graphics acceleration, and device interfacing. Architectural design of GPUs, from 2D and 3D sprite engines to 3D rendering pipelines to unified shader architectures. Computing models for graphics processors. GPGPU and GPU computing.
+/
+Hardware Software Integration
+Embedded system design using hardware description language (HDL) and field programmable gate array (FPGA). HDL modeling concepts and styles are introduced; focus on synthesizability, optimality, reusability and portability in hardware design description. Introduction to complex hardware cores for data buffering, data input/output interfacing, data processing. System design with HDL cores and implementation in FPGA. Laboratory-oriented design projects.
+/
+Embedded Systems Design
+Embedded microprocessors, embedded memory and I/O devices, component interfaces, embedded software, program development, basic compiler techniques, platform-based FPGA technology, hardware synthesis, design methodology, real-time operating system concepts, performance analysis and optimizations.
+/
+Computer Networking & Data Comm
+Modern computer networking and data communications concepts. TCP/IP, OSI protocols, client server programming, data link protocols, local area networks, and routing protocols.
+/
+Independent Study 
+Independent Study 
+/
+Theory of Computing
+Models of computation: finite state automata, pushdown automata and Turing machines. Study of grammars and their relation to automata. Limits of digital computation, unsolvability and Church-Turing thesis. Relations between classes of languages.
+/
+Principles of Programming Languages 
+Study of concepts in programming languages, especially functional programming concepts. Overview of major programming paradigms, their relationship, and tradeoffs among paradigms enabling sound choices of programming language for application-specific development. Programming projects.
+/
+Number Theory
+Divisibility, integer representations, primes and divisors, linear diophantine equations, congruences, and multiplicative functions. Applications to cryptography. Additional topics, chosen at the discretion of the instructor.
+/
+Formal Methods in Software Engineering
+A study of formal techniques for model-based specification and verification of software systems. Topics include logics, formalisms, graph theory, numerical computations, algorithms and tools for automatic analysis of systems. Graduate credit requires in-­depth study of concepts.
+/
+Software System Safety 
+An introduction to the hazard analysis, safety requirements, design, and testing of software for safety-critical and high-dependability systems. Safety analysis techniques, fault identification and recovery, and certification issues. Emphasizes a case-based and systematic approach to software's role in safe systems.
+/
+Intro to Computational Geometry
+Introduction to data structures, algorithms, and analysis techniques for computational problems that involve geometry. Convex hulls, line segment intersection, polygon triangulation, 2D linear programming, range queries, point location, arrangements and duality, Voronoi diagrams, Delaunay triangulations, geometric data structures, robot motion planning, visibility graphs.
+/
+Logic for Math & Computer Science 
+Propositional and predicate logic. Topics selected from Horn logic, equational logic, resolution and unification, foundations of logic programming, reasoning about programs, program specification and verification, model checking and binary decision diagrams, temporal logic and modal logic.
+/
+Algorithms for Large Data Sets: Theory and Practice 
+Algorithmic challenges involved in solving computational problems on massive data sets. Probabilistic data structures, Curse of Dimensionality and dimensionality reduction, locality sensitive hashing, similarity measures, matrix decompositions. Optimization problems in massive data analysis. Computational problems that arise in the context of web search, social network analysis, online advertising etc. Practical aspects include implementation and performance evaluation of the algorithms on real world data sets
+/
+Principles & Practices of Compiling
+Theory of compiling and implementation issues of programming languages. Programming projects leading to the construction of a compiler. Projects with different difficulty levels will be given for 440 and 540. Topics include: lexical, syntactic and semantic analyses, syntax-directed translation, code generation, runtime environment and library support.
+/
+Programming Languages
+Survey of the goals and problems of language design. Formal and informal studies of a wide variety of programming language features including type systems. Creative use of functional and declarative programming paradigms.
+/
+Simulation: Algorithms & Implementation
+Introduction to discrete-event simulation with a focus on computer science applications, including performance evaluation of networks and distributed systems. Overview of algorithms and data structures necessary to implement simulation software. Discrete and continuous stochastic models, random number generation, elementary statistics, simulation of queuing and inventory systems, Monte Carlo simulation, point and interval parameter estimation. 
+/
+Principles of Artificial Intelligence 
+Specification, design, implementation, and selected applications of intelligent software agents and multi-agent systems. Computational models of intelligent behavior, including problem solving, knowledge representation, reasoning, planning, decision making, learning, perception, action, communication and interaction. Reactive, deliberative, rational, adaptive, learning and communicative agents and multiagent systems. Artificial intelligence programming
+/
+Introduction to Machine Learning
+Introduction to tools and techniques of machine learning for applications. Selected machine learning techniques in practical data mining for classification, regression, and clustering, e.g., association rules, decision trees, linear models, Bayesian learning, support vector machines, artificial neural networks, instance-based learning, probabilistic graphical models, ensemble learning, and clustering algorithms. Selected applications in data mining and pattern recognition.
+/
+Abstract Algebra I
+Basic properties of integers, divisibility and unique factorization. Polynomial rings over a field. Congruence. Introduction to abstract rings, homomorphisms, ideals. Roots and irreducibility of polynomials. Emphasis on proofs.
+/
+Abstract Algebra II
+Topics chosen from: Advanced group theory, theory of rings and fields, factorization theory in integral domains, Galois theory. Emphasis on writing proofs.
+/
+Combinatorics 
+Enumeration strategies involving permutations, combinations, partitions, binomial coefficients, inclusion-exclusion principle, recurrence relations, generating functions. Additional topics selected from probability, algebraic combinatorics, and applications.
+/
+Graph Theory
+Structure and extremal properties of graphs. Topics are selected from: trees, networks, colorings, paths and cycles, connectivity, planarity, directed graphs, matchings, Ramsey theory, forbidden structures, enumeration, applications.
+/
+Theory of Linear Algebra
+Systems of linear equations, determinants, vector spaces, inner product spaces, linear transformations, eigenvalues and eigenvectors. Emphasis on writing proofs and results
+/
+Topology 
+Set theory, metric spaces, topological spaces, continuity, connectedness, homeomorphisms, compactness, and topological invariants. Examples from surfaces, knots, and various abstract objects. Emphasis on writing proofs.
+/
+Introduction to the Theory of Probability and Statistics II
+Sampling distributions; confidence intervals and hypothesis testing; theory of estimation and hypothesis tests; linear model theory; resampling methods; introduction to Bayesian inference; use of the R statistical package for simulation and data analysis.
+/
+Number Theory
+Divisibility, integer representations, primes and divisors, linear diophantine equations, congruences, and multiplicative functions. Applications to cryptography. Additional topics, chosen at the discretion of the instructor.
+/
+Complex Variables with Applications
+Functions of a complex variable, including differentiation, integration and series expansions, residues, evaluation of integrals, conformal mapping.
+/
+Introduction to Scientific Computing
+Vector and matrix programming and graphing in MATLAB for scientific applications. Polynomial interpolation and approximation. Systems of linear equations and numerical linear algebra. Numerical differentiation and integration. Newton methods for solving nonlinear equations and optimization in one and several variables. Fast Fourier transform. Emphasis on effective use of mathematical software and understanding of its strengths and limitations.
+/
+Introduction to Partial Differential Equations 
+Method of separation of variables for linear partial differential equations, including heat equation, Poisson equation, and wave equation. Topics from Fourier series, Sturm-Liouville theory, Bessel functions, spherical harmonics, and method of characteristics.
+/
+Applied Linear Algebra 
+Advanced topics in applied linear algebra including eigenvalues, eigenvalue localization, singular value decomposition, symmetric and Hermitian matrices, nonnegative and stochastic matrices, matrix norms, canonical forms, matrix functions. Applications to mathematical and physical sciences, engineering, and other fields.
+/
+Analysis I
+A rigorous development of calculus of functions of one real variable: real number properties and topology, limits, continuity, differentiation, integration, series.
+/
+Analysis II 
+Sequences and series of functions of a real variable, uniform convergence, power series, metric spaces, calculus of functions of two or more real variables.
+/
+Logic for Mathematics and Computer Science
+Propositional and predicate logic. Topics selected from Horn logic, equational logic, resolution and unification, foundations of logic programming, reasoning about programs, program specification and verification, model checking and binary decision diagrams, temporal logic and modal logic.
+/
+Introduction to High Performance Computing
+Unix, serial programming of scientific applications, OpenMP for shared-memory parallelization. No Unix, Fortran or C experience required.
+/
+Geometry I 
+Euclidean geometry of triangles, circles, and parallelograms, studied from several points of view, chosen from: synthetic, analytic, axiomatic, transformational, complex numbers, or vector methods. Possible and impossible constructions with compass and straightedge.
+/
+Geometry II
+Foundations of Euclidean geometry and the axiomatic method, including the use of models. The history, logical consistency, and basic theorems of non-Euclidean geometries, such as hyperbolic, elliptic, and projective geometry.
+/
+
+

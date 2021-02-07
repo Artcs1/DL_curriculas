@@ -1,0 +1,169 @@
+/
+Foundations of Physics and Engineering
+This physics and engineering cornerstone course will cover foundational topics including science literacy, effective laboratory investigations, basic programming skills, data analyses, micro-processing, and professional ethical standards.  After completing the course, the student will be proficient in oral communication skills and the use of digital technology through assignments and projects relevant to the physicist and engineer.
+/
+Composition
+Students develop techniques for making effective contributions in writing to intellectual discussions, academically and in other cultural settings. Students are tasked with forming the strong foundation in critical reading, thinking, writing, researching, and reflecting necessary for expressing ideas in a variety of rhetorical situations.
+/
+Computer Science I
+An introduction to programming concepts and methodology using an object-oriented programming language (currently Java).  Topics include problem analysis, abstraction, modularization, the development and use of algorithms, reuse, and the use of programming constructs including data types, classes, control structures, and methods.
+/
+Computer Science I Lab
+Computer Science I Lab
+/
+Computer Science II
+This course emphasizes object-oriented software development, addressing both software engineering and programming.  Topics include modularization, abstraction, encapsulation/information hiding, software reuse, software testing, classic data abstractions (e.g., lists, trees) and algorithms (e.g., sorting, searching), recursion, program correctness, and basic algorithm analysis.
+/
+Computer Science II Lab
+Computer Science II Lab
+/
+Pre-Calculus Mathematics
+An intensified course covering the topics of algebra, trigonometry, and analytic geometry.   Not open to students with credit for or enrolled in any calculus course.
+/
+Discrete Structures
+A study of symbolic logic, sets, combinatorics, mathematical induction, recursion, graph theory, and trees.
+/
+Calculus I
+Topics from calculus and analytic geometry including limits, derivatives and their applications, integrals, and the Fundamental Theorem.
+/
+General and Analytical Chemistry
+A study of the laws, theories and principles of general chemistry together with qualitative and quantitative analysis. 
+/
+Elements of Physics I
+Calculus-based introduction to physics covering linear and rational kinematics, Newton’s laws, conservation of momentum and energy, the work-energy theorem, gravitation, oscillations, and waves.
+/
+Introduction to Philosophy
+The aim of this course is to awaken in the student an appreciation of the nature and method of philosophical inquiry through an examination of key texts that grapple with central questions in the history of philosophy.
+/
+Introduction to Computer Engineering
+Introduction to combinational and sequential digital-logic circuits.   Analysis and design techniques including Boolean algebra and Karnaugh mapping.  Use of the computer to simulate digital circuits. 
+/
+Introduction to Computer Engineering Lab
+Introduction to Computer Engineering Lab
+/
+Circuit Analysis
+Analysis of resistive networks, sources, op-amps, capacitors and inductors.  Kirchhoff’s Laws, Mesh and Nodal Analysis, Superposition, and Thevenin-Norton equivalent circuits.   Transient responses of RC, RL, and RLC circuits. AC steady state.  Computer assisted solutions using Multisim and Maple. 
+/
+Elements of Physics II
+Calculus-based introduction to physics covering waves of sound and light, superposition, interference, geometrical and ray optics, electrostatics, electric field, electric potential, current, capacitance, resistance, circuits, magnetic field, magnetic force, and induced emf. 
+/
+Calculus II
+Topics from calculus and analytic geometry including applications of the definite integral, calculus of transcendental functions, methods of integration, improper integrals, sequences and series.
+/
+Calculus III
+Topics from calculus and analytic geometry including parametric equations, vectors, space analytic geometry, partial derivatives and multiple integrals.
+/
+Data Structures and Algorithms
+An examination of the issues of data representation, algorithm structure, and encapsulation as they pertain to the development of object-oriented software.  Abstract data types studied include stacks, queues, binary trees, n-ary trees, and graphs. Various representation alternatives are analyzed and compared, trade-offs frequently encountered by software developers are discussed.
+/
+Machine Organization and Assembly Language Programming
+An introductory study of the organization and architecture of computers through an exploration of various virtual machines. Programming at the assembly-language level and interfacing with software components (primarily written in C). Topics include representation of data and instructions, computer arithmetic, memory hierarchies, instruction sets, addressing modes, digital logic, microprogramming, pipelining, and parallel processing.
+/
+Ethics
+An examination of moral issues through close readings of important historical texts such as the writings of Plato, Aristotle, Augustine, Aquinas, Kant or Mill.  Themes will include happiness, virtue, the nature of justice, free choice, conscience, natural law and obligation, God and morality.
+/
+Electronic Circuits I
+Modeling, analysis, and applications of semiconductor diodes, bipolar junction and field-effect transistors in analog circuits.  Analysis of non-ideal op-amps.  Amplifier biasing, small-signal analysis, design and frequency response.  Elementary bipolar and MOSFET logic circuits.  Circuit simulation using Multisim.
+/
+Electronic Circuits II
+Advanced transistor amplifier analysis and design, feedback effects.  Introduction to transistor level design of CMOS op-amp and digital circuits.  Design and analysis of power amplifiers, analog filters, oscillators, A/D and D/A converters, and electronic sensors.  Extensive use of Multisim for circuit simulation.  Design project using LabView. 
+/
+Digital Signal Processing
+A study of discrete-time signals and systems, convolution, z-transform, discrete Fourier transform, and FFT algorithms.  Analysis and design techniques for digital filters and their realizations.  Emphasis will be on the use of computer-aided interactive digital-signal processing programs for several projects on signal analysis and filter design.
+/
+Digital Systems
+Analysis and design of advanced digital circuits, implementation of combinational and sequential digital logic, interdependence of hardware and software on computer design, memory and I/O concepts.
+/
+Discrete Structures
+A study of symbolic logic, sets, combinatorics, mathematical induction, recursion, graph theory, and trees.
+/
+Elements of Modern Physics
+Introductory modern Physics course for Physics and Engineering majors; also recommended for other science majors.  Review of classical physics; special theory of relativity; atomic theory of hydrogen from Bohr to Schrodinger; multielectron atoms and the periodic table; introduction to nuclear physics.
+/
+Theology I: Introduction to the Bible
+A survey of central texts and themes of the Bible. Its purpose is to develop biblical literacy as well as skills in interpreting various literary forms and key theological concepts.
+/
+Theology II: Introduction to Christian Theology
+A survey of key Christian themes: creation, Christ’s incarnation and redemption, the Church and sacraments, Christian personhood, and the practice of prayer, virtue, and hope for the future.
+/
+Embedded Systems
+Microprocessor programming and interfacing; data acquisition, manipulation and transmission; microprocessor support devices and common computer interfaces.
+/
+Control Systems
+Models of physical systems using Laplace transforms and state variable methods. Structure of control systems, block diagram reduction, transfer functions.  System transient characteristics and steady-state error, disturbance rejection, and sensitivity.  Control system analysis; stability, root locus, Bode and Nyquist methods.  Simulation and design using MATLAB.
+/
+Robotics Design Project and Professional Practice
+Students design a self-contained intelligent robot required to carry out a complex task.  Each project involves creative conception, design, development, evaluation, economic constraints, reliability and safety. 
+/
+Fundamentals of Software Engineering
+An introduction to the concepts of Software Engineering.  Stress is placed upon formal models for the design and development of high-quality software.  Topics include: project planning, requirements analysis, system design, program design, program implementation, program testing, system testing, system delivery, and maintenance.
+/
+Operating Systems
+An introduction to the principles of operating systems.  Topics include operating system structure, process management, scheduling and dispatching, process synchronization and interprocess communication, memory management, virtual memory, device management, I/O, and file systems.
+/
+Programming Languages
+A study of programming languages from both the theoretical and practical perspectives.  A survey of major and developing paradigms and languages is undertaken which includes use of specific languages to broaden the student’s experience.  Implementation is studied through an introduction to language translation along with a study of run-time models and interfaces with virtual machines.
+/
+Discrete Structures
+A study of symbolic logic, sets, combinatorics, mathematical induction, recursion, graph theory, and trees.
+/
+Pre-Calculus Mathematics
+An intensified course covering the topics of algebra, trigonometry, and analytic geometry. 
+/
+Solid State Devices & Power Electronics
+Semiconductor basics, Carrier Transport, Excess carriers in semiconductors, P-N junctions and diodes; Field Effect and Bipolar Junction Transistors (FETs & BJTs). Power Schottky diodes, Power MOSFETs, Power BJTs, and Concepts of power distribution.
+/
+Digital Image Processing
+Digital image processing is a modern scientific and engineering technique employed to enhance and extract details of images in diverse fields such as medicine, military, industry, and artistic photography.
+/
+Communication Systems
+An understanding of the basic concepts and principles of analog and digital communication systems and performance of these systems in the presence of noise.  Qualitative and quantitative analysis as well as computer tools (MATLAB) will be employed in solving selected communication theory and systems problems. 
+/
+Quantum Mechanics
+Intensive and quantitative treatment of quantum mechanics. Wave function; solutions of the Schödinger equation in one-dimension; formalism of quantum mechanics; statistical interpretation; problems in three-dimensions; angular momentum; spin; identical particle systems; quantum statistics; time-independent perturbation theory; two-level systems; emission and absorption.
+/
+Pre-Calculus Mathematics
+An intensified course covering the topics of algebra, trigonometry, and analytic geometry.
+/
+Applied Probability and Mathematical Statistics
+Basic concepts of probability theory, random variables, distribution functions, multivariable distributions, sampling theory, estimation, confidence intervals, hypothesis testing, linear models and analysis of variance.
+/
+Differential Equations
+Treatment of ordinary differential equations with applications.  Topics include: first-order equations, first-order systems, linear and non-linear systems, numerical methods, and Laplace transforms. Computer-aided solutions will be used when appropriate.
+/
+Linear Algebra
+Vector spaces, matrices, determinants, linear transformations, eigenvalues, eigenvectors, inner products, and orthogonality.
+/
+Computer Architecture
+A study of the logical structure of computer-system organization including a survey of logic and design with an emphasis on functional components.  Topics include instruction sets, hard-wired and microprogrammed control-unit designs, memory systems (caches and virtual memory), I/O systems (interrupts, DMA, and channels)
+/
+Differential Equations
+Treatment of ordinary differential equations with applications.  Topics include: first-order equations, first-order systems, linear and non-linear systems, numerical methods, and Laplace transforms. Computer-aided solutions will be used when appropriate.
+/
+Linear Algebra
+Vector spaces, matrices, determinants, linear transformations, eigenvalues, eigenvectors, inner products, and orthogonality.
+/
+Computer Architecture
+A study of the logical structure of computer-system organization including a survey of logic and design with an emphasis on functional components.  Topics include instruction sets, hard-wired and microprogrammed control-unit designs, memory systems (caches and virtual memory), I/O systems (interrupts, DMA, and channels). 
+/
+Solid State Devices & Power Electronics
+Semiconductor basics, Carrier Transport, Excess carriers in semiconductors, P-N junctions and diodes; Field Effect and Bipolar Junction Transistors (FETs & BJTs). Power Schottky diodes, Power MOSFETs, Power BJTs, and Concepts of power distribution.
+/
+Digital Image Processing
+Digital image processing is a modern scientific and engineering technique employed to enhance and extract details of images in diverse fields such as medicine, military, industry, and artistic photography.
+/
+Communication Systems
+An understanding of the basic concepts and principles of analog and digital communication systems and performance of these systems in the presence of noise.  Qualitative and quantitative analysis as well as computer tools (MATLAB) will be employed in solving selected communication theory and systems problems. 
+/
+Quantum Mechanics
+Intensive and quantitative treatment of quantum mechanics. Wave function; solutions of the Schödinger equation in one-dimension; formalism of quantum mechanics; statistical interpretation; problems in three-dimensions; angular momentum; spin; identical particle systems; quantum statistics; time-independent perturbation theory; two-level systems; emission and absorption.
+/
+Applied Probability and Mathematical Statistics
+Basic concepts of probability theory, random variables, distribution functions, multivariable distributions, sampling theory, estimation, confidence intervals, hypothesis testing, linear models and analysis of variance.
+/
+Differential Equations
+Treatment of ordinary differential equations with applications.  Topics include: first-order equations, first-order systems, linear and non-linear systems, numerical methods, and Laplace transforms.
+/
+Principles of Macroeconomics
+This course analyzes the determinants of aggregate economic activity.  The main areas studied are the monetary and banking system, the com- position and fluctuations of national income, inflation, and monetary and fiscal policy.
+/

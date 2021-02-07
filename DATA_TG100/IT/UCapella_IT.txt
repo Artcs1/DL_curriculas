@@ -1,0 +1,105 @@
+/
+English Composition
+English Composition
+/
+Research Writing
+Research Writing
+/
+Public Speaking
+Public Speaking
+/
+Introduction to the Humanities
+Introduction to the Humanities
+/
+Introduction to Logic
+Introduction to Logic
+/
+Human Biology
+Human Biology
+/
+College Algebra
+Learners in this course evaluate and perform linear, exponential, logarithmic, and other mathematical functions that include algebraic, graphic, and numeric properties. Learners then apply these concepts to the social and natural sciences, business, and everyday life.
+/
+Microeconomics
+Microeconomics
+/
+Discrete Mathematics
+This course presents an overview of mathematical analysis techniques. Learners apply number logic and set theory, functions and sequences, relations equivalence, partial order, digraphs, recurrence relations, counting techniques, logic and techniques of proof, graphs, and algorithms to the fields of business and information technology. 
+/
+Information Technology Concepts and Practices
+Learners in this course use fundamental terminology, concept analysis, and practical knowledge of the components of computing systems to develop their understanding of the information technology field. Throughout the course, learners also build, demonstrate, and apply skills needed for professional communication.
+/
+Introduction to Database Systems
+This course is an introduction to the fundamental concepts of databases and database management systems (DBMS). Learners demonstrate vocabulary, component requirements, sorting and querying, and maintenance of simple databases using the fundamentals of database manipulation. Learners also apply Structured Query Language (SQL) and relational database management systems (RDBMS).
+/
+Introduction to Programming with Java
+This course introduces learners to the programming discipline and prepares them to serve as Java programmers. Learners study and apply the fundamentals of the Java programming language such as data types, variables, expressions, statements, and methods. Learners also examine and practice the Java-object-oriented features of classes and objects. The course offers numerous opportunities for analyzing, designing, coding, testing, debugging, and evaluating Java programs in an authentic Java development environment.
+/
+Introduction to Network Technology
+This course introduces learners to the key concepts underlying Local Area Network (LAN), Metropolitan Area Network (MAN), and Wide Area Network (WAN). Learners examine the layered architecture of the network protocol stack, including the OSI and the TCP/IP models, and apply the principles of designing networks and implementing network protocols. Learners also apply topics of network topologies, cloud computing, networking devices, cabling, and basic network security.
+/
+Ethics for the Information Technology Professional
+Learners in this course identify and apply their knowledge of inherent ethical concerns in the information technology profession to cultural and human interaction in global and domestic issues. Learners also show evidence of their understanding of ethical codes related to web technologies, intellectual property, and cybercrime.
+/
+Introduction to Web Development
+This course focuses on the development of fundamental web design and development skills. Learners create web pages using HTML5 markup language and apply contemporary design principles to create a W3C compliant website. Learners format the page layout, structure, and visual design elements using CSS3, with emphasis placed on effective coding, visual design, and user experience.
+/
+Introduction to JavaScript
+This course introduces JavaScript for interactive web pages. Learners in this course cover the JavaScript scripting language essentials, including flow control, form validation, animation, and Document Object Model (DOM) manipulation. Learners develop client-side, platform independent functionality using JavaScript to enhance user experience with HTML5 and CSS3. This course provides a foundation for other web technologies such as jQuery and AJAX.
+/
+Business Goals for the Information Technology Professional
+This course focuses on core enterprise organizations, business processes, and information technology infrastructures. Learners display their understanding of the value of information technology in achieving organizational maturity. Learners in this course apply their knowledge of the relationship that exists between an enterprise organization’s business and information technology goals with operational models.
+/
+User Experience and Interaction Design
+In this course, learners explore the boundary between humans and technology with a focus on the human factors that influence the design of effective interfaces and engaging user experiences. Learners analyze designs for enterprise, mobile, and web interactive environments. Learners also define user characteristics, design for accessibility, and appraise usability. 
+/
+	
+Hardware and Operating Systems
+In this course, learners demonstrate their knowledge of hardware and operating systems, focusing on peripherals and file management. Learners use modern operating systems, including Windows, Linux and MacOS to demonstrate their skill with hardware and operating systems.
+/
+Systems Administration
+This course provides the opportunity for learners to acquire the foundational skills and knowledge required of a systems administrator. Learners employ tools and procedures to install, configure, administer, troubleshoot, and maintain modern computer systems.
+/
+Software Architecture
+In this course, learners demonstrate knowledge and skills related to the fundamentals of software engineering and architecture. During a course-long project, learners create a Software Development Plan (SDP) to use as a foundation for future software development projects within an organization. Other topics include software process models, project definition, project organization, validation plan and version control.
+/
+Intermediate Java Programming
+This course focuses on beyond basic features and techniques of the Java programming language. Learners study and practice advanced object-oriented programming concepts like inheritance, polymorphism, interfaces, and abstract classes. Learners also cover programming Graphical User Interface (GUI) applications with Java and the Java rich library of data structures like lists, stacks, and queues. Learners apply these features and techniques to develop applications of moderate complexity. 
+/
+Network Architecture
+Learners in this course demonstrate their knowledge and skills with the fundamentals of network architecture. Learners apply knowledge of network characteristics and network topologies to develop a scope document for a proposed network architecture.
+/
+Information Security Concepts for the Information Technology Professional
+Learners in this course demonstrate their knowledge of information security fundamentals. Learners apply their understanding of the concepts of confidentiality, integrity, and availability to the basics of access control and network security measures.
+/
+Principles of Project Management
+In this course, learners are introduced to the fundamental basics of project management and gain a broad overview of project management standards and their applicability to both business and IT projects. This course emphasizes management theories, concepts, tools and techniques defined by the Project Management Institute (PMI®) including the Process Groups and Knowledge Areas. This course also introduces other project management methodologies and frameworks, including Agile (Scrum, Lean, DSDM and XP), PRINCE2®, Waterfall, and Six Sigma. Finally, learners study project politics and ethics, collaboration and team building, and leadership.
+/
+Process Groups and Knowledge Areas in Project Management
+This course covers the project life cycle and project management processes. This includes initiating, planning, executing, monitoring and control, and closing. Learners analyze the relationship of the process groups to the Project Management Institute (PMI) knowledge areas and develop the documents and deliverables required for each stage of the project life cycle
+/
+Integration and Scope Management
+In this course, learners cover integration management and scope management knowledge areas. Learners identify and examine the processes, tools, and techniques used to integrate activities from execution to project completion, and manage the interdependencies among the project management knowledge areas. Learners create the scope management plan component of the project management plan and emphasize a system solutions approach for gathering and defining business requirements and leveraging project change management for controlling project scope.
+/	
+Scheduling, Cost, and Quality Management
+This course focuses on project scheduling and cost and quality management in a business or information technology (IT) project context. Learners study project scheduling, costs and quality management processes, including quality planning, quality assurance, and quality control. Learners also monitor project results to evaluate compliance with schedule, costs and quality standards and gain an understanding of the steps involved in planning, performing, and controlling a business or IT project. Learners are introduced to a variety of scheduling, cost and quality tools that can be used independently or conjunctively. 
+/
+Human Resources and Motivation Management
+In this course, learners sample strategies for improving creativity, teamwork, and job satisfaction within a project team by creating and developing a project and recruiting team members. Learners study the theories on individual motivation and how it fits in the organizational structure. Learners examine the strengths and weaknesses of organizational development supporting project team member development to gain knowledge of how to effectively motivate project team members. Learners also gain understanding about virtual teams, how to effectively manage them, and evaluate the link between personality traits and resolving team conflicts and how to effectively communicate with your team to manage change.
+/
+Communication and Stakeholder Management
+Learners in this course focus on project communication and stakeholder management knowledge areas. Learners cover the processes, tools, and techniques used to manage project communications and stakeholders across project management process groups and emphasize executive project sponsorship as a strategic tool for project success. Learners also acquire skills in strategic business management and leadership: customer relationship and satisfaction, operational functions, conflict management, negotiation, listening, problem solving, and team building
+/
+Risk Management in Project Management
+Learners in this course focus on project risk management and examine the processes, tools and techniques used to identify, analyze, prioritize, respond, and control risk on a project. This course emphasizes building a risk management process that can be standardized. Learners also acquire and demonstrate business management and leadership skills such as planning, environmental awareness and conditions, benefits management, brainstorming, listening, negotiation, problem solving, and team building.
+/
+Procurement Management in Project Management
+In this course, learners examine procurement management and investigate the various types of contracts, their terms and conditions, and execution. Learners develop contract specifications, find potential sources, and evaluate bids. Finally, learners examine ethical standards and legal requirements in procurement within the global market.
+/
+Agile Project Management
+This course introduces the concepts of Agile Project Management (APM). Learners gain an understanding of APM’s objectives, which are, in part, to deliver customer value earlier in repeated iterations, adapt to changes in a more flexible and timely manner to ultimately gain a result of higher customer satisfaction, and increased team morale, collaboration, and ownership. Learners apply their skills and knowledge to a scenario that requires the development of an APM-based project plan
+/
+Information Technology Capstone Project
+Information Technology Capstone Project
+/
+

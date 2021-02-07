@@ -1,0 +1,136 @@
+Critical Reading and Expository Writing
+Writing paragraphs and essays based on close readings of various texts, with an emphasis on clear, grammatically correct expository prose. Students must take this course during the first eligible semester at the university.
+/
+Critical Thinking and Argumentation
+Writing essays based on critical analyses of various literary texts. Emphasis on sound argumentative techniques. Requires documented research paper. Students must earn a grade of “C” or above to pass this course.
+/
+Fundamentals of Communication
+An introduction to the primary areas of study in the communication discipline. Emphasis is on developing communication competence and understanding communication processes. Topics covered include public speaking, interpersonal communication, and group communication.
+/
+Public Speaking
+The study and practice of preparing, delivering, and analyzing public speeches. Writing in ways that appeal to different audiences and presenting in ways that are confident and credible are emphasized.
+/
+Argumentation and Debate
+An introduction to oral argumentation and debate, including case construction techniques, and case analysis and criticism.
+/
+World Literature
+Various genres from such non-European cultures as early Middle East, Asian, African, and Latin American.
+/
+Arts and Ideas I
+An examination of the arts and ideas of ancient and medieval cultures.
+/
+Introduction to Philosophy
+An introduction to some central philosophical problems concerning free will, the self, science, and reality.
+/
+Principles of Microeconomics
+A study of economics which concentrates on micro-theoretical concepts such as pricing, consumer choice, business production, and profit decisions.
+/
+Social Problems
+Sociological study of major current problems confronted in American society and the beliefs that compound them.
+/
+General Physics I-Noncalculus
+A survey of the topics in classical physics intended primarily for students in preprofessional curricula and majors in various engineering technology concentrations
+/
+Technical Physics I-Calculus Based
+A survey of physics for students majoring in technical fields, such as physics, chemistry, engineering, etc.
+/
+Probability and Statistics - Noncalculus
+Descriptive statistics and its relevance, including probability, experimentation, measurement, sampling and surveys, informal statistical inference, and hypothesis testing are included.
+/
+Calculus I
+Functions, limits of functions, derivatives and applications, and introduction to the integral.
+/
+Analytic Geometry and Differential Calculus
+A course in differential calculus with technical applications. Analytic geometry, quadratic equations, and additional topics in trigonometry as foundation to the calculus, limits, the derivative, and applications.
+/
+Introduction to Computer Science I
+Introduction to all aspects of the programming and problem-solving process and the elements of good programming style. A high-level language will be used as a vehicle for introducing these concepts. Laboratory use of the computer in designing, coding, debugging, and executing programs is an integral part of the course.
+/
+Introduction to Computer Science II
+Programming in a high-level language, including programming concepts, good style, algorithms, documentation, and elementary data structures.
+/
+PC Set-up and Maintenance
+Introduces students to the concepts and skills necessary to install, upgrade, maintain, and troubleshoot computers. Includes the installation and replacement of devices interfacing with the motherboard, installation and upgrade of at least two operating systems, and the analysis of computer performance.
+/
+Student in University
+This course is meant to provide guidance to first-year university students as they begin their search for directions to take in self-definition, intellectual growth, career choices, and life skills. Only first semester students may enroll.
+/
+Math for Computer Science
+Students will gain a working knowledge of set theory, mathematical induction and recursion, relations and digraphs, functions, trees and languages, finite-state machines, and languages and see how these topics are applied to the practice of computer science.
+/
+Fundamentals of Database
+This course will introduce students to the essential skills of creating, maintaining, and querying a database system. Basic methodologies for transferring data between a database and a program or web page will be covered. Also considered will be methodologies for database design to ensure consistency and accuracy of the data.
+/
+Computer Organization
+A study of the physical implementation of the computer including mathematical and logical foundations, component-level design, and an introduction to machine architecture. Topics include Boolean algebra, data representation, logic gates, combinational and sequential circuit design, memory cells, memory subsystems, memory hierarchy, I/O subsystems, I/O handling, interrupts, instruction representation, error detection, and serial protocols.
+/
+Networking Fundamentals
+A study of concerns related to the operation of computer networks. Topics include incentives for computer networking, the OSI model of network operation, network media, theory and practice of local area networking, bridging, switching, and routing. Principles of TCP/IP network operation.
+/
+Information Security and Assurance
+Presents critical concepts and skills that are related to protecting information assets from harm. Topics include the history of information security, basic security-related terminology and concepts, major classes of threats to information security, model strategies for protecting against those threats, computer forensics, and best practices in information assurance.
+/
+Software Engineering I
+An introduction to software systems development as an engineering discipline. All phases of the software development life cycle are examined, with particular emphasis on requirements analysis, requirements specification, and preliminary design. Participation on realistic team projects, use of automated tools, written and oral communication skills, exposure to legal, professional, and ethical issues is stressed.
+/
+Software Engineering II
+Software development as an engineering discipline with emphasis on detailed design, implementation, testing, maintenance, project management, verification and validation, configuration management, and software quality assurance. Communications (written and oral), legal, professional, ethical issues, participation on team projects, and use of automated tools are integral.
+/
+Assembly Language
+The assembly language of a modern computer including the instruction set, pseudo-operations, macros, and conditional assembly, object code, use of dumps, coding and linkage conventions, addressing techniques, and use of the assembler. Laboratory use of the computer in designing, coding, debugging, and executing programs is an integral part of the course.
+/
+UNIX Fundamentals
+UNIX and UNIX-like command environments, including basic UNIX command-line commands and utilities; a representative UNIX interface; and a UNIX-based scripting language.
+/
+Data Structures
+Strings, vectors, lists, stacks, queues, arrays, trees, hash tables and associative containers, algorithm and elementary analysis. Laboratory use of the computer in designing, coding, debugging, and executing programs is an integral part of the course.
+/
+Algorithms
+Introduction to algorithms with analysis techniques. Topics include files and file structures, sorting, indexing and searching, trees, hashing, compression, graph algorithms, computational geometry, encryption, string matching, and NP completeness.
+/
+Computer Architecture
+Computer systems are viewed as consisting of a series of layers or levels one on top of another. Topics of computer architecture are presented. Microprogramming stack computers, parallel computers, pipeline processing, multiprocessors, virtual storage, cache storage, addressing schemes, and I/O and interrupt structure.
+/
+Operating Systems
+The study of operating systems which are the primary resource managers of computer hardware. The main features provided by operating systems, including process management, storage management, processor management, and auxiliary storage management are studied in detail. Topics of networking and security are introduced. Case studies of representative commercial operating systems highlight the main features common to operating systems. Use of the computing laboratory is an integral part of the course.
+/
+Calculus II
+Applications of the integral, inverse trigonometric functions, exponential and logarithmic functions, techniques of integration, indeterminate forms and improper integrals, sequence, and series.
+/
+Linear Algebra
+Systems of linear equations, matrix algebra, inner products, vector spaces, linear transformations, eigenvalues, and threespace vector geometry.
+/
+Foundations of Probability and Statistics
+A calculus-based introduction to probability and statistical inference. Basic probability concepts, mathematical expectation, discrete and continuous probability distributions, sampling distributions, one and two-sample estimation, and hypothesis testing techniques will be developed and used; linear regression and correlation.
+/
+Adventures in Computing
+This course is intended for majors and non-majors. Students gain a working knowledge of programming basics, problem solving, algorithm development, debugging strategies, and a modern programming environment. Students also acquire skills that can be applied to problem solving using programs and the practice of computer science
+/
+Essentials of Web Development
+An introduction to the design and development of visually effective and functional web sites. Concepts include design principles regarding information architecture and page layout, the use of graphics in web pages, HTML, CSS, the use of web page and graphics editors, basic accessibility issues, the development process and maintenance issues. Laboratory use of software is an integral part of this course.
+/
+Intermediate Topics in Web Development
+This course will cover topics to help students develop professional and innovative (client-side only) Web applications. Topics will include current tools and techniques to increase the usefulness and effectiveness of Web sites, advanced Web style guidelines, integration of current Web standards, graphic design theory, appropriate use of colors, writing for the Web, introduction to usability testing, and real-world implementation considerations.
+/
+Special Topics in Computer Science
+Special Topics in Computer Science
+/
+Human Computer Interaction
+Students will learn how to assess and improve the user experience between humans and electronic devices, and to design systems that enable individuals to make more effective use of computers by creating better user interfaces.
+/
+Selected Topics in Computer Science
+Selected Topics in Computer Science
+/
+Independent Study
+Individual or group projects done with permission of and under supervision of faculty. This course may be repeated for credit with departmental approval.
+/
+Visual Programming I
+An introduction to all aspects of the programming and problem-solving process and the elements of good programming style. Visual Basic will be used as a vehicle for introducing these concepts. Laboratory use of the computer in designing, implementing, debugging, and executing programs is an integral part of the course.
+/
+Cloud Computing
+Presents an overview of cloud technologies and secure virtualization. Topics include cloud architectures; models for cloud deployment, service, and storage; cloud security and privacy; and cloud programming.
+/
+Wireless and Mobile Computing
+Explores mobile computing concepts and related software development. Includes internal mechanisms for serving attached devices, managing ad hoc networks, and employing wireless network protocols.
+/
+

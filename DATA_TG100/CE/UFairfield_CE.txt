@@ -1,0 +1,106 @@
+/
+Fundamentals of Engineering I
+This course provides core engineering knowledge and competencies in a highly interactive class format. Topics include professional skills such as technical writing and presentation, guidelines for professional engineering practice, and career preparation. Introduction to the fields, roles, and industries of engineering also serves as a basis for selection of engineering major field
+/
+Calculus I 
+This course covers analytic geometry; continuous functions; derivatives of algebraic and trigonometric functions, product and chain rules, implicit functions; extrema and curve sketching; indefinite and definite integrals; applications of derivatives and integrals; exponential, logarithmic and inverse trig functions, hyperbolic trig functions, and their derivatives and integrals
+/
+General Physics I
+This introductory course - for students concentrating in physics, mathematics, chemistry, or engineering - covers mechanics, heat, and fluid dynamics. It also includes rigorous mathematical derivations using integral and differential calculus. Topics include velocity and acceleration, Newton's laws of motion, work, energy, power momentum, torque, vibratory motion, elastic properties of solids, fluids at rest and in motion, properties of gases, measurement and transfer of heat, and elementary thermodynamics.
+/
+General Physics I Lab
+This lab course engages students in experimental measurements spanning the areas of mechanics and thermal stresses on matter, with the objective of training students in experimental measurements, data manipulation and analysis, error analysis, deductive thinking, and instrumentation, providing depth to students' understanding of the phenomena taught in PS 115. Specific experimental measurements include accelerated motion, periodic motion, gravitational force, ballistics, conservation of energy and momentum, rotational dynamics, and measurements of the coefficient of linear expansion and the heat of fusion.
+/
+Fundamentals of Programming
+This course introduces programming constructs and techniques in a logical progression beginning with small problems and basic algorithms through larger scale programs and design. While not an object oriented course, Classes and Objects are used in an ancillary capacity while working on broader topics of software architecture. Complete programs will be designed, coded, and debugged in both Java and the C programming language, developing skills necessary to work with more complex software systems.
+/
+Engineering Graphics I
+This is a basic course in engineering graphics principles and is taught simultaneously with SolidWorks, a 3D modeling design application. Using traditional and computer design, the course stresses geometric constructions, orthographic projection, dimensioning, sectional views, 3D part modeling, assembly modeling, drafting and engineering drawings, animation and geometric tolerancing. The course stresses aesthetics and technical sketching. 
+/
+Introduction to Rhetoric and Composition
+This course introduces students to the academic discipline of rhetoric and composition. Students read nonfiction texts, including rhetoric and composition and cross-disciplinary scholarship, in order to analyze their conventions and craft texts in various genres and modalities for a range of audiences. Students develop effective writing processes, sound research strategies, strong academic arguments, rhetorical awareness, and sensitivity to disciplinarity. 
+/
+Calculus II
+This course covers applications of the integral to area, arc length, and volumes of revolution; integration by substitution and by parts; indeterminate forms and improper integrals: Infinite sequences and infinite series, tests for convergence, power series, and Taylor series; geometry in three-space.
+/
+General Physics II
+covers electricity and magnetism, light and optics, and sound. Topics include magnetism and electricity; simple electric circuits; electrical instruments; generators and motors; characteristics of wave motion; light and illumination; reflection; refraction, interference; polarization of light, color, and the spectrum; and production and detection of sound waves.
+/
+Introduction to Electric Circuits
+This course introduces engineering students to the analysis of linear electric circuits. The course covers the basic laws of circuit behavior and analysis techniques, including descriptions of circuit elements and electronic variables, and considers circuit theorems and principles for insightful analysis of electrical circuits. The course introduces basic concepts and analysis of networks.
+/
+Electric Circuits Lab
+Students use common electrical laboratory instruments (oscilloscopes, meters, and signal generators) and elemental circuit components to construct and analyze basic electrical circuits. They study the application of circuit theorems and circuit elements (RL and RC); conduct experiments with transient, steady state, and frequency response; and use software applications to simulate and analyze circuit performance.
+/
+Calculus III
+Topics include partial differentiation; chain rule, exact differentials, maxima and minima; multiple integration; application to volumes, center of gravity; and polar, cylindrical, and spherical coordinates; vector arithmetic and algebra, dot and cross products, parametric equations, lines and planes; gradient, directional derivative, curl, divergence; line integrals, work, Green's theorem, surface integrals; Stokes's and divergence theorems.
+/
+Digital Design I
+An introduction to computer hardware design. Topics include: digital design principles, Boolean algebra, combinational logic design, sequential logic design, registers, counters, memory, multiplexers, finite state machines, radix conversion, and programmable logic devices. Students learn to write, implement, and simulate elementary digital design.
+/
+Digital Design I Lab
+This lab course covers the practical aspects of digital logic design. Students design and implement logic circuits using techniques taught in CR 0245. Students gain experience using state of the art design software and development boards, which use modern field programmable gate array (FPGA) technology.
+/
+Frequency Domain Circuit Analysis
+Students perform frequency domain analysis of passive and active circuits, study transient and AC circuit analysis manually and with computer-aided applications, and examine the transient response of first and second order circuits. The course introduces pole and zero concepts and applies them to circuit analysis, and introduces computer methods of circuit analysis and design.
+/
+Mathematical Analysis
+In this course students will learn mathematical and numerical methods such as differentiation, integration, and Fourier analysis and how to apply these methods to solve scientific problems. Additionally, the course will cover statistics including data analysis, trend fitting, data correlation, and interpolation. Students will learn to use MATLAB as a tool but also become proficient in programming.
+/
+Ordinary Differential Equations
+This course presents the solution of first order differential equations and of higher order linear differential equations; power series solutions; Laplace transforms; and a multitude of applications. 
+/
+Introduction to Electronics Circuits and Devices
+This first course in electronics teaches basic principles and technologies to understand, analyze, and design electronic circuits. The course reviews the properties of semiconductor materials used in the fabrication of diodes, bipolar junction transistors, and field effect transistors. Students analyze amplifier biasing techniques and develop circuit models of semi-conductor devices that are used to analyze and design electronic circuits.
+/
+Electronics Circuits Lab
+Students build and test circuits using diodes, bipolar junction transistors, and MOSFETs
+/
+Signal and Systems I
+This course studies and classifies continuous and discrete signals and systems. It presents time domain and discrete analysis of signals using the Fourier series, Laplace transforms, Fourier transforms, z-transforms, and fast Fourier transforms (e.g., differential equations, convolution, concept and meaning of impulse response); and examines frequency domain analysis, the Fourier series, and the Fourier transform as an alternative to time domain analysis. Students gain further insights into signal and system properties through the Laplace transform methods and the concept of the transfer function.
+/
+Embedded Microcontrollers
+This course covers the architecture of microcontrollers, including how they are constructed internally and how they interface with external circuitry. Applications for microcontrollers in both complex and simple equipment are discussed. Students learn how to apply and how to select a microcontroller for a given application. Students will learn to program the microcontroller to develop programming skills. The software tools will be used to develop software code for practical applications such as servo motor control, sensor reading, and data display. An accompanying laboratory course covers the programming of microprocessors to do a specific task. 
+/
+Microcontroller Lab
+This laboratory covers the basic operation and applications of a microcontroller. Students learn to program a microcontroller to control applications, such as motor speed, by the use of an emulator connected to a PC. They design a circuit using a microcontroller for a specific application and write a program to control the circuit.
+/
+Probability Theory
+Topics in this course include counting techniques; axiomatic probability theory; discrete and continuous sample spaces; random variables, cumulative distribution functions, probability density and mass functions; joint distributions; expected value and moments; common distributions like the normal, binomial, and Poisson distributions; and limit laws.
+/
+Analog Electronics Design
+This advanced course in electronics examines high frequency response of bipolar junction transistor and field-effect transistor amplifiers using hybrid two-port active device models. Students consider the effect of feedback and frequency compensation techniques on the amplifier response and study a variety of analog circuits with respect to their analysis and applications, including active filters, oscillators, waveform generation and shaping, voltage regulator, and communication circuits. The course introduces basic power electronics device components.
+/
+Analog Electronics Lab
+This advanced lab provides insight into the functions of various application-specific electronic circuits. Experiments characterize functioning of various analog systems, such as oscillators, active filters, waveform generation and shaping circuits, and voltage regulator circuits.
+/
+Feedback Control Systems
+This course emphasizes analysis and synthesis of closed loop control systems using both classical and state-space approaches with an emphasis on electro-mechanical systems. The mathematical requirements include the Laplace transform methods of solving differential equations, matrix algebra, and basic complex variables. The discussion of classical control system design includes the modeling of dynamic systems, block diagram representation, time and frequency domain methods, transient and steady state response, stability criteria, controller action [Proportional (P), proportional and integral (PI),
+/
+Introduction to Philosophy
+This course is a topical introduction to philosophy. The aim of the course is to introduce students to the vocation of wonder and questioning by engaging students in discussions about some of the basic questions of philosophy.Students will read texts from historical and contemporary writers, and will be asked to develop their own skills of thinking, reading, and writing critically.
+/
+Electricity and Magnetism I
+This lecture course covers the foundations of electric and magnetic phenomena. Topics include electrostatics and the concepts of the electric field, flux, and potential; Coulomb's law and Gauss's law and their applications; vector and scalar fields and vector operators; electric energy of systems of charges; dipole fields and Laplace's equation; moving charges and currents; Ampere's law; and magnetic fields and forces.
+/
+Senior Design Project I
+Senior Design Project I
+/
+Senior Design Project II
+Senior Design Project II
+/
+Fault Analysis in Power Systems
+This course covers three types of faults in electrical power grids: open lines, lines shorted to ground, and lines shorted to each other. Methods of locating faults are covered along with an analysis of the effects of such faults. Methods of protection and fault isolation are also covered.
+/
+Power Generation and Distribution
+This course considers the generation and distribution of electrical power to large areas. Three-phase networks are described in detail, including both generators and loads. Methods of modeling distribution systems by per-unit parameters are covered, along with power factor correction methods. Fault detection and lightning protection methods are also described. Some economic aspects of power generation and distribution are presented.
+/
+Electromagnetic Compatibility
+This course presents design techniques to minimize electromagnetic interference (EMI) from or to it. The various sources of Radio-frequency emissions from electronic systems, coupling paths for the transfer of undesired electromagnetic energy will be introduced. Electromagnetic Compatibility (EMC) requirements for electronic products will be presented along with techniques to measure EMI. High speed digital signal transmission integrity related issues and methods to overcome signal integrity will be introduced. Techniques to minimize conducted and radiated Emissions through filtering and grounding will be presented. System design for EMC will be presented.
+/
+Power Security and Reliability
+This course focuses on Power System Protection and Relaying to allow the design of robust and reliable power systems. After reviewing the need for protection of power system elements (motors, generators, transformers, and transmission/distribution lines), the course: Explores developments in the creation of smarter, more flexible protective systems based on advances in the computational power of digital devices and the capabilities of communication systems that can be applied within the power grid, Examines the regulations related to power system protection and how they impact the way protective relaying systems are designed, applied, set, and monitored, Considers the evaluation of protective systems during system disturbances and describes the tools available for analysis, Addresses the benefits and problems associated with applying microprocessor-based devices in protection schemes
+/
+Power Electronics
+This course covers the design and operation of power electronics circuits, such as power supplies and motor controls. Using electronic circuit models for transistors and diodes developed in earlier courses, students analyze and design power circuits. Particular attention is paid to power dissipation and packaging. The accompanying laboratory course, EE 0360L, provides practical experience in conjunction with the lecture material.
+/

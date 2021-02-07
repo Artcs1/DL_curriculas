@@ -1,0 +1,188 @@
+/
+Electromagnetics I: Microwave Engineering
+Covers microwave transmission line models and their applications; electromagnetic waves in layered media; mode structures in metallic and dielectric waveguides; resonators and cavities; and Green's functions.
+/
+General Chemistry
+For science and engineering majors. Atomic nature of matter, quantum mechanics, ionic and covalent bonding, molecular geometry, stoichiometry, solution stoichiometry, kinetics, and gas laws. Includes laboratory.
+/
+Computer-Aided Design in Power Systems
+Design-oriented course in power system engineering. Students are assigned a project concerning system operation and planning, steady-state and dynamic behaviors of power systems, or distribution systems. Each involves formulation of design criteria, development of approach, application of existing software.
+/
+Introduction to Very Large-Scale Integrated Design 
+Breadth-first introduction to digital VLSI design. Integrated CMOS logic design. CMOS logic delay and power analysis. Introduction to IC- mask-layout, gate-sizing, VLSI building blocks (adders, multipliers, counters, shifters etc.), design for testability, and memory. Projects involve some layout design, and mostly transistor and gate-level schematic design.
+/
+Waves
+Explores electromagnetic waves, the mechanics of oscillatory motion, optics, waves in matter, and experiments in these topics for physical science and engineering majors.
+/
+Computer Programming II
+Concepts of data abstraction and encapsulation including stacks, queues, linked lists, binary trees, recursion, instruction to complexity and use of predefined collection classes. 
+/
+Calculus with Analytic Geometry I 
+First quarter in calculus of functions of a single variable. Emphasizes differential calculus. Emphasizes applications and problem solving using the tools of calculus.
+/
+Digital Circuits and Systems
+Overview of digital computer systems. Covers logic, Boolean algebra, combinational and sequential circuits and logic design; programmable logic devices; and the design and operation of digital computers, including ALU, memory, and I/O.
+/
+Modern Wireless Communications
+Introduction to wireless networks as an application of basic communication theorems. Examines modulation techniques for digital communications, signal space, optimum receiver design, error performance, error control coding for high reliability, mulitpath fading and its effects, RF link budget analysis, WiFi and Wimax systems.
+/
+Design in Communications
+Design projects in communications. Frequent projects solved by student teams. Reports and presentations.
+/
+Fundamentals of Electrical Engineering
+Introduction to electrical engineering. Basic circuit and systems concepts. Mathematical models of components. Kirchhoff's laws. Resistors, sources, capacitors, inductors, and operational amplifiers. Solution of first and second order linear differential equations associated with basic circuit forms.
+/
+Applied Electromagnetics
+Introductory electromagnetic field theory and Maxwell's equations in integral and differential forms; uniform plane waves in linear media; boundary conditions and reflection and transmission of waves; guided waves; transmission lines and Smith chart; electrostatics
+/
+Analog Circuit Design
+Design of analog circuits and systems applying modern integrated circuit technology: operational amplifiers, differential amplifiers, active filters, voltage references and regulators.
+/
+Microwave Electronic Design
+Design of microwave circuits using S-parameter techniques. Measurement techniques, CAD of microwave systems. Includes design, fabrication, and evaluation of a microwave amplifier. 
+/
+Design and Application of Digital Signal Processing
+Application of learned theories/algorithms and available computer technologies to modern image and speech processing problems. Two-dimensional signals and systems. Image transform, enhancement, restoration, coding. Characteristics of speech signals, linear predictive coding (LPC) of speech, pitch detection, and LPC speech synthesis, speech recognition, hardware designs for signal processing. 
+/
+Embedded Systems Capstone
+Capstone design experience. Prototype a substantial project mixing hardware, software, and communications. Focuses on embedded processors, programmable logic devices, and emerging platforms for the development of digital systems. Provides a comprehensive experience in specification, design, and management of contemporary embedded systems.
+/
+Power Electronics Design
+Electronic conversion and control of electrical power. Includes semiconductor switching devices, power converter circuits, design of magnetics, and control of power converters. Also ac/ac, ac/dc, and dc/dc power converters; circuit simulation; extensive laboratory work; a four-week power converter design project.
+/
+Introduction to Differential Equations and Applications
+Introductory survey of ordinary differential equations; linear and nonlinear equations; Taylor series; and. Laplace transforms. Emphasizes on formulation, solution, and interpretation of results. Examples drawn from physical and biological sciences and engineering.
+/
+Circuit Theory
+Electric circuit theory. Analysis of circuits with sinusoidal signals. Phasors, system functions, and complex frequency. Frequency response. Computer analysis of electrical circuits. Power and energy. Two port network theory. Laboratory in basic electrical engineering topics.
+/
+Linear Integrated Circuits
+Design of linear integrated circuits applying modern MOS and BJT integrated circuit technologies: single-stage amplifiers; current-mirror DC bias and active load circuits; stability and frequency compensation of single-stage and two-stage operational amplifiers; output stages; current and voltage reference circuits.
+/
+Quantitative Introductory Statistics for Data Science
+The basic concepts of statistics, machine learning and data science, as well as their computational aspects. Statistical models, likelihood, maximum likelihood and Bayesian estimation, regression, classification, clustering, principal component analysis, model validation, statistical testing. Practical implementation and visualization in data analysis. Assumes knowledge of basic probability, mathematical maturity, and ability to program.
+/
+Energy Systems
+Develops understanding of modern energy systems through theory and analysis of the system and its components. Discussions of generation, transmission, and utilization are complemented by environmental and energy resources topics as well as electromechanical conversion, power electronics, electric safety, renewable energy, and electricity blackouts.
+/
+Semiconductor Devices
+Fundamentals of semiconductor theory: carrier diffusion and drift; concept of direct and indirect energy materials, effective mass of mobile carriers; device physics: homo- and heterojunctions, operating principles of bipolar, junction, and MOS field-effect transistors.
+/
+Sensors and Sensor Systems
+Introduction to optical and solid-state chemical and physical sensors. Topics include transduction mechanisms, design parameters, fabrication methods and applications.
+/
+Network Security and Cryptography
+Fundamental principles of cryptography and its application to network and communication security. An introduction to the fundamental tools in cryptography and the protocols that enable its application to network and communication security.
+/
+Capstone Project in Synthetic Biology
+Capstone design experience in synthetic biology. Provides students with skills in handling open-ended design problems in synthetic biology. Students participate on a team that designs, builds and tests a new transgenic microorganism with potential applications ranging from advanced materials, bio-sensing and/or remediation, or human health.
+/
+Computer Architecture I 
+Introduction to computer architecture. Assembly and machine language, microprocessor organization including control and datapath. Computer arithmetic. Memory systems and caching. Performance modeling of microprocessors.
+/
+Calculus with Analytic Geometry II
+Second quarter in the calculus of functions of a single variable. Emphasizes integral calculus. Emphasizes applications and problem solving using the tools of calculus.
+/
+Medical Instrumentation
+Introductory course in the application of instrumentation to medicine. Topics include transducers, signal-conditioning amplifiers, electrodes and electrochemistry, ultrasound systems, electrical safety, and the design of clinical electronics. 
+/
+/
+Introduction to Differential Equations
+Introductory course in ordinary differential equations. Includes first- and second-order equations and Laplace transform.
+/
+Design of Digital Circuits and Systems
+Provides a theoretical background in, and practical experience with, tools, and techniques for modeling complex digital systems with the Verilog hardware description language, maintaining signal integrity, managing power consumption, and ensuring robust intra- and inter-system communication.
+/
+Matrix Algebra with Applications
+Systems of linear equations, vector spaces, matrices, subspaces, orthogonality, least squares, eigenvalues, eigenvectors, applications. For students in engineering, mathematics, and the sciences. 
+/
+Introduction to Computer-Communication Networks 
+Computer network architectures and protocols. OSI Layers and performance analysis. Transmission media, switching, multiple access arbitration. Network routing, congestion control, flow control. Transport protocols, real-time, multicast, network security.
+/
+VLSI II
+Provides a fairly deep understanding of how IC-based memory and datapath blocks are designed using static and dynamic CMOS technologies. Gives students extensive experience with industry-standard computer-aided design tools, including Cadence (Virtuoso, DRC, LVS) and Avanti (Hspice).
+/
+Introduction to Embedded Systems
+Introduces the specification, design, development, and test of real time embedded system software. Use of a modern embedded microcomputer or microcontroller as a target environment for a series of laboratory projects and a comprehensive final project.
+/
+Integrated Systems Capstone
+Team-based design experience to develop integrated electronic systems by constructing and validating, prototype integrated circuits (IC) and sensors using modern Computer Aided Design (CAD) tools. Systems are simulated using modern semiconductor, MEMs and nanophotonic technologies. Teams define requirements; investigate tradeoffs in performance, cost, power and size; design for both reliability and testability.
+/
+Engineering Entrepreneurial Capstone
+Completion of an industry-motivated and mentored engineering project to develop design skills. Overseen by UW Faculty and guided by practicing engineers sponsored by industry. Emphasizes cross-disciplinary teamwork.
+/
+Introduction to Professional Issues
+Covers topics of interest to students planning their educational and professional path, including salaries, the value of advanced degrees, societal expectations of engineering professionals, the corporate enterprise, ethical dilemmas, patents and trade secrets, outsourcing, and the global market.
+/
+Control System Analysis I
+Linear Servomechanism theory and design principles. Pole-zero analysis, stability of feedback systems by root locus and real-frequency response methods. Design methods of Bode and Nichols. Introduction to advanced topics in automatic control theory, state variable methods. 
+/
+Fundamentals of Integrated Circuit Technology 
+Processing physics, chemistry, and technology, including evaporation, sputtering, epitaxial growth, diffusion, ion implantation, laser annealing, oxidation, chemical vapor deposition, photoresists. Design considerations for bipolar and MOS devices, materials and process characterization. Future trends.
+/
+Antennas: Analysis and Design
+Fundamentals of antennas, analysis, synthesis, and computer-aided design, and applications in communications, remote sensing, and radars. Radiation pattern, directivity, impedance, wire antennas, arrays, numerical methods for analysis, horn antennas, microstrip antennas, and reflector antennas.
+/
+Computer Programming I
+Basic programming-in-the-small abilities and concepts including procedural programming (methods, parameters, return, values), basic control structures (sequence, if/else, for loop, while loop), file processing, arrays, and an introduction to defining objects.
+/
+Systems, Controls, and Robotics Capstone
+In-depth control engineering design experience in small design teams. Includes project planning and management, reporting, and technical communication. Student teams design, implement, test, and report on their project results, Includes lectures on selected topics, e.g., project management, intellectual property, and some control engineering topics.
+/
+Devices and Circuits I
+Physics, characteristics, applications, analysis, and design of circuits using semiconductor diodes and field-effect transistors with an emphasis on large-signal behavior and digital logic circuits. Classroom concepts are reinforced through laboratory experiments and design exercises.
+/
+Mechanics 
+Basic principles of mechanics and experiments in mechanics for physical science and engineering majors.
+/
+Digital Signals and Filtering
+Methods and techniques for digital signal processing. Review of sampling theorems, A/D and D/A converters. Demodulation by quadrature sampling. Z-transform methods, system functions, linear shift-invariant systems, difference equations. Signal flow graphs for digital networks, canonical forms. Design of digital filters, practical considerations, IIR and FIR filters. Digital Fourier transforms and FFT techniques.
+/
+Random Signals for Communications and Signal Processing
+Probability and random processes in communications. Random variables, distributions, and expectation. Statistical filter design for detection and estimation.
+/
+Capstone Integrated Digital Design Projects
+VLSI-capstone course. A more detailed examination of building high-performance or low-energy integrated circuits. Wire design, timing-elements, clock generation, distribution and control, dynamic-logic, low-power design.
+/
+Engineering Design for K-12 Outreach
+Design process targeted toward development of relevant activities for K-12 audiences in such areas of science and engineering. Instruction in basic design process, design specification combined with an overview of relevant cognitive/social development in K-12.
+/
+Continuous Time Linear Systems
+Introduction to continuous time signal analysis. Basic signals including impulses, pulses, and unit steps. Periodic signals. Convolution of signals. Fourier series and transforms in discrete and continuous time. Computer laboratory.
+/
+Devices and Circuits II
+Characteristics of bipolar transistors, large- and small- signal models for bipolar and field effect transistors, linear circuit applications, including low and high frequency analysis of differential amplifiers, current sources, gain stages and output stages, internal circuitry of op-amps, op-amp configurations, op-amp stability and compensation.
+/
+Instrumentation Design Project Capstone
+Team-based design for developing an electronic instrumentation system and constructing and validating a prototype using modern printed circuit board technology. Teams develop design requirements; investigate tradeoffs for miniaturization, integration, performance, and cost; and consider use cases, failure modes, manufacturability, and testability. 
+/
+Power System Dynamics and Protection
+Analysis of symmetrical and unsymmetrical power systems' networks, fault analysis, and stability studies.
+/
+Advanced Multivariable Calculus I
+Topics include double and triple integrals, the chain rule, vector fields, line and surface integrals. Culminates in the theorems of Green and Stokes, along with the Divergence Theorem. 
+/
+Statistical Methods in Engineering and Science
+Concepts of probability and statistics. Conditional probability, independence, random variables, distribution functions. Descriptive statistics, transformations, sampling errors, confidence intervals, least squares and maximum likelihood. Exploratory data analysis and interactive computing.
+/
+Electromagnetism
+Covers the basic principles of electromagnetism and experiments in these topics for physical science and engineering majors.
+/
+Power System Analysis
+Introduction to methods of analyzing power systems. Includes symmetrical components, calculation of line parameters, representation of transmission lines and power components, and power flow control. 
+/
+Introduction to Digital Imaging Systems
+Image representation and standards, visual perception and color spaces, spatial domain image filtering and enhancement, image restoration, image transforms, image and video coding, image geometrical transformation and camera modeling.
+/
+Calculus with Analytic Geometry III
+Third quarter in calculus sequence. Introduction to Taylor polynomials and Taylor series, vector geometry in three dimensions, introduction to multivariable differential calculus, double integrals in Cartesian and polar coordinates.
+/
+Probability I
+Sample spaces; basic axioms of probability; combinatorial probability; conditional probability and independence; binomial, Poisson, and normal distributions.
+/
+Discrete Time Linear Systems
+Discrete time signals and systems, impulse response, convolution, Z-transforms, discrete time Fourier analysis. Computer laboratory.
+/
+Applied Linear Algebra and Numerical Analysis
+Analysis and application of numerical methods and algorithms to problems in the applied sciences and engineering. Applied linear algebra, including eigenvalue problems. Emphasis on use of conceptual methods in engineering, mathematics, and science. Extensive use of MATLAB package for programming and solution techniques.
+/

@@ -1,0 +1,200 @@
+﻿APPLIED COMBINATORICS 
+Basic counting methods, generating functions, recurrence relations, principle of inclusion-exclusion. Polya's formula. Elements of graph theory, trees and searching network algorithms.
+/
+HUMAN COMPUTER INTERACTION 
+Human computer interaction is concerned with the joint performance of tasks by humans and machines; human capabilities to use machines (including learnability of interfaces); algorithms and programming of the interface; engineering concerns that arise in designing and building interfaces; the process of specification, design, and implementation of interfaces; and design trade-offs.
+/
+INFORMATION TECHNOLOGY ETHICS 
+The course will cover the development and need for issues regarding privacy and the application of computer ethics to information technology.
+/
+INTRODUCTION TO WEB DEVELOPMENT 
+This course will provide students with a practical introduction to web development. By learning the basic skills needed to develop an interactive website, students will develop an understanding of the web development task and an appreciation of the importance of the Internet in both business and academic environments. Specific technical topics to be covered include XHTML, CSS, the Unix/Linux operating system, web server software, and a programming language. As part of the class, each student will develop a working website.
+/
+INTRODUCTION TO COMPUTER SCIENCE II 
+Advanced topics in programming; topics in data representation and manipulation, data structures, problem solving and algorithm design.
+/
+COMPUTER GRAPHICS
+An introduction to the acquisition, manipulation and display of graphical information using digital techniques. Topics include discussion of the various hardware devices used for input and output, the classical algorithms and data structures used in manipulation of graphical objects, the user interface to the graphics system, and applicable standards.  
+/
+SECURITY ADMINISTRATION - WINDOWS
+This course covers topics a system administrator would encounter in their profession.  The student will learn how a system administrator fulfills various organizational information resource management requirements using the Windows Operating System. Topics will include; installation; creating and maintaining file systems; user and group administration; backup and restore processes; network configuration; various system services; simple security administration; and updating and maintaining the system.
+/
+CERTIFICATION AND ACCREDITATION OF SECURE SYSTEMS (CAPSTONE)
+This is the BSIA capstone course where students extend and apply their knowledge in defining, implementing, and assessing secure information systems. Students will demonstrate their ability to specify, apply, and assess different types of countermeasures at different points in the enterprise with a special focus on system boundaries.  
+/
+INTRODUCTION TO THE THEORY OF RECURSIVE FUNCTIONS 
+This is a proof-oriented course presenting the foundations of Recursion Theory. We present the definition and properties of the class of primitive recursive functions, study the formal models of computation, and investigate partially computable functions, universal programs. We prove Rice's Theorem, the Recursion Theorem, develop the arithmetic hierarchy, demonstrate Post's theorem. Introduction to the formal theories of computability and complexity is also given. 
+/
+INTRODUCTION TO GAME PROGRAMMING 
+The course will cover programming and development techniques used in a game programming environment. The course is designed for students who have an interest in game programming to be eased into the concepts in a familiar environment.
+/
+INTRODUCTION TO COMPUTER SCIENCE I 
+An introduction to programming within the context of a high level modern programming language. Coverage of fundamental programming concepts and program design; including arrays, user defined types, and objects. 
+/
+CALCULUS I 
+This is a course in plane analytic geometry emphasizing the study of functions, limits, derivatives and applications, and an introduction to integration.
+/
+CRYPTOGRAPHY 
+The course will provide a broad overview of the concepts, fundamental ideas, vocabulary, and literature base central to the study and development of cryptography and cryptanalysis. This course will explore historical development of cryptography, as well as methods used to defeat it. In addition, the course will cover the mathematical foundations of cryptography today, as well as some current uses of such cryptography, such as public key infrastructures, the Internet Key Exchange protocol, and more.
+/
+HOST-BASED VULNERABILITY DISCOVERY 
+The class will cover security issues at an implementation and hardware level. The students will learn assembly language and the use of a reverse assembler and debugger. This will allow the student to analyze various packing algorithms for computer viruses, the viruses themselves, operating system hooking, fuzzing, and other machine code, host-based exploits. The class will be using both Windows and Linux as operating systems. 
+/
+COMPUTER SCIENCE PRINCIPLES LABORATORY 
+It consists of programming exercises designed to help students practice computational thinking and apply computational solutions to practical problems. The exercises make use of mobile devices and other emerging platforms.
+/
+INTERNSHIP IN COMPUTER SCIENCE 
+The purpose of this course is to provide students with opportunities to apply their academic studies in non-academic environments such as those found in business, industry and other non-academic organizations. The student interns will sharpen their academic focus and develop better understanding of non-academic application areas. 
+/
+MULTIMEDIA SYSTEMS 
+The purpose of this course is to introduce students to the fundamentals of multimedia design. The course provides students with the fundamental skills and knowledge to define a problem and design a multimedia application to solve it, to understand and recognize the characteristics of good multimedia design, to begin to use and apply popular multimedia development tools, and to work as part of a team to produce a workable multimedia solution.
+/
+COMMUNICATION NETWORKS 
+This course is designed to bring students up to the state of the art in networking technologies with a focus on Internet. It will cover the principles of networking with an emphasis on protocols, implementations and design issues.
+/
+INTRODUCTION TO DIGITAL DESIGN AND COMPUTER ORGANIZATION 
+The course is intended to introduce the students to the topics found in introductory digital design and computer organization classes.
+/
+INTRODUCTION TO ALGORITHMS 
+The course provides students a basic understanding of algorithm analyses. Main topics include: growth of functions, asymptotic notation, recurrences, divide and conquer, sorting and its lower bounds, dynamic programming, greedy algorithms, and graph traversal.
+/
+NATURAL LANGUAGE PROCESSING 
+The course will provide overview of the topics in natural language processing such as word and sentence tokenization, syntactic parsing, semantic role labeling, text classification. We will discuss fundamental algorithms and mathematical models for processing natural language, and how these can be used to solve practical problems. We will touch on such applications of natural language processing technology as information extraction and sentiment analysis.
+/
+FOUNDATIONS OF CYBERSECURITY 
+Contemporary issues in computer security, including sources for computer security threats and appropriate reactions; basic encryption and decryption; secure encryption systems; program security, trusted operating systems; database security, network and distributed systems security, administering security; legal and ethical issues.
+/
+CAPSTONE PROJECT 
+The Capstone Project completes a Computer Science student's undergraduate experience. Students will work on a team-based real-world project, practicing software engineering skills and applying fundamental computer science principles acquired throughout their undergraduate study.
+/
+NUMBER THEORY & CRYPTOGRAPHY 
+An overview of one of the many beautiful areas of mathematics and its modern application to secure communication. The course is ideal for any student who wants a taste of mathematics outside of, or in addition to, the calculus sequence. Topics to be covered include: prime numbers, congruences, perfect numbers, primitive roots, quadratic reciprocity, sums of squares, and Diophantine equations. Applications include error-correcting codes, symmetric and public key cryptography, secret sharing, and zero knowledge proofs.  
+/
+AUTOMATA, COMPUTABILITY, AND FORMAL LANGUAGES 
+This course presents a sampling of several important areas of theoretical computer science. Definition of formal models of computation, and important properties of such models, including finite automata and Turing machines. Definition and important properties of formal grammars and their languages. Introduction to the formal theories of computability and complexity.  
+/
+INTRODUCTION SOFTWARE ENGINEERING 
+Basic concepts and major issues of software engineering, current tools and techniques providing a basis for analyzing, designing, developing, maintaining and evaluating the system. Technical, administrative and operating issues. Privacy, security and legal issues.
+/
+ADVANCED GAME PROGRAMMING 
+This course is intended for those with an interest in video game programming. This course introduces the advanced concepts of game programming including 3D programming, game networking, and development of a multiplayer, networked game by learning and using the XNA environment.
+/
+COMPUTER SCIENCE PRINCIPLES 
+This course introduces students to the foundational principles of computer science. It aims to help students learn the essential thought processes used by computer scientists to solve problems, expressing those solutions as computer programs. The exercises and projects make use of mobile devices and other emerging platforms.
+/
+PATTERN RECOGNITION
+Structures and problems of pattern recognition. Mathematics model of statistical pattern recognition, multivariate probability, Bay's decision theory, maximum likelihood estimation, whitening transformations. Parametric and non-parametric techniques, linear discriminant function, gradient-descent procedure, clustering and unsupervised learning, and feature selection algorithms. 
+/
+INTRODUCTION TO PARALLEL COMPUTING 
+Need for higher-performance computers. Topics discussed include: classification of parallel computers; shared-memory versus message passing matchings; for ms of parallelism, measure of performance; designing parallel algorithms; parallel programming and parallel languages; synchorization constructs; and operating systems for parallel computers. 
+/
+PROBABILISTIC OPERATIONS RESEARCH MODELS 
+This is a survey course of probabilistic operations, research models and algorithms. Topics include Markov chains, queueing theory, inventory models, forecasting, and simulation.  
+/
+FOUNDATIONS OF WEB SEARCH TECHNOLOGIES 
+This course provides students a basic understanding of how search and information flow works on the web. Main topics include: document representation, inverted indexing, ranking of web search results, vector-space model, web graph, PageRank, search-based advertising, information cascades, and web crawling.
+/
+INTRODUCTION TO APPLIED STATISTICS FOR IS&T 
+The course emphasizes the function of statistics in information science and technology including topics such as descriptive statistical measures, probability discrete probability, sampling, estimation analysis, hypothesis testing, regression, and analysis of variance.  A well-known computer package will be used to support the problem-solving process.
+/
+TOPICS IN COMPUTER SCIENCE 
+A variable topic course in computer science at the senior level. Topics not normally covered in the computer science degree program, but suitable for senior-level students.  
+/
+ALGORITHMS FOR ROBOTICS 
+This course provides an introduction to software techniques and algorithms for autonomously  controlling robots using software programs called controllers. Students will be taught how to program and use software controllers on simulated as well as physical robots.  
+/
+DATABASE MANAGEMENT SYSTEMS 
+Basic concepts of data base management systems (DBMSs). The relational, hierarchical and network models and DBMSs which use them. Introduction to data base design.  
+/
+ADVANCED OPERATING SYSTEMS 
+State-of-the art techniques for operating system structuring and implementation. Special purpose operating systems. Pragmatic aspects of operating system design, implementation and use.
+/
+MATHEMATICAL FOUNDATIONS OF COMPUTER SCIENCE 
+This course introduces discrete mathematics concepts that are foundational for the study of computer science such as functions, relations, and sets, basic logic, methods of proof, mathematical induction, computational complexity, recursion, counting, recurrences, and relations.
+/
+USER EXPERIENCE DESIGN 
+User experience (UX) design is concerned with the application of user-centered design principles to the creation of computer interfaces ranging from traditional desktop and web-based applications, mobile and embedded interfaces, and ubiquitous computing.  This course provides in-depth, hands-on experience with real world application of the iterative user-centered process including contextual inquiry, task analysis, design ideation, rapid prototyping, interface evaluation, and reporting usability findings. 
+/
+INFORMATION SECURITY, POLICY AND AWARENESS 
+This course will cover the planning and development for information governance, security policies and procedures, and security awareness.
+/
+ORGANIZATIONS, APPLICATIONS AND TECHNOLOGY 
+This survey course provides an introduction to organizations and the role information and information systems play in supporting operations, decision-making, processes, quality management, and strategic activities of an organization. In addition, the course covers management of the IS function, strategic and regulatory issues of telecommunications, and ethical and legal issues.
+/
+THEORY OF COMPUTATION 
+The course is intended to introduce the students to the theory of computation in a fashion that emphasizes breadth and away from detailed analysis found in a normal undergraduate automata course. The topics covered in the course include methods of proofs, finite automata, non-determinism, regular expressions, context-free grammars, pushdown automata, no-context free languages, Church-Turing Thesis, decidability, reducibility, and space and time complexity.
+/
+APPLIED LINEAR ALGEBRA 
+This course presents Matrix algebra, simultaneous equations, vector spaces, with applications of linear algebra and computational considerations. Mathematical software is utilized, with required assignments.
+/
+COMPUTER ARCHITECTURE 
+The course deals with: processor design different instruction set architectures; memory hierarchy; input output organization and communication; and an introduction to parallel architecture. Analytic study of design alternatives for each of the above topics will be covered. 
+/
+TOPICS IN MODELING 
+Selection of such topics as formulation and analysis of various models involving Markov chains, Markov processes (including birth and death processes), queues, cellular automata, difference and differential equations, chaotic systems and fractal geometries. 
+/
+DATA WAREHOUSING AND DATA MINING
+This course provides students with a theoretical foundation and practical methods for designing and constructing data warehouse and implementing data mining.  After covering the essential concepts, issues, techniques to build an effective data warehouse, this course emphasizes the various techniques of data mining, such as association, classification, clustering and prediction for on-line analyses within the framework of data warehouse architectures. This course gives students an opportunity to undertake a real-life data analysis project. 
+/
+DATA STRUCTURES 
+This is a core that will cover a number of data structures such as tree, hashing, priority queues and graphs as well as different algorithm design methods by examining  common problem-solving techniques. 
+/
+INTRODUCTION TO C PROGRAMMING 
+Programming in 'C' in a UNIX operating system environment; algorithm and program development and file manipulation using 'C'; UNIX-like utility development.
+/
+OPERATING SYSTEMS 
+Operating system principles. The operating system as a resource manager; I/O programming, interrupt programming and machine architecture as it relates to resource management; memory management techniques for uni-multiprogrammed systems; process description and implementation; processor management (scheduling); I/O device, controller, and channel management; file systems. Operating system implementation for large and small machines.  
+/
+INDEPENDENT STUDIES 
+A variable credit course for the junior or senior who will benefit from independent reading assignments and research type problems. Independent study makes available courses of study not available in scheduled course offerings.
+/
+TOPICS IN COMPUTER SCIENCE 
+TOPICS IN COMPUTER SCIENCE 
+/
+ASSESSMENT 
+ASSESSMENT 
+/
+NETWORK-BASED VULNERABILITY DISCOVERY 
+The course is an advanced class in which the students learn various techniques for testing for and identifying security flaws in network software and web applications. Internet technologies such as HTTP, DNS, DHCP, and others are examined in the context of cyber security. 
+/
+C++ & OBJECT-ORIENTED PROGRAMMING 
+C++ and Object Oriented Programming (OOP) is taught in the UNIX environment. Topics include C++ as a 'Better C,' OOP with C++, classes and data abstraction, operator overloading, inheritance, virtual functions and polymorphism, C++ stream I/O.
+/
+VIDEO GAME DESIGN 
+The course will cover game design and theory techniques used by the gaming industry.  This course is designed for students who have gone through the introductory programming course and have an interest in what it takes to design current games.
+/
+SECURITY ADMINISTRATION - LINUX 
+This course covers topics a system administrator would encounter in their profession.  The student will learn how a system administrator fulfills various organizational information resource management requirements using the a Linux-based Operating System.  Topics will include; installation; creating and maintaining file systems; user and group administration; backup and restore processes; network configuration; various system services; simple security administration; and updating and maintaining the system.
+/
+PROGRAMMING ON THE INTERNET 
+This course is an introduction to and overview of Internet-based application development focusing on the use of Java, Perl and other server-based programming languages. Software development in the context of the World Wide Web and other Internet services will be emphasized. Internet application development will also be discussed. Other techniques will be covered.
+/
+PRINCIPLES OF PROGRAMMING LANGUAGES 
+This course covers the foundational concepts and principles underlying the design and implementation of programming languages. Language constructs including assignment, equality, references, aggregations, scope, encapsulation, and parameter passing are discussed. A central theme is how a particular language construct relates to the concept of equational reasoning (referential transparency).  Formal notations for describing syntax and semantics are presented.
+/
+ADVANCED JAVA PROGRAMMING
+This course teaches students Web-based programming techniques in the Java programming language. It begins with programming using traditional models such as the client-server model and then transitions to advanced programming paradigms including middleware programming using RMI and CORBA, the distributed JINI/JavaSpaces model, the peer-to-peer networking model and the agent-based programming model.
+/
+CALCULUS II 
+This course introduces applications of integration, techniques of integration, infinite sequences and series, vectors in the plane, and polar functions. A mathematical software package is introduced, with required assignments.
+/
+NUMERICAL METHODS 
+This course involves solving nonlinear algebraic equations and systems of equations, interpolation and polynomial approximation, numerical differentiation and integration, numerical solutions to ordinary differential equations, analysis of algorithms and errors, and computational efficiency. 
+/
+INTERNET SYSTEMS DEVELOPMENT 
+This course focuses on contemporary techniques and technologies in the design, development, and integration of web-enabled information systems.  This is a rapidly moving, hands-on course that mirrors real-world development of internet-based applications.
+/
+GRAPH THEORY & APPLICATIONS
+Introduction to graph theory. Representations of graphs and graph isomorphism. Trees as a special case of graphs. Connectivity, covering, matching and coloring in graphs. Directed graphs and planar graphs. Applications of graph theory in several fields such as networks, social sciences, VLSI, chemistry and parallel processing. 
+/
+COMPUTER AND NETWORK FORENSICS
+Computer forensics involves the preservation, identification, extraction and documentation of computer evidence stored on a computer. This course takes a technical, legal, and practical approach to the study and practice of incident response, computer forensics, and network forensics. Topics include legal and ethical implications, duplication and data recovery, steganography, network forensics, and tools and techniques for investigating computer intrusions. This course is intended as a second course in information assurance for undergraduate students as well as other qualified students.  It is also intended as a foundation course for graduate digital forensics studies.
+/
+COMPUTER SECURITY MANAGEMENT 
+The purpose of this course is to integrate concepts and techniques from security assessment, risk mitigation, disaster planning, and auditing to identify, understand, and propose solutions to problems of computer security and security administration.  
+/
+DETERMINISTIC OPERATIONS RESEARCH MODELS
+This is a survey course of deterministic operations research models and algorithms. Topics include linear programming, network programming, and integer programming. 
+/
+INTRODUCTION TO ARTIFICIAL INTELLIGENCE 
+An introduction to artificial intelligence. The course will cover topics such as machine problem solving, uninformed and informed searching, propositional logic, first order logic, approximate reasoning using Bayesian networks, temporal reasoning, planning under uncertainty and machine learning.

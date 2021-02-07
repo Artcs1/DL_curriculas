@@ -1,0 +1,91 @@
+/
+Introduction to Computing
+In this course, students learn computational problem-solving techniques through the process of design, implementation, testing, and documentation using the programming language Python. The main ideas of computing are explored and students learn the most essential information about computers and technology in today's digital world and the latest computing trends and skills. Students will get an understanding of the breadth of computing as a discipline and how it exists in the world by identifying computing applications in society and exposing them to a variety of computing topics.
+/
+Calculus I
+This course covers analytic geometry; continuous functions; derivatives of algebraic and trigonometric functions, product and chain rules, implicit functions; extrema and curve sketching; indefinite and definite integrals; applications of derivatives and integrals; exponential, logarithmic and inverse trig functions, hyperbolic trig functions, and their derivatives and integrals
+/
+Fundamentals of Programming
+This course introduces programming constructs and techniques in a logical progression beginning with small problems and basic algorithms through larger scale programs and design. While not an object oriented course, Classes and Objects are used in an ancillary capacity while working on broader topics of software architecture. Complete programs will be designed, coded, and debugged in both Java and the C programming language, developing skills necessary to work with more complex software systems.
+/
+Introduction to Rhetoric and Composition
+This course introduces students to the academic discipline of rhetoric and composition. Students read nonfiction texts, including rhetoric and composition and cross-disciplinary scholarship, in order to analyze their conventions and craft texts in various genres and modalities for a range of audiences. Students develop effective writing processes, sound research strategies, strong academic arguments, rhetorical awareness, and sensitivity to disciplinarity.
+/
+Calculus II
+This course covers applications of the integral to area, arc length, and volumes of revolution; integration by substitution and by parts; indeterminate forms and improper integrals: Infinite sequences and infinite series, tests for convergence, power series, and Taylor series; geometry in three-space.
+/
+Introduction to Philosophy
+This course is a topical introduction to philosophy. The aim of the course is to introduce students to the vocation of wonder and questioning by engaging students in discussions about some of the basic questions of philosophy.Students will read texts from historical and contemporary writers, and will be asked to develop their own skills of thinking, reading, and writing critically.
+/
+Programming Workshop
+This course covers advanced programming concepts in one or more current programming languages, including syntax and theories. It prepares students for adapting to various programming environments and coding in an efficient manner.
+/
+Programming Workshop Lab
+This lab accompanies the Programming Workshop course for hands-on practice with course concepts.
+/
+Computer Science Sophomore Clinic
+This sophomore clinic provides faculty guidance and supervision beyond the scope of existing courses. Students learn how to develop and structure their deliverables, as well as how to use computer science tools in the context of real-world or research projects.
+/
+Web Development
+This course introduces the student to developing applications for use on the World Wide Web. Students learn basic n-tier concepts for designing distributed applications and gain hands on experience through the construction of Web-based applications. The course covers concepts that allow communication over the Web. This includes designing and authoring Web pages, markup languages, the client-side document object model, usability, search engine optimization, and client-side dynamic Web pages.
+/
+Discrete Mathematics
+Topics in this course include logic; sets; functions; equivalence relations and partitions; mathematical induction; and countability.
+/
+Digital Design I
+An introduction to computer hardware design. Topics include: digital design principles, Boolean algebra, combinational logic design, sequential logic design, registers, counters, memory, multiplexers, finite state machines, radix conversion, and programmable logic devices. Students learn to write, implement, and simulate elementary digital design.
+/
+Digital Design I Lab
+This lab course covers the practical aspects of digital logic design. Students design and implement logic circuits using techniques
+/
+Data Structures
+This course covers abstract data structures such as queues, stacks, heaps, linked lists, trees, graphs, hash tables and sorting. Students apply data structure concept in advanced programming.
+/
+Data Structures Lab
+This lab accompanies the Data Structures course for hands-on practice with course concepts.
+/
+Computer System Architecture
+This course introduces the machine language and various components of a computer hardware in modern computer systems. The course focuses on CPU, memory, bus, cache, I/O module, internal data representation, and instruction set design. It also covers pipelining, superscalar architecture, reduced instruction set computers, parallel architectures, and interconnection networks.
+/
+Design and Analysis of Algorithms
+This course introduces various algorithms and analyzes the complexity and efficiency of the algorithms. Topics cover classic and heuristic algorithms, searching, sorting and parsing techniques, and algorithm complexity analysis.
+/
+Computer Science Junior Clinic I
+This first junior clinic provides faculty guidance and supervision beyond the scope of existing courses. Students learn how to develop and structure their deliverables, as well as how to use computer science tools in the context of real-world or research projects.
+/
+Software Engineering Methods
+This course explores the requirements gathering, system analysis, and software design methods of software application following the software processes required for the production of high quality software. Techniques for creating documentation and using software development tools will be presented. Students will gain experience in software project management, requirements, analysis, and safety issues in software development; interpersonal skills for management and team membership; and the software engineering discernment of systems architecture.
+/
+Introduction to Cybersecurity
+In this course, students will be given an extensive overview of the various components of cybersecurity, including software development, operating systems, databases, and networks. Students will learn cybersecurity concepts, issues, and tools that are critical in solving problems in the computing security domain.
+/
+Computer Science Junior Clinic II
+This second junior clinic provides faculty guidance and supervision beyond the scope of existing courses. Students learn how to develop and structure their deliverables, as well as how to use computer science tools in the context of real-world or research projects.
+/
+Theory of Programming Languages
+Topics in this course include the design of programming languages; organization, control structures, data structures; run time behavior of programs; and formal specification and analysis of programming languages. The course includes a comparative survey of several significantly different languages.
+/
+Software Design Methods
+with in-depth projects and further discussions of design and implementation topics. Through the use of case studies and project work that has the student gradually building a large design specification, students will achieve an understanding of how complex applications are designed and built.
+/
+Senior Design Project I
+Senior Design Project I
+/
+Senior Design Project II
+Senior Design Project II
+/
+Artificial Intelligence
+This course, which examines computational and theoretical accounts of human intelligence, includes knowledge representation, commonsense reasoning, planning, natural language understanding, machine learning, and deep learning.
+/
+Theory of Programming Languages
+Topics in this course include the design of programming languages; organization, control structures, data structures; run time behavior of programs; and formal specification and analysis of programming languages. The course includes a comparative survey of several significantly different languages.
+/
+Design and Analysis of Algorithms
+This course introduces various algorithms and analyzes the complexity and efficiency of the algorithms. Topics cover classic and heuristic algorithms, searching, sorting and parsing techniques, and algorithm complexity analysis.
+/
+Visual Analytics
+In this course, students investigate visual analytics tools and techniques used to synthesize information and derive insight from massive, dynamic, ambiguous, and often conflicting data and to communicate the findings effectively for decision-making. Extensive use of case studies based on real-world events will be used to illustrate course concepts. Students will apply visual analytics techniques toward a focused research problem in a real-world application or a domain of interest.
+/
+Mobile Application Development
+This project-oriented course examines the fundamental aspects of mobile computing, application architecture, and mobile application design and development. Students will learn application development on the Android platform. Students will complete a hands-on project building a prototype mobile application. Topics include user interface design and building, input and data handling, and network techniques and GPS and motion sensing. Students are expected to work on a project that produces a professional-quality mobile application. Projects will be deployed in real-world applications.
+/

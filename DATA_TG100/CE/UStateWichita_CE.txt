@@ -1,0 +1,113 @@
+/
+English Composition
+Emphasizes reading and writing skills appropriate to academic discourse. Integrates the writing process, rhetorical modes and library skills into writing assignments related primarily to nonfiction readings.
+/
+College English I
+General education foundation course. Focuses on developing reading and writing skills appropriate to academic discourse. Integrates the writing process, rhetorical modes and library skills into writing assignments related primarily to nonfiction readings.
+/
+Public Speaking
+General education foundation course. Studies basic concepts of speech communication as applied to public speaking and critical analysis. For students wishing to enhance leadership potential by improvement in traditional public speaking situations.
+/
+College English II
+General education foundation course. Emphasizes critical reading, research and argumentation.
+/
+Art History
+Art History
+/
+Dance
+Dance
+/
+Musicology/Composition
+Musicology/Composition
+/
+Studio Arts
+Studio Arts
+/
+Theatre
+Theatre
+/
+Ethics and Computers
+General education humanities course. Ethics with application to the ethical issues which may arise from the use of computers, including the moral responsibility of computer professionals for the effect their work has on persons and society; the moral obligations of a computer professional to clients, employer and society; the conceptual and ethical issues surrounding the control and ownership of software; and the justifiability of regulation of the design, use and marketing of computer technology
+/
+Calculus I
+General education math and natural sciences course. Analytic geometry and the calculus in an interrelated form
+/
+Calculus II
+General education math and natural sciences course.
+/
+Discrete Structures I	
+Provides a mathematical foundation essential to the entire computer science curriculum. Includes propositional and predicate logic, induction, recursion and counting techniques.
+/
+Linear Algebra
+An elementary study of linear algebra, including an examination of linear transformations and matrices over finite dimensional spaces.
+/
+Differential Equations I
+A study of first order equations including separation of variables and exact equations, second order equations including the general theory of initial value problems, constant coefficients, undetermined coefficients, variation of parameters and special methods of solution using power series and the Laplace transform methods. A standard course in differential equation for students in the sciences and engineering
+/
+A study of first order equations including separation of variables and exact equations, second order equations including the general theory of initial value problems, constant coefficients, undetermined coefficients, variation of parameters and special methods of solution using power series and the Laplace transform methods. A standard course in differential equation for students in the sciences and engineering
+General education math and natural sciences course. The first semester of a calculus-based physics sequence. Topics include motion, forces, energy, fluids, oscillations, waves and thermodynamics.
+/
+Physics for Scientists II
+General education math and natural sciences course. The second semester of a calculus-based physics sequence. Topics include electricity, magnetism, circuits, EM waves, light and selections from modern physics. 
+/
+University Physics Lab II
+General education math and natural sciences course. Lab experiments in electricity, magnetism and optics.
+/
+Engineering Probability and Statistics I
+Studies the concepts of probability theory, random variables, distributions, moments, sample statistics and hypothesis testing.
+/
+Senior Design Project I
+Senior Design Project I
+/
+Senior Design Project II
+Senior Design Project II
+/
+Microprocessor-Based System Design
+Presents knowledge and skills required to design and program microprocessor-based systems. Introduces vendor-supplied special-purpose chips such as interrupt controllers and programmable input/output devices.
+/
+Operating Systems
+Fundamental principles of modern operating systems. CPU management including processes, threads, scheduling, synchronization, resource allocation and deadlocks. Memory management including paging and virtual memory. Storage management and file systems
+/
+Electronic Circuits I	
+Introduces semiconductor devices and applications in discrete and integrated circuit design. Applications include, but are not limited to, op-amp circuits, rectification and transistor amplifiers
+/
+Computer Networks	
+First course on computer networking. Introduces OSI layers, direct link networks, packet switching, routing, end-to-end protocols and network applications
+/
+Data Structures
+Introduces basic data structures and covers their implementations using classes in C++. Includes lists, stacks, queues, binary trees and hash tables.
+/
+Thermodynamics I
+An introduction to the terminology and analysis techniques specific to thermodynamics centered around a study of the first and second laws of thermodynamics
+/
+Introduction to Computer Architecture
+Introduces multilevel approach to computer systems, with an emphasis on micro architecture and instruction set architecture levels. Also introduces techniques to improve performance such as cache memory and instruction level parallelism.
+/
+FPGA-Based System Design
+Introduces digital design concepts using field programmable gate arrays (FPGAs). Includes programmable logic devices, FPGA architecture, interconnect, digital design challenges, digital design process, and integrated circuit fabrication process. Presents digital design flow using FPGAs, and other technologies associated with field programmable gate arrays. Introduces the concept of Verilog programming. Uses CAD tool for circuit simulation.
+/
+Object-Oriented Programming
+Concepts of object-oriented programming. Covers data abstractions, classes and objects, methods, inheritance, polymorphism, dynamically-bound method calls and data encapsulation. Includes programming assignments in C++.
+/
+Programming with MATLAB for Electrical and Computer Engineers
+Develops a deeper understanding of electrical and computer engineering related programming and analysis. MATLAB is a strong high-level programming language which is popular in science and engineering fields. Once a student learns to develop solutions to electrical and computer engineering problems using MATLAB, the programming skills can be easily extended to other programming languages. These skills are critical for both industry and graduate studies. Course covers visualization, developing and solving equations for electrical and computer engineering, symbolic toolboxes, and advanced programming methods for electrical and computer engineering applications.
+/
+Circuits II
+Includes circuits with mutually coupled elements, transfer functions emphasizing frequency response, two-port networks, Laplace transforms and application to transient circuit analysis, and the application of computer-aided analysis software toward circuit analysis and design
+/
+Circuits I
+Electric circuit principles and methods of analysis. Includes DC circuits, network theorems, capacitance and inductance, AC circuit analysis, phasor plane techniques, complex power and balanced three-phase circuits.
+/
+Engineering Economy
+Economic comparisons of engineering alternatives considering the time value of money, taxes and depreciation; accounting and its relationship to economic analysis; replacement decisions.
+/
+Assembly Language Programming
+Introduces basic concepts of computer organization and operation. Studies machine and assembly language programming concepts that illustrate basic principles and techniques. Laboratory exercises given for experience using personal computers.
+/
+Introduction to Programming
+First course in computer programming in a high-level language. Emphasizes analyzing problems, designing solutions and expressing them in the form of a well-structured program using the procedural aspects of C++.
+/
+Introduction to Digital Design
+Introduces digital design concepts. Includes number systems, Boolean algebra, Karnaugh maps, combinational circuit design, adders, multiplexers, decoders, sequential circuit design, state diagram, flip flops, sequence detectors and test different combinational and sequential circuits. Uses CAD tools for circuit simulation.
+/
+

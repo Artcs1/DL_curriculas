@@ -1,0 +1,350 @@
+/
+The Bible and the Gospel
+An introductory course on the nature of the Bible, helpful tools
+for biblical interpretation, biblical practices that engender growing
+in spiritual maturity, and the Gospel-sharing task of all believers.
+Topics of emphasis include the content and appeal of the Gospel,
+the Holy Spirit’s role in inspiring the Bible and in applying the Bible
+to the believer’s life, gaining a valid interpretation of the author’s
+textual meaning, and the role of the local church in spiritual
+growth.
+/
+Chemistry for Engineers
+Fundamental concepts of chemistry are developed with
+applications of chemistry to engineering disciplines. Students
+learn measurement, number handling, the Periodic Table,
+descriptive properties of atoms, elements, molecules, and ions,
+chemical reactions, stoichiometry, chemical bonding, equilibrium,
+thermodynamics, gas laws, and the nature of solids and liquids. 
+/
+Fundamentals of Speech
+Public speaking and strong verbal communication skills are
+critical components of many careers. Students learn to inform
+others about ideas, advocate for a position, work in groups
+and teams, listen and critique messages, and practice conflict
+resolution. These skills are imperative to prepare students for an
+increasingly diverse workforce.
+/
+Object-Oriented Design Using C++
+Further development of student problem solving and
+programming skills beyond CS-1210 by increased exposure to
+the C++ language features including pointers, object-oriented
+language contructs and design principles, memory management
+mechanisms, exception handling, event-driven programming,
+and graphical user interfaces (GUI).
+/
+C++ Programming
+Introduction to computer programming, software engineering
+principles, structured program design and implementation, using
+the C++ programming language; students will become familiar
+with common commands for managing the file system and
+constructing programs in the Linux operating system. 
+/
+Digital Logic Design
+Introduction to digital logic design, number systems,
+Boolean algebra, Karnaugh maps, computer simulation tools,
+combinational network design, flip flops, counters, state machines,
+and sequential networks. 
+/
+Circuits
+Introduction to basic circuit analysis using Ohm’s law, Kirchoff’s
+laws, independent and dependent sources, Thévenin and Norton
+equivalency and source transformations, transient responses in
+RC, RL, and RLC circuits, phasor analysis of RLC circuits, power
+in AC circuits, introduction to 3-phase circuits, mutual inductance,
+frequency response, Transforms, Laplace circuit analysis,
+Fourier Series, and introduction to transfer functions. Computer
+simulations and bread-board circuits are constructed and
+evaluated in the laboratory. 
+/
+The Engineering Profession
+Introduction to the basic concepts and skills necessary to
+function effectively as a Christian engineer; ethical and moral
+issues in engineering practice and engineering computer
+applications. 
+/
+Engineering Graphics
+Introduction to basic techniques of sketching, drawing,
+dimensioning, multiple views, sectioning, multi-view projections,
+and pictorial views. Introduction to commercial software for threedimensional solid modeling and preparing engineering drawings. 
+/
+Calculus I
+First course of a two-course sequence covering basic concepts
+of analytic geometry and single variable calculus. Includes limits
+and single variable calculus. Includes limits and derivatives
+of algebraic and transcendental functions, applications of the
+derivative, single variable integration, including the Fundamental
+Theorem of Calculus and integration by substitution, and
+applications of integration, including solving differential equations
+and finding volumes of revolution. 
+/
+Calculus II
+The second course of a two-course sequence covering the
+basic concepts of analytic geometry and single variable calculus.
+Includes techniques of integration such as integration by parts,
+trigonometric substitution and partial fractions, improper integrals
+and L’Hopital’s rule, sequences, series, expansion of functions into
+Taylor and power series, conic sections, plane curves, calculus
+of parametric equations and polar coordinates, vectors and
+geometry in three-space, vector-valued functions and curvature.
+/
+General Physics I
+Basic concepts of mechanics using calculus. This is the
+first of a three-course sequence intended for students in the
+physical sciences and engineering programs. Topics include
+linear and rotational motion in three dimensions, oscillatory
+motion, gravitation, fluid mechanics, and basic concepts of wave
+motion
+/
+Old Testament Literature
+Survey of the entire Old Testament, giving special attention to
+authorship, historical background, and the theme of each book
+with attention to literary genre. This study traces the history of
+the Hebrew nation from its origin to the time of Jesus Christ. 
+/
+Data Structures Using Java
+Introduction to the proper use of data structures for
+developing efficient software; data structures include stacks,
+queues, priority queues, hash tables, trees, and graphs.
+Students will develop skill in object-oriented design and the Java
+programming language.
+/
+Operating Systems
+A state-of-the-art survey of operating system principles. Covers
+fundamental technology and contemporary design issues such as
+threads, real-time systems, multiprocessor scheduling, distributed
+systems, and security. Course content is developed through
+lectures, student research of the relevant literature, presentations,
+and programming projects using both C++ and Java. 
+/
+Computer Architecture
+Introduction to computer architecture with an emphasis on
+hardware, RISC vs. CISC, pipeline and vector processing, I/O,
+and memory hierarchy including caches. Students design and
+construct a small microprocessor using a logic simulator and then
+write an assembler for their processor. 
+/
+Statics and Mechanics of Materials
+Introduction to analyzing forces in isolated and connected rigidbody systems; vector analysis, forces, moments, resultants, twoand three-dimensional equilibrium, centroids, distributed loading,
+moment of inertia, friction, trusses, frames, and machines.
+Introduction to the theoretical and experimental analysis of
+deformable bodies subject to applied loads; normal and shear
+stress and strain, strain energy, torsion, stresses in beams,
+deflection of beams, combined stress, stress transformation,
+failure theories, and buckling of columns. Design project required. 
+/
+Composition
+Designed to assist the student in developing the skills
+necessary to meet the demands of typical writing situations,
+both academic and professional. The course will introduce the
+student to the common expository writing methods of description,
+narration, analysis, persuasion, and research presentation. 
+/
+Discrete Math for Computer Science
+An introduction to mathematical foundations of computer
+science, including propositional and predicate calculus, methods
+of proof, sets and relations, recurrences, graphs and trees, and
+program correctness and proofs
+/
+Differential Equations
+Study of the standard techniques employed in the solution of
+differential equations with emphasis on those arising from physical
+problems. 
+/
+General Physics II
+Basic concepts of electricity and magnetism, light, and optics
+using calculus. This is the second of a three-course sequence
+intended for students in the physical sciences and engineering
+programs. Topics include electricity, magnetism, Maxwell’s
+equations, DC and AC circuits, geometrical and physical
+optics. 
+/
+Physical Activity and Healthy Living
+Study of the role of physical activity in the Christian life from
+a scriptural, physiological, and psycho-sociological perspective. 
+/
+New Testament Literature
+Survey of the entire New Testament, including the historical
+background of the Inter-Testamental period, giving special
+attention to main events, the authorship and content of each
+book with attention to literary genre, and the unfolding of God’s
+redemptive purpose through the Lord Jesus Christ. 
+/
+Theology I
+An introductory reflection on the theological task, the doctrines
+of the triune God, creation and humanity, revelation, and sin
+by means of a conversation between the Bible and classic and
+contemporary theological literature. This theological reflection will
+be brought to bear on contemporary challenges. 
+/
+Algorithms
+Introduction to classical algorithms that have broad application
+in solving computer science problems; topics include analysis of
+algorithms, advanced data structures, graph algorithms, numerical
+methods, and NP-completeness. 
+/
+Microcontrollers
+Introduction to the fundamentals of microcontrollers and
+embedded systems, including microcontroller architecture,
+assembly and C programming, peripheral interfacing, data
+communications, and the cybersecurity concerns associated with
+microcontrollers and embedded systems.
+/
+Advanced Digital Logic Design
+Advanced treatment of digital logical design techniques and
+practices with emphasis on rapid electronic prototyping and
+effective use of advanced computer-aided design tools; schematic,
+textual, and VHDL design entry; arithmetic circuits, advanced
+finite-state machines, and advanced controller implementations.
+Three lecture hours per week with periodic integrated laboratory;
+multiple projects and laboratory experiences including a class
+design contest usually involving a robot.
+/
+Linear Systems
+Introduction to linear time-invariant analysis of continuous and
+discrete-time systems, using both time and frequency domain
+methods that include convolution, Fourier Series, Fourier, Laplace,
+and Z transforms; classical and computer solution methods are
+utilized. 
+/
+Electronics I
+Introduction to semiconductor electronic device theory and
+applications. Topics include ideal and nonideal operational
+amplifiers, diodes, field-effect transistors (FETs), and bipolarjunction transistors (BJTs). 
+/
+Professional Ethics
+Introduction to the theories of morality and philosophical issues
+of determining what is true and what is good. Applications are
+made to professional conduct, engineer-client relations, and
+product liability. Legal problems and the engineering code of
+ethics are discussed from a biblical perspective.
+/
+Politics and American Culture
+This course serves as an introductory study of America’s
+constitution and political institutions, with emphases on political
+participation, political culture, and public policy
+/
+Introduction to the Humanities
+Historical study of the relationship of music, art, and literature to
+the dominant cultural, religious, and philosophical trends and their
+relationship to Christian theism.
+/
+Design of Wood Structures
+Extension of structural design theory to cover design of wooden
+structures. Examination of both ASD and LRFD design criteria and
+both national and international design codes. Includes structural
+detailing and computer based structural analysis.
+/
+World Mythology
+Study of mythologies, the theories of myth and myth making,
+and the incorporation of myth in selected literary works.
+/
+Theology II
+An introductory reflection on the theological task, the doctrines
+of Christ, salvation, the Holy Spirit, the Church, and last things
+by means of a conversation between the Bible and classic and
+contemporary theological literature. This theological reflection
+will be brought to bear on contemporary challenges with a focus
+on developing the students’ practice of theological thinking. 
+/
+Advanced Computer Architecture
+Advanced study of computer architecture with an emphasis
+on performance, performance metrics, benchmarks, integer
+and floating point concepts, data-path and control, super-scalar
+processing and pipelining, memory hierarchy, I/O and peripherals,
+vector, array and parallel processors, and multiprocessors. 
+/
+Computer Networks
+This course is an introduction to computer networking. The
+course will present the layered network architecture of the internet
+and examine the services and functions that each layer performs.
+The wellknown protocols of each layer will be explored in-depth
+through written homework, programming assignments, and
+packet-capture labs (using Wireshark, for example). Important
+fundamental networking topics will be emphasized such as
+packet switching, addressing, performance measurement, reliable
+data transfer, and routing. Additional topics such as peer-to-peer
+networking, wireless and mobile networking, and the history of
+the internet will also be addressed. 
+/
+Computer Engineering Senior Design I
+Design and development of electronic products to meet
+specific requirements. Introduction to computer system design,
+power supply design, hardware-software co-design, software
+engineering, system performance trade-offs, electronic design
+tools, prototype methods, estimating and managing time and cost
+constraints, and project management.
+/
+Computer Engineering Senior Design II
+Student teams will complete their capstone project,
+submit weekly progress reports, prepare a formal final report, and
+make a formal design review presentation.
+/
+Senior Seminar
+Required weekly meeting of senior engineering and computer
+science majors to discuss the transition into the professional
+work environment. 
+/
+Thermal Systems
+Introduction to engineering thermodynamics, properties of pure
+substances, work, heat, enthalpy, and first law of thermodynamics.
+Introduction to conduction and convection modes of heat transfer.
+/
+Introduction to Biology
+Structure and function of plant and animal cells with emphasis
+in central concepts. 
+/
+CMOS VLSI Design
+Introduction to CMOS VLSI design with emphasis on circuit
+analysis, modeling, mask layout, simulation, and design
+verification; both theoretical concepts and CAD tools are used
+together for circuit design and verification. 
+/
+United States History I
+Survey and analysis of the development of the United States
+from the colonial period through Reconstruction. The course
+examines ethnic, social, military, political, economic, and
+ideological themes in order to achieve a broad understanding of
+American civilization to 1877. Attention is given to the dominant
+Christian influences that have tended to shape our cultural, social,
+and political development.
+/
+Introduction to Arabic Language and Culture
+Introduction of the Arabic script and basic vocabulary used for
+greetings and other everyday situations. Introduction to various
+aspects of Arab culture, including history, religion, literature,
+politics, and daily life. 
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/

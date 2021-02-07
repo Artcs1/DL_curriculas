@@ -1,0 +1,329 @@
+/
+C++ Programming
+Introduction to computer programming, software engineering
+principles, structured program design and implementation, using
+the C++ programming language; students will become familiar
+with common commands for managing the file system and
+constructing programs in the Linux operating system.
+/
+Object-Oriented Design Using C++
+Further development of student problem solving and
+programming skills beyond CS-1210 by increased exposure to
+the C++ language features including pointers, object-oriented
+language contructs and design principles, memory management
+mechanisms, exception handling, event-driven programming,
+and graphical user interfaces (GUI). 
+/
+Data Structures Using Java
+Introduction to the proper use of data structures for
+developing efficient software; data structures include stacks,
+queues, priority queues, hash tables, trees, and graphs.
+Students will develop skill in object-oriented design and the Java
+programming language. 
+/
+Programming Language Survey
+Systematic study of the principles, concepts, and mechanisms
+of computer programming languages: their syntax, semantics,
+and pragmatics; the processing and interpretation of computer
+programs; programming paradigms; and language design.
+Illustrative examples will be selected and programming exercises
+will be assigned from a variety of programming languge
+paradigms.
+/
+Web Applications
+Introduction to the design and implementation of web-based
+applications. Technologies such as HTML5, CSS3, Javascript,
+JQuery, PHP, Java Servlets, XML, and MySQL are explored.
+Multiple design projects required.
+/
+Operating Systems
+A state-of-the-art survey of operating system principles. Covers
+fundamental technology and contemporary design issues such as
+threads, real-time systems, multiprocessor scheduling, distributed
+systems, and security. Course content is developed through
+lectures, student research of the relevant literature, presentations,
+and programming projects using both C++ and Java. 
+/
+Foundations of Computer Security
+Introduction to computer security, including basic concepts,
+security policy, access control, authentication and key control,
+and cryptography
+/
+Algorithms
+Introduction to classical algorithms that have broad application
+in solving computer science problems; topics include analysis of
+algorithms, advanced data structures, graph algorithms, numerical
+methods, and NP-completeness. 
+/
+Compiler Theory and Practice
+Introduction to the foundational technology of modern
+compilers, with emphasis on underlying theory and practical
+techniques for implementing a compiler by applying objectoriented and appropriate data structures. 
+/
+Database Organization and Design
+Introduction to the analysis, design, and implementation of
+relational databases and the Structured Query Language (SQL);
+topics include data modeling techniques, data model to logical
+schema conversion techniques, relational algebra, SQL, database
+file organizations, query evaluation, transaction management, and
+client-server application architectures. 
+/
+Software Engineering I
+The capstone design experience for computer science majors.
+Introduction to software engineering principles focusing on
+requirement development, detailed design, project scheduling and
+management, quality assurance, and testing. 
+/
+Software Engineering II
+Student teams will complete the implementation, testing, and release of their
+capstone project, submit regular progress reports, prepare a final
+report, and make a formal project presentation. 
+/
+Digital Logic Design
+Introduction to digital logic design, number systems,
+Boolean algebra, Karnaugh maps, computer simulation tools,
+combinational network design, flip flops, counters, state machines,
+and sequential networks. 
+/
+Computer Architecture
+Introduction to computer architecture with an emphasis on
+hardware, RISC vs. CISC, pipeline and vector processing, I/O,
+and memory hierarchy including caches. 
+/
+Computer Networks
+This course is an introduction to computer networking. The
+course will present the layered network architecture of the internet
+and examine the services and functions that each layer performs.
+The wellknown protocols of each layer will be explored in-depth
+through written homework, programming assignments, and
+packet-capture labs (using Wireshark, for example). Important
+fundamental networking topics will be emphasized such as
+packet switching, addressing, performance measurement, reliable
+data transfer, and routing.
+/
+Professional Ethics
+Introduction to the theories of morality and philosophical issues
+of determining what is true and what is good. Applications are
+made to professional conduct, engineer-client relations, and
+product liability. Legal problems and the engineering code of
+ethics are discussed from a biblical perspective.
+/
+Senior Seminar
+Required weekly meeting of senior engineering and computer
+science majors to discuss the transition into the professional
+work environment.
+/
+Discrete Math and Probability Principles for Computer Science
+An introduction to mathematical foundations of computer
+science, including propositional and predicate calculus, methods
+of proof, sets and relations, recurrences, program correctness
+and proofs, probability models, random variables, probability
+distributions, estimation, and hypothesis testing. 
+/
+Computer Graphics
+Introduction to three-dimensional computer graphics and
+computer game content creation and programming. Topics
+include geometric modeling and common game engine
+capabilities; techniques for enhancing realism such as local
+lighting effects, texture, transparency, and physical modeling; and
+common computations in the rendering pipeline such as model
+transformations, clipping and culling, shading, rasterization and
+collision detection
+/
+Linux Systems Programming
+A study of the Linux operating system with special emphasis
+given to developing low-level programming skills in C and
+assembly language for the purpose of understanding Linux’s
+separation of user- and kernel-space features, system code,
+and how to develop kernel modules. In addition to the emphasis
+on low-level programming, students will study various system
+administration skills, scripting languages, administration
+and programming tools, and gain a better understanding of
+capabilities and limitations of the Linux operating systems (O/S). 
+/
+Cyber Operations
+This course covers cyber operations and the best practices
+for securing a technology infrastructure. Topics covered include
+offensive cyber operations, cyber-related legal precedents and
+regulations, wired and wireless network security, intrusion
+detection and prevention systems, system hardening, and defense
+in-depth. 
+/
+The Bible and the Gospel
+An introductory course on the nature of the Bible, helpful tools
+for biblical interpretation, biblical practices that engender growing
+in spiritual maturity, and the Gospel-sharing task of all believers.
+Topics of emphasis include the content and appeal of the Gospel,
+the Holy Spirit’s role in inspiring the Bible and in applying the Bible
+to the believer’s life, gaining a valid interpretation of the author’s
+textual meaning, and the role of the local church in spiritual
+growth.
+/
+Old Testament Literature
+Survey of the entire Old Testament, giving special attention to
+authorship, historical background, and the theme of each book
+with attention to literary genre. This study traces the history of
+the Hebrew nation from its origin to the time of Jesus Christ. 
+/
+Composition
+Designed to assist the student in developing the skills
+necessary to meet the demands of typical writing situations,
+both academic and professional. The course will introduce the
+student to the common expository writing methods of description,
+narration, analysis, persuasion, and research presentation. 
+/
+Calculus I
+First course of a two-course sequence covering basic concepts
+of analytic geometry and single variable calculus. Includes limits
+and single variable calculus. Includes limits and derivatives
+of algebraic and transcendental functions, applications of the
+derivative, single variable integration, including the Fundamental
+Theorem of Calculus and integration by substitution, and
+applications of integration, including solving differential equations
+and finding volumes of revolution.
+/
+Calculus II
+The second course of a two-course sequence covering the
+basic concepts of analytic geometry and single variable calculus.
+Includes techniques of integration such as integration by parts,
+trigonometric substitution and partial fractions, improper integrals
+and L’Hopital’s rule, sequences, series, expansion of functions into
+Taylor and power series, conic sections, plane curves, calculus
+of parametric equations and polar coordinates, vectors and
+geometry in three-space, vector-valued functions and curvature.
+/
+General Physics I
+Basic concepts of mechanics using calculus. This is the
+first of a three-course sequence intended for students in the
+physical sciences and engineering programs. Topics include
+linear and rotational motion in three dimensions, oscillatory
+motion, gravitation, fluid mechanics, and basic concepts of wave
+motion. 
+/
+Physical Activity and Healthy Living
+Study of the role of physical activity in the Christian life from
+a scriptural, physiological, and psycho-sociological perspective.
+Emphasis is placed upon developing and continuing active,
+healthy, Christian life practices. 
+/
+New Testament Literature
+Survey of the entire New Testament, including the historical
+background of the Inter-Testamental period, giving special
+attention to main events, the authorship and content of each
+book with attention to literary genre, and the unfolding of God’s
+redemptive purpose through the Lord Jesus Christ.
+/
+Theology I
+An introductory reflection on the theological task, the doctrines
+of the triune God, creation and humanity, revelation, and sin
+by means of a conversation between the Bible and classic and
+contemporary theological literature. This theological reflection will
+be brought to bear on contemporary challenges. 
+/
+Cyber Operations
+This course covers cyber operations and the best practices
+for securing a technology infrastructure. Topics covered include
+offensive cyber operations, cyber-related legal precedents and
+regulations, wired and wireless network security, intrusion
+detection and prevention systems, system hardening, and defense
+in-depth. 
+/
+Fundamentals of Speech
+Public speaking and strong verbal communication skills are
+critical components of many careers. Students learn to inform
+others about ideas, advocate for a position, work in groups
+and teams, listen and critique messages, and practice conflict
+resolution.
+/
+General Physics II
+Basic concepts of electricity and magnetism, light, and optics
+using calculus. This is the second of a three-course sequence
+intended for students in the physical sciences and engineering
+programs. Topics include electricity, magnetism, Maxwell’s
+equations, DC and AC circuits, geometrical and physical
+optics.
+/
+Advanced Digital Logic Design
+Advanced treatment of digital logical design techniques and
+practices with emphasis on rapid electronic prototyping and
+effective use of advanced computer-aided design tools; schematic,
+textual, and VHDL design entry; arithmetic circuits, advanced
+finite-state machines, and advanced controller implementations.
+Three lecture hours per week with periodic integrated laboratory;
+multiple projects and laboratory experiences including a class
+design contest usually involving a robot.
+/
+Theology II
+An introductory reflection on the theological task, the doctrines
+of Christ, salvation, the Holy Spirit, the Church, and last things
+by means of a conversation between the Bible and classic and
+contemporary theological literature. This theological reflection
+will be brought to bear on contemporary challenges with a focus
+on developing the students’ practice of theological thinking. 
+/
+SoftWare Security
+A detailed look at issues involved in providing secure software
+systems. Students will study principles and practices of software
+development that result in software that is robust and secure from
+attack. Students will learn techniques for analyzing software to
+determine whether it contains weaknesses that are vulnerable
+to exploitation. Students will also explore reverse engineering
+of software to understand the design of an existing software
+component to determine its security and whether it could contain
+malware. 
+/
+Politics and American Culture
+This course serves as an introductory study of America’s
+constitution and political institutions, with emphases on political
+participation, political culture, and public policy.
+/
+Introduction to the Humanities
+Historical study of the relationship of music, art, and literature to
+the dominant cultural, religious, and philosophical trends and their
+relationship to Christian theism.
+/
+United States History I
+Survey and analysis of the development of the United States
+from the colonial period through Reconstruction. The course
+examines ethnic, social, military, political, economic, and
+ideological themes in order to achieve a broad understanding of
+American civilization to 1877. Attention is given to the dominant
+Christian influences that have tended to shape our cultural, social,
+and political development.
+/
+Parallel Computing
+Introduction to the exploitation of parallelism to solve
+computational intensive problems; emphasis is placed on both the
+message passing (using MPI) and the shared memory paradigms;
+projects are required using both paradigms. 
+/
+Professional Ethics
+Introduction to the theories of morality and philosophical issues
+of determining what is true and what is good. Applications are
+made to professional conduct, engineer-client relations, and
+product liability. Legal problems and the engineering code of
+ethics are discussed from a biblical perspective.
+/
+Senior Seminar
+Required weekly meeting of senior engineering and computer
+science majors to discuss the transition into the professional
+work environment.
+/
+Principles of Biology
+Emphasizes basic life processes and the principles by
+which these processes operate at the ecological, organismic,
+and cellular levels of organization with emphasis on human
+responsibility toward life at all levels. 
+/
+Literary Analysis
+Introductory study of contextual analysis. This course is
+primarily intended for adolescent and young adult integrated
+language arts and English majors as preparation for upper-division
+literature courses. 
+/
+Cultural Anthropology
+Analysis of the concept and its importance for the study of man;
+an examination of various cultures of the world as they relate to
+technological, economic, social, political, and religious aspects of
+these cultures.
+/

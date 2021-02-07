@@ -1,0 +1,185 @@
+Introduction to Computer Science: Java
+Continuation of the Java language and of programming techniques. More on Inheritance. Exception handling.  
+/
+Introduction to Computer Science and Object-Oriented Programming: Java
+Introduction to computer science and programming using the Java language. Basic UNIX. Modularity and abstraction. Documentation, testing and verification techniques. Basic object-oriented programming including inheritance and dynamic binding. Exception handling. Event driven programming. Experience with AWT library or other similar library.
+/
+Basic Data Structures and Object-Oriented Design
+Use and implementation of basic data structures including linked lists, stacks, and queues. Use of advanced structures such as binary trees and hash tables. Object-oriented design including interfaces, polymorphism, encapsulation, abstract data types, pre-/post-conditions. Recursion. Uses Java and Java Collections. 
+/
+Software Tools and Techniques Laboratory
+Hands on exploration of software development tools and techniques.  Investigation of the scientific process as applied to the development and debugging of programs. Introduction to and practice with specific software tools and techniques to aid in coherent software development processes. Emphasis is on weekly hands-on laboratory experiences including pre- and post-lab work, development of laboratory notebooking techniques as applied to software design.
+/
+Introduction to Discrete Mathematics
+Basic discrete mathematical structures: sets, relations, functions, sequences, equivalence relations, partial orders, number systems. Methods of reasoning and proofs: prepositional logic, predicate logic, induction, recursion, pigeonhold principle. Infinite sets and diagonalization. Basic counting techniques; permutation and combinations. Applications will be given to digital logic design, elementary number theory, design of programs, and proofs of program correctness.
+/
+Mathematics for Algorithm and Systems
+This course will provide an introduction to the discrete mathematical tools needed to analyze algorithms and systems. Enumerative combinatorics: basic counting principles, inclusion-exclusion, and generating functions. Matrix notation. Applied discrete probability. Finite automata.
+/
+Computer Organization and Systems Programming
+Introduction to organization of modern digital computers - understanding the various components of a computer and their interrelationships. Study of a specific architecture/machine with emphasis on systems programming in C and Assembly languages in a UNIX environment.
+/
+Introduction to Discrete Mathematics
+Basic discrete mathematical structure: sets, relations, functions, sequences, equivalence relations, partial orders, and number systems. Methods of reasoning and proofs: propositional logic, predicate logic, induction, recursion, and pigeonhole principle. Infinite sets and diagonalization. Basic counting techniques; permutation and combinations. Applications will be given to digital logic design, elementary number theory, design of programs, and proofs of program correctness
+/
+Fluency in Information Technology
+Introduces the concepts and skills necessary to effectively use information technology. Includes basic concepts and some practical skills with computers and networks.
+/
+Mathematical Beauty in Rome
+Exploration of topics in computing, engineering, and mathematics, applied to classical architecture in Rome, Italy. In-depth geometrical analysis and computer modeling of basic structures (arches, vaults, domes), and on-site studies of the Colosseum, Pantheon, Roman Forum, and St. Peter's Basilica. Concurrent enrollment required in 4GS and 6GS.
+/
+Introduction to Programming I
+Introduction to algorithms and top-down problem solving. Introduction to the C language, including functions, arrays, and standard libraries. Basic skills for using a PC graphical user interface operating system environment. File maintenance utilities are covered.
+/
+Mathematical Beauty in Rome Lab
+Companion course to CSE 4GS where theory is applied and lab experiments are carried out "in the field" in Rome, Italy. For final projects, students will select a complex structure (e.g., the Colosseum, the Pantheon, St. Peter's, etc.) to analyze and model, in detail, using computer-based tools. Concurrent enrollment required in 4GS and 6GS.
+/
+Matlab Programming for Engineering Analysis
+Computer programming in Matlab with elementary numerical analysis of engineering problems. Arithmetic and logical operations, arrays, graphical presentation of computations, symbolic mathematics, solutions of equations, and introduction to data structures.
+/
+Thermodynamics
+Fundamentals of engineering thermodynamics: energy, work, heat, properties of pure substances, first and second laws for closed systems and control volumes, gas mixtures. Application to engineering systems, power and refrigeration cycles, combustion
+/
+Cognitive Consequences of Technology
+This course examines the interrelationships of cognition and technology from the perspective of cognitive science. We address questions of importance for our increasingly technological society: How does technology shape our minds? How should what we know about our minds shape technology?
+/
+Introduction to Python 
+This class will teach fundamental Python programming skills and practices, including the “Zen of Python.” Students will focus on scientific computing and learn to write functions and tests, as well as how to debug code using the Jupyter Notebook programming environment.
+/
+Engineering Computation
+Students learn the C programming language with an emphasis on high-performance numerical computation. The commonality across programming languages of control structures, data structures, and I/O is also covered. Techniques for using Matlab to graph the results of C computations are developed.
+/
+UNIX Lab
+The objective of the course is to help the programmer create a productive UNIX environment. Topics include customizing the shell, file system, shell programming, process management, and UNIX tools
+/
+C++ for Java Programmers
+Helps the Java programmer to be productive in the C++ programming environment. Topics include the similarities and differences between Java and C++ with special attention to pointers, operator overloading, templates, the STL, the preprocessor, and the C++ Runtime Environment.
+/
+Undergraduate Seminar
+A seminar providing an overview of a topic of current research interest to the instructor. The goal is to present a specialized topic in computer science and engineering students. May be taken for credit three times when topics vary. 
+/
+Perspectives in Computer Science and Engineering
+A seminar format discussion led by CSE faculty on topics in central areas of computer science, concentrating on the relation among them, recent developments, and future directions.
+/
+Independent Study in Computer Science and Engineering
+Independent reading or research by special arrangement with a faculty member.
+/
+Calculus for Science and Engineering I
+Foundations of differential and integral calculus of one variable. Functions, graphs, continuity, limits, derivative, tangent line. Applications with algebraic, exponential, logarithmic, and trigonometric functions. Introduction to the integral.
+/
+Calculus for Science and Engineering II
+Integral calculus of one variable and its applications, with exponential, logarithmic, hyperbolic, and trigonometric functions. Methods of integration. Infinite series. Polar coordinates in the plane and complex exponentials. 
+/
+Calculus and Analytic Geometry for Science and Engineering
+Vector geometry, vector functions and their derivatives. Partial differentiation. Maxima and minima. Double integration.
+/
+Introduction to Differential Equations
+Ordinary differential equations: exact, separable, and linear; constant coefficients, undetermined coefficients, variations of parameters. Systems. Series solutions. Laplace transforms. Techniques for engineering sciences. Computing symbolic and graphical solutions using Matlab
+/
+Vector Calculus
+Change of variable in multiple integrals, Jacobian, Line integrals, Green’s theorem. Vector fields, gradient fields, divergence, curl. Spherical/cylindrical coordinates. Taylor series in several variables. Surface integrals, Stoke’s theorem. Gauss’ theorem. Conservative fields.
+/
+Physics—Mechanics
+A calculus-based science-engineering general physics course covering vectors, motion in one and two dimensions, Newton’s first and second laws, work and energy, conservation of energy, linear momentum, collisions, rotational kinematics, rotational dynamics, equilibrium of rigid bodies, oscillations, gravitation. 
+/
+Physics—Electricity and Magnetism
+Continuation of Physics 2A covering charge and matter, the electric field, Gauss’s law, electric potential, capacitors and dielectrics, current and resistance, electromotive force and circuits, the magnetic field, Ampere’s law, Faraday’s law, inductance, electromagnetic oscillations, alternating currents and Maxwell’s equations.
+/
+Physics—Fluids, Waves, Thermodynamics, and OpticsContinuation of Physics 2B covering fluid mechanics, waves in elastic media, sound waves, temperature, heat and the first law of thermodynamics, kinetic theory of gases, entropy and the second law of thermodynamics, Maxwell’s equations, electromagnetic waves, geometric optics, interference and diffraction. 
+/
+Introduction to Analog Design
+Fundamental circuit theory concepts, Kirchoff’s voltage and current laws, Thevenin’s and Norton’s theorems, loop and node analysis, time-varying signals, transient first order circuits, steady-state sinusoidal response. MATH 20C and PHYS 2B must be taken concurrently. Program or materials fees may apply. 
+/
+Circuits and Systems
+Steady-state circuit analysis, first and second order systems, Fourier Series and Transforms, time domain analysis, convolution, transient response, Laplace Transform, and filter design.
+/
+Components and Circuits Laboratory
+Introduction to linear and nonlinear components and circuits. Topics will include: two terminal devices, bipolar and field-effect transistors, and large and small signal analysis of diode and transistor circuits
+/
+Engineering Probability and Statistics
+Axioms of probability, conditional probability, theorem of total probability, random variables, densities, expected values, characteristic functions, transformation of random variables, central limit theorem. Random number generation, engineering reliability, elements of estimation, random sampling, sampling distributions, tests for hypothesis.
+/
+Advanced Data Structures
+High-performance data structures and supporting algorithms. Use and implementation of data structures like (un)balanced trees, graphs, priority queues, and hash tables. Also memory management, pointers, recursion. Theoretical and practical performance analysis, both average case and amortized. Uses C++ and STL
+/
+Design and Analysis of Algorithms 
+Design and analysis of efficient algorithms with emphasis of nonnumerical algorithms such as sorting, searching, pattern matching, and graph and network algorithms. Measuring complexity of algorithms, time and storage. NP-complete problems
+/
+Software Engineering
+Introduction to software development and engineering methods, including specification, design, implementation, testing, and process. An emphasis on team development, agile methods, and use of tools such as IDE’s, version control, and test harnesses
+/
+Principles of Computer Operating Systems
+Basic functions of operating systems; basic kernel structure, concurrency, memory management, virtual memory, file systems, process scheduling, security and protection
+/
+Components and Design Techniques for Digital Systems
+Design of Boolean logic and finite state machines; two-level, multilevel combinational logic design, combinational modules and modular networks, Mealy and Moore machines, analysis and synthesis of canonical forms, sequential modules.
+/
+Digital Systems Laboratory
+Implementation with computer-aided design tools for combinational logic minimization and state machine synthesis. Hardware construction of a small digital system.
+/
+Introduction to Computer Architecture
+Introduction to computer architecture. Computer system design. Processor design. Control design. Memory systems.
+/
+Project in Computer Architecture
+Hands-on computer architecture project aiming to familiarize students with instruction set architecture, and design of process. Control and memory systems. 
+/
+Linear Systems Fundamentals
+Complex variables. Singularities and residues. Signal and system analysis in continuous and discrete time. Fourier series and transforms. Laplace and z-transforms. Linear Time Invariant Systems. Impulse response, frequency response, and transfer functions. Poles and zeros. Stability. Convolution. Sampling. Aliasing.
+/
+Digital Circuits
+A transistor-level view of digital integrated circuits. CMOS combinational logic, ratioed logic, noise margins, rise and fall delays, power dissipation, transmission gates. Short channel MOS model, effects on scaling. Sequential circuits, memory and array logic circuits. Three hours of lecture, one hour of discussion, three hours of laboratory.
+/
+Advanced Digital Design Project
+Advanced topics in digital circuits and systems. Use of computers and design automation tools. Hazard elimination, synchronous/asynchronous FSM synthesis, synchronization and arbitration, pipelining and timing issues. Problem sets and design exercises. A large-scale design project. Simulation and/or rapid prototyping.
+/
+Computer Interfacing
+Interfacing computers and embedded controllers to the real world: busses, interrupts, DMA, memory mapping, concurrency, digital I/O, standards for serial and parallel communications, A/D, D/A, sensors, signal conditioning, video, and closed loop control.
+/
+Engineering Design
+Students complete a project comprising at least 50 percent or more engineering design to satisfy the following features: student creativity, open-ended formulation of a problem statement/specifications, consideration of alternative solutions/realistic constraints. Written final report required.
+/
+Engineering Group Design Project
+Groups of students work to design, build, demonstrate, and document an engineering project. All students give weekly progress reports of their tasks and contribute a section to the final project report.
+/
+Honors Project
+An advanced reading or research project performed under the direction of an ECE faculty member. Must contain enough design to satisfy the ECE program’s four-unit design requirement. Must be taken for a letter grade. May extend over two quarters with a grade assigned at completion for both quarters.
+/
+Viacar Design Project
+Students design, build, and race an autonomous car using principles in electrical engineering and computer science: circuit design, control theory, digital signal processing, embedded systems, microcontrollers, electromagnetism, and programming.
+/
+Teaching
+Teaching and tutorial activities associated with courses and seminars.
+/
+Engineering Hands-on Group Project
+Groups of students work to build and demonstrate at least three engineering projects at the beginning, intermediate, and advanced levels. The final project consists of either a new project designed by the student team or extension of an existing project. The student teams also prepare a manual as part of their documentation of the final project.
+/
+ECE Internship
+An enrichment program that provides work experience with public/private section employers. Subject to the availability of positions, students will work in a local company under the supervision of a faculty member and site supervisor.
+/
+Directed Group Study
+Topics in electrical and computer engineering whose study involves reading and discussion by a small group of students under direction of a faculty member.
+/
+Topics in Computer Science and Engineering
+Topics of special interest in computer science and engineering. Topics may vary from quarter to quarter. May be repeated for credit with the consent of instructor.
+/
+Seminar in CSE
+A seminar course on topics of current interest. Students, as well as, the instructor will be actively involved in running the course/class.
+/
+Senior Seminar in Computer Science and Engineering
+The Senior Seminar Program is designed to allow senior undergraduates to meet with faculty members in a small group setting to explore an intellectual topic in CSE (at the upper-division level).
+/
+Introduction to Computer Science Research
+Introduction to research in computer science. Topics include defining a CS research problem, finding and reading technical papers, oral communication, technical writing, and independent learning.
+/
+Teaching (4)
+Teaching and tutorial assistance in a CSE course under the supervision of the instructor.
+/
+Field Study in Computer Science and Engineering
+Directed study and research at laboratories away from the campus.
+/
+Directed Group Study
+Computer science and engineering topics whose study involves reading and discussion by a small group of students under the supervision of a faculty member.
+/
+
+
+

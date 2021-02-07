@@ -1,0 +1,237 @@
+/
+General Chemistry I
+This course is an introduction to important concepts and principles of chemistry with a focus on the following topics: atomic
+structure and periodic properties, stoichiometry, properties of gases, thermochemistry, chemical bond types, intermolecular
+forces, liquids and solids and a brief introduction to chemical kinetics, organic chemistry and materials chemistry. 
+/
+General Chemistry Laboratory I 
+Experiments of atomic spectra, stoichiometric analysis, qualitative analysis, and
+organic and inorganic syntheses.
+/
+Engineering Experiences I 
+This course consists of a set of engineering experiences such as lectures, small group sessions, on-line modules and visits.
+Students are required to complete a specified number of experiences during the semester. The goal is to introduce students
+to the engineering profession, engineering disciplines, college success strategies, Stevens research and other engaging
+activities. 
+/
+Engineering Design I: Introduction to Systems Thinking 
+This course introduces students to the process of design and seeks to engage their enthusiasm for engineering from the very
+beginning of the program. The engineering method is used in the design and manufacture of a product. Product dissection
+is exploited to evaluate how others have solved design problems. Development is started of competencies in professional
+practice topics, primarily: effective group participation, project management, cost estimation, communication skills and
+ethics. 
+/
+Engineering Graphics
+Engineering graphics: principles of orthographic and auxiliary projections, pictorial presentation of engineering designs,
+dimensioning and tolerance, sectional and detail views, assembly drawings. Descriptive geometry. Engineering figures and
+graphs. Solid modeling introduction to computer-aided design and manufacturing (CAD/CAM) using numerically-controlled
+(NC) machines.
+/
+Introduction to Programming
+An introduction to the use of an advanced programming language for use in engineering applications, using C++ as the basic
+programming language and Microsoft Visual C++ as the program development environment. Topics covered include basic
+syntax (data types and structures, input/output instructions, arithmetic instructions, loop constructs, functions, subroutines,
+etc.) needed to solve basic engineering problems as well as an introduction to advanced topics (use of files, principles of
+objects and classes, libraries, etc.). Algorithmic thinking for development of computational programs and control programs
+from mathematical and other representations of the problems will be developed.
+/
+Integral Calculus 
+Definite integrals of functions of one variable, antiderivatives, the two versions of the Fundamental Theorem of Calculus,
+integration techniques including substitution, integration by parts, inverse trigonometric substitutions, and partial fraction
+decompositions; improper integrals, L’Hospital’s Rule, applications to geometry and physics including calculation of areas,
+volumes, and work done by a variable force. 
+/
+Differential Calculus
+Limits and derivatives of functions of one variable including the trigonometric, inverse trigonometric, logarithmic and exponential
+functions; differentiation rules, implicit differentiation, geometric and physical interpretations of the derivative, applications of
+the derivative including optimization and sketching graphs of one variable functions. 
+/
+Writing And Communications Colloquium
+This course empowers students with the written and oral communications skills
+they need for university-level academic discourse and thoughtful global citizenship. The mission of the course is to help
+students develop their skills in the following essential areas: connective and innovative thinking about complex global issues;
+composition, structure and argumentation; grammatical and stylistic sophistication; critical reading and textual analysis;
+research and investigation; group work and mutual evaluation; and polished public speaking using visual aids. 
+/
+Engineering Design II: Field Sustainable Systems with Sensors 
+This course will continue the freshman year experience in design. The engineering method introduced in Engineering Design
+I will be reinforced. Further introduction of professional practice topics will be linked to their application and testing in case
+studies and project work. 
+/
+Series, Vectors, Functions, and Surfaces
+Taylor polynomials and series, functions of two and three variables, linear functions, implicit functions, vectors in two and
+three dimensions.
+/
+Calculus of Two Variables
+Partial derivatives, the tangent plane and linear approximation, the gradient and directional derivatives, the chain rule,
+implicit differentiation, extreme values, application to optimization, double integrals in rectangular coordinates. 
+/
+Mechanics 
+Vectors, kinetics, Newton’s laws, dynamics or particles, work and energy, friction, conserverative forces, linear momentum,
+center-of-mass and relative motion, collisions, angular momentum, static equilibrium, rigid body rotation, Newton’s law of
+gravity, simple harmonic motion, wave motion and sound. 
+/
+CAL Colloquium: Knowledge, Nature, Culture 
+This course introduces students to enduring questions and methods of inquiry that drive research and creative endeavors in
+the College of Arts and Letters. Drawing on multiple ethical, cultural, and disciplinary perspectives, each faculty member will
+select a theme designed to help students deepen their understanding of a social-cultural phenomenon by examining it from
+different points of view. 
+/
+Introduction to Entrepreneurial Thinking
+Entrepreneurial thinking enables engineers to design value-added products and processes that delights the customer and
+creates a superior business model. This course teaches students a new way of problem solving, finding unique fit between
+a real-world problem and a new solution. Learning objectives include, teaming and leadership skills, obtaining information
+through customer discovery, enhancing presentation skills, and techniques for assessing a new idea; including customer
+and value analysis, competition analysis, and basic financial analysis.
+/
+Differential Equations 
+Ordinary differential equations of first and second order, homogeneous and non-homogeneous equations; improper
+integrals, Laplace transforms; review of infinite series, series solutions of ordinary differential equations near an ordinary
+point; boundary-value problems; orthogonal functions; Fourier series; separation of variables for partial differential equations. 
+/
+Electricity and Magnetism
+Coulomb’s law, concepts of electric field and potential, Gauss’ law, capacitance, current and resistance, DC and R-C transient
+circuits, magnetic fields, Ampere’s law, Faraday’s law of induction, inductance, A/C circuits, electromagnetic oscillations,
+Maxwell’s equations and electromagnetic waves.
+/
+Mechanics of Solids 
+Fundamental concepts of particle statics, equivalent force systems, equilibrium of rigid bodies, analysis of trusses and
+frames, forces in beam and machine parts, stress and strain, tension, shear and bending moment, flexure, combined
+loading, energy methods, statically indeterminate structures
+/
+Circuits and Systems 
+Ideal circuit elements; Kirchoff laws and nodal analysis; source transformations; Thevenin/Norton theorems; operational
+amplifiers; response of RL, RC and RLC circuits; sinusoidal sources and steady state analysis; analysis in frequency domain;
+average and RMS power; linear and ideal transformers; linear models for transistors and diodes; analysis in the s-domain;
+Laplace transforms; transfer functions.
+/
+Engineering Design III: Structural Performance and Failure 
+This course continues the experiential sequence in design. Design projects are linked with Mechanics of Solids topics taught
+concurrently. 
+/
+Physical Education I
+Physical Education I
+/
+Discrete Mathematics
+This course provides the background necessary for advanced study of mathematics or computer science. Topics include
+propositional calculus, predicates and quantifiers, elementary set theory, countability, functions, relations, proof by induction,
+elementary combinatorics, elements of graph theory, mends, and elements of complexity theory. 
+/
+Engineering Design IV: Systems with Analog Circuits
+This course continues the experiential sequence in design. Design projects and lectures address the area of electronics and
+instrumentation.
+/
+Thermodynamics 
+This course introduces students to concepts of energy, energy transfer and analysis. Major thermodynamic devices such as heat
+exchangers, turbines and compressors will be discussed in the context of the first and second laws of thermodynamics along
+with the required property relationships and equations necessary to analyze these systems. The fundamental mechanisms
+of heat transfer will also be presented before the course culminates with a discussion of integrated thermodynamic systems
+and cycles such as refrigeration and air conditioning units.
+/
+Computational Data Structures and Algorithms 
+The role of data structures and algorithms in the real world; principles of programming including the topics of control
+flow, recursion and I/O; principles of computational intelligence; topics from elementary data structures including arrays,
+lists, stacks, queues, pointers, strings; searching and sorting; data structures for concurrent execution; topics from
+elementary algorithms including analysis of algorithms and efficiency, computational complexity, empirical measurements
+of computational complexity of algorithms, proof techniques including induction; selected topics from advanced algorithms
+including distributed algorithms; programming laboratory exercises and projects. 
+/
+Microprocessor Systems 
+A study of the implementation of digital systems using microprocessors. The architecture and operation of microprocessors is
+examined in detail along with I/O interfacing, interrupts, DMA and software design techniques. Specialized controller chips for
+interrupts, DMA, arithmetic processing, graphics and communications are discussed. The laboratory component introduces
+hardware and software design of digital systems using microprocessors. 
+/
+Physical Education II
+Physical Education II
+/
+Transport Phenomena in Solid State Devices
+Introduction to the underlying phenomena and operation of solid state electronic, magnetic and optical devices essential
+in the functioning of computers, communications and other systems currently being designed by engineers and scientists.
+Charge carrier concentrations and their transport are analyzed from both microscopic and macroscopic viewpoints, carrier
+drift due to electric and magnetic fields in solid state devices is formulated and optical energy absorption and emission
+are related to the energy levels in solid-state materials. Diffusion, generation and recombination of charge carriers are
+combined with carrier drift to produce a continuity equation for the analysis of solid state devices. 
+/
+Materials Processing 
+An introduction is provided to the important engineering properties of materials, to the scientific understanding of those properties
+and to the methods of controlling them. This is provided in the context of the processing of materials to produce products. 
+/
+Engineering Design V: Materials Selection and Process Optimization 
+This course includes both experimentation and open-ended design problems that are integrated with the Materials Processing
+course taught concurrently. Core design themes are further developed. 
+/
+Probability and Statistics for Engineers 
+Descriptive statistics, pictorial and tabular methods, measures of location and of variability, sample space and events, probability
+and independence, Bayes’ formula, discrete random variables, densities and moments, normal, gamma, exponential and
+Weibull distributions, distribution of the sum and average of random samples, the central limit theorem, confidence intervals
+for the mean and the variance, hypothesis testing and p-values, applications for prediction in a regression model. 
+/
+Information System Engineering
+The focus of the course is on data networks and end-user software environments for information systems. Topics include
+the TCP/IP protocols, organization of large-scale data networks, end-to-end operation over heterogeneous networks and the
+software foundation of client-server application programs. The students complete a project using TCP/IP protocols to create
+a basic client-server application. 
+/
+Physical Education III
+Physical Education III
+/
+Modeling and Simulation
+Development of deterministic and non-deterministic models for physical systems, engineering applications, and simulation
+tools for deterministic and non-deterministic systems
+/
+Engineering Economics 
+Students learn a set of Engineering Economic techniques that serve as powerful tools to aid in the design, implementation
+and continued improvement of any engineering project or process. The primary goal of this course is to help students develop
+an ability to make sound economic decisions, thereby facilitating effective evaluation and selection of alternative technical,
+design, and engineering solutions. In this course students will be exposed to the analysis of financial data, the concept of
+interest rates, the time value of money, economic analysis using the three worths, internal rate of return and benefit cost
+analysis. 
+/
+Engineering Design VI
+This course addresses the general topic of selection, evaluation, and design of a project concept, emphasizing the principles
+of team-based projects and the stages of project development. Techniques to acquire information related to the state-of-theart concepts and components impacting the project, evaluation of alternative approaches and selection of viable solutions
+based on appropriate cost factors, presentation of proposedprojects at initial, intermediate and final stages of development,
+and related design topics
+/
+Introduction to Image Processing and Coding 
+Image acquisition, storage, image formation, sampling, basic relationship between pixels, imaging geometry, segmentation:
+edge detection, edge linking and boundary detection, Hough transform, region growing, thresholding, split and merge,
+histogram matching, representation: chain code, polygonal approximation and skeletonization, thinning algorithms, texture,
+image compression: elementary discussion of motion vectors for compression, discussion of industry standards such as
+JEPG and MPEG.
+/
+Physical Education IV
+Physical Education IV
+/
+Senior Innovation I
+This course enables students to effectively identify senior design project topics, form and build teams and create a project
+charter.
+/
+Digital System Design 
+Design of complex digital CMOS/VLSI circuits. Introduction to MOS transistor characteristics and fabrication, digital circuit
+design and layout for integrated circuits, major categories of VLSI circuit functions, design methodologies including use of
+Hardware Description Languages (HDL), FPGA, verification, simulation, testability. 
+/
+Engineering Design VII
+The development of design skills and engineering judgment, based upon previous and current course
+and laboratory experience, is accomplished by participation in a design project. Projects are selected in areas of current
+interest such as communication and control systems, signal processing, and hardware and software design for computerbased systems.
+/
+Senior Innovation II 
+This course focuses on the Identification and articulation of the entrepreneurial, societal and humanitarian values of the
+products and processes developed during the senior design project.
+/
+Engineering Design VIII
+This includes the completion of a prototype
+(hardware or software), testing and demonstrating the performance, and the evaluation of results. 
+/
+Senior Innovation II
+This course focuses on preparing a business idea based on the senior design project and creating a business model for that
+idea. 
+/
+
+
+
+
+

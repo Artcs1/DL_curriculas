@@ -1,0 +1,138 @@
+Requirements Engineering and Specifications
+Elicitation, analysis, specification, validation, and management of user requirements; conflict resolution; process, notations, methods and tools, requirements standards, operational concepts documents (OCD) and system requirements specifications (SRS).
+/
+Software Design and Architecture
+Design process notations, methods, paradigms, and tools. System architecture tradeoff analysis; component and subcomponent specification. Generic (domain) design; architectural styles, frameworks, and patterns. Test and integration plan documents. Architecture standards; design tools.
+/
+Formal Methods in Software Engineering
+Covers a variety of formal methods and applies them to software-specification development. Assumes a firm grounding in mathematical logic, knowledge of proof techniques, and skill in the translation of problems expressed in English into predicate logic.
+/
+Software Verification, Validation, and Maintenance
+Covers inspections of requirements, design and code, as well as testing, the handling of change requests, software evolution, code comprehension, and change management.
+/
+Microprocessor Laboratory
+Introduces the student to microprocessor-based, hardware-interface design. Provides practice in developing software that drives the interfaces between a microprocessor and the outside world. Topics include: logic circuit analysis and synthesis, digital hardware components, microprocessor system architecture, and assembly and C/C++ language programming of input/output device drivers.
+/
+Engineering Web-based Systems
+A practical introduction to the principles, methods, and tools required to create high-quality software applications for the distributed, client-server context of the Web. Emphasis is on architectural designs, and language and data access methods that are common in Web-based systems.
+/
+Human Computer Interaction
+Covers basic human psychology, computer technology, and the interface between them. The key topics of HCI are examined, grounded in the context of usability and the design lifecycle.
+/
+Software Process Improvement
+Students will be introduced to the various aspects related to software processes. It will focus on the definition and modeling of a software process, as well as on methods for process assessment and improvement. The concepts will be illustrated through process-improvement case studies, followed by hands-on experience with the improvement of the personal software-development process.
+/
+Software Project Management
+Project management and its application to software-development projects. Emphasis will be on planning, organizing, monitoring, and controlling. Students will learn how to develop work breakdown structures, estimate task durations, assign resources, specify network precedence, and determine a project's critical path. Methods for scheduling in the face of resource constraints will be included, as well as function point counting, algorithmic models for estimating total project cost, and software tools for project planning and monitoring.
+/
+Software Practicum
+Team work on substantial software projects submitted by corporate sponsors. Interim progress reports required, with a final formal defense and presentation to corporate staff, faculty, and other students in the course
+/
+Special Topics in Software Engineering
+Special Topics in Software Engineering
+/
+Program Development Under Unix
+Introduction to the use of the UNIX operating system and its utilities for incremental and distributed program development, maintenance, and debugging. The course covers the UNIX shell, utilities, and program development tools that are used for large projects involving multiple developers on multiple machines.
+/
+Introduction to Game Development
+An introduction to the creation of computer/video games and the different elements of games, including computer graphics, animation, artificial intelligence, algorithms, data structures, networking, software development cycles and human-computer interaction.
+/
+Internet Technologies for Software Engineers
+Provides an intensive look at the leading-edge technologies that are used to build Internet applications, what they do, and how they do it. Topics covered will include: hyper-text markup language, cascading style sheets, scripting languages, active server pages, Pert/CGI, and the extensible markup language.
+/
+Comparative Languages
+Begins with a history of the development of programming languages that provides the background necessary to understand programming-language design and evaluation. This is followed by an introduction to the basic programming language constructs and then critically comparing their implementation in some of the most common languages. Included is a discussion of the advantages and disadvantages of modern programming languages for a variety of applications. Some of the languages discussed are LISP, C, Small Talk, C++, Java, Ada, PL/1, and Prolog.
+/
+Embedded and Real-Time Software
+Familiarizes students with the fundamental issues related to embedded and real-time software systems and gives them an opportunity to become familiar with a commercially available system for developing and testing embedded and real-time software. Topics include: definition of embedded systems, process concurrency, interprocess communications, synchronization, and process scheduling.
+/
+Principles of Management and Organizational Behavior
+Management functions, including planning, organizing, staffing, directing, and controlling; the theory and practice as they are contingent on the behavior of people in organizations and on the organizational environment. Students must be have Sophomore or higher standing to take this course.
+/
+Microeconomics
+Introduction to the operation of the price mechanism; examination of the individual economic units, laws of supply and demand, market structure, and cost analysis; contemporary problems examined.
+/
+Introduction to Problem Solving and Software Development
+Introduces a broad overview of problem solving, computing topics, and fundamental concepts and methodologies of software development designed to provide students with awareness of the computing field's many aspects. Topics include fundamentals of computer architecture, operating systems, applications, problem-solving. It emphasizes the main phases of the software development lifecycle, such as requirements, design, implementation, testing, project planning. Also, it stresses the difference between the software product and process. Introduces social and ethical issues related to computing and explores the local and global impact of computing on individuals, organizations and society. It also gives students their initial exposure to group project work.
+/
+Introduction to Computers I 
+Introductions to the basic concepts of program development in a modern object-oriented language; problem-solving methods and algorithm development; basic primitive and object data types; language syntax; style and documentation; and coding and testing of programs
+/
+Data Structures and Algorithms
+Introduction to the design, implementation, and use of fundamental data structures (lists, stacks, queues, trees); extensions of these structures and associated algorithms; informal complexity analysis.
+/
+Data Structures and Algorithms Lab
+Introductions to the basic concepts of programming and program development in a modern Software Development Environment with debugger and source code control.
+/
+Computer Architecture I
+Number representations and operations. Processor data path. Pipelining. Memory hierarchy. Input/Output. Assembly language programming.
+/
+Operating Systems Analysis
+Management of memory, processes, files, and devices. OS design principles and performance measures. Multiprogramming, multiprocessing, concur-ency, deadlock, virtual machines. Competitive and cooperating processes. Programs will be written in C or in Java. Three hours per week.
+/
+Applied Discrete Mathematics
+Introduction to reasoning, proof, and exposition in mathematics. Topics include: Boolean logic, set theory, counting techniques, functions, mathematical induction, permutations, and the proofs of various elementary theorems.
+/
+Calculus with Analytic Geometry I
+Functions, limits, continuity, and the differential and integral calculus of algebraic, trigonometric, and exponential functions.
+/
+Calculus with Analytic Geometry II
+Functions, limits, continuity, and the differential and integral calculus of algebraic, trigonometric, exponential functions.
+/
+Probability and Statistics I
+To provide an axiomatic, calculus-based approach to probability and introductory statistics. The course is built around the process of performing a statistical analysis; posing the question, collecting the data, describing the data, analyzing and modeling the data, and drawing inferences from the data regarding the original question. Specific topics covered include sampling, descriptive analysis of data, probability, random variables, discrete and continuous distributions, expectation, confidence intervals, one sample hypothesis testing, chi-square analyses, correlation and regression.
+/
+General Physics with Calculus I
+The first of a two-semester sequence of courses that, taken together, provide a thorough introduction to classical physics using calculus. Topics covered include: one- and two-dimensional motion, Newton's laws and their applications, energy, momentum and impulse, rotational motion, gravitation, and thermodynamics.
+/
+General Physics with Calculus Laboratory I
+General Physics with Calculus Laboratory I
+/
+General Physics with Calculus II
+The second of a two-semester sequence of courses that, taken together, provide a thorough introduction to classical physics using calculus. Topics covered include: sound and wave mechanics, electrostatics, circuits, magnetic forces and fields, Faraday's Law, reflection and refraction, and optics.
+/
+General Physics with Calculus Laboratory II
+General Physics with Calculus Laboratory II
+/
+Information Systems Project ManagementCredits
+The tools and skills of the systems analyst needed in information systems project management are introduced through the case study and experiential approach. Project management software will be used within an integrated-software environment-systems framework; students will complete two information technology projects in Web and database design for external clients.
+/
+Modern Physics
+Topics from physics of the twentieth century, including special relativity, the origins of quantum theory, quantum mechanics, atomic structure, nuclear physics, and elementary particles.
+/
+Theoretical PhysicsCredits
+Presents physics topics aimed at the advanced undergraduate level. The subjects range over classical mechanics, electromagnetism, and statistical mechanics
+/
+Introduction to Biodiversity and Evolution
+An introductory course for biology majors. Focus is on evolution, phylogeny, taxonomy, origin and diversity of life, physiology of plant and animal systems, and ecological principles. Three hours of lecture and two hours of laboratory per week. Limited to students who are majors in Biology, Chemistry, Mathematics, Computer Science and Software Engineering.
+/
+Introduction to Cell and Molecular Biology
+For biology majors and other students needing an introduction to the cellular and molecular levels of biology. Includes an introduction to cell structure and function, biochemistry and metabolism, bioenergetics, genetics and cell division, and molecular biology. Three hours of lecture and two hours of laboratory per week. Limited to majors in Biology, Chemistry, Clinical Science, Medical Laboratory Science, Mathematics, Computer Science, Software Engineering, Criminal Justice, Health Studies, and Health and Physical Education.
+/
+General Chemistry I
+The first of two lecture courses which, taken together, provide a preparation for subsequent courses in chemistry. Principles and theories of chemical problem solving, stoichiometry and chemical reactions, states of matter, periodic properties of the elements, atomic and molecular structure, introductory quantum mechanics, thermochemistry, and the properties of gases are covered.
+/
+General Chemistry II
+The second of two lecture courses which, taken together, provide preparation for subsequent courses in chemistry. Properties of liquids and solutions, chemical kinetics and equilibrium, thermodynamics, electrochemistry and nuclear chemistry.
+/
+Linear Algebra
+Systems of equations, matrix algebra, linear transformations, Eigenvectors, linear programming, and computational methods.
+/
+Calculus with Analytic Geometry III
+Infinite series, partial differentiation, multiple integration, and associated solid analytic geometry.
+/
+Differential Equations
+Designed to provide students with the fundamentals of differential equations. The topics include elementary methods of solution, nth order linear equations, systems of linear equations, Laplace transform methods, numerical solutions, and initial and boundary value problems.
+/
+Combinatorics and Graph Theory
+Combinatorics is the study of countable discrete mathematical structures. Graph theory is the study of mathematical structures involving a collection of objects, known as the vertex set, along with a collection of pairs of vertices, known as the edge set. These two inseparable areas of mathematics are ripe with beautiful theory and endless applications. Students will learn the techniques required to answer questions in these fields, as well as appropriate applications.
+/
+Probability and Statistics II
+Including sample distributions, exploratory data analysis, estimation methods, regression and correlation, as well as applications to quality control.
+/
+College Composition I
+A college-level writing course designed to prepare students to make the transition from high school to college by familiarizing them with the standards for academic writing they will encounter throughout their educational and professional careers. Students will gain intense experience in writing academic prose that demonstrates knowledge, understanding, analysis, and application of ideas from a variety of progressively sophisticated and interrelated texts.
+/
+College Composition II
+Reinforces and expands the reading and writing activities taught in English 101 (academic writing demonstrating knowledge, understanding, analysis, and application of ideas). In addition to sustaining what has already been learned in other writing courses
+/

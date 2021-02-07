@@ -1,0 +1,108 @@
+/
+Intro to the Profession I	
+Introduces the student to the scope of the engineering profession and its role in society and develops a sense of professionalism in the student. Provides an overview of electrical engineering through a series of hands-on projects and computer exercises. Develops professional communication and teamwork skills.
+/
+Circuit Analysis I
+Ohm's Law, Kirchhoff's Laws, and network element voltage-current relations. Application of mesh and nodal analysis to circuits. Dependent sources, operational amplifier circuits, superposition, Thevenin's and Norton's Theorems, maximum power transfer theorem. Transient circuit analysis for RC, RL, and RLC circuits. Introduction to Laplace Transforms. Laboratory experiments include analog and digital circuits; familiarization with test and measurement equipment; combinational digital circuits; familiarization with latches, flip-flops, and shift registers; operational amplifiers; transient effects in first-order and second-order analog circuits; PSpice software applications. 
+/	
+Circuit Analysis II	
+Sinusoidal excitation and phasors. AC steady-state circuit analysis using phasors. Complex frequency, network functions, pole-zero analysis, frequency response, and resonance. Two-port networks, transformers, mutual inductance, AC steady-state power, RMS values, introduction to three-phase systems and Fourier series. Design-oriented experiments include counters, finite state machines, sequential logic design, impedances in AC steady-state, resonant circuits, two-port networks, and filters. 
+/
+Digital Systems	
+Number systems and conversions, binary codes, and Boolean algebra. Switching devices, discrete and integrated digital circuits, analysis and design of combinational logic circuits. Karnaugh maps and minimization techniques. Counters and registers. Analysis and design of synchronous sequential circuits.
+/
+Digital Computers&Computing	
+Basic concepts in computer architecture, organization, and programming, including: integer and floating point number representations, memory organization, computer processor operation (the fetch/execute cycle), and computer instruction sets. Programming in machine language and assembly language with an emphasis on practical problems. 
+/
+Engineering Electronics	
+Physics of semiconductor devices. Diode operation and circuit applications. Regulated power supplies. Bipolar and field-effect transistor operating principles. Biasing techniques and stabilization. Linear equivalent circuit analysis of bipolar and field-effect transistor amplifiers.
+/
+Microcomputers/Embedded Comp	
+Microprocessors and microcontrollers. Standard and special interfaces. Hardware design and software development tools. Memories. Interrupt systems. Microcomputer system design and troubleshooting. Design with embedded computing systems. Emphasis on examples and applications.
+/
+Computer Organization & Design
+This course provides the students with understanding of the fundamental concepts of computer architecture, organization, and design. It focuses on relationship between hardware and software and its influence on the instruction set and the underlying Central Processing Unit (CPU). The structural design of the CPU in terms of datapath and control unit is introduced. The technique of pipelining and hazard management are studied. Advanced topics include instruction level parallelism, memory hierarchy and cache operations, virtual memory, parallel processing, multiprocessors and hardware security. The end to end design of a typical computer system in terms of the major entities including CPU, cache, memory, disk, I/O, and bus with respect to cost/performance trade-offs is also covered.
+/
+Object-Oriented Programming I	
+Introduces the use of a high-level object-oriented programming language as a problem-solving tool, including basic data structures and algorithms, object-oriented programming techniques, and software documentation. Designed for students who have had little or no prior experience with computer programming. For students in CS and CS-related degree programs.
+/
+Object-Oriented Programming II	
+Introduces more advanced elements of object-oriented programming, including dynamic data structures, recursion, searching and sorting, and advanced object-oriented programming techniques. For students in CS and CS-related degree programs.
+/
+Discrete Structures	
+Introduction to the use of formal mathematical structures to represent problems and computational processes. Topics covered include Boolean algebra, first-order logic, recursive structures, graphs, and abstract language models. 
+/
+Data Structures and Algorithms	
+Implementation and application of the essential data structures used in computer science. Analysis of basic sorting and searching algorithms and their relationship to these data structures. Particular emphasis is given to the use of object-oriented design and data abstraction in the creation and application of data structures.
+/
+Systems Programming	
+Examines the components of sophisticated multilayer software systems, including device drivers, systems software, applications interfaces, and user interfaces. Explores the design and development of interrupt-driven and event-driven software.
+/
+Operating Systems
+Introduction to operating system concepts-including system organization for uniprocessors and multiprocessors, scheduling algorithms, process management, deadlocks, paging and segmentation, files and protection, and process coordination and communication.
+/
+Electrodynamics
+Analysis of circuits using distributed network elements. Response of transmission lines to transient signals. AC steady-state analysis of lossless and lossy lines. The Smith Chart as an analysis and design tool. Impedance matching methods. Vector analysis applied to static and time-varying electric and magnetic fields. Coulomb's Law, electric field intensity, flux density and Gauss's Law. Energy and potential. Biot-Savart and Ampere's Law. Maxwell's equations with applications including uniform-plane wave propagation.
+/
+Software Engineering
+Study of the principles and practices of software engineering. Topics include software quality concepts, process models, software requirements analysis, design methodologies, software testing and software maintenance. Hands-on experience building a software system using the waterfall life cycle model. Students work in teams to develop all life cycle deliverables: requirements document, specification and design documents, system code, test plan, and user manuals.
+/
+Intro Computer Cyber Security
+Computer security as threats and defense mechanisms. Introductory cryptography and key management. Authentication and authorization. System security. Network security. Cloud and web security. Hardware security. 
+/
+Intro Comp Ntwks with Lab	
+Emphasis on the physical, data link, and medium access layers of the OSI architecture. Different general techniques for networking tasks, such as error control, flow control, multiplexing, switching, routing, signaling, congestion control, traffic control, scheduling will be covered along with their experimentation and implementation in a laboratory. 
+/
+Calculus I	
+Analytic geometry. Functions and their graphs. Limits and continuity. Derivatives of algebraic and trigonometric functions. Applications of the derivative. Introduction to integrals and their applications.
+/
+Calculus II	
+Transcendental functions and their calculus. Integration techniques. Applications of the integral. Indeterminate forms and improper integrals. Polar coordinates. Numerical series and power series expansions.
+/
+Multivariate & Vector Calculus	
+Analytic geometry in three-dimensional space. Partial derivatives. Multiple integrals. Vector analysis. Applications.
+/
+Introduction to Diff Equations	
+Linear differential equations of order one. Linear differential equations of higher order. Series solutions of linear DE. Laplace transforms and their use in solving linear DE. Introduction to matrices. Systems of linear differential equations.
+/
+Probability/Statistics for ECE	
+This course focuses on the introductory treatment of probability theory including: axioms of probability, discrete and continuous random variables, random vectors, marginal, joint, conditional and cumulative probability distributions, moment generating functions, expectations, and correlations. Also covered are sums of random variables, central limit theorem, sample means, and parameter estimation. Furthermore, random processes and random signals are covered. Examples and applications are drawn from problems of importance to electrical and computer engineers. 
+/
+Matrix Alg & Complex Variables
+Vectors and matrices; matrix operations, transpose, rank, inverse; determinants; solution of linear systems; eigenvalues and eigenvectors. The complex plane; analytic functions; contour integrals; Laurent series expansions; singularities and residues.
+/
+General Physics I: Mechanics	
+Vectors and motion in one, two and three dimensions. Newton's Laws. Particle dynamics, work and energy. Conservation laws and collisions. Rotational kinematics and dynamics, angular momentum and equilibrium of rigid bodies. Gravitation. Oscillations.
+/
+Gen Physics II: Elect&Magntism	
+Waves charge, electric field, Gauss' Law and potential. Capacitance, resistance, simple a/c and d/c circuits. Magnetic fields, Ampere's Law, Faraday's Law, induction, and Maxwell's equations. Traveling waves, electromagnetic waves, and light.
+/
+Gen Physics III for Engnrs
+Sound and fluid mechanics. Temperature, first and second laws of thermodynamics, kinetic theory and entropy. Reflection, refraction, interference and diffraction. Special relativity. Light and quantum physics, structure of the hydrogen atom. Atomic physics, electrical conduction in solids, nuclear physics, particle physics and cosmology.
+/
+Principles of Chem I w/out Lab
+An introduction to the foundations of chemistry, including: atoms and molecules; stoichiometry of chemical reactions; thermochemistry; properties of gases; states of matter, chemical solutions; the molecular basis for chemical reactivity; atomic structure; periodicity; and chemical bonding.
+/
+Thermodynamics
+Introduction to thermodynamics including properties of matter; First Law of Thermodynamics and its use in analyzing open and closed systems; limitations of the Second Law of Thermodynamics; entropy.
+/
+Introduction to Human Biology
+This course, designed for non-majors in biology, covers selected topics in biology of particular relevance to humans and to human health and disease. Topics include: Introductory biochemistry and cell structure, organization, and regulation of body systems; human genetics; human development; biotechnology; introduction to human pathogens and infectious diseases including sexually-transmitted diseases and immunologic diseases such as AIDS; human ecology; and human evolution. 
+/
+Topics in Humanities	
+Topics will introduce students to the humanities at IIT and to provide intensive instruction in writing.
+/
+Industrial Culture	
+An interdisciplinary course that examines the development of modern industrial society and the impact of science and technology on our culture. Readings drawn from history, literature, and philosophy. This course is also writing instruction intensive.
+/
+Age of Darwin	
+An introduction to the humanities through an investigation of important changes in our culture associated with Darwin's theory of evolution. Readings drawn from literature, philosophy, and science. This course is also writing instruction intensive.
+/
+Life Stories	
+An interdisciplinary study of biographies and autobiographies. In addition to considering such works as a genre, the course examines the historical events and the philosophical issues that have shaped the lives and attitudes of the writers/subjects. 
+/
+Digital Culture
+Introduces major topics in digital culture while providing instruction in scholarly practice with emphasis on research and writing. Topics include technical and cultural history of the internet, academic writing, and humanities research methods.
+/
+Topics in Humanities
+Topics will introduce students to the humanities at IIT and to provide intensive instruction in writing.

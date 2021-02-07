@@ -1,0 +1,137 @@
+/
+Composition and Rhetoric
+Through the critical engagement of a variety of texts, including written, oral, and visual, this course prepares students to become careful readers, critical thinkers, and skilled writers. Drawing upon rhetorical theory, it emphasizes the practices of analytical reading, informed reasoning, effective writing, and sound argumentation
+/
+Inquiry
+An introduction to the value of research and to the role of research and scholarship in the life of an undergraduate student, including exposure to the opportunities available to participate in research and scholarship within the Liberty University undergraduate programs
+/
+Communications
+Communications
+/
+Information Literacy
+Information Literacy
+/
+Foundational Skills
+provides students with an introduction to Liberty University and to the academic core competencies that students attain by the point of graduation. 
+/
+Quantitative Reasoning
+Applying mathematical tools and analysis to practical context, particularly focusing on using proportions and ratios. Basic statistical tools are developed and employed, including graphs, descriptive statistics, the normal curve, the basics of inferential reasoning and investigating correlation. Financial applications are particularly emphasized, as is the use of spreadsheets.
+/
+Introduction to Biblical Worldview
+An introduction to the biblical worldview and contemporary moral issues. This course will introduce critical thinking skills. Religious and philosophical worldviews will also be explored.
+/
+Research
+A survey of knowledge and skills required for the conduct of research in either the humanities, sciences, or creative arts.
+/
+Evangelism and the Christian Life  2
+Special attention will be given to the theology of all aspects of evangelism including the follow-up. Various methods of approach and presentation will be considered
+/
+Natural Science Elective
+Natural Science Elective
+/
+Social Science Elective
+Social Science Elective
+/
+Old Testament Survey
+An introduction to the authorship and contents of the Old Testament books. Special attention will be given to important persons, places and events, as well as to key chapters in the Old Testament revelation.
+/
+New Testament Survey
+An introduction to the authorship and contents of the New Testament books. Special attention will be given to important persons, places, events, as well as to key chapters in the New Testament revelation.
+/
+Theology Survey I
+This is a general survey of Bible doctrine designed to synthesize and outline each of ten major areas of systematic theology, including prolegomena, bibliology, theology proper, Christology, angelology, and pneumatology.
+/
+Theology Survey II
+This is a continuation of general survey of Bible doctrine designed to synthesize and outline each of the ten major areas of systematic theology. Survey II includes anthropology, hamartiology, soteriology, ecclesiology and eschatology.
+/
+Organizational Behavior I
+This introductory course in organizational behavior integrates the management and behavioral principles, techniques, and concepts associated with the productivity of organizational resources. It focuses on human behavior in organizations and is primarily concerned with improving organizational efficiency and effectiveness through increased understanding of the behavior of people at work.
+/
+Introduction to Computing Sciences
+A breadth-first introduction to the computing disciplines, with an emphasis on computer ethics and how computing technology impacts the world. Topics include: computing history; discrete mathematics; computer architecture and organization; algorithm design; languages; compilers; operating systems; applications; networks; databases; intellectual property; privacy; free speech; social consequences; computer crime; and codes of conduct.
+/
+Introduction to Programming
+Introduction to structured programming and algorithms with an object-oriented language. Topics include input/ output, flow of control, functions, and an introduction to software engineering.
+/
+Technical Communication
+This course will teach students how to write documents representing the three main types of technical writing: operational (instructional), promotional (argumentative and analytical), and reportorial (expository, informational and analytical). Students will also evaluate and edit documents belonging to these categories by examining how well these documents serve their purpose for particular audiences in different cultural and social contexts. Students will study and practice communicating ideas competently in diverse public and private speaking venues.
+/
+Calculus and Analytic Geometry I
+Functions and graphs, exponential, logarithmic, inverse trigonometric, limits, the derivative, techniques of differentiation, continuity, applications of differentiation, L'Hopital's Rule, the integral.
+/
+General Physics I
+A study of mechanics, gravitation, waves, sound, heat, light, electricity and magnetism, optics and modern physics from a non-calculus perspective.
+/
+Introduction to Discrete Mathematics
+Logic and proofs, set theory, Boolean algebra, functions, sequences, matrices, algorithms, modular arithmetic, mathematical induction and combinatorics.
+/
+Introduction to Statistical Analysis
+An introduction to statistical analysis for students with a background in calculus. Includes probability theory, probability distributions, expectation, statistical inference, regression and correlation.
+/
+Elementary Functions and Coordinate Geometry
+A pre-calculus course that includes the study of elementary functions, their graphs and applications including polynomial, rational, algebraic functions, exponential, logarithmic and circular or trigonometric functions.
+/
+Integrative Programming and Technologies
+Examines the integration of systems and applications across global businesses; explores programming interfaces, data mapping and exchange, scripting, and programming languages to support the configuration, maintenance, integration, and security of systems.
+/
+CS Capstone II
+The activities in this course provide a hands-on experience that will allow the students to apply the various skills and knowledge they have gained throughout their Computer Science program. Teams of three to four persons will be formed at the beginning of the course. Software is nearly always developed by teams so this kind of experience is crucial for career preparation. A real-world project submitted by a ministry, some component of the university, or an associated business organization will be identified for each team.
+/
+CS Capstone I
+A hands-on experience that requires students to apply the skills and knowledge gained throughout the Computer Science program. A team solution of a real-world project is required.
+/
+Software Engineering
+Study of the software development process. Topics include: phases of a software project; life-cycle models; metrics; tools; and ethical and professional issues. Participation on team projects is integral
+/
+Technical Aspects of Computer Security
+This course introduces the following issues and principles of information system security: security policies and their mechanisms of implementation, methods used by attackers attempting to circumvent these protections, and specific defenses against these attackers.
+/
+Operating Systems
+Resource management for processes, files, devices, and memory. Deadlock and recovery procedures. Security issues.
+/
+Theory of Programming Languages
+A theoretical study of programming languages. Introduction to grammars and parsers. Language design issues and practical applications.
+/
+Network Architecture and Protocols
+A study of how computer networks and internets operate. Investigates networking from the level of data transmission and wiring through the level of application software that provides networking functionality.
+/
+System Administration
+Principles of system administration activities, applications, operating systems, and domains; analysis of computing applications, infrastructures, architectures, firmware, hardware, disaster recovery, security, and enterprise deployment.
+/
+Introduction to Linux
+This course introduces students to the usage and administration of the UNIX Operating System. The course will emphasize end-user tools and commands for basic file manipulation, editing, compilation and debugging, as well as special features of the UNIX shell environment. Basic system administration will also be covered. Students will learn through a combination of traditional lectures, hands-on laboratory sessions, and individual assignments
+/
+Computer Architecture and Organization
+Introduction to architecture and organization of computer systems. Data and instruction representations. Arithmetic and logical operations. Processor and memory implementations.
+/
+Database System Concepts
+The study of database management systems, database architecture, design, queries, applications, administration and implementation. The course will focus on data normalization, SQL (queries), and the use of relational technology for building database applications. Projects will be assigned to provide hands-on experience with the SQL language and relational database management software packages.
+/
+Algorithms and Data Structures
+Study of data structures such as linked lists, stacks, queues, trees, and graphs. Algorithms for manipulating such structures will be introduced and analyzed. Static and dynamic memory allocation. Access methods for sorting/searching, such as hashing and tree searching.
+/
+Advanced Programming
+Further development of discipline in program design, especially for larger programs. Introduction of pointers, simple data structures, recursion, internal sort/search methods
+/
+Introduction to Information Sciences and Systems
+This course examines the design, selection, implementation and management of enterprise Business solutions. The focus is on identifying critical business processes and envisioning how technology can be developed to provide solutions which generate competitive advantage.
+/
+General Physics I
+A study of mechanics, gravitation, waves, sound, heat, light, electricity and magnetism, optics and modern physics from a non-calculus perspective.
+/
+Calculus and Analytic Geometry I
+Functions and graphs, exponential, logarithmic, inverse trigonometric, limits, the derivative, techniques of differentiation, continuity, applications of differentiation, L'Hopital's Rule, the integral.
+/
+Technical Communication
+Technical Communication
+/
+Introduction to Programming
+Introduction to structured programming and algorithms with an object-oriented language. Topics include input/ output, flow of control, functions, and an introduction to software engineering.
+/
+Introduction to Computing Sciences
+A breadth-first introduction to the computing disciplines, with an emphasis on computer ethics and how computing technology impacts the world. Topics include: computing history; discrete mathematics; computer architecture and organization; algorithm design; languages; compilers; operating systems; applications; networks; databases; intellectual property; privacy; free speech; social consequences; computer crime; and codes of conduct.
+/
+Organizational Behavior I
+This introductory course in organizational behavior integrates the management and behavioral principles, techniques, and concepts associated with the productivity of organizational resources. It focuses on human behavior in organizations and is primarily concerned with improving organizational efficiency and effectiveness through increased understanding of the behavior of people at work.
+/
+

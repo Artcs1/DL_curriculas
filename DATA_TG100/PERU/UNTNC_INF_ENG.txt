@@ -1,0 +1,223 @@
+Algorithms and programming
+Concept and properties of an algorithm. The role of algorithms in the problem solving process. Strategies to solve computational problems, descending design and modularity. Flowchart and pseudocode. Syntax and basic semantics of a high level language. Variables, data types, expressions and assignment. INPUT and OUTPUT Sequential structures, of control: conditional and iterative. Functions and passing parameters. Recursive functions. Structured decomposition. Arrangements (one-dimensional and two-dimensional) and character string.
+/
+Personal development
+Content: Life plan, autonomy, entrepreneurship, vocational guidance, personal development 
+/ 
+Critical reading and writing of academic texts 
+Content: Academic writing: definition, characteristics, techniques, resources, classes related to your professional program, demonstrative exercises; Critical reading: definition, characteristics, techniques, demonstrative exercises with texts related to your professional program
+/
+General Physics
+Content: Concepts of strength and pressure and their differences. Scalar and vector quantities. Movement concept. Types of movement. Fall of the bodies. Compound movements. Circular movement. Newton's laws of motion.Work, power and energy. The lever, gear and pulley. Hydrostatic pressure. The Pascal principle. The Archimedes principle. Atmospheric pressure. Compression and expansion of gases. Fluid dynamics. Remullí's theorem. Conceptof heat and temperature. Calorimetry. Heat transmission Fusion, solidification, evaporation and boiling. First law of Thermodynamics (conservation of energy). Notions about the second principle of Thermodynamics
+/
+Development of mathematical logical thinking
+Concepts of propositional logic. Boolean polynomials. Logical equivalence. Propositions and truth tables. Logical implication. Quantifiers. Logic functions and validity sets. Logic functions of several variables. Logic reasoning. Arguments. The axiomatic method. Geometry as an example of axiomatic theory. 
+Sets and subsets. Fundamental operations with sets. Functions. Product set and function graph. Relations. Equivalence relationships and order relationships. Characteristic functions and functions of choice. Body axioms and order axioms of real numbers. Integers and rational numbers. Axiom of the supreme. Archimedean property. Mathematical Induction
+/
+Introduction to mathematical analysis
+Content: The numerical axis. Absolute value and distance between points. The Cartesian plane. Distance between points. Relations that link the coordinates. Equations of the line and conics. The three dimensional space. Determination of figures in space. Definition of vectors. Operations with vectors. Vector equations of the line and conics. Translation and rotation of coordinates. Successions of real numbers. Limit of a succession. Bolzano's theorem - Weierstrass. Cauchy successions. Succession convergence criteria. Series of real numbers. Convergence of series. Series convergence criteria.
+Functions. Graph of elementary functions. Accumulation points. Function Limits. Continuity of a function. Intermediate value theorem.
+/
+Leadership and teamwork workshop
+Content: Curriculum experience of a humanistic nature and general training, of a practical nature; It has as specific competence that students propose initiatives to work in teams and guides the consensual decisions of its members to achieve the established objectives, integrating andactively participating in the implementation of team strategies and actions, demonstrating assertiveness, effectiveness and showing respect for the ideas and initiatives of the people of the group or team
+/
+Data structure
+Multidimensional Arrangements. Primitive types and derivatives. Records, structures. Representation of data in memory. Runtime memory management.
+Data abstraction, Abstract types of data (ATD). Pointers and references. Lists, piles, tailsand hash tables. Graphs and trees. Ordination and search.
+/
+Ethics, human life and citizenship
+Ethics, morals, citizenship, civics, axiology, human rights,
+citizens, environmental, cultural
+/
+Society, culture and ecology
+Social, cultural and ecological problems. Topics and current problems
+related to society, culture and the environment.
+/
+Research culture and critical thinking
+Readings, case analysis, research projects, techniques of
+Problem solving and workshops. Different approaches to the scientific and epistemological approach without remaining alone in the hypothetical-deductive or quantitative model.
+/
+General Statistics
+Data collection techniques, tabular data presentation :
+qualitative and quantitative unidimensional and two-dimensional, summary measures, regression, correlation between two quantitative variables and index numbers.
+/
+Mathematical analysis
+Derived from a function. Geometric interpretation of the derivative
+Derived from elementary functions. Algebra of derivatives. Chain rule. Lagrange's average value theorem. Fermat's theorem, Criterion of the second derivative. Area down the curve. Partition of a set. Integrable sums. inferior Integral and superior integral. The definite integral. Riemann functions integrable.Existence of integrable functions. First and second fundamental theorem of calculus. change of variable in integrals. The indefinite integral. Integration methods. Logarithm function
+/
+ICT management workshop
+Creation of texts, articles, modules, magazines with Microsoft office or mathematical word processor, Latex among others. Use of Google Drive: Collection of information and evaluation online, platform or web. Computer tools related to the specialty: MatLab, Mathematics, Winplot, SPSS, among others.
+/
+Analytic geometry
+Introduction. Matrices and determinants, vectors in the plane, the line, circumference, Conics: Parables, ellipses, hyperbolas, Matrix transformations: Reflection, projection, translations, rotations, scaling. The sphere, cone, cylinder. Applications to graphic computing.
+/
+Paradigms of programming languages
+Evolution of the Programming, Semantics and Syntax of the Programming languages, Type System, Link and Scope. Programming Paradigms: Imperative, Object Oriented, Functional, Logic and reactive programming introduction and event-driven.
+/
+Algorithmic strategies
+Algorithmic strategies: Brute force algorithms, voracious algorithms, divide to beat, recursive backtraking , dynamic programming. Branchand-Bound. Heuristics
+/
+Discrete math
+Induction and mathematical recursion. Recursive equations, recursive algorithms and applications. Algorithms divide to beat and recurrence relations and applications. 
+Graph and application theory: Directed graphs and applications to network routing;non-directed graphs and applications to languages and parsing; Eulerian and Hamiltonian path, short route algorithm, coloring of graphs and applications to networks; trees, minimum generator tree and telephone applications.
+
+Physics for computer science
+Resistance color code. Semiconductor resistors,
+conductors and insulators. Current voltage and power. Ohm's law. Circuit symbols DC circuits, series circuits, voltage dividers, parallel circuits, current dividers, serial and parallel circuits.
+Network theorems, conversion of PI networks to T, conversion of T to PI. Thevenin and Norton theorem. Analysis of closed circuits or meshes. Node Analysis Capacity. Electric field. Capacitors in series and parallel. Types of capacitors. AC charging circuits. Time constant and discharge circuit.
+Autoinduction. Series and parallel coils. RL circuit, RL discharge circuit. Alternating current. Generator. Sine Wave AC circuits with resistance. AC circuits with inductance.
+AC circuit Purely resistive circuit. Purely inductive circuit, purely capacitive circuit. RL circuit Parallel circuit. Resistors in parallel. RC circuits in parallel. RL circuit in parallel. Impedance and admittance. RLC circuit in parallel. C.A series-parallel circuit. Resonance. Series resonant circuit, parallel resonance
+/
+Numerical analysis
+Error, stability, convergence, including truncation and rounding. Approximation of functions, including Taylor series, interpolation, extrapolation and regression. Differentiation and numerical integration (Simpson's Rule, explicit and implicit methods). Differential equations (Euler's method). Applications to computing
+/
+Computer graphics
+Fundamental concepts, the process of image formation on a computer, devices, graphic primitives, 2D and 3D transformations, clipping and filling of polygons view models and projections, color models, hierarchy, lights, renderings and textures
+/
+File Organization
+Technologies of primary and secondary storage devices, hardware parameters. Basic file organizations: sequential, sequential indexed, direct, inverted. Hybrid organizations. Evaluation of file systems. Data compression and classification in secondary memory.
+/
+Algorithms and complexity
+Introduction. Algorithms Asymptotic analysis, complexity classes.
+Behavior of an algorithm: better, worse and average case. Balance between time and space in the algorithms. Notation O large, o-small, O- large, O-small, O-large, O-small. Recurrence relationships Analysis of recursive and iterative algorithms. Kind of problems P and NP. Computability
+/
+Formal languages and automatons
+Basic language concepts: Alphabet, sentences, languages,
+Grammar and recognizers. Regular language: Regular expression and grammar, AF, pumping motto, equivalence between AF, regular expression and regular grammar, applications. Context-free language: Context-free grammar, ambiguity, simplification of context-free grammar, stack automaton, pumping motto, applications. Turing machine Context-sensitive language: Context-sensitive grammar, Turing machine with limited tape. Recursively enumerable language: Unrestricted grammar. Chomsky's Hierarchy
+/
+Computer electronics
+Analog and digital magnitudes, DC power supplies (diodes, voltage regulators, etc.). Numbering systems: Binary, octal and hexadecimal. Conversions of numbering systems. Logic gates: internal construction of logic gates (transistors, resistors, etc.), AND,
+NAND, OR, NOR, XOR, NXOR, NOT and 3 state gate. Real tables. Integrated circuits. Integrated Circuit Families: TTL and CMOS. Features. Logic functions, analysis and circuit design, canonical forms of a function. Signal maps of logical functions. Methods of simplifying a function: Karnaugh and Quine MC Cluskey. Pulse generating circuits: One pulse or Pulse trains. Period and frequency of square waves. Signal converter circuits: ADC and DAC. Types
+/
+Innovation and Entrepreneurship
+Innovation. The entrepreneurial impulse; the business model; instruments and skills to conquer the market and the arrival and adaptation to the market.
+/
+Database I
+Database fundamentals. Components, advantages and users of a database system. Functionalities of a DBMS. Architecture of a database and data independence Data models (elements and classification). Entity Model - Relationship. Relational Model (mapping). Functional dependencies. Normalization theory (1FN, 2FN, 3FN, FNBC). Algebra and relational calculation. SQL (data definition and data manipulation language).
+/
+Software Engineering I
+Fundamentals of software engineering: Concepts and principles and
+computer based systems. Current methodologies / Methods of software development (management, engineering, base, real time, etc.). Fundamentals of planning software development projects. Requirements engineering: concepts, principles and process. Software design: concepts and principles, software architectures, interface design.
+/
+Artificial intelligence I
+Informed search, informed search (heuristics, A *, BRPM), backtracking, constraint satisfaction, Minimax, alpha-beta pruning, metaheuristics: ant colony, search taboo, genetic algorithms and simulated annealling.
+/
+Compilers
+Introduction: Introduction to compilation, Scheme of a compiler, Components, Recognizing machines and translators.
+Lexical Analysis Symbol table. Syntactic analysis. Ascending Syntactic Analysis. Downward Syntactic Analysis. Semantic Analysis and Intermediate Code Generation. Runtime environment. Code Generation Code Optimization Error treatment.
+/
+Digital techniques for computing
+Combinational circuits: Decoders, encoders, code converters, comparators, multiplexers, demultiplexers, Display. Arithmetic circuits: Medium, full sum, half, full subtractor, parallel adder and subtractor, series adder, BCD adder, advance drag adder and multiplier circuits.
+Sequential circuits, sequential circuit analysis, flip flop: SR, JK T and D. Counter circuits: Synchronous and asynchronous. Design. Analysis and design of records: SISO, SIPO, FLAT and PIPO. Analysis and design of finite state machines. Moore and Mealy machines.
+/
+Cientific investigation methodology
+ Study of the development of the computer profession and its current status. Bibliographic search in computing Epistemological foundations of research. Basic concepts of research: Types of research, research justification, theoretical framework, problem, hypothesis, objectives
+general and specific, limitations, conclusions, future work. Rules and spelling rules. Writing techniques Writing technical articles, monograph, essay and thesis in computer science.
+/
+Advanced Graphic Computing
+Parametric curves and polynomial surfaces in 2D and 3D,
+Polygonal representation of 3D objects, Solid Reconstructive Geometry, Introduction to ray - tracing and photon mapping, Methods for removing hidden surfaces, Lighting and shading (pontoon reflection model,
+specular reflection), Rendering of Polygonal Surfaces. Models
+procedural Collision Detection Gamma transfer and correction.
+Animations and applications.
+/
+Database II
+Database management systems. Storage and recovery Analysis and indexing. Transaction Processing Failure recovery and integrity. Concurrency Control Database Efficiency Databases
+distributed (definition, architecture, design: data fragmentation and allocation, distributed transactions, distributed query processing)
+/
+Software Engineering II
+Software test Software testing methods. Fundamentals of quality and software quality assurance, and configuration management in different types of software development. Software maintenance: fundamentals and methods in different software developments
+/
+Artificial intelligence II
+Programming in logic (predicate logic). Bayes theorem,
+Reasoning forward, backward. Ontologies Knowledge representation, predicate logic, expert systems, probabilistic expert systems, dempster-schaffer theory, fuzzy logic.
+/
+Data communication
+Fundamentals of communication Data transmission, components, data representation, data flows. Introduction to networks, physical structure, classes. Protocols and standards. The OSI model. Addressing. Data and signals (analog and digital). Media. Digital transmission: Conversion
+digital to digital, analog to digital conversion. Analog Transmission: Digital to analog conversion, analog to analog conversion. Transmission Modes, parallel, series (synchronous, asynchronous, isochronous). Transmission system
+Parallel series and parallel series. New communication technologies: State of the art, applications, protocol stack. Hardware communication systems.
+/
+Architecture and computer organization
+Fundamentals of computer architecture. Microprocessors CPU components: ALU U.C. Instruction set CISC architecture. RISC architecture. Instruction Formats Addressing. Principal memory. Components of a memory. Hierarchy of memory. Read and write memory: SRAM and DRAM. Read-only memories: ROM, PROM, EPROM, EEPROM. Motherboard, graphics card and buses. Elements that form a motherboard: AT and ATX plates. Graphic card. Parts of a graphics card. Buses Types. Bandwidth. Internal bus and external bus. Peripheral devices and secondary memories. Input peripherals: Keyboard. Connector types. Keyboard operation The mouse. Types. Connectors The scanner. Types. The monitor. Features. Printers Types. I / O devices Touch screen. Secondary magnetic memories. Discs
+Optical Solid disks: SSD. RAID. Redundant set of independent disks.
+/
+Advanced database
+Concepts of Multimedia Databases, as well as issues of Data Mining responsible for analyzing and improving data manipulation techniques in order to extract knowledge that is of contribution to those who require it.
+/
+Software development
+Process models, waterfall model, incremental process models, Evolutionary process models, Concurrent models, Component-based development, Aspect-oriented software development. Agile Development: XP, SCRUM, Crystal, Agile Unified Process, Unified Model Language (UML) and Rational Unified Process (RUP): phases
+/
+Perception and Vision by computer
+The study of the phases and the different algorithms that they require in order to process the signals that allow the computer to have a perception of its environment and thus achieve its interaction in different fields such as medicine, industry, education, security, etc. It will also accentuate in the process of Artificial Vision, also known as Computer Vision, whose purpose is
+Program a computer to "understand" a scene or the characteristics of an image.
+/
+Computer networks I
+Fundamentals of computer networks. TCP / IP model. Exploring the network, network operating system, Communications and Network Protocols, Access to networks, Ethernet, Network Layer, IPv4 and IPv6 Addressing, subnetting and IP Networks, also motivating research in the design of network infrastructure
+different complexity
+/
+Operating Systems I
+SO fundamentals. Function and purpose of the operating system,
+Functionality of a typical operating system, Structure, Application Program Interfaces (API), Processes, Processor Planning, Memory Management, Virtual Memory, Disk Planning, Protection and Security.
+/
+IT Project Management
+Introduction to project management, Life Cycle of
+Projects, Project Management Processes: Project Integration Management, Project Scope Management, Project Time Management, Project Cost Management, Project Quality Management, Project Human Resources Management, Management of Project Communications, Project Risk Management, Project Procurement Management,
+Management of Project Stakeholders and Implementation of Project Management Improvements
+/
+Robotics
+Overview, problems and progress, state of the art of robotic systems including their sensors and an overview of their processing. Robotic control architectures, deliverative control versus reactive control and Braitenberg vehicles. Modeling the world and world models. Uncertainty
+inherent in detection (sensing) and control. Space configuration and environment maps. Interpretation of sensor data with uncertainty. Location and mapping. Navigation and control. Movement planning Multi-robot coordination
+/
+Computer networks II
+Fundamentals of Routing, Static and Dynamic Routing,
+Switched Networks, VLAN’s, Access Control Lists, DHCP, IP Telephony, also motivating research in the design of network infrastructures of different complexity
+/
+Operating Systems II
+Function and purpose of a distributed system, Functionality of a
+distributed system, Processes, Communication in distributed systems, Name service, Synchronization in Distributed Systems, Consistency, Replication, Fault Tolerance, Security and Types of distributed systems
+/
+Pre professional practices
+Pre professional practices
+/
+Human Computer Interaction
+Fundamentals of Computer Human Interaction, Design
+Interactions, Interactive Systems Programming, Design and User Centered Testing, New Interactive Technologies, Human Factors and Security.
+/
+Database topics
+Database topics
+/
+Topics in software engineering
+Topics in software engineering
+/
+Advanced Software Engineering
+ Evolution of IT, IT based business models. Fundamentals of software engineering for the web: general concepts about systems, applications, services and web servers, architectures and methods of web software development, programming in web environments, solutions based on content management,
+usability in web development, platforms and web applications for mobile devices and web vulnerability and security; All these contents analyzed and deepened through the use of technological tools oriented to topics and bibliographic research of current and future trends in the development of internet-based software for our country and the world.
+/
+Informatic security
+Network services (DNS, DHCP, HTTP, SSH, etc.), Threats and attacks, network security, cryptography, security platforms and the implementation of network solutions of different complexity.
+/
+Thesis project
+Applies concepts of the curricular experience methodology of scientific research
+/
+Topics in immersive technologies
+Sound, stereoscopic display, force simulation of
+Feedback, haptic devices. Entrance: Viewer and tracking of objects, pose and gesture of recognition, accelerometers, reference markers, problem in user interfaces. Modeling and Physical representation: Simulation
+physics (collision detection and response, animation), visibility calculation, critical time representation, multiple levels of detail (LOD). Systems Architecture: Game Engines, Mobile Augmented Reality, simulators (eg, flight), CAVEs, medical images
+/
+Information systems
+Fundamentals of information systems, information technologies, business applications, development of strategies and business solutions, security and ethics in information systems.
+/
+Ethics for Computer Professionals
+Ethical intelligence. Codes of ethics of the ACM and the College of
+Engineers of Peru Computer crimes: ethical and legal implications. Informatic security. The ethical hacker Code of Ethics of Electronic Commerce. Ethical profile of the IT Auditor
+/
+Competition project
+Prepare and support a project that demonstrates competence in:
+Information management or ing. of intelligent software or systems or computer architecture, communications networks.
+/
+Integrator Project
+Integrator Project
+/
+Thesis
+Thesis
+/

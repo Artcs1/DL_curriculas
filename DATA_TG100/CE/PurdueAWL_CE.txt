@@ -1,0 +1,212 @@
+Electrical Engineering Fundamentals I
+This course covers fundamental concepts and applications for electrical and computer engineers as well as for engineers who need to gain a broad understanding of these disciplines. The course starts by the basic concepts of charge, current, and voltage as well as their expressions with regards to resistors and resistive circuits. Essential concepts, devices, theorems, and applications of direct-current (DC), 1st order, and alternating-current (AC) circuits are subsequently discussed. Besides electrical devices and circuits, basic electronic components including diodes and transistors as well as their primary applications are also discussed.
+/
+Electrical Engineering Fundamentals I Lab
+This is an introduction course in electronic measurement and circuit modeling, simulation and design techniques. These skills are developed through a variety of laboratory experiments ranging from voltage, current, and frequency, to resistors, inductors, capacitors, and operational amplifiers. When possible, the experiments develop practical skills through small design and soldering tasks.
+/
+Electrical Engineering Fundamentals II
+Continuation of Electrical and Computer Engineering Fundamentals I. The course addresses mathematical and computational foundations of circuit analysis (differential equations, Laplace Transform techniques) with a focus on application to linear circuits having variable behavior as a function of frequency, with emphasis on filtering. Variable frequency behavior is further considered for applications of electronic components through single-transistor and operational amplifiers.
+/
+Advanced C Programming
+Continuation of a first programming course. Topics include files, structures, pointers, and the proper use of dynamic data structures. A basic knowledge of the UNIX operating system and an introductory C programming course; C programming knowledge should include basic syntax, control structures, and file I/O, as well as experience in declaring and using functions
+/
+Python For Data Science
+This course will introduce Python programming to students through data science problems. Students will learn Python concepts as well as introductory data science topics, and will use their knowledge of Python
+/
+Introduction To Digital System Design
+An introduction to digital system design and hardware engineering, with an emphasis on practical design techniques and circuit implementation.
+/
+Signals And Systems
+Classification, analysis and design of systems in both the time- and frequency-domains. Continuous-time linear systems: Fourier Series, Fourier Transform, bilateral Laplace Transform. Discrete-time linear systems: difference equations, Discrete-Time Fourier Transform, bilateral Z-Transform. Sampling, quantization, and discrete-time processing of continuous-time signals. Discrete-time nonlinear systems: median-type filters, threshold decomposition. System design examples such as the compact disc player and AM radio
+/
+Probabilistic Methods In Electrical And Computer Engineering
+An introductory treatment of probability theory, including distribution and density functions, moments, and random variables. Applications of normal and exponential distributions. Estimation of means, variances, correlation, and spectral density functions. Random processes and responses of linear systems to random inputs. 
+/
+Microprocessor Systems And Interfacing
+An introduction to basic computer organization, microprocessor instruction sets, assembly language programming, and microcontroller peripherals
+/
+Data Structures
+Provides insight into the use of data structures. Topics include stacks, queues and lists, trees, graphs, sorting, searching, and hashing. 
+/
+Electrical And Computer Engineering Sophomore Seminar
+An introduction to the School of Electrical and Computer Engineering, the program’s objectives, and outcomes, BSEE and BSCmpE degree requirements, professional writing and multicultural and professional development.
+/
+Professional Communications And Diversity
+This course provides ECE students with practice in relevant aspects of communication. Topics include: successfully seeking employment, working effectively in teams, delivering engaging presentations, and leveraging the advantages and challenges of diversity and inclusion.
+/
+Professional Communication Capstone
+This course provides ECE students an opportunity to refine their professional communication skills before launching into the workplace or graduate school. Topics include: ethics in ECE, workplace communication (written and verbal), and plans for professional growth
+/
+Digital Systems Senior Project
+A structured approach to the development and integration of embedded microcontroller hardware and software that provides senior-level students with significant design experience applying microcontrollers to a wide range of embedded systems (e.g., instrumentation, process control, telecommunications, and intelligent devices). The primary objective is to provide practical experience developing integrated hardware and software for embedded microcontroller systems in an environment that models one which students will most likely encounter in industry.
+/
+Electrical Engineering Senior Design Projects
+Lecture sessions provide the student with background information on the design and management of projects. Formal lectures cover, for example, design for manufacturability, design for quality, test and evaluation, reliability and ethics, patents and copyrights, plus case studies. During the laboratory sessions, the students work in teams on challenging open-ended electrical engineering project that draws on previous coursework. Projects routinely involve standard design facets (such as consideration of alternative solutions, feasibility considerations, and detailed system descriptions) and include a number of realistic constraints 
+/
+Fundamentals Of Computer Graphics
+Fundamental principles and techniques of computer graphics. The course covers the basics of going from a scene representation to a raster image using OpenGL. Specific topics include coordinate manipulations, perspective, basics of illumination and shading, color models, texture maps, clipping and basic raster algorithms, fundamentals of scene constructions. 
+/
+Object-Oriented Programming In C++ And Java
+C++ and Java programming languages, including classes, inheritance, encapsulation, polymorphism, class derivation, abstract classes, interfaces, static class members, object construction and destruction, namespaces, exception handling, function, overloading and overriding, function name overload resolution, container classes, and template classes. 
+/
+ASIC Design Laboratory
+Introduction to standard cell design of VLSI (Very Large Scale Integration) digital circuits using the VHDL hardware description language (Very High Speed Integrated Circuits Hardware Description Language). Emphasis on how to write VHDL that will map readily to hardware. Laboratory experiments using commercial grade computer-aided design (CAD) tools for VHDL based design, schematic based logic entry, logic and VHDL simulation, automatic placement and routing, timing analysis, and testing
+/
+Introduction To Computer Security
+Introduction to security issues related to the operation of computers and the workings of computer networks. Topics covered include introduction to cryptography, authentication protocols, digital signature algorithms, internet vulnerabilities, worms and virus propagation, denial of service attacks, etc. The students will also learn how to design firewalls to protect a system against unwanted intrusions
+/
+Computer Design And Prototyping
+An introduction to computer organization and design, including instruction set selection, arithmetic logic unit design, datapath design, control strategies, pipelining, memory hierarchy, and I/O interface design
+/
+Software Engineering
+Introduction to software engineering principles, with special emphasis on the process, methods, and tools needed to develop and test quality software products and systems.
+/
+Operating Systems Engineering
+The design and construction of operating systems for both individual computers and distributed (networked) systems. Basic concepts and methods for managing processor, main memory, block-structured storage, and network resources are covered. Detailed examples are taken from a number of operating systems, emphasizing the techniques used in networked versions of UNIX. These techniques are applied to design improvements of portions of a simplified, networked, UNIX-based operating system; the improvements are implemented and their performance is evaluated in laboratory experiments
+/
+Introduction To Computer Communication Networks
+An introduction to the design and implementation of computer communication networks. The focus is on the concepts and the fundamental design principles that have contributed to the global Internet success. Topics include: digital transmission and multiplexing, protocols, MAC layer design (Ethernet/802.11), LAN interconnects and switching, congestion/flow/error control, routing, addressing, performance evaluation, internetworking (Internet) including TCP/IP, HTTP, DNS etc
+/
+Computer Network Systems
+The goal of this course is to provide students with a proper grounding in the basic concepts and seminal work in computer network protocols and systems, and to introduce students to research in the field. The course will cover classical concepts such as network architecture, switching, routing, congestion control, and quality-of-service, and discuss recent developments in these areas. The course will also cover new developments in networking such as network measurements, network management, overlay networking and peer-to-peer systems, network security, and new network architectures.
+/
+Introduction To Compilers And Translation Engineering
+The design and construction of compilers and other translators. Topics include compilation goals, organization of a translator, grammars and languages, symbol tables, lexical analysis, syntax analysis (parsing), error handling, intermediate and final code generation, assemblers, interpreters, and an introduction to optimization. Emphasis is on engineering a compiler or interpreter for a small programming language - typically a C or Pascal subset
+/
+Compilers And Translator Writing Systems
+This course presents the concepts needed to efficiently design and implement translators. Basic compiler/translation theory and technology are briefly reviewed, after which the course focuses on software tools for the automatic construction of translators, as well as more complex concepts involving the construction of compiler symbol tables, etc. Using C on ECN UNIX, each student will construct a simple lexical-recognizer generator, parser generator, and code-generator generator. Basic understanding of compilers and proficiency in C language required
+/
+Software For Embedded Systems
+This course provides an introduction to software design for embedded computing systems. Major topics covered include the importance of time and timing in embedded systems, embedded software organization (FSM-based program design, polled loop systems, foreground-background systems, event driven architectures, multi-tasking, etc.), real-time scheduling and real-time operating systems, wired/wireless networked embedded systems, debugging techniques for embedded software, and advanced topics such as memory-safe programming, implementing reentrant functions, and minimizing code space, memory usage, and power consumption. The course features a series of integrated assignments using state-of-the-art embedded hardware platforms, embedded software design tools, and real-time operating systems that reinforce the concepts taught in the lectures. 
+/
+Embedded Systems
+This course provides an introduction to the design of embedded and ubiquitous computing systems including their hardware and software architectures, design methodologies and tools, and communication protocols. The lectures are organized into three parts namely, (a) basic design principles including specification and modeling, hardware components and platforms, software organization, embedded and real-time operating systems, interfacing with external environments using sensors and actuators, and communication in distributed embedded systems, (b) advanced topics such as energy management, safety and reliability, and security, and (c) case-studies of real-world systems from a variety of embedded application domains such as biomedical devices, smart cards and RFID, networked sensors, personal computing devices, home appliances and electronics, mobile robotics, etc. In addition to hands-on programming assignments using off-the-shelf embedded system development kits, the course will feature a comprehensive project where students will design, implement, and evaluate a prototype embedded system. 
+/
+Introduction To Artificial Intelligence
+The course introduces fundamental areas of artificial intelligence: knowledge representation and reasoning; machine learning; planning; game playing; natural language processing; and vision.
+/
+Artificial Intelligence
+Introduction to the basic concepts and various approaches of artificial intelligence. The first part of the course deals with heuristic search and shows how problems involving search can be solved more efficiently by the use of heuristics and how, in some cases, it is possible to discover heuristics automatically. The next part of the course presents ways to represent knowledge about the world and how to reason logically with that knowledge. The third part of the course introduces the student to advanced topics of AI drawn from machine learning, natural language understanding, computer vision, and reasoning under uncertainty. The emphasis of this part is to illustrate that representation and search are fundamental issues in all aspects of artificial intelligence.
+/
+C Programming
+Fundamental principles, concepts, and methods of programming in C, with emphasis on applications in the physical sciences and engineering. Basic problem solving and programming techniques; fundamental algorithms and data structures; and use of programming logic in solving engineering problems.
+/
+Aeromechanics I
+Fundamental concepts and principles of bodies in motion, with applications to aeronautical and astronautical problems. Subjects covered include rectilinear motion, curvilinear motion, rotation, and plane motion. The static equilibrium and quasistatic equilibrium situations are treated as a part of motion in which the acceleration is zero. Problems involving impact, separation, work, and energy are considered
+/
+Biomolecules: Structure, Function, And Engineering Applications
+Classes of molecules (biomolecules) such as sugars, lipids, proteins, and nucleic acids that form the cellular components of living organisms. Explores the chemistry behind the structure and function of these important classes of biological molecules. Hydrogen-bonding, hydrophobic forces, electrostatis interactions along with other weak interactions discussed with reference to their importance in biomolecular systems in an engineering context.
+/
+Basic Mechanics I
+Statics of particles. Rigid bodies: equivalent systems of forces, equilibrium. Centroids and centers of gravity. Static analysis of trusses, frames, and machines. Friction. Area moments of inertia
+/
+Introduction To Environmental And Ecological Engineering
+Introduction to water pollution, air pollution, noise, hazardous and solid wastes, and their control. Environmental impact statements and global pollution issues. Field trips required
+/
+Physico-Chemical Principles Of Environmental Engineering
+This course presents basic physico-chemical aspects of air, water, and wastewater pollution, and pollution control methods. Topics covered in the course include acid/base chemistry, solubility, colloidal chemistry, sorption processes, and oxidation-reduction. Selected physico-chemical processes and analytical procedures are discussed, demonstrated, and applied in the laboratory
+/
+Engineering Environmental Sustainability
+An introduction to the examination of global-scale resource utilization, food, energy and commodity production, population dynamics, and their ecosystem impacts.
+/
+Chemical Engineering Calculations
+Quantitative applications of steady-state mass and energy balances to solve problems involving multi-component systems and multi-unit chemical processes. Single-component and multi-component phase equilibria, single-reaction and multiple-reaction stoichiometry, coupled mass and energy balances, chemical processes involving bypass and recycle streams.
+/
+Engineering Environmental Sustainability
+An introduction to the examination of global-scale resource utilization, food, energy and commodity production, population dynamics, and their ecosystem impacts
+/
+Operations Research - Optimization
+Introduction to deterministic optimization modeling and algorithms in operations research. Emphasis on formulation and solution of linear programs, networks flows, and integer programs.
+/
+Operations Research - Stochastic Models
+Introduction to probabilistic models in operations research. Emphasis on Markov chains, Poisson processes, and their application to queuing systems.
+/
+Thermodynamics I
+First and second laws of thermodynamics, entropy, reversible and irreversible processes, properties of pure substances. Application to engineering problems.
+/
+Basic Mechanics I
+Vector operations, forces and couples, free body diagrams, equilibrium of a particle and of rigid bodies. Friction. Distributed forces. Centers of gravity and centroids. Applications from structural and machine elements, such as bars, trusses, and friction devices. Kinematics and equations of motion of a particle for rectilinear and curvilinear motion. 
+/
+Noise Control
+Fundamentals of acoustic waves. Psychoacoustics and theories of hearing. Environmental and building acoustics. Measurement methods and common instrumentation. Noise control methods. Machinery noise. Community reaction. Legal aspects.
+/
+Structure And Properties Of Materials
+The relationship between the structure of materials and the resulting mechanical, thermal, electrical, and optical properties. Atomic structure, bonding, atomic arrangement; crystal symmetry, crystal structure, habit, lattices, defects, and the use of X-ray diffraction. Phase equilibria and microstructural development
+/
+Introduction to Nuclear Engineering
+A course designed to acquaint students with the field of nuclear engineering and design. Concepts of fission, fusion, radioactivity, and neutron physics are introduced. Nodern applications of nuclear technology, including nuclear medicine, food preservation, space reactors and propulsion
+/
+Multivariate Calculus
+Planes, lines, and curves in three dimensions. Differential calculus of several variables; multiple integrals. Introduction to vector calculus
+/
+Linear Algebra
+Introduction to linear algebra. Systems of linear equations, matrix algebra, vector spaces, determinants, eigenvalues and eigenvectors, diagonalization of matrices, applications
+/
+Ordinary Differential Equations
+First order equations, second and n’th order linear equations, series solutions, solution by Laplace transform, systems of linear equations. 
+/
+Discrete Mathematics For Computer Engineering
+This course introduces discrete mathematical structures and finite-state machines. Students will learn how to use logical and mathematical formalisms to formulate and solve problems in computer engineering. Topics include formal logic, proof techniques, recurrence relations, sets, combinatorics, relations, functions, algebraic structures, and finite-state machines.
+/
+Multivariate Calculus
+Planes, lines, and curves in three dimensions. Differential calculus of several variables; multiple integrals. Introduction to vector calculus.
+/
+Linear Algebra And Differential Equations
+Linear algebra, elements of differential equations.
+/
+Discrete Mathematics For Computer Engineering
+This course introduces discrete mathematical structures and finite-state machines. Students will learn how to use logical and mathematical formalisms to formulate and solve problems in computer engineering. Topics include formal logic, proof techniques, recurrence relations, sets, combinatorics, relations, functions, algebraic structures, and finite-state machines
+/
+Differential Equations And Partial Differential Equations For Engineering And The Sciences
+This is a methods course for juniors in any branch of engineering and science, designed to follow MA 26200. Basic techniques for solving systems of linear ordinary differential equations. Series solutions for second order equations, including Bessel functions, Laplace transform, Fourier series, numerical methods, separation of variables for partial differential equations and Sturm-Liouville theory.
+/
+Introduction To Logic
+Propositional calculus and predicate calculus with applications to mathematical proofs, valid arguments, switching theory, and formal languages.
+/
+Elements Of Complex Analysis
+Complex numbers and complex-valued functions; differentiation of complex functions; power series, uniform convergence; integration, contour integrals; elementary conformal mapping. 
+/
+Vector Calculus
+Calculus of functions of several variables and of vector fields in orthogonal coordinate systems. Optimization problems, implicit function theorem, Green’s theorem, Stokes’ theorem, divergence theorems. Applications to engineering and the physical sciences. 
+/
+Numerical Methods
+Iterative methods for solving nonlinear equations; direct and iterative methods for solving linear systems; approximations of functions, derivatives, and integrals; error analysis.
+/
+Electric And Magnetic Interactions
+Calculus-based physics course using concepts of electric and magnetic fields and an atomic description of matter to describe polarization, fields produced by charge distributions, potential, electrical circuits, magnetic forces, induction, and related topics, leading to Maxwell’s equations and electromagnetic radiation and an introduction to waves and interference. 3-D graphical simulations and numerical problem solving by computer are employed throughout
+/
+Fundamentals Of Biology I
+This course is designed primarily to provide an introduction to the principles of biology for students in agriculture and health sciences. Principles of biology, focusing on diversity, ecology, evolution, and the development, structure, and function of organisms
+/
+Fundamentals Of Biology II
+This course is designed primarily to provide an introduction to the principles of biology for students in agriculture and health sciences.Principles of biology, focusing on cell structure and function, molecular biology, and genetics.
+/
+Biology I: Diversity, Ecology, And Behavior
+Creates a framework for ordering biology by examining the unity and diversity of life on earth with an emphasis on ecology, genetics, population biology, evolution, and behavior.
+/
+First Year Biology Laboratory
+Laboratory exercises emphasizing student mastery of basic laboratory skills needed to succeed in the biological sciences; intended for beginning (first-year) biology majors
+/
+Biology II: Development, Structure, And Function Of Organisms
+Principles of development of plants and animals and the relationship between the structure and function of selected systems of these organisms.
+/
+General Chemistry
+Solutions; quantitative equilibria in aqueous solution; introductory thermodynamics; oxidation-reduction and electrochemistry; chemical kinetics; qualitative analysis; further descriptive chemistry of metals and nonmetals
+/
+General Chemistry For Engineers II
+Chemical equilibria; elementary thermodynamics; electrochemistry; phase diagrams; and nuclear chemistry. Examples will be taken from alloys and ceramics; semiconductors; organic chemistry; and polymers.
+/
+Intermediate Mechanics
+For students familiar with calculus. Elements of vector algebra; statics of particles and rigid bodies; theory of couples; principle of virtual work; kinematics; dynamics of particles and rigid bodies; work, power, and energy
+/
+Intermediate Optics
+Wave optics and properties of light, including reflection, refraction interference. Fraunhofer and Fresnel diffraction dispersion, polarization, double refraction, introduction to lasers and holography.
+/
+Modern Physics I
+A survey of basic concepts and phenomena in atomic, nuclear, and solid-state physics.
+/
+Modern Physics II
+Survey of modern physics primarily intended for physics majors. Special relativity; particle properties of electromagnetic radiation; wave properties of particles; uncertainty principle; atomic spectra and X-rays; nuclear structure; elementary particles; statistical distribution laws; physics of atoms, molecules and condensed matter such as solids.
+/
+
+

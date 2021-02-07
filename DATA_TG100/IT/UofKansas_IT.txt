@@ -1,0 +1,100 @@
+/
+College Algebra
+Coordinate systems, functions and their graphs; linear, quadratic, general polynomial, rational, exponential, and logarithmic functions;equations and inequalities; linear and non-linear systems and matrices.
+/
+Survey of Accounting
+This course is an introduction to financial and managerial accounting. It will introduce the concepts of business and the measurement systems used to control and evaluate business activities. It will also explore product costing systems and the use of accounting data as a basis for management planning and decision making.
+/
+Fundamentals of Financial Accounting
+Accounting 200 is an introduction to the concepts of business and the measurement systems used to control and evaluate business activities. 
+/
+Programming I
+Problem solving using a high level programming language and object oriented software design. Fundamental stages of software development are discussed: problem specification, program design, implementation, testing, and documentation. Introduction to programming using an object oriented language: using classes, defining classes, and extending classes. Introduction to algorithms and data structures useful for problem solving: arrays, lists, files, searching, and sorting.
+/
+Principles of Molecular and Cellular Biology
+An integrated lecture and laboratory course for biology majors and students planning to take additional courses in biology. This course covers basic biochemistry, cell structure and function, molecular biology, genetics, physiology, and development of plants and animals. 
+/
+General Chemistry I
+This course seeks to develop a working knowledge of the conceptual foundation and the quantitative chemical relationships on which subsequent chemistry courses are built. Atomic structure, chemical bonding, reaction stoichiometry, thermochemistry, and periodic trends are emphasized in this integrated lecture and laboratory course.
+/
+General Psychology
+A basic introduction to the science of psychology.
+/
+Introductory Economics
+An introduction to modern economics designed primarily for students who do not plan to major in economics. Topics include economic history, the operation of economic institutions, and the formation and execution of economics policies to meet the current problems of the domestic and international economy. Course may be offered in lecture or online format. 
+/
+Principles of Microeconomics
+An analytical introduction to microeconomics. Topics include theory of markets, public policy, international trade, economic efficiency, and equity.
+/
+Principles of Macroeconomics
+An analytical introduction to macroeconomics. Topics include determination of aggregate income, employment, inflation, exchange rates, and the role of fiscal and monetary policy in dealing with unemployment, inflation, and economic growth. 
+/
+Programming II
+This course continues developing problem solving techniques by focusing on the imperative and object-oriented styles using Abstract Data Types. Basic data structures such as queues, stacks, trees, and graphs will be covered. Recursion. Basic notions of algorithmic efficiency and performance analysis in the context of sorting algorithms. Basic Object-Oriented techniques. An associated laboratory will develop projects reinforcing the lecture material.
+/
+College Physics I
+Principles and applications of mechanics, fluids, heat, thermodynamics, and sound waves. Three class hours and one laboratory per week. This course emphasizes the development of quantitative concepts and problem solving skills for students needing a broad background in physics as part of their preparation in other major programs, and for those who wish to meet the laboratory science requirement of the College.
+/
+Foundations of Technical Writing
+Introduces students to the principles of technical communication. Students learn to organize, develop, write, and revise various technical documents (e.g., letters, manuals, presentations, proposals, reports, resumes, websites) often needed in business, engineering and scientific settings.
+/
+Computer Organization and Platform Technologies
+Machine-level representation of data, digital logic and digital systems, computer architecture and organization, computing infrastructure, introduction to multiprocessing systems, firmware, hardware and software integration , introduction to intersystems communications, enterprise deployment management introduction to virtual machine emulation, platform technologies.
+/
+Computer and Information Security
+Fundamentals of computer security, security mechanisms, information states, security attacks, threat analysis models, vulnerability analysis models, introduction to cryptography, authentication, intrusion detection, intrusion prevention (firewalls), operating systems security, database security, software security, host hardening, incident and disaster response.
+/
+Elementary Statistics
+Elementary descriptive statistics of a sample of measurements; probability; the binomial, Poisson, and normal distributions, populations and sampling from populations; simple problems of statistical inference. 
+/
+Survey of Management and Leadership
+This course is designed to acquaint students with traditional business management ideas, recent management thinking, and the contemporary application of both to the management functions of planning, organizing, leading and controlling. A survey of a wide variety of topics is offered, generally including goal setting, strategy formulation and implementation, managerial decision making, structure and design of organizations, corporate culture, organizational change and development, human resources management, managing diversity, leading, motivation, communication, teamwork, quality control, management control systems, operations and service management, entrepreneurship and small business management, managerial ethics, corporate social responsibility, and management in the global environment.
+/
+System and Network Administration
+This course introduces operating systems and network administration and presents topics related to selection, installation, configuration, and maintenance of operating systems and computer networks. Topics to be covered include: Unix and Windows operating systems installation, configuration, and maintenance, server administration and management, client and server services, user and group management and support, software systems installation and configuration, content management and deployment, security management, network administration, backup management and disaster recovery, resource management, automation management, operating systems and Web domain management, operating systems and application version control management. A laboratory component will provide hands-on experience with system and network administration.
+/
+Web Systems and Technologies
+The objective of this course is to discuss how the Web systems are programmed and maintained and how online pages are created and delivered by Web servers and used by clients. Topics to be covered include: Web systems and technologies, information architecture, digital media, Web development, Web standards, vulnerabilities, social network software, client-side programming, server-side programming, Web services and servers, XHTML, CSS, flash and CGI programming, CSS, Web systems security, JavaScript, PHP, and emerging technologies. 
+/
+Information Security Management
+The objective of this course is to present topics related to the administration and management of information security. Topics to be covered include: security fundamentals, operational issues, cost-benefit analysis, asset management, security risk management, security policies and enforcement, risk avoidance, risk prevention, risk transfer, security services, security forensics, contingency planning, security auditing. 
+/
+Project Management
+This course develops a systems view of business so students can more effectively integrate project management into their business strategy. A common language and knowledge of project management concepts, principles and practices is developed. Students develop an understanding of what project management involves, how it relates to other functional management areas, and its role in an organization's structure and leadership. Topics are covered in the order they appear in the project lifecycle starting with project selection and bidding and ending with project acceptance and close out. Topics covered in this course include: the importance and role of project management, the contextual nature of projects, logistics issues in project management, and the E-business impact on project management. 
+/
+Software Engineering and Management
+This course introduces the software development life cycle and key concepts related to software engineering. Topics include software process models, software project management, software requirements engineering, formal and informal modeling, software architecture, software design, coding and implementation, software testing and quality assurance, software deployment, and software evolution. Additional topics such as software metrics and measures, application domains, software engineering standards, and software configuration management will also be presented. This is a project-driven course. 
+/
+Operating Systems
+This course introduces operating systems principles and associated key concepts. Topics to be discussed include: processes and threads, concurrency, scheduling and dispatch, memory management, processor management, device management, security and protection, file system, disk scheduling, real-time and embedded systems, fault tolerance, scripting, and an introduction to virtualization.
+/
+Computer Networks
+Foundations of computer networking with practical applications and network administration, with emphasis on the Internet and wireless public switched telephone network. Topics to be covered include routing and switching, routing algorithms, physical layer, data link layer, network layer, network security, network management, and application areas. 
+/
+IT Capstone I
+Capstone is a senior level course designed to allow a student to review, analyze, integrate, and apply technical knowledge in a meaningful and practical manner. The student will be expected to complete an approved academic project in IT that may be in collaboration with an industrial partner. 
+/
+System Integration and Architecture
+This course introduces system integration and architecture. Key concepts to be presented include: system architecture, system requirements, organizational context, acquisition and sourcing, system and component integration, middleware platforms, design patterns, integrative coding, scripting coding, testing and quality assurance, system deployment. 
+/
+Human-Computer Interaction
+This course introduces principles of human-computer interaction. Important topics to be presented include: human factors, human-centered design and evaluation, graphical user interfaces, multimedia system integration, interactive systems development, computer-supported cooperative work, human cognitive skills, accessibility, alternative input/output media, and emerging technologies.
+/
+Social and Professional Issues
+This course will provide an overview of the history of computing and presents key concepts related to the social and professional aspects of IT. Topics to be covered include: pervasive themes in IT, social context of computing, intellectual property, legal issues in computing, professional and ethical issues and responsibilities, privacy and civil liberties. 
+/
+IT Capstone II. 3 Hours.
+Senior level course designed to allow a student to review, analyze, integrate, and apply technical knowledge in a meaningful and practical manner. The student will be expected to complete an approved academic project in IT that may be in collaboration with an industrial partner.
+/
+Composition
+Instruction and practice in writing in a variety of rhetorical contexts, including academic ones. 
+/
+Critical Reading and Writing.
+Critical Reading and Writing.
+/
+Discrete Structures
+Mathematical foundations including logic, sets and functions, general proof techniques, mathematical induction, sequences and summations, number theory, basic and advanced counting techniques, solution of recurrence relations, equivalence relations, partial order relations, lattices, graphs and trees, algorithmic complexity, and algorithm design and analysis. Throughout there will be an emphasis on the development of general problem solving skills including algorithmic specification of solutions and the use of discrete structures in a variety of applications
+/
+
+
+

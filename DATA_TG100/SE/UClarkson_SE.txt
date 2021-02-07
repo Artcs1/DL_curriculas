@@ -1,0 +1,279 @@
+/
+General Chemistry I
+A general overview of chemistry, including principles and theories as
+well as descriptive chemistry of important elements and
+compounds.
+/
+Introduction to Computer Science I
+This course is an introduction to basic concepts of computer science,
+with emphasis on programming. Computer programming is to the
+study of computer science what writing is to the study of literature.
+It is a primary tool for implementing algorithms in computer science.
+Fundamental techniques for software design and implementation
+will be covered and these concepts demonstrated in a programming
+language like C++. 
+/
+Introduction to Engineering Use of the Computer
+Introduction to computer programming using equation solving software applied to engineering problems.
+/
+Engineering and Society
+Engineers apply scientific knowledge and principles, and use the
+engineering design process to develop technology. While engineers
+frequently develop solutions to problems in controlled
+environments, the products that are developed are used by 'real
+people' in the 'real world.' Thus, it is essential that engineers have an
+understanding o the interactions between engineering, technology
+development, and society. 
+/
+Calculus I
+Functions and graphs; derivative concept and formulas, including
+chain rule and implicit differentiation; integral concept; the
+Fundamental Theorem of Calculus; properties and applications of
+the derivative, including max-min problems and graph sketching;
+exponential, logarithmic, and inverse trigonometric functions.
+/
+Calculus II
+roperties and applications of the
+integral, including areas, volumes, arc length and differential
+equations; integration techniques, including parts, partial fractions,
+trigonometric substitution, and numerical integration;
+indeterminate forms; improper integrals; infinite series and Taylor
+series; introduction to polar coordinates, complex numbers, and
+parametric equations. 
+/
+Physics I
+Calculus-based general physics course covering elements of
+Newtonian mechanics and thermal physics. Laboratory experiments
+keyed to the lectures to illustrate and demonstrate some of the
+physical principles and concepts.
+/
+Physics II
+Calculus-based general physics course covering elements of
+electricity and magnetism, waves and optics. Laboratory
+experiments keyed to the lectures to illustrate and demonstrate
+some of the physical principles and concepts.
+/
+Programming Languages
+This course examines the major paradigms underlying modern
+programming languages. The course currently focuses on objectoriented and logic programming. The rationale of the paradigms is
+discussed along with typical programming idioms used with them.
+/
+Algorithms and Data Structures
+The course also introduces the basic formalism
+and concepts used in the analysis of algorithms. 
+/
+Operating Systems
+This course is an introduction to the concepts of operating systems,
+their structures and organization. Major topics include process
+management (asynchronous processes, interprocess communication
+and synchronization, multithreading, deadlock and starvation,
+scheduling), storage management (paging/segmentation, virtual
+memory, file systems), protection and security issues, and an
+introduction to distributed systems.
+/
+Formal Methods for Program Verification
+Formal methods are algorithms and techniques that actually prove
+that a program meets its design criteria, and are the only way to
+guarantee that a program works correctly. As computer software
+increases in size and complexity, formal methods are becoming an
+essential part of software engineering. This is especially true of
+safety critical and life critical systems, where software errors can
+have life threatening consequences
+/
+Linear Circuits
+Steady state response of linear circuits to both sinusoidal and
+periodic inputs. AC steady-state power. Magnetically coupled
+circuits. Network functions, transfer functions, gain and phase shift.
+Bode plots. Fourier series. Laplace transform. The relationship
+between the time and frequency domain solutions. 
+/
+Embedded Systems
+An introductory course covering the fundamentals of
+microcontroller hardware and software. Topics include
+microcontroller systems, input/output (I/O) standards and data
+communication protocols, interfacing with memory systems and
+sensors, data collection, display, and control of peripheral modules
+and actuators. The microcontroller will be programmed in the C
+programming language. Interfacing assembly language to high level
+language code will be treated as well. 
+/
+Intro to Object-Oriented Programming and Software Design
+A thorough introduction to Object Oriented Programming, including
+classes, inheritance and subtyping, overloading, and overriding.
+Dynamic memory management. Debugging. Introduction to Testing
+Driven Development. Introduction to fundamental data structures. 
+/
+Introduction to Digital Design
+An introductory course covering the fundamentals of computer
+system hardware. Topics include data representation using number
+systems and codes, Boolean algebra and logic, digital logic devices,
+combinational and sequential circuits, arithmetic logic units and
+simple processor organization including registers, memory,
+addressing and processing of machine instructions. 
+/
+Fundamentals of Software Engineering
+This is a foundation course in the design of computer software. It
+covers fundamental techniques and methodologies for software
+design and implementation. Topics include the software engineering
+life cycle, object-oriented design, data and procedural abstraction,
+recursion, iteration, file I/O, and elementary data structures. 
+/
+Software Components and Generic Programming
+This course is concerned with software design principles that foster
+creation of reusable software components. Topics include abstract
+data types, behavioral inheritance and subtyping, generics, interface
+design, dependency injection, and analysis of algorithmic behavior.
+Students will gain experience with software development best
+practices including design of test scenarios, unit testing, code
+reviews, refactoring and version control in the context of a modern
+integrated development environment. 
+/
+Software Engineering
+Study of the principles and practices of software engineering. Topics
+include software quality concepts, process models, software
+requirements analysis, design methodologies, software testing, and
+software maintenance. Hands-on experience building a software
+system using the waterfall life cycle model and CASE tools. Students
+working in teams develop all life cycle deliverables: requirements
+document, specification and design documents, system codes, and
+user manuals.
+/
+Computer Networks
+This course covers layered networking
+protocols with an emphasis on common Internet protocols such as
+TCP, IP, HTTP, and SMTP. It also covers local area networking,
+focusing on link layer standards such as the IEEE standards for
+Ethernet and wireless. 
+/
+Software Design For Visual Environments
+This course is an introduction to object-oriented, event-driven
+windowing environments. The primary focus will be interface design
+and development, with an emphasis placed on the event-driven
+paradigm. Topics will include: a thorough investigation of the
+underlying windowing framework selected, an examination of static
+and dynamic control objects used for system input and output,
+virtual functions, multithread programming, code synchronization
+and locking, and resource sharing. 
+/
+Software Engineering Senior Design
+Working in a team environment, students will design and develop a
+complex software system. Using sound software engineering
+techniques, the students will take a conceptual idea for a software
+system and turn it into a well-engineered product. 
+/
+Software System Architecture
+A study of system software components in the context of a modern
+operating system such as UNIX, together with the necessary tools
+and utilities for software development. Topics will include software
+development tools, operating system interfaces and utilities, and
+network access methods. Emphasis will be placed on conceptual
+understanding and practical use of system software components
+rather than on detailed implementation.
+/
+Computer Architecture
+A study of modern processor system architecture including set
+design and performance enhancement of computer systems will be
+discussed. Topics include pipelining, cache organization, memory
+management, and multiprocessors. Tradeoffs in system design and
+the impact of hardware/software interactions will be discussed. 
+/
+Database Systems
+An introduction to database systems. The
+entity-relationship and relational models are presented and applied
+to the design of typical databases. New developments in objectoriented and multimedia databases are presented.
+/
+Electrical Science
+Network concepts. DC circuits: mesh and node equations, network
+theorems, operational amplifiers. Complex numbers, effective
+values, sinusoids and phasors. AC circuits: phasor diagrams, power.
+Time domain solution of first order circuits.
+/
+Foundations
+A transitional course between the technique-oriented lower level
+courses and the concept-oriented upper level courses in both
+mathematics and computer science. Logic, numbers, sets, functions,
+equivalence relations, completeness, combinatorics. Additional
+topics may include probability and number systems.
+/
+Calculus III
+Vectors and vector-valued functions; functions of several variables;
+partial differentiation, including the chain rule, gradients, and
+maxima and minima; multiple integration, including polar,
+cylindrical, and spherical coordinates; vector calculus, including
+Green's, Divergence, and Stokes's Theorems. 
+/
+Elementary Differential Equations
+Solutions and applications of first-order differential equations and
+linear differential equations with constant coefficients. Laplace
+transform methods. Introduction to matrix algebra, systems of
+algebraic equations, eigenvalues and eigenvectors, with application
+to systems of differential equations. 
+/
+Probability
+Sample spaces; axioms of probability;
+basic theorems; random variables (discrete and continuous);
+combinatorial methods; Bayes' Theorem and conditional probability;
+expected values and variances; distribution functions, including:
+binomial and multinomial, Poisson, normal and bivariate normal
+distributions, and others such as geometric, hypergeometric,
+negative binomial, exponential, gamma and beta; joint distributions;
+covariance and correlation; central limit theorem; geometric
+probability; method of transformations; introduction to stochastic
+processes. 
+/
+Probability and Statistics
+A calculus based introduction to topics in probability and statistics.
+Probability content includes events and sample spaces, the basic
+axioms of probability, discrete and continuous random variables
+(definitions and basic characterizations such as the means and
+variances) including binomial, Poisson, normal, exponential, studentt, and uniform distributions. Topics in statistics include the central
+limit theorem, statistical inference including confidence intervals
+and hypothesis testing for one and two sample data, and linear
+regression. 
+/
+Professional Experience for Engineering Majors
+This course number is used to matriculate the Professional
+Experience requirement of the Clarkson Common Experience
+curriculum. The student must participate in a project-based
+professional experience such as a co-op, internship, directed
+research, significant responsibility in an appropriate team project, or
+a community project clearly related to the student's professional
+goals.
+/
+/
+Advanced Programming Concepts in Java
+Topics will include basic object-oriented programming
+design, graphical user interfaces (GUIs), exception handling,
+multithreading and synchronization, networking, and client/server
+applications. The programming language Java with its companion
+OOP/GUI libraries will be used to illustrate these topics.
+/
+Dynamical Systems
+Dynamic systems classification,
+mathematical modeling of mechanical, electrical and mixed dynamic
+systems, state space representation, equilibrium points and
+linearization, solution of linear input/output and state equations,
+Laplace transforms, transfer functions and block diagrams, first and
+second order systems, stability, frequency response and simulation
+techniques.
+/
+Energy Conversion
+Properties of magnetic materials. Magnetic circuits and
+transformers. Fundamentals of rotating magnetic-field machines.
+Synchronous machines. Induction machines. Phasor diagrams and
+equivalent circuits of transformers, induction machines and
+transformers. DC machines.
+/
+Power System Engineering
+Transmission line and transformer models. Per unit. Power transfer
+equations and their solution and interpretation. Maximum power
+transfer. Symmetrical components and fault current calculation.
+Computer analysis methods for power systems. 
+/
+Microelectronics
+Theory of semiconductor materials, p-n junctions, bipolar and field
+effect transistors. Analysis of device characteristics, device modeling
+and equivalent-circuits. PSpice simulation of electronic circuits.
+Applications including study of biasing, low frequency amplifiers,
+switching circuits and digital logic operations. 
+/

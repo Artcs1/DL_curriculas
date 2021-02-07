@@ -1,0 +1,84 @@
+Introduction to Programming
+A first course in programming, software development, and computer science. Introduces computing fundamentals and an appreciation for computational thinking.
+/
+Software Development Methods
+A second course in computing with an emphasis on modern software development and principles central to computer science. Topics include software requirements, testing, object-oriented design, abstraction, encapsulation, recursion, and time-complexity.
+/
+Discrete Mathematics
+Introduces discrete mathematics and proof techniques involving first order predicate logic and induction. Application areas include finite and infinite sets, elementary combinatorial problems, and graph theory. Development of tools and mechanisms for reasoning about discrete problems
+/
+ECE Fundamentals I
+Electrical circuits with linear applications of passive and active elements; Kirchhoff’s voltage and current laws to derive circuit equations; solutions for first- and second-order transient and DC steady-state responses; AC steady-state analysis; frequency and time domain signal representations; Fourier series; phasor methods; complex impedance; transfer functions; Thevenin/Norton equivalent models; controlled sources
+/
+ECE Fundamentals II
+Studies the modeling, analysis, design, computer simulation, and measurement of electrical circuits which contain non-linear devices such as junction diodes, bipolar junction transistors, and field effect transistors. Includes the gain and frequency response of linear amplifiers, power supplies, and other practical electronic circuits. This course is taught in the studio mode with mixed lecture and lab
+/
+Program and Data Representation
+Introduces programs and data representation at the machine level. Data structuring techniques and the representation of data structures during program execution. Operations and control structures and their representation during program execution. Representations of numbers, arithmetic operations, arrays, records, recursion, hashing, stacks, queues, trees, graphs, and related concepts.
+/
+Digital Logic Design
+Includes number systems and conversion; Boolean algebra and logic gates; minimization of switching functions; combinational network design; flip-flops; sequential network design; arithmetic networks. Introduces computer organization and assembly language.
+/
+ECE Fundamentals III
+Develops tools for analyzing signals and systems operating in continuous-time, with applications to control, communications, and signal processing. Primary concepts are representation of signals, linear time-invariant systems, Fourier analysis of signals, frequency response, and frequency-domain input/output analysis, the Laplace transform, and linear feedback principles. 
+/
+Introduction to Embedded Computer Systems
+An embedded computer is designed to efficiently and (semi-) autonomously perform a small number of tasks, interacting directly with its physical environment. This lab-based course explores architecture and interface issues relating to the design, evaluation and implementation of embedded systems . Topics include hardware and software organization, power management, digital and analog I/O devices, memory systems, timing and interrupts
+/
+Advanced Software Development Techniques
+Analyzes modern software engineering practice for multi-person projects; methods for requirements specification, design, implementation, verification, and maintenance of large software systems; advanced software development techniques and large project management approaches; project planning, scheduling, resource management, accounting, configuration control, and documentation
+/
+Operating Systems
+Analyzes process communication and synchronization; resource management; virtual memory management algorithms; file systems; and networking and distributed systems.
+/
+Computer Architecture & Design
+Introduces computer architecture and provides a foundation for the design of complex synchronous digital devices, focusing on: 1) Established approaches of computer architecture, 2) Techniques for managing complexity at the register transfer level, and 3) Tools for digital hardware description, simulation, and synthesis.
+/
+Embedded System Design
+Modeling, analysis and design of embedded computer systems. Tradeoff analysis and constraint satisfaction facilitated by the use of appropriate analysis models.
+/
+Computer Networks
+A first course in communication networks for upper-level undergraduate students. Topics include the design of modern communication networks; point-to-point and broadcast network solutions; advanced issues such as Gigabit networks; ATM networks; and real-time communications
+/
+Single Variable Calculus II
+Includes the concepts of differential and integral calculus and applications to problems in geometry and elementary physics, including inverse functions, indeterminate forms, techniques of integration, parametric equations, polar coordinates, infinite series, including Taylor and Maclaurin series
+/
+Multivariable Calculus
+Topics include vectors in three-space and vector valued functions. The multivariate calculus, including partial differentiation, multiple integrals, line and surface integrals, and the vector calculus, including Green’s theorem, the divergence theorem, and Stokes’s theorem. 
+/
+Probability
+A calculus-based introduction to probability theory and its applications in engineering and applied science. Includes counting techniques, conditional probability, independence, discrete and continuous random variables, probability distribution functions, expected value and variance, joint distributions, covariance, correlation, the Central Limit theorem, the Poisson process, an introduction to statistical inference
+/
+Introductory Chemistry I for Engineers
+Introduces the principles and applications of chemistry. Topics include stoichiometry, chemical equations and reactions, chemical bonding, states of matter, thermochemistry, chemical kinetics, equilibrium, acids and bases, electrochemistry, nuclear chemistry, and descriptive chemistry of the elements
+/
+Introductory Chemistry I for Engineers Laboratory
+Introduction to experimental chemistry, developing laboratory skills & safety. Students plan & implement chemistry experiments in cooperative 4-person teams using a guided inquiry approach. Process skills include developing procedures, data analysis, oral & written communication. Mathematica as a computational tool. Topics: glassware characterization & accuracy, unknown identification of, & applications of solubility
+/
+Introduction to Engineering
+ENGR 1620 is a cornerstone course for first year engineering students. They are introduced to the philosophy and practice of engineering through hands-on experience in developing solutions for various open-ended, realistic challenges while considering the various contexts in which these challenges occur.
+/
+Science, Technology, and Contemporary Issues
+
+Print Course
+STS 1500 - Science, Technology, and Contemporary Issues
+This course introduces students to contemporary issues involving science, technology, and engineering as well as the core ideas of STS. Emphasis is on three ideas: a) engineering is a social endeavor; b) technology shapes and is shaped by society; and c) technologies are sociotechnical systems.
+/
+STS and Engineering Practice
+This course engages students with the idea that success in posing and solving engineering problems requires attention to the social dimensions of professional endeavors and practice. STS theories and methods are applied to student thesis projects. Students produce a prospectus for the senior thesis project
+/
+The Engineer, Ethics, and Professional Responsibility
+This course focuses on ethical issues in engineering. The key theme is that ethics is central to engineering practice. The professional responsibilities of engineers are examined. Students produce an STS Research paper linked to their technical thesis project and complete all of the requirements for the senior thesis
+/
+General Physics I: Mechanics, Thermodynamics
+First semester of introductory physics for engineers and scientists. Classical mechanics, including vector algebra, particle kinematics and dynamics, energy and momentum, conservation laws, rotational dynamics, oscillatory motion, gravitation, thermodynamics, and kinetic theory of gases
+/
+General Physics I Workshop
+General Physics I Workshop
+/
+General Physics II: Electricity & Magnetism, Optics
+Second semester of introductory physics for engineers and scientists. Electrostatics, including conductors and insulators; DC circuits; magnetic forces and fields; magnetic effects of moving charges and currents; electromagnetic induction; Maxwell’s equations; electromagnetic oscillations and waves. Introduces geometrical and physical optics.
+/
+General Physics II Workshop
+General Physics II Workshop
+/

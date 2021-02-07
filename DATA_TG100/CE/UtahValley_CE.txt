@@ -1,0 +1,91 @@
+/
+Introduction to Academic Writing
+Teaches rhetorical knowledge and skills, focusing on critical reading, writing, and thinking. Introduces writing for specific academic audiences and situations. Emphasizes writing as a process through multiple drafts and revisions
+/
+Public Speaking
+Provides an introduction to basic concepts, theories, principles of oral communication as applied to a variety of speaking situations. Develops competence in oral communication through performance, the development of critical thinking skills, arrangement of ideas, and use of evidence and reasoning to support claims
+/
+HUMANITIES
+HUMANITIES
+/
+Interpersonal Communication
+Examines the role of communication in interpersonal relationships. Includes the history of interpersonal communication research and theory, and applications such as negotiation, conflict management, listening, and assertiveness.
+/
+Physics for Scientists and Engineers I
+A calculus-based treatment of introductory physics for scientists and engineers. Topics include mechanics, fluid physics, thermodynamics, vibrations, and waves
+/
+Fundamentals of Programming
+Introduces the fundamental concepts of computer programming. Presents the ideas, tools, structure, syntax, and design techniques for developing well-formed programs. Studies problem solving, program structure, data types, decision logic, loops, functions, input and output, and arrays. Introduces the basic ideas of classes and objects. Requires students to program a number of assignments that demonstrate their understanding of these concepts.
+/
+Computer Networks I 
+A rigorous introduction to computer networking theory and technologies for Computer Science and Information Technology majors. Includes theory of data communications protocols; theory and design of transmission systems; transmission media; and communication software. Emphasizes the lower layers of the Open Systems Interconnection model. 
+/
+Computer Organization and Architecture
+Uses assembly language to introduce basic concepts of computer organization. Includes number systems, CPU organization, instruction sets, programming in assembly, memory organization, debugging, program design, and documentation
+/
+Computer Engineering Problem Solving with MATLAB and LabVIEW
+Computer Engineering Problem Solving with MATLAB and LabVIEW
+/
+Circuit Theory
+Circuit Theory
+/
+Digital Design I
+Digital Design I
+/
+Introduction to System Administration--Linux/UNIX
+Introduces the UNIX Operating System using the popular Linux OS. Explores the Linux file system, Linux administration, OS utilities, and program features and uses. Aids the student in the development, understanding, and working knowledge of the details of the Linux Operating System, memory organization, disk architectures, and demand paged virtual memory. Includes OS installation, user creation, rights management, loading daemons, and server best practices.
+/
+Calculus I 
+Covers limits, continuity, differentiation, applications of differentiation, integration, and applications of integration, including derivatives and integrals of polynomial functions, rational functions, exponential functions, logarithmic functions, trigonometric functions, inverse trigonometric functions, and hyperbolic functions.
+/
+Object-Oriented Programming
+Introduces the key concepts of object-oriented programming. Includes pointers and dynamic memory allocation, linked lists, inheritance and polymorphism, the development of graphical user interfaces, operator overloading, memory managment, exceptions, templates and the standard template library, and an overview of object-oriented analysis and design
+/
+Introduction to Algorithms and Data Structures
+Introduces data structures using an object-oriented programming language, and paradigm. Studies data abstraction as a design tool. Includes advanced arrays, records, dynamic data structures, searching and sorting, vectors, trees, linked lists, and graphs. Uses file I/O to store data structures. Discusses algorithm metrics
+/
+Discrete Mathematical Structures I
+For Computer Science Majors. Covers algebraic structures applied to computer programming. Includes logic, sets, elementary number theory, mathematical induction, recursion, algorithm complexity, combinatorics, and relations
+/
+Software Engineering
+Presents concepts, methodology and best-practices necessary to develop large scale software projects. Includes step-wise software requirements analysis, design, implementation, testing and release. Discusses software generation, reuse, scheduling, verification, and maintenance. Emphasizes current "real world" industry best-practices and tools.
+/
+Web Programming I 
+Covers design and development of browser-based programs with an emphasis on single-page applications. Teaches generation and modification of HTML via JavaScript, debugging techniques, communicating with web servers, and use of XML and JSON.
+/
+Operating Systems Theory
+Introduces the Unix operating system. Presents the underlying theory and concepts of an operating system, and covers the following topics in depth: device management, processes, threads, synchronization, scheduling, deadlocks, memory management, virtual memory, and file systems. Provides practical experience in writing programs that use standard Unix system calls to interface directly with the operating system.
+/
+Database Theory
+Introduces theory, concepts, architecture, and use of database management systems (DBMS). Presents the relational and object-oriented database models used in both local and client/server databases. Discusses the Structured Query Language (SQL), database design, normalization theory, and relational calculus relating to database management systems.
+/
+Engineering Analysis
+Engineering Analysis
+/
+Signals and Systems
+Signals and Systems
+/
+Embedded Systems II
+Embedded Systems II
+/
+Digital Signal Processing
+Digital Signal Processing
+/
+Electronic Systems
+Electronic Systems
+/
+Calculus II
+Includes integration techniques, arc length, area of a surface of revolution, moments and centers of mass, sequences and series, parametrization of curves and polar coordinates, vectors in 3-space, and quadric surfaces.
+/
+Physics for Scientists and Engineers I Lab
+Provides firsthand experience with the laws of mechanics, thermal physics, vibrations, and waves. Introduces methods of scientific data analysis.
+/
+Discrete Mathematical Structures I
+Covers algebraic structures applied to computer programming. Includes logic, sets, elementary number theory, mathematical induction, recursion, algorithm complexity, combinatorics, and relations.
+/
+Software Engineering
+Presents concepts, methodology and best-practices necessary to develop large scale software projects. Includes step-wise software requirements analysis, design, implementation, testing and release. Discusses software generation, reuse, scheduling, verification, and maintenance.
+/
+Database Theory
+Introduces theory, concepts, architecture, and use of database management systems (DBMS). Presents the relational and object-oriented database models used in both local and client/server databases. Discusses the Structured Query Language (SQL), database design, normalization theory, and relational calculus relating to database management systems.
+/

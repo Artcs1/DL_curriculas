@@ -1,0 +1,67 @@
+/
+Foundations of Computing
+This course follows the core body of knowledge specified by the ACM which provides students with a broad overview of topics they might encounter within the major areas of computing. The course is taught at an introductory level and includes topics such as: history of computers, computer architecture, operating systems, web design and development, programming, database, software engineering, networking, and more.
+/
+Programming I
+This course covers basic operating system navigation and components of the program development process. The majority of the course covers basic problem solving and program design of a software application using a selected language. Topics presented and discussed depending on selected language include: thinking logically to solve problems, working with input/output devices, compilation and library use, structured programming and modularity concepts, conditional and iterative structures including recursion, object oriented design, data types and structures, and pointers
+/
+Object-Oriented Programming
+An introduction to the C++ language. Topics will include data types, control structures, functions, pointers, arrays, I/O streams, classes, objects, encapsulation, overloading, inheritance and use of these concepts in problem solving
+/
+Computational Structures
+An overview of the fundamentals of algorithmic, discrete mathematics applied to computation using a contemporary programming language. Topics include sets, functions, logic, matrices, relations, graphs, trees, regular expressions, grammars, finite state machines, and data encoding.
+/
+Client Side Web Development
+This course provides an introduction to client-side programming and Web page development. Subjects covered include responsive Web page design and dynamic Web page development. The course will explore various technologies such as HTML5, CSS3, JavaScript client-side programming, and an introduction to a JavaScript framework.
+/
+Introduction to Data Structures and Algorithms
+General principles of common data structures and design of efficient algorithms. Topics include: arrays, linked-lists, stacks, queues, trees, graphs, tables, storage and retrieval structures, searching, sorting, hashing, and algorithmic analysis. Emphasis will be on abstraction, efficiency, re-usable code, and object-oriented implementation.
+/
+Software Engineering I
+An Object Oriented Analysis and Design course which provides practical guidance on the construction of object-oriented systems. Its specific goals are to provide a sound understanding of the fundamental concepts of the Software Development Life-Cycle, to teach quality design and development style through applications of object-oriented project development within a variety of problem domains, and provide coverage of current Software Engineering models and diagramming techniques.
+/
+Network Fundamentals and Design
+Provide an understanding of the basic networking terminology.  This will cover the theory of networking, types of network protocols, and wide and local area networks.  The student should have a good understanding of network terminology at the completion of the course.
+/
+Introduction to Database Design and SQL
+This course is an introduction to databases, specifically focusing on the relational database model, database design and modeling and the structured query language (SQL). Students will become proficient at formulating data query requests using SQL and will also gain experience in database normalization and entity-relationship modeling.
+/
+Computer Architecture/Organization
+Computers are essential to modern life, yet most people use them with no understanding of how they accomplish everything they do. This course will explore how computers function from a technical perspective, allowing students to see why they work and are designed the way they are. The course will focus on Von Neumann computers, covering a variety of topics including logic gates, basic digital circuit concepts, number and data representation, the processor implementation, BIOS, buses, interrupts, addressing, memory management, and storage. The practical implementation of this knowledge will be examined by introducing assembly language code.
+/
+Associate Degree Assessment
+This course is to serve as an assessment tool whereby all AAS degree seeking students in the Department of Computer Science demonstrate core knowledge acquired from course studies in the discipline as specified in the AAS degree program.
+/
+Intermediate College Writing
+This course will focus on writing arguments, conducting research, and documenting sources. Students will continue to learn practices of successful academic writing including the writing process, writing for specific audiences, and collaboration with peers
+/
+Physics for Scientists and Engineers I
+First semester of a two-semester sequence in calculus-based physics, primarily for students in science, math, computer science, and pre engineering. This semester covers topics in mechanics, including kinematics, Newton’s laws, and the conservation laws of energy, linear momentum, and angular momentum. Also covered are topics in gravity, fluid mechanics, waves, and thermodynamics.
+/
+Interpersonal and Small Group Communication
+Explores the dynamics of verbal and nonverbal communication in personal relationships and small groups. The emphasis is on practical application of course content to enhance interpersonal relationships and to achieve competence as group members.
+/
+Calculus I
+Limits, continuity, differentiation, integration
+/
+Introduction to Statistics
+Basic concepts of probability and statistics including data collection and analysis, correlation and regression, probability, discrete and continuous distributions (binomial, normal and t distributions), estimation and hypothesis testing, with an emphasis on applications and understanding of the main ideas
+/
+Probability and Statistics I
+Introductory probability theory and mathematical statistics, including applications
+/
+Professional and Technical Writing
+This course introduces students to the basic theories and practices of technical communication. Using audience, purpose, and context as their guides, students create various professional and technical documents, such as formal and informal reports, instructions, proposals, job application materials, brochures, web media, and presentations. Working both individually, and in collaboration, students analyze their rhetorical situation as they create usable and appropriate professional documents.
+/
+Business Communication
+Application of oral and written communication, including diversity and international aspects of communication
+/
+Introduction to Creative Writing
+In this Gen Ed course students will learn in a workshop setting to write original pieces in three genres that may include the following: short stories, poetry, creative non-fiction, and plays. As models for their own writing, students will read exemplary pieces from each genre taught from different eras and cultures, in order to build a vocabulary base. Thus, students will become familiar with aspects of storytelling such as story arc, characterization, and dialogue; and aspects of poetry such as rhyme, rhythm, and figurative language, for use in their own writing. Through regular exercises, students will generate ideas for creating original writing such as stories, poems, plays, and creative essays, and will refine oral and communicative skills. Students will critique and be critiqued by the entire class in order to revise early drafts, will analyze selected texts, and will evaluate their own and others’ work
+/
+Critical Thinking
+An introduction to informal logic, focusing on issues of logical form, standards of good and bad reasoning, and argumentative writing.
+/
+Information Literacy Competency Exam
+Information Literacy Competency Exam
+/

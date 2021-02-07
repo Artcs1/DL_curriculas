@@ -1,0 +1,135 @@
+/
+First-Year Composition I
+An introduction to expository writing, rhetoric, and reading. The
+acquisition of the basic skills in standard English is stressed. 
+/
+First-Year Composition II
+A continuation of training in expository writing and reading,
+stressing the acquisition of higher-level skills in standard English and the introduction to the basic tools and
+processes of academic research. 
+/
+Survey of World Civilization to 1500
+A survey of major world civilizations from the earliest times to 1500. 
+/
+Survey of World Civilization since 1500
+A survey of major world civilizations from 1500 to present.
+/
+Pre-calculus Trigonometry
+It includes the study of trigonometric and inverse trigonometric functions and includes extensive work with
+trigonometric identities and trigonometric equations. The course also covers vectors, complex numbers,
+DeMoivre’s Theorem, and polar coordinates. Additional topics may include conic sections, sequences, and
+using matrices to solve linear systems. 
+/
+Calculus I
+Topics include limits, derivatives, applications of the derivative, definite and indefinite integrals, exponential and logarithmic
+functions, and inverse functions
+/
+Principles of Biology
+The chemical basis of life, cell structure and function, metabolism,
+and genetics.
+/
+Principles of Biology
+Evolution, diversity, and ecology of organisms. Designed for biology
+and other science majors or minors. 
+/
+Computer Skills for Problem-Solving
+Using personal computers as effective problemsolving tools, this course will enhance analytical thinking and abstraction skills. Topics include problem
+specification, problem- solving techniques, and the interpretation of results to problems from scientific,
+business, and social domains. 
+/
+Computer Science I
+An introduction to the theoretical foundations of computer science,
+the components of algorithms and the representation of these components using a high-level programming
+language. Special emphasis on software development and an introduction to object oriented programming. 
+/
+Fundamentals of Speech
+Communication theory and practice for public speaking with emphasis on content, research, organization, delivery, adaptation to the audience, as well as listening
+and speaker evaluation. 
+/
+Human Growth and Developmen
+Characteristics of and interrelationships among the physical, mental, social, and emotional aspects of human growth and development.
+/
+Computer Science II
+Introduction to elementary data structures such as queues,
+stacks, lists, strings, and trees. Discussion of professional ethics. Programming methodology with
+emphasis on object-oriented programming. 
+/
+Graphical User Interface Programming
+Introduction to programming for modern graphical user interfaces using a visual programming tool. Topics include integrated development
+environments, object-oriented design, use of components and rapid application development. 
+/
+Calculus II
+Topics include techniques of integration, applications of the integral, sequences, series, conic sections, parametric
+equations, and polar coordinates. 
+/
+Calculus III
+Topics include vectors, vector-valued functions, functions of several variables, partial derivatives, multiple
+integrals, vector-fields, line integrals and surface integrals. P
+/
+Introduction to Discrete Structures
+Sets, functions and relations, basic logic, proof techniques, basics of counting, graphs and trees, discrete probability and number systems with applications
+to various areas of computer science. 
+/
+Computer Organization and Assembly Language Programming
+Overview of computer hardware organization, machine representation of numbers and characters, memory system organization and
+architecture. Overview of system software. Programming experience in assembly language. 
+/
+Computer Architecture
+Review of Boolean algebra and the elements of logic design including a laboratory experience. Study of the theory and design of register transfer, bus structure,
+arithmetic unit, control unit and memory. Consideration of design options including array processors, stackbased processors, pipelining, multiprocessing and distributed systems. 
+/
+Linear Algebra
+This course introduces the basic theory of linear equations and matrices, real vector spaces, bases and dimensions, linear transformations and matrices, determinants, eigenvalues
+and eigenvectors, inner product spaces, and the diagonalization of symmetric matrices. Additional topics may
+include quadratic forms and the use of matrix methods to solve systems of linear differential equations. 
+/
+Data Structures and Algorithms
+Introduction to the analysis of algorithms with regard to time and space. Methods of sorting and searching. Basic design techniques like divide and conquer,
+dynamic programming and backtracking. Algorithms for manipulating trees and graphs with platform
+independent implementation. 
+/
+Theory and Applications of Database Systems
+Introduction to database systems, including the history of the development and basic concepts of the major types of database systems, inquiry
+systems and experience with a database model. 
+/
+Applied Statistics I
+A course in statistical methods with applications. Descriptive statistics,
+probability, statistical inference including one- and two-sample problems, Chi-Square applications, one-way
+analysis of variance, linear correlation and regression analysis, and nonparametric statistics.
+/
+Automata Theory and Compiler Construction
+Definition of formal grammars,
+mathematical machines and their relationships. Description of compiler writing techniques and their
+application on a simple language.
+/
+Principles of Macroeconomics
+An introduction to basic macroeconomic principles. Analysis of the determination of national income, employment, output, and prices. 
+/
+Art Appreciation
+A broad study of the contemporary visual arts by means of illustrated lectures, gallery visits, and studio demonstrations.
+/
+Programming Languages
+Formal study of programming language concepts: syntax; characteristics of grammars such as context-free and ambiguous; Backus-Naur Form; organization of
+programming languages such as block structure, list processing, etc. 
+/
+Software Engineering
+A study of all the phases in a software system’s life cycle including
+analysis, specification, design, implementation, testing, and maintenance. A continued emphasis on
+problem solving concepts integrated within the treatment of the software life cycle, requirements
+specifications, and verification and validation issues. 
+/
+Operating Systems
+History, overview, and principles of operating systems with emphasis
+on process, memory and device management, concurrency, system performance, file systems, and
+security. Contemporary operating systems will be investigated. Multi-processors, real-time and embedded
+systems, and distributed processing will also be presented. 
+/
+Artificial Intelligence
+A survey of topics including knowledge representation and reasoning, expert systems, informed and uninformed search algorithms, search and constraint satisfaction,
+and the use of artificial intelligence languages. 
+/
+Programming Languages
+Formal study of programming language concepts: syntax;
+characteristics of grammars such as context-free and ambiguous; Backus-Naur Form; organization of
+programming languages such as block structure, list processing, etc.  
+/

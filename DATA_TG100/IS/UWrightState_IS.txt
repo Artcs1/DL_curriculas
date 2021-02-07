@@ -1,0 +1,111 @@
+Academic Writing and Reading
+Introduces students to principles of effective written communication and critical reading. Stresses invention, drafting, revising, editing, and self-assessment, along with effective critiquing and collaborating.
+/
+Research Writing and Argumentation
+Adapts principles introduced in ENG 1100 to typical university writing tasks. Stresses communicating effectively within disciplinary contexts, reading critically, and using source materials effectively in argumentative and research writing.
+/
+Business Calculus
+Functions, rates of change, limits, derivatives of algebraic functions, applications including maxima and minima, exponential and logarithmic functions, and indefinite and definite integrals with applications.
+/
+Principles of Microeconomics
+Fundamental principles of microeconomics as an aid in understanding modern society.
+/
+Personal Financial Decision Making
+This course provides an overview of the theories, concepts, and principles of personal financial management, with an emphasis on daily financial decision-making. The course emphasizes 1) goal setting and everyday financial decision-making as they influence long-term goals, and 2) understanding macro-economics and financial systems as they influence individuals lives. Topics covered include personal financial statements, consumer debt management, insurance and retirement and estate planning.
+/
+Principles of Macroeconomics
+Fundamental principles of macroeconomics as an aid in understanding modern society.
+/
+Accounting Principles I
+Introduction to accounting for business enterprises. Includes analysis of the effect of transactions on financial position, preparation of financial statements, the recording process, and measurement issues and reporting requirements for assets.
+/
+Accounting Principles II
+Introduction to accounting for business enterprises. Includes analysis of the effect of transactions on financial position, preparation of financial statements, reports for managers, and financial statement analysis.
+/
+Introduction to Business Statistics
+Statistical methods used in analysis of business problems, including theory and application of frequency distributions, measures of central tendency and variability, probability distributions, expectation, sampling and estimation, and one-sample hypothesis testing.
+/
+Quantitative Business Modeling
+Development and interpretation of inferential statistical models applied to business. Estimation models, decision analysis and hypothesis testing models and regression models. Use of statistical software.
+/
+Principles of Marketing
+Studies processes and activities that direct the flow of goods and services from the producer to the consumer with consideration of the social, ethical, economic, legal, and international environments.
+/
+Financial Management I
+Introduces basic concepts, principles, and analytical techniques of financial management. Topics include financial planning and analysis, risk and return, time value of money, cost of capital, capital budgeting, and capital structure.
+/
+Business Writing
+Written business and organizational communication; rhetorical demands of writing in professional settings; attention to various forms including short reports and informal oral presentations.
+/
+Economics of Global Money Markets
+Analysis of behavior and significance of money, credit, debt, and the banking system.
+/
+Legal Environment of Business
+Survey of domestic and international business law with the focus on practical applications of basic legal principles to managerial effectiveness, analytical reasoning and operational skills.
+/
+Management and Organizational Behavior
+Understanding the behavior of people within a work setting and the development of management competencies.
+/
+Fundamentals of Information Systems
+Introduces contemporary information systems and how they add value throughout the global organization. Focuses on key components of information systems: people, software, hardware, data, and network technologies. Students will develop a small business application using database, spreadsheet and web development tools.
+/
+Operations and Supply Chain Management
+Examine the major management decision areas in the design and offering of goods and services. Major topics include: operations strategy, planning and control systems, quality management, and project management.
+/
+Business Ethics and Leadership Development
+Development of competencies in business ethics and leadership.
+/
+Strategy: Domestic & International Perspectives
+Issues in international business to build an interdisciplinary strategic perspective on management in a global environment.
+/
+Introduction to Business Programming
+Introduction to the Visual Basic Programming language for business majors.
+/
+IS Applications Development
+This course introduces the fundamental principles of conceiving, designing, developing, and testing information systems applications for business. The course incorporates the applications development lifecycle: determining requirements including business processes, activities, and stakeholders; designing an optimal solution using appropriate business objects, data structures, and algorithms; developing the solution using a high-level programming language; and testing the completed solution.
+/
+Data and Information Management
+Concepts, principles and data models of managing organizational data. Extensive experience in developing data models, applying relational database software, creating and using complex queries using Structured Query Language (SQL). Build custom multi-tier database applications using a web application language and a commercial database system.
+/
+Analysis and Design of Information Systems
+Overview of system analysis and design methodologies. Topics include planning, SDLC, project management overview, data, process and logic modeling techniques. Covers design, implementation, specifications, and testing plans.
+/
+Information Technology Infrastructures
+Introduces Information Technology infrastructures including background, types, proper applications, and components of telecommunications, network design, and distributed information systems. Emphasizes telecommunications technology and its impact on information systems and business operations.
+/
+Business Processes and Enterprise Systems
+Principles of business processes and enterprise information systems. Students identify, model, and reengineer business processes within and across organizations and integrate disparate information resources and business processes with an integrated enterprise system.
+/
+Information Systems Project Management and Development
+Introduces concept, practice, and the importance of project management. The course covers a systematic methodology for initiating, planning, executing, controlling, and closing IS projects. Student teams will be assigned to an information systems business problem of a firm or organization in the Dayton metropolitan area. Teams analyze, design, implement, evaluate, and develop an information system while applying project management practices.
+/
+Personal Financial Decision Making
+This course provides an overview of the theories, concepts, and principles of personal financial management, with an emphasis on daily financial decision-making. The course emphasizes 1) goal setting and everyday financial decision-making as they influence long-term goals, and 2) understanding macro-economics and financial systems as they influence individuals lives. Topics covered include personal financial statements, consumer debt management, insurance and retirement and estate planning.
+/
+Data Science for Business Applications
+Introduction to the process of extracting information and answers from multi-dimensional datasets to generate business insights. It will provide a broad overview of the entire data analytics pipeline, from data collection and preprocessing, to storing, exploring, visualizing, modeling, and interpretation. Modern computing tools (e.g. R, SAS) and essential data mining, machine learning, text, and network analytic methods will be discussed. Must be enrolled in CoBA.
+/
+Data Mining for Business
+This course will examine data mining tools and techniques that have been proven to be of value in recognizing patterns and making predictions from an applied perspective.
+/
+Introduction to Business Data
+An introduction to the fundamentals of identifying, gathering, managing, visualizing, and analyzing structured, semi-structured, and unstructured data for business decision-making and performance.
+/
+Introduction to Business Programming
+Introduction to the Visual Basic Programming language for business majors. Students will be able to create Windows applications by the end of the course.
+/
+Data and Information Management
+Concepts, principles and data models of managing organizational data. Extensive experience in developing data models, applying relational database software, creating and using complex queries using Structured Query Language (SQL). Build custom multi-tier database applications using a web application language and a commercial database system.
+/
+Information Technology Infrastructures
+Introduces Information Technology infrastructures including background, types, proper applications, and components of telecommunications, network design, and distributed information systems. Emphasizes telecommunications technology and its impact on information systems and business operations.
+/
+Business Ethics and Leadership Development
+Development of competencies in business ethics and leadership. Integrated Writing course.
+/
+Legal Environment of Business
+Survey of domestic and international business law with the focus on practical applications of basic legal principles to managerial effectiveness, analytical reasoning and operational skills.
+/
+Fundamentals of Information Systems
+Introduces contemporary information systems and how they add value throughout the global organization. Focuses on key components of information systems: people, software, hardware, data, and network technologies. Students will develop a small business application using database, spreadsheet and web development tools.
+/

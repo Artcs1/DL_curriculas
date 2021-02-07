@@ -1,0 +1,541 @@
+Freshman Orientation
+Introduction to Computer Science as a field and career for computer science majors. Overview of the field and specific examples of problem areas and methods of solution.
+/
+Ethical & Professional
+Ethics for the computing profession. Ethical decision-making; licensing; intellectual property, freedom of information, and privacy.
+/
+Engineering Orientation
+Orientation required of new freshmen in the College of Engineering.
+/
+Calculus I.
+First course in calculus and analytic geometry for students with some calculus background; basic techniques of differentiation and integration with applications including curve sketching; antidifferentation, the Riemann integral, fundamental theorem, exponential and trigonometric functions.This course satisfies the General Education Criteria for:Quantitative Reasoning I
+/
+Calculus II
+Second course in calculus and analytic geometry: techniques of integration, conic sections, polar coordinates, and infinite series. This course satisfies the General Education Criteria for:Quantitative Reasoning I
+/
+Calculus III
+Third course in calculus and analytic geometry including vector analysis: Euclidean space, partial differentiation, multiple integrals, line integrals and surface integrals, the integral theorems of vector calculus. This course satisfies the General Education Criteria for:Quantitative Reasoning II
+/
+Applied Linear Algebra
+Introductory course emphasizing techniques of linear algebra with applications to engineering; topics include matrix operations, determinants, linear equations, vector spaces, linear transformations, eigenvalues, and eigenvectors, inner products and norms, orthogonality, equilibrium, and linear dynamical systems. 3 or 4 undergraduate hours. 3 or 4 graduate hours. Credit is not given for both MATH 415 and any of MATH 125, MATH 225, ASRM 406, or MATH 416. 4 hours of credit requires approval of the instructor and department with completion of additional work of substance. Prerequisite: MATH 241 or consent of instructor.
+/
+University Physics: Mechanics
+Newton's Laws, work and energy, static properties and fluids, oscillations, transverse waves, systems of particles, and rotations. A calculus-based approach for majors in engineering, mathematics, physics and chemistry. Credit is not given for both PHYS 211 and PHYS 101. Prerequisite: Credit or concurrent registration in MATH 231. This course satisfies the General Education Criteria for:Nat Sci  Tech - Phys SciencesQuantitative Reasoning II
+/
+University Physics: Elec & Mag
+Coulomb's Law, electric fields, Gauss' Law, electric potential, capacitance, circuits, magnetic forces and fields, Ampere's law, induction, electromagnetic waves, polarization, and geometrical optics. A calculus-based approach for majors in engineering, mathematics, physics, and chemistry. Credit is not given for both PHYS 212 and PHYS 102. Prerequisite: PHYS 211; credit or concurrent registration in MATH 241. This course satisfies the General Education Criteria for:Nat Sci  Tech - Phys SciencesQuantitative Reasoning II
+/
+Aerospace Flight Mechanics
+Fundamental principles of aerospace flight mechanics applied to spacecraft and aircraft. Orbital mechanics, rocket propulsion, and dynamics and control applied to spacecraft design. Aerodynamics, maneuvering, stability and flight performance applied to aircraft design. MATLAB examples and assignments. Prerequisite: Credit or concurrent registration in TAM 212.
+/
+Evolution and Human Disease
+Principles of modern evolutionary theory are applied to medical problems. Topics include: transmission, pathogen strategies, symptoms and spectrum of disease, evolution of virulence, concept of cause, antimicrobial resistance, emerging diseases, stress and adaptation, nutrition, diachronic overview of changing patterns of human disease, and ecological factors.This course satisfies the General Education Criteria for:Nat Sci  Tech - Life Sciences
+/
+Introduction to Astrophysics
+Survey of modern astronomy for students with background in physics. Topics include: the solar system; nature and evolution of stars; white dwarfs, neutron stars, and black holes; galaxies, quasars and dark matter; large scale structure of the universe; the Big Bang; and Inflation. Emphasis will be on the physical principles underlying the astronomical phenomena. Prerequisite: PHYS 211.This course satisfies the General Education Criteria for:Nat Sci  Tech - Phys Sciences
+/
+The Big Bang, Black Holes, and the End of the Universe
+Studies the origin, evolution, and eventual fate of the universe, and the scientific tools used to study these issues. Topics include aspects of special and general relativity; curved spacetime; the Big Bang; inflation; primordial element synthesis; the cosmic microwave background; dark matter and the formation of galaxies; observational evidence for dark matter, dark energy, and black holes. Credit is not given for ASTR 350 if credit in ASTR 406 has been earned. Prerequisite: ASTR 100, or ASTR 121, or ASTR 122, or ASTR 210, or consent of instructor.
+/
+Introduction to Meteorology 
+Introduces the student to the basic concepts and principles of meteorology via the interpretation of weather maps and charts; uses current weather information to illustrate key concepts, emphasizes the physical atmospheric processes responsible for weather. By the end of the class students will be able to interpret and make basic weather forecasts as well as be able to explain basic atmospheric phenomena. Same as GEOG 100. This course satisfies the General Education Criteria for:Nat Sci  Tech - Phys Sciences
+/
+Severe and Hazardous Weather
+Most extreme manifestations of weather and climate are analyzed in terms of their physical basis and their historical, economic and human consequences. Emphasis is placed on the interplay between technological advances, the evolution of meteorology as a science, and the impacts of extreme weather (winter storms, floods, severe thunderstorms, hurricanes, El Nino). Technological advances include satellites, weather radars and profilers, and computer models used for weather prediction. Same as ESE 120.This course satisfies the General Education Criteria for:Nat Sci  Tech - Phys SciencesQuantitative Reasoning II
+/
+Climate and Global Change
+Introduces climate change and its interactions with the global environment; surveys the physical, chemical, biological and social factors contributing to global change; includes topics such as greenhouse warming, acid rain, ozone depletion, distinguishes anthropogenic influences and natural variability of the earth system; addresses societal impacts, mitigation strategies, policy options and other human responses to global change. Same as ESE 140.This course satisfies the General Education Criteria for:Nat Sci  Tech - Phys Sciences
+/
+General Physical Meteorology
+Introduction to physical processes in the atmosphere, focusing on those relevant to weather and storms. Emphasizes quantitative problem solving. Topics include atmospheric structure, atmospheric thermodynamics, clouds, synoptic meteorology, weather forecasting, and storms. For students in atmospheric sciences, physics, mathematics, engineering, and other physical and natural sciences. Prerequisite: MATH 220 or MATH 221; credit or concurrent registration in MATH 231 and PHYS 211.
+/
+Signals & Systems in Bioengrg
+Introduction to signals and linear systems with examples from biology and medicine. Linear systems and mathematical models of systems, including differential equations, convolution, Laplace transforms, Fourier series and transforms, and discrete representations. Class examples and coursework apply general techniques to problems in biological signal analysis, including circuits, enzyme kinematics, and physiological system analysis. Use of Matlab and Simulink software to understand more complex systems. Prerequisite: CS 101, PHYS 212, and credit or concurrent registration in MATH 285.
+/
+Cellular Bioengineering
+Molecular and cellular biology focusing on instrumentation and measurement techniques: gene expression, translation, and regulation; cellular energetics and enzyme kinetics; membrane transport and cell signaling; cytoskeleton and the cell cycle; cell biology fundamentals emphasizing modern imaging and measurement systems to quantify cellular function. Credit is not given for both BIOE 206 and MCB 252. Prerequisite: MCB 150.
+/
+Systems Engrg & Economics
+Introduction to the formulation and solution of civil engineering problems. Major topics: engineering economy, mathematical modeling, and optimization. Application of techniques, including classical optimization, linear and nonlinear programming, network theory, critical path methods, simulation, decision theory, and dynamic programming to a variety of civil engineering problems. Credit is not given for both CEE 201 and IE 310. Prerequisite: MATH 231; credit or concurrent registration in MATH 225.
+/
+Engineering Risk & Uncertainty
+Identification and modeling of non-deterministic problems in civil engineering design and decision making. Development of stochastic concepts and simulation models, and their relevance to real design and decision problems in various areas of civil engineering. Credit is not given for both CEE 202 and IE 300. Prerequisite: Credit or concurrent registration in MATH 241.
+/
+General Chemistry I
+For students who have some prior knowledge of chemistry. Principles governing atomic structure, bonding, states of matter, stoichiometry, and chemical equilibrium. Credit is not given for both CHEM 102 and CHEM 202. CHEM 102 and CHEM 103 are approved for General Education credit only as a sequence. Both courses must be completed to receive Natural Science and Technology credit. Prerequisite: Credit in or exemption from MATH 112; one year of high school chemistry or equivalent. All students enrolled in CHEM 102 should also enroll in CHEM 103. This course satisfies the General Education Criteria for:Nat Sci  Tech - Phys Sciences
+/
+General Chemistry Lab I
+Laboratory studies to accompany CHEM 102. Additional fees may apply. See Class Schedule. Credit is not given for both CHEM 103 and CHEM 203. CHEM 102 and CHEM 103 are approved for General Education credit only as a sequence. Both courses must be completed to receive Natural Science and Technology credit. Prerequisite: Credit or concurrent registration in CHEM 102 is required. This course satisfies the General Education Criteria for:Nat Sci  Tech - Phys Sciences
+/
+Introduction to Crop Sciences
+Introductory course covering the principles and practices of crop production and sustainable agroecosystem management. Topics include plant growth and development, environmental factors influencing plant productivity, soil management, fertility, and nutrient cycling, pest control principles, and sustainability challenges facing modern crop production. Concepts are discussed in lecture and reinforced in hands-on laboratory sections.This course satisfies the General Education Criteria for:Nat Sci  Tech - Life Sciences
+/
+Genetic Engineering Lab
+Laboratory/discussion course that provides a hands-on introduction to the techniques and principles of genetic engineering, recombinant DNA and the impact of molecular genetics on society. Students will isolate DNA from plants and clone specific genes into bacterial plasmids, perform polymerase chain reactions, DNA restriction analysis and DNA blotting, and discuss the relevance of these techniques to both medicine and agriculture. Prerequisite: A general biology course.
+/
+Applied Entomology
+Lectures, laboratory, and field trips cover the biology of insects and the recognition and management of insect pests of agricultural and urban ecosystems. Covers insect structure and physiology, classification, identification, life histories, behavior, and pest management. Same as IB 220 and NRES 270.This course satisfies the General Education Criteria for:Nat Sci  Tech - Life Sciences
+/
+Dance Anatomy and Kinesiology
+The study of human and anatomy and kinesiology, specifically as applied to dance. The human musculoskeletal system, movement analysis, and conditioning principles are covered both theoretically and practically.
+/
+Intro Food Science & Nutrition
+Discusses the evolution of the food system to meet the needs and desires of a complex, heterogeneous society. Provides an overview of food in relation to nutrition and health, composition and chemistry, microbiology, safety, processing, preservation, laws and regulations, quality, and the consumer.
+/
+Contemporary Nutrition
+Fundamental principles of human nutrition and their application to the selection of an adequate diet for health and wellness; current nutrition topics of importance.
+/
+Physical Geology
+Introduces Earth phenomena and processes. Includes minerals and rocks, continental drift, plate tectonics, rock deformation, igneous and sedimentary processes, geologic time, landscape evolution, internal structure and composition of the earth, groundwater, seismology and earthquakes, and formation of natural resources. Emphasizes the chemical and physical aspects of the Earth, and the basis for geological inference.
+/
+Emergence of Life
+Examines important theoretical and practical questions regarding the origin and evolution of life, as well as the search for life elsewhere in the universe. Uses the pioneering work of Carl Woese, whose "Tree of Life" revolutionized our understanding of the fundamental structure and evolutionary relatedness of all living entities on Earth.
+/
+The Oceans
+Integrated introduction to oceanography and marine geology and geophysics. Topics include ocean-basin formation and evolution (in the context of plate tectonics), ocean ecology, the hydrologic cycle, water chemistry, currents and waves, the interaction of oceans with climate, coastal hazards, resources, pollution, and the Law of the Sea.Course is oriented toward students not majoring in science. 
+/
+Natural Disasters
+Introduces the nature, causes, risks, effects, and prediction of natural disasters including earthquakes, volcanoes, landslides, subsidence, global climate change, severe weather, coastal erosion, floods, mass extinctions, and meteorite  impacts; covers scientific principles and case histories of natural disasters as well as human responses (societal impact, mitigation strategies, and public policy).
+/
+History of Life
+Evolution of life from its beginning, illustrating changing faunas and floras through time; the invasion of land and of the skies; the effects of a changing atmosphere, changing climates, and continental drift. Emphasis on dinosaur evolution, ecology, and extinction; also other vertebrates, including mammal-like reptiles, mammals, and the emergence of humans, as well as plants and invertebrates.
+/
+History of the Earth System 
+Presents systematic analysis of formation and evolution of the Earth and its dynamic systems (lithosphere, hydrosphere, atmosphere, and biosphere). Also introduces methods of reconstructing Earth's history through use of geochronology, paleontology, and the stratigraphic records. Introduces the geological history of life evolution, mountain belts and continents, geochemical systems, climate, sea level, and the Earth's interior. 
+/
+Introduction to Plant Biology 
+Basic principles of growth and form, physiology, genetics, evolution, and ecology in plant biology. Lecture and laboratory.This course satisfies the General Education Criteria for:Nat Sci  Tech - Life Sciences
+/
+Animal Biology
+Introductory zoological concepts with emphasis on the diversity and comparative anatomy of animals and the fundamentals of physiology, genetics, evolution, and behavior. Lecture and laboratory. The laboratory includes vertebrate dissection.
+/
+Organismal & Evolutionary Biol
+Introduction to physiology, genetics, and evolution of organisms, and their ecology and diversity.
+/
+Bioscience of Human Movement
+Integrates anatomical and physiological aspects of human movement; emphasizes how the body moves, physiological responses to exercise stress, physical conditioning and physical fitness.
+/
+Molec & Cellular Basis of Life
+Introductory course focusing on the basic structure, metabolic, and molecular processes (including membranes, energy metabolism, genes) common to all cells. Emphasis on unique properties that differentiate the major sub-groups of organisms (Archaea, Bacteria, plants, and animals), and will discuss how cells are integrated into tissues and organs in multicellular organisms./
+Human Anatomy & Physiology I
+Organ system biology with an emphasis on normal human anatomy and physiology, physiological processes and associated disease processes of the following systems; skeletal, muscle, nervous, sensory, and endocrine.
+/
+Modeling Nuclear Energy System 
+Applications of elementary nuclear physics in nuclear engineering. Nuclear reactor materials and components. Steady-state and transient operation of nuclear reactors. Nuclear energy removal and conversion. Radiation shielding.
+/
+Fundamentals of Env Sci
+Introduction to environmental sciences and current environment issues. Topics include population growth, world food supplies, agriculture and the environment, biodiversity, fossil fuels and "green" energy issues, endangered and threatened species, water use, conservation and pollution, global warming, acid rain, ozone depletion, waste management and reduction, recycling, toxins and health, mineral resources, and environmental policies and regulations. Course addresses the complex relationships between the human race and the natural systems that contain our air, water, energy, and biotic and food resources.
+/
+Introduction to NRES
+Introduction to natural resources (forests, fisheries, soils, aquatic systems) and environmental science. Emphasizes renewable natural resources, ecological concepts, energy use, biodiversity of species, biogeochemical cycles, and air, water, and soil pollution. Provides natural science basis for understanding contemporary environmental issues and natural resource management.
+/
+Introductory Plant Pathology
+Concepts relating to causal agents of representative plant diseases, symptoms and diagnosis, modes of infection and spread, effects of environment on disease development, and methods of control.
+/
+Intro to Brain and Cognition
+Introduction to the interdisciplinary field of cognitive neuroscience, which is concerned with how the cognitive systems supporting a broad range of capacities including memory, attention, and social and emotional processing, arise from the functioning of specific brain modules and brain mechanisms. Emphasizes how functional brain imaging and other cognitive neuroscience methods can be brought to bear on answering these questions.
+/
+Cognitive Psych
+Introduction to the psychological study of human information processing and memory; acquisition, retrieval, and forgetting; and general knowledge, concepts, reasoning, and related issues in cognition.
+/
+Learning and Memory
+Survey of basic phenomena in learning and memory emphasizing experimental data from animal and human research.
+/
+Intro Sound & Hearing Science
+Acoustics, anatomy, and physiology of the auditory system; psychophysical methods; and a consideration of auditory theories and mechanics.
+/
+Communication Neuroscience
+This course provides and overview of neuroscience with emphasis on human communication, moving from general concepts in neuroanatomy and neurophysiology to the specifics of the neuroscience of hearing, speech and language.
+/
+Intro to Computer Science
+Basic concepts in computing and fundamental techniques for solving computational problems. Intended as a first course for computer science majors and others with a deep interest in computing.
+/
+Software Design Studio
+Fundamental principles and techniques of software development. Design, documentation, testing, and debugging software, with a significant emphasis on code review.
+/
+Discrete Structures
+Discrete mathematical structures frequently encountered in the study of Computer Science. Sets, propositions, Boolean algebra, induction, recursion, relations, functions, and graphs.
+/
+Data Structures
+Data abstractions: elementary data structures (lists, stacks, queues, and trees) and their implementation using an object-oriented programming language. Solutions to a variety of computational problems such as search on graphs and trees. Elementary analysis of algorithms.
+/
+Computer Architecture
+Fundamentals of computer architecture: digital logic design, working up from the logic gate level to understand the function of a simple computer; machine-level programming to understand implementation of high-level languages; performance models of modern computer architectures to enable performance optimization of software; hardware primitives for parallelism and security.
+/
+System Programming
+Basics of system programming, including POSIX processes, process control, inter-process communication, synchronization, signals, simple memory management, file I/O and directories, shell programming, socket network programming, RPC programming in distributed systems, basic security mechanisms, and standard tools for systems programming such as debugging tools.
+/
+Probability & Statistics for Computer Science
+Introduction to probability theory and statistics with applications to computer science. Topics include: visualizing datasets, summarizing data, basic descriptive statistics, conditional probability, independence, Bayes theorem, random variables, joint and conditional distributions, expectation, variance and covariance, central limit theorem. Markov inequality, Chebyshev inequality, law of large numbers, Markov chains, simulation, the PageRank algorithm, populations and sampling, sample mean, standard error, maximum likelihood estimation, Bayes estimation, hypothesis testing, confidence intervals, linear regression, principal component analysis, classification, and decision trees.
+/
+Numerical Methods I
+Fundamentals of numerical methods for students in science and engineering; floating-point computation, systems of linear equations, approximation of functions and integrals, the single nonlinear equation, and the numerical solution of ordinary differential equations; various applications in science and engineering; programming exercises and use of high quality mathematical library routines.
+/
+Introduction to Algorithms & Models of Computation
+Analysis of algorithms, major paradigms of algorithm design including recursive algorithms, divide-and-conquer algorithms, dynamic programming, greedy algorithms, and graph algorithms. Formal models of computation including finite automata and Turing machines. Limitations of computation arising from fundamental notions of algorithm and from complexity-theoretic constraints. Reductions, undecidability and NP-completeness.
+/
+Programming Languages & Compilers
+Structure of programming languages and their implementation. Basic language design principles; abstract data types; functional languages; type systems; object-oriented languages. Basics of lexing, parsing, syntax-directed translation, semantic analysis, and code generation.
+/
+Software Engineering I
+Software process, analysis and design. Software development paradigms, system engineering, function-based analysis and design, and object-oriented analysis and design. Course will use team-projects for hands-on exercises.
+/
+Software Engineering II
+Software development, management, and maintenance. Project and configuration management, collaborative development models, software quality assurance, interoperability domain engineering and software reuse, and software re-engineering.
+/
+Software Engineering II, ACP
+Desarrollo de software, gestión y mantenimiento. Gestión de proyectos y configuraciones, modelos de desarrollo colaborativo, garantía de calidad de software, ingeniería de dominio de interoperabilidad y reutilización de software, y reingeniería de software.
+
+/
+Computational Photography
+Computer vision techniques to enhance, manipulate, and create media from photo collections, such as panoramic stitching, face morphing, texture synthesis, blending, and 3D reconstruction.
+/
+User Interface Design
+A project-focused course covering fundamental principles of user interface design, implementation, and evaluation. Small teams work on a term-long project that involves: analysis of the problem domain, user skills, and tasks; iterative prototyping of interfaces to address user needs; conducting several forms of evaluation such as cognitive walkthroughs and usability tests; implementation of the final prototype. Non-technical majors may enroll as non-programmers who participate in all aspects of the projects with the possible exception of implementation.
+/
+Social Visualization
+Visualizing social interaction in networked spaces: investigation of patterns in networked communications systems such as messaging (email, instant messaging), social networking sites and collaborative sites; social network theory and visualizations; exploration of how to move beyond existing visualization techniques; visualizing the network identity over compilations of online data. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CS 225.
+/
+Senior Project II, ACP
+Senior Project II, ACP
+/
+Senior Project II
+Senior Project II
+/
+CS Team Project
+Student teams work with CS faculty to complete a significant project requiring advanced knowledge of CS principles. Project topics vary. 1 to 3 undergraduate hours. No graduate credit. May be repeated in the same term up to 6 hours, if topics vary; may be repeated in separate term.
+
+/
+Programming Language Design
+Exploration of major language design paradigms using imperative and functional programming as unifying themes. Tools include both practical language processor construction and theoretical models.
+/
+Compiler Construction
+Compiler structure, syntax analysis, syntax-directed translation, automatically constructed recognizers, semantic analysis, code generation, intermediate language, optimization techniques.
+/
+Program Verification
+Formal methods for demonstrating correctness and other properties of programs. Invariant assertions; Hoare axiomatics; well-founded orderings for proving termination; structural induction; computational induction; data structures; parallel programs; overview of predicate calculus.
+/
+Formal Software Devel Methods
+Mathematical models, languages, and methods for software specification, development, and verification.
+/
+Senior Project I 
+First part of a project course in computer science. Students work in teams to solve typical commercial or industrial problems. Work involves planning, design, and implementation. Extensive oral and written work is required both on-campus and possibly off-campus at sponsors' locations.
+/
+Programming Language Semantics
+Theory of programming languages including functional programming, meta-circular interpreters, typed, untyped and polymorphic lambda-calculi, and denotational semantics.
+/
+Concurrent Progrmg Languages
+Theory of concurrency and concurrent programming languages. Formal models of concurrent computation such as process algebras, nets, and actors; high level concurrent programming languages and their operational semantics; methods for reasoning about correctness and complexity of concurrent programs.
+/
+Compiler Construction
+Compiler structure, syntax analysis, syntax-directed translation, automatically constructed recognizers, semantic analysis, code generation, intermediate language, optimization techniques.
+/
+Topics in Software Engineering
+Fault-tolerant software, software architecture, software patterns, multi-media software, and knowledge-based approaches to software engineering.
+/
+Obj-Oriented Progrmg & Design
+Principles of object-oriented design; design patterns; use and design of frameworks; reflection, refractoring, use of unit tests as specifications.
+/
+Topics in Automated Deduction
+Advanced topics in computer-aided methods for formal deduction, selected from areas of current research, such as: resolution theorem proving strategies, special relations, equational reasoning, unification theory, rewrite systems, mathematical induction, program derivation, hybrid inference systems, and programming with logic. 
+/
+Intro to Combinatorics
+Permutations and combinations, generating functions, recurrence relations, inclusion and exclusion, Polya's theory of counting, and block designs.
+/
+Algorithms
+Design and analysis techniques, approximation algorithms, randomized algorithms and amortized analysis, and advanced topics such as network flow, linear programming, and dynamic data structures, among others.
+/
+Formal Models of Computation
+Finite automata and regular languages; pushdown automata and context-free languages; Turing machines and recursively enumerable sets; linear-bounded automata and context-sensitive languages; computability and the halting problem; undecidable problems; recursive functions; Chomsky hierarchy; computational complexity.
+/
+Program Verification
+Formal methods for demonstrating correctness and other properties of programs. Invariant assertions; Hoare axiomatics; well-founded orderings for proving termination; structural induction; computational induction; data structures; parallel programs; overview of predicate calculus.
+/
+Formal Software Devel Methods
+Mathematical models, languages, and methods for software specification, development, and verification.
+/
+Advanced Topics in Stochastic Processes & Applications
+Modeling and analysis of stochastic processes. Transient and steady-state behavior of continuous-time Markov chains; renewal processes; models of queuing systems (birth-and-death models, embedded-Markov-chain models, queuing networks); reliability models; inventory models. Familiarity with discrete-time Markov chains, Poisson processes, and birth-and-death processes is assumed.
+/
+Combinatorial Mathematics
+Fundamental results on core topics of combinatorial mathematics: classical enumeration, basic graph theory, extremal problems on finite sets, probabilistic methods, design theory, discrete optimization.
+/
+Extremal Graph Theory
+Extremal problems and parameters for graphs. Distance and connectivity, matching and factors, vertex and edge colorings, perfect and imperfect graphs, intersection classes and intersection parameters, Turan's theorem, graph Ramsey theory, graph decomposition and other extremal problems.
+/
+Algorithms
+NP-completeness, design and analysis techniques, approximation algorithms, randomized algorithms, combinatorial optimization, linear programming.
+/
+Randomized Algorithms
+Basic and advanced concepts in the design and analysis of randomized algorithms. Sampling; concentration inequalities such as Chernoff-Hoeffding bounds; probabilistic method; random walks, dimension reduction; entropy; martingales and Azuma's inequality; derandomization. Randomized algorithms for sorting and searching; graphs; geometric problems. Basics of pseudorandomness and randomized complexity classes.
+/
+Methods of Combinatorics
+Combinatorial methods and other mathematical methods for combinatorial problems. Enumeration by bijections and generating functions, probabilistic methods for existence proofs and asymptotic analysis, randomized algorithms, Ramsey's theorem and related topics, combinatorial designs and their applications, geometric problems and methods.
+/
+Topics in Automated Deduction
+Advanced topics in computer-aided methods for formal deduction, selected from areas of current research, such as: resolution theorem proving strategies, special relations, equational reasoning, unification theory, rewrite systems, mathematical induction, program derivation, hybrid inference systems, and programming with logic.
+/
+Computational Complexity
+Turing machines; determinism and non-determinism; time and space hierarchy theorems; speed-up and tape compression; Blum axioms; structure of complexity classes NP, P, NL, L, and PSPACE; complete problems; randomness and complexity classes RP, RL, and BPP; alternation, polynomial-time hierarchy; circuit complexity, parallel complexity, NC, and RNC; relativized computational complexity; time-space trade-offs.
+/
+Approximation Algorithms
+Approximation algorithms for NP-hard problems. Basic and advanced techniques in approximation algorithm design: combinatorial algorithms; mathematical programming methods including linear and semi-definite programming, local search methods, and others. Algorithms for graphs and networks, constraint satisfaction, packing and scheduling.
+/
+Embedded System Verification
+Examines formal analysis an synthesis approaches for discrete, continuous, and hybrid models of computing systems and their physical environment. Introduces timed and hybrid automata models. Analysis techniques including model checking, Hoare-style deduction, and abstractions for safety and stability, and controller synthesis strategies with applications in distributed robotics, automobile system, traffic control, and real-time systems. 
+/
+Text Information Systems
+Theory, design, and implementation of text-based information systems. Text analysis, retrieval models (e.g., Boolean, vector space, probabilistic), text categorization, text filtering, clustering, retrieval system design and implementation, and applications to web information management.
+/
+Database Systems
+Examination of the logical organization of databases: the entity-relationship model; the hierarchical, network, and relational data models and their languages. Functional dependencies and normal forms. Design, implementation, and optimization of query languages; security and integrity; concurrency control, and distributed database systems.
+/
+Introduction to Data Mining
+Concepts, techniques, and systems of data warehousing and data mining. Design and implementation of data warehouse and on-line analytical processing (OLAP) systems; data mining concepts, methods, systems, implementations, and applications.
+/
+Multimedia Systems
+Organization and structure of modern multimedia systems; audio and video encoding; quality of service concepts; scheduling algorithms for multimedia within OS and networks multimedia protocols over high-speed networks; synchronization schemes, user-interface design; multimedia teleservices.
+/
+Artificial Intelligence
+Major topics in and directions of research in artificial intelligence: AI languages (LISP and PROLOG), basic problem solving techniques, knowledge representation and computer inference, machine learning, natural language understanding, computer vision, robotics, and societal impacts.
+/
+Computational Photography
+Computer vision techniques to enhance, manipulate, and create media from photo collections, such as panoramic stitching, face morphing, texture synthesis, blending, and 3D reconstruction.
+/
+Introduction to Robotics
+Fundamentals of robotics including rigid motions; homogeneous transformations; forward and inverse kinematics; velocity kinematics; motion planning; trajectory generation; sensing, vision; control.
+/
+Machine Learning
+Theory and basic techniques in machine learning. Major theoretical paradigms and key concepts developed in machine learning in the context of applications such as natural language and text processing, computer vision, data mining, adaptive computer systems and others. Review of several supervised and unsupervised learning approaches: methods for learning linear representations; on-line learning, Bayesian methods; decision-trees; features and kernels; clustering and dimensionality reduction.
+/
+Natural Language Processing
+Part-of-speech tagging, parsing, semantic analysis and machine translation. Relevant linguistics concepts from morphology (word formation) and lexical semantics (the meaning of words) to syntax (sentence structure) and compositional semantics (the meaning of sentences).
+/
+Introduction to Bioinformatics
+Algorithmic approaches in bioinformatics: (i) biological problems that can be solved computationally (e.g., discovering genes, and interactions among different genes and proteins); (ii) algorithmic techniques with wide applicability in solving these problems (e.g., dynamic programming and probabilistic methods); (iii) practical issues in translating the basic algorithmic ideas into accurate and efficient tools that biologists may use.
+/
+Social Visualization
+Visualizing social interaction in networked spaces: investigation of patterns in networked communications systems such as messaging (email, instant messaging), social networking sites and collaborative sites; social network theory and visualizations; exploration of how to move beyond existing visualization techniques; visualizing the network identity over compilations of online data.
+/
+Advanced Information Retrieval
+Advanced concepts, models, and algorithms in information retrieval and major recent developments in the field, including historical milestones in information retrieval research, evaluation methodology, vector space retrieval model, probabilistic retrieval models, learning to rank algorithms, probabilistic topic models, information retrieval systems, text analytics, and topics of research frontiers in information retrieval.
+/
+Advanced Data Management
+Advanced concepts in data management and information system design and implementation, and recent developments in the field. 1) Relational roots, objects and extensibility, query languages, data indexing, query processing, transaction processing, benchmarks, and 2) semi-structured data and unstructured data, information extraction, information integration, web search and mining, and other emerging directions in the field.
+/
+Data Mining Principles
+An advanced course on principles and algorithms of data mining. Data cleaning and integration; descriptive and predictive mining; mining frequent, sequential, and structured patterns; clustering, outlier analysis and fraud detection; stream data, web, text, and biomedical data mining; security and privacy in data mining; research frontiers.
+/
+Computer Vision
+Information processing approaches to computer vision, algorithms, and architectures for artificial intelligence and robotics systems capable of vision: inference of three-dimensional properties of a scene from its images, such as distance, orientation, motion, size and shape, acquisition, and representation of spatial information for navigation and manipulation in robotics.
+/
+Optimiz in Computer Vision
+Applications of continuous and discrete optimization to problems in computer vision and machine learning, with particular emphasis on large-scale algorithms and effective approximations: gradient-based learning; Newton's method and variants, applied to structure from motion problems; the augmented Lagrangian method and variants; interior-point methods; SMO and other specialized algorithms for support vector machines; flows and cuts as examples of primal-dual methods; dynamics programming, hidden Markov models, and parsing: 0-1 quadratic forms, max-cut, and Markov random-fields solutions.
+/
+Machine Learning in NLP
+Central learning frameworks and techniques that have emerged in the field of natural language processing and found applications in several areas in text and speech processing: from information retrieval and extraction, through speech recognition to syntax, semantics and language understanding related tasks. Examination of the theoretical paradigms -- learning theoretic, probabilistic, and information theoretic -- and the relations among them, as well as the main algorithmic techniques developed within each paradigm and in key natural language applications.
+/
+Models of Cognitive Processes
+Formal models and concepts in automated cognition; integrating machine learning and prior knowledge; current approaches and detailed analyses of the role of reasoning in the learning process; computational complexity and fundamental tradeoffs between expressiveness and tractability; implications for state-of-the-art artificial intelligence areas such as automated planning, the semantic web, relational learning, structured prediction, latent models, structure learning, theory formation, etc.; philosophical and psychological aspects of integrating analytic and empirical evidence.
+/
+Topics in Automated Deduction
+Advanced topics in computer-aided methods for formal deduction, selected from areas of current research, such as: resolution theorem proving strategies, special relations, equational reasoning, unification theory, rewrite systems, mathematical induction, program derivation, hybrid inference systems, and programming with logic.
+/
+Security Laboratory
+Operating systems security: access control, least privilege mechanism and malware techniques. Network security: firewalls, sniffing, tunnels, intrusion detection, AAA and worm structure. System security: forensics security architectures, and attack/defend exercises. Complements CS 461 via hands-on project.
+/
+Computer Security I
+Fundamental principles of computer and communications security and information assurance: ethics, privacy, notions of threat, vulnerabilities, and risk in systems, information warfare, malicious software, data secrecy and integrity issues, network security, trusted computing, mandatory and discretionary access controls, certification and accreditation of systems against security standards. Security mechanisms: authentication, auditing, intrusion detection, access control, cryptography, security protocols, key distribution.
+/
+Computer Security II
+Program security, trusted base, privacy, anonymity, non-interference, information flow, confinement, advanced auditing, forensics, intrusion detection, key management and distribution, policy composition and analysis, formal approaches to specification and verification of secure systems and protocols, and topics in applied cryptography.
+/
+User Interface Design
+A project-focused course covering fundamental principles of user interface design, implementation, and evaluation. Small teams work on a term-long project that involves: analysis of the problem domain, user skills, and tasks; iterative prototyping of interfaces to address user needs; conducting several forms of evaluation such as cognitive walkthroughs and usability tests; implementation of the final prototype. Non-technical majors may enroll as non-programmers who participate in all aspects of the projects with the possible exception of implementation.
+/
+Social Visualization
+Visualizing social interaction in networked spaces: investigation of patterns in networked communications systems such as messaging (email, instant messaging), social networking sites and collaborative sites; social network theory and visualizations; exploration of how to move beyond existing visualization techniques; visualizing the network identity over compilations of online data.
+/
+Tech and Advertising Campaigns
+With the maturation of the internet as an advertising and media channel, advertising, journalism, and communications students need to know more about technology and how that impacts their messages and designs. Likewise, computer scientists could benefit from knowledge of what the end user is looking for when designing web content, applications and other web-based media. Students in this course will gain design knowledge as well as a hands-on experience in completing a technology-driven advertising campaign. Students will participate in engineering, advertising and project management activities with individual as well as team responsibilities.
+/
+Advanced Computer Security
+Current research trends in computer and network security. Privacy, tamper-resistance, unwanted traffic, monitoring and surveillance, and critical infrastructure protection. Subtopics will vary depending upon current research trends. Students work in teams in close coordination with the course instructor to develop one of the topics in depth by carrying out background research and an exploratory project.
+/
+Human-Computer Interaction
+In-depth coverage of advanced topics in human-computer interaction (HCI). Applied models of human performance and attention, design tools for creative design tasks, interruptions and peripheral displays, gestures, and bimanual input, and usability evaluation techniques. Students complete a research-oriented term project of their choosing.
+/
+Multimedia Systems
+Organization and structure of modern multimedia systems; audio and video encoding; quality of service concepts; scheduling algorithms for multimedia within OS and networks multimedia protocols over high-speed networks; synchronization schemes, user-interface design; multimedia teleservices.
+/
+Interactive Computer Graphics
+Basic mathematical tools and computational techniques for modeling, rendering, and animating 3-D scenes.
+/
+Production Computer Graphics
+Advanced methods for representing, displaying, and rendering two-, three-, and four-dimensional scenes. General algebraic curves and surfaces, splines, Gaussian and bump-function representation, fractals, particle systems, constructive solid geometry methods, lighting models, radiosity, advanced ray-tracing methods, surface texturing animation techniques, data visualization methods.
+/
+Computational Photography
+Computer vision techniques to enhance, manipulate, and create media from photo collections, such as panoramic stitching, face morphing, texture synthesis, blending, and 3D reconstruction.
+/
+User Interface Design
+A project-focused course covering fundamental principles of user interface design, implementation, and evaluation. Small teams work on a term-long project that involves: analysis of the problem domain, user skills, and tasks; iterative prototyping of interfaces to address user needs; conducting several forms of evaluation such as cognitive walkthroughs and usability tests; implementation of the final prototype. Non-technical majors may enroll as non-programmers who participate in all aspects of the projects with the possible exception of implementation.
+/
+Social Visualization
+Visualizing social interaction in networked spaces: investigation of patterns in networked communications systems such as messaging (email, instant messaging), social networking sites and collaborative sites; social network theory and visualizations; exploration of how to move beyond existing visualization techniques; visualizing the network identity over compilations of online data.  
+/
+Scientific Visualization
+Visualization techniques useful in analysis of engineering and scientific data. Physical models; methods of computational science; two- and three-dimensional data types; visual representation schemes for scalar, vector, and tensor data; isosurface and volume visualization methods; visual monitoring; interactive steering.
+/
+Human-Computer Interaction
+In-depth coverage of advanced topics in human-computer interaction (HCI). Applied models of human performance and attention, design tools for creative design tasks, interruptions and peripheral displays, gestures, and bimanual input, and usability evaluation techniques. Students complete a research-oriented term project of their choosing.
+/
+Special Topics
+Special Topics
+/
+Production Computer Graphics
+Advanced methods for representing, displaying, and rendering two-, three-, and four-dimensional scenes. General algebraic curves and surfaces, splines, Gaussian and bump-function representation, fractals, particle systems, constructive solid geometry methods, lighting models, radiosity, advanced ray-tracing methods, surface texturing animation techniques, data visualization methods.
+/
+Numerical Analysis
+Linear system solvers, optimization techniques, interpolation and approximation of functions, solving systems of nonlinear equations, eigenvalue problems, least squares, and quadrature; numerical handling of ordinary and partial differential equations.
+/
+Numerical Methods II
+Orthogonalization methods for least squares, Krylov subspace methods, non-linear equations and optimization in multiple dimensions, initial and boundary value problems for ordinary and partial differential equations.
+/
+Introduction to Bioinformatics:
+Algorithmic approaches in bioinformatics: (i) biological problems that can be solved computationally (e.g., discovering genes, and interactions among different genes and proteins); (ii) algorithmic techniques with wide applicability in solving these problems (e.g., dynamic programming and probabilistic methods); (iii) practical issues in translating the basic algorithmic ideas into accurate and efficient tools that biologists may use. 
+/
+Simulation
+Use of discrete-event simulation in modeling and analysis of complex systems. Data structures and event-list management; verification and validation of simulation models; input modeling, including selection of probability distributions and random variate generation; statistical analysis of output data.
+/
+Parallel Programming
+Techniques for the programming of all classes of parallel computers and devices including shared memory and distributed memory multiprocessors, SIMD processors and co-processors, and special purpose devices. Key concepts in parallel programming such as reactive and transformational programming, speculation, speedup, isoefficiency, and load balancing. Synchronization primitives, libraries and languages for parallel programming such as OpenMP and MPI, performance monitoring, program tuning, analysis and programming of numerical and symbolic parallel algorithms.
+/
+Special Topics 
+Special Topics 
+/
+Scientific Visualization
+Visualization techniques useful in analysis of engineering and scientific data. Physical models; methods of computational science; two- and three-dimensional data types; visual representation schemes for scalar, vector, and tensor data; isosurface and volume visualization methods; visual monitoring; interactive steering.
+/
+Parallel Numerical Algorithms
+Numerical algorithms for parallel computers: parallel algorithms in numerical linear algebra (dense and sparse solvers for linear systems and the algebraic eigenvalue problem), numerical handling of ordinary and partial differential equations, and numerical optimization techniques.
+/
+Numerical Methods for PDEs
+Numerical techniques for initial and boundary value problems in partial differential equations. Finite difference and finite element discretization techniques, direct and iterative solution methods for discrete problems, and programming techniques and usage of software packages.
+/
+Iterative & Multigrid Methods
+Comprehensive treatment of algebraic and multigrid iterative methods to solve systems of equations, primarily linear equations arising from discretization of partial differential equations.
+/
+Topics in Numerical Analysis
+Advanced topics in numerical analysis selected from areas of current research.
+/
+Operating Systems Design
+Organization and structure of modern operating systems and concurrent programming concepts. Deadlock, virtual memory, processor scheduling, and disk systems. Performance, security, and protection.
+/
+Real-Time Systems
+Supervisory control aspects of Cyber Physical Systems (CPS): fundamentals of reliability analysis, real-time scheduling, simple feedback control, software fault tolerance architecture, wireless networking and energy saving, principles of safety critical system engineering. Student groups design and demonstrate supervisory control architecture for a robot.
+/
+Distributed Systems
+Protocols, specification techniques, global states and their determination, reliable broadcast, transactions and commitment, security, and real-time systems.
+/
+Embedded Systems
+A survey of sampled data systems and embedded architecture; key concepts in common embedded system applications; signal processing and control; embedded microprocessor and device interface; time-critical I/O handling; data communications; real-time operating systems and techniques for the development and analysis of embedded real-time software; hands-on laboratory projects.
+/
+Computer Networking Laboratory
+Design, application, analysis, and evalution of communication network protocols under both Linux and Windows NT operating systems. Emphasis on identifying problems, proposing alternative solutions, implementing prototypes using available network protocols and evaluating results. Multiple programming team projects. 
+/
+Communication Networks
+Layered architectures and the OSI Reference Model; design issues and protocols in the transport, network, and data link layers; architectures and control algorithms of local-area, point-to-point, and satellite networks; standards in networks access protocols; models of network interconnection; overview of networking and communication software.
+/
+Wireless Networks
+Overview of wireless network architectures including cellular networks, local area networks, multi-hop wireless networks such as ad hoc networks, mesh networks, and sensor networks; capacity of wireless networks; medium access control, routing protocols, and transport protocols for wireless networks; mechanisms to improve performance and security in wireless networks; energy-efficient protocols for sensor networks.
+/
+Security Laboratory
+Operating systems security: access control, least privilege mechanism and malware techniques. Network security: firewalls, sniffing, tunnels, intrusion detection, AAA and worm structure. System security: forensics security architectures, and attack/defend exercises.
+/
+Computer Security I
+Fundamental principles of computer and communications security and information assurance: ethics, privacy, notions of threat, vulnerabilities, and risk in systems, information warfare, malicious software, data secrecy and integrity issues, network security, trusted computing, mandatory and discretionary access controls, certification and accreditation of systems against security standards. Security mechanisms: authentication, auditing, intrusion detection, access control, cryptography, security protocols, key distribution.
+/
+Computer Security II
+Program security, trusted base, privacy, anonymity, non-interference, information flow, confinement, advanced auditing, forensics, intrusion detection, key management and distribution, policy composition and analysis, formal approaches to specification and verification of secure systems and protocols, and topics in applied cryptography.
+/
+Applied Parallel Programming
+Parallel programming with emphasis on developing applications for processors with many computation cores. Computational thinking, forms of parallelism, programming models, mapping computations to parallel hardware, efficient data structures, paradigms for efficient parallel algorithms, and application case studies. 
+/
+Advanced Operating Systems
+Advanced concepts in operating system design and coverage of recent research directions. Resource management for parallel and distributed systems. Interaction between operating system design and computer architectures. Process management, virtual memory, interprocess communication, context switching, parallel and distributed file system designs, persistent objects, process and data migration, load balancing, security, protection. Term projects.
+/
+Concurrent Progrmg Languages
+Theory of concurrency and concurrent programming languages. Formal models of concurrent computation such as process algebras, nets, and actors; high level concurrent programming languages and their operational semantics; methods for reasoning about correctness and complexity of concurrent programs.
+/
+Advanced Distributed Systems
+Peer-to-peer systems, sensor networks, and fundamental theoretical distributed computing. Review of classical work in each area, and application of design methodologies to explore overlaps across them. Emphasis on protocol design, systems issues, and theory. Reading selections are roughly two-third classical to one-third contemporary. Students write critiques, make presentations, and create a conference paper in a systematic manner.
+/
+Advanced Computer Networks
+Advanced concepts in computer networks, including congestion control, quality of service, naming, routing, wireless networks, Internet architecture, measurement, network security, and selected recent research directions.
+/
+Advanced Computer Security
+Current research trends in computer and network security. Privacy, tamper-resistance, unwanted traffic, monitoring and surveillance, and critical infrastructure protection. Subtopics will vary depending upon current research trends. Students work in teams in close coordination with the course instructor to develop one of the topics in depth by carrying out background research and an exploratory project.
+/
+Operating Systems Design
+Organization and structure of modern operating systems and concurrent programming concepts. Deadlock, virtual memory, processor scheduling, and disk systems. Performance, security, and protection.
+/
+Real-Time Systems
+Supervisory control aspects of Cyber Physical Systems (CPS): fundamentals of reliability analysis, real-time scheduling, simple feedback control, software fault tolerance architecture, wireless networking and energy saving, principles of safety critical system engineering. Student groups design and demonstrate supervisory control architecture for a robot.
+/
+Compiler Construction
+Compiler structure, syntax analysis, syntax-directed translation, automatically constructed recognizers, semantic analysis, code generation, intermediate language, optimization techniques.
+/
+Embedded Systems
+A survey of sampled data systems and embedded architecture; key concepts in common embedded system applications; signal processing and control; embedded microprocessor and device interface; time-critical I/O handling; data communications; real-time operating systems and techniques for the development and analysis of embedded real-time software; hands-on laboratory projects.
+/
+Computer System Organization
+Computer hardware design and analysis and interface with software. Advanced processor design, including superscalar, out-of-order issue, branch prediction, and speculation. Memory hierarchy design, including advanced cache optimizations, main memory, and virtual memory. Principles of multiprocessor design, including shared-memory, cache coherence, synchronization, and consistency. Other advanced topics depending on time; e.g., GPUs and accelerators, warehouse computers and data centers, security.
+/
+Advanced Compiler Construction
+Incremental and interactive compiling, error correction, code optimization, models of code generators.
+/
+Parallel Computer Architecture
+Theoretical aspects of parallel and pipeline computation; time and processor bounds on classes of computations; data alignment network speed and cost bounds; conflict-free access memories; overall computer system ideas.
+/
+Fault-Tolerant Dig Syst Design
+Advanced concepts in hardware and software fault tolerance: fault models, coding in computer systems, module and system level fault detection mechanism, reconfiguration techniques in multiprocessor systems and VLSI processor arrays, and software fault tolerance techniques such as recovery blocks, N-version programming, checkpointing, and recovery; survey of practical fault-tolerant systems.
+/
+Computer Systems Analysis
+Development of analytical models of computer systems and application of such models to performance evaluation: scheduling policies, paging algorithms, multiprogrammed resource management, and queuing theory.
+/
+Embedded System Verification 
+Examines formal analysis an synthesis approaches for discrete, continuous, and hybrid models of computing systems and their physical environment. Introduces timed and hybrid automata models. Analysis techniques including model checking, Hoare-style deduction, and abstractions for safety and stability, and controller synthesis strategies with applications in distributed robotics, automobile system, traffic control, and real-time systems.
+/
+Writing and Research
+Introduction in research-based writing and the construction of academic, argumentative essays that use primary and secondary sources as evidence. This course fulfills the Campus Composition I general education requirement.
+/
+Freshman Orientation
+Introduction to Computer Science as a field and career for computer science majors. Overview of the field and specific examples of problem areas and methods of solution.
+/
+Intro to Computer Science
+Basic concepts in computing and fundamental techniques for solving computational problems. Intended as a first course for computer science majors and others with a deep interest in computing.
+/
+Engineering Orientation
+Orientation required of new freshmen in the College of Engineering.
+/
+Calculus I 
+First course in calculus and analytic geometry for students with some calculus background; basic techniques of differentiation and integration with applications including curve sketching; antidifferentation, the Riemann integral, fundamental theorem, exponential and trigonometric functions.
+/
+Writing and Research
+Introduction in research-based writing and the construction of academic, argumentative essays that use primary and secondary sources as evidence. 
+/
+Software Design Studio
+Fundamental principles and techniques of software development. Design, documentation, testing, and debugging software, with a significant emphasis on code review.
+/
+Discrete Structures
+Discrete mathematical structures frequently encountered in the study of Computer Science. Sets, propositions, Boolean algebra, induction, recursion, relations, functions, and graphs.
+/
+Calculus II
+Second course in calculus and analytic geometry: techniques of integration, conic sections, polar coordinates, and infinite series.
+/
+University Physics: Mechanics
+Newton's Laws, work and energy, static properties and fluids, oscillations, transverse waves, systems of particles, and rotations. A calculus-based approach for majors in engineering, mathematics, physics and chemistry.
+/
+Writing and Research
+Introduction in research-based writing and the construction of academic, argumentative essays that use primary and secondary sources as evidence.
+\

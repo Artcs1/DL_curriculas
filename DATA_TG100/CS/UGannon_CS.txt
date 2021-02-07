@@ -1,0 +1,273 @@
+/
+First-Year Seminar
+The First-Year Seminar is a discussion/experience-based course intended to orient the new
+student to Gannon University, to introduce the Liberal Studies Core and LIFECORE, to assist
+in the transition from high school to university life, and to encourage development of
+academic, personal and spiritual aspects of the student’s life.
+/
+Prob. Solv. & Comp. Programming
+The course focuses on problem solving and its relationship to computer programming.
+The student is introduced to the tools for developing the solution to a problem, and its
+subsequent implementation as an algorithm in a computer program. Once the introductory
+concepts of computer algorithm development have been assimilated, the student progresses to
+creating programs in the Java programming language including sequence, condition, iteration,
+functional decomposition and object use.
+/
+Prob. Solv. & Comp. Program. Lab
+Prob. Solv. & Comp. Program. Lab
+/
+Calculus 1
+Limits; derivatives of algebraic and trigonometric functions; graphing; related rates;
+optimization problems.
+/
+Introduction to Networks
+The theory and techniques of data communications design and analysis are studied. Topics
+include data communication concepts, terminology, and standards. Error correction and
+detection, LANs, ISO/OSI layers are also an integral part of this course. 
+/
+College Composition
+The principles of logic, rhetoric, and language and their use in written discourse. Application of
+these theories to numerous reading and writing assignments. Much attention to basic writing
+skills. 
+/
+Foundations of Theology
+Rooted in the richness of the Catholic Intellectual Tradition, this course explores the religious
+experiences of the human person and their relationship to Christian moral living. 
+/
+Object-Oriented Programming
+The course is aimed at developing advanced object-oriented programming skills, and assumes
+a foundation in the basic syntax of Java. The student will explore the basis of software
+development using the major constructs of encapsulation, polymorphism, inheritance and
+dynamic binding. Topics include GUI objects, event-driven programming, threading,
+networking and exception handling.
+/
+Object-Oriented Programming Lab
+Object-Oriented Programming Lab
+/
+Calculus 2
+The definite and indefinite integrals; applications of integration; techniques of integration;
+calculus of the exponential, logarithmic, and other transcendental functions.
+/
+Critical Analysis & Composition
+Development of the reading, research, and writing skills needed to use library resources to
+solve problems in a variety of disciplines, and relate these solutions to appropriate audiences.
+/
+Introduction to Philosophy
+An introduction to the study of philosophy. Beginning with the dawn of philosophical
+awareness among the ancient Greek philosophers, the course surveys both traditional and
+modern approaches to the philosophical understanding of the human condition. 
+/
+Fundamentals of Physics 1: Mechanics
+This course provides a calculus-based introduction to mechanics and emphasizes both
+quantitative and conceptual understanding of the material. Topics covered include kinematics
+in one and two dimensions, Newton’s laws of motion, rotational motion, conservation of
+energy and momentum, and gravitation.
+/
+Fundamentals of Physics 1 Lab
+Labs are designed to build conceptual and quantitative understanding of the material.
+/
+Data Structures & Algorithms
+An in-depth programming-based study of data structures and of algorithms for their
+manipulation. Arrays, tables, stacks, queues, trees, linked lists, sorting, searching and hashing
+are topics considered.
+/
+The User Experience
+This course deals with the study of the user experience (UX), and its relationship to human
+computer interaction. This course includes identifying and assessing usability issues,
+particularly as they apply to computer-based systems. Includes coverage of UX goals and
+processes, usability factors and measurements, wireframes and other prototyping
+technologies, and introductory web implementation. Special attention is given to usability
+and usability testing.
+/
+The Bible: An Introduction 
+Students will explore the structure, theological themes, literary forms, and historical context of
+the Judeo-Christian Bible using methods of Biblical interpretation. 
+/
+Discrete Mathematics 1
+Discrete Mathematics 1
+Logic, sets, methods of mathematical proof, functions, mathematical induction, counting
+methods, recurrence relations, graphs.
+/
+Mobile Application Development I
+This is an introductory course into the methods and tools for developing mobile applications
+for integrated devices such as iOS, Android and other mobile computing platforms. Topics
+include introduction to the coding and development platforms for one of the major mobile
+platforms (e.g., iOS or Android), unit testing, source code control, the development of
+prototype applications, and deployment
+/
+Object-Oriented Design Lab
+An advanced treatment of methods for producing a software design. Includes treatment
+of the developing Unified Modeling Language (UML) models and their application to software
+development.
+/
+Technical Communication
+This course is an introduction to the exploration of the procedures of preparing a public speech
+with emphasis on personal credibility, audience analysis, and effective delivery techniques. This
+course fulfills Gannon University’s Liberal Studies Speech requirement for students enrolled in
+programs approved by the Liberal Studies Committee.
+/
+Database Management & Administration
+Develop skills in query statements usage for programming, database design, as well as
+implementing and managing SQL servers. The core concept of SQL database design, usage
+and server configuration will be first introduced. Query statements for programming and
+SQL server management will be substantially taught. Essential skills for administrating
+a database are covered.
+/
+Algorithm Development Lab
+Fundamental techniques, searching, sorting, tree, graph and backtracking algorithms are covered.
+/
+Discrete Mathematics 2
+Algorithms, relations, topics in graph theory, tree traversal, spanning trees, Boolean algebra,
+logic gates, circuits, automata, Turing machines.
+/
+Numerical Analysis
+Taylor polynomials, machine representation of numbers, computational error, interpolation,
+root finding, systems of linear equations, curve fitting, numerical differentiation and
+integration.
+/
+Software Engineering
+The course provides an overview of software requirements analysis, the software design
+process, verification and validation, software maintenance, and documentation. The major
+emphasis of the course is a project that provides experience in the design and development of a
+significant software project.
+/
+Fundamentals of Physics 3 Lab
+Labs are designed to build conceptual and quantitative understanding of the material
+/
+Fundamentals of Physics 3: Electricity and Magnetism
+This course provides a calculus-based introduction to electricity and magnetism and
+emphasizes quantitative and conceptual understanding of the material. Topics covered include
+Coulomb’s Law, electric fields, electric potential, basic DC and AC circuits, magnetic fields,
+magnetic induction, and Maxwell’s equations
+/
+Web Programming and Implementation
+Focuses on the development of web applications with user interface conventions that facilitate
+viewing, searching, and changing of information stored in a relational database. The student
+will also learn to set up and configure the development environment for applications
+requiring a web client, web server, application server and relational database.
+/
+Formal Methods in Software DevelopmentFocusing on the issues and techniques needed to apply formal specification methods to the
+development of software, the course uses mathematical and logical formalism to develop a
+precise statement of what software is to do.
+/
+Linux Programming
+This course introduces the students to the Linux boot and login processes, basic process
+management techniques, file system, user controlled software build process, and basic
+application software architecture using the operating system. This course applies the concepts
+of shells, shell programming, controlling tasks developed with high-level programming
+languages to understand co-operating tasks by using signals and inter-processing
+communication (IPC). By applying the various software techniques, the student will
+comprehend the basic Linux Operating System (OS) concepts.
+/
+Probability and Statistics 1
+Enumeration, probability, independence, probability distributions, random variables,
+expectation, mean, variance, moment generating functions, Central Limit Theorem, sampling
+distributions, and other selected topics.
+/
+Project Economics
+This course develops the techniques necessary for understanding economic price theory, the
+time-value of money, and the basic issues surrounding organizational architecture. These
+include issues surrounding supply and demand, cost-production, decision making and
+market models. In particular, the course focuses on the application of these economic theories
+to projects, including issues surrounding risk analysis and triage, budgeting, planning, and
+scheduling necessary to the successful completion of a project
+/
+CIS Leadership Seminar
+The Leadership Seminar introduces students to a three-dimensional model of leadership,
+including a repertoire of leadership skills and means of using those skills responsibly in the
+various communities to which they belong. In addition, the course helps students explore the
+relevance of leadership skills in the leadership process. 
+/
+CIS Professional SeminarThe course focuses on current issues facing engineering and software professionals. Included
+with the focus, is an introduction to technical speaking as well as a review of trends in the
+software, computing and other engineering fields, job prospects, political issues, team and
+workplace behavior.
+/
+Server Management
+This course focuses on the configuration of networks for internet services, and how to
+deploy and maintain internet servers on multiple platforms. The course includes extensive
+laboratory work to support the installation and configuration of hardware and software to
+support networking, servers, and security for internet services, particularly on Windows and
+UNIX platforms. 
+/
+Number Theory & Cryptography
+Introduction to the theory of integers and basic cryptography. Topics include: primes,
+divisibility, unique factorization, congruences, applications to cryptography (including RSA
+and Diffie-Hellman), primitive roots, and quadratic reciprocity.
+/
+Advanced Multi-Media
+The course covers advanced multimedia concepts such as graphics, animation, video and
+sound; as well as the tools used to create multimedia applications. In addition, the course
+presents the design principles and management skills needed to develop dynamic, interactive
+multimedia products
+/
+Philosophy of Ethical Responsibility
+The subject matter of ethics is “the good life and how to live it.” Students will examine a variety
+of influential approaches to ethics, and will gain skill in applying ethical theory both to practical
+ethical issues in daily life, and to some of the urgent ethical issues in contemporary society
+/
+Computer Architecture
+This course is for understanding the interactions between computer hardware and software,
+Von-Neumann and Harvard architectures, hardware, software and system performance
+measurement, and instruction-set architecture (ISA). In particular, this course offers students
+the opportunity to understand and enrich their capability to interface between software (e.g.,
+computer instructions and assembly language programming) and hardware (e.g., computer
+arithmetic, processor control and data manipulation, memory hierarchy and performance,
+and I/O subsystems) components. 
+/
+Senior Design I
+The Liberal Studies senior capstone is the culminating experience of the Core curriculum
+and therefore requires students to integrate knowledge and skills from their major study
+areas, Liberal Studies courses, and co-curricular experiences. The course emphasizes cultural
+competence, leadership, ethical reasoning, 
+/
+Comparative Languages
+An introduction to modern computing concepts and computational models as embodied in a
+number of different classes of languages. The course includes an introduction to functionbased languages such as ML. LISP, Scheme; 
+logic-based languages such as Prolog, Parlog, Strand, OPS; and object-oriented languages such as JAVA, Smalltalk, Eiffel.
+/
+System and Network Security
+The course reviews standard computer security for desktop and server-based systems.
+Coverage includes network security issues and techniques. Ethical hacking and defenses
+against unethical hacking and other computer and network intrusions are discussed.
+/
+Philosophy of Knowledge, Certitude and Truth
+A study of the possibility and validity of human knowledge, together with the criteria
+of truth. 
+/
+History without Borders
+The most important ideas, issues, problems, and developments that mark the changing fortunes
+of the West’s interaction with the world from the Seventeenth Century to the present. 
+/
+Operating Systems
+An introduction to the study of operating systems. Topics covered include: process
+manipulation and synchronization, processor management, storage management, security,
+I/O and file systems, and basic distributed system concepts.
+/
+Senior Design II Lab
+The completion of the capstone design sequence. Students develop and deliver a completed
+end product. Emphasis is on working effectively in cross-disciplinary teams. Course topics
+include organizational behavior, quality assurance, documentation, design process and
+process metrics, risk management, written and oral presentation skills, ethical issues in the
+digital world.
+/
+Distributed Programming
+An introduction to the fundamental techniques and tools used developing programs that rely
+on inter-process communication. Topics include TCP/IP, client-server paradigm, daemon
+programs, client socket calls, server socket calls, concurrent vs. iterative servers,
+connectionless and connection-oriented server paradigms, advanced topics.
+/
+Poetry
+This course helps students develop an appreciation, understanding and evaluation of poetry as
+it reflects human experience in diverse cultural contexts.
+/
+American Architecture
+A broad survey of the American architectural tradition. The entire range of American building
+practices is examined, from the earliest colonial experiments to the latest Postmodern
+skyscrapers.
+/
+Multimedia Production
+Multimedia software uses text, graphics, sound, animation, and video to entertain, inform or
+educate its users. This course examines all parts of the multimedia software development
+process and provides hands-on experience with the use of multimedia software authoring tools.
+/

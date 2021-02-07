@@ -1,0 +1,94 @@
+/
+Cornerstone
+Engage first semester students in thinking about the ideas which shape our current and future views of ourselves, our communities, and the cosmos. Special attention is given to a Christian perspective on liberal education as a foundation for life-long integration of faith, ideas, and action.
+/
+Jesus: His Life and Teachings
+Students will study the canonical gospels (Matthew, Mark, Luke, John) and learn critical theories for analyzing them both as sources for understanding who Jesus was and for reflecting on what those stories mean for Christians today. May be used to satisfy Bible University Requirements.
+/
+Early Christians: Life, Literature and Community
+Students will study Acts through Revelation and learn critical theories for analyzing them both as sources for understanding how early Christian communities appropriated the stories of Jesus for their own contexts and for reflecting on how those stories inform Christian life today
+/
+Message of the Old Testament
+An overview of the Old Testament providing an outline of special themes and the overall purpose of the books. The basic message of the Old Testament as a whole, including content and theological themes, will be examined.
+/
+Composition and Rhetoric
+The theory and practice in reading and writing analytical and persuasive essays. Prerequisite: Meet one of the following - SAT Critical Reading score (old SAT) of 470 or above; SAT Reading + Writing score (new SAT) of 500 or above; ACT English score of 19 or above; or writing placement testing into ENGL 111. May be used to satisfy University Requirements.
+/
+Academic Composition Workshop
+Practice in reading and writing expressive and informative essays. Some persuasive writing will be included. A review of grammar and editing skills will also be included
+/
+Composition and Literature
+Expository, critical, and persuasive writing with research based on the reading of literary works.
+/
+Speech and Rhetoric
+Develops public speaking knowledge, skills, and attitudes through the interaction of rhetorical theory, practice, and analysis.
+/
+Environmental and Technological Science
+A study of environmental and technological sciences including natural resources and the impact of modern technology on the human environment. May be used to satisfy Science University
+/
+General Physics I
+Principles of mechanics, heat, and sound. An algebra-based physics course, designed primarily for liberal arts and pre-medical and pre-dental students.
+/
+Introduction to Communication
+This course provides a survey of the terminology, methods, theories, and topics within the discipline of communication
+/
+Civilization I
+Survey of the social, economic, religious, political and aesthetic activities of western civilization from the earliest times to 1660.
+/
+Introduction to Anthropology
+An overview of archeology; physical, linguistic, and cultural anthropology. Challenges students to a serious look at today’s “global village” with its diversity of cultures and a fuller understanding of “tribal loyalties” in the midst of growing international interdependence. An appropriate world view is suggested, in contrast to provincialism
+/
+Introduction to Programming Using Scripting
+An introduction to computer programming using a scripting language such as Python or PHP, with an emphasis on problem solving and logic. Topics include: variables and constants, arithmetic operations, data input and output, Boolean logic, conditional and iterative program control structures, user-defined functions, simple algorithm design, and debugging strategies.
+/
+Introduction to Databases and Database Management Systems
+A survey of the logical and physical organization of data and their importance in computer processing. Introduces data models, relational database design, and associated ideas. Compares modern DBMS software. Examines data as a strategic organizational resource. Students develop the basic SQL scripting skills necessary to create tables, queries, forms, and reports. Provides initial training towards professional database certification.
+/
+Mobile Application Development
+Introduces the development of applications for mobile computing and technology. Students learn to develop applications for mobile computing devices such as the iPhone and iPod Touch. Includes theory, concepts, and hands-on programming
+/
+Advanced Mobile Application Development
+Continues Mobile Application DeveIopment, creating more complex applications for mobile devices such as the iPhone and iPod Touch. Includes theory, concepts, and hands-on programming.
+/
+Human-Computer Interaction
+Introduction to both the programmatic and psychological considerations surrounding shaping the computer tool to the user. The course will cover the details of implementing a graphical user interface, and how to make the interface as user-friendly as possible.
+/
+Systems Analysis and Design
+Fundamental principles and methodologies of system analysis and design. Presents the systems development life cycle, with specific emphasis on planning, problem definition, specification of structured system requirements, information gathering, data and process modeling techniques, logical and physical design, feasibility assessment, and implementation and maintenance issues for businesses and organizations.
+/
+E-Commerce
+A studio-based course integrating the key business strategies and technology elements of contemporary electronic commerce. Emphasizes the use of Internet technology and the World Wide Web as strategic business tools, and links organizational strategy and business models to networked information technologies
+/
+Management of Information and Technology Resources
+Surveys contemporary management issues concerning information and technology resources of a firm. Topics include leadership of information systems, technology planning and acquisition, information retention and policy development, develop-vs.-purchase paradigm, legal/ethical/contractual considerations, customer support, staffing and organizational issues, performance metrics, social trends, and emerging technology.
+/
+Web Technologies
+An introduction to the development of web pages used to display images, tables, forms, and frames. Topics include HTML, cascading style sheets, server- and client-side scripting, applets, and web databases and security. Also introduces Internet browsers, user computer configurations, standard protocols, XML compatibility, Dynamic HTML, and accessibility issues.
+/
+Web Application Development
+Continuation of Web Development I. Topics include: Rapid Application Development; client- and server-side scripting for user and database interaction; session/cookie management; and privacy and integrity issues. Students learn scripting languages such as JavaScript, Perl, and ASP and develop an understanding of the document object model.
+/
+Advanced Mobile Application Development
+Continues Mobile Application DeveIopment, creating more complex applications for mobile devices such as the iPhone and iPod Touch. Includes theory, concepts, and hands-on programming. Assumes a strong programming background.
+/
+Fundamentals of Networking and Data Communications
+A first course in data communications and networking. Topics include: IP networks and services, comparative network configurations and communications protocols, function and purpose of physical network components, resource sharing, client-server systems, administrative issues and tools, and industry standards. Provides initial training towards professional network certification. Laboratory graded and credited with course.
+/
+Systems Analysis and Design
+Fundamental principles and methodologies of system analysis and design. Presents the systems development life cycle, with specific emphasis on planning, problem definition, specification of structured system requirements, information gathering, data and process modeling techniques, logical and physical design, feasibility assessment, and implementation and maintenance issues for businesses and organizations.
+/
+E-Commerce
+A studio-based course integrating the key business strategies and technology elements of contemporary electronic commerce. Emphasizes the use of Internet technology and the World Wide Web as strategic business tools, and links organizational strategy and business models to networked information technologies.
+/
+Fundamentals of Networking and Data Communications
+A first course in data communications and networking. Topics include: IP networks and services, comparative network configurations and communications protocols, function and purpose of physical network components, resource sharing, client-server systems, administrative issues and tools, and industry standards. Provides initial training towards professional network certification
+/
+Introduction to Computer and Information Security
+A survey of the fundamental concepts of computer and information security, including policies and technologies used to achieve secure networks, systems, computing facilities, and information resources. Topics include common system vulnerabilities and threats; models and mechanisms for mandatory, discretionary, and role-based access controls; authentication technologies; ethical issues; and related ideas
+/
+Database Administration
+A comprehensive presentation of the concepts and techniques of modern database administration. Topics include: system/software evaluation, selection, installation, operations, and maintenance; capacity planning and re-engineering; and utilities and tools for trouble-shooting, backup/ recovery, and performance monitoring/tuning. Discusses approaches and standards for organizing and managing the database resources, users, and technology of an enterprise.
+/
+Management of Information and Technology Resources
+Surveys contemporary management issues concerning information and technology resources of a firm. Topics include leadership of information systems, technology planning and acquisition, information retention and policy development, develop-vs.-purchase paradigm, legal/ethical/contractual considerations, customer support, staffing and organizational issues, performance metrics, social trends, and emerging technology.
+/

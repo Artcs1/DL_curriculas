@@ -1,0 +1,107 @@
+/
+Web Systems and Services I
+Web Systems and Services I 
+Introduces technologies used to build leading-edge application systems and services on the World Wide Web. Coverage includes a selection of Web components such as mark-up and scripting languages, and server components of Web applications. Introduces Web programming using pair or small team programming activities.
+/
+Computer Programming I
+Introduces fundamental concepts of computing including memory, instructions, function calls, and activation records. Covers fundamentals of structured computer programming in the language of instruction: variables, input and output, expressions, assignment statements, conditionals and branching, subprograms, parameter passing, repetition, arrays, top-down design, testing, and debugging.
+/
+Computer Programming II
+Covers object-oriented design, inheritance hierarchies, information hiding principles, string processing, recursion, good programming style, documentation, debugging, and testing.
+/
+Computing and Informatics Design I	
+Introduces computing and informatics through a combination of lectures and hands-on laboratory exercises. Lectures emphasize an integrated view of topic areas and systems, spanning low-level software and implementation issues to high-level use and acceptance by individuals and communities. Lab exercises allow students to explore familiar systems in unique and novel ways to better understand how these systems are designed and used.
+/
+Computing and Informatics Design II
+Introduces computing and informatics through a combination of lectures and hands on laboratory exercises. Lectures emphasize an integrated view of topic areas and systems, spanning low level software and implementation issues to high level use and acceptance by individuals and communities. Lab exercises allow students to explore familiar systems in unique and novel ways to better understand how these systems are designed and used.
+/
+Computing and Informatics Design III
+Introduces computing and informatics through a combination of lectures and hands-on laboratory exercises. Lectures emphasize an integrated view of topic areas and systems, spanning low-level software and implementation issues to high-level use and acceptance by individuals and communities. Lab exercises allow students to explore familiar systems in unique and novel ways to better understand how these systems are designed and used.
+/
+Senior Project I	
+This course is an independent project which small student teams determines and scopes an appropriate computing technology project that can be completed within the constraints of time and resources under faculty guidance. The objective of the course is to provide specifications and requirements for the team project.
+/
+Senior Project II
+This course is a continuation of Senior Project I. In this course, student-teams are required to implement theirs project specifications and requirements developed in the previous course.
+/
+Discrete Computational Structures	
+Covers basic concepts of discrete mathematics that are important to computing, including elementary set theory, recurrence relations, and graph theory.
+/
+Introduction to Business Statistics
+This introductory first course in business statistics focuses on applications of data analysis and statistics in business and economics. Topics covered include descriptive statistics and graphical presentation, probability, statistical inference, and simple regression analysis.
+/
+Composition and Rhetoric I: Inquiry and Exploratory Research	
+Develops students’ abilities to use writing as a tool for inquiry. Introduces genre theory, writing as a process, revision, and strategies of primary and secondary research. Reviews grammar, style, and documentation conventions. Engages students in reflection and promotes positive attitudes toward writing.
+/
+ENGL 102	Composition and Rhetoric II: Advanced Research and Evidence-Based Writing
+Advances students’ development in the writing processes. Promotes a critical evaluation and integration of information into their own writing as they research complex and open-ended issues. Identifies the relationships between rhetorical situations, the status of claims, and the need for evidence and warrants. Continues review of grammar, style, and documentation conventions. Encourages collaboration and effective search strategies of the Internet and library resources. 
+/
+Composition and Rhetoric III: Themes and Genres	
+Advances students' development in the writing and research processes and their understanding of how genres of writing shape meaning. Some courses may focus on the student's academic and discipline-specific experiences; Others may be based on literary or social themes. Promotes a critical reading of texts, reflective analysis, and a positive attitude toward writing.
+/
+Techniques of Speaking
+A workshop course in improving public speaking skills. Provides experience in speeches of explanation, persuasion, and argument.
+/
+The Drexel Experience	
+This course introduces first-year students to university life, his/her major, our community, and co-op.
+/
+Introduction to Civic Engagement
+This course is designed to help students develop skills as active participants in a pluralistic, democratic society through direct service, education and reflection opportunities.
+/
+Network Administration I	
+Students gain an understanding of terminology, technology, and issues involved in implementing networks. Topic include: understanding the OSI 7 layer model; concepts of servers and clients; network hardware/software functions; basics of TCP/IP protocol, main types of network topologies (bus, ring, star and mesh); and share and access network resources (files, printers, etc.).
+/
+Server I	
+Introduces administration and management of Windows operating system. Topics include operating systems installation, configuration, directory services, data storage subsystems, troubleshooting and problem determination of server. In addition the course will cover redundancy, upgrading, and disaster recovery.
+/
+Information Technology Security I	
+Surveys information security topics; familiarizes students with the technologies and policies that support confidentiality, integrity and availability. Industry standards for security architecture, operational security, policy and governance are covered and provides the foundations for further study of information security.
+/
+Open Server I	
+Introduces administration of open source operating systems and management of open servers. Topics covered include the boot process and fundamental server concepts related to processing, memory and storage. Addresses use of a command line interface to manage processes, modify file permissions, examine configuration settings, and run utilities for server administration.
+/
+Information Technology Security II	
+Focuses on securing digital infrastructure by examining threats, vulnerabilities, and technologies used to prevent cyber attacks such as: encryption, security devices, software, authentication and identity protocols. Hands-on labs demonstrate the use of tools and techniques discussed in the course.
+/
+Open Server II	
+Presents an in depth study of server administration utilizing the Linux Operating System. Topics covered include: shell environments, shell program structures, executions, variables, positional parameters, special shell variables, and shell programming statements. In addition the course will examine shell conditional statements, looping constructs, interrupt handling, and debugging tools.
+/
+Server II	
+Presents an in depth study of Windows server operating system and active directory. Topics include installation, implementation, administration of resources, monitoring, troubleshooting techniques. In addition, the course will examine Windows based network management tools, high availability and disaster recovery.
+/
+Network Administration II
+Course covers both theoretical knowledge and hands-on exercises for networking using CISCO hardware. Topics include: Extending Switched Networks with VLANS; Determining IP Traffic with Access Lists; Establishing Point-to-Point Connections; and Establishing Frame Relay Connections.
+/
+Introduction to Computing and Security Technology	
+Explores the infrastructure that makes current information and communication technology possible. Introduces foundational concepts of servers, networks, databases, and the Web. Addresses security and usability considerations that cut across all computing technology. Approaches computing technology from the perspective of system administrators who plan, manage, operate, and monitor large scale computing infrastructure. Covers emerging technologies including pervasive computing, continuous integration, virtualization, and the Internet of things. Explores professional opportunities in this high demand area.
+/
+Introduction to Information Systems	
+Introduces students to major types of information systems and their development and their use in organizations. Emphasizes ways in which information systems can be used to help individuals and organizations meet their goals. Assumes basic knowledge of computing concepts.
+/
+Introduction to Data Science	
+A first course in data science. Introduces data science as a field, describes the roles and services that various members of the community play and the life cycle of data science projects. Provides an overview of common types of data, where they come from, and the challenges that practitioners face in the modern world of “Big Data.” Provides an introduction to the interdisciplinary mixture of skills that the practice requires.
+/
+Systems Analysis I	
+Study of the principles, practices and tools of information systems analysis and design. Emphasis on learning pragmatic aspects of working as a systems analyst and employing the tools of systems analysis and design.
+/
+Database Management Systems	
+Focuses on how to design databases for given problems, and how to use database systems effectively. Topics include database design techniques using the entity-relationship approach, techniques of translating the entity-relationship diagram into a relational schema, relational algebra, commercial query languages, and normalization techniques.
+/
+Social Aspects of Information Systems	
+Introduces social issues involved in information systems design and use, e.g., personal computing, telecommuting, computers in education, the privacy and security of stored and transmitted information, and information ownership. Explores the interaction of high technology, employment, and class structure.
+/
+Human-Centered Design Process & Methods	
+Introduces the student to the process of human-centered design of interactive user interfaces. Teaches some of the basic approaches to design and evaluation of interactive user interfaces. Delivers practical advice on interaction design challenges. Applies human-centered design principles in the design of the user interface to an interactive computer system.
+/
+Team Process and Product
+Provides hands-on experience with working in small teams to apply processes and produce products typical of current best practices in computing and information technology organizations. Allows students to develop an integrated understanding of project life cycle phases. Examines issues of team organization and operation, problem solving, and communication.
+/
+Systems Analysis II	
+A project-oriented course that discusses software engineering and advanced techniques of requirements modeling, prototyping and software design, particularly utilizing object-oriented techniques. The course builds upon Systems Analysis I, requiring students to apply their knowledge of systems analysis tools and techniques.
+/
+Database Administration I
+Database Administration is a continuation of Database Management Systems, and includes the following: advanced ERD techniques, database management system internals and advanced elements of the SQL language, as well as stored procedures and triggers, specifically as demonstrated in the Oracle implementation.
+/
+Software Project Management
+The objective of this course is to study project management in the context of software systems development. The course will cover the processes, contexts, metrics, planning and management concerns of managing projects for modern software systems.
+/

@@ -1,0 +1,106 @@
+/
+College Composition I
+Building on your existing writing strengths will help develop a foundation for a successful education and career. You will learn strategies to express yourself with confidence and communicate your ideas effectively in personal, academic, and professional situations.
+/
+College Composition II
+This course will help you apply research and critical thinking skills to develop effective persuasive, problem-solving arguments. You will learn to create logical thesis statements, integrate research to support ideas in an academic essay, craft a digital media presentation, and work constructively with peers to enhance your ideas.
+/
+Professionalism - Theory and Practice in the Global Workplace
+This course focuses on the theory and practice of professionalism for lifelong career success in the global workplace. In this course you will explore multidisciplinary techniques and concepts pertinent to varied contexts of professional behavior and skill development. Concepts include communication skills, such as oral presentation and written communication skills, interpersonal relationship management, financial decision making, marketability, and managing professional identities through technology. Additionally, you will examine professionalism as a method for pursuing employment interests and career goals and develop a critical appreciation for organizational structures based on values and skills needed in your career.
+/
+College Algebra
+This course covers topics of algebra, including linear functions, equations and inequalities, systems of equations with two variables, polynomial functions, rational and radical equations and inequalities, exponential and logarithmic functions, ratios, proportions, variation, and graphing.
+/
+Arts and Humanities - Modern Creative Expressions
+As a human, you have the unique ability to appreciate beauty. This course will help you to discover human potential as expressed through the arts and humanities. In this course, you will evaluate the impact of creative expression on cultures by studying examples from the humanities disciplines. You will investigate how creative expressions broaden perspective. As an arts and humanities student, you will analyze forms of creative expression, and discover how to apply this new found insight to your career goals, community, and daily experience.
+/
+Discovering Science - Current Issues in a Changing World
+This course is designed to introduce students to some of the most important concepts in science including inheritance, energy, randomness, and measurement. In addition, the course will give students a chance to explore the human aspects of science: how people put science into practice, how societies think about scientific findings, and why science depends on ethical practices. Knowledge gained in the course will help inform further study in many disciplines and will help students better understand how science affects their personal and professional lives.
+/
+The 1960s - Reshaping the American Dream
+This course will take an in-depth look at the 1960s as a significant era in American history. Adopting multiple perspectives, we will explore the societal impact of such issues as the assassination of John F. Kennedy, the Vietnam War, the Countercultural, Civil Rights, and Feminist Movements, the advent of the birth control pill, and many others. Through exploring the music, political climate, and advancements in technology and medicine of this historical era, we will discover how our individual lives and society as a whole were forever changed.
+/
+Foundations of Technical Communication
+This course will examine fundamental components of technical communication, which include analyzing audience, defining objectives, designing documents, testing usability, and editing content. Students will use digital media tools to create a formal technical document tailored to meet the needs of an identified audience.
+/
+Website Development
+In this course, you investigate Internet technologies. You learn the concepts of web development along with web page design. By creating an individual online portfolio or biography using HTML, HTML5, and CSS (Cascading Style Sheets), you develop skills for today and tomorrow. This course will enable you to self-promote and demonstrate your skills to an audience via the web.
+/
+Microsoft Office Applications on Demand
+This course teaches you to use the current Microsoft Office suite of applications. Topics include an introduction to Word, Excel, PowerPoint, and cloud-based file management systems. You will also learn how to analyze appropriate software applications to address solutions within a profession.
+/
+Database Concepts Using Microsoft Access
+This course is an introduction to relational database management systems. You will use a relational database management system to create, maintain, and secure a database in order to analyze data. You will create filters, sorts, queries, forms, and reports. 
+/
+Information Technology Concepts
+You will explore concepts of information technology including hardware, software, and networks. You will also gain a practical understanding of how computer hardware and operating systems work. Topics include personal computer configuration and maintenance, along with the essentials of system software installation and administration.
+/
+Software Development Concepts
+This course introduces the fundamentals of software engineering, demonstrating how the fundamentals are the same across multiple programming languages. The core principles found in every programming language are investigated. You will design, develop, debug, and test simple applications using your choice from the programming language options.
+/
+Software Design and Development Concepts
+This is an intermediate course in the design and development of programs offering you a choice of implementation and demonstrating how design and programming concepts are universal. You will apply software design techniques, software process models, object-oriented programming concepts, and secure data-handling techniques. In addition, you will design, develop, debug, and test intermediate-level applications using your choice from the programming language options.
+/
+Database Concepts
+This course prepares you to learn database programming. You will be exposed to the essential concepts of database management systems and SQL programming language. This course will provide you with the business context in which data is used and how it is transformed into information. You will identify the information needs and general usage of data within the modern business context and link the use of relational database management systems to the data needs of the organization.
+/
+Networking Concepts
+This course introduces the concepts behind today's networks. It outlines current network design, explaining the OSI Model and the methods of carrying data over wired and wireless media. Other topics include network design components, such as topologies and access methods, administration of network operating systems, and troubleshooting methods for data transmission and recovery.
+/
+Network Security Concepts
+This course introduces you to the essential knowledge required to secure today's networks. You will learn to identify threats and vulnerabilities and to apply effective strategies to prevent data breaches. The course discusses topics such as risk assessment; compliance and operational security; access control and authorization management; intrusion detection; application hardening; malicious attacks; and cryptography. It outlines a security professional's responsibilities and discusses the skills needed to protect an organization's data and network infrastructure.
+/
+Discrete Mathematics
+This course is designed to provide information technology and computer science students with an overview and appreciation of mathematical concepts, highlighting applications of mathematics to information technology and computer science. Topics include set theory, logic, matrices, sequences and series, graph theory, and algorithm analysis. The student will complete assignments in each of these areas and be able to identify and apply the core concepts in each of these areas to related problems.
+/
+Introduction to Management
+This course provides an introductory overview of management theory, management functions, organizational structure, daily management responsibilities, ethics, and current management tools and resources. Theoretical concepts will be illustrated with practical application to real-world management problems and scenarios. Implications for managing change within the context of a global economy and other dynamic environmental forces are also examined.
+/
+Project Management I
+This course introduces you to the principles of project management. You will gain knowledge of the project management skills and processes needed to select, initiate, and plan a project. You will explore the project management knowledge areas. Topics include creating the project charter, developing project scope statements, creating the project schedule and budget, and risk planning.
+/
+Human Computer Interaction
+This course introduces you to the field of human computer interaction (HCI). You will survey HCI history and theory, and examine standard principles that are necessary to produce effective interface designs for the consumer. You will also learn about development methodologies, evaluation techniques, task analysis, and prototyping. Activities include observation and analysis of various types of interfaces, plus the use of professional tools to create a new interface design.
+/
+Technology Infrastructure
+This course explores the concepts and purpose of information technology infrastructure. Emphasis is placed on expanding your knowledge of computer networks and data transmissions and applying those concepts to an organization's technology requirements.
+/
+Principles of Information Systems Architecture
+This course introduces you to the background of information systems architecture. You will learn a holistic approach to both hardware and software architecture design from a broad systems perspective. Both a business and technical focus will be covered with concrete examples of current technologies and related managerial issues
+/
+Advanced Database Concepts
+This course incorporates advanced concepts of the database language Transact-SQL (T-SQL) for creating efficient database implementations. You will use the T-SQL programming language and connect to an MS SQL Server database for displaying organized information to users. You will explore the various fundamental features of the T-SQL language such as DataTypes, Sets, and Builtin functions. You will explore the programmability of SQL by creating stored procedures; learn how to format a result set by sorting, filtering, and grouping; apply advanced SQL query techniques such as subqueries and common table expressions; use Report Builder to generate analytical reports from your data; and examine the use of non-SQL relational databases.
+/
+IT Consulting Skills
+This course will introduce you to the theory and practice of IT consulting. You examine the processes and techniques associated with the consulting field. Business aptitude skills will be taught including communication, ethics, presentation, and leadership skills. Additionally, project definition and analysis, project planning, gathering user and project requirements, executing projects, time management, and the history of consulting will be examined. Through case studies, you prepare a project proposal and a persuasive presentation for an organization.
+/
+Systems Analysis and Design
+This course provides an overview of the system development life cycle (SDLC), including the modification and design process. You will learn to choose a system development methodology and evaluate the impact on the organization's strategic plan. It emphasizes the factors for effective communication with users and team members and all those associated with development and maintenance of the system.
+/
+Bachelor's-Level Information Technology Internship
+This course gives you practical job experience in the information technology field. The internship provides you with an opportunity to learn about the IT career field through practical, real-world experiences and mentoring from an IT professional. This experience will enrich your technology skills and provide a better understanding of the level of expertise needed to be successful in your career. Internships must be preapproved by the Dean prior to the start of the term. Students who fail this course on the first attempt may not reenroll in this course without the Dean's approval.
+/
+Network Administration
+In many organizations, the network administrator is the wizard behind the curtain. Network connections between users and computers seem to magically perform the transmissions required for daily operations. In this course, you are introduced to basic network administration. You install and configure a network operating system in a virtualized environment and practice administrative tasks. You perform hands-on exercises demonstrating server management, user account creation, file access, storage backup, and security settings.
+/
+Networking with TCP/IP
+This course provides a thorough examination of the protocols and services in the TCP/IP protocol suite. Students gain an understanding of how network traffic is encapsulated and transported by TCP/IP on local area networks and on wide area networks, including the Internet. Students learn about message addressing and forwarding, and how network errors are resolved.
+/
+Computer Forensics
+This course explores the pervasive nature of illegal and unauthorized activity occurring in cyberspace: computer crime. You will learn about the many types of computer crime and the structured procedures deployed in its investigation. This will include a systematic investigative approach of both corporate and criminal-related offenses. You will learn data-retrieval principles including onsite data collection, laboratory data retrieval, and live network data retrieval. You will learn how current computer forensics tools are used for data acquisitions to data analysis. This course will also discuss how computer crimes present unique vulnerabilities to computer systems due to the global nature of the Internet.
+/
+Intrusion Detection and Incident Response
+This course provides an introduction to intrusion detection systems available to protect networks from cybercriminals. You will explore various security concepts and the basics of security attacks. You will install and configure various intrusion detection system tools. Topics include principles and classifications of intrusion detection systems, incident response process, and response types. Additionally, the course presents insight into intrusion detection and forensics and incident response strategies required to protect critical assets.
+/
+Digital Forensics
+In this course, students learn about computer forensics and techniques used to perform computer forensics examinations. Students learn how to gather and protect evidence used in prosecuting computer crimes. Topics in this course include acquiring digital evidence, bookmarking data, file signature analysis, hash analysis, and other forensic techniques. This course is designed, among other things, to provide the student with the requisite knowledge to sit for the EnCase Certified Examiner (EnCE) exam. While the course may provide the student with the knowledge necessary to sit for the examination, the University cannot guarantee the student's eligibility either to take this exam or become certified.
+/
+Information Systems Security
+Businesses must be able to protect their networks and infrastructures from security attacks. In this course, you learn to investigate system vulnerabilities and implement security solutions. Topics in this course include access control, application security, business continuity and disaster recovery planning, cryptography, information security and risk management, compliance and investigations, operations security, physical security, security architecture and design, telecommunications, and network security. This course is designed, among other things, to provide you with the requisite knowledge to sit for the Certified Information Systems Security Professional exam. While the course may provide the knowledge necessary to sit for the examination, the University cannot guarantee your eligibility either to take this exam or become certified.
+/
+Certified Ethical Hacking I
+This course covers the tools and procedures needed to perform ethical hacking. Ethical hacking, which is also known as penetration testing, is a procedure employed by organizations where the tester attempts to penetrate or compromise a computer or network. In so doing, organizational vulnerabilities are brought to light, which allows the organization to mitigate the vulnerabilities uncovered. This course is designed, among other things, to provide you with the foundational knowledge necessary to continue your studies for the EC-Council Certified Ethical Hacker certification. While the course may provide you with the knowledge necessary to sit for the examination, the University cannot guarantee your eligibility either to take this exam or become certified.
+/
+Linux Security
+This course introduces Kali Linux as a penetration testing and security auditing platform with advanced tools to identify, detect, and exploit any vulnerabilities uncovered in the target network environment. You will explore several security assessment tools necessary to conduct penetration testing in their respective categories, such as target scoping, information gathering, discovery, enumeration, and vulnerability. You will develop practical penetration testing skills by demonstrating hacker tools and techniques that reflect real-world attack scenarios from a business perspective in today's digital age.
+/

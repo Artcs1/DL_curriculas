@@ -1,0 +1,109 @@
+/
+Principles of Chemistry
+Covers principles of stoichiometry, chemical bonding and structure, thermochemistry, chemical equilibrium, and kinetics. 
+/
+Introduction to Computer Science 
+Hands-on introduction to computer science and engineering.
+/
+First Year Seminar 
+Topic-based seminar developed by individual faculty members. Engages students in classroom activities that promote the acquisition of critical reading, writing, and thinking skills appropriate to college-level discourse.
+/
+Calculus I
+Covers parametric and polar equations; limits and continuity; differentiation and integration of algebraic, trigonometric, logarithmic, and exponential functions; and applications of differentiation. 
+/
+Fundamentals of Programming I 
+Emphasizes problem-solving techniques used in the analysis and design of software solutions, including structured top-down design, abstraction, good programming style, debugging, and testing. Programming constructs covered include control structures, functions, and basic, and aggregate data types. 
+/
+Calculus II 
+Covers integration techniques and applications of integration. Introduces vectors and matrices, functions of several variables and their derivatives, differential equations, and multiple integrals.
+/
+Calculus Physics I 
+Calculus-based treatment of mechanics, waves, and thermodynamics. 
+/
+Fundamentals of Programming II
+Project and problem-solving course emphasizes the use of classes for encapsulation of abstract data types and abstract data structures. Topics include classes, templates, dynamic allocation, searching and sorting, recursion, and exception handling. Introduction to algorithm analysis 
+/
+Calculus III 
+Covers infinite series, vector-valued functions, multiple integration, line and surface integrals, and analysis of vector fields. 
+/
+Calculus Physics II 
+Calculus-based treatment of electricity, magnetism, and light. 
+/
+Logic Design and Machine Organization 
+Introduction to logic design and computer hardware concepts. Topics include Boolean algebra, number representations, sequential logic, counters and registers, microcomputer architecture, and assembly language programming. 
+/
+Object Oriented Design 
+In-depth study of abstract data types and objects, including inheritance and polymorphism, frameworks and design patterns, and the use of these principles in problem solving and program design. 
+/
+Applied Engineering Mathematics 
+Develops understanding of practical mathematical analysis with applications in various engineering disciplines. Probability and statistical analysis. Practical numerical analysis. Linear algebra and matrices. Applications in civil, mechanical, and electrical engineering. 
+/
+Discrete and Combinatorial Math 
+Covers such topics as enumeration, principles of logic, set theory, mathematical induction, generating functions, recurrence relations, and graph theory.
+/
+Programming Languages 
+Comparative analysis of selected high-level languages. Covers virtual computers represented by various programming languages, representation of data types, sequence control constructs, data access, scoping, typing systems, runtime storage management, languages semantics, alternative, programming paradigms, and parallel language constructs. 
+/
+Formal Languages
+Models of computation including finite automata, regular grammars, regular expressions, pushdown automata, context-free grammars, Turing machines, computability, and undecidability. 
+/
+Software Engineering
+Study of the software design and development process in the context of a large group-programming project. Topics covered include: project management, software management, requirements and specifications methods, software design and implementation, verification and validation, aspects of software testing and documentation standards, technical documents, contracts, risks, and liabilities.
+/
+Algorithms and Data Structures
+Design and implementation of algorithms and advanced data structures with attention to complexity and space analysis. Problem-solving strategies including greedy and divide-and-conquer algorithms as well as dynamic programming techniques. 
+/
+Computer Architecture
+Studies the architecture of computer systems from four-bit machines to supercomputers. Memory systems, I/O processors, and multi-computer systems are studied in detail. RISC, CISC and Neural Nets are introduced. Establishes the relationship of hardware and software. Includes handson projects dealing with graphical user interfaces and their implementation. 
+/
+Operating Systems 
+Components of operating systems. Tasking and processing, process coordination and scheduling, memory organization and management, device management, security, networks, distributed and real-time systems.
+/
+Senior Project Seminar Programming
+Provides guidance for the selection of a topic for the senior design project. Projects (some industry-sponsored) are presented for student selection.
+/
+Senior Project Phase I
+Plan the computer science project and formulate the preliminary design under the guidance of faculty and industrial advisors. Discussion of the relationship of computer science as a discipline to the humanities and social sciences. Preparation of a written formal proposal and an oral presentation of the proposal. Seminar session addresses ethical, environmental, economic, safety, and ergonomic aspects of computer science.
+/
+Senior Project Phase II 
+A practice oral report, a written final report, a final oral report, and a demonstration of the completed project are required. 
+/
+Mathematical Ideas
+Explores a variety of topics, including numeration systems, logic, geometry, probability, and statistics. Includes historical and cultural perspective and contemporary applications. 
+/
+College Algebra 
+Treats properties of linear, quadratic, polynomial, exponential and logarithmic functions, inequalities, and systems of equations. 
+/
+Precalculus Trigonometry 
+Provides trigonometric tools necessary for success in Math 221. Develops trigonometric functions using both right triangles and the unit circle approach. Covers graphing, verification of identities, and inverse trigonometric functions. Requires no prior knowledge of trigonometry.
+/
+Conceptual Physics
+Presents basic principles of physics through descriptive and demonstrative techniques. For non-science majors. 
+/
+Intro to Physics at UE
+An introduction to physics and faculty research areas in physics for first-year physics majors. Topics may include special relativity, biophysics, particle physics, optics, and/or solid state physics, but are subject to change.
+/
+Physics Today
+Presents the nature of the work of a physicist and opportunities in the field of physics. An individualized course where topics of interest to each student are pursued through projects or selected readings. 
+/
+Computer/Human Interaction
+Study of user interface design, including ergonomic factors. Includes hands-on projects dealing with graphical user interfaces and their implementation.  
+/
+Computer Graphics
+Fundamental course in computer graphics. Topics include rendering two and three-dimensional images, two and three-dimensional transformations, line clipping, hidden lines, shading, and perspective projections. 
+/
+UNIX System Programming
+Coverage of UNIX software development and UNIX administration. Includes discussion of common shells and scripting languages, X Windows, and interprocess communication.
+/
+Principles of Macroeconomics 
+Macroeconomics is the branch of economics that studies the domestic economic system as a whole and its interaction with foreign economies. This course focuses on the behavior of the aggregate economy as it pertains to the determination of national income, production, level of employment, general price level, and trace flows. 
+/
+The American Corporation
+Examines the constitution and functions of American corporations and how they interact in a global society. Studies the corporation as an instrument in the creative process of innovation throughout the world. Social and ethical responsibilities of business entities and responsibility of society toward corporations explored in relation to the role of the corporation as a source of national prosperity and wealth.
+/
+Imaginative Expressions of Human Condition 
+Imaginative Expressions of Human Condition 
+/
+Human History and Historical Context of Knowledge
+Human History and Historical Context of Knowledge
+/

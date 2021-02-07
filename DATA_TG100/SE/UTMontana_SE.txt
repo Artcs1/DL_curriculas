@@ -1,0 +1,142 @@
+Freshman Seminar
+Required introduction to the Computer Science and Software Engineering programs. Students will discuss what it means to be a professional in the fields of computer science and software engineering, meet professionals in these fields, and hear about the wide range of employment opportunities. Throughout the course students will meet the faculty of the Computer Science Department and learn of their diverse expertise. By the end of the course, each student will have developed a resume and a career plan and will have learned how a Tech education prepares them for rewarding employment
+/
+Fundmentals Of Computer Science I
+This course introduces the beginning programmer to the fundamentals of object-oriented programming while becoming acquainted with many of the core features of Java. The student will be exposed to the creation of a variety of games and applications. After the basics, the student will learn to develop his or her own systems of classes, eventually working with many of Java’s Graphical User Interface (GUI) features and will develop a desktop Windows application. 
+/
+College Chemistry I
+Fundamental principles of chemistry such as stoichiometry, atomic structure, bonding, gas laws, oxidation-reduction reactions, and chemical equilibria are covered. The experimental nature of the science of chemistry and the mathematical treatment of data are emphasized. 
+/
+Introduction To Technical Writing
+Introduces students to written technical communication. Coverage includes electronic communication, memo writing, report writing, formal research writing, document design (including the design of graphical elements), grammar, usage, and style. Course assumes working knowledge of Microsoft Word. 
+/
+College Chemistry Laboratory I
+Experiments cover gravimetric analysis, chemical reactions, acid-base titrations, gas laws, oxidation-reduction titrations, water analysis, colligative properties and pH titrations. 
+/
+Calculus I
+Includes the study of limits of functions, continuous functions, tangents and derivatives, implicit differentiation, extreme values, curve sketching, antiderivatives, integrals of continuous functions, and the Fundamental Theorem of Integral Calculus. 
+/
+American Literature I
+Studies American literature from Colonial times to the Civil War with emphasis on the major philosophical & literary concepts of each period. 
+/
+Fundamentals Of Computer Science II
+Explores the finer and more subtle elements of a programming language. Programming techniques and structures include arrays, records, and linked lists. 
+/
+Presenting Technical Information
+Interactive, participatory course which requires use of multimedia to enhance the visual dimension of oral presentations. 
+/
+Calculus II
+Includes the study of methods of integration including, u-substitution, integration by parts, integration by partial fractions. Studies the derivatives and integral of the inverse trigonometric functions, exponential functions, and hyperbolic functions. Also studied are applications of the integral, sequences, and infinite series. 
+/
+General Physics-Mechanics
+First course in the calculus-based introductory physics sequence. Includes the study of kinematics, dynamics, and the conservation laws. Emphasizes the development of problem-solving skills fundamental to all branches of engineering. 
+/
+American Literature II
+Examines American literature, especially prose, from the Civil War to the present. 
+/
+Introduction to Sociology
+An introduction to sociology, covering its basic concepts, theories and methods. 
+/
+Data Structures and Algorithms
+Commonly used structures found in computing and the algorithms which manipulate them are studied. Design and analysis of algorithms are emphasized. Topics include stacks, queues, general lists, trees, hashing, searching, and sorting. 
+/
+Discrete Structures
+Course includes those mathematical topics which will help students in future courses. It refines problem solving skills by providing a vocabulary, structures and techniques for working with problems. Topics include logic, theorem  proving, properties of sets, functions, relations, and sequences, counting techniques, recursion, and graph theory. 
+/
+Introduction to Embedded Systems
+Develops basic concepts of computer systems and computer architecture. Includes base-2 arithmetic, octal and hexadecimal number systems, computer addressing modes, I/O, and assemblers. 
+/
+Multivariable Calculus
+Includes the study of vector-valued functions, parametric functions, curves in the plane, the polar coordinate system, partial derivatives, multiple integrals and calculus of vector fields. 
+/
+General Physics-Heat, Sound & Optics
+Second course in the calculus-based physics sequence. Includes the study of heat, sound, and optics. Emphasizes problem-solving. 
+/
+General Phy-Heat, Sound & Optics Lab
+Typical topics for this course include: Force, Torque, Motion in 2 dimensions, Friction, and Buoyancy. Laboratory exercises include measurements of forces, torques, energy, work, optics, thermal properties and resonance. Stresses good laboratory techniques and analysis of experimental errors. Laboratory reports are required. 
+/
+Design & Analysis of Algorithms
+Covers several advanced data structures, including balanced search trees and graphs. Studies common algorithm design methods (Brute Force, Decrease and Conquer, Divide and Conquer, Greedy, and Dynamic Programming) to solve various classic problems. Ehmphasizes the space and time complexitites of various data structures and their associated algorithms. 
+/
+Database Design
+Studies concepts and applications in database management including the relational model, relational algebra, Structural Query Language (SQL), normalization, transactions, and how to avoid SQL-injection.  XML, No SQL and Big Data are introduced.  Information stewardship is discussed.
+/
+Principles of Micro and Macro
+Covers the major aspects of macroeconomics (national income accounts, employment and infl ation, and monetary and fiscal policy) and microeconomics (firms and markets). 
+/
+Introduction to Differential Equation
+A study of first order and linear second order differential equations, power series methods, numerical techniques, Laplace transform, with applications to mechanical vibrations and circuits. 
+/
+General Physics-Electricity, Magnetism & Motion
+Third course in the calculus-based physics sequence. Covers electricity, magnetism, and electromagnetic waves.
+/
+General Physics-Electricity, Magnetism & Motion Lab
+General Physics-Electricity, Magnetism & Motion Lab
+/
+Concepts of Programming Languages
+Students will study concepts of high-level programming languages. Topics include regular expressions, context free grammars, programming language syntax, semantics, language translation and how language constructs are implemented. Projects include a lexical analyzer and/or a parser. Students will also program in a functional and a logic language.
+/
+Software Engineering
+Studies the process of engineering software applications and systems. Concentrates on the techniques and processes needed to engineer simple program assignments. Material on all aspects of software engineering, including professional ethics, is presented. In addition to individual homework assignments students will do in class assignments in pairs, triads, and quads on single and multiple module software products. 
+/
+Statistics for Scientists and Engineers
+Studies probability, random variables, univariate discrete and continuous probability models, expected values, sampling distributions, data collection, point and interval estimation, and hypothesis testing. 
+/
+Engineering Mechanics–Statics
+The study of the laws governing equilibrium. Uses equilibrium equations to compute the reactions and internal forces resulting from applied loads. Covers addition of forces, equilibrium of particles in two and three dimensions, equilibrium of structures, member forces for trusses and hinged frames, internal shear and moment forces plus shear and moment diagrams for beams, friction, centroids of areas and solids, moments of inertia of areas and solids. 
+/
+Engineering Mech–Dynamics
+The study of the effects of forces upon the motion of material bodies. Covers kinematics of particles, kinetics of particles including force, mass, acceleration, work, energy, impulse and momentum, kinematics and kinetics of rigid bodies. 
+/
+Mechanics of Materials
+Treats the elastic properties of materials plus the elastic and stability properties of members. Includes the special subjects of stress, strain, tension, compression, shear, torsion, bending and other force effects as they occur in beams, columns, other structural members, and joints. 
+/
+Mechanics of Materials Laboratory
+Studies mechanical properties of common construction materials used by industry. Wood, mortar and concrete, as well as ferrous and nonferrous materials will be observed under compression, tension, bending, buckling and fatigue situations. Hardness and impact testing is also conducted. Familiarization with three generations of tension-compression testers is acquired by the students. Extensive report writing is required. 
+/
+Computer Applications for Engineers
+The concepts of concurrent engineering and computer aided engineering analysis are introduced. The integration of computer aided design (CAD) and computer aided manufacturing (CAM) with engineering computer graphics will be used by the student to solve engineering design problems. 
+/
+Usability Testing
+Usability Testing
+/
+Computer Architecture
+Studies the design and organization of computer systems, including the instruction set and interconnection of hardware components. Topics include computer performance, assembly language programming, microprocessor architecture, pipeline processing, memory and storage organization, and multiprocessor computers. 
+/
+Software Maintenance
+Continues to study the process of developing software applications and systems. Software requirements, design and testing are addressed. Students gain experience in these areas by working on software maintenance projects that involve significant changes to a previously developed product and further development on a previously started project.  
+/
+Requirements & Specifications
+Concentrates on the development of requirements for software applications and systems. Topics include elicitation, analysis, documentation, and modeling software requirements. The Z specification language is one of the techniques used for modeling requirements. 
+/
+Advanced Technical Writing
+Emphasizes effective, clear and accurate scientific and technical communication. Focuses on writing theory and on the process approach to writing. Rewriting is stressed. Written work integrated with major fields. 
+/
+Networks
+A study of the fundamental principles of computer based communication. Principles, design, and standards of networks will be discussed, including standard network protocols. Includes an introduction to telecommunications and basic data transfer processes. 
+/
+Software Design & Architecture
+Builds on the student’s existing knowledge of and experience designing software. This course focuses on high level design of software systems so that those systems satisfy quality attributes such as security, availability, performance, and modifiability. Students will learn the importance of developing, documenting, communicating, and adhering to a software architecture that achieves not only the functional but also the non-functional requirements of a software system. 
+/
+Software Engineering Design Project I
+Software Engineering Design Project I
+/
+Engineering Economic Analysis
+Covers the time value of money and financial calculations. Provides a basis for the economic evaluation of engineering projects. Problems assigned deal with the methods of determining returns on engineering investments, comparing alternatives, and determining the economic life of equipment. 
+/
+Operating Systems
+I/O management, memory management, processor management, device management and performance measurement/evaluation are examined. Other operating systems, theoretical and current, are discussed. 
+/
+Web Science
+This course is designed to give the student an understanding of the plumbing that makes the web work. It covers basic and some advanced technologies currently being used in web based systems and provides an overview of the technical issues surrounding the web. Students successfully completing this course will learn to employ web technologies to build high-value web applications. 
+/
+Software Engineering Design Project II
+Software Engineering Design Project II
+/
+Software Verification and Validation
+Using industry standards, a text and other materials, this course will focus on understanding software verification and validation (V&V) concepts, processes, techniques and tool.  In addition students will practice several V&V techniques in class exercises and lab assignments. 
+/
+Senior Seminar
+Senior Seminar
+/
+

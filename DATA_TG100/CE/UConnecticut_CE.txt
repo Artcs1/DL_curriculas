@@ -1,0 +1,80 @@
+/
+Introduction to Principles of Programming
+Introduction to computer programming in a structured programming language including fundamental elements of program design and analysis. Data and functional abstraction as tools for constructing correct, efficient, and intelligible programs for a variety of common computing problems.
+/
+Data Structures and Object-Oriented Design
+Introduction to fundamental data structures and algorithms. The emphasis is on understanding how to efficiently implement different data structures, communicate clearly about design decisions, and understand the relationships among implementations, design decisions, and the four pillars of object-oriented programming: abstraction, encapsulation, inheritance, and polymorphism.
+/
+Systems Programming
+Introduction to system-level programming with an emphasis on C programming, process management and small scale concurrency with multi-threaded programming. Special attention will be devoted to proficiency with memory management and debugging facilities both in a sequential and parallel setting.
+/
+Principles and Practice of Digital Logic Design
+Representation of digital information. Analysis, design, and evaluation of combinational and sequential logic circuits. Debugging techniques. Use of computer facilities for circuit simulation, CAD, and report preparation and presentation. Introduction to structure and operation of digital computers. Design projects. Written reports with revisions are required for each project.
+/
+Introduction to Discrete Systems
+Mathematical methods for characterizing and analyzing discrete systems. Modern algebraic concepts, logic theory, set theory, grammars and formal languages, and graph theory. Application to the analysis of computer systems and computational structures.
+/
+Introduction to Computer Architecture
+Structure and operation of digital systems and computers. Machine organization, control and data paths, instruction sets, and addressing modes. Integer and floating-point arithmetic, the memory hierarchy, the I/O subsystem. Assembly language and basic program organization, interrupts, I/O, and memory allocation.
+/
+Operating Systems
+Introduction to the theory, design, and implementation of software systems to support the management of computing resources. Topics include the synchronization of concurrent processes, memory management, processor management, scheduling, device management, file systems, and protection.
+/
+Computer Organization and Architecture
+Organization and architecture of modern computer systems. Emphasis is on alternatives and advances to the basic Von Neumann architecture: topics such as pipelining, memory hierarchy and management, multiprocessor and alternative architectures, reconfigurable hardware, and other techniques for performance enhancement.
+/
+Electrical Circuits
+Analysis of electrical networks incorporating passive and active elements. Basic laws and techniques of analysis. Transient and forced response of linear circuits. AC steady state power and three-phase circuits. Periodic excitation and frequency response. Computer analysis tools. 
+/
+Signals & Systems
+Representation of signals in the time and frequency domains. Fourier series. Fourier and Laplace transform methods for analysis of linear systems. Introduction to state space models. Introduction to sampling and discrete systems analysis via z transforms.
+/
+Electronic Circuit Design and Analysis
+Physical electronics underlying the operation of electronic devices. Diodes, diode models, and diode circuits. Transistors, transistor models, and transistor circuits. DC, small signal, and frequency analysis of transistor amplifiers. Compound transistor configurations. Computer analysis tools. Diode and transistor circuits are constructed and tested in the laboratory.
+/
+Digital Systems Design
+Design and evaluation of control and data structures for digital systems. Hardware design languages are used to describe and design alternative register transfer level architectures and control units with a micro-programming emphasis. Consideration of computer architecture, memories, digital interfacing timing and synchronization, and microprocessor systems.
+/
+Very Large Scale Integrated (VLSI) Design and Simulation
+Design of MOS transistors, including short channel effects in sub-micron devices; scaling laws; design rules. Layout of NMOS and CMOS logic gates; power-delay calculations. Design of static and/or dynamic memories. Laboratory emphasizes schematic capture, simulation, timing analysis and testing; layout of custom IC's; use of VHDL.
+/
+Communicating Engineering Solutions in a Societal Context
+Analysis of engineering design solutions in a broader context. Written and oral technical communication. Class time will be divided between lectures, group discussions/exercises, and student oral presentations.
+/
+Electrical and Computer Engineering Design I
+Discussion of the design process; project statement, specification, project planning, scheduling and division of responsibility, ethics in engineering design, safety, environmental considerations, economic constraints, liability, manufacturing, and marketing. Projects are carried out using a team-based approach. 
+/
+Electrical and Computer Engineering Design II
+Design of a device, circuit, system, process, or algorithm. 
+/
+Multivariable Calculus
+Two- and three-dimensional vector algebra, calculus of functions of several variables, vector differential calculus, line and surface integrals.
+/
+Applied Linear Algebra
+
+Systems of equations, matrices, determinants, linear transformations on vector spaces, characteristic values and vectors, from a computational point of view. The course is an introduction to the techniques of linear algebra with elementary applications.
+/
+Elementary Differential Equations
+Introduction to ordinary differential equations and their applications, linear differential equations, systems of first order linear equations, numerical methods.
+/
+Probability Models for Engineers
+Probability set functions, random variables, expectations, moment generating functions, discrete and continuous random variables, joint and conditional distributions, multinomial distribution, bivariate normal distribution, functions of random variables, central limit theorms, computer simulation of probability models.
+/
+Microprocessor Applications Laboratory
+Design of software and interface hardware to use a microcomputer as an on-line, real-time element in data acquisition, filtering and control systems. Use of clocks, DAC's, ADC's, speech synthesis modules, and movement generators. Design project. Written and oral presentations of laboratory results
+/
+Navy STEM Professional Development Seminar
+Seminar series focusing on science, engineering and technology concepts in the design, construction, operation and maintenance of surface ships and submarines. Provides industry-specific knowledge for engineering students interested in pursuing Navy-related careers in the public or private sectors.
+/
+Special Topics in Computer Science and Engineering
+Special Topics in Computer Science and Engineering
+/
+Independent Study in Computer Science and Engineering
+Independent Study in Computer Science and Engineering
+/
+Computer Science and Engineering Design Project I
+Computer Science and Engineering Design Project I
+/
+Computer Science and Engineering Design Project II
+Computer Science and Engineering Design Project II
+/

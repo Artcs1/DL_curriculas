@@ -1,0 +1,139 @@
+Composition I
+Expository writing with emphasis on effective communication and critical thinking. Emphasizing the writing process writing topics are based on selected readings and on student experiences
+/
+Composition II
+Focus on extensive research in analytical and argumentative writing based on a variety of readings from the humanities. Emphasis on developing critical thinking and diversity of perspective
+/
+Fundamentals of Technical Presentations
+Communication theory and its application to preparing and delivering technical information in public speaking situations.
+/
+Fundamentals of Oral Communication
+Communication theory and its application to preparing and delivering public speeches.
+/
+Statistical Methods I
+First methods course introducing probability and statistical inference, including estimation, hypothesis testing, binomial and normal distributions, sample size
+/
+College Algebra
+Inequalities. High degree polynomials. Graphs, rational, logarithmic, and exponential functions. Systems of equations. The “NC” grading policy applies to this course. 
+/
+Pre-Calculus Algebra
+Properties and graphs of polynomials, rational, exponential and logarithmic functions, matrices, sequences and series, conics, induction, binomial theorem. Introduction to limits. Prepares students for upper level mathematics.
+/
+Principles of Macroeconomics
+An introduction to macroeconomics, including an overview of the market economy; national income, employment, and price level determination, stabilization policies, and international economics
+/
+General Psychology
+A survey of the basic principles, theories, and methods of contemporary psychology, including the study of human diversity.
+/
+College Physics I
+Mechanics, waves, thermodynamics
+/
+College Trigonometry
+The circle arc length, identities, trigonometric functions, inverse functions, applications to simple harmonic motion, function of angles, complete development of triangle solving
+/
+Principles of Macroeconomics
+An introduction to macroeconomics, including an overview of the market economy; national income, employment, and price level determination, stabilization policies, and international economics.
+/
+General Psychology
+A survey of the basic principles, theories, and methods of contemporary psychology, including the study of human diversity.
+/
+Introduction to Programming with C
+Programming in C including arrays, pointer manipulation and use of standard C math and IO libraries
+/
+Object Oriented Programming
+Object oriented programming concepts (classes, objects, methods, encapsulating, inheritance, interfaces) and the expression of these concepts in the programming languages such as JAVA
+/
+Database Concepts
+Entity-relation model, relational database managements systems, normal forms, performance or databases, report generation.
+/
+Foundations of Discrete Math
+Basic mathematical logic, methods of proof in mathematics, and application to elementary discrete structure. 
+/
+Introduction to Discrete Structures
+Logic, sets, functions, relations, combinatorics, graphics, Boolean algebras, finite-state machines, Turing machines, unsolvability, computational complexity.
+/
+Computer I
+Problem solving techniques, order analysis and notation, abstract data types, and recursion
+/
+Security in Computing
+Security theory. Legal and human factors, Malware, Intrusion patterns and tools, Windows, Unix, TCP/IP, and applications vulnerabilities. Detection. Policies and enforcement. Protection and assurance.
+/
+Foundations of HCI
+Students will learn the foundational concepts of Human-Computer Interaction (HCI), including human-centered design principles, interaction modalities, design guidelines and heuristics, and interface evaluation techniques
+/
+Computer Architecture Concepts
+CPU organization, current computer architectures, network file servers
+/
+Computer Network Concepts
+Network media, protocol, current and evolving standards for local, metropolitan, wide area and wireless networks.
+/
+Fundamentals of Information Technology
+Pervasive themes in Information Technology. Organizational issues. History of Information Technology. Information Technology and its related and informing disciplines. Application domains. Applications of math and statistics to Information Technology.
+/
+Managing Information Technology Integration
+Requirements, acquisition and sourcing. Integration. Project management. Testing and QA. Organizational context
+/
+Enterprise Computing
+Client-server architecture. Server-side scripting: Servlets, JSP, PHP. JDBC and MySQL database; connectivity. Multi-threaded Java applications. J2EE development. SSL
+/
+Web-Based Information Technology
+Digital libraries. Media formats. Compression. Streaming Media. Mobile internet and WML. Emerging technologies. Capacity planning for web services
+/
+Design and Implementation of Computer Communication Networks
+Data communication networking technologies (TCP/IP, Ethernet, Gigabit Ethernet, ATM, Frame Relay), products (routers, switches, adapters, cabling). Base design and detailed configuration including hands-on exercises.
+/
+Frontiers in Information Technology
+Research into leading edge information technologies that have a high likelihood of affecting the work place in the two to five year time frame.
+/
+Advanced Ethics in Science and Technology
+Critical thinking applied to ethics in science and technology
+/
+Operating System Concepts
+System calls, concept of processes, CPU scheduling, security issues, client server paradigms, and computer supported workgroups
+/
+System Administration and Maintenance
+An examination of operating systems and applications installation, configuration, and maintenance, including client-server services, content management and deployment, server administration and management, and user/group management.
+/
+College Physics II
+Fluids, electricity and magnetism, optics, x-rays, radioactivity
+/
+Documentation and Project Management
+Development of a book-length project from idea to final published product. Examples may include style manuals, policies and procedures, and training manuals.
+/
+Writing for the Computer Industry
+Creating different kinds of software manuals or online help systems for the computer industry
+/
+Writing and Hypertext
+Writing and HTML/CSS coding for online environments, hypertext architectures, and electronic literacy theory to develop a more critical and applied understanding of hypertext
+/
+Digital Rhetorics and The Modern Dialectic
+Explores the development of digital rhetorics appearing in online environments through close reading and analysis of formative rhetorical texts, fiction, and internet materials.
+/
+Technical Communication for the Virtual Workplace
+Collaborative technologies used in the modern workplace and the challenges associated with virtual collaboration. Students will participate in a virtual team project
+/
+Writing in Digital Environments
+Study and practice of new media/Internet writing and publishing, covering a range of online and multimedia genres.
+/
+International Technical Communication
+International issues in the field of technical communication including internationalizing documents, user interface design, international collaboration, and rhetorical and logistical challenges
+/
+Document Design and Publication
+Theory and practice of technical document design, including style, format, and layout. Create documents with relevant publication technologies. Practice in publication project management
+/
+Writing for the Technical Professional
+Writing effective correspondence, instructions, proposals, and informal and formal reports
+/
+Professional Writing
+Study of and practice with professional writing as a rhetorical act involving problem solving and audience accommodation; includes research and text production practices as well as business genres and conventions.
+/
+Information Technology Career and Academic Advising I
+Information Technology Career and Academic Advising I
+/
+Careers in Information Technology
+Careers in Information Technology
+/
+
+
+
+

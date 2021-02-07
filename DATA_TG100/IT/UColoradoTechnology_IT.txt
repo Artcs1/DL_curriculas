@@ -1,0 +1,91 @@
+/
+Science Elective
+Science Elective
+/	
+Science Elective 1
+Science Elective 1
+/
+Humanities Elective
+Humanities Elective
+/
+Science Lab Elective
+Science Lab Elective
+/
+Science Lab Elective 1
+Science Lab Elective 1
+/
+Social Science Elective
+Social Science Elective
+/
+US History/US Government Elective
+US History/US Government Elective
+/
+Academic and Career Success
+This course introduces effective academic strategies and resources integrating them with career planning methods that can be leveraged to pursue future academic and professional goals.
+/
+Introductory Sociology
+This introductory course brings perspectives of the social sciences to bear on understanding group behavior. The course examines society using theoretical and methodological principles and applications that distinguish sociology from other social sciences. Learners gain insight into unique aspects of cultural and social interaction across the globe, while examining negative aspects of social control, deviance and crime, and authority. Information presented explains how culture, values, roles, norms, social interaction, and social stratification influence everyday life through careers, community, and family.
+/
+Introduction to Ethics
+This course is designed to provide students a basic understanding of moral and ethical theories and concepts. The activities and discussions encourage students to explore and solve ethical dilemmas by identifying and applying moral and ethical theories. Students will also be encouraged to explain their reasoning from cultural, professional, and personal standpoints. A variety of ethical issues and methodologies will be explored, as students evaluate moral dilemmas in an assortment of work and life scenarios.
+/
+Applications of Discrete Mathematics and Statistics
+This course studies problems that involve finite or discrete data sets. Logic and set notation form a foundation for creating structure in data storage and information retrieval. Tools used include truth tables, methods of proof, Venn diagrams, Big-Oh functions, graphs, trees, paths, and matrices. 
+/
+Analytic College Algebra
+The course is designed to provide students with a complete review of elementary algebra. Students are introduced to the processes of simplifying rational and radical expressions. Functions are defined and the general properties of zeroes, extreme values, symmetry, transformations, and graphs are studied. Special attention is given to linear, rational, radical, and quadratic equations. Additional topics include computation with complex numbers and solving systems of linear equations with matrices and determinants.
+/
+Introduction to Algebra
+This course is designed to provide students a review of arithmetic operations on signed numbers and fractions. Students are introduced to the idea of using symbols for numbers and to basic transformations of algebraic expressions. The skills of expanding, factoring, and simplifying algebraic expressions are applied to the solving of linear and simple quadratic equations. Linear relationships between real life quantities are studied, both from the graphical and the algebraic point of view. Elementary rules for exponents, simple roots and basic operations on rational expressions are used to simplify expressions.
+/
+Professional Written Communications
+Professional Written Communications
+/
+Introductory Written Communication
+The workshop style course focuses on building confidence in writing as students progress through the process of choosing essay topics, developing introductory paragraphs and thesis statements, creating effective body paragraphs and topic sentences, and drafting conclusion paragraphs.
+/
+Modern American History: 1950 to the 21st Century
+This course focuses on the key people, social experiments, and technologies that continue to impact our lives. Particular attention is paid to the latter half of the 20th Century and the dawn of a new millennium in America – a time that, through the lens of history, both gives us pause and inspires hope for the future.
+/
+Technical and Professional Writing
+This course covers technical and professional writing. Students review and will be required to prepare a wide variety of documents including abstracts and/or executive summaries, mechanism and process descriptions, instructions, proposals, and requirement specifications. Special attention is given to adapting writing style to a particular audience, adjusting document mechanics and semantics for a specific purpose, formatting design elements in a consistent manner, and integrating graphics into a document.
+/
+Unix Fundamentals
+In this course, students explore end user interaction with the UNIX operating system. This course examines the basic features of the UNIX operating system, UNIX commands, the UNIX file system, the UNIX shells, and shell programming. It also draws comparisons between UNIX and Linux.
+/
+Fundamentals of Database Systems
+This course introduces database design, and implementation and database management systems. Topics covered in this course include conceptual and logical database designs for several businesses, implementing these designs using a database management system and developing business applications that access these databases.
+/
+Structured Query Language for Data Management
+This course gives complete coverage of SQL, with an emphasis on storage, retrieval and manipulation of data.
+/
+Introduction to Computer Security
+This course provides the foundation for the study of computer system security. The course centers around the ten domains comprising the Information Security Common Body of Knowledge. Topics include access control systems, telecommunications and network security, cryptography, operations security and business continuity and disaster recovery planning. 
+/
+Introduction to Website Development
+Web development is a broad field and this class provides a basic foundation for follow-on web related classes. The focus for this class is to produce and manipulate actual code creation with HTML5 and CSS3 (or updated industry web standards) for structuring/presenting content on the web.  W3C provides industry guidelines related to current web design practices and standards.  Students employ, interpret, manipulate and generate HTML5 and CSS3 code using Notepad++ or TextWrangler (Mac platform) or other industry standard text editor.
+/
+Introduction to Programming Logic
+This course is the study of programming logic and the application of this logic to problem solving. In the course we will discuss and apply many approaches to problem solving such as step algorithms, flow charts, truth tables, and pseudo-code. Students will learn techniques to translate real life problems into forms that will enable computer programs to solve them. Students will learn and apply programming language constructs (i.e. linear, branching, iteration, subroutines, etc.) using a visual tool.
+/
+Introduction to Operating Systems and Client/Server Environments
+This course is an introduction to the basic concepts of operating systems and specialized networking operating system models. The fundamentals of common operating systems, client/server environments, network infrastructure, theoretic models and system architecture are discussed, including legacy operating system platforms and security processes utilized in today's enterprises.
+/
+Introduction to IT
+Introduction to IT provides an overview of issues and opportunities presented by the fast-paced world of information technology. Students receive an overview of computer-based systems and learn about the development operation and management of these systems. The course includes basic hardware and software principles and current information systems. Topics include databases and networking and their critical organizational importance, IT systems development, the impact of the Internet on organizations, and emerging technologies and trends for the future.
+/
+Fundamentals of Networking
+This course serves as an introduction for students to acquire a foundation in current data communication and networking technologies. The course provides an introduction to the hardware, media, Ethernet, addressing, IP Configuration, components, and connections of a network. Network concepts such as network topologies, and major protocols, as well as the basic functions of network administration and operation are covered.
+/
+Spreadsheet Applications
+This course is designed to introduce the basic computer spreadsheet application skills, with an emphasis on essential design, format, functions, and formulas of spreadsheet operations in solving real-world problems. Electronic spreadsheets are used in a variety of business calculations to analyze, graph, and manage data.
+/
+Information Technology Architectures
+The major objective of this course is to introduce the concepts, methodology and terminology of Distributed Systems Architecture within the context of Enterprise Technical Architecture and integrate this knowledge with previous courses in operating systems, database management systems, networking, programming and program management. 
+/
+Systems Analysis, Design and Integration
+Systems Analysis and Design provides instruction on the System Development Life Cycle (SDLC) phases. This course looks at the SDLC as a structured approach for developing requirements, performing analysis, producing the design, coding or installation of the solution, testing the application and installing the final product. The system as defined in this course could include a network, telecommunications, new software development or other information systems. 
+/
+Introduction to Project Management
+This course is designed to provide an overview and introduction to the discipline of project management, coupled with an examination of the techniques that project managers use to complete their projects on schedule, within budgeted cost, and according to specified scope. 
+/

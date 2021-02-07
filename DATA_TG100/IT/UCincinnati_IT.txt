@@ -1,0 +1,85 @@
+/
+Fundamentals of Information Technology 
+This course is an introduction to the field of Information Technology including technology concepts, terminology, hardware components and software applications. Students will be introduced to and asked to apply basic skills in the core areas of information technology such as programming, database management, networking, systems administration, and web development and the basic research, problem solving and decision making skills required to be successful in this field. 
+/
+Computer Networking 	
+The Computer Networking course explains, in a theoretical and practical framework, how communication occurs across a network. Students study such topics as computer/network hardware, network media, topologies, protocols, security, network architectures, IP addressing, and the Transmission Control Protocol/Internet Protocol (TCP/IP) model. 
+/
+Computer Programming I	
+The course introduces students to procedural computer programming and problem solving. Students will learn about the basic elements of a computer program such as programming logic, data types, basic control structures, and program debugging.
+/
+English Composition	
+This course emphasizes critical reading, writing, and textual analysis with particular focus on argument and research-based writing.
+/
+Pre-Calculus	
+Study of functions, equations and systems of equations, sequences and series, trigonometry, and vectors, and assumes prior exposure to these topics. 
+/
+Intermediate Composition
+This course emphasizes critical reading and writing, advanced research and argument skills, and rhetorical understanding of language as it is used in different discourse communities.
+/
+Professional Development for BSIT	
+This course is designed to introduce CECH students to the cooperative education (co-op) learning model and how it is executed through the Professional Practice Program. It will prepare students to maximize learning through and develop the strategies and necessary skills for effective participation in the Professional Practice Program. 
+/
+System Administration
+This course will provide the knowledge and hands-on skills necessary to manage a Local Area Network and its resources. Topics covered include directory services, server management, file and print services, and user/client administration in a heterogeneous operating system environment.
+/
+Fundamentals of Web Development 
+The course covers modern Web standards, well-formed and valid documents, Semantic HTML5, User-Centered Responsive design of static Web sites, Styling and layout of Web documents with CSS3, and common software tools for Web Site development. Emphasis is on coding syntactically correct Web documents using an engineering design perspective focused on functionality and basic visual design principles. Additionally, the course covers a variety of basic XML technologies for data representation and transformation. 
+/
+Database Management I 
+This is an introductory course to the technology used for database development. Topics include the key database concepts, writing queries to retrieve, insert, update, and delete data from databases, and additional database features. Enterprise database management system will be used. 
+/
+Introduction to Interpersonal Communication		
+Introduction to theory and practice in interpersonal communication. Topics include verbal and nonverbal communication, perception, listening, emotions, relationship development, conflict and power. Focus is on the development of an understanding of fundamental interpersonal dynamics and basic skills.
+/
+Fundamentals of Digital Media	
+This course provides an introduction and overview of software tools and techniques for creating digital media including text, images, sound, video, and interactive media. The focus is on using multimedia to communicate technical information effectively to technical and non-technical audiences.
+/
+Implications of Information Technology	
+This course focuses on the impact brought upon our society by computers and its related technologies.Issues related to privacy, ethics, law, encryption, copyright, computer crimes, professional ethics and responsibilities will be critically examined.
+/
+Applied Statistics for Human Services I	
+An introduction to statistics for students in human services and other related fields of study. Topics include sampling techniques, graphical and numeric descriptive statistics, basic quality improvement tools and an introduction to probability. Human services applications are emphasized. Coverage of topics supplemented by use of laboratory exercises that include hands-on activities and data analysis using computer software.
+/
+Human Computer Interaction
+Concerned with the design of interfaces that facilitate the use of computers and other personal electronic devices such as handheld devices. 
+/
+System Analysis & Design 
+A broad study of systems development life-cycle, from the initial stages of systems requirement analysis to the implementation of the system. Different techniques and methodologies in different development stages will be studied. 
+/
+Management in Information Technology
+This course covers general management techniques and specific tools for Project Management (PM) within information technology (IT) disciplines. The course focuses on the application of project management techniques in industry via cases study analysis and journal readings in addition to the course text. Emphasis is placed on managing IT personalities, the triple constraint conundrum, PM documentation, and PM software tools.
+/
+Senior Design Project Management I
+This course focuses on the knowledge and skills required to select a project and a product prototype. The purpose of this phase is to analyze the problem domain, design the solution and implement core functionalities in a prototype that demonstrates and proofs the design concept.
+/
+Senior Design Project Management II
+Senior Design Project Management II
+/
+Applied Statistics for Human Services I
+Applied Statistics for Human Services I
+/
+Introduction to Discrete Mathematics
+Introduction to Discrete Mathematics
+/
+COOP for CECH (First Semester Experience)
+An individualized, progressive course of study utilizing cooperative education to facilitate and focus the process of integrating theory and practice through faculty-guided, discipline-related learning experiences. In addition the course develops and applies students' observation, reflection, and evaluation skills related to specific learning objectives. 	
+/
+COOP for CECH (Second Semester Experience)	
+An individualized, progressive course of study utilizing cooperative education to facilitate and focus the process of integrating theory and practice through faculty-guided, discipline-related learning experiences. In addition the course develops and applies students'observation, reflection, and evaluation skills related to specific learning objectives. Cooperative education learning objectives include topics and assignments designed to support increasing levels of professional knowledge and skills in the workplace, and enhance students' ability to critically analyze the learning gained through workplace experiences. 
+/
+COOP for CECH (Third Semester Experience)	
+Cooperative education learning objectives include topics and assignments designed to support increasing levels of professional knowledge and skills in the workplace, and enhance students' ability to critically analyze the learning gained through workplace experiences. The student will build a body of work that will be assessed from the student, employer and faculty perspective and that gives evidence of successful accomplishment of the learning outcomes. Focused learning objectives topics will include project management,task management and social responsibility.
+/
+COOP for CECH (Fourth Semester Experience)	
+Cooperative education learning objectives include topics and assignments designed to support increasing levels of professional knowledge and skills in the workplace, and enhance students' ability to critically analyze the learning gained through workplace experiences. The student will build a body of work that will be assessed from the student, employer and faculty perspective and that gives evidence of successful accomplishment of the learning outcomes. Focused learning objectives topics will include project management,task management and social responsibility.
+/
+COOP for CECH (Fifth Semester Experience)
+Cooperative education learning objectives include topics and assignments designed to support increasing levels of professional knowledge and skills in the workplace, and enhance students' ability to critically analyze the learning gained through workplace experiences. The student will build a body of work that will be assessed from the student, employer and faculty perspective and that gives evidence of successful accomplishment of the learning outcomes. Focused learning objectives topics will include project management,task management and social responsibility.
+/
+Database Management II
+The course covers database design and advanced database development. Topics include, but are not limited to, logical and physical database design, stored procedures, triggers, back up, security, transaction management, concurrency control, etc. 
+/
+Information Security and Assurance
+An introduction to the various technical and administrative aspects of information security and assurance. This course provides the foundation for understanding the key issues associated with protecting information assets, determining the levels of protection and response to security incidents, and designing a consistent, reasonable information security system, with appropriate intrusion detection and reporting features.
+/

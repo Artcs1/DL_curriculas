@@ -1,0 +1,134 @@
+/
+Introduction to Engineering and Computer Science
+Discussion of disciplines within the college, technical communication, presentation of technical results, professional behavior, ethics, problem solving, modeling, and data analysis. 
+/
+Introduction to Computing
+Computing concepts. Principles of programming. Applications of computing concepts to problem solving in engineering and computer science. 
+/
+Calculus I
+Analytic geometry, limits, derivatives, maxima-minima, related rates, graphs, differentials, exponential and logarithmic functions, mean-value theorem, L’Hospital’s rule, integration.
+/
+General Chemistry Lecture I
+Fundamental principles and laws underlying chemical action, states of matter, atomic and molecular structure, chemical bonding, stoichiometry, properties of solutions, chemical equilibria, and introductory thermochemistry. 
+/
+General Chemistry Laboratory I
+Experimental study of basic principles and techniques of chemistry. States of matter, determination of formulas and molecular weights, simple volumetric and gravimetric analysis, heats of reaction. Equilibrium, rates of reactions, and qualitative analysis.
+/
+Studio 1: Practices of Academic Writing
+Study and practice of writing processes, including critical reading, collaboration, revision, editing, and the use of technologies. Focuses on the aims, strategies, and conventions of academic prose, especially analysis and argumentation.
+/
+Introduction to Object-Oriented Design
+Present fundamental software design concepts of functional decomposition and object-oriented design. Use both C++ and Java to implement design projects which will be completed to demonstrate the design concepts.
+/
+Calculus II
+The definite integral and applications; trigonometric functions, methods of integration, improper integrals, infinite series, elementary differential equations, parametric equations, polar coordinates.
+/
+Logic
+Logic as a formal language, as a component of natural language, and as a basis of a programming language. Varieties of logical systems and techniques. Syntax, semantics and pragmatics.
+/
+General Physics I
+Uses calculus. 
+/
+General Physics Laboratory I
+Techniques of laboratory work: treatment of random errors, graphical representation of data. Experimental demonstration of principles of mechanics, thermodynamics, and waves (of vector forces, conservation of momentum and energy, thermal properties of gases).
+/
+Introduction to Discrete Mathematics
+Basic set theory and symbolic logic. Methods of proof, including mathematical induction. Relations, partitions, partial orders, functions, and graphs.
+/
+Algorithms & Data Structures
+Data structures and algorithms implemented in high-level language. Nonnumeric processing, including database management. Types, structures, pointers, linked lists, recursion, iteration, retrieval, pattern recognition, and context processing.
+/
+Web System Architecture and Programming
+Issues involved in architecting and programming Web servers and clients. Topics include Java Socket Programming; Java Thread Programming; HTTP; Apache HTTP Server; PHP/Python scripting; Java Servlets; JSP.
+/
+Electrical Engineering Fundamentals
+Analysis of electric circuits. Resistive, reactive circuits. Independent, dependent sources. Network theorems, circuit reduction, op amps. Elements of transient and steady state circuit analysis. 
+/
+Electrical Engineering Laboratory I
+Electrical-instrumentation and measurement. Experimental methods in linear and nonlinear devices and circuits. 
+/
+First Course in Linear Algebra
+Linear equations, n-dimensional euclidean space, linear independence, bases, linear transformations, matrices and determinants, eigenvalues and eigenvectors.
+/
+Digital Logic Design
+Number representations, Boolean Algebra, logic minimization, memory circuits, counters, state diagrams, state machine design, arithmetic circuits, and asynchronous circuits. Logic simulators will be used to demonstrate and provide students with design activities.
+/
+Digital Logic Design Laboratory
+Basic digital logic circuit design and implementation. Structural and RTL description of digital system using VHDL/Verilog. Simulation and verification of combinational and sequential logic. Digital system design, including coding, testing, synthesis, troubleshooting and documentation.
+/
+Systems and Network Programming
+Programming and shell scripting in Unix for systems and network software. Makefiles, compilers, linkers, and debuggers, and software with multiple source files. Dynamic memory allocation techniques, system calls,  pointers, concurrent/parallel programming, and network and programming.
+/
+Electrical Engineering Fundamentals II
+Frequency response, filters. Second order circuits. Semiconductors, diodes, bipolar junction transistors, field effect transistors, models, circuits. Operational amplifiers, models, circuits. Transformers, rotating machines. DC generators and motors. Alternators. AC motors.
+/
+Linear Systems Laboratory
+Electrical-instrumentation, measurement and data-logging.  Experimental methods in linear systems.  Computer computations for analysis and modelling.  
+/
+General Physics II
+General Physics II
+/
+General Physics Laboratory II
+Experimental study of principles of electromagnetism and their application in electrical circuits. Use of electronic instruments, such as the oscilloscope.
+/
+Studio 2: Critical Research and Writing
+Study and practice of critical, research-based writing, including research methods, presentation genres, source evaluation, audience analysis, and library/online research.
+/
+Computer Architecture
+Data representation, memory hierarchies, protection, specialized processors, multiple computers, performance evaluation, and reliability.
+/
+FPGA and Microcontroller Design Laboratory
+Experimental methods using test equipment. Logic-circuit design and testing using a Hardware Description Language and FPGAs. Micro-controller architecture, programming, interfacing, and communication with analog and digital components.
+/
+Introduction to Computer and Network Security
+Operating system security. Authentication. Access control. Program vulnerabilities. Malicious code. Secure programming principles. TCP/IP protocols, vulnerabilities, attacks, and countermeasures. Firewalls. Intrusion detection. Secret-key and Public-key cryptography.
+/
+Ethical Aspects of Engineering and Computer Science
+Ethical issues related to engineering and computer science studied, including professionalism, collective and individual moral responsibility, codes of ethics, whistle blowing, conflict of interest, pluralism in the workplace, product liability, and employer-employee expectations.
+/
+Introduction to Probability and Statistics 
+Programming-oriented introduction to fundamentals in statistics and probability; elementary statistics, graphical and numerical representation; probability distributions; tests and confidence intervals; regression, and correlation. 
+/
+Embedded and Mobile Systems Laboratory
+Design and testing of embedded systems with an operating system. Rapid prototyping and design methods. Interfacing and network communication with mobile devices.
+/
+Design of Operating Systems
+Design and implementation of modern operating systems. Resource management and protection of CPU, memory, and storage. File systems. Input/output. Concurrent process implementation. Process synchronization. Networking.
+/
+Senior Design Project I
+Design methodology and presentation techniques for one extensive team project to be completed in the follow-up course. Focus on design processes and associated technical documentation.  
+/
+Advanced Workshop in Technical Communications: Design Methodology
+Advanced technical communications for pre-professional computer and electrical engineers. Focuses on the communication that engineering design teams perform. Emphasis on communication embedded in system analysis and design processes.
+/
+Senior Design Project II
+Prototyping, construction, and demonstration skills for one extensive project created by a team of students. 
+/
+Advanced workshop in Technical Communication: Prototyping and Construction
+Advanced technical communications for pre-professional computer and electrical engineers. Focuses on a range of communication activities embedded in the development, testing, and deployment phases of engineering projects.
+/
+Mobile Application Programming
+Development of applications for different mobile devices. Creating effective user interfaces, efficient use of persisitent storage, network services, GPS, maps and sensors.
+/
+Concurrent Programming
+Processes, events, alphabets, and trace sets. Process equivalence. Divergence, dead-lock, fairness, and termination. Message channels, buffers, pipelines, trees, rings, grids, recursive nets. Mutual exclusion, semaphores, conditional critical regions, monitors, remote procedures. Programming exercises in Joyce.
+/
+Control of Robots
+Kinematics, dynamics, and control of mobile and/or manipulator robots. Path planning, actuators, sensors, human/machine interface. 
+/
+Analog Electronics
+Introductory semi-conductors; non-linear electronic circuits and devices including operational amplifiers, diodes and MOSFETs; Integrated electronics
+/
+Semiconductor Devices
+Physics of semiconductor devices. Energy bands. Electrons and holes. PN and metal semiconductor diodes. Characteristics, operation, properties and limitations of bipolar transistors, JFETS and MOSFETS. PNPN devices. Optoelectronic devices.
+/
+Applied Electromagnetics
+Electromagnetic Waves.  Waveguides, coaxial cables, and optical fibers. Resonators, Transmission lines. Antennas and antenna systems.
+/
+Introduction to Biological Anthropology
+Biological anthropology subfields; anthropology’s relationship to history of science. Evolutionary theory; mechanisms of evolution; survey of the non-human primates; humans ancestral to modern Homo sapiens; and modern human variation. 
+/
+Human Osteology
+This course is an intensive study of the human skeletal system. The focus is identification of fragmentary skeletal elements and their osseous structure, skills relevant to archaeological and forensic contexts.
+/
+

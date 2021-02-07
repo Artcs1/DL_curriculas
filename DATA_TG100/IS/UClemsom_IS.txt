@@ -1,0 +1,79 @@
+/
+Composition and Rhetoric
+Training in composing correct and effective expository and argumentative essays, including writing documented essays.
+/
+Business Calculus I
+Intuitive approach to the concepts and applications of calculus. Topics include functions and graphing, differentiation, and integration. Applications from social, biological, and management sciences are presented.
+/
+Calculus of One Variable I
+Topics include analytic geometry, introduction to derivatives, computation and application of derivatives, integrals, exponential and logarithm functions
+/
+Business Calculus II
+Introduction to the calculus of several variables, differential calculus and optimization of several variables, multiple integrals. Topics from the management sciences are used to illustrate the above concepts
+/
+Calculus of One Variable II
+Topics include transcendental functions, applications of integration, integration techniques, indeterminate forms, improper integrals, parametric equations, polar coordinates, and infinite series.
+/
+Discrete Structures for Computing
+Introduces ideas and techniques from discrete structures that are widely used in the computing sciences. Topics emphasize techniques of rigorous argumentation and application to the computing disciplines. 
+/
+Algorithms and Data Structures
+Study of data structures and algorithms fundamental to computer science; abstract data-type concepts; measures of program running time and time complexity; algorithm analysis and design techniques.
+/
+Software Development Foundations
+Intensive study of software development foundations. Advanced coverage of programming language primitives, function-level design principles, and standard development and debugging tools. Introductory coverage of module-level design principles, program specification and reasoning principles, and validation and verification techniques. 
+/
+Introduction to Computer Organization
+Study of the machine architectures on which algorithms are implemented and requirements of architectures that support high-level languages, programming environments, and applications
+/
+Seminar in Professional Issues I
+Considers the impact of computer use on society. Discusses ethical use of software and protection of intellectual property rights. Profession is viewed historically; organizations important to the profession are discussed; the development process for standards is presented; and students are introduced to the professional literature
+/
+Principles of Management
+Management’s role as a factor of economic production. Functions of management, principles of organization, and behavior in organizations
+/
+Introductory Business Statistics
+Introductory probability and statistics for business students, particularly those who will take MGT 3100. Topics include descriptive statistics, probability, expectations, binomial, normal, sampling distributions, one and two sample estimation and testing
+/
+Financial Accounting Concepts
+Introduction to accounting principles with emphasis on the use of financial data and analysis of financial statements.
+/
+Problem Solving with Office Applications
+Use of office applications to formulate and solve problem models. Emphasizes applications development in database and spreadsheet environments. Current software products are used. Students are expected to have experience with word processing and spreadsheet applications
+/
+Introduction to Operating Systems
+Detailed study of management techniques for the control of computer hardware resources. Topics include interrupt systems, primitive level characteristics of hardware and the management of memory, processor, devices, and data
+/
+Introduction to Software Engineering
+ntensive introduction to software engineering. Focuses on each major phase of the software lifecycle. Introductory coverage of requirements analysis, requirements modeling, design modeling, and project management. Intermediate coverage of module-level design principles, program specification and reasoning principles, and program validation and verification techniques.
+/
+Managerial Accounting Concepts
+Introduction to managerial accounting with emphasis on using accounting information to make decisions. Includes Honors sections.
+/
+Networks and Network Programming
+Introduction to basic concepts of computer network technologies and network programming. Topics include network programming, layered protocol architectures, local and wide area networks, internetwork and intranetwork concepts, security. Socket level programming is introduced and used throughout the course.
+/
+Systems Analysis
+Incorporates a study of the decision-making process at all levels with the logical design of information systems. Extensive study of the system life cycle with emphasis on current as well as classical techniques for describing data flows, data structures, file design, etc. 
+/
+Business Analysis
+Follows the traditional systems development life cycle (SDLC), although alternative methodologies are also discussed. Focuses on earlier phases of the SDLC, from IS planning through specification of structured requirements and on the methods, techniques, and tools used to determine information requirements and their unambiguous documentation. 
+/
+Computer Security Principles
+Covers principles of information systems security, including security policies, cryptography, authentication, access control mechanisms, system evaluation models, auditing, and intrusion detection. Computer security system case studies are analyzed
+/
+System Administration and Security
+Covers topics related to the administration and security of computer systems. Primary emphasis is on the administration and security of contemporary operating systems.
+/
+Database Management Systems
+Introduction to database/data communications concepts as related to the design of online information systems. Problems involving structuring, creating, maintaining, and accessing multiple-user databases are presented and solutions developed. Comparison of several commercially available teleprocessing monitor and database management systems is made.
+/
+Seminar in Professional Issues II
+Considers the impact of computing system development on society. Discusses ethical issues in the design and development of computer software. Students discuss standards for professional behavior, the professional’s responsibility to the profession, and techniques for maintaining currency in a dynamic field
+/
+Decision Models for Management
+Exploration of ways in which management science decision models can help in making sound managerial decisions. Problem solving is Excel-based. Topics include linear programming, project scheduling, and simulation
+/
+Principles of Marketing
+Principles and concepts involved in planning, pricing, promoting, and distributing of goods and services. Includes Honors sections
+/

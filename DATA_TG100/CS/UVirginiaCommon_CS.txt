@@ -1,0 +1,147 @@
+Academic Writing and Reading
+Introduces students to principles of effective written communication and critical reading. Stresses invention, drafting, revising, editing, and self-assessment, along with effective critiquing and collaborating.
+/
+Technical Communications for Engineers and Computer Scientists
+A modular approach to oral and written communication of complex technical information to an expert audience. Includes describing technical mechanisms and processes; designing and using tables, graphs, charts, and figures; producing technical proposals, progress reports, feasibility reports, and formal reports; and doing technical briefings.
+/
+Calculus I
+Examines limits, the derivative, differentiation, applications of the derivative, antiderivatives, Riemann sums, the definite integral, and the fundamental theorem of calculus.
+/
+Technology and Society
+Examines and evaluates the consequences of technology on individuals, organizations and society to recognize its benefits, potential, and limitations. Explores current social, ethical, legal and philosophical topics to understand how the Digital Revolution impacts society. Integrated Writing course.
+/
+General Chemistry I
+Structure and properties of atoms and molecules and their chemical behavior and reactivity.
+/
+General Chemistry Lab I
+General Chemistry Lab I
+/
+General Chemistry II
+Properties of liquids, solids and solutions, phase changes, chemical kinetics and equilibrium, acid/base chemistry and its applications, thermodynamics and electrochemistry.
+/
+General Chemistry Lab II
+General Chemistry Lab II
+/
+Cells and Genes
+Introduction to basic concepts of biology. Topics include genetics and the molecular and cellular basis for the unity of life.
+/
+Organisms and Ecosystems
+ntroduction to basic concepts of biology. Topics include evolution, ecology, and the diversity of life
+/
+General Physics I
+Introductory survey of mechanics for science and engineering students. Uses of interpreting physical phenomena. Topics include vectors, kinematics, dynamics, energy, momentum, rotation, oscillation and thermodynamics.
+/
+General Physics I Laboratory
+General Physics I Laboratory
+/
+General Physics II
+Introductory survey of electricity and magnetism. Uses calculus in interpreting physical phenomena. Topics include electric field and potential, currents, DC circuits, magnetic fields, Faraday’s law, and optics.
+/
+General Physics II Laboratory
+General Physics II Laboratory
+/
+Earth Systems
+Comprehensive treatment of earth materials and the external and internal geologic processes that shape the earth. Water systems are also discussed.
+/
+Earth History
+Comprehensive treatment of the earth’s past as interpreted through the study of rocks and fossils. Basic concepts include geologic time and age dating, and the physical, chemical, and organic evolution during geologic time periods. The history of plate movements and mountain building events, especially in North America
+/
+Calculus II
+Integration techniques, applications of the definite integral, first-order differential equations, vectors and vector operations, parametric equations and polar coordinates, infinite series.
+/
+Computer Science I
+Basic concepts of programming and programming languages. Structured programming, stepwise refinement, and object-oriented development.
+/
+Computer Science II
+Advanced concepts of computer programming. Use of data structures and tools that facilitate programming
+/
+Data Structures and Algorithms
+Study of the implementation of data structures and control structures in professional computer programs. Introduction to the fundamentals of complexity and analysis. Study of common standard problems and solutions
+/
+Comparative Languages
+Fundamental concepts and paradigms underlying modern programming languages to enable better appreciation, comparison and evaluation of languages. Covers an object-oriented language, a functional language, a logic language, and a multi-paradigm scripting language. Basics of interpreters and compilers are explored through programming assignments.
+/
+Logic for Computer Scientists
+Fundamental material in foundations of logic most relevant to Computer Science. Propositional logic, predicate logic, modeling of knowledge, and algorithms for logical reasoning.
+/
+Theoretical Foundations of Computing
+Introduction to the theory of formal languages and automata with an emphasis on the classes of languages commonly encountered by computer scientists. Computability examines the solution of decision problems; the Church-Turing thesis; the undecidability of the Halting Problem; and problem reduction and undecidability.
+/
+Operating System Concepts and Usage
+Provides introduction to Linux and Windows operating systems and system administration. Covers files and directories, ownership and sharing, programs and processes, system calls, libraries, dynamic linking, command line shells, scripting, regular expressions and secure network protocols.
+/
+Computer Organization
+Organization and sequential operation of digital computers. Binary and hexadecimal number systems, 2’s complement arithmetic, program control, memory organization and hierarchy, addressing modes, stacks and parameter passing, interrupts and traps, I/O devices, DMA, cache, and virtual memory.
+/
+Introduction to Software Engineering
+Introduction to the concepts of Software Engineering. Software qualities, development life-cycle models, requirements analysis, semi-formal and formal systems modeling, system design, testing, and project management techniques. Case studies and a course project serve as examples illustrating the software engineering process
+/
+Operating System Internals and Design
+Overview of operating systems internals. File-system usage and design, process usage and control, virtual memory, multi user systems, access control. Course projects use C++ language.
+/
+Team Projects I
+Team Projects I
+/
+Team Projects II
+Team Projects II
+/
+Elementary Linear Algebra
+Matrices and their operations, linear systems of equations, Gaussian elimination, determinants, geometry of Euclidean space, vector spaces and subspaces, linear independence, basis, dimension and rank, orthogonality and the Gram-Schmidt process, linear transformations, eigenvalues and eigenvectors, and diagonalization.
+/
+Discrete Mathematics for Computing
+Discrete mathematics useful in computing. Emphasis on mathematical induction, recurrence relations, asymptotic behavior of functions, and algorithm analysis.
+/
+Discrete Structures and Their Algorithms
+Discrete structures and their algorithms for computer science. Emphasis on rigorous proof and formal argumentation
+/
+Applied Statistics I
+Introduction to probability, random variables and their expectations, some commonly used discrete and continuous distributions, concept of random sampling and sampling distributions. Use of computer software packages for simulating, summarizing, and displaying data.
+/
+Algorithm Analysis with Advanced Data Structures.
+Advanced data structures topics including multiple linked lists, height-balanced trees, B-trees, hashing and graph representation; incorporating data structures into object-oriented design. Analysis of various searching and sorting algorithms. Algorithm design topics include divide-and-conquer, dynamic programming and greedy methods.
+/
+Programming Languages.
+Survey of representative modern programming languages. Formal definition of programming languages including specifications of syntax and semantics. Precedence, infix, prefix and postfix notation. Global properties of algorithmic languages. Sub-routines, co-routines and tasks. List processing, string manipulation, data description and simulation languages. Run-time representation of program and data structure
+/
+Compiler Construction
+A first course in compiler theory and construction. Formal description of languages, underlying theory and design techniques for compilers, lexical analysis, syntax analysis, syntax-directed translation, intermediate languages, run-time system management, code generation, code optimization, compiler-building tools.
+/
+Artificial Intelligence
+Covers problem spaces, problem-solving methods, game playing, knowledge representatives, expert systems, natural language understanding.
+/
+Introduction to Quantum Computing
+Introduction to quantum information processing: state vectors and density operators, tensor product space, unitary evolution, no-go theorems, measurement, qubit, gate model of quantum computing, quantum complexity theory, quantum error correction, quantum algorithms, and quantum machine learning.
+/
+Computer Graphics
+Presents mathematical techniques for graphic development and transformation, curve and surface approximation and projections, graphical languages and data structures and their implementation, graphic modeling.
+/
+Social Network Analysis and Cybersecurity Risks
+Covers network models, link prediction and analysis, centrality measures, random networks, power-laws and preferential attachment, small world phenomenon and decentralized search, community structure, information propagation in networks, and security and privacy issues in OSNs.
+/
+Introduction to Cybersecurity
+This course provides introduction and basic concepts of computer security, cyber attacks, cyber defense, cyber forensics and cyber ethics.
+/
+Computer and Network Security
+This course covers the best practices of computer systems and network security. Key topics include security architecture, cryptographic systems and security management tools.
+/
+Introduction to Cryptography
+This course provides a rigorous and theoretical introduction to modern cryptography. Key topics include symmetric key encryption and authentication, public key encryption, and digital signatures.
+/
+Introduction to Natural Language Processing
+Covers rule-based and statistical methods for creating computer programs that analyze, generate and understand human language. Topics include regular expressions and automata, context-free grammars, probabilistic classifiers, and machine learning. Word-level, syntactic and semantic processing are all considered. Application to real-world problems such as spell-checking, Web search, automatic question answering, authorship identification and developing conversational interfaces.
+/
+Mobile Programming
+This course covers the fundamentals of Swift, Xcode and iOS for programming and design of iOS applications. Background in object-oriented programming and access to a computer with Xcode platform is required
+/
+Introduction to Data Science
+This course covers understanding, representation, storage, retrieval, preprocessing and analysis of data. Specific topics include data quality and preprocessing, database management systems, data warehouses, selected methods for scalable unsupervised and supervised data analysis, and assessment of results generated by these methods. Students will be engaged in analysis of real-life data from data preprocessing, through data analysis, to the assessment of a knowledge product.
+/
+Data Communication and Networking.
+This course explores computer networking, focusing on the applications and protocols that run on the Internet. Students will take a top-down approach to the layered network architecture, studying applications first and then proceeding down the network “stack” toward the physical link. Students will examine the operation of applications such as the web, FTP, e-mail and DNS. At the transport layer, students will study both connectionless UDP and connection-oriented TCP, with an in-depth study of TCP operation, specifically flow control and congestion control. Data communications are explored through various data routing protocols. Additional topics include network security and wireless/mobile networking.
+/
+Topics in Computer Science
+Topics in Computer Science
+/
+Computer Science Internship
+Computer Science Internship
+/

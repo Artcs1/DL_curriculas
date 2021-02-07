@@ -1,0 +1,118 @@
+/
+Computer Ethics
+Students will examine a variety of topics regarding policy, legal, and moral issues related to the computer science profession itself and to the proliferation of computers in all aspects of society, especially in the era of the Internet. The course will cover various general issues related to ethical frameworks and apply those frameworks more specifically to the use of computers and the Internet. The topics will include privacy issues, computer crime, intellectual property law -- specifically copyright and patent issues, globalization, and ethical responsibilities for computer science professionals.
+/
+Gateway Computing: JAVA
+This course introduces fundamental programming concepts and techniques, and is intended for all who plan to develop computational artifacts or intelligently deploy computational tools in their studies and careers. Topics covered include the design and implementation of algorithms using variables, control structures, arrays, functions, files, testing, debugging, and structured program design. Elements of object-oriented programming. algorithmic efficiency and data visualization are also introduced.
+/
+Intermediate Programming
+This course teaches intermediate to advanced programming, using C and C++. (Prior knowledge of these languages is not expected.) We will cover low-level programming techniques, as well as object-oriented class design, and the use of class libraries. Specific topics include pointers, dynamic memory allocation, polymorphism, overloading, inheritance, templates, collections, exceptions, and others as time permits.
+/
+Data Structures
+This course covers the design and implementation of data structures including arrays, stacks, queues, linked lists, binary trees, heaps, balanced trees (e.g. 2-3 trees, AVL-trees) and graphs. Other topics include sorting, hashing, memory allocation, and garbage collection.
+/
+Computer System Fundamentals
+We study the design and performance of a variety of computer systems from simple 8-bit micro-controllers through 32/64-bit RISC architectures all the way to ubiquitous x86 CISC architecture. We'll start from logic gates and digital circuits before delving into arithmetic and logic units, registers, caches, memory, stacks and procedure calls, pipelined execution, superscalar architectures, memory management units, etc. Along the way we'll study several typical instruction set architectures and review concepts such as interrupts, hardware and software exceptions, serial and other peripheral communications protocols, etc. A number of programming projects, frequently done in assembly language and using various processor simulators, round out the course.
+/
+Automata & Computation Theory
+This course is an introduction to the theory of computing. topics include design of finite state automata, pushdown automata, linear bounded automata, Turing machines and phrase structure grammars; correspondence between automata and grammars; computable functions, decidable and undecidable problems, P and NP problems, NP-completeness, and randomization.
+/
+Intro Algorithms
+This course concentrates on the design of algorithms and the rigorous analysis of their efficiency. topics include the basic definitions of algorithmic complexity (worst case, average case); basic tools such as dynamic programming, sorting, searching, and selection; advanced data structures and their applications (such as union-find); graph algorithms and searching techniques such as minimum spanning trees, depth-first search, shortest paths, design of online algorithms and competitive analysis. 
+/
+User Interfaces and Mobile Applications
+This course will provide students with a rich development experience, focused on the design and implementation of user interfaces and mobile applications. A brief overview of human computer interaction will provide context for designing, prototyping and evaluating user interfaces
+/
+Developing Health IT Applications
+This course is a project-based introduction to working on successful projects in health care. In the first half of the term, students perform reading and homework assignments designed to introduce: (1) the context of health care delivery and health IT, (2) techniques to overcome challenges to conducting health care data analyses, and (3) techniques to design meaningful applications around health care data
+/
+Software for Resilient Communities
+This is a project-based course focusing on the design and implementation of practical software systems. Students will work in small teams to design and develop useful open-source software products that support our communities.
+/
+Computer Science Innovation & Entrepreneurship II
+CS Innovation and Entrepreneurship, offered by the Center for Leadership Education
+/
+Object Oriented Software Engineering
+This course covers object-oriented software construction methodologies and their application. The main component of the course is a large team project on a topic of your choosing. Course topics covered include object-oriented analysis and design, UML, design patterns, refactoring, program testing, code repositories, team programming, and code reviews.
+/
+Computational Genomics: Sequences
+Your genome is the blueprint for the molecules in your body. It's also a string of letters (A, C, G and T) about 3 billion letters long. How does this string give rise to you? Your heart, your brain, your health? This, broadly speaking, is what genomics research is about. This course will familiarize you with a breadth of topics from the field of computational genomics. The emphasis is on current research problems, real-world genomics data, and efficient software implementations for analyzing data. Topics will include: string matching, sequence alignment and indexing, assembly, and sequence models. Course will involve significant programming projects.
+/
+Introduction to Human-Computer Interaction
+This course is designed to introduce undergraduate and graduate students to design techniques and practices in human-computer interaction (HCI), the study of interactions between humans and computing systems. Students will learn design techniques and evaluation methods, as well as current practices and exploratory approaches, in HCI through lectures, readings, and assignments. Students will practice various design techniques and evaluation methods through hands-on projects focusing on different computing technologies and application domains.
+/
+Neuro Data Design I
+In this year long course, students will work together in small teams to design, develop, and deploy a functioning tool for practicing brain scientists, either for accelerating research or augmenting the clinic.
+/
+Neuro Data Design II
+In this year long course, students will work together in small teams to design, develop, and deploy a functioning tool for practicing brain scientists, either for accelerating research or augmenting the clinic.
+/
+Calculus I
+Differential and integral calculus. Includes analytic geometry, functions, limits, integrals and derivatives, polar coordinates, parametric equations, Taylor's theorem and applications, infinite sequences and series. Some applications to the physical sciences and engineering will be discussed, and the courses are designed to meet the needs of students in these disciplines.
+/
+Calculus II
+Differential and integral calculus. Includes analytic geometry, functions, limits, integrals and derivatives, polar coordinates, parametric equations, Taylor's theorem and applications, infinite sequences and series. Some applications to the physical sciences and engineering will be discussed, and the courses are designed to meet the needs of students in these disciplines.
+/
+Discrete Mathematics
+Introduction to the mathematics of finite systems. Logic; Boolean algebra; induction and recursion; sets, functions, relations, equivalence, and partially ordered sets; elementary combinatorics; modular arithmetic and the Euclidean algorithm; group theory; permutations and symmetry groups; graph theory. Selected applications. The concept of a proof and development of the ability to recognize and construct proofs are part of the course.
+/
+Linear Algebra
+Vector spaces, matrices, and linear transformations. Solutions of systems of linear equations. Eigenvalues, eigenvectors, and diagonalization of matrices. Applications to differential equations.
+/
+Introduction to Probability
+Probability and its applications, at the calculus level. Emphasis on techniques of application and on rigorous mathematical demonstration. Probability, combinatorial probability, random variables, distribution functions, important probability distributions, independence, conditional probability, moments, covariance and correlation, limit theorems.
+/
+Introduction to Statistics
+Introduction to the basic principles of statistical reasoning and data analysis. Emphasis on techniques of application. Classical parametric estimation, hypothesis testing, and multiple decision problems; linear models, analysis of variance, and regression; nonparametric and robust procedures; decision-theoretic setting, Bayesian methods.
+/
+Writing I
+Writing I
+/
+Science I
+Science I
+/
+Social I
+Social I
+/
+Introduction to Video Game Design
+A broad survey course in video game design (as opposed to mathematical game theory), covering artistic, technical, as well as sociological aspects of video games. Students will learn about the history of video games, archetypal game styles, computer graphics and programming, user interface and interaction design, graphical design, spatial and object design, character animation, basic game physics, plot and character development, as well as psychological and sociological impact of games.
+/
+Parallel Programming
+This course prepares the programmer to tackle the massive data sets and huge problem size of modern scientific and enterprise computing. Google and IBM have commented that undergraduate CS majors are unable to "break the single server mindset" (http://www.google.com/intl/en/ press/pressrel/20071008_ibm_univ.html). Students taking this course will abandon the comfort of serial algorithmic thinking and learn to harness the power of cutting-edge software and hardware technologies. The issue of parallelism spans many architectural levels. Even ``single server'' systems must parallelize computation in order to exploit the inherent parallelism of recent multi-core processors. The course will examine different forms of parallelism in four sections. These are: (1) massive data-parallel computations with Hadoop!; (2) programming compute clusters with MPI; (3) thread-level parallelism in Java; and, (4) GPGPU parallel programming with NVIDIA's Cuda
+/
+Compilers and Interpreters
+Introduction to compiler design, including lexical analysis, parsing, syntax-directed translation, symbol tables, run-time environments, and code generation and optimization. Students are required to write a compiler as a course project.
+/
+Cloud Computing
+Clouds host a wide range of the applications that we rely on today. In this course, we study common cloud applications, traffic patterns that they generate, critical networking infrastructures that support them, and core networking and distributed systems concepts, algorithms, and technologies used inside clouds. We will also study how today's application demand is influencing the network’s design, explore current practice, and how we can build future's networked infrastructure to better enable both efficient transfer of big data and low-latency requirements of real-time applications. The format of this course will be a mix of lectures, discussions, assignments, and a project designed to help students practice and apply the theories and techniques covered in the course.
+/
+Blockchains and Cryptocurrencies
+This course will introduce students to cryptocurrencies and the main underlying technology of Blockchains. The course will start with the relevant background in cryptography and then proceed to cover the recent advances in the design and applications of blockchains. This course should primarily appeal to students who want to conduct research in this area or wish to build new applications on top of blockchains. It should also appeal to those who have a casual interest in this topic or are generally interested in cryptography.
+/
+Augmented Reality
+This course introduces students to the field of Augmented Reality. It reviews its basic definitions, principles and applications. It then focuses on Medical Augmented Reality and its particular requirements. The course also discusses the main issues of calibration, tracking, multi-modal registration, advance visualization and display technologies. Homework in this course will relate to the mathematical methods used for calibration, tracking and visualization in medical augmented reality.
+/
+Computer Graphics 
+This course introduces computer graphics techniques and applications, including image processing, rendering, modeling and animation
+/
+Computer Vision
+This course gives an overview of fundamental methods in computer vision from a computational perspective. Methods studied include: camera systems and their modeling, computation of 3-D geometry from binocular stereo, motion, and photometric stereo; and object recognition. Edge detection and color perception are covered as well. Elements of machine vision and biological vision are also included.
+/
+Artificial Intelligence
+The class is recommended for all scientists and engineers with a genuine curiosity about the fundamental obstacles to getting machines to perform tasks such as learning, planning and prediction. Materials will be primarily based on the popular textbook, Artificial Intelligence: A Modern Approach. Strong programming skills are expected, as well as basic familiarity with probability.
+/
+Machine Learning.
+Machine learning is subfield of computer science and artificial intelligence, whose goal is to develop computational systems, methods, and algorithms that can learn from data to improve their performance. This course introduces the foundational concepts of modern Machine Learning, including core principles, popular algorithms and modeling platforms. This will include both supervised learning, which includes popular algorithms like SVMs, logistic regression, boosting and deep learning, as well as unsupervised learning frameworks, which include Expectation Maximization and graphical models.
+/
+Human-Robot Interaction
+This course is designed to introduce advanced students to research methods and topics in human-robot interaction (HRI), an emerging research area focusing on the design and evaluation of interactions between humans and robotic technologies.
+/
+Deep Learning.
+Deep learning (DL) has emerged as a powerful tool for solving data-intensive learning problems such as supervised learning for classification or regression, dimensionality reduction, and control. As such, it has a broad range of applications including speech and text understanding, computer vision, medical imaging, and perception-based robotics. The goal of this course is to introduce the basic concepts of deep learning (DL). The course will include a brief introduction to the basic theoretical and methodological underpinnings of machine learning, commonly used architectures for DL, DL optimization methods, DL programming systems, and specialized applications to computer vision, speech understanding, and robotics.
+/
+Natural Language Processing
+This course is an in-depth overview of techniques for processing human language. How should linguistic structure and meaning be represented? What algorithms can recover them from text? And crucially, how can we build statistical models to choose among the many legal answers? The course covers methods for trees (parsing and semantic interpretation), sequences (finite-state transduction such as morphology), and words (sense and phrase induction), with applications to practical engineering tasks such as information retrieval and extraction, text classification, part-of-speech tagging, speech recognition and machine translation
+/
+Undergraduate Research I
+Undergraduate Research I
+/

@@ -1,0 +1,97 @@
+/
+Principles of Chemistry
+This course is a study of the fundamentals of chemistry. A survey of atomic structure, periodicity, bonding, nomenclature, stoichiometry, gas laws, and solution chemistry is provided for those students with no background in these areas.
+/
+Principles of Chemistry Laboratory
+This course is an introduction to the academic chemistry laboratory and is intended for students with no prior experience. The course will cover health and safety issues, preparation and use of common glassware/lab equipment, proper recording of qualitative and quantitative observations, and common lab techniques.
+/
+General Physics I
+This first term of a one-year, introductory, calculus-based physics course is suitable for science and engineering students.  The topics include motion, forces, rotations, gravity, and elasticity.
+/
+General Physics I Laboratory
+This first semester of a one-year sequence in laboratory work emphasizes experimental techniques, procedures and formal report writing. Laboratory experiments reinforce or extend the work of the lecture portion of the course. Emphasis is on mechanics.
+/
+General Physics II
+Topics treated include electricity and magnetism, circuits, electromagnetic oscillations and waves, physical optics, and geometrical optics.
+/
+General Physics II Laboratory
+General Physics II Laboratory
+/
+Calculus I
+The topics covered include derivatives of polynomials, trigonometric, exponential and logarithmic functions, applications of the derivative, the definite integral, and the fundamental theorem of calculus. 
+/
+Calculus II
+The topics covered include techniques of integration, applications of the integral and infinite series, including Taylor’s series. 
+/
+Linear Algebra
+This course is an introduction to the theory and application of vector spaces, linear transformations, matrix representations, eigenvalues, and eigenvectors. A software package will be used in this course.
+/
+Discrete Mathematics for Computer Science
+This course provides a foundation in mathematical proofs and abstract mathematics in the context of discrete mathematics. Mathematical topics in the course are chosen for their relevance to computer science, and include combinatorics, set theory, graph theory, and recurrence relations.
+/
+Introduction to Engineering
+This course is an introductory engineering course exposing students to a cross section of topics in computer engineering discipline to assist them with their education career choices. Students are taught to work in teams, introduced to the design process, utilize math and computer programs to analyze raw data and properly display their results in a presentation to their peers.
+/
+Computer Science 1
+Students learn a modern programming language and the basic skills needed to analyze problems and construct programs for their solutions. The emphasis of the course is on the techniques of algorithm development, correctness, and programming style.
+/
+DC Circuit Fundamentals
+This course covers DC circuit analysis, including mesh analysis, nodal analysis, Thevenin conversion, Norton conversion, power, magnetism and magnetic circuits, capacitance, and inductance. An introduction to electrical laboratory procedures and the measurement of basic circuit parameters is also included.
+/
+AC Circuit Fundamentals
+Studies include single time constant circuits, phasors, and the j operator, RLC circuits with sinusoidal, steady-state sources, impedance and admittance, AC formulation of classic network theorems, complex network equations, complex power, frequency response, transformers, and two-port network models.
+/
+Computer Organization 1
+In this course, students will study the internal organization, characteristics, performance and interactions of a computer system’s functional components. Binary codes and binary arithmetic, digital logic, central processor organization, instruction set architecture, input/output fundamentals, and memory architecture are covered.
+/
+Computer Science 2
+The topics covered include linked-lists, trees, stacks, queues, classes, recursion, and a variety of data representation methods. Further topics in software engineering and programming style as well as algorithms for sorting and searching are included.
+/
+Solid State Electronics
+Devices studied include: diodes, bipolar junctions transistors, MOS field effect transistors, thyristors, voltage regulators and operational amplifiers.
+/
+Solid State Electronics Laboratory
+The student will develop the laboratory skills necessary for integration of electronic devices in applications such as filtering, amplification, and voltage regulation.
+/
+Digital Systems I
+This course covers the analysis and design of logic circuits using Boolean algebra, Karnaugh maps and truth tables. It provides an introduction to the student to the basic concepts of computer architecture. In addition, it covers number systems, operation and codes. Combinational digital circuits are also studied. 
+/
+C Programming for Engineer
+This is an advanced-level programming course using the C programming language. Methods for solving computer engineering problems using the C programming language are studied. The fundamental of UNIX Operation System and shell scripts are also introduced.
+/
+Computer Organization 2
+The course presents the functional organization of computers, multicore and multithreaded processors, high-performance storage, multiprocessor and multicomputer parallel architectures, and error detecting/correcting codes.
+/
+Digital Systems II
+It covers the analysis and design of sequential (counters and shift registers) logic systems. Programmable Logic Devices (PLD) and associated Computer Aided Design (CAD) software are used to implement digital circuits by using the schematic design entry method. Johnson counter and Ring counter are studied. The general methods of analysis and design  for Finite State Machine (FSM) is also introduced.
+/
+Signals and Systems
+This course provides an introduction to the student to the basic concepts of signals and system modeling. The students will develop and understand time-domain and frequency-domain analysis of both continuous and discrete systems and signals.
+/
+Semiconductor Device Fundamentals
+This course will provide the fundamental knowledge of semiconductor physics, materials, devices and fabrication technology. The students will learn semiconductor band theory, semiconductor materials and statistics, pn junction, bipolar transistor, heterojunction, Schottky junction and solar cells. The course will focus on the MOSFET designs for advanced Very Large Scale Integrated Circuit (VLSI) technology from its physical structure, accurate modeling, manufacturability and applications by using computer simulation.
+/
+A&D Communications
+This course is an introduction to communication systems. Topics include: information theory, channel capacity, A/D and D/A techniques, modulation (AM, FM, and digital), noise sources, quantization, and transmission lines including Smith Charts.
+/
+Digital Circuits III - Hardware Description Language
+Students in this course will learn a Hardware Description Language (HDL) which is used to design and simulate very large scale digital integrated circuits. Different modeling and design approaches will be covered as well as different simulation techniques.
+/
+Digital Filter Design
+This course introduces digital filters as applied in digital signal processing and sampled data control systems. Complex algorithms will be introduced for the design of digital filters.
+/
+Embedded System Design I
+The following issues will be discussed, such as embedded processor selection, hardware/firmware partitioning, number conversion, computer hardware structure, memory technology, logic circuits, development tools, firmware architecture, firmware design, and firmware debugging. An industry standard microcontroller will be studied, and its architecture and instruction set will be covered.
+/
+Embedded System Design II
+It provides the knowledge of designing microcontroller-based embedded computer systems by using assembly and C programs. In addition, the course will also examine the Real-time Operating Systems and their impact on performance. Computer engineering applications will also be emphasized.
+/
+VLSI Circuits and Systems
+This course will explore the fundamentals of Very Large Scale Integrated Circuit (VLSI) design. The following design specifications will be addressed, such as functionality, performance, reliability, manufacturability, testability, cost, design layout rules and checking, circuit extraction, simulation, and verification.
+/
+Senior Design I
+This is a Senior Experience, capstone course designed to teach engineering design skills to students through project based learning. The course will focus on team project incorporating the application of fundamental engineering knowledge and skills. Projects requires planning and design in consultation with faculty advisors and industry contacts. Through this course the students will learn the design process in a hands on way through conceptualization, construction, testing and presenting a deliverable project.
+/
+Senior Design II
+The project is built, tested and demonstrated. Written technical reports and oral presentations on the project are required. Part of this course involves the student working with a faculty member who acts as a consultant.
+/

@@ -1,0 +1,208 @@
+/
+Introduction to Computer Science
+This is an introduction to computer science with an emphasis on programming. The topics include: design; algorithmic
+thinking; recursion; object-oriented programming; ethics in computer science; and some basics about computer systems:
+machine language, interpreters, compilers, and data representation. 
+/
+Introduction to Web Programming and Project Development
+This course introduces students to the infrastructure underlying the Web, including protocols and markup languages. It also
+addresses the question of how one presents large volumes of information to people who need to find out what they are looking
+for quickly. The scope of the course ranges from mechanics to aesthetics. Social and ethical issues are also discussed,
+including the concept of information ecologies for social acceptance. Networks and protocols; pervasive computing; Web
+protocols; markup languages and XML; defining information architecture; understanding information needs and informationseeking behaviors; organizing Web sites and intranets; navigation systems; search systems; thesauri; from research to design:
+strategies for information architecture; enterprise information architecture; ethics on the Web; and information ecologies. 
+/
+Differential Calculus 
+Limits and derivatives of functions of one variable including the trigonometric, inverse trigonometric, logarithmic and exponential
+functions; differentiation rules, implicit differentiation, geometric and physical interpretations of the derivative, applications of
+the derivative including optimization and sketching graphs of one variable functions.
+/
+Integral Calculus
+Definite integrals of functions of one variable, antiderivatives, the two versions of the Fundamental Theorem of Calculus,
+integration techniques including substitution, integration by parts, inverse trigonometric substitutions, and partial fraction
+decompositions; improper integrals, L’Hospital’s Rule, applications to geometry and physics including calculation of areas,
+volumes, and work done by a variable force. 
+/
+Writing And Communications Colloquium
+ The mission of the course is to help
+students develop their skills in the following essential areas: connective and innovative thinking about complex global issues;
+composition, structure and argumentation; grammatical and stylistic sophistication; critical reading and textual analysis;
+research and investigation; group work and mutual evaluation; and polished public speaking using visual aids.
+/
+Physical Education I
+Physical Education I
+/
+Data Structures 
+This is a course on standard data structures, including sorting and searching and using the Java language. The topics
+include: stages of software development; testing; UML diagrams; elementary data structures (lists, stacks, queues, and
+maps); use of elementary data structures in application frameworks; searching; sorting; and introduction to asymptotic
+complexity analysis. 
+/
+Discrete Structures
+The aim of this course is to integrate knowledge of basic mathematics with the problems involving specification, design,
+and computation. By the end of the course, the student should be able to: use sets, functions, lists, and relations in the
+specification and design of problems; use properties of arithmetic, modular arithmetic (sum, product, exponentiation), prime
+numbers, greatest common divisor, factoring, Fermat’s Little Theorem; use binary, decimal, and base-b notation systems
+and translation methods; use induction to design and verify recursive programs; and implement in Scheme all algorithms
+considered during the course. 
+/
+Series, Vectors, Functions, and Surfaces
+Taylor polynomials and series, functions of two and three variables, linear functions, implicit functions, vectors in two and
+three dimensions. 
+/
+Calculus of Two Variables 
+Partial derivatives, the tangent plane and linear approximation, the gradient and directional derivatives, the chain rule,
+implicit differentiation, extreme values, application to optimization, double integrals in rectangular coordinates.
+/
+CAL Colloquium: Knowledge, Nature, Culture 
+This course introduces students to enduring questions and methods of inquiry that drive research and creative endeavors in
+the College of Arts and Letters. Drawing on multiple ethical, cultural, and disciplinary perspectives, each faculty member will
+select a theme designed to help students deepen their understanding of a social-cultural phenomenon by examining it from
+different points of view. The completion of a research essay is required.
+/
+Computer Organization and Programming 
+The main aspects of computers: data (data types and formats, number bases), hardware (stored program computer concept,
+addressing methods and program sequencing, instruction sets and their implementation, the CPU and microprogrammed
+control, input/output organization, peripherals and interfacing, and main memory), communication (network protocols),
+software (operating systems, dispatching algorithms), and assembly language programming.
+/
+Algorithms 
+This is a course on more complex data structures, and algorithm design and analysis, using the C++ language. Topics
+include: advanced and/or balanced search trees; hashing; further asymptotic complexity analysis; standard algorithm design
+techniques; graph algorithms; complex sort algorithms; and other “classic” algorithms that serve as examples of design
+techniques.
+/
+Automata and Computation
+Introduction to recursive functional programming and equational reasoning; lists as inductive types and list induction;
+introduction to formal languages, automata, and the theory of computation; regular expressions, finite state machines, and
+pumping lemma; context free grammars and push down automata; turing machines, recursive enumerability, and unsolvable
+problems; and complexity and intractability. A number of models of computation are considered, as well as their relation to
+various problem classes (e.g. solvable problems and polynomial time solvable problems). 
+/
+Project Management
+This course will describe the problems of managing a project within a permanent organization for the purpose of achieving a
+specific objective. It will broadly cover the operational and conceptual issues faced by modern project managers. 
+/
+Physical Education III
+Physical Education III
+/
+Systems Programming
+Introduction to systems programming in C on UNIX. Students will be introduced to tools for compilation, dynamic linking,
+debugging, editing, automatic rebuilding, and version control. Some aspects of the UNIX system call interface will be studied,
+drawn from this list: process creation, signals, terminal I/O, file I/O, inter-process communication, threads, network protocol
+stacks, programming with sockets, and introduction to RPC. Style issues to be covered include: naming, layout, commenting,
+portability, design for robustness and debugability, and language pitfalls. X programming and GUI design will be covered, if
+time allows. 
+/
+Principles of Programming Languages 
+An introduction to programming language design and implementation, with an emphasis on the abstractions provided by
+programming languages. Assignments involve problem-solving issues in principles of programming languages such as Scheme
+and ML; recursive types and recursive functions; structural induction; abstract data types; abstract syntax; implementing
+languages with interpreters; static vs. dynamic scoping, closures, state; exceptions; types: type-checking, type inference,
+static vs. dynamic typing; object-oriented languages: classes and interfaces, inheritance and subtyping; polymorphism and
+genericity; and design patterns and the visitor pattern. 
+/
+Software Development Process 
+This course provides a general introduction to the essentials of the software development process, that series of activities that
+facilitate developing better software in less time. The course introduces software development and deployment life cycles,
+requirements acquisition and analysis, software architecture and design, and resource management and scheduling in the
+implementation phase. Students gain experience with tools and methodologies for configuration management and project
+management. Security engineering is considered as an essential part of the software development process, particularly from
+the standpoint of applied risk management. 
+/
+Probability and Statistics 
+Introduces the essentials of probability theory and elementary statistics. Lectures and assignments greatly stress the manifold
+applications of probability and statistics to computer science, production management, quality control, and reliability.
+Contents include: descriptive statistics, pictorial and tabular methods, and measures of location and of variability; sample
+space and events, probability axioms, and counting techniques; conditional probability and independence, and Bayes’
+formula; discrete random variables, distribution functions and moments, and binomial and Poisson distributions; continuous
+random variables, densities and moments, normal, gamma, and exponential and Weibull distributions unions; distribution
+of the sum and average of random samples; the Central Limit Theorem; confidence intervals for the mean and the variance;
+hypothesis testing and p-values, and applications for the mean; simple linear regression, and estimation of and inference
+about the parameters; and correlation and prediction in a regression model.
+/
+Physical Education IV
+Physical Education IV
+/
+Database Management Systems 
+Introduction to the design and querying of relational databases. Topics include: relational schemas; keys and foreign
+key references; relational algebra (as an introduction to SQL); SQL in depth; Entity-Relationship (ER) database design;
+translating from ER models to relational schemas and from relational schemas to ER models; functional dependencies; and
+normalization.
+/
+Concurrent Programming 
+The study of concurrency as it appears at all levels and in different types of computing systems. Topics include: models of
+concurrency; languages for expressing concurrency; formal systems for reasoning about concurrency; the challenges of
+concurrent programming; race conditions; deadlock; livelock and nondeterministic behavior; prototypical synchronization
+problems, such as readers-writers and dining philosophers; mechanisms for solution of these problems, such as
+semaphores, monitors, and conditional critical regions; important libraries for concurrent programming; message passing,
+both synchronous and asynchronous; and applications of multithreaded concurrent programming and parallel algorithms.
+/
+Intermediate Statistics
+An introduction to statistical inference and to the use of basic statistical tools. Topics include descriptive and inferential
+statistics; review of point estimation, method of moments, and maximum likelihood; interval estimation and hypothesis
+testing; simple and multiple linear regression; analysis of variance and design of experiments; and nonparametric methods.
+Selected topics, such as quality control and time series analysis, may also be included. Statistical software is used throughout
+the course for exploratory data analysis and statistical inference based in examples and in real data relevant for applications
+/
+Computers and Society 
+An introduction to arguments about the relationship between computing and society, the impact of computing activities on
+social relationships, and the evolution of institutions to regulate computer-mediated activities. 
+/
+Ethical Issues in Science and Technology 
+Consideration of such issues as the ethical responsibility of scientists and technologists for the uses of their knowledge,
+the ethics of scientific research, and truth and fraud in science and engineering. We will study such contemporary moral
+questions as those concerning the uses and abuses of nuclear energy, environmental pollution and the preservation of
+natural resources, and the impact of new technologies on the right to privacy. 
+/
+Operating Systems 
+The use and internals of modern operating systems. Lectures focus on internals whereas programming assignments focus
+on use of the operating system interface. Major topics include: the process concept; concurrency and how to program with
+threads; memory management techniques, including virtual memory and shared libraries; file system data structures; and
+I/O.
+/
+Compiler Design and Implementation
+In the modern software industry, there is a proliferation of programming languages, especially domain-specific languages,
+such as Facebook Hack, Google Go, and Mozilla Rust. Therefore, the robustness and security of the software of the future
+depends on these languages (i) being built from classical compilers foundations and (ii) increasingly incorporating better
+analysis techniques. This course introduces students to the structure and design of compilers (lexical and syntax analysis,
+symbol table construction, code generation, etc.) as well as semantic analyses for correctness and security. The emphasis
+in this course is on the integration of the various parts of a compiler.
+/
+CS 541 Artificial Intelligence
+An introduction to the large and diverse field of artificial intelligence. Topics include: problem-solving by search and constraint
+satisfaction; alpha-beta search for two-player games; and logic and knowledge representation, planning, learning, decision
+theory, statistical learning, and computer vision.
+/
+Senior Design I
+Students in this course work in teams to develop real software for real clients. 
+/
+Introduction to IT Security
+This course provides a basic introduction to the key concepts in security. It covers basic concepts such as authentication,
+confidentiality, integrity, and nonrepudiation as well as important techniques and applications. Topics include access control,
+security economics, ethics, privacy, software/operating system security, and security policies.
+/
+Web Programming 
+This course will provide students with a first strong approach of internet programming. It will give the basic knowledge on how
+the Internet works and how to create advanced web sites by the use of script languages, after learning the basics of HTML. 
+/
+Societal Impact of Information Technologies 
+Students explore tradeoffs posed by modern information technologies such as the Internet, mining of personal data, web
+tracking, and surveillance systems. Also covered are major debates about how IT technologies should be harnessed to serve
+the greater good, such as: Internet governance, privacy vs. openness, and laws regarding intellectual property.
+/
+Senior Design II
+The goal of the course is to provide you with basic skills for successfully performing high-quality research in finance and to help you choose a
+research topic to work on. The course will include both formal training sessions, on various aspects of research in finance,
+and an actual research project completed by students.
+/
+Computer Vision
+An introduction to the field of Computer Vision, focusing on the underlying algorithmic, geometric, and optic issues. The course
+starts with a brief overview of basic image processing topics (convolution, smoothing, and edge detection). It then proceeds
+on various image analysis topics: binary images, moments-based shape analysis, Hough transform, image formation, depth
+and shape recovery, photometry, motion, classification, and special topics. 
+/
+Web Programming II
+This course focuses on teaching students the newest technologies available in Web Programming. Topics include advanced
+client side programming, responsive design, NoSQL databases, JQuery, AJAX, Web Site security, and the latest Frameworks.
+/

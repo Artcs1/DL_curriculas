@@ -1,0 +1,102 @@
+Introduction to Computing (or test out)
+Basic principles of computing, including study of the major components of a computer system. Introduction to software packages such as word processors, spreadsheets, databases, and languages. 
+/
+Computer Science I
+Introduction to programming and computer science through lab and lecture. Simple and structured data types and program control structures. Problem analysis, algorithm design, and computer implementation using a high-level language. 
+/
+Hardware and Software
+Principles of computer hardware and software will be presented with the theoretical underpinnings, installation, and configuration. This course provides the hardware/software technology background to enable systems development personnel to understand tradeoffs in computer architecture for effective use in a business environment including system architecture for networked systems and operating systems.
+/
+Internet Media and Programming
+Study of the technology of Internet media, including graphics, video, audio, XML, and other emerging Internet technologies. Examines advanced features of the hardware and software requirements of those media. Also covers the implementation of those technologies through Web interface development. 
+/
+COBOL
+Introduction to the COBOL language; file management techniques; mid-range computer processing; program design, testing and implementation methodology with emphasis on structured programming. Topics include validation, reporting, file updating; tables; character manipulation; SORT and COPY statements; the Report Writer feature.
+/
+APPLICATION DEVELOPMENT IN VISUAL BASIC
+Builds on a student's knowledge of programming to explore applications designed for PCs and networks. Emphasis is placed on GUI development and accessing data in a legacy environment. Numerous programming assignments give experience using Visual Basic in a programming environment, designing interactive forms, and using objects and controls to write applications. 
+/
+PROFESSIONAL RESPONSIBILITIES AND PRACTICES
+History of the computing profession. Local and global impacts of computing technology on individuals, organizations and society. Professional ethics and responsibilities. Personal privacy, security and legal issues. Preparation for an internship in the computing field. 
+/
+Systems Analysis and Design
+Examines the system development and modification process. Emphasizes factors for effective communication with users and interpersonal skill development. Structured and object-oriented analysis and design, use of modeling (CASE) tools, methodological life cycle, and project management standards.
+/
+Network Systems Management
+Provides information systems students with the knowledge and skills necessary to manage the sophisticated Local Area Networks available today. It approaches the subjects of network design, installation, and management from the corporate view of networking.
+/
+Database Management and Implementation
+Covers information systems design and implementation within a database management system environment. Students will design and construct a physical system using database management system software to implement the logical design. Examination of the system development and modification process. Emphasis on factors for effective communication with users and interpersonal skill development. 
+/
+Information Systems Project Management
+This course covers factors necessary for successful management of information systems development or enhancement projects. Both technical and behavioral aspects of project management are applied within the context of an information systems development project. 
+/
+Management of Information Systems
+This course integrates the information needs of the organization with the technology of information systems. Administration and policy are applied to specific areas of information systems management. 
+/
+Information Systems Project 
+Formal evaluation of a software/hardware package or of a proposed or existing system, or the analysis, design, and implementation of an application system. Formal reports and presentations required. 
+/
+Internship
+Internship in a computing situation with individual faculty supervision to allow students to apply academic knowledge to actual and professional experience. 
+/
+WEB APPLICATION PROGRAMMING
+The tools and techniques for developing dynamic Web applications. Topics include scripting languages, markup languages, database connectivity, Web standards, and security issues. 
+/
+Software Development Tool
+Advanced online programming, incorporating contemporary multiplatform computing technologies, application development environments, multi-and/or cross-platform database applications, and application data integration. The course may utilize one or more representative application development environments.
+/
+WIRELESS NETWORKS AND SECURITY
+A multidisciplinary, hands-on oriented wireless networks and security course that integrates topics at all layers of wireless networks and mobile systems, starting from wireless physical layer through application layer. The course presents security techniques employed in common wireless systems and emphasizes hands-on learning through experiments, case studies, and design projects. 
+/
+System Security
+Security of computer systems, including operating system, database, and network security. Coverage includes common attacks and defensive techniques as well as system monitoring and methods to test system security. Theory and applications of various techniques will be explored. 
+/
+Problem Solving Using Spreadsheets
+An introduction to Excel spreadsheets and its use as a tool in problem solving and applications. 
+/
+Data Analysis Tools and Techniques
+This course will introduce the student to key technologies used for collecting, cleaning, manipulating, storing, analyzing, visualizing, and extracting useful information from large and diverse data sets. Upon completion of this course, students will be better prepared to assist organizations in facing the challenges of large scale data analytics. 
+/
+Data Mining
+Data mining is the application of computational techniques to the discovery of useful information in large data sets. This course will provide a hands-on study of computational methods for such knowledge discovery. Topics include clustering, classification techniques, and selected data mining software. 
+/
+Principles of Financial Accounting
+Introduction to financial accounting. Emphasizes the importance of accounting information, how accounting information is produced, and how this information is used in making decisions about organizations.
+/
+Principles of Managerial Accounting
+This course addresses accounting information in business. Topics include cost concepts and behavior, product and activity-based costing, cost-volume-profit relationships, variable costing, budgeting/performance analysis, standard costs/variance analysis, and relevant costs for decision-making.
+/
+Legal Environment for Business
+The legal, regulatory, and ethical environment in which business operates is explored, with emphasis on the regulation of business, international law, environmental law, ethics, the political and social factors influencing case and statutory law, contracts, employment law, and business organizations. 
+/
+Speech
+Focuses on oral communication. The student will examine practical programs in speech preparation, delivery, informative and persuasive strategies, and listening and responding to messages of others. Most of what a student gains from this course will come not only from reading a text but also from in-class projects, simulation exercises, and skills training.
+/
+Introductory Microeconomics 
+Focuses on the interactions among households, producers, and governments in market economies. Applies fundamental methods of economic analysis to topics such as household spending and saving patterns; producer pricing, profits, and organization; wages and income distribution; investment decisions; health care and insurance; government taxes, spending, and regulation of markets.
+/
+Managerial Finance
+This course presents the financial policies and practices that lead to the maximization of the value of the firm. Major topics include financial statement analysis, time value of money, asset valuation, sources and costs of financing, capital budgeting analysis, and risk and return.
+/
+Business Processes and Management Information Systems
+This course is designed to give the student an understanding of the importance of common business processes and their relationship with information systems in modern companies. Gaining insight into the integration that good information systems, specifically Enterprise Resource Planning (ERP) systems, foster in an organization. 
+/
+Concepts of Management
+The management process through an examination of its functions of planning, organizing, motivating, and controlling work and work performance in a business organization. Theoretical concepts and applications through the use of selected case materials.
+/
+Marketing Management
+An introduction to marketing. Provides a general understanding and appreciation of the forces operating, institutions employed, and methods followed in marketing products and services both domestically and internationally. 
+/
+Survey of Calculus
+A study of the concepts of calculus for students majoring in business, economics, life sciences, and social sciences. Differentiation and integration of algebraic, exponential, and logarithmic functions. Emphasis on applications. Fulfills Foundations - Mathematical Sciences. 
+/
+Introductory Applied Statistics 
+A technique-oriented approach to statistical problems with emphasis on applications. Descriptive statistics, probability distributions, estimation, testing hypotheses, t-test, regression and correlation, chi-square tests, and one-way analysis of variance. A statistical software package will provide computational assistance. Fulfills Foundations - Mathematical Sciences.
+/
+Intermediate Applied Statistics
+Project-oriented introduction to major statistical techniques using a statistical package such as SAS or SPSS. Hypothesis testing, t-test, multivariate regression, analysis of variance, analysis of covariance, chi-square tests, and nonparametric statistics. 
+/
+Business Communication
+Training in communication skills for business and the professions. Assignments cover varieties of information management, including handling research, gathering data, writing reports, manuals, directions, and correspondence, and making oral presentations. 
+/

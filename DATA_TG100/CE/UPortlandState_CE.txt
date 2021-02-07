@@ -1,0 +1,142 @@
+/
+General Chemistry I
+Fundamental basis of chemistry for science, engineering and health professional students 
+/
+Honors Lab for Ch 221H
+Laboratory work to accompany Honors General Chemistry.
+/
+Calculus I
+Differential calculus of functions of a single variable, including limits, the definition and computation of the derivative, and applications of the derivative. 
+/
+Calculus III
+Introduction to differential equations, infinite series, parametric equations, polar coordinates, and conic sections.
+/
+Introduction to Linear Algebra
+Systems of linear equations, linear transformations, matrix algebra, vector spaces, and determinants.
+/
+Applied Ordinary Differential Equations
+Solution techniques in ordinary differential equations; applications.
+/
+Discrete Mathematics
+Topics in discrete mathematics, including propositional logic, sets, relations, inverse functions, divisibility, induction, recurrences, inclusion-exclusion, permutations, combinations, graphs, graph coloring, and applications. 
+/
+Exploring Electrical Engineering
+Freshman introductory course for students interested in electrical engineering. Students learn the design process, problem-solving, teamwork and presentation skills through completion of a hands-on project. Lab activities familiarize students with basic equipment and components. Speakers present an overview of different fields and career opportunities in electrical engineering. 
+/
+Engineering Computation
+Applying the principles of engineering analysis. Presenting technical content. Utilizing engineering software and writing scripts. Controlling external hardware via programming. 
+/
+Digital Circuits
+Foundation course in digital design. Topics such as number systems, basic logic gates, TTL device parameters, Boolean algebra, logic circuit simplification techniques, timing analysis, the application of MSI combinational logic devices, programmable logic devices, flip-flops, synchronous state machines and counters. Introduces students to a systematic design methodology. Uses computer based tools such as schematic capture programs, programmable logic development programs, and digital circuit stimulators.
+/
+Engineering Programming
+Introduction to software design, algorithms, data structures, and programming using the "C" language. Interfacing to sensors, actuators, and other hardware. Writing documentation and presenting technical content. 
+/
+Digital Systems
+Second course in the digital and microprocessor sequence. Covers shift registers, synchronous state machines, programmable logic devices, memories, and simple arithmetic circuits; introduction to timing analysis, design for test techniques.
+/
+Electric Circuit Analysis I
+Introduction to the basic methods of circuit analysis including Kirchhoff’s laws, resistive circuits, techniques of circuit analysis, operational amplifiers, and energy storage elements. 
+/
+Electric Circuit Analysis I Lab
+Lab for Electric Circuit Analysis I.
+/
+Introduction to Design Processes
+Introduction to design for electrical and computer engineers. Discussion of design processes, needs, requirements, functional decomposition, testing and project management. 
+/
+Electric Circuit Analysis II
+Introduction to the dynamic response of circuits, sinusoidal steady state analysis and the Laplace Transform for circuit analysis. Includes transient response and phasor and Laplace analysis.
+/
+Electric Circuit Analysis II Lab
+Lab for Electric Circuit Analysis II.
+/
+Introduction to Project Development
+Teams of students work on design projects that integrate electrical and computer engineering skills, knowledge and concepts gained up to this point. Application of structured design methodology to an authentic engineering problem. 
+/
+Electric Circuit Analysis III
+Frequency response and ac power. Includes transfer functions, design of analog filters, Bode plot analysis, pole-zero diagrams, and ac and three-phase power.
+/
+Electric Circuit Analysis III Lab
+Lab for Electric Circuit Analysis III.
+/
+Electronics I
+Introduction to solid state electronics, leading to the physical properties and characteristics of solid state electronic devices: diodes, bipolar junction transistors and field effect transistors. Analysis and design of rectifier topologies and biasing circuits. Application of a computer-aided design (CAD) tool, such as SPICE. 
+/
+Electronics I Lab
+Lab for Electronics I.
+/
+Computer System Organization
+Basic concepts of modern computer systems, computer programming, and data structures. Topics include system organization, programming and debugging tools, project and software management tools, C, C++, scripting languages, performance benchmarking, data structures, lists.
+/
+Microprocessors
+Microprocessor instruction set architecture of a 32-bit microprocessor, structured development of assembly language programs, interfacing assembly language and high-level language programs, interrupt procedures, handshake data transfer, and interfacing with simple digital devices. Introductions to microcomputer memory systems, virtual memory, and overview of microprocessor evolution.
+/
+Embedded Operating Systems
+Introduction to the principles of modern operating system design. Topics include: introduction to basic operating system concepts, processes, inter-process communication and concurrent programming, scheduling, memory management, file systems, device management, introductions to protection & security, RTOS structure and operation. Linux will be used for class examples and lab assignments.
+/
+Microprocessor Interfacing and Embedded Systems
+Teaches the hardware and software design of embedded microprocessor systems. Topics include sensor, transducer, and actuator interfacing; microprocessor-based process control; interfacing with display, vision, and speech systems; Real Time Operating System (RTOS) operation; creation of device drivers; intelligent robotics applications; and an introduction to the Unified Modeling Language (UML).
+/
+Microprocessor Interfacing and Embedded Systems Lab
+Microprocessor Interfacing and Embedded Systems Lab
+/
+Verilog and FPGA Design
+Introduces the students to the Verilog Hardware Description Language and describes its role in the electronic design automation environment. Students learn how to prototype digital designs using FPGAs.
+/
+Embedded Operating Systems & Device Drivers
+After a brief introduction to the basic structure and operations of the Linux OS, students will gain extensive practice developing Linux device drivers for a wide variety of hardware devices. 
+/
+Embedded Operating Systems & Device Drivers Lab
+Embedded Operating Systems & Device Drivers Lab
+/
+Microprocessor System Design
+Advanced hardware and software design of desktop type microcomputer systems. Topics include large project design management and documentation; DRAM system design, cache organization, connections, and coherency; the memory hierarchy and virtual memory; I/O buses such as AGP, PCI-X, and Infiniband; multithreaded operating system considerations; JTAG(IEEE1149.1) and Design For Test; high frequency signal integrity; and power supply considerations. 
+/
+Industry Design Processes
+Topics include: design documentation standards; building and managing effective teams; product development steps; developing and presenting project proposals; design processes; project scheduling and management; design to meet desired needs.
+/
+Signals and Systems I
+Fundamentals of signals and systems including fundamental signals, basic system properties, linear time invariant systems, Fourier series, Fourier transforms, and filters.
+/
+Computer Architecture
+An introduction to the key concepts of computer system architecture and design. Topics include the design and analysis of instruction set architectures, memory systems, and high-performance IO systems; basic CPU implementation strategies; basic pipelined CPU implementation; performance analysis; and a survey of current architectures.
+/
+Senior Project Development I
+Project teams apply structured design methodology to original projects with assistance of faculty and industrial/community advisers and after initial research, prepare written and oral project proposals. Students keep logs of their design work and submit weekly progress reports. Groups periodically give oral progress reports.
+/
+Senior Project Development II
+Students maintain logs of their individual work and submit weekly progress reports. Each group prepares final written and oral reports for the project sponsor. 
+/
+Engineering Professional Practice
+Prepares graduates for careers in electrical and computer engineering. Topics include ethical reasoning and considerations, strategies for job acquisition, career planning, certification and licensure, approaches to lifelong learning, and means of maintaining awareness of contemporary global and local societal issues.
+/
+General Physics I
+Introductory physics for students majoring in engineering. The student will explore topics in statics and dynamics using the methods of calculus.
+/
+General Physics I Lab
+Introductory laboratory for students in General Physics I. 
+/
+General Physics II
+Introductory physics for students majoring in engineering. The student will explore topics in electricity and electromagnetism using the methods of calculus. 
+/
+General Physics II Lab
+Introductory laboratory for students in General Physics II.
+/
+General Physics III
+Introductory physics for students majoring in engineering. The student will explore topics in thermodynamics, and optics using the methods of calculus. 
+/
+General Physics III Lab
+Introductory laboratory for students in General Physics III.
+/
+Probability and Statistics for Electrical and Computer Engineering
+An introduction to applied probability, statistics, and data analysis. Sample spaces, probability laws, discrete and continuous probability models, sampling theory, point and interval estimation, hypothesis testing, regression, correlation, experimental design, analysis of variance, computer simulation and computation in Matlab. Applications to problems of current interest to electrical and computer engineers.
+/
+Electronics II
+Ideal and non-ideal OPAMP circuits; Analysis of electronic amplifiers using small-signal models of electronic devices; Differential and operational amplifier design techniques involving current mirrors and active loads; Frequency response of analog circuits; Computer-aided design. 
+/
+Electronics III
+Feedback topologies. Design and analysis of sinusoidal waveform generators. Introduction to phase-locked loops. Study of digital circuits used in various logic families. Computer-aided design. 
+/
+/
+/
+/

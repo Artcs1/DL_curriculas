@@ -1,0 +1,120 @@
+Calculus, Part I
+Brief review of High School calculus, applications of integrals, transcendental functions, methods of integration, infinite series, Taylor's theorem, and first order ordinary differential equations. Use of symbolic manipulation and graphics software in calculus.
+/
+Calculus, Part II
+Functions of several variables, vector-valued functions, partial derivatives and applications, double and triple integrals, conic sections, polar coordinates, vectors and vector calculus, first order ordinary differential equations. Applications to physical sciences. Use of symbolic manipulation and graphics software in calculus.
+/
+Mathematical Foundations of Computer Science
+What are the basic mathematical concepts and techniques needed in computer science? This course provides an introduction to proof principles and logics, functions and relations, induction principles, combinatorics and graph theory, as well as a rigorous grounding in writing and reading mathematical proofs.
+/
+Discrete Probability, Stochastic Processes, and Statistical Inference
+The purpose of this course is to provide a 1 CU educational experience which tightly integrates the theory and applications of discrete probability, discrete stochastic processes, and discrete statistical inference in the study of computer science. The intended audience for this class is both those students who are CS majors as well as those intending to be CS majors. Specifically, it will be assumed that the students will know: Set Theory, Mathematical Induction, Number Theory, Functions, Equivalence Relations, Partial-Order Relations, Combinatorics, and Graph Theory
+/
+Engineering Probability
+This course introduces students to the mathematical foundations of the theory of probability and its rich applications. The course begins with an exploration of combinatorial probabilities in the classical setting of games of chance, proceeds to the development of an axiomatic, fully mathematical theory of probability, and concludes with the discovery of the remarkable limit laws and the eminence grise of the classical theory, the central limit theorem. The topics covered include: discrete and continuous probability spaces , distributions, mass functions, densities; conditional probability; independence; the Bernoulli schema: the binomial, Poisson, and waiting time distributions; uniform, exponential, normal, and related densities; expectation, variance, moments; conditional expectation; generating functions, characteristic functions; inequalities, tail bounds, and limit laws. But a bald listing of topics does not do justice to the subject: the material is presented in its lush and glorious historical context, the mathematical theory buttressed and made vivid by rich and beautiful applications drawn from the world around us. The student will see surprises in election-day counting of ballots, a historical wager the sun will rise tomorrow, the folly of gambling, the sad news about lethal genes, the curiously persistent illusion of the hot hand in sports, the unreasonable efficacy of polls and its implications to medical testing, and a host of other beguiling settings.
+/
+Engineering StatisticsThis is a first course in applied statistics and probability for students in engineering. The course covers basic concepts of probability, discrete and continuous random variables, probability distributions, data description techniques, random samples, estimations, hypothesis testing, regression, and statistical quality control.
+/
+Probability
+Discrete and continuous sample spaces and probability; random variables, distributions, independence; expectation and generating functions; Markov chains and recurrence theory.
+/
+Mathematics in the Age of Information
+This course counts as a regular elective for both the Mathematics Major and Minor. This is a course about mathematical reasoning and the media. Embedded in many stories one finds in the media are mathematical questions as well as implicit mathematical models for how the world behaves. We will discuss ways to recognize such questions and models, and how to think about them from a mathematical perspective. A key part of the course will be about what constitutes a mathematical proof, and what passes for proof in various media contexts. The course will cover a variety of topics in logic, probability and statistics as well as how these subjects can be used and abused.
+/
+Calculus, Part II with Probability and Matrices
+Functions of several variables, partial derivatives, multiple integrals, differential equations; introduction to linear algebra and matrices with applications to linear programming and Markov processes. Elements of probability and statistics. Applications to social and biological sciences. Use of symbolic manipulation and graphics software in calculus.
+One-term course offered either term
+/
+Principles of Physics I (without laboratory)
+The topics of this calculus-based course are: Classical laws of motions; interactions between particles; conservation laws and symmetry principles; particle and rigid body motion; gravitation, harmonic motion, and applications of mechanics to real-world problems. Engineering students only.
+/
+Principles of Physics II (without laboratory)
+The topics of this calculus-based course are electric and magnetic fields; Coulomb's, Gauss's, Ampere's, and Faraday's laws; DC and AC circuits; Maxwell's equations and electromagnetic radiation. Engineering students only.
+/
+Principles of Physics I: Mechanics and Wave Motion
+This calculus-based course is recommended for science majors and engineering students. Classical laws of motion; interactions between particles; conservation laws and symmetry principles; particle and rigid body motion; gravitation, harmonic motion, and applications of mechanics to real-world problems. 
+/
+Principles of Physics II: Electromagnetism and Radiation
+The topics of this calculus-based course are electric and magnetic fields; Coulomb's, Gauss's, Ampere's, and Faraday's laws; DC and AC circuits; Maxwell's equations and electromagnetic radiation.
+/
+Introduction to Syntax
+This course is an introduction to current syntactic theory, covering the principles that govern phrase structure (the composition of phrases and sentences), movement (dependencies between syntactic constituents), and binding (the interpretation of different types of noun phrases). Although much of the evidence discussed in the class will come from English, evidence from other languages will also play an important role, in keeping with the comparative and universalist perspective of modern syntactic theory.
+/
+Perception
+How the individual acquires and is guided by knowledge about objects and events in their environment.
+/
+Introduction to Computer Programming
+Introduction to Computer Programming is the first course in our series introducing students to computer science. In this class you will learn the fundamentals of computer programming in Java, with emphasis on applications in science and engineering. You will also learn about the broader field of computer science and algorithmic thinking, the fundamental approach that computer scientists take to solving problems.
+/
+Programming Languages and Techniques I
+A fast-paced introduction to the fundamental concepts of programming and software design. This course assumes some previous programming experience, at the level of a high school computer science class or CIS110. (If you got at least 4 in the AP Computer Science A or AB exam, you will do great.) No specific programming language background is assumed: basic experience with any language (for instance Java, C, C++, VB, Python, Perl, or Scheme) is fine
+/
+Programming Languages and Techniques II
+This is a course about Algorithms and Data Structures using the JAVA programming language. We introduce the basic concepts about complexity of an algorithm and methods on how to compute the running time of algorithms. Then, we describe data structures like stacks, queues, maps, trees, and graphs, and we construct efficient algorithms based on these representations. The course builds upon existing implementations of basic data structures in JAVA and extends them for the structures like trees, studying the performance of operations on such structures, and theiefficiency when used in real-world applications. A large project introducing students to the challenges of software engineering concludes the course.
+/
+Introduction to Computer Systems
+You know how to program, but do you know how computers really work? How do millions of transistors come together to form a complete computing system? This bottom-up course begins with transistors and simple computer hardware structures, continues with low-level programming using primitive machine instructions, and finishes with an introduction to the C programming language. 
+/
+Automata, Computability, and Complexity
+This course explores questions fundamental to computer science such as which problems cannot be solved by computers, can we formalize computing as a mathematical concept without relying upon the specifics of programming languages and computing platforms, and which problems can be solved efficiently. The topics include finite automata and regular languages, context-free grammars and pushdown automata, Turing machines and undecidability, tractability and NP-completeness. The course emphasizes rigorous mathematical reasoning as well as connections to practical computing problems such as test processing, parsing, XML query languages, and program verification.
+/
+Introduction to Algorithms
+How do you optimally encode a text file? How do you find shortest paths in a map? How do you design a communication network? How do you route data in a network? What are the limits of efficient computation? This course gives a comprehensive introduction to design and analysis of algorithms, and answers along the way to these and many other interesting computational questions. You will learn about problem-solving; advanced data structures such as universal hashing and red-black trees; advanced design and analysis techniques such as dynamic programming and amortized analysis; graph algorithms such as minimum spanning trees and network flows; NP-completeness theory; and approximation algorithms.
+/
+Compilers and Interpreters
+You know how to program, but do you know how to implement a programming language? In CIS341 you'll learn how to build a compiler. Topics covered include: lexical analysis, grammars and parsing, intermediate representations, syntax-directed translation, code generation, type checking, simple dataflow and control-flow analyses, and optimizations. Along the way, we study objects and inheritance, first-class functions (closures), data representation and runtime-support issues such as garbage collection. This is a challenging, implementation-oriented course in which students build a full compiler from a simple, typed object-oriented language to fully operational x86 assembly.
+/
+Software Design/Engineering
+You know how to write a "program". But how do you create a software "product" as part of a team, with customers that have expectations of functionality and quality? This course introduces students to various tools (source control, automated build systems, programming environments, test automation, etc.) and processes (design, implementation, testing, and maintenance) that are used by professionals in the field of software engineering. Topics will include: software development lifecycle; agile and test-driven development; source control and continuous integration; requirements analysis; object-oriented design and testability; mobile and/or web application development; software testing; refactoring ; and software quality metrics.
+/
+Computer Organization and Design
+This is the second computer oganization course and focuses on computer hardware design. Topics covered are: (1) basic digital system design including finite state machines, (2) instruction set design and simple RISC assembly programming, (3) quantitative evaluation of computer performance, (4) circuits for integer and floating-point arithmatic, (5) datapath and control, (6) micro-programming, (7) pipeling, (8) storage hierarchy and virtual memory, (9) input/output, (10) different forms of parallelism including instruction level parallelism, data-level parallelism using both vectors and message-passing multi-processors, and thread-level parallelism using shared memory multiprocessors. Basic cache coherence and synchronization.
+/
+Computer Operating Systems
+This course surveys methods and algorithms used in modern operating systems. Concurrent distributed operation is emphasized. The main topics covered are as follows: process synchronization; interprocess communication; concurrent/distributed programming languages; resource allocation and deadlock; virtual memory; protection and security; distributed operation; distributed data; performance evalaution.
+/
+Senior Project
+Design and implementation of a significant piece of work: software, hardware or theory. In addition, emphasis on technical writing and oral communication skills. Students must have an abstract of their Senior Project, which is approved and signed by a Project Adviser, at the end of the second week of Fall classes.
+/
+Database and Information Systems
+This course provides an introduction to the broad field of database and information systems, covering a variety of topics relating to structured data, ranging from data modeling to logical foundations and popular languages, to system implementations. We will study the theory of relational and XML data design; the basics of query languages; efficient storage of data, execution of queries and query optimization; transactions and updates; web-database development; and "big data" and NoSQL systems. 
+/
+Internet and Web Systems
+This course focuses on the challenges encountered in building Internet and web systems: scalability, interoperability (of data and code), security and fault tolerance, consistency models, and location of resources, services, and data. We will examine how XML standards enable information exchange; how web services support cross-platform interoperability (and what their limitations are); how to build high-performance application servers; how "cloud computing" services work; how to perform Akamai-like content distribution; and how to provide transaction support in distributed environments. We will study techniques for locating machines, resources, and data (including directory systems, information retrieval indexing, ranking, and web search); and we will investigate how different architectures support scalability (and the issues they face). We will also examine ideas that have been proposed for tomorrow's Web, and we will see some of the challenges, research directions, and potential pitfalls. An important goal of the course is not simply to discuss issues and solutions, but to provide hands-on experience with a substantial implementation project. This semester's project will be a peer-to-peer implementation of a Googe-style search engine, including distributed, scalable crawling; indexing with ranking; and even PageRank. As a side-effect of the material of this course you will learn about some aspects of large-scale software development assimilating large APIs.
+/
+Interactive Computer Graphics
+This course focuses on programming the essential mathematical and geometric concepts underlying modern computer graphics. Using 3D interactive implementations, it covers fundamental topics such as mesh data structures, transformation sequences, rendering algorithms, and curve interpolation for animation. Students are also introduced to two programming languages widely used in the computer graphics industry: C++ and GLSL. The curriculum is heavily project-based, and culminates in a group project focused on building an interactive first-person world exploration application using the various real-time interaction and rendering algorithms learned throughout the semester.
+/
+Networked Systems
+This course provides an introduction to fundamental concepts in the design and implementation of networked systems, their protocols, and applications. Topics to be covered include: Internet architecture, network applications, addressing, routing, transport protocols, network security, and peer-to-peer networks. The course will involve written assignments, examinations, and programming assignments.. Students will work in teams to design and implement networked systems in layers, from routing protocols, transport protocols, to peer-to-peer networks.
+/
+Engineering Ethics
+In this course, students will study the social, political, environmental and economic context of engineering practice. Students will develop an analytical toolkit to identify and address ethical challenges and opportunities in the engineering profession, including studies of risk and safety, professional responsibility, and global perspectives. The course will begin with a foundation in the history of engineering practice and major Western ethical and philosophical theories. Students will then apply this material to both historical case studies, such as Bhopal, the NASA Shuttle Program, and Three Mile Island, as well as contemporary issues in big data, artificial intelligence, and diversity within the profession. Students will consider how engineers, as well as governments, the media, and other stakeholders, address such issues.
+/
+Writing Seminar
+Writing Seminar
+/
+Machine Learning
+Machine learning has been essential to the success of many recent technologies, including autonomous vehicles, search engines, genomics, automated medical diagnosis, image recognition, and social network analysis, among many others. This course will introduce the fundamental concepts and algorithms that enable computers to learn from experience, with an emphasis on their practical application to real problems. This course will introduce supervised learning (decision trees, logistic regression, support vector machines, Bayesian methods, neural networks and deep learning), unsupervised learning (clustering, dimensionality reduction), and reinforcement learning. Additionally, the course will discuss evaluation methodology and recent applications of machine learning, including large scale learning for big data and network analysis.
+/
+Advanced Topics in Natural Language Processing
+Different topics selected each offering; e.g., NL generation, question-answering, information extraction, machine translation, restricted grammar formalisms, computational lexical semantics, etc.
+/
+Robotics: Planning Perception
+This introductory course will present basic principles of robotics with an emphasis to computer science aspects. Algorithms for planning and perception will be studied and implemented on actual robots. While planning is a fundamental problem in artificial intelligence and decision making, robot planning refers to finding a path from A to B in the presence of obstacles and by complying with the kinematic constraints of the robot. Perception involves the estimation of the robots motion and path as well as the shape of the environment from sensors. In this course, algorithms will be implemented in Python on mobile platforms on ground and in the air. No prior experience with Python is needed but we require knowledge of data structures, linear algebra, and basic probability.
+/
+Computer Vision & Computational Photography
+This is an introductory course to Computer Vision and Computational Photography. This course will explore three topics: 1) image morphing, 2) image matching and stitching, and 3) image recognition. This course is intended to provide a hands-on experience with interesting things to do on images/videos. The world is becoming image-centric. Cameras are now found everywhere, in our cell phones, automobiles, even in medical surgery tools. Computer vision technology has led to latest innovations in areas such as Hollywood movie production, medical diagnosis, biometrics, and digital library. This course is suited for students from all Engineering backgrounds, who have the basic knowledge of linear algebra and programming, and a lot of imagination.
+/
+Advanced Topics in Computer Graphics and Animation
+The goal of the course is to review state-of-the art research in the fields of computer graphics and animation as well as provide students with working knowledge of how to convert theory to practice by developing an associated graphics/animation authoring tool. The course is comprised of primers, lectures, student presentations and the authoring tool group project. Each student will be responsible for presenting one primer and at least two SIGGRAPH papers to the class. Working in teams of two, students will design and develop an authoring tool that that facilitates the creation of a new type of user interaction, animation/simulation capability or 3D graphics special effect. Research papers published in the SigGraph Conference proceedings will provide the basis for the features/functionality/special effects that can be selected for implementation in the authoring tool. Each group will analyze the need and user requirements for the tool they plan to develop, prepare a formal software design document, construct a project work plan, develop the authoring tool functionality and user interface, test the design and demonstratthe authoring of associated content. A plug-in to standard authoring tools such as Maya or Houdini must also be developed to enable importing of appropriate assets and/or exporting of results.
+/
+Computer Architecture
+This course is an introductory graduate course on computer architecture with an emphasis on a quantitative approach to cost/performance design tradeoffs. The course covers the fundamentals of classical and modern uniprocessor design: performance and cost issues, instruction sets, pipelining, superscalar, out-of-order, and speculative execution mechanisms, caches, physical memory, virtual memory, and I/O. Other topics include: static scheduling, VLIW and EPIC, software speculation, long (SIMD) and short (multimedia) vector execution, multithreading, and an introduction to shared memory multiprocessors.
+/
+Networked Systems
+This course provides an introduction to fundamental concepts in the design and implementation of networked systems, their protocols, and applications. Topics to be covered include: Internet architecture, network applications, addressing, routing, transport protocols, network security, and peer-to-peer networks. The course will involve written assignments, examinations, and programming assignments.. Students will work in teams to design and implement networked systems in layers, from routing protocols, transport protocols, to peer-to-peer networks.
+/
+Advanced Topics in Algorithms and Complexity
+This course covers various aspects of discrete algorithms. Graph-theoretic algorithms in computational biology, and randomization and computation; literature in dynamic graph algorithms, approximation algorithms, and other areas according to student interests.
+/

@@ -1,0 +1,140 @@
+/
+Composition and Rhetoric
+Through the critical engagement of a variety of texts, including written, oral, and visual, this course prepares students to become careful readers, critical thinkers, and skilled writers. Drawing upon rhetorical theory, it emphasizes the practices of analytical reading, informed reasoning, effective writing, and sound argumentation
+/
+Inquiry
+An introduction to the value of research and to the role of research and scholarship in the life of an undergraduate student, including exposure to the opportunities available to participate in research and scholarship within the Liberty University undergraduate programs
+/
+Communications
+Communications
+/
+Information Literacy
+Information Literacy
+/
+Foundational Skills
+provides students with an introduction to Liberty University and to the academic core competencies that students attain by the point of graduation. 
+/
+Quantitative Reasoning
+Applying mathematical tools and analysis to practical context, particularly focusing on using proportions and ratios. Basic statistical tools are developed and employed, including graphs, descriptive statistics, the normal curve, the basics of inferential reasoning and investigating correlation. Financial applications are particularly emphasized, as is the use of spreadsheets.
+/
+Introduction to Biblical Worldview
+An introduction to the biblical worldview and contemporary moral issues. This course will introduce critical thinking skills. Religious and philosophical worldviews will also be explored.
+/
+Research
+A survey of knowledge and skills required for the conduct of research in either the humanities, sciences, or creative arts.
+/
+Evangelism and the Christian Life  2
+Special attention will be given to the theology of all aspects of evangelism including the follow-up. Various methods of approach and presentation will be considered
+/
+Natural Science Elective
+Natural Science Elective
+/
+Social Science Elective
+Social Science Elective
+/
+Old Testament Survey
+An introduction to the authorship and contents of the Old Testament books. Special attention will be given to important persons, places and events, as well as to key chapters in the Old Testament revelation.
+/
+New Testament Survey
+An introduction to the authorship and contents of the New Testament books. Special attention will be given to important persons, places, events, as well as to key chapters in the New Testament revelation.
+/
+Theology Survey I
+This is a general survey of Bible doctrine designed to synthesize and outline each of ten major areas of systematic theology, including prolegomena, bibliology, theology proper, Christology, angelology, and pneumatology.
+/
+Theology Survey II
+This is a continuation of general survey of Bible doctrine designed to synthesize and outline each of the ten major areas of systematic theology. Survey II includes anthropology, hamartiology, soteriology, ecclesiology and eschatology.
+/
+Technical Communication
+This course will teach students how to write documents representing the three main types of technical writing: operational (instructional), promotional (argumentative and analytical), and reportorial (expository, informational and analytical). Students will also evaluate and edit documents belonging to these categories by examining how well these documents serve their purpose for particular audiences in different cultural and social contexts.
+/
+Calculus and Analytic Geometry I
+Functions and graphs, exponential, logarithmic, inverse trigonometric, limits, the derivative, techniques of differentiation, continuity, applications of differentiation, L'Hopital's Rule, the integral.
+/
+Calculus and Analytic Geometry II
+Techniques of integration, improper integrals, applications of integration, introduction to differential equations, sequences, infinite series, parameterizations of curves.
+/
+University Physics I
+A calculus-based study of mechanics, gravitation, waves, and heat.
+/
+Introduction to Programming
+Introduction to structured programming and algorithms with an object-oriented language. Topics include input/ output, flow of control, functions, and an introduction to software engineering. Programming assignments are required. 
+/
+Advanced Programming
+Further development of discipline in program design, especially for larger programs. Introduction of pointers, simple data structures, recursion, internal sort/search methods. 
+/
+Algorithms and Data Structures
+Study of data structures such as linked lists, stacks, queues, trees, and graphs. Algorithms for manipulating such structures will be introduced and analyzed. Static and dynamic memory allocation. Access methods for sorting/searching, such as hashing and tree searching
+/
+Introduction to Embedded Systems
+Design of microcontroller-based embedded systems; interfacing from both a hardware and software perspective; and applications, including audio, data acquisition, and communication systems.
+/
+Computer Architecture
+Introduction to architecture and organization of computer systems. Topics include data and instruction representation, arithmetic and logical operations, processor and memory implementations, memory hierarchy (cache, main memory and secondary memory), simple pipelines and hardware applications of OS functions.
+/
+Embedded and Real-Time Systems Design
+This course will provide an introduction to the principles of real-time and embedded systems, the main components and design consideration. This course covers Embedded microcomputer systems; implementation of multitasking, synchronization, protection, and paging; operating systems for embedded microcomputers; design, optimization, evaluation, and simulation of digital and analog interfaces; real-time microcomputer software; applications, including data acquisition and control.
+/
+Advanced Embedded Systems Design
+The course provides an in-depth coverage of systematical development and synthesis of advanced embedded systems with emphasis on Field Programmable Gate Array (FPGA) and SoC technologies. The course will cover digital hardware system design, digital arithmetic, SoC design, high level synthesis and functional verification
+/
+Introduction to Computer Networks
+Emphasis is placed on network transport services and key protocols to include TCP, IP, and UDP. Topics include application of network design and implementation of robust performance based computer networks, and an introduction to wireless and mobile networks.
+/
+Introduction to Logic Design
+Introduction to combinational logic design, Boolean algebra, logic minimization, and Karnaugh maps with an emphasis on applying topics presented to design of registers, counters and finite state machines using CPLD's.
+/
+Introduction to Electrical and Electronic Circuits
+An introduction to lumped-parameter circuit elements in DC circuits. Topics include resistors (R), independent and dependent sources, capacitors (C), inductors (L), equivalent networks. Introduction to fundamental techniques used in DC circuit analysis, including Laplace transforms. Semiconductor electronic devices will also be introduced, with the focus being on the terminal characteristics of such devices. The two-terminal diodes (D) and the three-terminal transistors (Q) are studied in DC circuits.
+/
+AC Circuit Analysis
+Topics include AC steady state analysis, AC power, three phase circuits, and advanced circuit analysis using Fourier analysis. Semiconductor electronic devices will also be introduced, with the focus being on the terminal characteristics of such devices. The two-terminal diodes (D) and the three-terminal transistors (Q) are studied in AC circuits. Laboratory experiments are an essential and integral part of the theory students will learn in this course. Experiments will focus on building, measuring, and calculating the predicted responses of AC circuits.
+/
+Signals and Systems
+Analysis techniques for system and signal modeling using numerical analysis software. Topics include introduction to convolution, Fourier series, Fourier transforms, LaPlace transforms with application to determine system response, filters, sampling, linearity, time invariance and stability.
+/
+Electronics
+Introduction to electronic devices including diodes, transistors and operational amplifiers and their applications in electrical circuits.
+/
+Communications Systems
+Analysis and design of communication systems and transmission of information over various medium. Topics include modulation, sampled signals, conversion (ADC and DAC), random processes and noise.
+/
+Engineering Economy
+Introduction to the principles of time value of money, analysis of investments, break-even concepts, risk analysis, alternatives analysis, tax implications, certainty and uncertainty.
+/
+Introduction to Engineering
+This course will introduce students to the engineering profession and the study skills necessary to succeed in the rigorous course of study to achieve an engineering degree. Students will be taught how to think critically and reason analytically in order to skillfully navigate the course of instruction they have chosen to pursue and to be equipped for success in that profession. This is a required course for all engineering majors.
+/
+Introduction to Engineering Fundamentals
+Introduction to engineering problem solving techniques, the engineering design process, and the engineering profession. This course also introduces students to the various engineering disciplines offered at Liberty University and enables them to chart a path to success in achieving their engineering degree, as well as helping students understand what they must do to excel in their studies. This course also serves non-engineering students by exposing them to an overview of the engineering discipline. This course is mandatory for all engineering majors.
+/
+Engineering Design Introduction
+Introduction to the design process. Topics include system engineering, team dynamics, design specifications, conceptual design, scheduling, developing a business plan, market survey, and budgeting.
+/
+Engineering Design I
+The second course in the design sequence of formal design courses that emphasizes the design process. Student teams carry a project from inception to completion to satisfy the need of a client. In addition to technical design, factors such as safety, economics, and ethical and societal implications are considered.
+/
+Engineering Design II
+Engineering Design II
+/
+Calculus with MATLAB
+This course is intended to be an introductory MATLAB Lab in which the topics of arithmetic, algebra, plotting, preparation of m-files, limits, derivatives, related rates, optimization, integration, and other engineering-related topics will be investigated
+/
+Probability and Statistical Methods for Engineering
+Introduction to applied probability and the principles and methodologies of statistical inference. Topics include methods of data analysis, point and interval estimation; test of hypotheses, correlation, regression and an introduction to analysis of variance methods.
+/
+Applied Linear Algebra
+An elementary introduction to the essentials of linear algebra for SECS majors. Systems of linear equations and matrices, determinants, Euclidean vector spaces, eigenvectors, least-squares data fitting, diagonalization and numerical methods.
+/
+Calculus and Analytical Geometry III
+Geometry of vectors, paths, curvature, functions of several variables, graphs and parametric surfaces, partial derivatives, optimization, multiple integrals, curl, divergence, gradient, line and surface integrals, Theorems of Green, and Stokes, and Gauss.
+/
+Introduction to Discrete Mathematics
+Logic and proofs, set theory, Boolean algebra, functions, sequences, matrices, algorithms, modular arithmetic, mathematical induction and combinatorics.
+/
+Differential Equations
+Differential equations of the first order and first degree, linear equations, variation of parameters, methods of undetermined coefficients, inverse operators, Laplace transforms, systems of differential equations, and applications.
+/
+University Physics II
+Calculus-based study of electromagnetism, optics and select topics in modern physics.
+/
+

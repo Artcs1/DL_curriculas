@@ -1,0 +1,69 @@
+/
+Introduction to Information Science	
+Explores the definition, impact, and history of information and information transmission. Introduces technology used to create, read, store, retrieve and transmit information. Analyzes societal institutions, techniques, and processes for the creation, distribution and management of information. 
+/
+Fundamentals of Information Technology	
+Students will learn the fundamentals of information technology concepts and applications, understand and utilize emerging technologies to meet society's rapidly changing information needs, and apply these in solving various information problems. 
+/
+Introduction to Data Analytics	
+Introduces foundational concepts for data analytics. Topics include basic computer programming, statistical understanding and application, data structure, data types, data retrieval from various sources and forms, data cleaning/processing, data visualization, and group manipulations. 
+/
+Database Design for Information Organizations	
+Introduction to the theory and application of database design including information storage and retrieval, data modeling, record structure, data normalization, data security, relational database models, query language, client-server systems, data warehousing and data mining. The social, technological and organizational needs in database design will be examined. 
+/
+Internship in Information Studies	
+Provides an opportunity for student synthesis of principles and theories acquired in coursework and application of these principles and theories in a working environment. 
+/
+Information Studies Capstone
+Introduces project management terms, techniques, and effect on the success of information technology projects.
+/
+Introduction to Information Visualization	
+Information visualization is becoming key to LIS, due to the growing need for visual literacy and to the growing demand for data resources in almost all disciplines. Covers basics of developing and evaluating information visualizations and the importance of data accuracy. 
+/
+Advanced Data Analytics
+Application of data analytic theories and models to solve real world problems using various unsupervised and supervised models. Topics include cluster analysis, association rule mining, random forest classifier, neural networks, and naive Bayesian classifiers.
+/
+Design and Implementation of Web-based Information Services
+Design fundamentals for web-based information services; information services; implementation of storage, access, and distribution systems; knowledge representation methods; metadata and information structures; connectivity infrastructure; characteristics and behavior of networked audiences; systems use and usability.
+/
+Dynamic Web Development
+The interactive web design server interaction with special emphasis on database connectivity and application development on the internet.
+/
+Information and Digital Literacy
+This course is intended to make students more knowledgeable consumers of information, particularly when using internet resources and social media. Exercises in the use and evaluation of information resources, online searching, information ethics, visual literacy, and copyright/fair use are emphasized.	
+/
+Online Information Retrieval
+Structure, content, and application of online databases for education, research, business, and public use. Principles and techniques for the evaluation of online databases and services. Document representation, information need specification and query formulation for online information retrieval.
+/
+Competitive Intelligence
+An introduction to competitive intelligence in various contexts, appropriate for non-profit and for-profit environments. Topics will include developing and implementing the competitive intelligence process, accessing and validating sources, information gathering, auditing, and decision making with special emphasis on strategies, systems, and ethics in competitive intelligence. 
+/
+Government Information
+Introduces students to current policy, technology, and social factors that drive government resource and information production, distribution, and access. Topics include transformation of government information; information discovery skill sets, models, and techniques; evaluation of information use and value; and government information issues (e.g. access, authentication, privatization, preservation). 
+/
+Technical Writing
+Focuses on the forms of report writing most frequently encountered in research and industry.
+/
+Principles of Economics-Macro
+The functioning and current problems of the aggregate economy: determination and analysis of national income, employment, inflation and stabilization; money and banking, monetary and fiscal policy; and aspects of international interdependence. 
+/
+Principles of Economics-Micro
+Goals, incentives and allocation of resources resulting from economic behavior with applications and illustrations from current issues: operation of markets for goods, services and factors of production; the behavior of firms and industries in different types of competition and income distribution. 
+/
+Functions and Modeling for Business, Life and Social Sciences
+Study of equations and functions (linear, polynomial, rational, exponential, logarithmic) from various perspectives (symbolic, verbal, numerical, graphical); digital techniques for graphing functions, solving equations, and modeling data using regressions. 
+/
+Calculus I for Business, Life and Social Sciences
+Topics in differentiation and integration of polynomial, exponential and logarithmic functions. Applications to the business, life and social sciences. 
+/
+Public Speaking
+Develops skill in the composition and delivery of speeches suitable to various common speech situations and criteria for judging speeches heard or read. Topics include: nature of public speaking; choosing and presenting a topic; analyzing an audience; organizing and outlining.
+/
+Programming for Non-Majors with C
+Introduction to the design and implementation of computer programs. Emphasis on problem solving. Topics include: variables and constants, arithmetic and Boolean expressions, conditional statements, loops, procedures and functions, arrays, standard libraries, input and output, structures, and program documentation.
+/
+Statistical Concepts in Anthropology
+An introduction to anthropological statistics. Emphasis will be placed on anthropological research design and analysis of anthropological data. 
+/
+Econometric Analysis
+Classical statistical inference; means, proportions, variances, analysis of variance and covariance; regression and correlation analysis; normal, binomial, chi-square, t, F, Poisson, exponential distributions.

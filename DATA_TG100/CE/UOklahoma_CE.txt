@@ -1,0 +1,106 @@
+/
+Principles of English Composition
+Systematic analysis of the components of effective writing, with regular practice and close individual assistance.
+/
+General Chemistry Lab
+Topics covered: basic measurement, atomic theory, electron configuration, periodicity, chemical reactivity and energetics, stoichiometry, gas laws and changes in state, bonding and molecular structure. 
+/
+Differential and Integral Calculus I 
+Limits and continuity, differentiation, applications of differentiation to optimization and curve sketching, integration, the fundamental theorem of calculus, the substitution rule, applications of integration to computation of areas and volumes.
+/
+United States to 1865 
+A general survey of United States history to the end of the Civil War, with emphasis upon national political, diplomatic, economic, constitutional, social and intellectual developments. 
+/
+Freshman Engineering Experience  
+Freshman Engineering Experience  
+/
+Principles of English Composition
+Principles of English Composition
+/
+Differential and Integral Calculus II 
+The natural logarithmic and exponential functions, indeterminate forms, techniques of integration, improper integrals, parametric curves and polar coordinates, infinite sequences and series, vectors in two and three dimensions.
+/
+General Physics for Engineering and Science Majors 
+Vectors, kinematics and dynamics of particles, work and energy systems of particles, rotational kinematics and dynamics, oscillations, gravitation, fluid mechanics, waves.
+/
+American Federal Government
+A study of the structure, organization and powers of the executive, legislative and judicial branches including relationships between state and national governments. Emphasis upon political processes and popular government; elections, political parties, pressure groups, voting behavior.
+/
+Introduction to Computer Programming for Programmers
+Introduction to the design and implementation of computer software with an emphasis on abstraction and program organization for students with some prior programming experience. Topics include: variables and constants, arithmetic and Boolean expressions, conditional statements, repetition, methods, arrays, linear and binary search, basic sorting algorithms, object-oriented programming, documentation, and testing. 
+/
+Differential and Integral Calculus III 
+Vectors and vector functions, functions of several variables, partial differentiation and gradients, multiple integration, line and surface integrals, Green-Stokes-Gauss theorems. 
+/
+General Physics for Engineering and Science Majors
+Temperature, heat, thermodynamics, electricity, magnetism, optics.
+/
+Programming Structures and Abstractions	
+The design and implementation of computer programs using disciplined methodologies. Use of several abstract data types. Software reuse through encapsulation, composition, aggregation, inheritance, polymorphism, and generics. Topics include recursion, GUI development, file processing, and unit testing. A program design tool will be used. Introduction to ethics in computer science, including philosophical ethics theories.
+/
+Digital Design
+Number systems, Boolean algebra, minimization procedures, combinational logic functions, introduction to sequential logic design, finite state machines and clocked (synchronous) sequential circuits. Analysis, synthesis and implementation are appropriately emphasized.
+/
+Introduction to Ordinary Differential Equations	
+First order ordinary differential equations, linear differential equations with constant coefficients, two-by-two linear systems, Laplace transformations, phase planes and stability. 
+/
+Data Structures	
+Representation, analysis and implementation of data structures and associated algorithms including: algorithm complexity, sorting algorithms, lists, stacks, queues, search trees (AVL, Red-Black, Splay, 2-3), Heaps, Graphs, and Hashing. Written communications required in some projects. Ethical issues and tools and techniques used in writing secure applications will also be discussed.
+/
+Discrete Structures	
+Introduction to the theory of discrete structures useful in computer science. Topics include combinatorics, relations, functions, computational complexity, recurrences, and graph theory. 
+/
+Digital Signals and Filtering	
+Digital signals and filter, discrete Fourier A and Z transforms, sampling. 
+/
+Electrical Circuits I	
+Introduction to circuit elements and the laws of electrical science. Loop and nodal analysis solution methods. Thevenin and Norton equivalent circuits. Superposition and source transformation methods. Laplace transform analysis of electrical circuits. 
+/
+Professional Development
+Develop an understanding of engineering ethics, teamwork, leadership, and professional responsibility through the concepts of contemporary, social, and global issues. 
+/
+Probability, Statistics and Random Processes	
+Covers the role of statistics in electrical and computer engineering and includes substantial exposure to applications appropriate to the discipline: basic probability; random variables, vectors and processes; time averages, expectations and laws of large numbers; stationarity, autocorrelation and spectral analysis; minimum mean squared error estimation; detection and linear filtering; IID, Markov, independent increment, counting, Gaussian and Poisson random processes.
+/
+Electrical Circuits II	
+Analysis of electrical circuits in both time and frequency domains. Continuation of AC circuit theory, use of two port network theorems, impulse response, convolution, and differential equations. Laplace and Fourier transform analysis of electrical circuits.
+/
+Electrical and Computer Engineering Circuits Laboratory	
+Electrical laboratory procedures, circuit construction, debug and experimental Confirmation of the principles of circuit theory. Introduction to use of laboratory instrumentation, including skills in the use of the oscilloscope in the evaluation of DC and AC circuits. Use and application of diodes, operational amplifiers and programmable logic devices.
+/
+Introductory Electronics
+Small and large signal characteristics and models of electronic devices; analysis and design of elementary electronic circuits. 
+/
+Microprocessor System Design
+Review of clocked sequential circuits; MSI/LSI devices and applications, including registers, busing, combinational functions; use of microprocessors and logic design using microprocessors. Emphasizes assembly of full functional units into workable systems. 
+/
+Signals and Systems
+Linear systems; time domain analysis; frequency domain analysis; Fourier, Laplace and Z-transforms; introduction to communications and control.
+/
+Electrical and Computer Engineering Electronics Laboratory
+Electronic analog circuit design, simulation, construction, debugging and measurement of circuit behavior and noise using advanced instrumentation techniques; statistics-based circuit reliability theory; independent design skills development and technical writing. 
+/
+Linear Algebra I
+Systems of linear equations, determinants, finite dimensional vector spaces, linear transformations and matrices, characteristic values and vectors.
+/
+Digital Design Laboratory	
+Design of digital systems with integrated circuits and MSI/LSI and microprocessor interfacing.
+/
+Computer Architecture
+Covers basic concepts of computer system design and communication between components, along with current and historical examples of computer architecture. 
+/
+Laboratory  (Special Projects)
+Individually supervised special engineering problems of experimental nature. 
+/ 
+Optical Engineering
+Underlying theory and design of optical systems. Interference, diffraction and coherence phenomena will be examined as a basis for studying the limits of optical system performance. Other topics include a detailed study of polarization, the interaction of light with various media and geometrical optics. 
+/
+Introduction to Control System Engineering
+Analysis and synthesis of control systems; control systems performance and applications.
+/
+Software Requirements and Specifications
+Students gain technical and professional skills by performing requirements engineering. Learn the tools, techniques, and methods for modeling software systems. Students practice written and oral communication skills and consider the impact of computing on individuals, organizations and society, and demonstrate their ability to engage in lifelong learning by gaining background in a domain outside of their own.
+/
+Theory of Computation
+Introduction to abstract machine theory and formal language theory. Topics include Turing machines, finite/pushdown automata, deterministic versus nondeterministic computations, context-free grammars, and mathematical properties of these systems.
+/

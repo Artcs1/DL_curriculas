@@ -1,0 +1,94 @@
+/
+World Literature I 
+A survey of representative works of world literature from ancient times to the end of the 17th century, with emphasis on critical reading and writing skills.
+/
+Principles of Public Speaking
+The critical study and practice of public speaking emphasizing the art of rhetoric from a humanistic perspective. Areas of study include research and preparation, ethics, audience analysis, and presentation of speeches.
+/
+Programming Principles I 
+Provides a fundamental understanding of the development of computer solutions to solve problems with emphasis on structured, top-down development and testing. Concepts include the following: an overview of computer system design, problem solving and procedural abstraction design of computer solutions, algorithm development using simple data types and control structures, implementation and testing of programmed problem solutions, design modularization using subprograms and structured and user-defined data types.
+/
+Programming Principles II 
+Emphasis is on advanced techniques such as recursion, regular expressions, refactoring, object oriented programming concepts and constructs, reusing components, templates/generics, interfaces and classes. Experiences include use of an integrated development environment and shared (code) repositories. 
+/
+Computers, Ethics, and Society 
+An investigation of issues related to the use of computers and computer technology including the following: computer ethics, professional standards, and social impact of computer applications. Some topics to be researched include: philosophical ethics, the application of ethical theory to situations involving computer technology, codes of conduct, privacy, data protection, employee privacy, data regulation, artificial intelligence, copyright/patent issues, computer malfunction liability, computer crime and responsibilities of computer users.
+/
+Discrete Mathematics 
+Covers important discrete mathematical objects such as sets, relations and functions, graphs and trees. An introduction to mathematical logic and reasoning, and the concept of an algorithm and its complexity will be covered. 
+/
+Calculus II 
+Techniques and applications of integration; transcendental functions; indeterminate forms; improper integrals; parametric equations and polar coordinates; sequences and series; Taylor's theorem.
+/
+Introduction to Statistics I 
+Introduction to Statistics I 
+/
+Healthful Living
+Introduces students to fundamental concepts associated with healthful living throughout the life span in modern society. Course content focuses upon the promotion of health and wellness within individuals, families and communities through an understanding of healthful living, development of healthy lifestyles and avoiding or overcoming harmful habits.
+/
+First Year Seminar 
+Seminar designed to develop foundational information literacy skills and apply them to academic inquiry, academic planning, and campus engagement. 
+/
+Principles of Biology II 
+An introduction to evolution and its role in creating biodiversity. Students will explore how evolution creates a hierarchical pattern of shared ancestry among all living things. Topics include natural selection and evolutionary change, speciation, phylogeny and classification, and the structure and function of the major forms of life (domains, kingdoms, and major phyla).
+/
+Principles of Biology II Lab
+Principles of Biology II Lab
+/
+General Chemistry II
+General Chemistry II
+/
+General Historical Geology 
+Discusses the origin and geological history of Earth. Methods of interpretation, fossils, geologic time measurements, time scales, physical and organic development of Earth are taught. 
+/
+Introduction to Physics II 
+An introductory course which will include electrostatics, electric current and circuits, and electromagnetism, and may also include optics and modern physics. Elementary algebra and trigonometry will be used. Laboratory exercises supplement the lecture material.  
+/
+Physics Lab II
+Physics Lab II
+/
+Introduction to Physics II 
+An introductory course which will include electrostatics, electric current and circuits, and electromagnetism, and may also include optics and modern physics. Elementary calculus will be used. Laboratory exercises supplement the lecture material. 
+/
+Data Structures 
+Introduction to abstract data types such as lists, stacks, queues, and trees, and algorithm analysis. 
+/
+Systems Software 
+Provides basic concepts of computer software systems including operating systems, language translators, utilities, linkers and loaders, system component interface, diverse programming language concepts, and interfaces. 
+/
+Theoretical Foundations 
+A study of languages, formal grammars, and abstract representations of computation. 
+/
+Database Systems
+The fundamental concepts of database management systems (DBMS) including logical and physical database organization, date models and design issues. Emphasis will be placed upon the rational data model including design and implementation using commercial database systems.
+/
+Algorithm Design and Analysis 
+An in-depth study of the design, implementation, testing, and analysis of algorithms. 
+/
+Computer Architecture
+This course will focus on the following topics: Computer Organization (RISC, CISC architecture), Assembly Language Programming, Processor, Memory and I/O Architecture, Parallel Architectures. 
+/
+Data Communications and Networking 
+Fundamental concepts of data communications including architecture models, protocol suites, network programming, signal and data transmissions, error detection, and performance analysis. 
+/
+Object Oriented Design 
+Introduction to concepts, methods, and current practice of object oriented design and analysis. Topics include the study of the Unified Modeling Language (UML), which has become an industry standard notation. UML topics will include use cases, diagramming notation (class, object, sequence) and object state diagrams. Students will use UML to design and implement individual and small group projects. Additional topics include understanding design patterns in building applications.
+/
+Computer Security 
+Computer security theory and practice fundamentals including methods of attack, defending against attacks, privacy vs security, methods of encryption, authentication, writing secure code, web security, and network security.
+/
+Distributed Web System Design 
+This course involves programming methodologies for the World Wide Web. Topics include: Client-side programming, distributed transactions, remote procedure calls, component objects, server side programming and network load balancing. 
+/
+Software Engineering
+This course serves as a major integrative, capstone experience for students and requires teamwork. A study of the development and management of software; strategies and techniques of design, testing, documentation and maintenance. 
+/
+Logic Circuits and Microprocessor
+Digital system and Logic Circuits Design. Topics include the study of the Logic gate, Boolean Functions representation and Minimization, Combinational and Sequential logic circuits, Programmable Logic Arrays, Data Representation, RAM, ROM, and Cache Memories, Register Transfer Language and micro-operations, Hardware Description Language (VHDL), Microprocessor Organization and Design, Assembly Language, Computer Aided Design Tools and Filed Programmable Gate Arrays.
+/
+Selected Topics 
+Specialized study in a selected area of Computer Science. Graduate students will be given an extra assignment determined by the instructor that undergraduates will not be required to do.
+/
+Discrete Simulation
+Introduction to discrete simulation models and their implementation on computers. Topics include modeling techniques, experiment design, analysis and validation of results. Students will be exposed to one or more computer simulation languages.
+/

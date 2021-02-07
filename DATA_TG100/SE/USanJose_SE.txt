@@ -1,0 +1,106 @@
+/
+American Cultures to 1877
+American culture examined through political, literary, artistic, economic and social development. American values, ideas and institutions from popular culture as well as traditional sources
+/
+American Cultures 1877 to present
+American culture examined through political, literary, artistic, economic and social development. American values, ideas and institutions from popular culture as well as traditional sources.
+/
+Engineering Reports
+Regular technical writing assignments and company-focused oral presentations while integrating effects of environmental factors as they relate to products, systems and engineering processes.
+/
+The Living World
+Provides students with an understanding of the most fundamental concepts of modern biology including ecology (the interaction between organisms and their environment), human inheritance, the structure and function of living organisms, evolution, strategies for survival and reproduction, and biotechnology.
+/
+Argument and Analysis
+English 1B is a writing course that focuses on argumentation and analysis. Through the study of literary, rhetorical, and professional texts, students will develop the habits of mind required to write argumentative and critical essays. Particular emphasis is placed on writing and reading processes. Students will have repeated practice in prewriting, drafting, revising, and editing, and repeated practice in reading closely in a variety of forms, styles, structures, and modes.
+/
+Calculus I
+Introduction to calculus including limits, continuity, differentiation, applications and introduction to integration. Graphical, algebraic and numerical methods of solving problems.
+/
+Calculus II
+Definite and indefinite integration with applications. Sequences and series. Graphical, algebraic and numerical methods of solving problems. 
+/
+Calculus III
+Functions of more than one variable, partial derivatives, multiple integrals and vector calculus. Graphical, algebraic and numerical methods of solving problems
+/
+Discrete Mathematics
+Sets, logic, methods of proof including mathematical induction, functions, relations, elementary combinatorics, probability, Boolean algebras.
+/
+General Physics/Mechanics
+A calculus-based treatment of particle kinematics and dynamics, work, energy, momentum, rotational motion, equilibrium, and simple harmonic motion
+/
+General Physics/Electricity and Magnetism
+A calculus-based introduction to electricity and magnetism, covering electric charges, electric and magnetic fields, dc and ac circuits, and electromagnetic waves. 
+/
+Differential Equations and Linear Algebra
+Matrices, determinants, systems of linear equations, vector geometry, linear transformations, eigenvalues and eigenvectors, diagonalization, first order differential equations, linear systems of differential equations, higher order differential equations, Laplace transforms.
+/
+Introduction to Combinatorics
+Sets, permutations, combinations, probability, mathematical induction, counting techniques, generating functions, partitions, recurrence relations, inclusion-exclusion. Polya's theorem and applications to computer science, mathematics, engineering and physical sciences.
+/
+Engineering Probability and Statistics
+Probability theory, graphical displays of data, graphical methods of comparisons of samples and hypotheses testing. Statistical estimation and inference. Uses graphical statistical packages.
+/
+Applied Probability and Statistics I
+Descriptive and inferential statistics. Collection and analysis of data, discrete and continuous probability models, random variables, Central Limit Theorem, confidence intervals, hypothesis testing.
+/
+Introduction to Programming
+Basic skills and concepts of computer programming in an object-oriented approach using Java. Classes, methods and argument passing, control structures, iteration. Basic graphical user interface programming. Problem solving, class discovery and stepwise refinement. Programming and documentation style. Weekly hands-on activity.
+/
+Introduction to Data Structures
+Stacks and queues, recursion, lists, dynamic arrays, binary search trees. Iteration over collections. Hashing. Searching, elementary sorting. Big-O notation. Standard collection classes
+/
+Introduction to Engineering
+Introduction to engineering through hands-on design projects, case studies, and problem-solving using computers. Students also acquire non-technical skills, such as team skills and the ability to deal with ethical dilemmas.
+/
+Assembly Language Programming
+Assembly programming; assembly-C interface; CPU and memory organization; addressing modes; arithmetic, logic and branch instructions; arrays, pointers, subroutines, stack and procedure calls; software interrupts; multiplication, division and floating point arithmetic.
+/
+Computer Organization and Architecture
+Introduction to computer organization and architecture, system buses, internal memory and external memory, input/output, central processing unit CPU, instruction sets, CPU structure and function, RISC, control unit.
+/
+Software Engineering I
+Why software engineering? What is software engineering? Software development lifecycle activities: project planning and management requirements analysis, requirement specification. Software design, software testing, verification, validation, and documentation. Software quality assurance and review techniques, software maintenance, team-based projects
+/
+Software Engineering II
+Software Architecture, Software Technical Metrics, evaluating products, processes, and resources, improving predictions, products, processes, and resources. Advanced topics such as: Formal Methods, Software Reuse, Reengineering, Client/Server Software Engineering, Computer-Aided Software Engineering, Team-Based Projects.
+/
+Computer Networks I
+Comparative evaluation of network architecture, layering model, standards, protocol examples for ISO and TCP/IP layers. Network applications, transport layer protocols, Internet routing, data link and physical transmissions. Applications in world wide web, file transfer, electronic mail, peer-to-peer and other areas.
+/
+Software Engineering Process Management
+Integrated approach to managing development within small teams; including mission statement, synthesis of design concepts, tradeoff studies, risk assessment and the interactions encountered in the optimal design, development, manufacture and test of systems
+/
+Enterprise Software Platforms
+Introduction to enterprise software systems. Covers network operating systems, DBMS, transaction monitors, groupware, distributed objects, system management and the Web.
+/
+Software Quality Engineering
+Software testing and quality assurance engineering concepts, processes, models, criteria, and methods. Software unit testing, integration, function validation, system performance and reliability evaluation; Software security testing methods and tools; software quality management, control systems, standards, and evaluation metrics.
+/
+Senior Design Project I
+Senior Design Project I
+/
+Senior Design Project II
+Senior Design Project II
+/
+Global and Social Issues in Engineering
+Interdisciplinary seminar treating social and global impacts of technology and engineering
+/
+Data Structures and Algorithms
+Implementations of advanced tree structures, priority queues, heaps, directed and undirected graphs. Advanced searching and sorting (radix sort, heapsort, mergesort, and quicksort). Design and analysis of data structures and algorithms. Divide-and-conquer, greedy, and dynamic programming algorithm design techniques.
+/
+Operating Systems
+Fundamentals: Contiguous and non-contiguous memory management; processor scheduling and interrupts; concurrent, mutually exclusive, synchronized and deadlocked processes; files. Substantial programming project required
+/
+Object-Oriented Design
+Design of classes and interfaces. Object-oriented design methodologies and notations. Design patterns. Generics and reflection. Exception handling. Concurrent programming. Graphical user interface programming. Software engineering concepts and tools. Required team-based programming assignment.
+/
+Introduction to Database Management Systems
+Current, classical database systems. Entity-relationship and enhanced entity models. Relational model, algebra, calculus. Current, emerging SQL standard. Embedded, Dynamic SQL. Application perspective on transactions and security. Interactive and programmatic interfaces to database systems. Application programming project using commercial database system.
+/
+Information Security
+Fundamental security topics including cryptography, protocols, passwords, access control, software security, and network security. Additional topics selected from multilevel security, biometrics, tamper-resistant hardware, information warfare, e-commerce, system evaluation and assurance, and intrusion detection.
+/
+Computer and Human Interaction
+Introduction to human/computer interaction, paradigms for interaction, human performance capabilities, computer input/output device analysis and design, pattern recognition 3D audio, 3D visualization, application to virtual reality and multimedia.
+/

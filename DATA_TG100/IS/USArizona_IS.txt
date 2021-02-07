@@ -1,0 +1,120 @@
+/
+Student Success in Business
+Introduces students to resources that help them to succeed in the W. P. Carey School of Business
+/
+Computer Applications and Information Technology
+Introduces business information systems from a business intelligence perspective and the uses of application software with emphasis on database and spreadsheet packages for efficient and effective problem solving.
+/
+First-Year Composition
+Critical reading and writing; emphasizes strategies of academic discourse. Research paper required.
+/
+Brief Calculus
+Differential and integral calculus of elementary functions with applications.
+/
+Introduction to Psychology
+Major areas of theory and research in psychology. Requires participation in department-sponsored research or an educationally equivalent alternative activity.
+/
+Music as Political Discourse: Reggae, Calypso, and Hip Hop
+This is a reading and writing intensive course that employs critical thought that explores African Diaspora popular music as a medium of social and political expression. It examines the political content of Reggae, Calypso and Hip Hop and their role in triggering and influencing popular discourse in the Caribbean and the USA. Course material will analyze the interrelationships among the musical forms and their role in fostering Black and Pan African Cultural Identity, Political Consciousness and World Peace.
+/
+Introduction to Human Communication
+Topics-oriented introduction to basic theories, dimensions, and concepts of human communicative interaction and behavior.
+/
+Macroeconomic Principles
+Basic macroeconomic analysis. Economic institutions and factors determining income levels, price levels, and employment levels.
+/
+Advanced First-Year Composition
+Concentrated composition course for students with superior writing skills; intensive reading; research papers; logical and rhetorical effectiveness.
+/
+Mathematics for Business Analysis
+Topics in business analysis, including: Lagrange multipliers, linear programming, linear algebra, intermediate probability, random variables, discrete distributions, and continuous distributions.
+/
+Introduction to Psychology 
+Major areas of theory and research in psychology. Requires participation in department-sponsored research or an educationally equivalent alternative activity.
+/
+Relational Communication
+Explores communication issues in the development of personal relationships. Current topics concerning communication in friendship, romantic, and work relationships.
+/
+Uses of Accounting Information I
+Introduces the uses of accounting information focusing on the evolution of the business cycle and how accounting information is used for internal and external purposes.
+/
+Microeconomic Principles
+Basic microeconomic analysis. Theory of exchange and production, including the theory of the firm.
+/
+Business Statistics
+Introduces methods of statistical description, inference, probability, sampling, hypothesis testing and regression analysis with focus on business application.
+/
+Elementary Latin
+Basic Latin grammar with an emphasis on developing reading skills. For beginning students only.
+/
+Introduction to Environmental Science
+Introduces the interconnected nature of Earth's hydrosphere, lithosphere (soils and rocks), atmosphere, and biosphere.
+/
+Introduction to Information Systems
+Survey course introducing the competitive and strategic uses of information systems, how information systems are transforming organizations and their management, and the issues, difficulties, and opportunities facing the technology professional and business manager today.
+/
+Uses of Accounting Information II
+Introduces the uses of accounting information focusing on the evolution of the business cycle and how accounting information is used for internal and external purposes.
+/
+Introduction to Environmental Science
+Introduces the interconnected nature of Earth's hydrosphere, lithosphere (soils and rocks), atmosphere, and biosphere.
+/
+Advanced Linear Algebra
+Fundamentals of linear algebra, dual spaces, invariant subspaces, canonical forms, bilinear and quadratic forms, and multilinear algebra.
+/
+Business Information System Development I
+Systems Development Life Cycle (SDLC) tools, techniques, and methodologies used to plan and analyze the needs of modern business information system development.
+/
+Business Database Systems Development
+Focuses on business database and data warehousing systems, development and management. Topics include capturing business requirements using data modeling, SQL, data security, operational and analytical data stores and data integrity.
+/
+Marketing and Business Performance
+The dynamic role of marketing within society and organizations. Emphasizes frameworks and analytical tools that ensure customer focus and drive organizational performance.
+/
+Global Supply Operations
+Explores modern global integrated supply chain management. Covers traditional supply chain topics such as procurement, inventory management, operations, quality management, logistics and transportation. Also discusses issues related to sustainability, humanitarian logistics, ethical business practices and supply chain analytics in the context of evolving supply chains around the world. Students discover how business processes, performance metrics and modern supply chain IT tools aid in the management and growth of effective and efficient supply chains.
+/
+Theory of Numbers
+Prime numbers, unique factorization theorem, congruences, Diophantine equations, primitive roots, and quadratic reciprocity theorem.
+/
+Business Information System Development II
+Provides a clear understanding of the Systems Development Life Cycle (SDLC) tools, techniques, and methodologies used to design, implement, and support modern business information systems development.
+/
+Web Technologies for the Enterprise
+Modern Web application technologies for the enterprise. Covers development of Web applications for handling business transactions and strategies including the use of cloud-based applications.
+/
+Business Writing
+Advanced interdisciplinary writing course designed to improve the workplace writing competence of W. P. Carey School of Business professional and preprofessional students. Lecture, discussion, case studies, cooperative learning, interactive, Internet, student presentations
+/
+Problem Solving and Actionable Analytics
+Provides foundational skills for exploring unstructured business problems. Covers techniques to approach decision making in a systematic manner, enabling students to become more comfortable in handling tasks or projects that are not initially well defined. Methods include exercises in brainstorming and iterating as well as use of more traditional analytical tools (such as spreadsheets and visualization software).
+/
+Introduction to Combinatorics
+Enumerating permutations and combinations of sets and multisets, inclusion-exclusion, recurrence relations, generating functions, Pólya theory and combinatorial structures.
+/
+Managing Cyber Risks in Enterprise Business Processes
+Covers the activities, decisions, risks and controls associated with enterprise business processes. Specific focus on the activities in the sales-to-cash (revenue cycle) and purchase-to-pay (expenditure cycle) processes. Students understand how IT enables performing those processes more efficiently and effectively. In addition to identifying internal controls necessary for accurate, complete performance of processes, also covers the fundamentals of cybersecurity.
+/
+Mobile Platforms for Business
+Mobile application development for the enterprise to address mobile transactions and consumer engagement. Covers business frameworks, app development; and management of devices, applications and services in today's multi-platform environment.
+/
+Fundamentals of Finance
+Theory and problems in financial management of business enterprises
+/
+Business Law and Ethics for Managers
+Legal theories, ethical issues, and regulatory climate affecting business policies and decisions.
+/
+Organization and Management Leadership
+Analyzes strategic, behavioral, and human resource management perspectives, including principles of strategic management and leadership of human resources.
+/
+Capstone in Information Systems
+Capstone in Information Systems
+/
+W. P. Carey Capstone Course
+Develops a general manager's or business owner's perspective on how organizations can create value. Creating long-run value by repeatedly producing goods and services that customers will buy at prices that cover the costs of producing them is the key to success for business organizations. Analyzing current and future environments to understand threats and opportunities in various institutional settings around the world is the starting point for thinking about how an organization might create value and gain sustainable competitive advantage. Evaluates the impact of institutional settings in different countries and ethical values on decision making. Students learn how to successfully manage relations with key stakeholders including customers, employees, suppliers of capital as well as other component goods and services, and stakeholders from various levels of government in different countries.
+/
+Internship
+Internship
+/
+
+

@@ -1,0 +1,127 @@
+/
+Introduction to the University Experience for Engineers
+This course will also be the venue to introduce all School of Engineering students to the disciplines/departments across the School of Engineering. 
+/
+General Physics I
+Calculus-based introductory course in mechanics
+/
+Engineering Innovation
+First year multi-disciplinary innovation projects primarily geared towards skill development in the areas of requirements analysis, creativity, conceptual design, design and problem-solving processes, prototyping, teamwork, and project communications. Application to the development of a new product or technology meeting societal needs.
+/
+Enrichment Workshop 
+A workshop structured to provide collaborative learning in fundamental engineering topics of calculus, chemistry, and physics
+/
+Analytic Geometry & Calculus
+Introduction to the differential and integral calculus; differentiation and integration of algebraic and transcendental functions with applications to science and engineering
+/
+The West & the World
+Survey of key themes in world history including the social, economic, cultural, political, and environmental forces that shaped the human past throughout the globe.
+/
+Introduction to Philosophy
+Introduction to philosophical reflection and study of some central philosophical questions in the Western intellectual tradition, including questions of ethics, human knowledge, and metaphysics
+/
+Writing Seminar I
+Introductory level course focused on writing as a mode of inquiry. Emphasis on developing college-level reading, writing, research, and critical thinking skills
+/
+Introduction to Electrical & Computer Engineering
+Introduction to electrical and computer engineering faculty, facilities, and curriculum
+/
+General Chemistry
+Comprehensive treatment of the fundamentals of general chemistry.
+/
+Algorithms & Programming I
+Introduction to computers and programming using a high-level, structured language. Topics include problem solving, algorithms, programming constructs, data representation, stepwise refinement, and debugging.
+/
+Enrichment Workshop II
+A workshop structured to provide collaborative learning in fundamental engineering topics of calculus, chemistry and physics facilitated by upper-class engineering students.
+/
+Analytic Geometry & Calculus II
+Conic sections, techniques of integration with applications to science and engineering, infinite series, indeterminate forms, Taylor's theorem
+/
+Principles of Oral Communication
+Introduces the relationship between communication and democratic life in contemporary and historical contexts. This course examines the importance of communication in achieving mutual understanding and provides the opportunity to demonstrate effective and ethical dialogue. 
+/
+Introduction to Religious and Theological Studies
+This course introduces students to two academic disciplines: the study of religions as historical and embodied realities, and theology as faith seeking understanding. By learning about these two disciplines, students will gain a critical self-awareness of the ways in which the modern context shapes their engagement with religion. The course emphasizes learning how to read Scripture and other primary religious sources, and to learning how the Catholic intellectual tradition addresses the question of God, the meaning of human life, and the significance of human diversity.
+/
+Introduction to Engineering Cooperative Education
+Introduction to Engineering Cooperative Education offers an academic course for students who wish to participate in the Engineering Cooperative Education Program
+/
+Introduction to MATLAB Programming
+MATLAB system and development environment, vector and matrix operations using MATLAB, linear algebra and calculus using MATLAB, MATLAB graphics, flow control, symbolic math toolbox. Prerequisite(s): (CPS 132 or CPS 150) or equivalent.
+/
+Engineering Mechanics
+This course provides an introduction to mechanics as applied to engineering problems. Principles of force and moment balance, work, and energy conservation are applied to systems in static equilibrium. The similarity of balance laws applied to mechanical behavior to those used in thermodynamics and electric circuits is introduced. Students are introduced to the concepts of free-body diagrams and equivalent systems of forces, properties of areas and sections, analysis of simple structures, internal forces, stress, and material failure. Introduces a common problem-solving approach and processes to address and solve open ended problems and creative application of theory.
+/
+Analytic Geometry & Calculus III
+Solid analytic geometry, vectors and vector functions, multivariable calculus, partial derivatives, multiple integrals.
+/
+Circuit Analysis
+Principles of linear circuit analysis and problem solving techniques associated with circuits containing both passive and active components
+/
+Writing Seminar II
+Variable topic composition course focused on academic discourse, research, and argumentation. Instruction and practice in developing reading, writing, and research skills introduced in ENG 100 and employed across the curriculum.
+/
+The Physics of Waves
+Examination of analytical approaches and conceptual frameworks of physics applied to wave phenomena in a variety of physical systems. Topics include oscillation in mechanical and electrical systems, mechanical and electromagnetic waves, and geometrical and physical optics. 
+/
+Introduction to Digital Systems.
+Introduction to binary systems, logic circuits, Boolean algebra, simplification methods, combinational circuits and networks, programmable logic devices, flip flops, registers, counters, memory elements, and analysis and design of sequential circuits.
+/
+Digital Systems Laboratory
+Logic gate characteristics; combinational logic design and analysis; latches and flip-flops; synchronous and asynchronous sequential logic; simple digital systems. Experiments include design and analysis of digital systems using breadboarding, FPGA boards, modeling and simulation tools, hardware description languages, and logic synthesis tools
+/
+Applied Differential Equations
+First order equations, linear equations with constant coefficients, systems of equations, the Laplace transform, numerical methods, applications.
+/
+Electronic Devices
+Study of the terminal characteristics of electronic devices and basic single stage amplifier configurations using bipolar junction transistors and field-effect transistors. Analysis of the devices includes a qualitative physical description, volt-ampere curves, and the development of small- and large-signal equivalent circuit models.
+/
+Engineering Thermodynamics
+This course provides an introduction to engineering thermodynamics, emphasizing the vital importance of energy generation and efficiency from a multi-disciplinary perspective. State descriptions of pure substances and mixtures. Control volume analysis and conservation principles applied to systems with respect to mass, energy, and entropy with applications to power, refrigeration, chemically reacting and other energy conversion systems. Introduces a common problem-solving approach and processes to address real, open ended problems and creative application of theory. Both analytical and computer solutions of engineering thermodynamics problems are emphasized. This course is part of the Integrated Engineering Core for all engineering
+/
+Electromagnetics
+Study of vector calculus, electro- and magneto-statics, Maxwell's equations, and electromagnetic plane waves and their reflection and transmission from discontinuities. 
+/
+Fundamentals of Computer Architecture
+Study of computer systems organization, representation of data and instructions, instruction set architecture, processor and control units, memory devices and hierarchy, I/O devices and interfacing peripherals, high- to low-level language mapping, system simulation and implementation, applications and practical problems.
+/
+Signals & Systems
+Mathematical framework associated with the analysis of linear systems including signal representation by orthogonal functions, convolution, Fourier and Laplace analysis, and frequency response of circuits and systems
+/
+Professional Development Seminar II
+Junior level professional development seminar. Presentations on contemporary and professional engineering subjects by students, faculty, and engineers in active practice. The seminar addresses topics in key areas that complement traditional courses and prepare distinctive graduates, ready for life and work
+/
+Applied Electromagnetics
+Electromagnetic theory applied to problems in the areas of waveguides, radiation, electro-optics and electromagnetic interference and electromagnetic compatibility.
+/
+Engineering Probability & Random Processes.
+Axiomatic probability, derived probability relationships, conditional probability, statistical independence, total probability and Bayes' Theorem, counting techniques, common random variables and their distribution functions, transformations of random variables, moments, autocorrelation, power spectral density, cross correlation and covariance, random processes through linear and nonlinear systems, linear regression, and engineering decision strategies.
+/
+Discrete Signals & Systems.
+Introduction to discrete signals and systems including sampling and reconstruction of continuous signals, digital filters, frequency analysis, the z-transform, and the discrete Fourier transform.
+/
+Electronic Systems
+ELECTRONIC SYSTEMS Study of cascaded amplifiers, feedback amplifiers, linear integrated circuits, and oscillators including steady state analysis and analysis of frequency response
+/
+Social Science Integrated
+A theme-based course that varies across sections but shares common learning outcomes. Application of social science methods and social theory to critically examine human issues and problems from the perspective of at least three social science disciplines (anthropology, economics, political science, psychology and sociology). The course will emphasize outcomes related to scholarship, critical evaluation of our times, and the diversity of the human world. 
+/
+Control Systems
+Study of mathematical models for control systems and analysis of performance characteristics and stability. Design topics include pole-placement, root locus, and frequency domain techniques.
+/
+Multidisciplinary Design I
+Application of engineering fundamentals to sponsored multidisciplinary-team design projects. In a combination of lecture and lab experiences, students learn the product realization process and project management. Product realization topics include idea generation, proposal development, design specifications, conceptualization and decision analysis. Project management topics include cost estimation and intellectual property management.
+/
+Communication Systems
+Study of amplitude, angle, pulse, and digital communication systems including generation, detection, and analysis of modulated signals and power, bandwidth, and noise considerations.
+/
+Multidisciplinary Design II
+One hour lecture and five hours of lab per week. Detailed evaluation of the Product Realization Process focusing on conceptual design, embodiment design, final design and prototyping is taught. Analysis of the design criteria for safety, ergonomics, environment, cost and sociological impact is covered. Periodic oral and written status reports are required. The course culminates in a comprehensive written report and oral presentation
+/
+Robotics I
+Robotics I
+/
+Robotics II
+Robotics II
+/

@@ -1,0 +1,91 @@
+/
+Computer Information Systems
+This course is an introduction to concepts in computer information systems. Students learn how information technology is used in business. Topics covered include use of information systems in business, basics of hardware, software, networks and data management, use of productivity software, security and ethical use of information systems, business decision systems, and developing and managing information systems.
+/
+Introduction to Functions
+This course provides a study of mathematical functions, graphing techniques, and applications. The functions covered in the class are linear, quadratic, polynomial, rational, exponential and logarithmic. 
+/
+Writing I
+Writing I provides the undergraduate student with the foundation necessary for critical thinking through academic and other professional writing.
+/
+Introduction to Financial Reporting
+This course provides an overview of financial accounting/reporting in its role as an information system within the socioeconomic environment of business. Financial reporting concepts and practices are presented from a decision perspective in which the content of financial statements and the analysis, interpretation and application of this information in making rational business decisions are examined. 
+/
+Computer Science I
+This course introduces Computer Science by using a high-level programming language. Students will be taught to design programs and implement them using object-oriented programming techniques.
+/
+Principles of Economics: Microeconomics
+Students examine the theory of the consumer and the business firm in this course.
+/
+Business Statistics
+Topics covered in this course include descriptive methods, probability distributions, estimation, testing, analysis of variance and regression analysis.
+/
+Writing II
+Expanding upon the argumentative and analytical emphases of Writing I, Writing II will foster research-based composition.
+/
+Introduction to Programming
+This course provides an opportunity to learn a higher-level language, to gain experience in the design, coding and utilization of computer programs and to develop simple applications using a graphical user interface. 
+/
+Discrete Mathematics
+This course introduces discrete mathematics as applied to computer science. Topics covered include Boolean logic, elementary set theory, functions, relations, enumeration, proof techniques number systems and trees.
+/
+Principles of Economics: Macroeconomics
+This course is a study of the theory of employment, income and growth. Stabilization policy and current problems in American capitalism are emphasized.
+/
+Introduction to Managerial Accounting
+This course stresses the usefulness of accounting data as it relates to the managerial decision making process relative to planning, control and analysis. 
+/
+Introduction to Speech Communication
+The class focuses on theory and practice of interpersonal and public communication, including communication theory, self-concept, perception, language, listening, non-verbal communication and public speaking. 
+/
+Calculus for Business
+This course surveys methods and applications of the calculus for functions of one variable, which are useful in business and economics. Topics include differentiation with applications to rates and maximum and minimum values, integration techniques with applications to areas, cost and rates.
+/
+Computer Science II
+This course builds on the concepts covered in Computer Science I. Topics covered include inheritance, polymorphism, recursion, advanced GUI programming, exception handling and input/output handling. 
+/
+Principles of Management
+This is an introductory course in basic management concepts and practices. This course covers principles and techniques as they relate to planning, organizing, leading and controlling business enterprises.
+/
+Systems Programming
+This course provides the student with the fundamentals of structured programming at the systems level. UNIX is used as a base for this course.
+/
+Data Communications & Networking
+Data communications is a subset of telecommunications involving the transmission of data to and from computers and components of computer systems. It is concerned with the transmission of data through some medium, such as wire or fiber optic cable, and includes coverage of the telephone system, local area networks and wide area networks. 
+/
+Compiler Construction
+The course studies the techniques involved in the analysis of source language code and the generation of efficient object code. The focus is more on the front end of the compiler (analyzer) than it is on the back end (generator).
+/
+Systems Programming
+This course provides the student with the fundamentals of structured programming at the systems level. UNIX is used as a base for this course.
+/
+Ethical Hacking
+This course introduces the students to working with hacking tools and strategies in order to detect and report the vulnerabilities in computer systems such as networks and operating systems. 
+/
+Systems Analysis Methods
+As an overview of the system development life cycle, this course introduces the student to the fundamental concepts and techniques of systems analysis. 
+/
+Computer Graphics Programming
+Students will write programs that create digital representations of geometric objects and render them on a computer screen. 
+/
+Basic Finance
+This course studies the forms and sources of financing business firms, large and small, corporate and noncorporate.
+/
+Local Area Networks
+This course examines local area network (LAN) technology and architecture both through general concepts and practical hands-on experience. All networking fundamentals are presented based on the modular approach of the ISO standards.
+/
+Business Programming
+This course provides students with experience in the design and coding of programs using a business oriented language.
+/
+Data Modeling and Database Design
+In this course, students will learn how to create data models from business requirements and transform them into logical and physical database designs and study the evolution and advantages of various database models.
+/
+Game Design Workshop
+This course will engage students in the iterative design process: developing, prototyping, and play-testing games throughout the semester with the goal of creating well-balanced games that are challenging and rewarding to the player. Students will focus on designing casual games playable on a variety of platforms, while building proficiency in an industry-standard 2D game engine. 
+/
+Systems Design & Implementation
+This capstone course will emphasize the design and implementation phases of the system development life cycle using case studies. A problem solving approach will be used for students to learn strategy and techniques for dealing with complexities in information systems development.
+/
+Ethical Issues in Computer Science
+This course covers various ethical issues that arise as a result of increasing use of computers in contemporary society. Topics include methodology, tools and frameworks for analysis of ethical issues in Computer Science, social and ethical context of computing, professional and ethical responsibilities, risks and liabilities of safety-critical systems, privacy and civil liberties, social implications of the internet and cyber-security.
+/

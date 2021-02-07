@@ -1,0 +1,111 @@
+Introduction to Accounting I
+Theoretical and technical facets of financial and managerial accounting for business. Accumulation, analysis, interpretation and uses of accounting information.
+/
+Introduction to Accounting II
+Theoretical and technical facets of financial and managerial accounting for business. Accumulation, analysis, interpretation and uses of accounting information. Course will focus on managerial accounting.
+/
+Foundations of Business	
+Introduces students to basic business environments and business functions and practices. Builds awareness of corporate social responsibility and ethical business behavior. Helps students gain an integrated awareness of business and practice analytical skills needed for their advanced business courses and careers.
+/
+Differential Calculus and Optimization for Business	
+Univariate and bivariate differential calculus and optimization of algebraic functions that model business phenomena. 
+/
+Winning Presentations	
+Enrollment is restricted to School of Business freshmen, sophomores and juniors in the foundation or advanced programs. Why are some presenters bad, some good and others great? Why do some people have more “presence” than others? What leadership skills work in a room full of people who are not on the same page?
+/
+Principles of Microeconomics	
+A course designed to acquaint the student with a theoretical and practical understanding of the economic institutions and problems of the American economy with a focus on microeconomics. 
+/
+Principles of Macroeconomics	
+A course designed to acquaint the student with a theoretical and practical understanding of the economic institutions and problems of the American economy with a focus on macroeconomics.
+/
+Digital Literacy: Computer Concepts, Internet, Digital Devices
+Topics include but are not limited to computing devices -- hardware and software -- skills for using and evaluating Internet content and security with digital devices. 
+/
+Digital Literacy: Word Processing Skills
+Topics include but are not limited to document preparation and modification, tables and graphic enhancements, collaboration, formatting for research papers, newsletters, forms, and linking to other applications. The course will help students prepare documents to support professional tasks and other VCU course work.
+/
+Digital Literacy: Spreadsheets Skills I	
+Topics include but are not limited to the entering of text, numbers and formulas; formatting; moving; copying; recalculation; retrieving; charting; saving; and printing with introductory coverage of data manipulation. 
+/
+Digital Literacy: Spreadsheet Skills II	
+Topics include but are not limited to advanced formulas, statistical and financial functions, multiple worksheet/workbook management, macros and pivot tables.
+/
+Focused Inquiry I
+Utilizes contemporary themes to give students opportunities and practice in writing, critical thinking, oral presentation, collaborative learning, information retrieval and evaluation, and social and civic responsibilities.
+/
+Focused Inquiry II 
+Focuses on practice in writing in a variety of genres, framing writing according to both purpose and audience and identifying academically valid sources. 
+/
+Inquiry and the Craft of Argument 
+A research and writing process course that emphasizes critical analysis, elements of argument, inquiry-based research skills, writing conventions of academic argument and the presentation of argument and research into new mediums. 
+/
+Mathematical Structures
+An introduction to mathematical logic and set theory, including applications in Boolean algebras and graph theory. 
+/
+Introduction to E-business Technologies
+Introduces students to the technologies used in e-business. Students will be introduced to current or emerging Web languages, e-business software development environments, Web application servers and other packages used in creating and running Web applications.
+/
+Organizational Communication	
+This course includes dealing with written business messages, report writing, job-search techniques, nonverbal communication, oral presentations and intercultural communication. The focus will include both theoretical constructs and skill development. 
+/
+Business Knowledge Exam	
+This course consists of a capstone exam covering general business knowledge in the subjects of accounting, economics, finance, information systems, management, marketing and statistics. Students may be asked to complete follow-up activities in the areas in which they have weak knowledge in order to earn a passing grade.
+/
+Financial Management	
+Principles of optimal financial policy in the procurement and management of wealth by profit-seeking enterprises; the application of theory to financial decisions involving cash flow, capital structure and capital budgeting.
+/
+Creativity and Ideation	
+Course explores the individual, social and institutional contexts for creativity and ideation. 
+/
+Managing People in Organizations	
+Introduces students to the management of people in organizations, focusing on the managerial skills, knowledge and activities needed for a successful business operation. Topics include planning, organizing, staffing and leading; effectively utilizing human capital to achieve an organization’s objectives in today’s competitive environment.
+/
+Strategic Management (capstone)	
+This course is restricted to business majors with senior standing. Integrative course to analyze policy issues at the overall management-level involving functional areas such as production, finance and marketing, in context with the economic, political and social environment.
+/
+Marketing Principles	
+An introduction to the activities, set of institutions and processes for creating, communicating, delivering and exchanging offerings that have value for customers, clients, partners and society at large.
+/
+Business Statistics I
+Statistical thinking, concepts of variability, sampling, descriptive measures, contingency tables, probability and introduction to regression, correlation, confidence intervals and hypothesis testing, with implementation in spreadsheet software.
+/
+Business Intelligence and Data Mining	
+Modeling business-related problems using information systems tools and quantitative techniques. Focus is on extraction, translation and loading of relevant business and external data, quantitative analysis and presentation of findings. 
+/
+Legal Environment of Business	
+Basic legal concepts applicable to business, including the legal aspects of operating a business, contracts, employment relationships, sales, and bailments and commercial paper. Also includes ethical considerations and social and political influences.
+/
+Systems Analysis and Design	
+Examines the concepts, tools and techniques used to develop and support computer-based information systems. Systems planning, analysis, design and implementation are covered. Behavioral and model building aspects of systems development are emphasized throughout.
+/
+Information Systems Planning and Project Management
+Concentrated study of planning methods and techniques required for defining, planning, integrating and implementing information technology projects consistent with the organizational strategic plan and mission.
+/
+Business Statistics II
+Statistical methods employed in the collection and analysis of business and economic data. Continuation of statistical inference for means and variable relationships using t-tests, analysis of variance, contingency tables, regression and correlation analysis with emphasis on problem formulation and interpretation of computational results.
+/
+Information Technology Infrastructure	
+Principles of computer hardware and software architecture, network communications technologies and security. Introduction to data structures.
+/
+Programming	
+Object-oriented programming and algorithmic design are introduced using C# and the .NET Framework. Emphasizes building business applications using the .NET Framework Class Library and the components, events and message handling therein. Intermediate Web application development is also covered.
+/
+Database Systems	
+Designed to prepare students for development of systems involving databases and database management.
+/
+Fundamentals of Data Communications	
+Computer networks and data communications. Provides an understanding of the underlying concepts of computer networking. Emphasis is placed on terminology, techniques and issues in networking systems.
+/
+Projects in Information Systems
+Appropriate computer-assisted software engineering tools are used throughout the project, from requirement specification to implementation and testing.
+/
+Information Technology Auditing	
+The course teaches the role and objectives of information technology audits and the processes that are necessary to properly conduct an IT audit. Case studies introduce students to the process of interpreting audit evidence.
+/
+Introduction to Enterprise Resource Planning Systems	
+This course allows students to develop an appreciation of the impact of enterprise resource planning systems on businesses and to understand the issues involved in the design, implementation and maintenance of these systems. Students also develop practical skills in the use of a commercial enterprise resource planning system.
+/
+Topics in Information Systems
+An in-depth study of a selected business topic, to be announced in advance.
+/

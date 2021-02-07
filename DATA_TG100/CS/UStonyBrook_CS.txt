@@ -1,0 +1,73 @@
+/
+Introduction to the Theory of Computation 
+An introduction to the abstract notions encountered in machine computation. Topics include finite automata, regular expressions, and formal languages, with emphasis on regular and context-free grammars. Questions relating to what can and cannot be done by machines are covered by considering various models of computation, including Turing machines, recursive functions, and universal machines.
+/
+Computer Networks 
+Overview of computer networks and the Internet. Concept of end systems, access networks, clients and servers. Connection-oriented and connectionless services. Circuit switching and packet switching. Description of Internet protocol layers, including application layer, transport layer, network layer and link layer. Architecture of the current Internet and the World-Wide Web. TCP/IP protocol stack. Internet routing and addressing. Local area network protocols, Ethernet hubs and switches. Wireless LANs. Multimedia networking.
+/
+Fundamentals of Software Development 
+Introduction to systematic design, development and testing of software systems, including event-driven and Web programming, information management, principles and practices for secure computing, software design and development fundamentals, and the application of these skills to the construction of large, robust programs. Students design and implement a secure, full-stack, distributed web application.
+/
+Systems Fundamentals II 
+This course introduces C programming and essential concepts of operating systems, compilers, concurrency, and performance analysis, focused around several cross-cutting examples, such as memory management, error handling, and threaded programming. In this course, operating systems concepts are considered from the point of view of the application programmer, and the focus is on APIs for interacting with an operating system.
+/
+Analysis of Algorithms 
+Mathematical analysis of a variety of computer algorithms including searching, sorting, matrix multiplication, fast Fourier transform, and graph algorithms. Time and space complexity. Upper-bound, lower- bound, and average-case analysis. Introduction to NP completeness.
+/
+Software Engineering 
+Introduces the basic concepts and modern tools and techniques of software engineering. Emphasizes the development of reliable and maintainable software via system requirements and specifications, software design methodologies including object-oriented design, implementation, integration, and testing; software project management; life-cycle documentation; software maintenance; and consideration of human factor issues.
+/
+Programming Abstractions 
+Intermediate-level programming concepts and paradigms, including functional programming, object-orientation, basics of type systems, memory management, program and data abstractions, parameter passing, modularity, version control, and parallel programming. Includes weekly recitations, which provide students with experience in the practice of programming in a variety of high-level languages.
+/
+Systems Fundamentals I 
+This course will introduce assembly language programming and essential concepts of computer organization and architecture. The focus of this course is on the computer organization of a computer system, including the processor architecture and the memory system. In particular, we will discuss the internal representation of information, performance evaluation methodology, instruction set architectures and implementation techniques for computer arithmetic, control path design, and pipelining.
+/
+Applied Calculus I
+A review of functions and their applications; analytic methods of differentiation; interpretations and applications of differentiation; introduction to integration. 
+/
+Applied Calculus II
+Analytic and numerical methods of integration; interpretations and applications of integration; differential equations models and elementary solution techniques; phase planes; Taylor series and Fourier series.
+/
+Applied Linear Algebra
+An introduction to the theory and use of vectors and matrices. Matrix theory including systems of linear equations. Theory of Euclidean and abstract vector spaces. Eigenvectors and eigenvalues. Linear transformations. 
+/
+Finite Mathematical Structures
+An introduction to graph theory and combinatorial analysis. The emphasis is on solving applied problems rather than on theorems and proofs. Techniques used in problem solving include generating functions, recurrence relations, and network flows.
+/
+Survey of Probability and Statistics 
+A survey of data analysis, probability theory, and statistics. Stem and leaf displays, box plots, schematic plots, fitting straight line relationships, discrete and continuous probability distributions, conditional distributions, binomial distribution, normal and t distributions, confidence intervals, and significance tests.
+/
+Fundamentals of Biology: Organisms to Ecosystems
+An introduction to the major concepts in evolution, ecology, and biodiversity at the genetic, organismal, community, and ecosystem levels. Topics are presented in relation to five overall themes: Nature and Process of Science, Evolution, Information Flow, Systems, and Structure-Function. 
+/
+Fundamentals of Scientific Inquiry in the Biological Sciences I
+Students will experience the laboratory process, research process, a wide range of laboratory tools, methods, skills, learn to read and write scientific presentations, and collaborate in formal inquiry. This course has been designated as a High Demand/Controlled Access (HD/CA) course. 
+/
+Modern Physics Laboratory
+Students perform some of the pivotal experiments of the 20th century.
+/
+Classical Physics A
+First of a three-part sequence intended for physical-sciences or engineering majors. It focuses on the mechanics of point particles and simple oscillators, and emphasizes motion in one and two dimensions and the concepts of momentum and energy.
+/
+Legal, Social, and Ethical Issues in Information Systems
+This course deals with the impact of computers on us as individuals and on our society. Rapid changes in computing technology and in our use of that technology have changed the way we work, play, and interact with other people. These changes have created a flood of new social and legal issues that demand critical examination. For example, technologies such as Gmail, Facebook, MySpace, along with music sharing sites and wikis create new social, ethical, and legal issues.
+/
+Technical Communications
+Weekly laboratories provide students with experience in the practice of programming in a variety of high-level languages such as Java, Scala, Haskell, Python or Javascript.
+/
+Calculus A
+Differential calculus, emphasizing conceptual understanding, computations and applications, for students who have the necessary background from 12th-year high school mathematics. Limits and continuous functions. Differentiation of elementary algebraic, trigonometric, exponential and logarithmic functions; graphing; modeling; and maximization. L'Hospital's rule. 
+/
+Calculus B
+Riemann sums, the fundamental theorem, symbolic and numeric methods of integration, area under a curve, volume, applications such as work and probability, improper integrals. 
+/
+Calculus C
+This course has been designated as a High Demand/Controlled Access (HD/CA) course. 
+/
+Calculus II
+Covering symbolic and numeric methods of integration; area under a curve; volume; applications such as work and probability; sequences; series; Taylor series; differential equations; and modelling. 
+/
+Analysis II
+Techniques and applications of integration, infinite series, Taylor series, modelling and elementary differential equations. 
+/

@@ -1,0 +1,299 @@
+SPEECH COMMUNICATION
+Provides an
+overview of the process of communication and introduces
+communication theory. Provides practical training in the
+fundamentals of effective presentation for individuals in both public
+speaking and group communication settings. Emphasizes discussion
+of contemporary issues and the analysis of public discourse.
+/
+TECHNOLOGY-BASED PUBLIC SPEAKING
+Provides knowledge and skills to lead others more effectively
+through presentational communication utilizing online technology
+and delivery frameworks. Includes developing more meaningful
+voice based on ethical communication, audience engagement and
+thoughtful responses to contemporary issues
+/
+COMMUNICATION IN A TECHNOLOGICAL ENVIRONMENT
+Explores the impact of the computer culture
+on human communication. Identifies how the computer culture
+has changed communication, norms, expectations and language.
+Practices key competencies associated with communication
+interaction, including interpersonal, organizational and conflict
+communication
+/
+PERSUASION, INFLUENCE AND MOTIVATION
+Examines the general theories that explain persuasion and one’s
+ability to influence others. Discusses communication skills,
+attitudes and competencies associated with persuasion, influence
+and motivation. Enables students to learn and practice powerful
+persuasion communication skills that will enhance both personal
+and professional success.
+/
+CULTURAL INTELLIGENCE
+Develops culture
+competence skills required in today's global economy. Foundation
+to the theory and practice of cultural intelligence, which predicts
+adjustment and success in multicultural settings. Examines deep
+layers of culture, including core worldview assumptions. 
+/
+INTERCULTURAL COMMUNICATION
+Using
+readings, film, field experience and/or dialogue, the course
+investigates cultural identity, meaning, patterns, relationships and
+conflicts that arise as contact increases between people of
+different cultures in our global society
+/
+CONTEMPORARY MATHEMATICS
+Presents
+topics in contemporary mathematics that are relevant to the
+Liberal Arts student. Develops the skills required to understand
+and interpret quantitative information that students encounter in
+the Liberal Arts curriculum
+/
+NATURAL SCIENCE
+Focuses on the basic
+elements of the natural sciences to provide students with a broad
+understanding of various themes including Geology, Astronomy
+and basic Physics
+/
+ADVANCED SCIENCE
+Explores various
+scientific disciplines and practices, as well as the application of
+science in everyday life
+/
+Philosophical Inquiry and Reflection
+Philosophical Inquiry and Reflection
+/
+COLLEGE ALGEBRA
+Includes algebraic
+operations, equations and inequalities, functions and their
+graphs, solution of polynomial, exponential and logarithmic
+functions and linear systems of equations.
+/
+FUNDAMENTALS OF ANATOMY AND PHYSIOLOGY
+Designed to provide students with an
+understanding of the basic concepts of human anatomy and
+physiology. The student will learn basic terminology and the
+general organization of body systems including the tissue, organ,
+and organ system levels. The specific organ systems to be
+studied in this course include the integumentary (skin), skeletal,
+muscular, nervous, special senses, endocrine, cardiovascular,
+lymphatic, respiratory, digestive, urinary, and reproductive.
+/
+LEADING EFFECTIVE ORGANIZATIONS I
+Explores concepts and theories in leadership and management as
+they are applied in healthcare settings. Examines leadership versus
+management skills, team development, systems theory, strategic 
+planning, organizational culture and the role of leadership in the
+organization. 
+/
+FOUNDATIONS OF PROGRAMMING
+Entrylevel course in which students use an object-oriented
+programming language called Xojo to learn basic programming
+concepts such as If-then-else, looping, strings, lists, arrays, in a
+visual programming environment. Students will also be
+introduced to the Java programming environment
+/
+JAVA PROGRAMMING
+Entry-level Java
+programming course in which students use the Java objectoriented programming language to solve real-world problems. 
+/
+FOUNDATIONS OF INFORMATION SYSTEMS
+Introduces contemporary information systems concepts.
+Focuses on business processes, software, hardware, data, and
+communication technologies, and how these components can
+be integrated and managed to create business competitive
+advantage. Hands-on experience with SAP ERP software. 
+/
+SYSTEMS ANALYSIS AND DESIGN
+Studies the
+analysis and design of computer based information systems.
+Considers transformation processes and comprehensive design.
+Includes advanced technology, emphasizing expert and
+knowledge-based systems. Considers human resources,
+communications and computers in a systems framework
+/
+ENTERPRISE SYSTEMS ARCHITECTURE
+Presents
+design, management and administration of simple to complex
+network topologies. Introduces Internet connectivity and
+protocols supporting networked applications over a distributed
+network and their relationship with end-users. Examines the
+concepts of user content, applications, services, and
+infrastructure. 
+/
+FOUNDATIONS OF CYBER SECURITY
+Introduces the principles and practices of information security
+including security models, internal and external security threats,
+and attacks. Topics include cryptography, network, mobile,
+host, applications, data, access control, and operational security. 
+/
+WEB AND DATABASE APPLICATIONS
+Introduces web-based multi-tiered distributed application
+development. Topics include using markup and scripting
+languages in the Presentation tier, services in the (web and
+business) Logic tier, and a relational database in the Data tier. 
+/
+MOBILE ENTERPRISE COMPUTING
+Introduces platform-based software development for tablets, smart
+phones, and servers. Students learn to solve contemporary
+software engineering problems by creating Graphical User
+Interface apps that communicate over a network with an
+Enterprise Server and Database.
+/
+INTRODUCTION TO STATISTICS
+Presents standard topics in introductory statistics for students whose
+major is not mathematics. Topics include descriptive statistic,
+probability distributions, estimations, hypothesis testing, linear
+regression and correlation and other topics.
+/
+INTRODUCTION TO DISCRETE MATHEMATICS
+Introduces mathematical tools used by computer scientists
+with an emphasis on developing problem solving abilities.
+Topics include machine logic, set theory, Boolean algebra,
+mathematical induction, and data structures
+/
+ACCOUNTING FOR MANAGERS
+Introduces
+basic terminology and concepts embodied in accounting that are
+utilized by business organizations to facilitate sound decision
+making. The primary focus of this course is aimed at non
+accounting students who are interested in better understanding
+how managers assess overall economic performance of their
+companies when applying accounting tools and techniques that
+help measure that performance.
+/
+INTRODUCTION TO BUSINESS
+Explores the
+contemporary business environment by introducing fundamental
+business concepts and models through business simulation.
+Provides a solid foundation for future business courses in the
+functional areas of business and emphasizes how these functional
+areas interact to encourage profitable, sustainable and sociallyresponsible business practices
+/
+MEDICAL TERMINOLOGY
+Provides an
+intensive study in the language used in the health care field.
+Includes the use of prefix, suffix and root words to identify,
+analyze, define and interpret medical terms. Emphasizes the
+correct construction, pronunciation, spelling and use of medical
+terminology, especially as applied in the interpretation of
+medical reports
+/
+INTRODUCTION TO HEALTH INFORMATION MANAGEMENT
+Emphasizes form, content and regulations
+impacting the health care record in the acute care setting.
+Explores legal reimbursement and computerized aspects of the
+health record as well as the functions and responsibilities of
+Health Information Services. Examines various health care
+delivery systems and health care practitioners. 
+/
+ETHICS IN HEALTH CARE SERVICES
+Examines
+the practical application of ethical principles, theories and
+methods to ethical dilemmas in health care with a particular
+emphasis on professional and organizational ethics. Formal ethical
+analysis of case studies and topics is used to explore clinical,
+organizational and health policy issues, enhance ethical reflection
+and dialogue, support decision-making, and encourage moral
+leadership. 
+/
+DATABASE MANAGEMENT
+Introduces core concepts in data management. Students identify organizational
+information requirements, convert conceptual data models into
+relational data models, apply normalization techniques, and
+utilize an Oracle relational database management system in a
+virtual lab environment
+/
+PROJECT MANAGEMENT
+Provides a foundational and practical knowledge of project management
+principles. Identifies tools and processes for managing projects
+using both Waterfall and Agile methodologies. 
+/
+INFORMATION SYSTEMS STRATEGY AND MANAGEMENT
+Explores
+how INFORMATION SYSTEMS is changing and will continue to change organizations as
+we now know them by introducing the complex decisions
+facing real organizations through a number of mini cases and a
+cyber security simulator. These provide an opportunity to apply
+the models/theories/frameworks presented, giving students the
+confidence and ability to tackle the tough issues regarding INFORMATION SYSTEMS
+management and strategy, and a clear understanding of their
+importance in delivering business value
+/
+Senior Capstone
+Senior Capstone
+/
+BUSINESS PROCESS MANAGEMENT
+Introduces
+key concepts and approaches to business process management
+and improvement. Examines how to identify, document, model,
+assess, and improve core business processes. Hands-on
+experience with SAP ERP software
+/
+BUSINESS ANALYTICS
+Introduces business
+intelligence techniques for transforming
+structured/unstructured data into meaningful information in
+order to gain competitive advantage. Explores the managerial,
+strategic and technical issues associated with
+developing/deploying business intelligence and analytics 
+/
+ENTERPRISE SYSTEMS
+Provides an understanding
+of the managerial/technical issues in planning, designing, and
+implementing enterprise systems. Demonstrates the
+integration of information and business processes across
+functional areas into a unified system. Hands-on experience
+with SAP ERP software
+/
+HEALTH LAW FOR INFORMATICS AND INFORMATION MANAGEMENT
+Examines legal concepts
+in informatics and health information management settings for
+compliance with laws, standards and regulations protecting the
+use, privacy, security and confidentiality of health information
+across various enterprises. Managing access and disclosure of
+health information and protected health information as well as
+e-health information is also covered. Graduate level includes
+completion of a project focused on the role of Risk
+Management and Quality Improvement programs in health care
+organization in responding to and preventive adverse events. 
+/
+HEALTH CARE DATA ANALYTICS
+Examines current and emerging practices in the application of data
+analytics. Topics include clinical, financial, operations, quality
+analytics, and trends in practices, customer expectations, and
+regulations that impact analytics. It will also address ethical
+issues in gathering, analyzing and reporting healthcare data.
+Including, roles and applications of descriptive, retrospective
+and prescriptive analytics in various settings through the use of
+case studies, practice tools and techniques to analyze given data
+sets for specific outcomes
+/
+MANAGEMENT OF E-HIM AND INFORMATION GOVERNANCE
+The focus of this course is on the
+advanced concepts of managing digital clinical information in
+health care facilities. Topics include: identity management,
+health information exchange and data sharing, current trends in
+e-HIM, eDiscovery, the personal health record and patient
+portals. The course will also cover components and strategies
+of Information Governance including; interoperability of data,
+compliance data dictionary standards, and factors that influence
+data integrity. Graduate level includes development of an
+eDiscovery response plan and Information Governance
+assessment tool
+/
+HEALTH CARE INFORMATICS & INFORMATION SYSTEMS
+Introduces foundational knowledge and skills to
+participate in the design, selection, implementation and use of
+clinical and administrative information systems. Provides an
+overview of information systems in all health care settings with 
+emphasis on electronic health record systems, data standards,
+and data exchanges. Familiarizes the student with new and
+emerging technologies in the health care field and includes
+concepts and principles of health care informatics in the health
+professions and health care delivery systems. The graduate
+component extends foundational knowledge through additional
+readings, case analysis, and/or applied project work. 
+/
+

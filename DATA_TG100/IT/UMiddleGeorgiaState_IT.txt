@@ -1,0 +1,95 @@
+/
+English Composition I	
+This is a composition course focusing on skills required for effective writing in a variety of contexts, with emphasis on exposition, analysis, and argumentation, and also including introductory use of a variety of research skills. Satisfactory placement test score or successful completion of Learning Support English and Reading are required prior to admission to this course.
+/
+English Composition II
+This is a composition course that develops writing skills that emphasizes interpretation and evaluation based on an introduction to fiction, drama, and poetry, and that incorporates a variety of more advanced research methods. An oral communication component may also be required. 
+/
+College Algebra
+Emphasis will be placed on the study of functions, and their graphs, inequalities, and linear, quadratic, piece-wise defined, rational, polynomial, exponential, and logarithmic functions. Appropriate applications will be included. 
+/
+Public Speaking
+This is an introductory course on basic public speaking with emphasis on theory, research, organization, writing, and delivery, with the organization of materials and the vocal and physical aspects of delivery in various speaking situations. Students will receive instruction through lecture, class discussion, and application of informative, persuasive, and impromptu speaking. 
+/
+Calculus I
+This is the first course in a three-course sequence designed primarily to provide mathematics and science majors with necessary mathematical understanding and skills. Topics include limits, continuity, differentiation of algebraic and trigonometric functions, applications of the derivative, definite and indefinite integrals, the Fundamental Theorem of Calculus, and applications of the integral. 
+/
+United States History to 1865
+This is a survey of U.S. history to the post-Civil War period. Special emphasis will be placed on the political, intellectual, cultural, and economic forces that transformed the U.S. during the period. Meets state legislative requirements for United States and Georgia history.
+/
+World Literature I
+This is a survey of important works of world literature from the beginning through the 17th century. 
+/
+Introduction to Fungi	
+This course will cover the history of mycology (study of Fungi) and all the organisms traditionally studied by mycologists. Students will learn about the biology of fungi, different kinds of fungi, ecology, genetics, human uses of fungi, diseases caused by fungi, and modern issues relating to fungi. Students will also be required to participate in a lab section and several field trips.
+/
+Introduction to Insects
+This course will cover the origins and diversity of insects and related organisms, their anatomy and physiology, and their interactions with humans and ecosystems. Laboratory exercises will include collections, studies of diversity and anatomy and experiments on physiology.  
+/
+Introduction to Anthropology
+This is a survey of general anthropology, the comparative study of humankind as a whole, including its major subdisciplines: cultural anthropology, archeology, linguistics, and physical anthropology. Through ethnographic descriptions, comparisons across time, and cross-cultural analysis, emphasis is placed on the great variety of cultural adaptations which various peoples have developed to survive and to meet human needs. 
+/
+Principles of Macroeconomics
+This principles of economics course is intended to introduce students to concepts that will enable them to understand and analyze economic aggregates and evaluate economic policies. 
+/
+Introduction to Information Technology	
+This course uses short projects to introduce the student to the major information technologies of hardware, systems software, networking, web development, software and applications development, systems analysis, digital media, and database. Security and ethical issues as they affect the use of technologies are also discussed.
+/
+Introduction to Computer Programming	
+This course is an introduction to computer programming, logic, design and implementation. Topics include software design, documentation, coding methods, data types, data structures, functions, subroutines and program control structures. 
+/
+Application Development	
+This course is an introduction to computer programming, logic, design and implementation. Topics include software design, documentation, coding methods, data types, data structures, functions, subroutines and program control structures.
+/
+Network Essentials	
+This course covers the architecture, function, and configuration of computer hardware and networks, along with basic operating system software function. The students are introduced to network and communications concepts including operational issues surrounding network planning, configuration, monitoring, trouble shooting, and management. 
+/
+Web Development
+This course introduces concepts and practices associated with Web site development. Focus is on site and page design, page layout techniques, styling methods, coding practices, selection of typography, graphics, and multimedia, accessibility issues, site publishing, testing and maintenance, and site marketing.  
+/
+Discrete Mathematics
+This course is an introduction to discrete mathematics. Selected topics may include sets, logic, proofs, counting, number theory, graph theory, trees, or algorithms. 
+/
+Systems Analysis and Design	
+Using the object-oriented approach, students will analyze and define, using UML, the system requirements of the organization. Students will participate in either a simulation or case study in order to experience the operational flow of organizational systems. The technology independent logical model showing the requirements for the system will be created. 
+/
+Human Computer Interaction	
+This course covers the scientific principles, HCI design methodology, and the user-interface technology that are used in the HCI implementation. Topics include human cognition, HCI theories, user observation, task analysis, prototyping, evaluation techniques, user interface modalities, graphical user interface components, and accessibility. 
+/
+Database Principles	
+This course covers the basic principles and practices behind the modern database management system including: the models and methodologies that enable us to analyze and design data systems; the logical concepts that stand behind good database design; and the functional components of the DBMS and how they work together to bring about the management of data. 
+/
+Project Management	
+This course introduces the concepts and practices associated with Project Management. The focus is on the following knowledge areas in project management: scope, time, cost, quality, human resource, communication, risk, and procurement.  
+/
+Foundations of Information Security	
+This course covers an understanding of communications and IT infrastructures, their vulnerabilities, and the complexity of security threats faced by business and industry. Topics discussed are the development of security plans and practices; policies; awareness and compliance programs; protections; and legal and regulatory issues. 
+/
+Legal and Ethical Issues	
+This course provides the opportunity for IT majors to learn about the legal, regulatory, and ethical issues involved in the field of information technology. Topics include ethics, critical thinking, security, privacy, and current legal issues. 
+/
+Senior Capstone
+Integrating their skills and knowledge accumulated/acquired throughout the Information Technology program, students (usually in teams of three to five members) will analyze, design, develop, implement, and assess an information system. 
+/
+Critical Infrastructure Security and Resilience	
+This course is an introduction to the policy, strategy, and practical application of critical infrastructure security and resilience from an all-hazards perspective. It describes the strategic context presented by the 21st century risk environment, and discusses the challenges and opportunities associated with the following: public-private partnerships; information-sharing; risk analysis and prioritization; risk mitigation and management; performance measurement, incident management; and addressing future risks. 
+/
+Industrial Control Systems Security	
+The course is designed to focus on how Industrial Control Systems function while looking at the security issues concerning the deployment of the technology in support of critical infrastructure.
+/
+Forensics/Data Recovery	
+This course offers a disciplined approach to implementing a comprehensive accident-response plan with a focus on being able to detect intruders, discover what damage they have caused, and discover their identities. 
+/
+Network Forensics and Incident Response Planning	
+An examination of the detailed aspects of incident response and contingency planning consisting of incident response planning, disaster recovery planning, and business continuity planning. This course covers security incidents and intrusions, including identifying and categorizing incidents; responding to incidents; log analysis; network traffic analysis; tools; and creating an incident response team. 
+/
+Cyber Systems Security	
+This course applies advanced network security fundamentals and cutting edge technologies which involve security practices, evaluation, installation, selection, and administration of TCP/IP addressing, routing, intrusion detection, prevention systems, firewalls, and virtual private networks (VPNs). Administration and management of security of information. 
+/
+Homeland Security	
+This course will provide students with the vocabulary, important components, agencies and historical events associated with Homeland Security. Students will explore various state, national, and international laws and investigative efforts that address and combat Homeland Security issues.
+/
+Terrorism
+The course provides students with an opportunity to explore the phenomenon of terrorism by examining the political nature, and the theoretical underpinnings of domestic and international terrorism, along with the criminal justice response to homeland security. 
+
+

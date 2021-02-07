@@ -1,0 +1,80 @@
+/
+Computer Science I
+This course provides a foundation for further studies in computer and information science and emphasizes a structured approach to problem solving and algorithm development. Topics include principles of program design, coding, debugging, testing, and documentation. Students are introduced to the Unified Modeling Language for requirements analysis using use-cases and activity diagrams, an object oriented programming language, and the fundamentals of computer hardware, system software, and components.
+/
+Calculus I   
+Functions and their graphs; limits and continuity of functions, differentiation, algebraic and trigonometric functions, applications of derivatives, definite and indefinite integrals, and applications of definite integral.
+/
+Computer Science II
+This course presents techniques for the design, writing, testing, and debugging of medium-sized programs, and an introduction to data structures (stacks, queues, linked lists) using an object-orientated programming language. 
+/
+Discrete Structures I 
+This course introduces students to various topics in discrete mathematics, such as set theory, mathematical logic, trees, and graph theory. Applications to relational databases, modeling reactive systems and program verification are also discussed.
+/
+Calculus II
+Transcendental functions, techniques of integration, improper integral, infinite sequences and series, Taylor's theorem, topics in analytic geometry, polar coordinates, and parametric equations.
+/
+Introduction to Linear Algebra  
+An introduction to the theory and methods of linear algebra with matrices.Topics include: systems of linear equations, algebra of matrices, matrix factorizations, vector spaces, linear transformations, eigenvalues and eigenvectors, science and engineering applications, and computational methods. 
+/
+ Data Struc and Algorithm Anlys
+This course focuses on data design and algorithm design. Data design topics include object-oriented discussions of hashing, advanced tree structures, graphs, and sets. Algorithm design topics include the greedy, divide-and-conquer, dynamic programming, backtracking and branch-and-bound techniques. A significant discussion of algorithm complexity theory, including time and space trade-offs and elementary computability theory, is included.
+/
+Discrete Structures II
+This course introduces students to further topics in discrete mathematics, including theory of computation, more complexity theory, coding theory, and game theory.
+/
+Software Engineering Tools
+This course will cover various CASE tools, such as UML modeling and code generation tools, configuration management tools, defect management tools, an integrated development environment for coding and debugging, unit and testing tools, and build tools. Students will learn these tools in a laboratory environment.
+/
+Computer Org and Assembly Lang 
+The architecture of computer systems and associated software. Topics include digital logic circuits, computer interfacing, interrupt systems, input/output systems, memory systems, assemblers and assembly language programming, and computer networks.
+/
+Eng Probability and Statistics 
+Set theory, combinatorial analysis, probability and axioms, random variables, continuous and discrete distribution functions, expectations, Chebychev's inequity, weak law of large numbers, central limit theorem, sampling statistics and distributions, point and interval estimation and linear regression. 
+/
+Operating Systems  
+Introduction to computer operating systems. Process control, threads, concurrency, memory management, virtual memory, uniprocessor, multiprocessor, and real-time scheduling, I/O management, disk scheduling, file management, distributed processing, client/server, clusters, distributed process management,security. 
+/
+Software Engineering I
+This course presents an in-depth treatment of the following software engineering topics: software engineering paradigms, requirements, specification, functional design, object-oriented design, user interface design, software verification and validation, and the maintenance and management of software engineering artifacts, as well as an introductory discussion of software reliability.
+/
+Comp Networks and Dis Process
+Study of the management aspects of computing networks and distributed systems. Topics include network architectures (ISO/OSI, TCP/IP, ATM), communication hardware (transmission media, network adaptors, switches), encoding, framing, error detection and correction, reliable transmission, data link control and LAN technology, internetworking, routing/congestion control, network design/management.
+/
+Software Engineering II 
+opics covered include personal software process, team software process, formal methods, security, software architecture, software quality assurance, software fault tolerance, the evaluation of the effectiveness of human computer interaction and software reliability.
+/
+Intro to Artificial Intel
+This course introduces students to basic concepts and methods of artificial intelligence from a computer science perspective. Emphasis of the course will be on the selection of data representations and algorithms useful in the design and implementation of intelligent systems. 
+/
+Design Seminar I
+Students participate in the design and implementation of a major software project. 
+/
+Design Seminar II 
+Students continue to participate in the design and implementation of a major software project. 
+/
+Computer Game Design II 
+The focus of the course will be hands-on development of computer game development tools (e.g. game engines). Students will study a variety of software technologies relevant to computer game design, including: 3D graphics, computer animation, data-driven game design, multiplayer game programming, and game AI.
+/
+Computer Game Design & Implem 
+This course deals with the study of the technology, science and art in the creation of computer games. The focus of the course will be hands-on development of computer games. Students will study a variety of software technologies relevant to computer game design, including programming languages, scripting languages, operating systems, files systems, networks, simulation engines and multi-media design systems.
+/
+Data Security and Privacy 
+This course covers basics of data security and privacy techniques, which can facilitate the use of data in a secure and privacy-sensitive way. Topics include security and privacy challenges due to data collection and analytics, technologies and strategies for data security and privacy (access control mechanism, integrity policy, cryptography and encryption, notice and consent, anonymization or de-identification, deletion and non-retention). 
+/
+Computational Learning   
+This course covers basic computational aspects of learning to perform a task and improve with experience. Topics include learning frameworks and problem formulations; standard models, methods, computational tools, algorithms and modern techniques; and methodologies to evaluate learning ability and to automatically select optimal models. 
+/
+Soft Arch & Design Patterns
+This course focuses on design patterns in object-oriented programming. This course begins with an overview of UML and a review of object-oriented programming and then moves on to various structural, behavioral and creational patterns, including: facades, adaptors, bridges, factories and the template method. Analysis of case studies will also be discussed.
+/
+Compiler Design 
+Principles of language compilation. Introduction to formal languages. Lexical analysis, top-down and bottom-up parsing, code generation and optimization. Error handling and symbol table management. Run-time storage management. Programming language design.
+/
+Inf Vis & Multimedia Gaming 
+This course introduces basic techniques for digital animation, computer and video games, and web multimedia. Topics include the process of creating animated video clips from start to finish, including story creation, storyboarding, modeling, animation, and post-production; several key techniques for video editing and motion generation, including keyframe, motion capture editing, collision detection, particle systems, physical simulation, and real-time rendering; techniques for web animation and multimedia; and internet gaming.
+/
+ Information Systems
+This course provides in-depth coverage of advanced infrastructures for the development of next-generation information systems
+/
+

@@ -1,0 +1,88 @@
+/
+Introduction to Electrical and Computer Engineering
+Insight into electrical and computer engineering is gained through videos and the use of computer software to learn basic problem-solving skills. 
+/
+Intermediate Programming and Engineering Problem Solving
+Introduction to elementary data structures, program design and computer-based solution of engineering problems. Topics include use of pointers, stacks, queues, linked lists, trees, graphs, software design methodology, programming in the Linux environment, and lab. 
+/
+Programming Fundamentals
+Fundamental programming concepts, including consideration of abstract machine models with emphasis on the memory hierarchy, basic programming constructs, functions, parameter passing, pointers and arrays, file I/O, bit-level operations, programming in the Linux environment, and lab.
+/
+Calculus II 
+Transcendental functions, techniques of integration, numerical integration, improper integrals, sequences and series, Taylor series with applications, complex variables, differential equations. (I) Credit for both this course and MATH 1440 may not be applied toward a degree program.
+/
+Composition I
+Composition I
+/
+Composition II 
+Composition II
+/
+Calculus I
+Limits. Continuity. Derivative: definition, rules, geometric and rate-of-change interpretations, applications to graphing, linearization and optimization. Integral: definition, fundamental theorem of calculus, substitution, applications to areas, volumes, work, average. 
+/
+Calculus-Based Physics I
+Calculus-Based Physics I
+/
+Calculus-Based Physics II
+Calculus-Based Physics II
+/
+Circuit Analysis I 
+Basic elements and sources. Energy and power. Ohm's law and Kirchhoff's laws. Resistive networks, node and loop analysis. Network theorems. First-order and second-order circuits. Sinusoidal sources and complex representations: impedance, phasors, complex power. Three-phase circuits.
+/
+Instrumentation 
+Introduction to laboratory practices and the use of test equipment. Measurements on basic electrical components, dc and ac circuits using ohmmeters, voltmeters, ammeters and oscilloscopes. 
+/
+Computer Logic Design
+Binary number systems. Boolean algebra. Combinational, sequential and register transfer logic. VHDL. Arithmetic/logic unit. Memories, computer organization. Input-output. Microprocessors. 
+/
+Circuit Analysis II 
+Analysis of balanced three-phase circuits. Laplace transform with applications to circuit analysis. Passive and active filters. Fourier series and Fourier transform analysis.
+/
+Advanced Eng. Mathematics 
+First and second order Ordinary Differential Equations are solved with various methods including Laplace Transforms, matrices, eigenvalues and other techniques involving linear algebra. Applications will be emphasized using MATLAB.
+/
+Macroeconomic Principles 
+Macroeconomics is the study of national and global economies. Topics include output, unemployment and inflation; and how they are affected by financial systems, fiscal and monetary policies. 
+/
+Microeconomic Principles
+This course will provide a broad overview of microeconomics. Microeconomics is the study of issues specific to households, firms, or industries with an emphasis on the role of markets. Topics discussed will include household and firm behavior, demand and supply, government intervention, market structures, and the efficient allocation of resources.
+/
+Software Design 
+Design of software systems using modern modeling techniques. Relationship between software design and process, with emphasis on UML and its interface application code. Exposure to design patterns, software frameworks, and software architectural paradigms. 
+/
+Professional and Technical Communication 
+Professional and Technical Communication will introduce students to the different types of documents and correspondence that they will create in their professional careers. This course emphasizes the importance of audience, document design, and the use of technology in designing, developing, and delivering documents. 
+/
+Calculus III 
+Vector operations, vector representation of planes and curves, functions of several variables, partial derivatives, gradient, tangent planes, optimization, multiple integrals in Cartesian cylindrical and spherical coordinates, vector fields, line integrals and Green’s theorem.
+/
+Signals and Systems 
+Fourier series and transforms, discrete time Fourier series/transform, Z-transform, sampling theorem, block diagrams, modulation/demodulation and filters, Computer implementations. 
+/
+Data Structures and Algorithms
+An introduction to data structures and algorithms. Topics include asymptotic notation recurrence relations, sorting, hash tables, basic priority queues, balanced search trees and basic graph representation and search.
+/
+Electronics I 
+Introduction to diodes, bipolar and field-effect transistors. Analysis and design of digital circuits, gates, flip-flops and memory circuits. Circuits employing operational amplifiers. Analog to digital and digital to analog converters. 
+/
+Microprocessors 
+Computers and Microprocessors: architecture, assembly language programming, input/output and applications. 
+/
+Probabilistic Methods in Engineering
+Introduction to probability, random variables, random processes, probability distribution/density functions, expectation, correlation, power spectrum, WSS processes, confidence internals, transmission through LTI, applications of probability. 
+/
+Introduction to Mathematical Thinking and Discrete Structures
+Limits. Continuity. Derivative: definition, rules, geometric and rate-of-change interpretations, applications to graphing, linearization and optimization. Integral: definition, fundamental theorem of calculus, substitution, applications to areas, volumes, work, average. 
+/
+Senior Design I 
+Design methodology and development of professional project oriented skills including communication, team management, economics and engineering ethics. 
+/
+Senior Design II 
+Prototypes are built and tested to sponsor specifications, and reports made to sponsor in addition to a Final Report and Poster Session presentation. 
+/
+Operating Systems 
+Fundamental principles of modern operating systems design, with emphasis on concurrency and resource management. Topics include processes, interprocess communication, semaphores, monitors, message passing, input/output device, deadlocks memory management, files system design.
+/
+Comp. Networks
+Theoretical and practical study of computer networks, including network structures and architectures. Principles of digital communications systems. Network topologies, protocols and services. TCP/IP protocol suite. Point-to-point networks; broadcast networks; local area networks; routing, error and flow control techniques. 
+/

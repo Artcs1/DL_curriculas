@@ -1,0 +1,124 @@
+/
+Fundamental Human Communication: Presentations
+Study of human communication as a process. Overview of the principles and practices of interpersonal, small group and public communication. Emphasis on examining the role of self-concept, perception, culture, verbal and nonverbal dimensions in the communication process, using power and managing conflict, applying critical listening, practicing audience analysis within informative speech making.
+/
+Business Decision Making in a Modern Society
+This course introduces the concepts of basic technology literacy, information retrieval via electronic and hard copy; along with critical thinking skills. Basic business principles will be introduced to reinforce these concepts and their relationships. The course provides opportunity for applying the skills of oral and written communication to a variety of learning activities.
+/
+Critical Reading and Writing
+Fosters reflective, critical reading, writing, and research in public discourse, culture, humanities, technology, and science. Challenges students to consider cross disciplinary modes of inquiry through multiple genres with an attention to enlightened, global citizenship. 
+/
+Introduction to American Studies
+This interdisciplinary course will highlight the student’s role in interrogating the cultural and political function of representations of America in literature, history, philosophy, religion, popular culture, music and art. Students will gain an understanding of why definitions of American identity matter and learn about the contemporary debates that inform the discipline of American Studies today. 
+/
+Literature/Culture/Ideas
+This course will take a thematic approach to literature by examining multiple literary texts that engage with a common course theme concerned with the human experience. Themes address cultural, political, social, religious or philosophical aspect ideas through literature. 
+/
+Art in General Culture
+An exploratory course that aims to develop a non-technical, general cultural understanding of the space arts, such as architecture, painting, sculpture and industrial design. 
+/
+Topics in Applied Calculus in ISAT 
+This course introduces the concepts of differential and integral calculus and ordinary differential equations to model real-world applications in science, business, technology and economics. This course includes a computer laboratory component emphasizing modeling and numerical methods.
+/
+Concepts of Chemistry 
+A one-semester introduction to the fundamental principles, laws and applications of chemistry. Examples relating to the health sciences are emphasized. 
+/
+Environment: Earth 
+A study of geological processes causing global change and their impact on human thought. The relationship between some geological processes and life on the Earth is also considered.
+/
+U.S. History
+A survey of U.S. history from the Colonial period to the present, emphasizing the development of American civic life, the involvement of the U.S. in world affairs and the cultural richness of the American people.
+/
+Cultural Anthropology
+An introduction to the nature of culture and its relationship to language, economics, politics, kinship and other institutions in diverse cultures. The course also provides an overview of the theories, methods and ethical responsibilities involved in the study of cultural systems and ethnographic writing.
+/
+Personal Wellness
+Emphasizes lifestyle behaviors contributing to health promotion and disease prevention. General areas affecting health status are identified. Suggestions are made as to how health-related behaviors, self-care and individual decisions contribute to health and influence dimensions of wellness. 
+/
+General Psychology
+A study of the nervous system, sensation, perception, consciousness, learning, memory, language, intelligence, motivation, emotion, life span development, personality, psychopathology, psychotherapy, social psychology and the scientific method. 
+/
+Critical Thinking
+An introduction to the techniques for analyzing and evaluating information in everyday experience. The functions of language will be discussed. Techniques for judging the strengths of arguments and the probable truth of the arguments’ premises will be examined. 
+/
+Introduction to Programming
+Fundamental problem-solving techniques using a modern programming language. Topics include variables, input/output, decisions, loops, functions, arrays, and objects.
+/
+Advanced Programming
+Students use advanced problem-solving strategies to develop algorithms using classes and objects and techniques such as recursion, exceptions and file I/O. This course also focuses on designing small applications and effective testing strategies.
+/
+Algorithms and Data Structures
+Students learn how to implement stacks, queues, lists, sets and maps using arrays, linked lists, binary trees, heaps, binary search trees, balanced trees and hashing. Students study graph representations and algorithms. Students analyze recursive and non-recursive algorithms, illustrated by various searching and sorting algorithms.
+/
+Computer Systems I
+Introduction to the operation of modern interrupt-driven computer systems. Explores the representation of software and information in binary memory, the primary components of a CPU, multithreaded programming and basic interactions with an Operating System.
+/
+Discrete Structures II
+This course builds on the theoretical foundation developed in Discrete Structures I. Students study a range of topics from discrete mathematics and theoretical computer science including elementary number theory, matrices, graph theory, automata, computability and complexity theory.
+/
+Software Engineering
+Study of modern methods and tools for the development of software products. Topics include software development process models, software development tools, design and construction principles and practice, software quality assurance and program management. 
+/
+Computer Systems II
+Intermediate exploration of modern interrupt-driven computer systems. Explores models of computation and complex systems, techniques for communication and synchronization of parallel and concurrent software, and the protocols that make up the Internet. 
+/
+Programming Languages
+Several actual programming languages are studied in terms of the fundamental principles of computer programming language design, including object-oriented programming, functional programming, concurrent programming and logic programming. 
+/
+Artificial Intelligence
+Students will study the history, premises, goals, social impact and philosophical implications of artificial intelligence. Students will study heuristic algorithms for large state spaces and learn to develop recursive and non-deterministic algorithms. 
+/
+Discrete Structures I
+An introduction to discrete mathematical structures including functions, relations, sets, logic, matrices, elementary number theory, proof techniques, basics of counting, graphic theory, discrete probability, digital logic, finite state machines, integer and floating point representations.
+/
+Calculus with Functions I 
+Calculus with Functions I 
+/
+Calculus with Functions II
+Calculus with Functions II
+/
+Introduction to Probability and Statistics
+This class covers descriptive statistics, counting, probability axioms, discrete and continuous univariate random variables, expected values of random variables and sums of independent random variables, and sampling distributions. It also covers the Central Limit Theorem, single and two sample inference for proportions and means, chi-square test of independence, simple linear regression and correlation.
+/
+Applied Algorithms
+A practical study of algorithms and their use in problem solving. Algorithms are selected from categories including divide-and-conquer, greedy, backtracking, network flow and dynamic programming. The classes P and NP are introduced and intractable problems discussed.
+/
+Compilers
+Introduction to the theory and implementation of compilers. Explores the lexical, syntactic, and semantic analysis of high-level language code as well as code generation, optimization techniques, and architectural or operating system considerations. 
+/
+Career and Academic Planning
+A course designed to prepare students for career and academic planning. Specific content includes accessing career and academic resources, career decision-making skills, and self awareness.
+/
+Career and Academic Planning
+A course designed to prepare students for career and academic planning. Specific content includes accessing career and academic resources, career decision-making skills, and self awareness. 
+/
+Global Learning and Living: Madison International
+This course provides an opportunity for a diverse cohort of international and U.S. students to learn from and about each other through stimulating discussions, intercultural residence hall programs and the opportunity to participate in service learning.
+/
+Making Sense of Beliefs and Values: A Guided Tour for Global Citizens
+This course explores the origin and nature of beliefs and values and how they are linked to actions, policies and practices around the world. These processes are examined through a range of big picture issues (e.g., religious, political, environmental, gender-based, cultural) that are relevant to all global citizens.
+/
+Alternative Break Leadership Training
+A leadership training curriculum that covers a broad range of topics essential to leading an alternative break trip. This course incorporates service learning pedagogy. This will be accomplished through the use of affective and cognitive approaches. Personal growth as it relates to core concepts of leadership will be prominent. Emphasis is also placed on peer interaction, active participation, extensive reading, case work and a range of guest speakers.
+/
+Alternative Break Leadership Practicum
+Hands-on practicum of leadership strategies and techniques. Collaborative learning is enhanced when students apply what they learn in class by describing relevant lessons learned through experiences outside the classroom. The focus of this course is to provide students with the opportunity to lead in an observed setting and receive constant feedback and mentoring on their demonstrated leadership skills, critical reflection, inquiry, dialogue, and group interaction. 
+/
+Health Education Facilitation and Synthesis
+Students will receive health content knowledge while increasing their group facilitation, presentation and processing skills.
+/
+Campus Health Communication
+This course provides students an opportunity to learn about, create and communicate messages about health and wellness topics. Students develop the content produced in the campus publication Potty Mouth. Students develop skills in media literacy, self­directed learning and systems thinking, and they create media products. 
+/
+Dollars and Sense
+This practical course will review the affect a personal philosophy on money, and management of personal finances, has on all aspects of life when it comes to securing the American Dream.
+/
+Practicum in University Studies
+Selected practicum experiences, which provide students with supervised practicum experiences. 
+/
+Special Studies in University Studies
+Designed to give students an opportunity to complete independent study and/or research under faculty supervision in university studies. 
+/
+Special Topics in University Studies
+Special topics course with topics approached from a variety of academic perspectives. Designed for lower-level elective credit.
+/

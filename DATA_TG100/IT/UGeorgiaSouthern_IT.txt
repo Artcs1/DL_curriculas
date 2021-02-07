@@ -1,0 +1,126 @@
+Communication Skills
+Communication Skills
+/
+College Algebra
+This course provides an in-depth study of the properties of algebraic, exponential and logarithmic functions as needed for calculus. Emphasis is on using algebraic and graphical techniques for solving problems involving linear, quadratic, piece-wise defined, rational, polynomial, exponential, and logarithmic functions.
+/
+Global Engagement
+Global Engagement
+/
+Public Speaking
+The critical study and practice of public speaking emphasizing the art of rhetoric from a humanistic perspective. Areas of study include research and preparation, ethics, audience analysis, and presentation of speeches.
+/
+Natural Sciences, Mathematics, and Technology
+Natural Sciences, Mathematics, and Technology
+/
+Introduction to Information Technology
+An introduction to Information Technology as an academic discipline and the structure of the Bachelor of Science in Information Technology degree. It also provides students with an introduction to the range of applications of Information Technology.
+/
+Programming for Info Tech
+Introduction to basic concepts and techniques of a contemporary programming language. Topics include language syntax, variables, decision structures, loop structures, functions, and IDE. Development of modular programs for event-driven applications. 
+/
+Web Page Development
+A thorough introduction to the languages used to create web pages. Throughout it stresses the importance of good coding style. The course also introduces students to the principles of good human computer interface design, including design for people with disabilities
+/
+Data Programming I
+The course provides students with an introduction to the main concepts in programming including variables, expressions, statements, conditional execution, functions, iteration, strings, and files.
+/
+Programming Principles I
+Provides a fundamental understanding of the development of computer solutions to solve problems with emphasis on structured, top-down development and testing. Concepts include the following: an overview of computer system design, problem solving and procedural abstraction design of computer solutions, algorithm development using simple data types and control structures, implementation and testing of programmed problem solutions, design modularization using subprograms and structured and user-defined data types.
+/
+Data Programming II
+The course provides students with an introduction to the main concepts in programming related to data. The course focuses on data storage and the use of regular expressions to search data. The course also includes an overview of object oriented concepts. 
+/
+Programming Principles II
+Emphasis is on advanced techniques such as recursion, regular expressions, refactoring, object oriented programming concepts and constructs, reusing components, templates/generics, interfaces and classes. Experiences include use of an integrated development environment and shared (code) repositories. 
+/
+Introduction to Statistics I
+Introduction to Statistics I
+/
+Intro to Prof & Tech Writing
+Surveys the field of P&T, its various activities, and potential career paths
+/
+Fundamentals of Physical Activity and Health 
+This course combines health-related content knowledge with weekly participation in fitness or sport based physical activity. The health-related topics may include; behavioral change, personal safety, components of fitness, nutrition and weight management, prevention of chronic disease, mental health and stress management, substance use and abuse, and sexual health. The combined course content promotes a healthy lifestyle while teaching lifelong physical activities.
+/
+First-Year Seminar
+First-Year Seminar
+/
+Survey of Calculus
+Covers the fundamental elements of differential and integral calculus of algebraic, logarithmic and exponential functions. Topics include a brief review of algebraic principles, limits, derivatives and integrals. Appropriate technology will be incorporated throughout the course.
+/
+Discrete Mathematics
+Covers important discrete mathematical objects such as sets, relations and functions, graphs and trees. An introduction to mathematical logic and reasoning, and the concept of an algorithm and its complexity will be covered.
+/
+Business Intelligence
+Business Intelligence
+/
+Operating Systems
+Principles of the management of memory, processors, processes and deadlocks, synchronization of computing tasks, files, devices, and systems. Principles of network organization and network operating systems. Analysis and evaluation of comparative operating systems.
+/
+Introduction to Cyber Security
+This course teaches the fundamental concepts and principles of cyber security techniques. Topics include computer and network security, cyber stalking, social networks, fraud and abuse, web security, malware, computer viruses, encryption, techniques used by hackers and how to combat them, simulation and identification of different threat models, software vulnerabilities analysis, risk assessment and mitigation, prediction of potential attack vectors through data analysis and evaluation.
+/
+Database Design and Implementation
+The course provides students with the opportunity to develop in-depth knowledge of database design, implementation, and systems development. The course covers data modeling concepts, approaches and techniques, and stages in database development processes (conceptual and logical design, implementation and maintenance). The course also covers methods and approaches used in system analysis and design, including the system development life cycle. To reinforce the course concepts, students will carry out projects based on real world situations.
+/
+Systems Acquisition, Design, and Implementation
+This course provides a study of the acquisition, design, and implementation of information technology systems, including methods for investigating solutions, project planning and control, documentation, and specifications. 
+/
+Electronic Commerce
+Principles and practices of E-commerce. including transaction and electronic payment systems, and business, legal, and security issues as they relate to E-commerce.
+/
+Senior Capstone Project I
+Senior Capstone Project I
+/
+Senior Capstone Project II 
+Senior Capstone Project II 
+/
+Data Communications
+Fundamentals of practical aspects of computer networks and data communications; standards, protocols, topologies, architectures, routing devices, wireless technologies, and monitoring and management. 
+/
+Information Technology Infrastructure
+This course allows students to develop a thorough understanding of the Information Technology infrastructure which includes computer hardware and networks that support various Information Technology applications, and network security. This course allows students to develop this knowledge as well as some fundamental skills in server, network system administration and management, and to become aware of the importance of information assurance and security in the design, implementation and administration of an Information Technology Infrastructure
+/
+Information Technology Issues and Management
+Covers case studies of Information Technology development projects to assist the student in the recognition of the need of an Information Technology development project. The student will study and critique the development, implementation and management of both successful and unsuccessful projects.
+/
+Internship in Information Technology
+Internship in Information Technology
+/
+Web Programming
+A survey of software development tools and frameworks used in the development and deployment of web and mobile based systems. Course content includes the implementation of client-side and server-side dynamic content.
+/
+Advanced Web Interfaces
+This course provides an introduction and application of human-computer interaction theories to web-based applications. It covers the evaluation of user interfaces using various techniques including heuristic evaluation and user testing
+/
+Web and Mobile Security Fundamentals
+Cybersecurity is a cornerstone of web-based solutions for mobile applications, networks, and e-commerce. IT professionals must learn to predict, prepare for, and defend against cyber attacks from a myriad of sources if they are to build and support the next generation of business solutions. In this course, you will learn the principles of designing, building, and testing secure web-based solutions. You will also learn how to identify and prevent common security vulnerabilities.
+/
+Distributed and Mobile Systems
+This course explores the infrastructure which forms the basis of commercial, web-enabled applications on mobile and small devices, as well as personal computers. The course will focus on designing mobile web applications that provide a high level of security, reliability, scalability and availability. Through this course, students will develop proficiencies in current web technologies employed by businesses
+/
+Knowledge Discovery and Data Mining
+The course covers the process of automatically extracting valid, useful, and previously unknown information from data sources and using the information to make decisions. This course is designed to provide students with a solid understanding of the knowledge discovery process and the use of data mining concepts and tools as part of that process
+/
+Data Analytics
+This course covers the basic issues involved in building and populating a data mart to support the planning, designing and building of business intelligence applications and data analytics. Core concepts related to business intelligence and analytics are covered
+/
+Datacenter Management
+This course covers datacenter infrastructure and management including technologies such as: virtualization, networking, server consolidation, green IT computing, and network storage configurations. Using virtualized platforms (hypervisors), various server, networking and infrastructure configurations are deployed, analyzed and managed. A number of server operating systems are deployed, administered and managed via remote locations. Best practices for security policies of cloud resources including permissions, privileges and server management are analyzed and performed.
+/
+Network Architecture
+This course covers the hardware required for interconnecting digital devices for the purpose of enabling data communication through a network. Bus architectures, ports, network cards, cabling, routers, switches. Ensuring network reliability. Optimizing network performance.
+/
+Network Security Fundamentals
+This course is intended to serve the needs of individuals interested in understanding the field of network security and how it relates to other areas of information technology. The course will take a broad look at network security and provide the knowledge necessary to prepare students for further study in specialized security areas or used as a capstone course to those interested in acquiring a general knowledge of the field. 
+/
+Fundamental of IS Security
+Current standards and best practice in information assurance and security. Topics include the evaluation of security models, threat analysis, security risk assessment and risk mitigation, disaster recovery planning, cryptography and encryption algorithms, and security policy formation and implementation.
+/
+Network Security
+Concepts of network security, including: countermeasures and safeguards to networks such as remote access controls, firewalls, intrusion detection systems, data encryption, and virtual private networks
+/
+Ethical Hacking
+Ethical Hacking
+/

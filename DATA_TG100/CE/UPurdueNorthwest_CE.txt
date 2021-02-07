@@ -1,0 +1,103 @@
+/
+Integrated Calculus Analysis Geometry I
+Topics from plane analytic geometry. Introduction to differentiation and integration.
+/
+General Chemistry
+Stoichiometry; atomic structure; periodic properties; ionic and covalent bonding; molecular geometry; gases, liquids, and solids; thermochemistry. Required of students majoring in science and students in engineering. Preparation equivalent to one year of high school chemistry is strongly recommended for students enrolling in this course.
+/
+Fundamentals Of Speech Communication
+A study of communication theories as applied to speech; practical communicative experiences ranging from interpersonal communication and small group process through problem identification and solution in discussion to informative and persuasive speaking in standard speaker-audience situations.
+/
+First Year Seminar For Engineers
+The course will provide the foundations for students enabling them to: learn to succeed, work together in teams, understand the field chosen for study, and orient to the University life and environs.
+/
+Elementary Engineering Design
+An introduction to engineering design
+/
+Integrated Calculus Analysis Geometry II
+Completion of introductory study of topics in plane analytic geometry and the calculus of one variable, infinite series
+/
+Mechanics
+Calculus-based. Statics; uniform and accelerated motion; Newton’s laws; circular motion; energy, momentum, and conservation principles; dynamics of rotation; gravitation and planetary motion; hydrostatics and hydrodynamics; simple harmonic motion; wave motion and sound. 
+/
+English Composition I
+Emphasis on the organization of the expository theme. Directed writings of themes based on personal experience, on the relationship between experience and language, and on the relationship between experience and ideas.
+/
+Software Tools For Engineers
+Introduction to MATLAB and engineering problem solving with MATLAB. Students will be introduced to arrays, relational and logical operations, control flow of sequence, selection and repetition, function definition, 2-D and 3-D graphics, data analysis, Graphical User Interface (GUI) development and Simulink.
+/
+Multivariate Calculus
+Parametric equations and calculus, solid analytic geometry, vector functions, differential and integral calculus of functions of two or more variables, and an introduction to vector calculus with applications.
+/
+Electricity And Optics
+Heat, kinetic theory, elementary thermodynamics, heat transfer. Electrostatics, AC/DC circuits, electromagnetism, magnetic properties of matter; geometrical and physical optics.
+/
+Linear Circuit Analysis I
+Volt-ampere characteristics for circuit elements; independent and dependent sources; Kirchhoff’s laws and circuit equations. Source transformations; Thevenin’s and Norton’s theorems; superposition, step response of 1st order (RC, RL) and 2nd order (RLC) circuits. Phasor analysis, impedance calculations, and computation of sinusoidal steady state responses. Instantaneous and everage power, complex power, power factor correction, and maximum power transfer. Instantaneous and average power
+/
+Electronic Measurement Techniques
+Experimental exercises in the use of laboratory instruments. Voltage, current, impedance, frequency, and wave form measurements. Frequency and transient response. Elements of circuit modeling and design
+/
+Programming For Engineers
+Introductory C programming course. Students will be introduced to basic syntax, standard mathematics library, control structures, user-defined functions, arrays, pointers, structures, and file I/Os. Laboratory exercises will accelerate learning of fundamental materials through supervised practice.
+/
+Differential Equations
+A first course in ordinary differential equations. First order differential equations, linear and nonlinear systems of differential equations, and second order differential equations
+/
+Linear Algebra
+Introduction to linear algebra. Systems of linear equations, matrix algebra, vector spaces, determinants, eigenvalues and eigenvectors, diagonalization of matrices, applications.
+/
+Linear Circuit Analysis II
+Use of Laplace Transform techniques to analyze linear circuits with and without initial conditions. Characterization of circuits based upon impedance, admittance, and transfer function parameters. Determination of frequency response via analysis of poles and zeros in the complex plane. Relationship between the transfer function and the impulse response of a circuit. Use of continuous time convolution to determine time domain responses. Properties and practical uses of resonant circuits and transformers.
+/
+Introduction to Digital System Design
+An introduction to the analysis and design of combinational and sequential digital systems, with an emphasis on practical design techniqes and rapid protoyping on a contemporary programmabe logic device using a modern hardware description language (HDL) and electronic design automation (EDA) software
+/
+Object Oriented Programming
+The C++ and Java programming languages are presented. Students will be introduced to classes, inheritance, polymorphism, class derivation, abstract classes, interfaces, function overloading and overriding, container classes and template classes.
+/
+Signals And Systems
+Classification, analysis and design of systems in both the time- and frequency-domains. Continuous-time linear systems: Fourier Series, Fourier Transform, bilateral Laplace Transform. Discrete-time linear systems: difference equations, Discrete-Time Fourier Transform, bilateral Z-Transform. Sampling, quantization, and discrete-time processing of continuous-time signals. Discrete-time nonlinear systems: median-type filters, threshold decomposition. System design examples such as the compact disc player and AM radio.
+/
+Signs And Systems Lab
+Experiments covering the analysis and design of systems in both the time and frequency domains
+/
+Data Structures
+Data structures describe the way that computer programs organize and store information. This course introduces the specification, representation and manipulation of the basic data structures common to much of computer programming such as: linked lists, arrays, stacks, queues, strings, trees, graphs, search trees, heaps, hash tables, and B-trees
+/
+Engineering Economics And Project Management
+Introduction to principles of engineering project management and techniques. Topics include technical feasibility studies, project specifications, scheduling, validation, lifecycle costing, and economic analysis. The focus is on managing an engineering project through scheduling, budgeting, resource management, execution and control.
+/
+Microprocessor System Design And Interfacing
+An introduction to basic computer organization, microcontroller instruction sets, microcontroller programming using assembly and C language, microcontroller interfacing and peripherals, and embedded system design.
+/
+Discrete Mathematical Structures
+This course is the study of finite and discrete mathematical structures relating to the theory of computation. Topics will include directed and undirected graphs and their relation to these structures, combinatorial problems inherent in computation, Boolean algebra, and recurrence relations
+/
+Probabilistic Methods In Electrical And Computer Engineering
+An introductory treatment including probability of events, discrete and continuous random variables, multiple random variables, sums of random variables and long-term averages, and elementary random processes. Applications involving uniform, Gaussian, exponential, geometric and related random variables. Introduction to parameter estimation and hypothesis testing. Discussion of wide-sense stationary random processes, including correlation functions, spectral densities and the response of linear time invariant systems. Course examples are drawn from signal processing, wireless communications, system reliability, and data science.
+/
+Computer Organization And Design
+Design of computer systems with emphasis on computer hardware. Topics discussed include: Introduction to Basic Design Concepts, Computer Abstraction and Technology, Role of Performance, Instruction Language, Arithmetic for Computers, Processor Data Path and Control, Enhancing Performance with Pipelining, and Exploiting Memory Hierarchy. Students design and implement a RISC processor in the laboratory
+/
+Written And Oral Communication For Engineers
+Course focuses on written and oral communication specifically for the environment, with special attention given to purpose, organization, audience analysis, and appropriate situational protocol. Written work emphasizes technical reports, technical descriptions, research skills, principles of document design, collaborative writing, and routine correspondence. Oral work emphasizes project presentations, conference planning and leadership, and small group dynamics
+/
+Analog and Digital Electronics
+Electronic amplifiers; operational amplifier circuits; diode characteristics and circuit applications; bipolar junction transistor (BJT) and MOSFET characteristics, operating modes biasing, linear amplifier configurations; ideal characteristics of logic devices; basic logic devices using BJTs and MOSFETs
+/
+Senior Engineering Design I
+The senior engineering design courses I and II constitute a two-semester sequence of an interdisciplinary activity. The objective of these courses is to provide engineering students with supervised experience in the process and practice of engineering design. Projects are chosen by the students or the faculty. Students working in teams pursue an idea from conception to realistic design. The course concludes with a substantial written and oral design review before a faculty team. Class discussions will include the ethical responsibility of engineers, impact of engineering solution in a global/societal context, and small-group interactions.
+/
+Introduction To Communication Theory
+Signal analysis, introduction to digital communication and pulse code modulation. Introduction to amplitude modulation and frequency modulation. Introduction to information theory
+/
+Software Engineering Design I
+The design and implementation of larger scale software in Java. Introduction of software engineering design concepts. Application of fundamental concepts and programming strategies useful in the context of any programming language. 
+/
+Senior Engineering Design II
+The senior engineering design courses I and II constitute a two-semester sequence of an interdisciplinary activity. The objective of these courses is to provide engineering students with supervised experience in the process and practice of engineering design. Projects are chosen by the students or the faculty. Students working in teams pursue an idea from conception to realistic design. The course is climaxed by the presentation of a substantial written report and a formal oral presentation before faculty and students
+/
+Ethics For The Professions
+A study of the ethical problems faced by professionals in engineering, management, and other professional fields. Topics include: ethical theories, moral decision-making, social responsibility, employee rights and responsibilities, the environment, truth telling, affirmative action, privacy and confidentiality, whistle-blowing, and deception.
+/

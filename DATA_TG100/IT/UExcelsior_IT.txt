@@ -1,0 +1,85 @@
+/
+INTERMEDIATE PROGRAMMING
+This is an intermediate programming course that covers problem-solving and algorithm development using the popular programming language Java. Java is one of the most popular languages used in object-oriented programming. 
+/
+BUSINESS DATA COMMUNICATIONS
+This course offers an overview of the current theory and practice of business data communications and networks. It places emphasis on the role of the telecommunications industry in the growth of information societies and their reliance on knowledge and information services to stimulate economic growth. 
+/
+COMPUTER ORGANIZATION AND OPERATING SYSTEMS
+In this course, the architecture of a modern computer system and the organization of an operating system are emphasized. Course topics include an overview of computer architecture, central processing unit architecture and instructions, arithmetic and logical operations, structure of modern operating systems, operating system functions, concurrency and synchronization, process control, interprocess communication, memory organization and management, file systems, interfaces to network structures, protection and security, and virtualization concepts. These concepts are reinforced with practical applications using a personal computer, Raspberry Pi, and computer programs and scripts.
+/
+DATABASE MANAGEMENT SYSTEMS
+Examines the technology and impact of the design of database systems on the organization. Covers the application, design, and implementation of database systems. Topics include an introduction to basic database concepts, database design principles including E-R diagrams and database normalization, SQL queries, transaction management, distributed databases, data warehousing, and database administration. Course focuses on the relational model.
+/
+WEB DESIGN AND DEVELOPMENT
+This course will provide practical instruction on the design, creation and maintenance of web pages. The course will cover the fundamental principles of web programming and formatting. This will include learning the difference between client side and server side scripting technologies, effective use of web authoring tools and code development. The course will also cover web design standards and the need for integrating human computer interaction principles in web design. The final project in the course will enable learners to apply current development and production practices to design web pages.
+/
+HUMAN COMPUTER INTERACTIVE DESIGN
+The hallmark of human-computer interaction (HCI) is the understanding of human behavior. The course starts with fundamental concepts related to human behavior through the lens of HCI, human-centered design, user experience (UX) and user interface (UI). These concepts are applied experientially throughout the 8 modules of the course. Research design, persona development, information architecture, low and high fidelity prototyping using wireframing are all used to develop a minimally viable product (MVP) using HTML and CSS. The course long project is the culmination of material covered throughout the course and can be used as a portfolio item to showcase classwork for an interview or other employment situation.
+/
+OVERVIEW OF COMPUTER SECURITY
+This course will focus on providing you with insights, guidance, and best practices on the principles of information security. Students develop an understanding of the technologies and methods utilized to defend systems and networks. They learn to describe, evaluate, and operate a defensive network architecture employing multiple layers of protection, using technology appropriate for secure mission accomplishment. Students will also examine the various types of vulnerabilities (design and implementation weaknesses), their underlying causes, their identifying characteristics, the ways in which they are exploited, and potential mitigation strategies.
+/
+PROJECT MANAGEMENT
+Explores system development life cycle (SDLC) and project life cycle to enhance skills in budget and timeline management.  Use of project management software to design project schedules, using bar charts, PERT and critical path method.
+/
+SYSTEM ADMINISTRATION
+This course provides learners with the knowledge and hands-on skills necessary to administer systems and its resources. Topics covered include directory services, user account management, file and print services, load balancing, security and user/client administration. Students will setup and manage a fully functioning computer network of systems. Furthermore, through hands-on (labs) assignments, students deal with challenges designed to help them install, configure and manage servers.
+/
+INTEGRATED TECHNOLOGY ASSESSMENT BIX
+This is the capstone course for the Bachelor of Science in Information Technology program. It requires you to reflect on your past academic and professional experiences and use the information gained from this reflective exercise to develop learning statements related to the Information Technology degree outcomes. The learning statements must be supported by documented evidence that demonstrates that the outcomes have been met. Additionally, you will be tested on your knowledge of information technology fundamentals and practices to ensure that you are able to meet the needs of industry. Finally, you are required to complete an information technology project that requires the demonstration of information technology system integration and the outcomes of this degree program.
+/
+FUNDAMENTALS OF PROGRAMMING
+This is an introductory programming course that covers problem solving and algorithm development using the popular programming language Python. Python is the programming language that is used to run applications like: YouTube, Google, DropBox, Instagram, Spotify, and Reddit. This course offers an introduction to basics programming concepts as well as reinforces the logical, systematic thinking required to develop basic algorithms. 
+/
+COMPUTER FORENSICS
+Emphasizes the technical and legal aspects of electronic evidence and the computer forensic investigative process.  Topics include the discovery and recovery of electronic evidence stored on or transmitted by computers, networks, and cellular devices.
+/
+CYBER ATTACKS AND DEFENSES
+This course investigates security issues, vulnerabilities, and mechanisms to identify, respond to and prevent cyberattacks and to build active defense systems. The course will follow the formal ethical hacking methodology including reconnaissance, scanning and enumeration, gaining access, escalation of privilege, maintain access and reporting. Ethical Hackers are computer and network experts who attack security systems on behalf of its owners, seeking vulnerabilities that a malicious hacker could exploit.
+/
+BUSINESS CONTINUITY
+A course designed to provide a broad coverage of topics related to security in the business environment. Coverage of methods for physical security in addition to the security measures involving hardware, software, secure and unsecure protocols, authentication, and processes used to prevent access. Emphasis on the development of a business continuity plan and disaster recovery plan will provide essential details to mitigate the effect of a breach in security or in the event of a disaster.
+/
+NETWORK AND APPLICATION SECURITY
+This course covers the main concepts and models of network and application security, which includes: security models and threats, access control, secure routing and switching, cryptography and secure communication, and how to mitigate security threats.
+/
+ORGANIZATIONAL INFORMATION SECURITY
+This course will prepare students to recognize information security threats, enable them to plan, develop, and communicate policies and practices to mitigate those risks, and respond to security information and event management (SIEM) incidents as they occur from a management perspective.
+/
+ENGLISH COMPOSITION
+This class provides students with foundational knowledge and skills to prepare them for academic and professional writing.   By analyzing the work of other writers, students will learn to approach writing from a rhetorical and genre-based perspective
+/
+COMPOSITION II
+The primary objective of this course is to continue your development as an effective writer. While we will be using literature as our focus, the emphasis of this course will be on writing. As critical thinking and writing are interdependent, you will learn various methods of analyzing literature, including point of view, character, structure, plot, setting, imagery, tone, and theme. These methods will be applied to different formats and styles of writing such as analysis, and reviews.
+/
+BUSINESS ETHICS
+This course explores the nature of ethical business environments within the private and public sector. Today's complex, dynamic global environment requires business professionals who acknowledge, understand, and act appropriately when faced with inherent ethical challenges. This course prepares business professionals for these challenges by exploring ethics theory, personal values, and impacts of organizational culture. This leads to a deeper understanding of how ethical principles relate to the organizations in which people function, and the effects of the organization's ethics on its reputation, functioning, and performance.
+/
+WORLD RELIGIONS
+World Religions is a historical and comparative survey of the major religious systems of the world, including but not limited to contemporary nature/culture religions, as well as Hinduism, Buddhism, Taoism, Confucianism, Judaism, Christianity, and Islam.
+/
+INTRODUCTION TO PSYCHOLOGY I
+In this class you ll apply psychological principles and theory to your everyday life. In addition to foundational topics like psychology as a science, learning and memory, human development, and consciousness, each student creates an individualized path through the course by choosing to study topics like stress and health, psychological disorders and therapy, and human sexuality. This course is self-paced, instructor-led, but all coursework must be completed by the term end date.
+/
+INTERNATIONAL ECONOMICS
+Builds on student understanding of macroeconomics and microeconomics to analyze the world economy. Students apply economic theory to topics like trade agreements and restrictions, patterns of trade, the international flow of labor and capital, exchange-rate issues, the international monetary system, and the roles of international organizations like the World Trade Organization and International Monetary Fund.
+/
+UNITED STATES HISTORY I
+An introductory course on the early history of the United States, from pre-European contact Native American societies to the end of the Reconstruction era after the Civil War. The course examines the major political, social, and economic trends in the American colonies and new nation from the fifteenth through the mid-nineteenth centuries. Students will engage in primary and secondary source analysis to examine history through multiple lenses and perspectives. The course also focuses on diversity and cross-cultural encounters that contributed to the creation of the United States. This course uses all open educational resources, and does not require the purchase of a textbook.
+/
+BUSINESS STATISTICS
+Develops skills in the essential tools used for statistical analysis and decision making in business. Covers descriptive and inferential statistics. Emphasizes research techniques such as sampling and experimental design concepts for single and multiple sample groups.
+/
+DISCRETE STRUCTURES
+This course provides the mathematical foundations for information technology and other technology fields. Topics covered in this course include logic, relations, functions, recursion, induction, set theory, patterns of inference, elementary combinatorics, algorithm complexity, and graph theory. 
+/
+SCIENCE IN TODAY'S WORLD
+The purpose of this course is to give the student an overview of current and emerging trends in science and technology so that s/he will be able to make informed decisions and be an informed consumer. The course will introduce the scientific method and terminology used in reporting scientific results. A survey of current topical science issues will be covered as examples. This course will also prepare the student to read accounts about scientific, technological, and medical advances in the press and assess the scientific conclusions presented.
+/
+ESSENTIAL ALGEBRA AND STATISTICS
+This course introduces algebraic concepts, probability, and statistics, with an emphasis on ways these concepts apply in everyday life. Course modules will contain a review of necessary algebraic concepts, and examples of their application to probability and statistics.
+/
+HISTORY OF WESTERN ART: ANCIENT THROUGH THE 14TH CENTURY
+Examine bison on cave walls, marvel at the Greek ideal of beauty, glimpse Byzantine splendor, and feel the pathos of medieval piety. We explore Western art from its earliest known forms, dating as far back as 30,000 BCE, to the beginnings of civilization in Mesopotamia and Egypt. We will look at the Mediterranean cultures of the ancient Aegean, Greece, and Rome and the religious visual expressions of the Middle Ages, including spectacular Gothic cathedrals. 
+/

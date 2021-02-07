@@ -1,0 +1,55 @@
+/
+Programming and Algorithms I
+Coverage includes the software life cycle, as well as algorithms and their role in software design. Students are expected to design, implement, and test a number of programs. 
+/
+Programming and Algorithms II
+This course continues the study of software specification, design, implementation, and debugging techniques while introducing abstract data types, fundamental data structures and associated algorithms. Coverage includes dynamic memory, file I/O, linked lists, stacks, queues, trees, recursion, and an introduction to the complexity of algorithms. Students are expected to design, implement, test, and analyze a number of programs.
+/
+Analytic Geometry and Calculus
+Limits and continuity. The derivative and applications to related rates, maxma and minima, and curve sketching. Transcendental functions. An introduction to the definite integral and area.
+/
+Assembly Language Programming
+Topics include number systems and their rules for arithmetic; basic central processing unit (CPU) organization concepts such as registers, data paths, the arithmetic and logic unit (ALU) and the interface to random access memory (RAM); instruction formats, addressing modes and their uses with a variety of data structures; and parameter passing techniques including the use of a stack frame. The use of good programming methodologies to develop and document algorithms at the assembly language level is emphasized. 
+/
+Embedded Systems Development
+This course presents the concepts and techniques associated with developing low level Embedded Systems Applications, using both Assembly Language and C. Topics include microprocessor architecture concepts, instruction set architectures, Assembly Language programming, data representations, interrupt handling and execution modes, low level C programming, and the use of on-chip and external peripherals.
+/
+Discrete Mathematics
+Topics include sets, relations, propositional and predicate logic, basic proof methods including mathematical induction, digital logic circuits, complexity of algorithms, elementary combinatorics, and solving linear recurrence relations. 
+/
+General Chemistry for Applied Sciences
+A survey of the principles of chemistry, primarily for students in agriculture, industry and technology, and pre-nursing. 
+/
+Organic Chemistry for Applied Sciences
+A survey of organic chemistry emphasizing the structure, properties, and reactions of all major functional groups of organic molecules. Not applicable towards a degree in chemistry or biochemistry. 
+/
+Introduction to Databases
+Topics may include a survey/lecture component as well as a project component. The survey component covers entity- relationship modeling, relational algebra and calculus theories, data definition and data manipulation languages such as SQL, file structures, transactions, concurrency control, recovery, tuning and optimization, and object-oriented databases. The project entails requirements definition, design, and implementation of a database application. 
+/
+Computer Security
+This course provides a broad overview of some of the more technical aspects of Information Systems Security. The content is designed to prepare students for the Certified Information Systems Security Professional/Associate (CISSP/A) examination from the International Information Systems Security Certification Consortium (ISP2), including a discussion of each of the following topics: security management practices; access control systems; telecommunications and network security; cryptography; security architecture and models; operations security; applications and systems development; business continuity planning and disaster recovery planning; law, investigation, and ethics; and physical security. 
+/
+Algorithms and Data Structures
+This course focuses on object-oriented methodologies in designing and implementing a variety of data structures and algorithms. Coverage includes recursion, trees, search structures, hashing, heaps, sorting algorithms, and graph algorithms. Data structure and algorithm combinations will be studied and analyzed along with their relative merits using both mathematical and empirical measurements. The course includes a number of large programming assignments focusing on object-oriented software engineering and algorithm development. Students will be required to design, implement, test, and analyze their programs in at least one object-oriented language. 
+/
+Operating Systems
+Operating system fundamentals, including history, process and thread management, concurrency with semaphores and monitors, deadlocks, storage management, file systems, I/O, and distributed systems. 
+/
+Survey of Calculus
+This course covers the fundamental concepts and techniques of differential and integral calculus with an introduction to differential equations. Emphasis on applications from the Life Sciences. This course is not intended for majors in mathematics, physics, chemistry, or engineering.
+/
+Advanced Computer Networks
+Examination of computer network protocol design issues and a selection of advanced computer networking topics, such as multimedia networking, wireless networks, optical networks and network security, using current and proposed standards as examples.
+/
+High Performance Computing
+The course covers high performance computer architecture including: branch prediction, out-of-order execution, cache coherence and consistency, many-core processors, vector processing, dynamic scheduling, instruction level parallelism, thread level parallelism, and memory hierarchy design.
+/
+Introduction to Computer Science
+Number systems and data representation are introduced. An overview of hardware, including the control unit, memory, the ALU, and I/O is provided. Software is introduced with an overview of operating systems, programming languages, applications, and software tools. Students are exposed to common operating systems and applications. Student also design and implement several programs.
+/
+Living With Technology
+This course explores the impact of technology on our lives. Aspects of our complex technological society are investigated through study of the various forms technology takes, and readings in contemporary literature regarding the impact these technologies have on individuals. Students are encouraged to reflect on technology in their own lives through journaling, and to discourse with their peers on the benefits and harm to individuals, society, and humanity that modern technology presents.
+/
+PCs and Peripherals
+This course focuses on the hardware and software of the modern PC , currently available peripherals and upgrades, and the basics of networking. Included will be a survey of the pros and cons of different hardware choices for various PCs, peripherals, and networking options. 
+/

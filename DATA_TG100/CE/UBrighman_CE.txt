@@ -1,0 +1,171 @@
+Introduction to Computer Programming
+Introduction to object-oriented program design and development. Principles of algorithm formulation and implementation.
+/
+Data Structures and Algorithms
+Fundamental data structures and algorithms of computer science; basic algorithm analysis; recursion; sorting and searching; lists, stacks, queues, trees, hashing; object-oriented data abstraction.
+/
+Discrete Structures
+Introduction to grammars and parsing; predicate and propositional logic; proof techniques; sets, functions, relations, relational data model; graphs and graph algorithms.
+/
+Advanced Programming Concepts
+Advanced software development with an object-oriented focus. Design, implementation, and testing of several large programs in a Java and Linux environment using current technologies.
+/
+New Student Seminar
+Overview of electrical and computer engineering with group and individual design projects.
+/
+Fundamentals of Digital Systems
+Digital logic: theory, design, and implementation of combinational and sequential logic. Laboratory experience in construction of digital logic circuits.
+/
+Circuit Analysis and Laboratory
+Analysis of electric circuits including transients, sinusoidal steady-state, and power. Includes labs.
+/
+Computer Organization
+Architecture, organization and design of computer systems, including assembly language programming, computer arithmetic, instruction execution, performance analysis, pipelining, memory hierarchy, and the design of datapath and control logic.
+/
+Introduction to Embedded System Programming
+Understanding the hardware-software interface in an embedded system. Using C and assembly language in device-driver design. Software interfacing to peripherals. Performance and memory issues. Hardware interrupt programming.
+/
+Electronic Circuit Design 1
+Analysis and design of electronic circuits with an emphasis on amplifier gain and frequency response.
+/
+Signals and Systems
+Time and frequency domain analysis of discrete or continuous systems subjected to periodic or nonperiodic input signals.
+/
+Junior Team Design Project
+Culminating design experience based on skills learned in junior-level courses. Students works in teams to plan, design, and test a project based on the integration of components built in other classes.
+/
+Junior Seminar
+Seminars and colloquia on current topics in electrical and computer engineering, as well as ethics, contemporary issues, and life-long learning.
+/
+Capstone Design 1
+First semester of a two-semester design experience from conception to manufacturing planning and prototype. Product development process. Economic and manufacturing considerations. Intellectual property agreement required.
+/
+Capstone Design 2
+Second semester of a two-semester design experience from conception to manufacturing planning and prototype. Product development process. Economic and manufacturing considerations. Intellectual property agreement required.
+/
+Calculus 1
+Differential and integral calculus: limits; continuity; the derivative and applications; extrema; the definite integral; fundamental theorem of calculus; L'Hopital's rule.
+/
+Calculus 2
+Techniques and applications of integration; sequences, series, convergence tests, power series; parametric equations; polar coordinates.
+/
+Elementary Linear Algebra
+Linear systems, matrices, vectors and vector spaces, linear transformations, determinants, inner product spaces, eigenvalues, and eigenvectors.
+/
+Ordinary Differential Equations
+Methods and theory of ordinary differential equations.
+/
+Introduction to Newtonian Mechanics
+Linear, circular, and projectile motion; their prediction from forces and torques. Conservation of energy and momentum. Weekly lab.
+/
+Introduction to Electricity and Magnetism
+Electricity and magnetism. Weekly lab.
+/
+Statistics for Engineers and Scientists
+The scientific method; probability, random variables, common discrete and continuous random variables, central limit theorem; confidence intervals and hypothesis testing; completely randomized experiments; factorial experiments.
+/
+General College Chemistry 1 with Lab (Integrated)
+Atomic and molecular structure including bonding and periodic properties of the elements; reaction energetics, electrochemistry, acids and bases, inorganic and organic chemistry. Includes an exploratory laboratory component.
+/
+Principles of Chemistry 1
+Stoichiometry, kinetic-molecular theory, thermodynamics, states of matter, solutions and equilibria, electrochemistry, structure and bonding, chemical reactions, kinetics.
+/
+Persuasive Writing
+Expository and persuasive writing focusing on practical reasons for evaluating audiences, generating and structuring an argument, and making stylistic decisions. Library research paper.
+/
+Technical Communication
+Effective processes of written, oral, and visual technical communication, including collaborative processes. Writing for academic and professional audiences.
+/
+Computer Systems
+Machine-level representations of programs and data, processor architecture, program performance optimizaton, memory hierarchies, virtual memory, linking, exceptions.
+/
+Real-Time Operating Systems
+Hardware/software interface, real-time kernel internals, implementation of high-level language constructs, issues in real-time application software development.
+/
+Embedded Systems
+Interfacing digital hardware components to an embedded system processor. Developing the hardware-software interface. Developing application software. Using C and assembly language in device-driver design, monitor-debugger, and real-time kernel. Lab.
+/
+Software Design and Testing
+Principles of software design, design patterns, design representation, refactoring. Principles of software quality assurance and testing. Development and testing tools.
+/
+Operating Systems Design
+Principles and concepts of operating systems design and the implementation of an operating system.
+/
+Software Engineering
+Analysis, design, implementation, and testing of significant software systems.
+/
+Algorithmic Languages and Compilers
+Formal description of algorithmic languages and techniques used in their compilation: semantics, ambiguities, procedures, replication, iteration, recursion.
+/
+Database Modeling Concepts
+Database models: relational, deductive, object-oriented. Integrity constraints, query languages, database design.
+/
+Computer Graphics
+Interactive computer graphics systems programming and architecture.
+/
+Introduction to User Interface Software
+Introduction to software architectures and techniques for graphical user interfaces. Input devices, windowing systems, event-driven programming, interactive geometry.
+/
+Computer Communications and Networking
+Introduction to data communications and computer networking. Communications fundamentals, computer networks, software, architecture, telecommunications, regulation, standards.
+/
+Large-Scale Distributed System Design
+Principles and concepts of designing and building distributed systems. Introduction to architectures for distributed computation. Reliability, availability, and scalability of large applications. Cloud computing and APIs.
+/
+Computer Security
+Introduction to computer security fundamentals: confidentiality, integrity, authentication, and access control. Secret key and public key cryptography, network security protocols, viruses, and fire walls.
+/
+Introduction to Artificial Intelligence
+Introduction to core areas of artifical intelligence; intelligent agents, problem solving and search, knowledge-based systems and inference, planning, uncertainty, learning, and perception.
+/
+Tools for Machine Learning
+Machine learning models and other mechanisms allowing computers to learn and find knowledge from data.
+/
+Parallel Processing
+Theoretical and practical study of parallel processing including multi-core, fine-grained, and clustered architectures, parallel programming languages, and parallel algorithms.
+/
+Electromagnetic Fields and Waves
+Analysis of transmission lines and electromagnetic waves including the development and application of Maxwell's equations.
+/
+Computer Systems
+Machine-level representations of programs and data, processor architecture, program performance optimizaton, memory hierarchies, virtual memory, linking, exceptions.
+/
+Real-Time Operating Systems
+Hardware/software interface, real-time kernel internals, implementation of high-level language constructs, issues in real-time application software development.
+/
+Embedded Systems
+Interfacing digital hardware components to an embedded system processor. Developing the hardware-software interface. Developing application software. Using C and assembly language in device-driver design, monitor-debugger, and real-time kernel. Lab.
+/
+Introduction to Mixed-Signal VLSI
+VLSI circuit design emphasizing mixed-signal circuits such as D/A and A/D converters, phase-locked loops, S/H circuits. Associated laboratory provides layout-design experience.
+/
+Power Electronics
+Introduces power electronic converters including ac/dc rectifiers, dc/dc converters and dc/ac inverters. Electronic motors including DC motors and induction motors. The application of power electronic to solar and wind power generation.
+/
+Introduction to Semiconductor Devices
+Physics of electronic and optical solid state devices; includes semiconductor materials, bipolar and FET device physics and modeling, optical properties of semiconductors, and lasers.
+/
+Experiments in Integrated Circuit Development
+Measurements of key silicon properties and fabrication of integrated circuits.
+/
+Electromagnetic Radiation and Propagation
+Electromagnetic and optical theory including guided wave theory, modes, propagation in materials, radiation analysis, antenna analysis, and aperture diffraction.
+/
+Wireless Communication Circuits
+Analysis, design, and fabrication of RF/microwave passive circuit structures, amplifiers, oscillators, and mixers. System concepts, including stability, gain, and noise figure.
+/
+Introduction to Optical Engineering
+Introduces principles and practices of optical engineering including optical communications system and components.
+/
+(Me En-EC En 483) Design of Control Systems
+Classical frequency response and time domain design of control systems. State variable control and computer simulation of control systems.
+/
+Introduction to Digital Communication Theory
+Analysis and design of digital communications systems in AWGN: signal space concepts, modulation, matched filter and correlation detection, synchronization, performance. Computer-based design exercises.
+/
+Introduction to Discrete-Time Signal Processing
+Digital signal processing, fast Fourier transforms, digital filter design, spectrum analysis. Applications in speech processing, SONAR, communications, etc.
+/
+Calculus of Several Variables
+Partial differentiation, the Jacobian matrix, and integral theorems of vector calculus.
+/

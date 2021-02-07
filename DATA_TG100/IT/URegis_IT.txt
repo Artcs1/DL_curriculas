@@ -1,0 +1,245 @@
+College Algebra
+Includes algebraic
+operations, equations and inequalities, functions and their
+graphs, solution of polynomial, exponential and logarithmic
+functions and linear systems of equations.
+/
+ENTERPRISE SYSTEMS ARCHITECTURE
+Presents design, management and administration of simple to complex network topologies. Introduces Internet connectivity and protocols supporting networked applications over a distributed network and their relationship with end-users. Examines the concepts of user content, applications, services, and infrastructure. 
+/
+NETWORK INFRASTRUCTURE
+Introduces the
+foundations of network infrastructures and emerging network
+technologies. Covers OSI model in depth, including TCP/IP.
+Investigates the standards, design, architecture, and operation
+of LAN, WAN and telecommunications services. Introduces
+basic switching and routing concepts.
+/
+FOUNDATIONS OF CYBER SECURITY
+Introduces the principles and practices of information security
+including security models, internal and external security threats,
+and attacks. Topics include cryptography, network, mobile,
+host, applications, data, access control, and operational security. 
+/
+FUNDAMENTALS OF SECURITY MANAGEMENT
+Examines security management, risk analysis, disaster
+recovery, business continuity planning, and information security
+legal issues. Topics include planning for security, security
+technologies, risk mitigation, vulnerability assessment, and
+security laws and regulations.
+/
+ETHICS FOR THE INFORMATION TECHNOLOGY
+PROFESSIONAL
+Focuses on ethical problems that arise in
+the Information Technology world. Explores the areas of INFORMATION TECHNOLOGY
+crime, privacy, intellectual property, software development, and
+employer/employee issues. Introduces the codes of ethics for
+various INFORMATION TECHNOLOGY professional associations and organizations.
+/
+SYSTEMS ANALYSIS AND DESIGN
+Studies the
+analysis and design of computer based information systems.
+Considers transformation processes and comprehensive design.
+Includes advanced technology, emphasizing expert and
+knowledge-based systems. Considers human resources,
+communications and computers in a systems framework.
+/
+Introduction to Statistics
+Presents standard topics in introductory statistics for students
+whose major is not mathematics. Topics include descriptive
+statistic, probability distributions, estimations, hypothesis testing,
+linear regression and correlation, and other topics. 
+/
+INTRODUCTION TO PROGRAMMING
+Entrylevel course in which students practice software development
+using elementary selection, looping, method, string, array, and
+object constructs implemented in a modern programming
+language. 
+/
+DATA STRUCTURES
+Studies structures for
+representing data and continued practice with software
+development. Uses algorithms to process these structures,
+including linked list, stack, queue, hash table, and tree data
+structures, along with various searching and sorting algorithms.
+/
+WEB AND DATABASE APPLICATIONS
+Introduces web-based multi-tiered distributed application
+development. Topics include using markup and scripting
+languages in the Presentation tier, services in the (web and
+business) Logic tier, and a relational database in the Data tier. 
+/
+HUMAN COMPUTER INTERACTION
+Investigates and analyzes user-centered methodologies in the
+development, evaluation, and deployment of INFORMATION TECHNOLOGY applications and
+systems. Emphasizes HCI areas such as user and task analysis, 
+human factors, ergonomics, accessibility standards, and
+cognitive psychology
+/
+CYBER FORENSICS
+Introduces the principles and
+practices of digital forensics including digital investigations, data
+and file recovery methods, and digital forensics analysis and
+invalidation. Topics include data acquisition, digital forensics
+tools, virtual machines, network, mobile device, and cloud
+forensics
+/
+SYSTEMS ADMINISTRATION
+Introduces
+operating systems concepts and system administration tasks,
+including software installation, system configuration, and
+managing user accounts. Emphasizes server administration and
+management, user and group management, backup, security,
+resource, and automation management
+/
+INFORMATION TECHNOLOGY AUDIT AND RISK MANAGEMENT
+Investigates the principles of information systems audit, INFORMATION TECHNOLOGY audit
+tools, audit procedures to help in detection and prevention of
+security breaches and fraud. Examines the solutions that can be
+used to prevent information loss or costly business
+interruptions, the role of information technology governance in
+business organizations, reporting requirements, and industry
+standards for INFORMATION TECHNOLOGY Governance
+/
+MANAGEMENT OF ENTERPRISE NETWORKS
+Explores datacenter support and management requiring the
+integration of servers, applications and data storage with
+business operations and goals. Examines the impact of ethical,
+governance and legal concerns on business operations. 
+/
+SENIOR CAPSTONE
+Provides the culminating
+experience of the major, focusing on integration and application
+of theory
+/
+DATABASE MANAGEMENT
+Introduces core
+concepts in data management. Students identify organizational
+information requirements, convert conceptual data models into
+relational data models, apply normalization techniques, and
+utilize an Oracle relational database management system in a
+virtual lab environment
+/
+PROJECT MANAGEMENT
+Provides a
+foundational and practical knowledge of project management
+principles. Identifies tools and processes for managing projects
+using both Waterfall and Agile methodologies
+/
+WIRELESS NETWORKS
+This course examines
+wireless technologies used in infrared, spread spectrum,
+microwave, and cellular systems. Discuss integration of
+WLANs, satellite communications and cellular systems in an
+organization. Includes protocols, security practices and
+applications used on wireless technologies
+/
+ETHICAL HACKING AND DEFENSE
+Explores
+security threats and vulnerabilities that face computer network
+engineers by using penetration testing techniques. Examines
+requirements for a formal hacking lab and discusses ethical
+boundaries between white and black hat hacking. 
+/
+CYBER CRIME AND INFORMATION TECHNOLOGY COMPLIANCE
+Examines
+societal, ethical, and legal issues involved in information
+assurance as implemented through ethics and laws. Analysis of
+compliance themes that affect INFORMATION TECHNOLOGY environment for financial,
+publicly traded, and healthcare organizations as well as industry 
+/
+MANAGEMENT INFORMATION SYSTEMS
+Explores organizational and technical theories of management
+information systems with an emphasis on the healthcare
+industry. Examines management information system
+technology and its components. Introduces data analytics and
+how it can be used within the healthcare area.
+/
+ENTERPRISE SYSTEMS
+Provides an understanding
+of the managerial/technical issues in planning, designing, and
+implementing enterprise systems. Demonstrates the
+integration of information and business processes across
+functional areas into a unified system. Hands-on experience
+with SAP ERP software
+/
+STRATEGY AND MANAGEMENT
+how INFORMATION TECHNOLOGY is changing and will continue to change organizations as
+we now know them by introducing the complex decisions
+facing real organizations through a number of mini cases and a
+cyber security simulator. These provide an opportunity to apply
+the models/theories/frameworks presented, giving students the
+confidence and ability to tackle the tough issues regarding INFORMATION TECHNOLOGY
+management and strategy, and a clear understanding of their
+importance in delivering business value
+/
+SPEECH COMMUNICATION
+Provides an
+overview of the process of communication and introduces
+communication theory. Provides practical training in the
+fundamentals of effective presentation for individuals in both public
+speaking and group communication settings. Emphasizes discussion
+of contemporary issues and the analysis of public discourse.
+/
+TECHNOLOGY-BASED PUBLIC SPEAKING
+Provides knowledge and skills to lead others more effectively
+through presentational communication utilizing online technology
+and delivery frameworks. Includes developing more meaningful
+voice based on ethical communication, audience engagement and
+thoughtful responses to contemporary issues
+/
+COMMUNICATION IN A TECHNOLOGICAL
+ENVIRONMENT
+Explores the impact of the computer culture
+on human communication. Identifies how the computer culture
+has changed communication, norms, expectations and language.
+Practices key competencies associated with communication
+interaction, including interpersonal, organizational and conflict
+communication
+/
+PERSUASION, INFLUENCE AND MOTIVATION
+Examines the general theories that explain persuasion and one’s
+ability to influence others. Discusses communication skills,
+attitudes and competencies associated with persuasion, influence
+and motivation. Enables students to learn and practice powerful
+persuasion communication skills that will enhance both personal
+and professional success.
+/
+CULTURAL INTELLIGENCE
+Develops culture
+competence skills required in today's global economy. Foundation
+to the theory and practice of cultural intelligence, which predicts
+adjustment and success in multicultural settings. Examines deep
+layers of culture, including core worldview assumptions. 
+/
+INTERCULTURAL COMMUNICATION
+Using
+readings, film, field experience and/or dialogue, the course
+investigates cultural identity, meaning, patterns, relationships and
+conflicts that arise as contact increases between people of
+different cultures in our global society
+/
+CONTEMPORARY MATHEMATICS
+Presents
+topics in contemporary mathematics that are relevant to the
+Liberal Arts student. Develops the skills required to understand
+and interpret quantitative information that students encounter in
+the Liberal Arts curriculum
+/
+NATURAL SCIENCE
+Focuses on the basic
+elements of the natural sciences to provide students with a broad
+understanding of various themes including Geology, Astronomy
+and basic Physics
+/
+ADVANCED SCIENCE
+Explores various
+scientific disciplines and practices, as well as the application of
+science in everyday life
+/
+Philosophical Inquiry and Reflection
+Philosophical Inquiry and Reflection
+/
+
+
+

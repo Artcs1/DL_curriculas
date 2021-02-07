@@ -1,0 +1,223 @@
+﻿/
+Data Structures.
+Focuses on object-oriented programming with an emphasis on tools and techniques for developing moderate to large programs. Topics include use and implementation of linear and nonlinear data structures and the design and analysis of elementary algorithms. Offered by Computer Science. Limited to two attempts.
+/
+Digital Circuit Design.
+Analysis and design of CMOS digital integrated circuits. Topics include: MOSFET transistor design equations for “hand” analysis and models for computer (SPICE) simulations; static and dynamic characteristics of inverters; fabrication, mask layout, and simulation; static and dynamic CMOS, pass transistor and transmission gate integrated circuit styles; combinational and sequential integrated circuits; semiconductor memory cell types and memory cell arrays. Offered by Electrical & Comp. Engineering. Limited to two attempts.
+/
+Classical Systems and Control Theory.
+Introduces analysis and synthesis of feedback systems, including functional description of linear and nonlinear systems, block diagrams and signal flow graphs; state-pace representation of dynamical systems, frequency response methods, Root Locus, Nyquist, and other stability criteria; performance indices and error criteria; and applications to mechanical and electromechanical control systems. 
+/
+Digital Control Systems. 
+Introduces analysis, design of digital control systems, Z-transform, discrete linear systems, frequency domain, and state variable techniques. Discusses use of microcomputers in control systems. 
+/
+Probability and Statistics for Engineers and Scientists I.
+Introduction to probability and statistics with applications to computer science, engineering, operations research, and information technology. Basic concepts of probability, random variables and expectation, Bayes rule, bivariate distributions, sums of independent random variables, correlation and least squares estimation, central limit theorem, sampling distributions, confidence interval construction, and hypothesis testing for a single sample and two samples. 
+/
+Secure RF Communications.
+Reviews current systems of Radio Frequency (RF) communications and related cyber security issues. This course focuses on security issues in wireless networks, such as cellular networks, wireless LANs, Bluetooth, NFC, RFID, mobile security, anti-jamming communication, and physical layer security. The course will first present an overview of wireless networks, then focus on attacks and discuss proposed solutions and their limitations. 
+/
+Introduction to Computer Statistical Packages. 
+Use of computer packages in statistical analysis of data. Topics include data entry, checking, and manipulation, and use of computer statistical packages for graphical procedures, basic descriptive and inferential procedures, and regression. 
+/
+Small Spacecraft Engineering. 
+Comprehensive study of small spacecraft design, operations, bus, communications, computing hardware, software, sensors, power, attitude control, testing, and other topics needed for successful engineering of a spacecraft and its ground station. Review of ultra-small CubeSats, their hardware, software, and missions.
+/
+Hardware Security. 
+Covers security and trust in hardware, in relation to both ASIC and FPGA technologies. Topics include ASIC and FPGA manufacturing supply chain, threats and security challenges such as IP piracy, overproduction, counterfeiting, trojan insertion, reverse engineering, etc. Discusses various attacks against hardware, including physical, invasive, destructive, logical, and side channel attacks. Spans various hardware defense solutions including metering, locking, obfuscation, watermarking, access control, Trojan testing, IP core isolation, and the theory and practice of physical unclonable functions. 
+/
+Introduction to Signals and Systems.
+Provides an introduction to key concepts for the description and analysis of signals and systems with an emphasis on discrete-time signals and systems. Specific topics include sinusoidal and complex exponential signals, sampling, spectrum representation of signals via DTFT and DFT, system properties, convolution, impulse response and frequency response. The associated computer lab provides opportunities to apply concepts to physical reality. Note: Students must register for both lecture and lab. 
+/
+ECE 415: Power System Analysis. 3 credits.
+
+
+Introduces the concepts of power system analysis commonly encountered in the study and practice of electric power engineering. Emphasis is on topics of modern power system modeling, operation and protection, power flow studies, symmetrical and unsymmetrical fault calculations, economic dispatch, and power system stability. Students will use interactive power system simulation tools to complete homework assignments and a comprehensive term project. /
+Digital Electronics and Logic Design Lab.
+Digital Electronics and Logic Design Lab.
+/
+Introduction to Electrical and Computer Engineering. 
+Introduces fundamental concepts in Electrical and Computer engineering and provides insight to the various careers in each field. Both theory and practical applications of electronic components are covered through examples of real world applications.
+/
+Robot Design. 
+Introduces the concept of robot design and implementation. The focus will be on electrical design philosophies, mechanical design philosophies, and controller design. Assignments are heavily based on the design, simulation and implementation of real-world robotic applications. Assessments are primarily in project form and make use of 3D printing and other manufacturing techniques.
+/
+Linear Electronics II. 
+Second course in linear electronics. Covers differential amplifiers, feedback circuits, power amplifiers, feedback amplifier frequency response, analog integrated circuits, operational amplifier systems, oscillators, wide band and microwave amplifiers, and computer-aided design. /
+ Advanced Composition.
+Intensive practice in writing and analyzing expository forms such as essay, article, proposal, and technical or scientific reports with emphasis on research related to student's major field. Notes: Students must attain minimum grade of C to fulfill degree requirements. Schedule of Classes designates particular sections of ENGH 302 in business, humanities, natural sciences and technology, and social sciences.
+/
+Mobile Systems and Applications.
+A comprehensive study of modern mobile devices, with the special focus on smartphones and wearable devices. Topics include mobile operating systems, mobile device components, application development, human-computer interaction, data management, network systems, mobile intelligence, and mobile security. Lectures are enhanced and illustrated with several take-home, hands-on labs. A group-based, open-topic project involves specifying, developing, and presenting a medium complexity application using the Android operating system. 
+/
+Learning From Data. 
+This is an introductory course in machine learning and pattern recognition that covers basic theory, algorithms, and applications. Machine learning is the science of getting computers to act without being explicitly programmed. This course balances theory and practice, and covers the mathematical as well as the heuristic aspects. It provides a broad introduction to machine learning and pattern recognition. Topics include: (i) supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, autoencoders). (iii) Learning theory (bias/variance tradeoffs, VC theory, generalization). (iv) Ensemble methods (boosting and bagging, random forests). (v) Deep learning (deep belief networks, convolutional neural networks, deep autoencoders). The course will draw from numerous case studies and applications. 
+/
+Digital Signal Processing.
+Representation analysis and design of digital signals and systems. Covers sampling and quantization, z-transform and discrete Fourier transform, digital filter realizations, design techniques for recursive and non-recursive filters, fast Fourier transform algorithms, and spectral analysis. Additional topics may include adaptive filtering, homomorphic digital signal processing, digital interpolation and decimation.
+/
+FPGA and ASIC Design with VHDL.
+Practical introduction to modeling of digital systems with VHDL for logic synthesis. Overview and comparative analysis of design flow and tools for FPGAs and standard-cell ASICs. Discusses verification of digital systems using testbenches, prototyping boards and modern testing equipment, and illustrates VHDL-based design methodology with multiple examples from communications, control, DSP, and cryptography. Laboratory experiments create link between simulation and actual hardware implementation based on FPGA boards. 
+/
+RS: Senior Advanced Design Project II. 
+Project includes designing and constructing hardware, writing required software, conducting experiments or studies, and testing complete system. Requires oral and written reports during project and at completion.
+/
+Selected Topics in Engineering. 
+Selected topics from recent developments, and applications in various engineering disciplines. Designed to help professional engineering community keep abreast of current developments. 
+/
+Object-Oriented Programming. 
+Thorough treatment of programming according to object-oriented principles. Introduces classes, interfaces, inheritance, polymorphism, and single dispatch as means to decompose problems. Covers intermediate programming techniques including error handling through exceptions, arrangement of source code into packages, and simple data structures. Intermediate debugging techniques and unit testing are covered. 
+/
+Introduction to Random Processes in Electrical and Computer Engineering. 
+Probability and random processes are fundamental to communications, control, signal processing, and computer networks. Provides basic theory and important applications. Topics include probability concepts and axioms; stationarity and ergodicity; random variables and their functions; vectors; expectation and variance; conditional expectation; moment-generating and characteristic functions; random processes such as white noise and Gaussian; autocorrelation and power spectral density; linear filtering of random processes, and basic ideas of estimation and detection. 
+/
+Contemporary Microeconomic Principles. 
+Introduces microeconomics in the context of current problems. Explores how market mechanism allocates scarce resources among competing uses; uses supply, demand, production, and distribution theory to analyze problems. 
+/
+University Physics I Laboratory. 
+Experiments in mechanics, including techniques for recording, graphically and statistically analyzing, and reporting data. 
+/
+Mobile Devices and Network Security. 
+Embedded security features of hand-held wireless devices. Data link layer encryption and authentication protocols applied in mobile devices. Security factors in the decisions on configuring wireless mobile devices and network infrastructure. Robust cryptography that is needed to attain the highest levels of integrity, authentication, and confidentiality. 
+/
+Electric Circuit Analysis I. 
+Covers the first half of electric circuit theory and practice. Topics include DC analysis of circuits including Ohm's and Kirchhoff's laws, Thevenin and Norton equivalents, and analysis of circuits with resistors, capacitors, inductors, and operational amplifiers. Includes lab experiments to reinforce topics covered in the course. 
+/
+University Physics I. 
+First semester of three-semester, calculus-based introductory physics sequence, designed primarily for science and engineering majors. Mechanics. 
+/
+Digital Communications Systems. 
+Introduces digital transmission systems. Topics include quantization, digital coding of analog waveforms, PCM, DPCM, DM, baseband transmission, digital modulation schemes, ASK, FSK, PSK, MSK, QAM, pulse shaping, intersymbol interference, partial response, voice-band and wideband modems, digital cable systems, regenerative repeaters, clock recovery and jitter, multipath fading, digital radio design, optimal receiver design, MAP receiver, and probability of error.
+/
+Senior Advanced Design Project I. 
+Conception of senior design project and determination of feasibility of proposed project. Work includes developing preliminary design and implementation plan.
+/
+Linear Electronics I. 
+Principles of operation and application of electron devices and linear circuits. Topics include semiconductor properties, diodes, bipolar and field effect transistors, biasing, amplifiers, frequency response, operational amplifiers, and analog design. 
+/
+Operating Systems. 
+Issues in multiprogramming. Covers concurrent processes and synchronization mechanisms; processor scheduling; memory, file, I/O, and deadlock management; performance of operating systems; and projects dealing with synchronization in multiprogrammed OS and virtual memory management. 
+/
+Introductory Statistics I. 
+Elementary introduction to statistics. Topics include descriptive statistics, probability, and estimation and hypothesis testing for means and proportions. Statistical software used for assignments. 
+/
+Probability for Engineers. 
+Introduction to probability with applications to electrical and computer engineering, operations research, information technology, and economics. Basic concepts of probability, conditional probability, random variables and moments, specific probability distributions, multivariate distributions, moment-generating functions, limit theorems, and sampling distributions. 
+/
+Continuous-Time Signals and Systems. 
+Introduction to the processing and analysis of continuous-time signals and systems in the time-domain via differential equations and in the transform-domain using Laplace and Fourier transforms. Specific topics include the frequency response of LTl systems, Bode plots, system functions, block diagrams, filter design, and a rigorous treatment of sampling and aliasing. Includes applications to communications, circuits, control, and signal processing.
+/
+Linear Algebra. 
+Systems of linear equations, linear independence, linear transformations, inverse of a matrix, determinants, vector spaces, eigenvalues, eigenvectors, and orthogonalization. 
+/
+Real-Time Concepts. 
+Presents design methodology, principles and practice for the development of real-time embedded systems and their application to robotics, mechatronics, sensing, signal processing, and control. Topics include system decomposition, multi-tasking, task communication and synchronization, system modeling, time analysis, principles of filter and controller implementation, 'fuzzy' engineering, and multi-microcontroller systems. 
+/
+Computer Programming for Engineers. 
+Introduction to C as a second programming language with emphasis on problems and language features relevant to engineers. Topics include basic data types, pointers, elementary data structures, file/output, bitwise operations, and Unix commands for compilation and debugging. Intended as terminal course in computer programming. 
+/
+Fundamentals of Communication. 
+Presents principles to develop appropriate and effective communication strategies in one-to-one and small group communication settings. Emphasizes analyzing and assessing communication skills to create and sustain effective communication in personal and professional relationships. 
+/
+Introduction to Computer Programming. 
+Rigorous introduction to problem solving through development of computer programs. Focuses on identifying algorithmic patterns in problems, describing problem solutions in high-level pseudocode, then implementing in a procedural programming language. Basic programming concepts are covered in detail including expressions, control structures, simple data types, and input/output. Program testing and debugging are discussed to verify that problems are solved correctly. 
+/
+Electric Circuit Analysis II.
+Covers the second half of electric circuit theory and practice. Topics include AC analysis of circuits including phasors, frequency response, power analysis, and transformers. Includes a project and lab experiments to reinforce topics covered in the course.
+/
+Applications of Discrete-Time Signal Processing. 
+Introduces fundamental concepts of digital signal processing. Emphasis on the theoretical and numerical tools used for frequency domain analysis of sampled signals. Topics covered include sampling, the discrete Fourier transform, fast transform algorithms, spectral analysis, and digital filtering.
+/
+Data and Computer Communications. 
+Introduces modern data communications and computer networks. Topics include point-to-point communication links and transmission of digital information, modems, and codecs; packet switching, multiplexing, and concentrator design; multiaccess and broadcasting; local area and wide area networks; architectures and protocols for computer networks; OSI reference model and seven layers; physical interfaces and protocols; and data link control layer and network layer. 
+/
+Public Speaking. 
+Presents principles to develop effective presentations for public and professional settings while integrating appropriate technologies. Emphasizes analyzing audience; composing meaningful, coherent messages; conducting responsible research; developing effective arguments; and improving delivery skills to strengthen confidence and credibility. 
+/
+University Physics II Laboratory. 
+Experiments in mechanics, electricity, and magnetism, including techniques for recording, graphically and statistically analyzing, and reporting data. 
+/
+Introduction to Engineering. 
+Introduces engineering profession fundamentals and problem-solving. Topics include description of engineering disciplines, functions of the engineer, professionalism, ethics and registration, problem solving and representation of technical information, estimation and approximations, and analysis and design.
+/
+Computer Organization. 
+General overview of operating a digital computer. Topics include computer arithmetic, arithmetic unit, hardwired and microprogrammed control, memory, register-to-register, input-output operations, and behavioral modeling of computer organization using VHDL.
+/
+Probability. 
+Random variables, probability functions, special distributions, and limit theorems. 
+/
+Discrete Mathematics I. 
+Introduces ideas of discrete mathematics and combinatorial proof techniques including mathematical induction, sets, graphs, trees, recursion, and enumeration. 
+/
+Computer Networking Protocols.
+Introduces computer networking protocols and concepts, emphasizing Internet and Internet Protocol Suite. Covers computer networking protocols at application, transport, and network layers, including multimedia networking protocols, and network security and management. 
+/
+Digital System Design.
+Covers principles of digital logic and digital system design and implementation in VHDL. Topics include number systems; Boolean algebra; analysis, design, and minimization of combinational logic circuits; analysis and design of synchronous and asynchronous finite state machines; and introduction to VHDL and behavioral modeling of combinational and sequential circuits. 
+/
+Embedded Systems and Hardware Interfaces. 
+This course introduces embedded systems design through project-based activities. The platform runs on Linux and students design their own loT (Internet of Things) system as well as demonstrate dashboards with cloud-based data. Hardware interfaces and several types of sensors and actuators are incorporated as part of the projects. 
+/
+Communication and Information Theory. 
+Introduction to analog and digital communications. Topics include review of important concepts from signals and systems theory and probability theory; Gaussian processes and power spectral density; digital transmission through additive white Gaussian channels; sampling and pulse code modulation; analog signal transmission and reception using amplitude, frequency and phase modulation; and effects of noise on analog communication systems. 
+/
+Linear Electronics Lab I. 
+Linear Electronics Lab I. 
+/
+Cryptography Fundamentals. 
+Covers basic concepts of cryptology, types of cryptosystems, security services, and key management. Gradually introduces mathematical background required for understanding cryptography. Discusses modern secret-key stream and block ciphers, modes of operation, public key cryptosystems (RSA, elliptic curve, and post-quantum cryptography), hash functions, message authentication codes, and digital signature schemes. Covers key cracking machines, side-channel attacks, and fault attacks. Discusses popular cryptographic modules, such as True Random Number Generators and Physical Unclonable Functions, used for key generation and device authentication. Introduces educational and public domain software implementing modern cryptographic algorithms. 
+/
+Introduction to Wireless Communications and Networks. 
+Presents the basics of modern wireless communications and wireless networking at the first-year graduate level. Topics include wireless signal design, channel characterization, receiver structure, multiple access technologies, cellular concepts, capacity enlargement, mobility management, and wireless/wireless interworking.
+/
+Analytic Geometry and Calculus II. 
+Methods of integration, conic sections, parametric equations, infinite series, and power series. 
+/
+Special Topics in Electrical and Computer Engineering. 
+Special Topics in Electrical and Computer Engineering. 
+/
+Linear Systems and Control. 
+Introduces linear systems theory and design of linear feedback control systems. Reviews linear algebra, state variables, state-space description of dynamic systems, analysis of continuous-time and discrete-time linear systems, controllability and observability of linear systems, and stability theory.
+/
+Elementary Differential Equations. 
+First-order ODEs, higher-order ODEs, Laplace transforms, linear systems, nonlinear systems, numerical approximations, and modeling. 
+/
+Analytic Geometry and Calculus III. 
+Partial differentiation, multiple integrals, line and surface integrals, and three-dimensional analytic geometry. 
+/
+Modern Control Systems Design. 
+Introduces state-space modeling, analysis, and control of feedback systems using time-domain methods rather than frequency-domain methods, and the connections between the two. In particular the course will emphasize the connections between physical real-world systems and mathematical control problems. Specific topics include modeling and realization theory, stability analysis and control of linear systems, controllability and observability, introductions to digital control, linear optimal control, and nonlinear control. 
+/
+Optical Fiber Communications.
+Studies components and integration of fiber-optic transmission systems. Topics include optical fibers, signal degradation, optical sources, power launching and coupling, photodetectors, receiver circuits, link analysis, and optical measurements. 
+/
+Introduction to Humanoid Robotics.
+Covers basic robot architecture with a focus on humanoid robotics. Topics include mechanical design philosophies, electrical design philosophies, and controller design of high DOF systems. Simulation of various parts and functionalities of humanoids culminates in a term project , which includes hardware demonstrations. 
+/
+Mobile Robots. 
+Introduces mobile robotic systems. Topics include overview of power systems, motors, behavior-based programming, sensors, and sensor integration. Design projects conceived, developed, implemented, and presented. 
+/
+Engineering Seminar.
+Engineering ethics, professionalism, role of engineer in society, current topics, and employment opportunities.
+/
+Device Driver Development. 
+Addresses device driver and kernel level software programming and development. The C programming language and program trouble shooting are reviewed. Basics of device driver software, Character driver operations and data structures, concurrency and race conditions, kernel timers, memory allocation, communications with hardware, interrupt handling, kernel data types, memory mapping and Direct Memory Access concepts are explored. 
+/
+Computer Network Architectures and Protocols. 
+Introduction to architectures and protocols of computer networks and concept of packet switching. Topics include ISO standard layer model, physical interfaces and protocols, data link control, multiaccess techniques, packet switching, routing and flow control, network topology, data communication subsystems, error control coding, local area network, satellite packet broadcasting, packet radio, interconnection of packet-switching networks, network security and privacy, and various examples of computer networks. 
+/
+Sensor Engineering. 
+Presents the fundamentals of sensor characteristics and transfer functions, sensor circuits and interfacing, sensor noise, and protection methods. Studies of different methods used in sensing position, motion, acceleration, force, humidity, temperature, chemicals, etc. are developed, followed by an analysis of specific sensor designs. 
+/
+University Physics II. 
+Waves, electricity, and magnetism. 
+/
+Single-Chip Microcomputers. 
+Explores designing with single-chip microcomputers and microcomputer interfacing. Topics include role of microcomputers compared with microprocessors and other computers, microcomputer architecture and organization, real-time control issues, assembly language programming for control, design of control software, input/output methods, design tools, and available single-chip microcomputers. Students select project and design, and construct system including single-chip microcomputer and ancillary hardware to implement control system.
+/
+Internet of Things.
+Introduces the principles, technologies, challenges, and required expertise needed for building the Internet of Things (IoT) solutions. It provides a big picture of what is involved in IoT. Topics covered in this course include analog and digital sensing, interfacing sensors with microcontrollers, digital communication protocols, microcontroller choices and capabilities, gateways, fog computing, networking, cloud computing, need and challenges for cryptography and compression, security issues, and low power/energy challenges. The listed topics are covered only to the extent required to understand the challenges and to the point that the role of a given topic in IoT solutions is comprehended. While briefly covering the technologies involved at the various hierarchal levels of IoT solutions, the course introduces other courses at GMU where students could build further expertise in the topics of interest. 
+/
+Analytic Geometry and Calculus I. 
+Functions, limits, the derivative, maximum and minimum problems, the integral, and transcendental functions. 
+/

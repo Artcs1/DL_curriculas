@@ -1,0 +1,103 @@
+/
+Introduction to Engineering I	
+Fundamentals of engineering problem-solving including skills from mathematics, science, and computing. Introduction to the engineering design process through team-based activities. 
+/	 
+Calculus I
+Derivative of functions of one variable, applications of the derivative, introduction of the integral, and applications. 
+/
+University Physics I 
+Introduction to the principles of mechanics, wave motion, temperature and heat, with calculus. 
+/
+University Chemistry I
+An introductory course for science, engineering or agriculture majors. Atomic structure, electron configurations and periodic properties, nomenclature and bonding in compounds, Lewis structure and resonance forms, molecular geometries and polarity, stoichiometry, solution chemistry and aqueous reactions, thermochemistry, gas laws and kinetic molecular theory.
+/
+Composition I 
+Required of all freshmen unless exempted by the Department of English. 
+/
+Introduction to Engineering II	 
+Further study of engineering problem-solving including skills from mathematics, science, and computing. Experience with the engineering design process through a major, team-based project. Selecting a major within the College of Engineering.
+/
+Calculus II 
+Integral calculus of one variable and infinite series. 
+/
+University Physics II 
+Topics covered include electricity, magnetism, light and geometric optics. 
+/
+Composition II 
+Composition II
+/
+Programming Foundations I	
+Introductory programming course for students majoring in computer science or computer engineering. Software development process: problem specification, program design, implementation, testing and documentation. Programming topics: data representation, conditional and iterative statements, functions, arrays, strings, file I/O and classes. Using C++ in a UNIX environment.
+/
+Digital Design
+Introduction to the hardware aspects of digital computers, logic gates, flip-flops, reduction, finite state machines, sequential logic design, digital systems, software design tools, hardware description language (VHDL), and implementation technologies.
+/
+Calculus III 
+Differential and integral calculus of several variables, and vector calculus. 
+/
+Discrete Mathematics	
+Introductory study of sets, relations, logic, proofs, algorithms, counting methods, graph theory, trees, and Boolean algebras.
+/
+Programming Foundations II	 
+This course continues developing problem solving techniques by focusing on fundamental data structures and associated algorithms. Topics include: abstract data types, introduction to object-oriented programming, linked lists, stacks, queues, hash tables, binary trees, graphs, recursion, and searching and sorting algorithms. Using C++ in a UNIX environment.
+/
+Computer Organization	 	
+Presents the relationship between computing hardware and software with a focus on the concepts for current computers. CPU design topics are covered including various techniques for microprocessor design and performance evaluation. 
+/
+Elementary Differential Equations	 
+First and second order ordinary differential equations, the Laplace transform, and matrix systems of ordinary differential equations.
+/
+Programming Paradigms	
+Programming in different paradigms with emphasis on object oriented programming and network programming. Survey of programming languages, event driven programming, and concurrency.
+/
+Operating Systems	
+An introduction to operating systems including topics in system structures, process management, storage management, files, distributed systems, and case studies. 
+/
+System Synthesis and Modeling	
+This course instructs the students in the use of modern synthesis and modeling languages and approaches for design automation. This course will teach students the use of HDLs and modeling languages for representing and implementing digital computer systems. 
+/
+Engineering Probability and Statistics	
+Applications to engineering problems of data summary and presentation, random variables and probability distributions, point and interval estimation, hypothesis testing, linear regression, and design of experiments.	 
+/
+Software Engineering	 	
+A modern approach to the current techniques used in software design and development. This course emphasizes the use of modern software development tools, multi-module programming, and team design and engineering. 
+/
+Special Topics.
+Consideration of computer science topics not covered in other courses.
+/
+Circuits & Electronics	 	
+Basic principles of electric and electronic circuits and devices. For engineering students who are not pursuing a degree in electrical engineering. 
+/
+Ethics and the Professions
+After a survey of the standard theories of moral obligation, justice, and rights, the course focuses on specific moral problems that arise within engineering, business, and the professions. 
+/
+Capstone I	
+CSCE students complete a comprehensive software capstone project during their final year of undergraduate studies. The project is done over 2 semesters in phases: concept, formal proposal, implementation, and presentation. The projects include and may require the integration of software and human factors and hardware elements and are developed to software engineering methodologies. 
+/
+Embedded Systems
+The architecture, software, and hardware of embedded systems. Involves a mixture of hardware and software for the control of a system (including electrical, electro-mechanical, and electro-chemical systems). They are found in a variety of products including cars, VCRs, HDTVs, cell phones, pacemakers, spacecraft, missile systems, and robots for factory automation.
+/
+RFID Information Systems Security. 
+Radio frequency identification (RFID) information systems provide information to users about objects with RFID tags. They require the application of information systems security (INFOSEC) to protect the information from tampering, unauthorized information disclosure, and denial of service to authorized users. 
+/
+Algorithms
+Provides an introduction to formal techniques for analyzing the complexity of algorithms. The course surveys important classes of algorithms used in computer science and engineering. 
+/
+Public Speaking 
+Application of the communication techniques needed to organize and deliver oral messages in a public setting. Emphasis given to theory and practice of message strategies and preparation, audience analysis, presentational skills including multimedia support, speech criticism, and the listening process. 	 
+/
+Computer Architecture	 	
+The architecture of modern scalar and parallel computing systems. Techniques for dynamic instruction scheduling, branch prediction, instruction level parallelism, shared and distributed memory multiprocessor systems, array processors, and memory hierarchies. 
+/
+Capstone II	 	
+Capstone II	
+/
+Data Mining.
+The course focuses on the principles, theory, design, and implementation of data mining algorithms for large-scale data. Topics include foundations of data mining; preprocessing; mining frequent patterns, associations and correlations; supervised learning including decision tree induction, naïve Bayesian classification, support vector machine, logistic regression, Bayesian network, and K-nearest neighbor learning; unsupervised learning including K-means clustering, hierarchical clustering, density-based clustering, and grid-based clustering; outlier analysis; graph mining; scalable and distributed data mining. 
+/
+Institutions and Ideas of World Civilizations I
+Introduces the major civilizations of the world in their historical context to 1500.
+/
+Fulbright College Career Connections. 
+This course teaches students how to capitalize on their strengths, skills, experience, professional connections, and academic discipline. Key components of this course are guest lectures from on-campus and off-campus professionals, interactive group activities to practice professional skills, and the creation of an online portfolio
+/

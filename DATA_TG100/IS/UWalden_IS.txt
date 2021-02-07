@@ -1,0 +1,115 @@
+/
+Living and Learning in a Technological World
+Imagine life without cell phones, television, or the Internet. Recent technological developments have significantly altered all aspects of human life: at work; in play; and in personal, family, and social interactions.
+/
+Introduction to Management
+The roles, functions, and styles of managers, specifically principles and procedures for planning, organizing, leading, and controlling organizations, are addressed in this introductory course. Emphasized is the practical application of theory to reality. Students focus on the techniques, tools, and methods of managerial decision making and employee motivation, as well as consider the effects of ethical leadership and management practices on an organization. 
+/
+Fundamentals of Accounting
+Students take a top-down approach to understanding introductory accounting documents and procedures by exploring a business's financial statements, including the balance sheet, income statement, and cash flow statement in this course. Students explore the practical uses for information that can be gleaned from these statements, individually and as a whole, through a detailed examination of the properties and characteristics of each statement.
+/
+Operations Management
+An overview of the concepts, methodologies, and applications of business operations management is provided to students in this course. Students focus on operations, the supply chain, and the process of transforming resources into products and services. They explore the responsibility of operations managers to make cost-effective and cross-functional decisions that increase the productivity and competitiveness of manufacturing and service organizations. Students examine product flow processes and product-process strategies to increase efficiency and effectiveness within organizations. 
+/
+Information Systems in Enterprise
+All businesses rely on systems to process, collect, share, and store important information. The most effective way to help an organization achieve its goals is to understand how to leverage information systems and emerging technology. In this course, students have the opportunity to gain skills needed to employ such leverage in the professional arena. Students examine the characteristics of information systems and their role in organizations. 
+/
+Statistical Methods and Applications
+Students in this course gain a foundation in statistical methodology as well as ways to use critical judgment in analyzing data sets. Through technology applications and hands-on lab work, students learn concepts of descriptive statistics, hypothesis testing, confidence intervals, t-test, one-way analysis of variance, correlation, and non-parametric methods (e.g., chi-square tests). Students gain the knowledge and skill to be able to analyze and apply statistics to research problems and everyday life situations.  
+/
+Object-Oriented Programming Concepts
+Information systems rely on underlying programs that respond to users and process information. An information systems specialist must understand the structure and purpose of programs and be able to work with programmers to ensure designs that meet system requirements. Object-oriented programming (OOP) and design facilitate this by presenting information systems as classes and objects that represent complex system contexts in a manner directly transferable to programming specifications. In this course, students learn fundamental aspects of computer programming in an object-oriented language.
+/
+IT Infrastructure
+Information technology (IT) is essential to the function and success of nearly all businesses. Businesses whose systems are lacking or experience failure are at risk of significant loss; therefore, there will always be a need for IT support and innovation. In this course, students are introduced to fundamental concepts of the IT infrastructure to prepare for a role in the field of IT. Students learn about the structure and purpose of hardware components (computers, networks, and interface devices) and software components (operating systems, middleware, applications, and system software).
+/
+Internet Computing
+The Internet stitches together many disparate devices and software components into a flexible fabric that supports an enormous variety of uses. Students in this course learn about the functions of these components through a comprehensive evaluation of Internet computing. They examine the design of the Internet protocol stack, the structure and function of some of the most important Internet services and applications, and Internet governance. 
+/
+Systems Analysis
+There are many roles involved in creating and managing an organization's information system, including the systems analyst. The analyst helps ensure that the software development process is successful by understanding its purpose, scope, and resource requirements. Students in this course face the prospect of understanding the field from the perspective of a systems analyst. Students focus on the definition and examination of system requirements, both functional and nonfunctional, for an information system (IS) project.
+/
+Systems Design
+This course is an introduction to the approaches used to specify details during the design phase of a systems development life cycle (SDLC). Students explore the discipline of reducing requirements to the structural and functional design of organizational information technology solutions. They examine conceptual modeling, design patterns, and application frameworks. Students learn the basics of modeling, design representations, and the use of design tools. 
+/
+Database Management Systems
+All types of businesses rely on systems to manage their data and to keep that data secure, accurate, and reliable. A database is a system designed to do just this as well as to simplify the processes of data entry, search, and retrieval. In this course, students learn about database management through the examination of the life cycle of a database. Students focus on the representation and manipulation of information in relational database management systems. 
+/
+IT Project Management
+The process of creation, from conception through completion, is complicated and requires a diverse set of management skills. Students in this course are introduced to the knowledge, tools, and techniques needed to successfully manage information technology (IT) projects throughout a project life cycle. Students in this course focus on the IT project management process and development of the project team as key to the successful achievement of IT projects. 
+/
+IS Capstone Project
+In this capstone project course, students complete an integrative information systems project that combines multiple aspects of their information systems program. The project requires collaboration with a team of students to manage, analyze, design, implement, and evaluate a computer-based information system. The system development process is initiated with a case study included within the course structure. 
+/
+College Algebra Concepts
+This course provides students with a solid foundation in key algebra skills. Topics include solving and graphing linear, quadratic, and polynomial functions, composition and inverses of functions, rational and radical functions, modeling of exponential and logarithmic data, and solving systems of equations and inequalities. 
+/
+English Composition
+This course develops the skills necessary for persuasive and research-based writing at the college-level. The primary focus is on the use of argument and supporting evidence.
+/
+Modern Popular Culture
+This course is designed to analyze the artistic and philosophical impact of contemporary media and popular culture. Topics include graphic novels, film, advertising, television, cyberculture, and popular music. 
+/
+Intercultural Communication
+This course is designed to promote the ability to communicate effectively in a diverse, global environment. Topics include the relationship of culture and personal identity to communication strategies. 
+/
+Women’s Literature and Social Change
+This course offers students a variety of historical and contemporary literary works written by women in the form of essays, short fiction, drama and poetry/lyrics. Topics include social change as it relates to women’s experiences of work, family, and community; health and well-being; education; and the future. 
+/
+Introduction to Biology
+This course is designed to provide a survey of fundamental biological principles. Emphasis is placed on basic biology, cell biology, metabolism, genetics, taxonomy, evolution, ecology, diversity, and an introduction to the scientific method. 
+/
+Indigenous Peoples in the Modern World
+This course is designed to develop a modern and inclusive understanding of indigenous peoples of the world. Topics include indigenous identity, historical continuity with pre-colonial and/or pre-settler societies, relationship to natural resources, and indigenous languages, cultures and beliefs. 
+/
+Microeconomics
+The principles of microeconomics explain how in a market economy the price system answers the fundamental economic questions: What goods and services are produced and distributed, and how and for whom? This course examines the behaviors of households that supply factors of production—natural resources, labor, and capital—to firms and that purchase consumer goods and services from firms. 
+/
+World History 1945–2000
+This course is designed to introduce students to the history of the contemporary world from 1945 to 2000. Topics include major historical events that shaped the development of the world from post-World War II decolonization through the post-Cold War era. 
+/
+Network Security
+This course provides an overview of network security defense techniques and countermeasures. Topics include design and configuration of firewalls, traffic analysis and filtering, intrusion detection systems, statistical anomaly detection, and wireless security.
+/
+Server-Side and Multi-Tier Programming
+Life in the 21st century is fast-paced and the public demands information that is expeditious, accurate, and appealing. This course provides students with the opportunity to acquire the knowledge and skills needed to create the types of dynamic web pages that are practical, well-designed, and can provide people with the information they need at the pace they want. Students examine the configuration of web server software, the function of server-side programming, and the use of scripting languages. They learn about techniques for enhancing performance through examination of multi-tier locality and parallelism.
+/
+IT Service Management
+This course looks at management of IT by focusing on the relationship between IT and the business customers and users, and is concerned with the customer’s perspective of IT’s contribution to the organization. Topics include operations architecture, IT governance, and relevant frameworks, as well as relationships of IT service management to process improvement movements (for example, Six Sigma, TQM, BPM, and CCMI)
+/
+Data Centers
+Efficient and well-designed data centers can add significant value to the enterprise by cutting costs and streamlining operations. This course provides students with an overview of data center principles and operational issues, including environmental controls, power architecture, data backup, data communications, and security standards to assure enterprise continuity. Students discuss emerging trends and technologies in areas including cloud computing, virtualization, middleware, databases, data centers, green grids, and enterprise environmental responsibility. 
+/
+Database-Driven Web Applications
+This course examines concepts and provides skills to develop and administer database-backed dynamic Web sites. Topics include contemporary development tools for database-driven Web applications, the use of templates to separate business logic and presentation, and data storage and management. 
+/
+Systems Software Security
+This course investigates security of operating systems and other system software, such as database management systems. Topics include components of networked operating system, architectural designs for secure usage, and system administration tasks and tools for security.
+/
+Network Security
+This course provides an overview of network security defense techniques and countermeasures. Topics include design and configuration of firewalls, traffic analysis and filtering, intrusion detection systems, statistical anomaly detection, and wireless security.
+/
+Application Software Security
+Students in this course examine life cycle practices used to develop, operate, and maintain secure applications. They identify and analyze the security vulnerabilities in code as reported by software tools. Students engage in a variety of assignments intended to provide them with a coherent, end-to-end understanding of common processes, tools, and technologies used to protect software applications against exploitation. 
+/
+Computer Forensics
+In this course, students learn procedures and tools for collecting and investigating evidence from illegal or inappropriate computer use. Topics include the legal, ethical, and policy implications of monitoring and forensic techniques.
+/
+Database Administration
+This course provides an in-depth coverage of the range of tasks a database administrator in an organization performs, including disaster recovery, performance analysis and tuning, data dictionary maintenance, data modeling and optimization, and database and user management and monitoring.
+/
+Fault-Tolerant Systems
+This course focuses on the study and application of the principles of fault tolerant systems (failsafe) and networks. Topics address design, modeling, analysis, and integration of hardware and software and redundancy techniques to achieve dependable systems, performance and reliability evaluation techniques, system diagnosis, disaster recovery planning, backup strategies for data and hardware, virus monitoring, and associated security and administration issues. 
+/
+Network Planning and Maintenance
+This course focuses on the planning, maintenance, and auditing of data communications and networks in an organization. Topics include business planning, longer- and shorter-term planning, operations, maintenance, forecasting, topological design, network synthesis, and network realization.
+/
+Software QA Testing and Test Tools
+In this course students develop an understanding of software quality and the components of software quality assurance systems before, during, and after software development. It also discusses metrics and models for software quality as a product, in process, and in maintenance, as well as the testing tools used to automate the process, including their challenges and limitations. 
+/
+User Interface Evaluation, Design, and Development
+In this course students learn methods for evaluating, designing, and improving human computer interfaces. Topics include user interface evaluation methods, requirements analysis, and user interface design methodologies, including rapid prototyping and iteration. 
+/
+User Experience Design
+Web designers strive to optimize the interaction between the user and the system to create a smooth and productive user experience. This course focuses on the particular challenges of designing user interactions for Web-based applications. It also investigates design products such as process flows and wireframes used to communicate with clients, technical leads, and other stakeholders.
+/

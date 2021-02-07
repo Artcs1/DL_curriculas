@@ -1,0 +1,100 @@
+/
+Single Variable Calculus I
+Limits, differentiation, Fundamental Theorem of Calculus, curve sketching, maxima/minima, definite and indefinite integrals, applications. Course is not applicable toward the undergraduate Mathematics major requirements.
+/
+General Chemistry I
+An introduction to atomic structure, chemical bonding, kinetic-molecular theory, energy relationships and structural concepts.
+/
+EECS First Year Design
+Orientation to the University, college and departmental facilities, procedures and methodologies available to the student for the academic journey.
+/
+College Composition I
+Explanatory and persuasive writing in both personal and public genres; instruction and practice in generating, focusing, developing, researching and presenting ideas in ways consistent with one's subject, purposes and intended audience.
+/
+Introduction To Logic
+An introduction to the symbolic analysis of argument components and structures. Topics include definition, syllogistic reasoning, semantics, sentential logic and probability.
+/
+Single Variable Calculus II
+Applications and techniques of integration, polar coordinates and calculus of plane curves, infinite series and Taylor series, vectors and geometry of space.
+/
+Physics For Science And Engineering Majors I	
+Calculus based general physics. Mechanics of motion and energy, rotation, gravitation, harmonic motion, waves, fluids and the laws of thermodynamics.
+/
+EECS Professional Development
+Preparation for entry to the professions of Electrical Engineering and Computer Science and Engineering, including ethics and social responsibilities, employment practices, continuing education and professional registration.
+/
+Introduction To Object Oriented Programming
+Introduces the basics of programming using the Java language. Covers number types, objects, methods, control structures, vectors, files, and inheritance. Utilizes the Java platform to develop GUI interfaces.
+/
+Science And Technical Report Writing
+Instruction and practice in multiple forms of technical and scientific communication for varied scientific and technical audiences. Emphasis on writing informational and analytical reports and documents in medical, scientific or technical fields
+/
+Elementary Multivariable Calculus
+Geometry of functions of several variables, partial differentiation, multiple integrals, vector algebra and calculus (including Theorems of Green, Gauss and Stokes), and applications.
+/
+Physics For Science And Engineering Majors II
+Calculus based general physics. Electricity and magnetism, capacitors and inductors, electromagnetic oscillations, Maxwell's equations and electromagnetic radiation, optics, images, interference, and diffraction.
+/
+Digital Logic Design
+Number representation and Boolean Algebra. Combinational circuit analysis and design. K-map and tabulation methods. Multiplexers, decoders, adders/subtracters and PLD devices. Sequential circuit analysis and design. Registers, counters and recognizers.
+/
+Linear Data Structures
+This course looks at stacks, queues, and lists as well as the order of algorithms used to access and modify these structures. In addition recursion, hashing, sorting, and set representation are examined in depth.
+/
+Elementary Differential Equations
+An introduction to the analysis and solution of ordinary differential equations with emphasis on the fundamental techniques for solving linear differential equations.
+/
+Numerical Methods And Linear Algebra
+Topics include: matrices, characteristic roots, solution of linear and nonlinear equations, curve fitting, integration, differentiation and numerical solution of ordinary differential equations. MATLAB is introduced and used to analyze problems. Additional topics are chosen from Google's page rank algorithm, Digital Image Compression, and others.
+/
+Computer Architecture and Organization
+Fundamentals of computer architecture, computer arithmetic, memory systems, interfacing and communication, device subsystems, processor design, cpu organization, assembly programming, performance, distributed models and multiprocessing.
+/
+Electric Circuits
+An introduction to electrical circuit components and laws, including ideal op-amps, DC circuit analysis, AC circuit analysis, transient analysis of RL and RC circuits and computer-aided circuit analysis.
+/
+Discrete Structures
+An introduction to the discrete structures used in computer science to develop software including proof techniques, Boolean logic, graphs, trees, recurrence relations, functions, combinatorics, and number theory.
+/
+Co-Op Experience
+Approved co-op work experience. Course may be repeated.
+/
+Non-Linear Data Structures
+The data structures introduced in EECS 1570 are extended to include trees (binary, balanced, and n-ary), graphs, and advanced sorting techniques. In addition, the C++ language is used as the main vehicle and is introduced in the couse. Students are expected to have a strong background in Java prior to this course.
+/
+Signals and Systems
+Signal and system representation. Convolution and impulse response. Fourier series, Fourier transform and Laplace transform. Discrete-time systems and Z-transforms. Computer simulation using MATLAB.
+/
+Electronics I
+Large-signal and incremental characteristics of the pn diode, BJT, MOSFET and JFET. Large- signal analysis and computer simulation of devices and digital circuits. Logic gate implementation.
+/
+Embedded Systems
+Microcontroller interfacing, assembly and C language programming for embedded systems, timer, input/output synchronization; analog to digital conversion, digital to analog conversion, interrupts, and embedded system debugging techniques.
+/
+Data Communications
+Analog and digital data transmission, transmission media, Modulation techniques. Data encoding, asynchronous and synchronous transmissions, USART, RS232-C, RS-449 standards. Data link configuration and control, error control, multiplexing and demultiplexing.
+/
+Engineering Statistics I
+This course introduces the student to the areas of probability theory and statistical inferences. Topics include sample spaces, the concepts of random variables, probability distributions; functions of random variables, transformation of variables, moment generating functions, sampling and estimation theory; T, F and chi-square distribution.
+/
+Principles Of Macroeconomics
+Explaining the level and the growth of economic activity, its fluctuations and ways of achieving greater stability, including the roles of money, banking and international finance.
+/
+Database Management Systems
+Introduction to Database Systems, Data Modeling, Entity-Relationship Diagrams, The Relational Model, SQL, Relational Algebra, Relational Calculus, Normal Forms (1NF, 2NF, 3NF, BCNF, 4NF, PJNF/5NF), Candidate keys, superkeys, schema decomposition, Functional dependency,
+/
+Systems And Systems Programming
+Examines the external and internal characteristics of computer operating systems and related software. Details of at least one operating system and comparison with other operating systems. An introduction to systems level programming.
+/
+Software Engineering
+An introduction to the Software Engineering process. Includes: the software lifecycle, user requirements, human-computer interaction, functional specification, software design, software tools, testing and modification. A major term project is assigned.
+/
+Senior Design Project I
+Student teams select and research a design project and propose a design. Topics covered include entrepreneurship, business plan, technical communications, design process, design teams, standards, ethics, safety and environment, and intellectual property. A fully developed senior design project proposal is required.
+/
+Theory of Computation
+Examines formal models of automata and languages. Finite-state automata, regular languages, pushdown automata, context-free languages, Turing machines, decidability, reducibility, and P vs NP complexity classes.
+/
+Senior Design Project II
+Student teams implement, test and evaluate a design previously proposed in EECS 4010. Written reports on progress and final project are required. Preliminary design and critical design reviews may be performed. Oral presentation and senior design exposition participation are needed.
+/

@@ -1,0 +1,108 @@
+/
+Introduction to Electrical Engineering
+An introductory course to Electrical & Computer Engineering topics including electronic terms, numbering systems, software tools, and documentation practices. College algebra and trigonometry are strongly recommended.
+/
+Introduction to Engineering
+Introduction to engineering for students in the pre-engineering program. Engineering as a profession and career opportunities.
+/
+Introduction to Electrical Circuits
+The basics of analog circuits as an introduction to Electrical Engineering. Concepts of voltage, current, power, resistance capacitance and inductance. Circuit analysis techniques such as Kirchhoff’s Laws, node voltages, and mesh currents. Thevenin’s and Norton’s equivalent circuits, sinusoidal steady state and phasors
+/
+Fundamentals of Electrical Circuits
+Fundamental electric-circuit techniques including: time domain transient responses for 1st and 2nd order circuits, Laplace transforms, Fourier series, and filters
+/
+Digital Circuits
+An introduction to digital electronics, integrated circuits, numbering systems, Boolean algebra, gates, flip-flops, multiplexers, sequential circuits, combinational circuits, and computer architecture. Introduction to hardware description language and programmable logic devices. Lecture and lab combination. Laboratory activities to include the design, construction, analysis, and measurement of basic digital systems.
+/
+Digital Circuits
+An introduction to digital electronics, integrated circuits, numbering systems, Boolean algebra, gates, flip-flops, multiplexers, sequential circuits, combinational circuits, and computer architecture. Introduction to hardware description language and programmable logic devices. Lecture and lab combination. Laboratory activities to include the design, construction, analysis, and measurement of basic digital systems.
+/
+Engineering Seminar
+An engineering seminar course designed to prepare the student for professional engineering employment. Topics to include resumes, hiring criteria, interviewing techniques, engineering ethics, professional and societal responsibilities, lifelong learning, diversity, creative problem solving, goals, quality, timeliness, and continuous improvement.
+/
+Project Management
+Project Management course is designed to prepare students for the senior capstone project.  The course will include development of a contract, goal setting, time management, budgeting, project funding, project leadership and team building principles.  Engineering economics, team work, quality statistics and continuous improvement will also be discussed.  Other topics include project life cycles, organization and risk management.
+/
+Microelectronics I
+Fundamental semiconductor device characteristics including diodes, MOSFETs and bipolar transistors; small and large signal characteristics and design of linear circuits. Lecture and lab combination. Laboratory activities to include the design, construction, computer simulation, and analysis of semiconductor circuits, amplifiers and power supplies.
+/
+Signals and Systems
+Topics related to the analysis of linear time invariant continuous and discrete systems and signal transformations, convolution, frequency spectra, Laplace transforms, Z transforms, and fast Fourier transforms. Lecture and lab combination. Laboratory activities to include the computer simulation, analysis, and numerical modeling of signals and systems
+/
+Digital Systems
+Introduction to microprocessor architecture, arithmetic logic units, memory systems, input/output interfaces, peripheral devices, and communication. Lecture and lab combination. Laboratory activities to include the programming and operation of microprocessor circuits.
+/
+Embedded Systems
+Design and implementation of a microcontroller or microprocessor embedded system including assembly language programming, interfacing to peripherals, interrupt handling and debugging techniques. Lecture and Lab. Laboratory exercises build toward a final embedded systems project. 
+/
+Internship
+Internship
+/
+Senior Project I
+Senior Project I
+/
+Senior Project II
+Senior Project II
+/
+Control Systems
+Topics related to control theory, analysis, and testing of systems in the time domain, frequency domain and state space. Lecture and lab combination.
+/
+Structured Computing in a Selected Language
+Introduction to structured problem solving using objects, data enumeration and encapsulation in a selected language. The language for a particular instance of this course will be based upon demand.
+/
+Programming I
+This course covers basic operating system navigation and components of the program development process. The majority of the course covers basic problem solving and program design of a software application using a selected language. Topics presented and discussed depending on selected language include: thinking logically to solve problems, working with input/output devices, compilation and library use, structured programming and modularity concepts, conditional and iterative structures including recursion, object oriented design, data types and structures, and pointers.
+/
+Object-Oriented Programming
+An introduction to the C++ language. Topics will include data types, control structures, functions, pointers, arrays, I/O streams, classes, objects, encapsulation, overloading, inheritance and use of these concepts in problem solving.
+/
+Computational Structures
+An overview of the fundamentals of algorithmic, discrete mathematics applied to computation using a contemporary programming language. Topics include sets, functions, logic, matrices, relations, graphs, trees, regular expressions, grammars, finite state machines, and data encoding.
+/
+Introduction to Data Structures and Algorithms
+General principles of common data structures and design of efficient algorithms. Topics include: arrays, linked-lists, stacks, queues, trees, graphs, tables, storage and retrieval structures, searching, sorting, hashing, and algorithmic analysis. Emphasis will be on abstraction, efficiency, re-usable code, and object-oriented implementation
+/
+Computer Architecture/Organization
+Computers are essential to modern life, yet most people use them with no understanding of how they accomplish everything they do. This course will explore how computers function from a technical perspective, allowing students to see why they work and are designed the way they are. The course will focus on Von Neumann computers, covering a variety of topics including logic gates, basic digital circuit concepts, number and data representation, the processor implementation, BIOS, buses, interrupts, addressing, memory management, and storage. The practical implementation of this knowledge will be examined by introducing assembly language code.
+/
+Operating Systems
+An overview of computer operating system from the programmer’s point of view. Input-output hardware, interrupt handling, properties of external storage devices, associative memories and virtual address translation techniques, optimizing programs for performance, concurrent programming with threads, and network programming.
+/
+Digital VLSI Design
+Introduction to Digital VLSI design.  Includes the development of standard cell library of common CMOS circuits.  Use of hardware description language and CAD tools for the design and simulation of custom large-scale digital systems.  Students will understand the impacts and tradeoffs from speed, power consumption, and thermal properties of large-scale custom ICs. 
+/
+Advanced Semiconductor Devices
+
+Introduction to advanced semiconductor physics and devices.  Topics include carrier transport theory, energy band diagrams, PN junctions, metal-semiconductor junctions, BJTs and MOSFETs.  Study of current semiconductor process technologies and discussion of off-roadmap technologies. 
+/
+Digital Signal Processing
+Theory, application, and implementation of digital signal processing (DSP) concepts, from the design and implementation perspective. Topics include: Fast Fourier transforms, adaptive filters, state-space algorithms, random signals, and spectral estimation
+/
+Image Processing
+Advanced image processing theory and methods. Topics include digital image formation, transformation, filtering, enhancements, segmentation and morphological processing.  Lectures, computer assignments and project
+/
+Professional and Technical Writing
+This course introduces students to the basic theories and practices of technical communication. Using audience, purpose, and context as their guides, students create various professional and technical documents, such as formal and informal reports, instructions, proposals, job application materials, brochures, web media, and presentations
+/
+Business Communication
+Application of oral and written communication, including diversity and international aspects of communication
+/
+Calculus II
+Transcendental functions, techniques of integration, analytic geometry, infinite series.
+/
+Linear Algebra and Differential Equations
+Introduction to Linear Algebra and Differential Equations. Systems of linear equations, matrices, vector spaces, eigenvalues. First and second order differential equations and models, higher order linear equations, linear systems.
+/
+Elementary Linear Algebra
+Systems of linear equations, matrices, vector spaces, eigenvalues linear transformations, orthogonality.
+/
+Ordinary Differential Equations
+Methods of solution for ordinary differential equations. Exact equations, linear equations Laplace Transforms, series solutions.
+/
+Probability and Statistics I
+Introductory probability theory and mathematical statistics, including applications
+/
+Physics for Scientists and Engineers II
+Second semester of a two semester sequence in calculus-based physics. This semester covers topics in electricity and magnetism, electromagnetic waves, light and optics, relativity, and quantum, atomic, and nuclear physics. 
+/
+

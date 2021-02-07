@@ -1,0 +1,97 @@
+/
+Exploring Engineering
+Introduction to the study and practice of engineering, including overviews of specific disciplines.
+/
+Calculus I
+An introduction to the calculus of algebraic, trigonometric and transcendental functions. Interpretation, significance and calculations of a derivative. Applications to geometry, biology, physics, economics, and other subjects
+/
+Classical and Modern Physics I
+The first course in a two-course sequence that surveys major areas of physics. Topics include Newtonian mechanics, relativity, thermodynamics and statistical mechanics, and gravity
+/
+Differential Equations
+Basic methods of solving ordinary differential equations. Systems of linear differential equations, Laplace transform, applications and selected topics.
+/
+Calculus II
+Methods of integration including integration by parts, numerical approximations, and improper integrals. Sequences, series, including Taylor series. Complex numbers, polar coordinates, parametric functions, differential equations, and applications.
+/
+Classical and Modern Physics II
+The second course in a two-course sequence that surveys major areas of physics. Topics include electricity and magnetism, light and waves, quantum mechanics, and particle physics.
+/
+Foundations of Electrical and Computer Engineering
+Foundational concepts of electrical and computer engineering. Development of skills in simulation, testing, and programming. Introduction to electronic and computing system design principles.
+/
+Linear Algebra
+Linear equations, matrices, vector spaces, linear transformations, eigenvalues, inner products, Gram-Schmidt algorithm, singular value decomposition.
+/
+Calculus III
+Calculus of vector-valued functions and functions of several variables. Multiple, line, and surface integrals; applications, and extrema. Green's, Stokes' and Divergence Theorems
+/
+Circuit Theory & Application
+Analysis and design of simple DC and AC circuits including Thevenin equivalents, time domain and sinusoidal response, power transfer, and complex impedance. Design of practical circuits and fundamentals of system integration
+/
+Digital System Design.
+Introduction to digital design focusing on representation and abstraction in digital systems.
+/
+Geology for Engineers
+Basic principles, including properties of rocks and soils, hydrology, surface processes, rock mechanics, environmental parameters, geological hazards, and engineering case histories.
+/
+Discrete Structures
+Logic, sets; mathematical induction; relations, functions; combinatorics and graph theory.
+/
+Signals and Systems Theory
+Introduction to the general theory of analog systems with an emphasis on linear and time-invariant systems. Topics include elementary operator theory, Fourier/Laplace analysis, linear network analysis, elementary analog filter design, and sampling & interpolation.
+/
+Embedded and Cyber-Physical Systems
+Introduction to design and analysis of embedded and cyber-physical systems. Concepts include sensing, processing, decision-making, actuation, and communication. Techniques include systems modelling using various abstractions, and systems implementation using sensors, actuators, circuits, and external modules, interfacing with embedded software on microcontrollers.
+/
+Geophysics
+Introduction to geophysical principles and methods (seismic, gravity, magnetic, electrical, electromagnetic and GPR) applied to both near-surface and solid earth studies. Emphasis placed on active learning by hands-on geophysical data collection focused on environmental and engineering applications.
+/
+Introduction to Electrical and Computer Engineering Design
+This introductory ECE design course covers basics of electronic design focusing particularly on fabrication, measurement, and professional communication. Students will design, fabricate, and test electronic circuits and learn standards for manufacturability and professional communication.
+/
+Probabilistic System & Data Analysis.
+Introduction to the probabilistic description of signals, systems, and data. Topics include random variables/vectors/processes, statistical data characterization, expectations, information measures, and transformations of random data. The course includes a discussion of the foundations of detection, classification, and estimation theory.
+/
+Data Structures & Algorithms.
+Introduction to data structures and algorithms using an object-oriented approach. Topics include software-engineering principles, object-oriented programming, recursion, basic data structures, algorithm analysis, and team programming
+/
+Physical/Environmental Geology
+Introduction to Earth's dynamic systems, plate tectonic processes that make Earth a unique planet, and human interaction with Earth. Geologic factors and limitations that affect use or management of the environment. Not open to students who have taken GEOL 250.
+/
+Software Engineering and Design.
+Fundamentals of software design and software engineering. Students will participate in large-scale, team-based software development project
+/
+Electronics I
+Introduction to semiconductor components and circuits. Device physics, operation, and modeling; design applications of operational amplifiers, diodes, and transistors; PN junctions; digital logic gates.
+/
+Computer Systems
+This course provides students the concepts, technologies, and skills needed for advanced study in computer engineering. It includes aspects of computer organization, computer architecture, operating systems, networking, and performance evaluation and the relationship between them.
+/
+Digital Signals and Communications
+Introduction to digital signal processing and digital communications with an emphasis on linear and time-invariant systems. Topics: discrete time, Fourier transform (DTFT), the Fourier series, the fast Fourier transform (FFT), the z-transform, digital filters, and modulation techniques for digital signals.
+/
+Operating Systems Design
+Introduction to operating system design including processor management, scheduling, memory management, resource allocation, file systems, and concurrency.
+/
+ECE Capstone Design I
+ECE Capstone Design I
+/
+ECE Capstone Design II
+ECE Capstone Design II
+/
+Mobile Computing
+Mobile computing ecosystem including apps, devices, wireless networks, and back-end systems. Includes at least one major project; the specific course content will vary based on projects, student interest, and current technology trends. This course typically includes a considerable amount of software development.
+/
+Digital VLSI Circuit Design
+Introduction to digital integrated circuit design, from wafer fabrication through structured design techniques. Teams conceptualize, design, simulate, layout, extract, and verify small VLSI systems using appropriate CAD tools.
+/
+Communication and Information Systems
+Digital and analog communication systems, modulation techniques, noise considerations, optimum receivers. Prerequisite: ECEG 270 or permission of the instructor
+/
+Digital Speech and Audio Processing.
+Theory and application of digital speech and audio processing. Topics include speech and audio (MP3) coding, artificial speech synthesis, automatic speech recognition, and audio effects.
+/
+Computer Communication Networking
+An introduction to computer networking using the seven-layer Open Systems Interconnection model. Hands-on exploration of the data link, network, transport, and application layers. Prerequisite: Junior status.
+/

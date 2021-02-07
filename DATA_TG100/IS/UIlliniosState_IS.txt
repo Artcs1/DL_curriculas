@@ -1,0 +1,106 @@
+/
+Composition As Critical Inquiry
+Rhetorical approach to writing, taught through extensive collaborative drafting, revising, and editing. Emphasis on critical reading and analysis. 
+/
+Practical Cryptography and Trusted Systems
+Practical cryptography and its applications, authentication protocols, access controls and trusted systems. 
+/
+Finite Mathematics
+Linear functions, matrices, systems of linear...probability, statistics, and mathematics of finance.
+/
+Composition As Critical Inquiry
+Rhetorical approach to writing, taught through extensive collaborative drafting, revising, and editing. Emphasis on critical reading and analysis.
+/
+Communication As Critical Inquiry
+Development of communication competence, critical thinking, information literacy, and ethical practices in public speaking, small group, and interpersonal contexts.
+/
+Computer Application Programming
+The design, development, and implementation of computer application systems, including files and GUI.
+/
+Communication As Critical Inquiry: Classroom Comm-Teacher Ed
+Development of communication competence, critical thinking, information literacy, and ethical practices in public speaking, small group, and interpersonal contexts. 
+/
+English Literature And Its Contexts
+A historical study of the main movements in English literature. Readings of entire works representative of the movements.
+/
+Introduction To It Professional Practice
+Researching available positions, interpreting job descriptions, interview skills, preparing a resume, benefits of a Professional Practice experience.
+/
+Hardware And Software Concepts
+Overview of nature and interrelationships of computer architectures, hardware, operating systems, data types, microcontrollers, virtualization, storage technologies, and filesystems.
+/
+Principles Of Microeconomics
+Supply and demand in product and resource markets; behavior of consumers, and of producers under various market structures; international trade.
+/
+Elementary Discrete Mathematics
+Elementary introduction to discrete mathematics, comprising topics relevant to computer science. Logic, algorithms, recursion, enumeration, relations, graph theory (including trees).
+/
+Survey Of American Literature
+A historical study of the main movements in American literature. Readings of entire works representative of the movements.
+/
+Systems Development I
+Information systems development, development methodologies, analysis and design techniques and tools, relational database concepts.
+/
+Information Technology Project Management
+The processes, methods, techniques, and tools in managing information technology projects including scope, time, cost, quality, and risk management.
+/
+Statistical Reasoning
+Application of statistical concepts to decision problems confronting organizations and individuals. Includes descriptive tools, probability concepts, sampling processes, statistical inference, regression, and nonparametric procedures.
+/
+Principles Of Macroeconomics
+Gross domestic product; unemployment and inflation; the banking system; fiscal, monetary, and other macroeconomic policy; international finance and policy. 
+/
+Introduction To Studies In Women's Writing
+Readings in a variety of genres and historical periods.
+/
+Social, Legal, And Ethical Issues In Information Technology
+Study of personal, societal, legal, and ethical issues raised by the effects of information technology.
+/
+Web Development Technologies
+Web concepts, infrastructure, development technologies, multi-tiered program design and implementation, and current issues and trends.
+/
+Financial Accounting
+Introduction to financial accounting. Examines the nature of accounting, basic accounting concepts, financial statements, accrual basis of accounting, the accounting cycle, monetary assets, inventories, fixed assets, current and noncurrent liabilities, and owner s equity.
+/
+Modern Western Civilization
+Western civilization from the Renaissance to the present, emphasizing cultural and political history. 
+/
+Resources,Food & Society:A Global Perspective
+Food and fiber production and distribution problems, policies, and processes analyzed within social, economic, political, and cultural contexts of societies.
+/
+Fundamentals of Information Assurance and Security
+Fundamental concepts in information assurance and security including planning, risk management, cryptography, network security, hardening, people, and physical security. 
+/
+Advanced Web Application Development
+Theory and practice of state-of-the-art technologies for application development for the Web including service-oriented and mobile systems.
+/
+Database Processing
+Database concepts, emphasis on relational databases, SQL, data modeling, database design, DBMS functions, database application programming, current trends, design project.
+/
+Business Organization And Management
+Organization theories and the role of managers as leaders. Planning and control systems, decision-making, and human considerations.
+/
+Small Group Processes
+The study of theory and basic concepts in small group communication. Practical experience in group deliberation, decision-making, and problem solving. Focus on developing group communication competence through participation in a group project, perhaps related to civic engagement.
+/
+Data Communications
+Hardware and software used in data communications and networking. Network types, architectures, protocols and standards. 
+/
+Wireless Communication Systems
+The theory and practice of wireless telecommunications systems. Emphasis is on application, design, and analysis of wireless systems.
+/
+History Of Africa
+Interdisciplinary, thematic, and chronological examination of the histories of Africa. 
+/
+Education Technology
+Skills and concepts related to keyboarding, web page design, desktop publishing, programming concepts, and current/new educational technologies. 
+/
+Mobile and Cloud Computing
+Develop, deploy, and troubleshoot mobile and cloud computing applications.
+/
+Practical Cryptography and Trusted Systems
+Practical cryptography and its applications, authentication protocols, access controls and trusted systems.
+/
+Technical & Professional Writing I
+Introduction to technical and professional writing. Includes study of manuals, reports, proposals, audience analysis, formatting, and style.
+/

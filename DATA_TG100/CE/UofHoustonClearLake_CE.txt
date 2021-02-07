@@ -1,0 +1,465 @@
+/
+Composition I
+Intensive study of and practice in writing
+processes, from invention and researching to
+drafting, revising, and editing, both individually
+and collaboratively. Emphasis on effective
+rhetorical choices, including audience, purpose,
+arrangement, and style. Focus on writing
+the academic essay as a vehicle for learning,
+communicating, and critical analysis.
+/
+Composition II
+Intensive study of and practice in the strategies
+and techniques for developing research-based
+expository and persuasive texts. Emphasis on
+effective and ethical rhetorical inquiry, including
+primary and secondary research methods,
+critical reading of verbal, visual, and multimedia
+texts; systematic evaluation, synthesis, and
+documentation of information sources; and
+critical thinking about evidence and conclusions.
+/
+Calculus I
+Limits and continuity; the Fundamental
+Theorem of Calculus; definition of the derivative
+of a function and techniques of differentiation;
+applications of the derivative to maximizing or
+minimizing a function; the chain rule, mean
+value theorem and rate of change problems;
+curve sketching; definite and indefinite
+integration of algebraic, trigonometric and
+transcendental functions with an application to
+calculation of areas.
+/
+University Physics I
+Calculus based introductory physics course.
+Fundamentals of linear and rotational
+kinematics and dynamics, Newton's laws,
+work, energy, conservation, gravitation, wave
+mechanics, sound, fluid mechanics, heat and
+thermodynamics.
+/
+University Physics II
+Calculus based introductory physics course.
+Electric forces and fields, Gauss' laws, DC
+and AC circuits, magnetic forces and fields,
+electromagnetic induction, Maxwell's equations,
+electromagnetic waves, geometric optics and
+introduction to modern physics.
+/
+Introduction to Philosophy
+A study of major issues in philosophy and/or
+the work of major figures in philosophy. Topics
+in philosophy may include theories of reality,
+theories of knowledge, theories of value, and
+their practical applications.
+/
+United States History I
+A survey of the social, political, economic,
+cultural, and intellectual history of the United
+States from the pre-Columbian era to the Civil
+War/Reconstruction period. Includes the study
+of pre-Columbian, colonial, revolutionary,
+early national, slavery, sectionalism, and the
+Civil War/Reconstruction eras. Themes may
+include: American settlement and diversity,
+American culture, religion, civil and human
+rights, technological change, economic change,
+immigration and migration, and creation of the
+federal government.
+/
+United States History II
+A survey of the social, political, economic,
+cultural, and intellectual history of the United
+States from the Civil War/Reconstruction era
+to the present. Examines industrialization,
+immigration, world wars, the Great Depression,
+Cold War and post-Cold War eras. Themes
+may include: American culture, religion, civil
+and human rights, technological change,
+economic change, immigration and migration,
+urbanization and suburbanization, the expansion
+of the federal government, and the study of U.S.
+foreign policy.
+/
+Federal Government
+Origin and development of the U.S. Constitution,
+structure and powers of the national government
+including the legislative, executive, and judicial
+branches, federalism, political participation,
+the national election process, public policy, civil
+liberties, and civil rights.
+/
+Texas Government
+Origin and development of the Texas
+constitution, structure and powers of state
+and local government, federalism, and intergovernmental relations, political participation,
+the election process, and the political culture of
+Texas.
+/
+Public Speaking
+Application of communication theory and
+practice to the public speaking context with
+emphasis on audience analysis, speaker delivery,
+ethics of communication, cultural diversity, and
+speech organizational techniques to develop
+students' speaking abilities as well as their
+ability to effectively evaluate oral presentations.
+/
+Learning Frameworks
+An inquiry around the broad, interdisciplinary
+concepts of civic engagement and citizenship
+for students to explicitly examine and engage in
+advanced critical thinking for university study.
+This course promotes intellectual readiness by
+helping students build and find the resources
+to become personally responsible and active
+members of the university community, their
+education, and their word.
+/
+Laboratory for University Physics II
+Instrumentation used to conduct experiments
+on electrical circuits and optics. Topics include
+Ohm's Law, series and parallel circuits, electrical
+power EMF, RLC Components, optical elements
+and visual phenomena.
+/
+Humanities
+An interdisciplinary, multi-perspective
+assessment of cultural, political, philosophical,
+and aesthetic factors critical to the formulation
+of values and the historical development of the
+individual and of society.
+/
+Literature and Experience
+The study of one of more literary genres
+including poetry, fiction, drama, and film.
+/
+Gender Matters: Introduction to Women's and Gender Studies
+A general introduction to the study of women
+and gender across academic disciplines,
+appropriate as a first course for any student
+interested in the study of gender within their
+major.
+/
+World Art Survey I
+Examination of painting, sculpture, architecture,
+and other arts from prehistoric to Renaissance
+periods.
+/
+World Art Survey II
+Examination of painting, sculpture, architecture,
+and other arts from the post-Renaissance to the
+contemporary period
+/
+Arts and the Child
+Prepares individuals to teach three art forms -
+visual art, music, theater - to young children
+through elementary ages.
+/
+General Anthropology
+Study of human beings, their antecedents and
+related primates, and their cultural behavior
+and institutions. Introduces the major subfields:
+physical and cultural anthropology, archeology,
+linguistics, and ethnology.
+/
+Introduction to Criminal Justice
+History, philosophy, and ethical considerations
+of criminal justice; the nature and impact of
+crime; and an overview of the criminal justice
+system, including law enforcement and court
+procedures
+/
+Principles of Macroeconomics
+An analysis of the economy as a whole, including
+measurement and determination of aggregate
+demand and aggregate supply, national income,
+inflation and unemployment. Other topics
+include international trade, economic growth,
+business cycles, fiscal policy and monetary
+policy
+/
+Principles of Microeconomics
+Analysis of the behavior of individual economic
+agents, including consumer behavior and
+demand, producer behavior and supply, price
+and output decisions by firms under various
+market structures, factor markets, market
+failures and international trade.
+/
+World Regional Geography
+An examination of the world's geographic
+regions focusing on the location of Earth's
+major physical features, human populations
+and cultures, and their interaction. Topics
+include the cultural landscape, globalization,
+development, migration, commodity chains,
+tourism, and the Anthropocene.
+/
+Introduction to Psychology
+Survey of the major psychological topics,
+theories, and approaches to the scientific study
+of behavior and mental processes
+/
+Introduction to Sociology
+The scientific study of human society, including
+ways in which groups, social institutions,
+and individuals affect each other. Causes of
+social stability and social change are explored
+through the application of various theoretical
+perspectives, key concepts, and related research
+methods of sociology. Analysis of social issues
+in their institutional context may include topics
+such as social stratification, gender, race/
+ethnicity, and deviance.
+/
+Digital System Design
+Combinational and sequential circuit design of
+digital systems using a hardware description
+language. Laboratory instruction.
+/
+Analysis and Design of Linear Systems
+Fourier, Laplace and z-transforms and transfer
+functions. Introduction to digital signal
+processing and digital filter design using
+conventional and convolutional techniques,
+applications from communications and control
+theory. Computer solutions using MATLAB.
+/
+Senior Project
+Project course requiring each student to
+complete a project approved by the instructor.
+The student must submit a written final report
+and give an oral presentation to faculty and
+students. Laboratory instruction.
+/
+Microprocessor Interfacing
+Techniques for interfacing microcomputers to
+peripherals, memory and other devices.
+/
+Microcontroller Programming
+Microcontroller, assembly language
+programming and embedded system
+applications.
+/
+Engineering Design and Project Management
+Introduction to engineering concepts including
+problem solving, the design process, engineering
+tools and topics in ethics. Laboratory instruction.
+/
+Laboratory for Computer Architecture
+Laboratory experiments for Computer
+Architecture Design and Interfacing
+/
+Computer Architecture
+Performance analysis of computer systems,
+representing data and instructions, instruction
+set architecture, datapath and controller design,
+pipelining, superscalar architectures, memory
+components such as cache, main memory and
+virtual memory, multiprocessors
+/
+Laboratory for Telecommunications and Networks
+Laboratory experiments in digital and data
+communications.
+/
+Introduction to Telecommunications and Networks
+Introduction to data communications, error
+detecting/correcting codes, multiplexing, circuit
+and packet switching and local area networks.
+/
+Laboratory for Electronics
+The course consists of experimental laboratory
+projects that explore the design, construction,
+and debugging of basic electronic circuits.
+Projects involve EDA-tool based simulation
+and hands-on experiments, investigate
+the performance characteristics of diodes,
+transistors, JFETs, and op-amps including the
+construction of differential amplifier, summing
+amplifier, full wave rectifier, and common
+emitter amplifier
+/
+Electronics
+The course is a study of the physical behavior
+of electronic devices. Emphasis is on analysis
+and application of electronic circuits utilizing
+semiconductor diodes, operational amplifiers,
+BJT and FET transistors. EDA tools are used to
+reinforce the theory through electronic analysis
+simulations
+/
+Laboratory for Linear Circuits
+Laboratory experiments demonstrating AC/DC
+circuits. Experiments using lumped constants
+and integrated circuits will be stressed.
+/
+Linear Circuits
+Basic electrical concepts; network theorems;
+circuit laws; resistance, capacitance, inductance,
+operational amplifiers, response of RC, RL and
+RLC circuits to initial conditions and constant
+forcing functions. Steady-state and transient
+analysis. Introduction to S-domain circuit
+analysis. Integration of computer applications
+using Multisim and MATLAB.
+/
+Laboratory for Digital Circuits
+Laboratory experiments using digital logic and
+small scale integrated circuits.
+/
+Digital Circuits
+Applications of point set theory and Boolean
+Algebra to the analysis and design of
+asynchronous and synchronous digital circuits.
+/
+Data Structures
+Advanced programming techniques and data
+structures including arrays, linked lists, queues
+and stacks; abstract data types, recursion,
+searching and sorting, binary trees, hashing
+techniques, elementary algorithm design and
+analysis, and more.
+/
+Software Development with Java
+Programming with an object-oriented
+programming language, Java. Uses iteration,
+selection, recursion, exception handling,
+data structures and file I/O. Introduction of
+Object-oriented programming concepts such
+as reuse, data abstraction, classes, inheritance,
+polymorphism, exception handling and UML to
+build robust code and enhance problem solving
+methodology.
+/
+C Programming
+Programming techniques with the C
+programming language, emphasis on modular
+design, data abstraction and encapsulation
+using ANSI C. Use of all features of C including
+arrays, pointers, structures, prototypes,
+separate compilation and the C-preprocessor.
+Development of generic functions and study of
+portability issues.
+/
+Probability and Statistics for Scientists and Engineers
+Graphical representation of data, measures of
+centrality and variability, concepts and rules of
+probability, discrete probability distribution,
+normal distribution, sampling distributions,
+central limit theorem, parameter estimation,
+testing of hypothesis, two sample methods,
+analysis of variance, correlation and regression
+analysis.
+/
+Discrete Mathematics
+Introductory mathematical logic, mathematical
+induction, relations and functions, basic
+counting techniques, graphs and trees and
+applications to computing devices. Designed
+for students majoring in the computer related
+disciplines.
+/
+Differential Equations
+Solutions of ordinary differential equations of
+the first and second order, Laplace transforms,
+power series techniques, systems of equations,
+stability, numerical methods, geometric and
+physical applications.
+/
+Linear Algebra
+Systems of linear equations; vector spaces,
+linear transformations, determinants, matrices,
+eigenvalues and eigenvectors; applications to
+coding and difference equations
+/
+Calculus III
+Vectors and vector valued functions, functions of
+multiple variables, partial derivatives, multiple
+integrals, volume and surface area and vector
+calculus.
+/
+Calculus I
+Limits and continuity; the Fundamental
+Theorem of Calculus; definition of the derivative
+of a function and techniques of differentiation;
+applications of the derivative to maximizing or
+minimizing a function; the chain rule, mean
+value theorem and rate of change problems;
+curve sketching; definite and indefinite
+integration of algebraic, trigonometric and
+transcendental functions with an application to
+calculation of areas.
+/
+Calculus II
+Differentiation and integration of transcendental
+functions; parametric equations and polar
+coordinates; techniques of integration;
+sequences and series; improper integrals.
+/
+Laboratory for University Physics II
+Instrumentation used to conduct experiments
+on electrical circuits and optics. Topics include
+Ohm's Law, series and parallel circuits, electrical
+power EMF, RLC Components, optical elements
+and visual phenomena.
+/
+University Physics II
+Calculus based introductory physics course.
+Electric forces and fields, Gauss' laws, DC
+and AC circuits, magnetic forces and fields,
+electromagnetic induction, Maxwell's equations,
+electromagnetic waves, geometric optics and
+introduction to modern physics.
+/
+Laboratory for University Physics I
+Introduction to data acquisition and analysis
+in physics. Instrumentation used to conduct
+experiments on motion, kinematics, wave
+mechanics, sound and heat.Topics also to include
+statistical methods, graphing, error analysis,
+computer techniques and reporting results
+/
+University Physics I
+Calculus based introductory physics course.
+Fundamentals of linear and rotational
+kinematics and dynamics, Newton's laws,
+work, energy, conservation, gravitation, wave
+mechanics, sound, fluid mechanics, heat and
+thermodynamics. 
+/
+Laboratory for General Chemistry I
+Introduction of the scientific method,
+experimental design, data collection and analysis
+and preparation of laboratory reports.
+/
+General Chemistry I
+Fundamental principles of Chemistry for majors
+in sciences, health sciences and engineering;
+topics include inorganic, organic, biochemistry,
+chemical reactions, states of matter and
+properties, chemical bonding, structure and
+descriptive chemistry. 
+/
+Introduction to Robotics
+The course introduces the use of various robotic
+systems and the techniques necessary to design
+and develop hardware components and software
+applications using robotic operating systems.
+/
+Internship in Computer Engineering
+Supervised work experience in an approved
+industrial firm or government agency. Written
+and oral report required.
+/
+Analysis and Design of Linear
+Systems
+Fourier,Laplace and z-transforms and transfer
+functions. Introduction to digital signal
+processing and digital filter design using
+conventional and convolutional techniques,
+applications from communications and control
+theory. Computer solutions using MATLAB.
+/

@@ -1,0 +1,646 @@
+﻿COMMUNICATION
+It is a subject of general and humanistic training, It is practical theoretical.
+It is oriented to provide knowledge about language and develop in the student
+their communicative and linguistic competences, in order to achieve proper management
+of their mother tongue Therefore, it prioritizes the development of the capacities of
+reading comprehension, the use of language regulations, oral expression, writing and
+the production of texts of various kinds, mainly academic.
+/
+METHODOLOGY OF UNIVERSITY HIGHER STUDIES
+The subject is practical theoretical in nature. It has the purpose of developing in
+students epistemology, logic and methodology as the basis for the realization of
+university studies within the holistic educational approach, training it in the
+knowledge and mastery of study techniques and substantive learning to improve their
+academic performance. The development of the subject includes the realization of a
+research protocol and a monograph on specialty topics
+/
+BASIC MATHEMATICS
+The subject of Basic Mathematics is mandatory and is intended to develop
+some general math skills in students of the National University
+de Piura, through teaching-learning activities related to the topics:
+Introduction to Mathematical Logic; Sets, Partitions. Theory Real Numbers,
+Equations and Inequations, Mathematical Induction, Matrices and Determinants, Relationships
+and Functions, which will support the study of the inherent subjects
+to each race.
+/
+OFFICE TOOLS FOR UNIVERSITY LIFE
+The workshop is aimed at providing the student who starts university studies,
+theoretical and practical knowledge for handling the word processor, the sheet
+Calculation, slide show and interaction tools over the internet.
+/
+SPORT ACTIVITY
+The Workshop is oriented to the development and strengthening of physical and mental qualities
+of the student, thus contributing to his integral formation, that is, with his practice
+they promote creative and intellectual movements, the manifestation of corporeality to
+through higher order cognitive processes. It includes recreational activities,
+recreational, sports and physical exercises.
+/
+ANALYTIC GEOMETRY
+The course corresponds to the area of Basic Sciences being theoretical - practical. Be
+proposes to direct students towards knowledge of analytical geometry
+as a training course, imparting new and important knowledge
+38
+Mathematicians It includes: Coordinate systems, graphs of equations and places
+geometric Conical Coordinate transformations. The Euclidean space,
+surfaces and volumes. Applications in engineering problems and related branches.
+/
+ALGORITHMS
+The course corresponds to the area of the specialty being theoretical - practical.
+It is proposed to teach students to face problems through the elaboration
+of a sequence of steps that lead to its solution; fully and clearly identifying
+the objective to pursue, the starting point and the steps that must be taken to achieve
+said goal.
+It includes: techniques of logical diagramming, study and application of structures
+control logics (sequence, selection and repetition), main operations with
+arrangements, subroutine management (functions and procedures) and recursion.
+/
+INTRODUCTION TO COMPUTER ENGINEERING
+The course corresponds to the area of the specialty being theoretical.
+It is proposed to present to the incoming students a panoramic vision of the career of
+Informatics Engineering.
+He will expose himself about the history of computer science and computer science, explaining in a way
+general about its operation and structure.
+A tour of the most important topics, aspects and areas of the different courses
+they must carry in the race, and the professional projections of a computer scientist.
+/
+BIOLOGY AND ENVIRONMENTAL EDUCATION
+It is a practical theoretical course and its purpose is to achieve in the student the
+acquisition of attitudes and values oriented to the care of the environment from the
+knowledge of living beings and their link to the natural environment.
+/
+GENERAL CHEMISTRY
+It is a compulsory theoretical and practical course and its purpose is to give
+basic principles for the student to handle a fundamental tool that
+allow to develop and understand the characteristics, composition and laws
+/
+PHYSICAL CONCEPTION OF THE UNIVERSE
+The course of Physical Conception of the Universe is intended to provide the student
+knowledge in the field of physics that are necessary for their professional training.
+The course is basic and important for the basic understanding of progress
+prodigious in current technology, applicable to almost all branches of knowledge. In this grade
+The theoretical foundations of Physical Sciences are taught. Understand within your
+I develop the topics of: Vectors, Static, Kinematic, Dynamics and Fluid Mechanics.
+/
+PHILOSOPHY AND ETHICS
+The subject is theoretical in nature and is intended to assess the foundation and
+importance of philosophy in its integral formation as a professional future for
+contribute from philosophy to the understanding of the main human problems,
+especially those linked to the formation of human values and principles
+related to ethics and morality. It also encourages students to adopt
+attitudes and values to put them into practice in different spaces and moments of their
+personal and community life.
+/
+DISCRETE STRUCTURES
+The course corresponds to the area of the specialty being theoretical - practical.
+It is proposed to provide the basic mathematical concepts for the understanding of
+computer science and publicize the basic tools of analyzing
+algorithms
+It includes: Sets, relationships, graphs and trees. Finite state machines and
+Languages, Groups.
+/
+CALCULUS I
+The course corresponds to the area of Basic Sciences being theoretical - practical.
+It is proposed to initiate students in the notions of infinitesimal calculus in order to
+prepare them for the study of mathematical analysis and enable further understanding
+of the subjects of his specialty.
+It includes: Limits, derivatives, differentials. Indefinite integral, definite integral.
+Functions of several variables. Applications in engineering problems and related branches.
+/
+PROGRAMMING I
+The course corresponds to the area of the specialty being theoretical - practical.
+It is proposed to teach the use of a programming language in which the
+Basics of Object Oriented Programming.
+It includes: Use of classes, inheritance, polymorphism.
+/
+NATIONAL AND REGIONAL REALITY
+The subject corresponds to the general training of all professional careers, it is
+theoretical in nature and aims to develop a comprehensive view of the problems
+social issues of contemporary Peru analyzing aspects related to
+ecological, population, economic, social, political and cultural, emphasizing the
+determinants of regional and national change and development.
+/
+GENERAL ECONOMY
+The general purpose of the subject is to provide the student with a training
+basic disciplinary of the economy, which allows to address current problems of a
+modern society, as the analysis and interpretation of the various scenarios for the
+decision making at the microeconomic and macroeconomic level. Familiarize the student with
+the field of economics and economic analysis: it deals with the basic topics and
+Fundamentals of economic theory. It's about consumer behavior, the
+producer behavior, market situations and their types, and the
+behavior of macroeconomic aggregates and fiscal and monetary policy in
+scenario of a closed economy and an open economy.
+/
+ART STUDIO
+The subject aims to develop the aesthetic sensibility of the student in
+what concerns the expression and artistic appreciation.
+It includes the elements that make up the drawing, painting, modeling and reading
+of visual images.
+/
+ADMINISTRATION
+The subject belongs to the curricular area of general training, is theoretical-practical and
+Its purpose is to develop a systemic vision of the Administration in
+public and private organizations.
+It develops the following learning units: 1. Theoretical approaches of the
+administration, scenarios, interest groups and corporate responsibility. 2. The
+administration as science, importance and roles of the company in the current context. 3.
+The company as an intelligent organization. 4. Strategic vision of the company.
+/
+PROGRAMMING II
+The course corresponds to the area of the specialty being theoretical - practical.
+It is proposed to teach the use of a programming language in which the
+advanced concepts of Object Oriented Programming.
+It includes: Graphic interface programming, multitasking programming. Introduction
+to file management. Introduction to Web programming
+/
+CALCULUS II
+The course corresponds to the area of Basic Sciences being theoretical - practical.
+It is proposed to train the student in the management of derivatives of several variables, as well
+as multiple integrals, giving such structures a geometric interpretation.
+It includes: Derivation in vector analysis, partial derivatives. Multiple integrals,
+curvilinear and surface. Functions of complex variables. Applications in trouble
+of engineering and related branches. Use of software for mathematical applications.
+/
+PHYSICS I
+The course corresponds to the area of Basic Sciences being theoretical - practical.
+It is proposed to know the basic components of the subject and their mutual interactions
+to then be able to explain the properties of matter and the phenomena that
+We observe in nature. Perform experiments in which measurements are obtained
+numerical physical quantities so that they can be compared with the values
+Numeric predicted by the theory.
+It includes: Mechanical, static, kinematic, translational and rotation dynamics,
+simple pendulum. Work and energy, temperature and heat. Applications in problems of
+engineering and related branches.
+/
+GENERAL PSYCHOLOGY
+Subject of theoretical-practical nature, with an experiential perspective and
+applied to the essence of each profession. Its purpose is to describe and explain the features
+hallmarks of the human being in the cognitive, emotional motivational and social areas;
+using for this the own methods of science; as well as specify, through the
+research the personality components in relation to theoretical approaches
+contemporaries that support them. 
+/
+INTRODUCTION TO ACCOUNTING
+Subject of theoretical nature - practice. Its purpose is to provide a
+general orientation of the accounting theory of the main operations, for registration
+in the accounting books of economic entities, applying the principles and norms
+of accounting It also guides the preparation of the Basic Financial Statements of
+Commercial Accounting, as fundamental instruments for decision making,
+consolidating in the student the constructive critical attitude, teamwork, creativity
+and application of axiological values
+/
+ACTIVIDAD DE RESPONSABILIDAD UNIVERSITARIA
+Esta asignatura es de naturaleza práctica y tiene como propósito que el estudiante
+conozca y ejecute los lineamientos básicos y la metodología propia de los proyectos
+sociales desde un enfoque comunicativo estratégico y de desarrollo sostenible.
+/
+GENERAL STATISTICS
+Its purpose is to use the appropriate statistical tools for the purpose
+that the student in a learning process obtain the necessary knowledge
+to organize and analyze statistical information to form situation decisions
+real in your professional environment.
+/
+LINEAR ALGEBRA
+The course corresponds to the area of Basic Sciences being theoretical - practical.
+It is proposed to prepare the student for the study of advanced engineering courses such as
+operations research, as well as note the importance of linear algebra for
+Any branch of engineering.
+It includes: Systems of linear equations and matrices. Vectors, dependency e
+Linear vector independence, vector spaces. Linear transformations.
+Own values. Quadratic form. Applications in engineering problems and branches
+related. Use of matrix software.
+/
+PHYSICS II
+The subject corresponds to the area of Basic Sciences being theoretical -
+practical. It is proposed to express Maxwell's laws mathematically and verbally,
+solve simple application problems and their importance in engineering. Perform
+Measurements of electrical current parameters with instruments. Explain the
+theoretical principles that govern the operation of electric machines.
+It includes: Electrostatics, electric field, electric potential, capacitors and
+dielectrics Electric currents and DC circuits. Magnetic field,
+magnetic induction. Alternating current. Magnetism of matter. Electrical engineering.
+Applications in engineering problems and related branches.
+/
+BUSINESS PROCESS ENGINEERING
+The subject is of the specialty and is developed with a theoretical-practical approach, and has
+as a purpose to train and train the student in the management of business processes.
+In the first part the essential concepts of the processes are studied. Then apply
+the systemic vision for process management. As for the practical nature, it is done
+a modeling of current business processes in the organization, to then raise the
+improvement of these processes through the application of ICTs (technologies of
+information and communication).
+/
+DATA STRUCTURE
+The course corresponds to the area of the specialty being theoretical - practical.
+It is proposed to study different models of data structures as types of data
+abstracts, and implement data structures in a high programming language
+level. Also, apply these models to real-life situations, performing the
+respective simulations.
+It includes: Single, double and circular linked lists, piles and tails. Trees
+/
+ENGLISH I
+Know and master the basic grammar of the English language, in readings for its translation and
+Interpretation and elaborate sentences and sentences to communicate.
+Develop the following topics: Introduction, present simple of be, personal pronouns,
+possessive adjectives, present simple have, telling the time, froquency adverbs, urban
+places, Ordinal Numbers Sports and pastimes, Can / Can not for, Past simple to be, Regular
+and irregular verbs, past time technology, comparative adjectives Going to, Work and jobs,
+Work conditions, superlative adjectives, Will / will not, Dreams and ambitions, present
+perfect, simple reading comprehension exercises, Speaking and listening exercises.
+/
+DISABILITY AND HUMAN RIGHTS
+The subject is theoretical in nature - practical, sequential and semi-annual. Be
+develops with seminars, activities and awareness workshops in order to take
+awareness that all people have rights to be considered with equal
+opportunities Its purpose is to develop in the student the ability to
+understand and value the social conception of human rights and disability
+stop guaranteeing the universal exercise of rights
+/
+CALCULUS III
+The course corresponds to the area of Basic Sciences being theoretical - practical.It is proposed to develop special functions and differential equations and theirEngineering applicationIt includes: Differential equations of first order and higher degree. System ofordinary differential equations. Complex variable. Laplace transforms, seriesFourier, functions and special polynomials. Applications in engineering problems andrelated branches. Use of software for mathematical applications.
+/
+ELECTRICAL AND ELECTRONIC CIRCUITS
+The course corresponds to the area of electronics being theoretical - practical.
+It is proposed to provide the student with basic knowledge of the components
+electrical and electronic and its operation as part of circuits.
+Understands:
+Electric components. Kirchof laws. Circuit study Diodes, and transistors,
+integrated circuits. Circuit Behavior
+/
+DATA MODELING
+This is a theoretical and practical course.
+It aims to train the computer engineering student in the knowledge of
+concepts concerning data modeling as abstraction tools that
+allow to represent reality, capturing its semantics
+/
+SYSTEM ANALYSIS AND DESIGN I
+The course is theoretical-practical in nature. In it, the fundamental concepts are explained
+of information systems and their life cycle. Also, the different types of
+information systems that exist within organizations. Also explained
+and apply the unified modeling language (UML) to develop case models of
+use, class diagrams and state diagrams of information systems.
+/
+NATIONAL DEFENSE
+It is a subject of a theoretical-practical nature, whose purpose is to evaluate the concepts
+theoretical, doctrinal and legal aspects, as well as the different issues that allow the
+effective knowledge of National Security and Defense, The subject is organized in
+Three thematic units: Introduction to National Defense, Geopolitics and Defense
+National, and National Reality and State media
+/
+ENGLISH II
+Know and use English to communicate with ownership and fluency at the elementary level
+and develops skills and abilities to produce and understand written and oral texts.
+Develop the following topics: Introduction, present, continuous, past simple,
+continuous, regular and irregular life stages, present perfect vs past simple, Jobs and
+services modal, verbs can can't / should-shouldn't predictions will, may, might, Sciencie
+and research. The ing form & to + infinitive countable and uncountable nouns,
+conditionals, modal verbs: must, can't, may, might, conditionals, compounds of some, any
+and no, money verbs money nouns, advertising, Passive voice (1); present simple, passive
+voice (2): reported speech; tell, adjectives that describe personality, entertainment,
+modal verbs, used to.
+/
+SCIENTIFIC DRAFTING WORKSHOP
+Workshop aimed at enhancing the student's abilities and abilities
+academic communication and scientific research. Its purpose is the writing
+of reports and research articles.
+Its contents are: The investigation. Types of research. The investigation report.
+The scientific article The scientific journals. The main sections of the article
+scientific. The scientific writing.
+/
+COMPUTER ARCHITECTURE
+The course corresponds to the area of the specialty being theoretical - practical.
+It is proposed that the student recognize and explain the logical functioning of the
+basic components of a computer, applying digital theory, oriented to its design
+final.
+It includes: Numbering systems and codes. Design of combinational circuits and
+sequential Data coding Transfer language Design of a
+basic computer Introduction to the 8086 microprocessor.
+/
+DATABASE
+The course is theoretical-practical in nature. It explains the organization of the bases of
+relational data in the different database administration systems
+existing today. The data definition language is also explained and applied
+for the creation of databases and their objects in the Microsoft SQL Server SABD, and the
+data manipulation language to query and update the data.
+/
+SYSTEM ANALYSIS AND DESIGN II
+This is a theoretical and practical course. Contributes to the achievement of specific competence
+Designing information system processes and leading to software development
+with quality. The topics that the course addresses are concepts and principles of design such as:
+process design, system design, structured design, architectural design,
+Component level design, User Interface Design, Design Based on
+Patterns Effective Output Design, Webapps Design
+/
+VISUAL PROGRAMMING
+The Visual Programming Subject is of a theoretical-practical and obligatory nature; have
+as a purpose to develop in the students competencies in the analysis and coding
+algorithms of computer problems using a high programming language
+level. This course will provide all the basic tools to start in the
+Visual Basic .NET programming language, as well as in Programming
+Object Oriented
+/
+DATA BASE ADMINISTRATION SYSTEM
+This is a theoretical-practical subject, with a greater practical content, being its
+purpose to analyze, evaluate, develop and administer the base management systems of
+Relational data according to the requirements of the organization, considering the
+ACID features: atomicity, insulation, consistency and durability as well as
+tools to solve common problems of the administration of the useful life of
+the data.
+They will also know how to plan, create and optimize user privileges, indexes, implement
+data integrity through the use of constraints, triggers, cursors and schemas
+XML, implement views, stored procedures and functions.
+Character set and collations of the database and connection.
+/
+RESEARCH DESIGN FOR ENGINEERING
+The course corresponds to the Research area being theoretical.
+It is proposed to teach the theory and designs of scientific research oriented to the task
+of the engineer, that allows to make use of the appropriate technique in his tasks of
+research, reporting and professional practice.
+It includes: Logic of knowledge, general mode of production. Methods, techniques,
+types and levels of research. Research processes: problem, approach,
+theoretical framework, hypothesis. Statistical techniques of data collection, analysis and
+interpretation. Sampling and design of experiments. Fieldwork and Processing
+of information. Presentation of results, technical reports and research papers.
+Use of software
+/
+OPERATIONS RESEARCH
+The course is theoretical - practical. It is proposed to analyze, propose and apply the
+adequate techniques to solve administrative problems, technical partners and
+engineering using mathematical models, making a correct interpretation and
+discussion of the results obtained.
+It includes: Mathematical models of linear programming. Assignment problems and
+transport. Dynamic programming Markov chains and processes. Decision theory
+and games Use of appropriate software.
+/
+OPERATING SYSTEMS
+The course corresponds to the area of the specialty being theoretical - practical.
+It is proposed to provide an introduction to the concepts, structure and mechanisms of
+operation of operating systems; as well as present the basics of
+Design of operating systems.
+Understands:
+Functions, evolution and types of operating systems. Study of the processes, their states,
+planning, concurrence, communication between processes. Administration and management of the
+memory, input / output and file systems. System calls Driving
+of interruptions
+/
+NETWORKS
+The course corresponds to the area of the specialty being theoretical-practical.
+Upon completion of the course, the student will be able to demonstrate that: Identify the
+data networks and communication protocols currently existing and widely
+used in commerce, industry and homes. Analyze data networks, your
+implementation, and communication protocols according to the layer models and
+hierarchical models. Recognize transport systems independent of the physical environment,
+such as TCP / IP and Internet operation. Design, model and implement networks of
+Internet-based data and applications.
+/
+MANAGEMENT INFORMATION SYSTEMS
+Provides the student with knowledge about IT infrastructure and
+contemporary emerging technologies that can be applied in business to
+get the information that managers of different levels require in making
+decisions. These technologies encompass integrated information systems, commerce
+electronic, knowledge management and business intelligence. About these
+technologies are presented case studies to reinforce the knowledge acquired.
+/
+MICROECONOMICS
+The course corresponds to the complementary area being theoretical - practical.
+It is proposed to provide the basic knowledge related to the economy of the
+company, as a fundamental tool for decision making. So too
+identify the economic and financial variables for through the administrative process
+prospect scenarios and make decisions aimed at increasing productivity
+business.
+It includes: Economic systems, types and needs. Price determination. Theory
+of the consumer Product markets Market of production factors.
+/
+ORGANIZATION AND COMPUTER ADMINISTRATION
+The way in which the computer-based organization is usually of great importance will be studied.
+importance for business success.
+We will study how to direct the IT staff towards the achievement of the
+institutional goals
+Cases that allow the student to take full knowledge of how it is will be analyzed.
+that is given the computer headquarters, aimed at achieving the objectives.
+The management of computer services in the Organization will be studied to achieve
+objectives and goals of the area and the institution.
+The student will be trained so that he can carry out adequate technology planning
+of information within the organization
+/
+SOFTWARE ENGINEERING
+In this subject the basic concepts of Software Engineering are studied and applied
+to analyze, design and develop software products, proposing the platform
+technology, as well as software development methodologies,
+including the specification of requirements, the analysis and the design, the tests, the
+configuration, maintenance and documentation for building systems
+informatics under the object-oriented paradigm.
+/
+Computer Law
+The course corresponds to the complementary area being theoretical.
+It is proposed to introduce the student to the world of law and its connection with the
+Computer engineering development.
+It includes: Basic knowledge of Law. Peruvian and international legislation
+on Computer Law. Free software. Personal data protection. Classification
+of software licenses and intellectual property. Social and professional aspects.
+Ethics, deontology, responsibilities and other legislation applicable to the exercise
+professional. Commercial and Tax Law and its direct application in the field of
+Computing.
+/
+SECURITY OF THE INFORMATION
+The subject corresponds to the area of Specialized Training, being of a theoretical nature
+Practical. Its purpose is to provide the student with cognitive and technical resources
+instrumentals that allow you to know the principles for planning and implementing the
+computer security in any type of organization and guarantee its normal
+functioning.
+It comprises seven thematic units: (1) Basic Security Tools and Concepts
+Computing. (2) Cryptography. (3) Attack and Defense Techniques and Tools. (4)
+Malware (5) Security of Operating Systems and Networks. (6) Web and Mobile Security. (7)
+Incident response and Threat Intelligence
+/
+SOFTWARE DEVELOPMENT PROCESSES
+The subject is developed with a theoretical-practical approach, and has as its purpose
+train and train the program participant in the application of the principles, the
+features, phases and workflows of the Unified Software Development Process and
+the unified modeling language in the development of information systems
+organizational. In addition, the importance of business process management is studied.
+/
+METHODOLOGY FOR THE RESEARCH PROJECT
+The course is theoretical-practical in nature, has been structured to prepare the
+student in the competencies inherent in the research execution process
+scientific and can successfully complete the thesis project. The content
+The course consists of knowing the various stages of the scientific research process,
+execute the realization of the research project, starting with the choice of the topic,
+problem formulation, objectives, elaboration of the theoretical framework, background of the
+Research, hypothesis, research methodology.
+/
+TECHNOLOGY AND WEB DEVELOPMENT
+The course corresponds to the Dynamic Web Applications Developer area, being
+theoretical - practical character. It is proposed to develop in students the skills
+necessary to develop management applications for medium and large companies,
+making extensive use of the open standards used on the web. Centralizing the
+software to facilitate maintenance and updating of large
+systems, use the appropriate technologies to implement the software on the side of the
+client and on the server side, making the most of the capabilities created by the
+web technology
+/
+COMPUTER CONTROL AND AUDIT SYSTEM
+The course has a theoretical-practical approach that develops the theory of design and
+implementation of controls in the field of computing. It also provides the
+audit basics for the evaluation of controls. The whole course is focused
+considering the legal framework and the standards associated with the ICT field.
+It includes (1) Internal control system (2) Fundamentals of computer auditing (3)
+Standard technical standards (4).
+/
+DEVELOPMENT OF COMPUTER RESEARCH
+The course has a theoretical-practical approach, will train the student in the competitions
+inherent in the project execution process initiated in the Thesis Project course. He
+course contains: Phase of use of computer tools that allows you to gather,
+manipulate information and have the corresponding literature, development phase of
+Project: Development of your selected objectives and methods, processing phase of
+Data: Present and analyze your data and obtain the results, final report phase:
+Presentation and oral defense of your project
+/
+TECHNOLOGY AND MOBILE DEVELOPMENT
+The course is theoretical and practical in nature and is intended to provide the student with
+theoretical and practical basis to implement customized and customized software solutions
+of the company, using Mobile technologies and development platforms.
+/
+SYSTEMS ORIENTED TO SERVICES
+The course is theoretical-practical in nature and is intended to provide students
+the conceptual framework of conceiving systems and applications oriented to services
+(business), within the modern conception of strengthening the resources of
+Information Technology (IT), which should be aimed at providing more systems
+flexible, high availability for the entire organization that allows integration and
+communication between them to support business processes improving agility
+business. Provide a conceptual framework to work under an Architecture
+service oriented considering the different business systems, processes of
+business and IT infrastructure. Implement web services that use different
+protocols and standards that allow data exchange between applications. Define the
+ability to guide business processes, people and the effective and equitable use of
+resources to implement SOA in the organization.
+/
+BUSINESS INTELLIGENCE
+The course will allow students to know the use of the Intelligence tools of
+Business as they are: tools to extract, load and transform all data
+stored in a data warehouse, data from internal and external sources
+that relate to the organization. It will be applied on the data tool
+warehouse other tools such as multidimensional data analysis, dashboard
+control and data mining, for the exploitation of data and creation of new
+knowledge that strategically supports the decision making process.
+/
+IT MANAGEMENT
+develop a diagnosis and analysis of the information management processes within
+the organizations. So also study and select the management computer system
+appropriate to each organization and finally build a simple dashboard that
+can support the strategic process and decision making within the company
+/
+ACCOUNTING OF COSTS AND BUDGETS
+It is a theoretical subject whose purpose is to acquire basic knowledge of the
+cost accounting, know how to prepare the production cost statements, distinguishing
+variable and fixed costs. In addition to understanding the nature, administrative use and
+importance of costs in the planning, management, evaluation and control of
+Business. The concept of budget, objective content, parts, development and use of
+same.
+/
+INTRODUCTION TO OPERATING ENVIRONMENTS
+is intended to teach students the
+Management of Windows and Linux operating environments in both graphical and
+console.
+Contains: (1) Windows and Linux operating system (2) Graphic and console environments (3)
+Shell: Graphic and console (4) Programming languages: C and Phyton. (5) Spreadsheet.
+/
+ADVANCED APPLICATIONS WITH CALCULATION SHEET
+is intended to provide students
+the knowledge necessary for the advanced management of a spreadsheet and
+develop computer projects with a high degree of complexity. Within their
+contents we have: Management of advanced information functions, tools
+Statistical analysis, Solver management, data access and database queries, cubes
+OLAP, macros and Visual Basic programming for applications and XLM.
+/
+BUSINESS LOGISTICS
+is intended to develop in the student
+cognitive and operational skills that determine the possibilities of being able to
+interpret an organizational or market reality regarding the distribution of their
+products to the market so that the logistics applied are adequate.
+So also form feasible solutions through research.
+Content: (1) Business logistics and supply chain (2) Strategy and
+logistics planning in the supply chain (3) The product of logistics and
+supply chain (4) The value chain and logistics supply
+/
+COMPILER THEORY
+The subject corresponds to the area of Specialized Training, being theoretical.
+It is proposed to publicize the purpose, organization and construction of the
+compilers, so that students can develop a simple compiler
+based on the definition of a grammar.
+It includes: (1) Lexical and syntactic analysis. (2) Type checking (3) Generation of
+intermediate and machine code (4) Code optimization.
+/
+GRAPHICS BY COMPUTERS
+is intended to provide students with the mathematical concepts that they
+allow to design the basic algorithms for the generation of a graphic scene by
+computers. So also make use of the intrinsic functions of a language of
+programming and external libraries such as OpenGL to draw lines,
+polygons, surfaces or three-dimensional objects. It comprises 4 units: (1) Primitives
+output (2) 2D geometric transformations (3) 3D geometric transformations (4)
+/
+ALGORITHM ANALYSIS
+is intended to provide students with the necessary tools
+to select and evaluate algorithms taking into account efficiency, time of
+execution and resource consumption.
+The subject is composed of seven units that comprise elementary algorithm,
+asymptotic notation, algorithm analysis, voracious algorithms, divide and conquer,
+Dynamic programming and graph exploration.
+/
+MULTIMEDIA PROGRAMMING
+is intended to provide a training experience in planning,
+design, production and evaluation of hypermedia applications.
+It contains: (1) Multimedia, hypertext, hypermedia and multimedia systems definitions.
+(2) Multimedia Processes, Authoring Processes and the Media (3) Application Design
+multimedia using software such as: Illustrator and Photoshop, Flash. (4) Designs of
+Applications using programming languages.
+/
+SIMULATION AND GAMES
+The scientific development of the Business Administration has evolved to the point that it is capable
+to provide tools to improve the learning process of both
+manager as of the organization, through transitional objects such as
+Computer games.
+This is the design, development and application of computer simulators that, of
+playful way, they allow the learning of the structure and dynamics of an organization.
+In this sense it is a subject that allows to integrate multiple concepts
+studied in various subjects throughout the administrator's training.
+/
+MICROCOMPUTERS
+The course corresponds to the area of the specialty being theoretical - practical.
+It is proposed to study the fundamental characteristics of microprocessors,
+taking as model the 8086, in relation to its internal architecture, its
+operation and its relationship with the elements that must accompany it in a
+microcomputer, for which it will venture into the Assembler language as a
+Tool for handling. Also, we will study the mechanisms that
+they incorporate the processors that are currently being manufactured to increase their
+performance, memory bandwidth, take advantage of parallelism at the level of
+instruction (segmentation, parallel channels) and dynamic code planning
+(execution out of order), as well as planning software techniques.
+/
+MICROBOTS PROGRAMMING
+The subject corresponds to the area of Specialized Training, being of a Theoretical and Practical nature and is intended to provide the student with a set of knowledge
+basic that allows you to develop a project in the figure of a microbot, govern everything
+type of sensors and actuators through microcontrollers, adapted to the environment,
+features and tasks of specific microbots. It comprises 4 units: (1) Introduction
+and basic mobile robotics (2) Sumo robot (3) Mobile robot and cleaning (4) Mobile robot type
+worbots.
+/
+DIGITAL TREATMENT OF IMAGES AND AUDIO
+The subject corresponds to the area of Specialized Training, being of a Theoretical and Practical nature. The course aims to provide students with the basic concepts that allow them
+study and analyze the main algorithms for digital image processing, to
+then carry out its implementation during the laboratory sessions. In addition there will be a
+Introduction to digitized sound and its treatment. It comprises 4 units: (1)
+Point-oriented operations (2) Operations and image transformation (3)
+Region-oriented operations (4) Digital sound operations.
+/
+SCADA SYSTEMS
+This course presents the study of the Supervision and Acquisition Control system
+of Data (SCADA) and the main Industrial Networks, which is of fundamental importance
+so that the industry has systems and organizations that allow supervision
+in real time of its production and transport processes.
+The course will offer students knowledge about advanced technologies of
+automation that includes the concept of SCADA (Control and Acquisition Supervision
+of Data), and PLC (Programmable Logic Controller).
+/
+
+
+

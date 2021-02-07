@@ -1,0 +1,98 @@
+/
+Business Communication
+Business Communication covers principles that establish written and oral communication standards in preparation for the workplace.
+/
+English Composition
+This course emphasizes critical reading, writing, and textual analysis with particular focus on argument and research-based writing.
+/
+Applied Calculus I
+Topics covered include functions, graphs, limits, continuity, properties of exponential and logarithmic functions, differentiation, curve sketching, optimization and the definite integral.
+/
+Applied Calculus II
+Topics covered include antidifferentiation, the fundamental theorem of calculus, functions of two variables, partial derivatives, maxima and minima,Lagrange multipliers and applications to probability and other areas. 
+/
+Business Pathways I
+Business Pathways I develops understandings and skills that support an integrated college experience. Focus is placed on Professionalism and Academics. Classes pertain to academic planning, university resources, Lindner College of Business degree offerings, and the themes that our faculty, staff, and employers believe are important to business students. 
+/
+Business Pathways II
+
+/
+Career Success Strategies
+This course is targeted to the specific needs of Lindner freshmen, helping students explore possible careerpaths and leverage their varied options for gaining professional experience. To build a foundation for career sucess, the course develops skills vital for executing an effective job search. For example, students will learn how to identify opportunities fitting their career goals, articulate their strengths, skills and interests, effectively compile job applicationmaterials, and expand their professional network
+/
+Introduction to Microeconomics
+The course assists students to learn and comprehend economics as a social science that draws conclusions based on hypotheses, theories, and data in order to understand human behavior, basic microeconomics terms and concepts, including scarcity and choice, equilibrium, efficiency and equity, positive and normative economics, comparative advantage, and specialization, the fundamental economic question of allocating scarce resources, opportunity cost and the production possibility frontier, supply and demand, the function of prices in markets, how markets work and sometimes don't work, including market failure and externalities, the effects of government intervention in markets, how consumers make choices, production theory, the costs of production, firm behavior in competitive markets, firm behavior in imperfect markets, elasticity and its application, markets for resources, the determination of wage rates, interest, and rent, the determination of income distribution, including poverty and discrimination, the determinants of international trade flows, to apply economic.
+/
+Introduction to Macroeconomics
+The course assists students to learn and comprehend economics as a social science that draws conclusions based on hypotheses, theories, and data in order to understand human behavior, basic macroeconomic terminology and concepts, including the distinction between real and nominal magnitudes, the national income accounts, the nature of the business cycle, the determinates of important macroeconomic variables,including the level of income, the level of employment, the unemployment rate, the natural rate of unemployment, the price level, the inflation rate, productivity and the rate of interest, the supply and demand for money, the Federal Reserve System, aggregate demand and aggregate supply, the effects of fiscal and monetary policies, the basics of theories of macroeconomic instability, unemployment and inflation tradeoffs, the effects of the federal government's budget deficit, long run growth and policies to affect growth, comparative advantage, the determinants of foreign trade flows and exchange rates, and their effects on the domestic economy, to apply economic reasoning to better understand and critically evaluate real world circumstances and events.
+/
+Essentials of Business I
+This course is also interdependent with your Business Pathways course.Together, Business Fast Track and Business Pathways enable your integrative first-year experience. While Business Fast Track emphasizes the fundamental concepts of business, Business Pathways focuses on developing your professional skills through your own academic choices, strategic planning and personal development.
+/
+Essentials of Business II
+Essentials of Business II
+/
+Intermediate Composition
+	
+This course emphasizes critical reading and writing, advanced research and argument skills, and rhetorical understanding of language as it is used in different discourse communities. 
+/
+Financial Accounting
+
+This course develops foundational knowledge and skills needed to prepare and analyze basic financial statements. Topics include cash, inventory, fixed assets, current and long-term liabilities and equity.  Students will prepare multi-step income statements, classified balance sheets and statements of cash flows.  Students will utilize efficiency and effectiveness ratios, as well as vertical and horizontal analysis, to evaluate financial performance.
+/
+Managerial Accounting
+	
+This course develops foundational knowledge and skills needed to apply accounting data in planning and controlling business operations. Topics include costs, cost drivers and allocation, contribution margin and managerial budgeting. 
+/
+Business Analytics I
+	
+This course develops fundamental knowledge and skills for applying statistics to business decision making. Topics include descriptive statistics, probability distributions, sampling, confidence intervals and hypothesis testing and the use of computer software for statistical applications. 
+/
+Business Analytics II
+It further develops fundamental knowledge and skills for applying statistical and management science models to business decision making. Topics include simple and multiple linear regression, contingency tables, chi-square tests, ANOVA, decision analysis, simulation and risk models and optimization models, including the use of software for business applications.
+/
+Legal Environment of Business
+This course examines the legal environment in which business operates, and develops an understanding of the legal consequences attached to business decision making.  Topics include the study of torts, contracts, property, ethics and the legal system of the United States.
+/
+Digital Technologies for Business	
+Information Systems (IS)-and the enabling digital technologies-constitute integral and critical resources for all aspects of a business, from operational efficiency and managerial decision making, to the implementation of transformative business strategies. Businesses spend over $1 trillion annually on technology and related information systems. This course is designed to help students develop a working knowledge of digital technologies, to understand business opportunities created by digital technologies, and to gain awareness of how organizations leverage digital technologies to improve organizational processes and enhance related business strategies.
+/
+Introduction to Marketing
+Marketing activities, analysis, strategies, and decision making in the context of other business functions. Topics include: integration of product,price, promotion, and distribution activities; research and analysis of markets, environments, competition, and customers; market segmentation and selection of target markets; and emphasis on behavior and perspectives of consumers and organizational customers.
+/
+Business Professionalism and Character
+Business Professionalism and Character
+/
+Business Finance
+This is the core finance course required of business majors. Business Finance acquaints students with the fundamental principles of finance. The two key concepts developed in the course will be 1) the time value of money; and, 2)the trade off between risk and return. This is a 'tools' course that will provide you with the skills to analyze a wide range of financial decisions. A major emphasis in the class will be on learning how to think systematically about financial valuation and how to apply these insights to a variety of business (e.g., capital budgeting decisions) and personal (e.g., retirement planning, automobile and mortgage loans) financial problems.
+/
+Global Environment of Business	
+This is a foundation course in international business. The objective is to present a selected mix of information which exposes students to cultural, social, political, economic, legal, and financial environments in which American business executives manage their operations in today's complex business environment. 
+/
+Management
+In this course, students will learn and apply the basic principles of organizational behavior and theory. We will examine a number of theories and concepts relevant to the problems and issues confronting managers today. Class sessions will consist of lecture, discussion, exercises, self-assessments, and other activities designed to help students learn relevant organizational behavior theories as well as develop vital managerial skills. The course is divided into three modules that examine the varied and interwoven levels of management: individuals, groups and teams, and organizations.
+/
+Operations Management
+Operations Management
+/
+Business Strategy
+Business Strategy
+/
+Systems Analysis and Design
+Prepares students to analyze business problems and to design and manage the creation of technology-based solutions using agile, iterative approaches. Students are introduced to project management and system development methodologies, with a particular emphasis on managing agile development methodologies. Skills developed include process modeling using the Unified Modeling Language (UML). With UML, students learn an object-oriented approach to modeling functional, structural, and behavioral views of an information system.
+/
+Database Design and Tools	
+Database Design and Tools
+/
+Enterprise System Architecture
+Enterprise System Architecture
+/
+Web Development with .Net	
+Introduces students to application development using HTML, CSS, Microsoft's Visual Studio, ASP.Net and the C# language to develop both stand alone and web-based applications. As part of the course, students will build a functional, data-driven web site and also learn the basics of programming for both traditional (structured programming) and event-driven applications (object-oriented programming). 
+/
+Advanced Application Development
+This course introduces the student to the JAVA programming language with object-oriented programming principles. Emphasis is placed on event-driven programming methods, including creating and manipulating objects, classes, and using object-oriented tools such as the class debugger. This will be accomplished in this course through showing the student how to develop applications for mobile platforms, specifically for Google Android devices. Differences between mobile and desktop computing will be examined, sample mobile apps will be dissected, and tool suites for the development of new mobile apps will be covered, framework (Android Application Framework), libraries and integrated development environments (Eclipse).
+/
+Business Intelligence
+Business Intelligence
+/

@@ -1,0 +1,115 @@
+/
+Critical Reading and Composition
+Instruction in strategies for critically reading and analyzing literature and non-literary texts; structured, sustained practice in composing expository and analytical essays.
+/
+Rhetoric and Composition
+Instruction and intensive practice in researching, analyzing, and composing written arguments about academic and public issues.
+/
+Calculus I
+Functions, limits, derivatives, introduction to integrals, the Fundamental Theorem of Calculus, applications of derivatives and integrals
+/
+Calculus II
+Methods of integration, sequences and series, approximations.
+/
+General Chemistry I
+General Chemistry I
+/
+Essentials of Physics I
+Classical mechanics and wave motion. Calculus-level course for students of science and engineering.
+/
+Beginning Latin 1
+Beginning Latin 1
+/
+Film and Media History
+Film and Media History
+/
+Race and Ethnic Relations
+Race and Ethnic Relations
+/
+Introduction to Art
+Introduction to Art
+/
+Vector Calculus
+Vector algebra, geometry of three-dimensional space; lines, planes, and curves in space; polar, cylindrical, and spherical coordinate systems; partial differentiation, max-min theory; multiple and iterated integration, line integrals, and Green’s theorem in the plane.
+/
+Applied Linear Algebra
+General solutions of systems of linear equations, vector spaces and subspaces, linear transformations, singular value decompositions, and generalized inverse.
+/
+Applied Linear Algebra Lab
+Computer based applications of linear algebra for science and engineering students. Topics include numerical analysis of matrices, direct and indirect methods for solving linear systems, and least squares method (regression). Typical applications include practical issues related to discrete Markov porcesses, image compression, and linear programming.
+/
+Discrete Structures
+Propositional and predicate logic; proof techniques; recursion and recurrence relations; sets, combinatorics, and probability; functions, relations, and matrices; algebraic structures.
+/
+Statistics for Engineers
+Basic probability and statistics with applications and examples in engineering. Elementary probability, random variables and their distribution, random processes, statistical inference, linear regression, correlation and basic design of experiments with application to quality assurance, reliability, and life testing.
+/
+Technical Writing
+Preparation for and practice in types of writing important to scientists, engineers, and computer scientists, from brief technical letters to formal articles and reports.
+/
+Introduction to the Earth
+Origin and nature of the earth with emphasis on internal processes and phenomena such as earthquakes, volcanoes, and mountain building; surface processes, including landform evolution
+/
+The Living Ocean
+Origin, evolution, and diversity of marine life, biological production, trophic dynamics, nutrient cycles, marine resources, and environmental concerns. Three lecture and three laboratory hours per week. Scheduled field trips required.
+/
+Algorithmic Design I
+Problem-solving, algorithmic design, and programming.
+/
+Algorithmic Design II
+Rigorous development of algorithms and computer programs; elementary data structures.
+/
+Computing in the Modern World
+An introduction to the field of computing: trends in computing technology, the profession, and careers; subdisciplines in computing; the nature of research and development.
+/
+Digital Logic Design
+Number systems, Boolean algebra, logic design, sequential machines.
+/
+Introduction to Computer Architecture
+Computer architecture, components. and organization; memory addressing; Input/Output; instruction sets; interrupts; assembly-language programming.
+/
+UNIX/Linux Fundamentals
+UNIX operating system, user-level system commands, and programming tools. UNIX scripting languages.
+/
+Advanced Programming Techniques
+Pointers; memory management; advanced programming language structures: operator overloading, iterators, multiple inheritance, polymorphism, templates, virtual functions; Unix programming environment.
+/
+Software Engineering
+Fundamentals of software design and development; software implementation strategies; object-oriented design techniques; functional design techniques; design patterns; design process; source control; testing. 
+/
+Operating Systems
+Operating system structure and function; process implementation, scheduling, and synchronization; memory management; security; naming protection; resource allocation; network file systems.
+/
+Programming Language Structures
+Formal specification of syntax and semantics; structure of algorithms; list processing and string manipulation languages; statement types, control structures, and interfacing procedures.
+/
+Data Structures and Algorithms
+Techniques for representing and processing information, including the use of lists, trees, and graphs; analysis of algorithms; sorting, searching, and hashing techniques.
+/
+Foundations of Computation
+Basic theoretical principles of computing as modeled by formal languages, grammars, automata, and Turing machines; fundamental limits of computation.
+/
+Introduction to Computer Networks
+Concepts and components of computer networks and the Internet; network applications; network protocol stack.
+/
+Capstone Computing Project I
+Capstone Computing Project I
+/
+Capstone Computing Project II
+Capstone Computing Project II
+/
+Computer Systems Engineering
+System-level modeling and evaluation of computer systems: requirements elicitation and specification, architectural design, reliability and performance evaluation, Markov modeling, life-cycle cost analysis, project management.
+/
+Artificial Intelligence
+Heuristic problem solving, theorem proving, and knowledge representation, including the use of appropriate programming languages and tools.
+/
+Text Processing
+Text and natural language processing; formal models and data structures appropriate for text processing; selected topics in computational linguistics, stylistics, and content analysis.
+/
+Parallel Computing
+Architecture and interconnection of parallel computers; parallel programming models and applications; issues in high-performance computing; programming of parallel computers.
+/
+Bayesian Networks and Decision Graphs
+Normative approaches to uncertainty in artificial intelligence. Probabilistic and causal modeling with Bayesian networks and influence diagrams. Applications in decision analysis and support. Algorithms for probability update in graphical models.
+/

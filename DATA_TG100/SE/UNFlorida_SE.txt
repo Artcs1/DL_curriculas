@@ -1,0 +1,91 @@
+/
+First-Year Seminar
+First, it introduces students to the concept of inquiry as a process that utilizes multiple approaches and perspectives to systematically investigate questions or problems.
+/
+Introduction to Academic Reading and Writing
+This course introduces students to the ways that writing is grounded in reading and that inquiry is essential to learning. Through attentive reading of academic texts, students are given authority as learners to undertake serious intellectual projects that emphasize critical and creative thinking.
+/
+Academic Writing and Research
+his course introduces students to the kind of critical and creative thinking necessary to understand the relationship between academic research and argumentation.
+/
+Introduction to Discrete Mathematics
+This course introduces students to basic concepts and structures of discrete mathematics. Topics can include propositional and predicate logic, sets and set operations, functions, proof techniques, counting problems, probability and basic number theory. Applications include computer science, biology, social sciences, law and the physical sciences.
+/
+General Biology I
+This course considers the basic concepts of life science with emphasis on the methods of science and the role of science in society, the chemistry of life, and molecular and cellular evolution. Selected topics include cellular biochemistry, the central dogma of biology, regulation of gene expression, cell structure and function, respiration and photosynthesis, and cell cycles.
+/
+General Biology for Majors
+This course covers the basic concepts of life science with an emphasis on animal anatomy and physiology, animal reproduction and development, the nervous system, evolutionary mechanisms and ecological principles. Selected topics include microevolution, speciation, macroevolution, animal behavior and application of comparative anatomy and physiology to illuminate evolutionary relationships and their ecological context.
+/
+University Physics
+This is a calculus-based physics course. Students examine classical Newtonian physics from kinematics, the study of motion, to dynamics, the study of why motion occurs. Topics include Newton's laws, conservation of energy and momentum, torque, equilibrium of static bodies and fluids, and thermal properties of matter. Through experimentation, computer modeling and group problem-solving, students apply these principles to predict the outcome of a number of reality-based and open-ended problems.
+/
+General Chemistry I
+Students study the atomic theory of matter, nomenclature, chemical formulas and reaction equations, stoichiometry, the gas laws and the kinetic molecular theory, thermochemistry, atomic structure, periodicity of the elements, chemical bonding and molecular structure.
+/
+Calculus of a Single Variable
+This course covers functions, graphs, limits, continuity, derivatives, applications of derivatives, antiderivatives and definite integrals, as well as the Fundamental Theorem of Calculus. 
+/
+Engineering Economics and Project Management
+This course provides an introduction to the concepts of economics/finance/costing and explains how these affect the engineering functioning and contribute to decision making in engineering operations. A portion of the course covers the concepts of project management, team building and leading teams that are used throughout the program and in professional practice.
+/
+Professional Development Seminar
+This course provides students with a culminating and integrative learning experience grounded in their University Curriculum, their major classes, and co-curricular activities. Students explore and evaluate potential solutions to an aspect of one of the 14 Grand Challenges for Engineering, with a focus on the global dimension of the solution. The course may include a service learning or study abroad component
+/
+Applied Statistics
+This introductory statistics course is intended primarily for students majoring in engineering, mathematics or the sciences. Emphasis is on using statistics to answer questions in the physical and social sciences. Topics include descriptive statistics, probability, point and interval estimation, hypothesis testing, correlation and regression, analysis of variance, chi-square tests and nonparametric methods. Students are required to analyze real data sets using Excel, SAS, SPSS or similar computer programs.
+/
+Integral Calculus With Applications
+This course provides a bridge from MA 141 to MA 152. Students review basic integration rules, integration by substitution, Fundamental Theorem of Calculus, numerical integration and applications of integration, including area between curves, volumes, arc length and applications from physics
+/
+Calculus II: Part A
+Students in this course study techniques of integration and infinite sequences and series. Techniques studied include u-substitution, integrals involving logarithms and inverse trigonometric functions, trigonometric integrals, trigonometric substitution, integration by parts, and partial fractions. For infinite series, the course includes a study of convergence, tests of convergence, power series, and Taylor and Maclaurin series. Additional topics include indeterminate forms, L'Hopital's Rule, and improper integrals
+/
+Calculus II: Part B
+In this course students study differential equations, conic sections, parametric equations, polar coordinates, vectors, operations on vectors, lines and planes in space, three-dimensional coordinate systems (cylindrical and spherical coordinates) and quadric surfaces.
+/
+Linear Algebra
+This course covers the basic concepts of linear algebra, along with an introduction to the language and techniques of formal mathematics. Topics include systems of linear equations, vector spaces, linear transformations, matrices, determinants and eigenvalues.
+/
+Discrete Mathematics
+Discrete Mathematics
+/
+Numerical Analysis
+Numerical Analysis
+/
+Mathematical Modeling
+Mathematical Modeling
+/
+Programming and Problem Solving
+This course serves as an introduction to computer science and computer programming. Topics include fundamental programming constructs; problem-solving techniques; basic data and control structures; testing; debugging; arrays; and an introduction to object-oriented programming
+/
+Data Structures and Abstraction
+This course is a continuation of CSC 110. Topics include advanced data structures (linked lists, stacks, queues, trees, hash tables), recursion, abstract data types, introductory algorithms, and intermediate object-oriented programming. A lab is included
+/
+Object-Oriented Design and Programming
+This course serves as an introduction to the principles of design and development using object-oriented techniques such as inheritance, polymorphism and encapsulation. Students apply OO techniques to develop event-driven programs. Code craftsmanship is emphasized. Students also learn to apply and recognize design patterns for OO software and to use standard application development frameworks.
+/
+Software Engineering Design and Development
+This course serves as an introduction to software engineering using object-oriented analysis and design. The course emphasizes the development of robust and high-quality software systems based on object-oriented principles. Implementations are performed using state-of-the-art programming languages and application development frameworks
+/
+Software Design and Architecture
+Students explore software design methodologies, architectural styles, design principles and design techniques. The course examines the principles and methods of architectural design and detailed design of complex, large-scale software systems and covers a number of architectural styles including classical and emerging styles.
+/
+Software Quality Assurance
+This course acquaints students with various aspects of software quality assurance. Students learn about dynamic analysis approaches, such as testing and runtime assertions, static analysis approaches, such as reviews and finite-state verification, and processes for promoting software quality. Emphasis is placed on testing, including testing processes, such as unit, integration, system, acceptance and regression testing, and test case selection techniques, such as black-box and white-box testing.
+/
+Engineering Professional Experience
+Students gain practical experience in applying theory obtained in previous course experiences by employing engineering skills in a professional setting under the guidance of faculty and mentors. Students must obtain departmental approval and register prior to starting the experience. If approved, an internship could satisfy this requirement.
+/
+Networking and Distributed Processing
+This course introduces students to net-centric computing, the web as an example of client-server computing, building internet and web applications, communications and networking, distributed object systems, collaboration technology and groupware, distributed operating systems and distributed systems.
+/
+Computer Architecture and Organization
+Students are introduced to the organization and architecture of computers. Topics related to computer organization include digital logic, data representation, computer arithmetic, data path and control unit implementation, memory system organization, and I/O communications. Architecture topics include machine language programming, instruction set design, and factors affecting processor performance
+/
+Senior Capstone I
+Senior Capstone I
+/
+Senior Capstone II
+Senior Capstone II
+/

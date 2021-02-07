@@ -1,0 +1,165 @@
+/
+Computer Programming II
+Advanced problem solving.
+Efficiency and reuse. Abstract Data Types. Object-Oriented programming. Dynamic data structures: linked lists,
+queues, stacks. Recursive functions and procedures.
+/
+Technical Writing for Computer Science
+Introduction to the writing tasks
+necessary of computer technology professionals. Covers skills necessary to prepare the technical reports,
+presentations, and documentation specific to the information technology environment. 
+/
+Introduction to E-Commerce
+This course focuses on a rich variety of models and strategies
+for connecting individuals, businesses, governments, and other organizations to each other. The topics covered in
+the course will span value and supply chain concepts, varying business relationship types, as well as obligations
+for protection of individual privacy and organizational security. 
+/
+Software Engineering I
+Introduction to the systems development life cycle, software
+development models, analysis and design techniques and tools, and validation and verification testing. Emphasis
+and experience will be on software engineering within a team environment. 
+/
+Management Information Systems
+Study of the systems concept and its relationship to
+information requirements for decision making and management in traditional and e-commerce environments.
+/
+Computer Organization and Architecture
+Digital logic; instruction set architecture and
+computer organization; memory systems; functional organization; interfacing and communication;
+multiprocessing and alternative architectures. 
+/
+Fundamentals of Computer Operating Systems
+Overview of operating system concepts
+and structures. Study of process management, including synchronization techniques for cooperating processes,
+main memory management, including virtual memory systems, system resource allocation and deadlocks, file
+system implementation, secondary storage management and input/output subsystems.
+/
+COBOL for Information Systems
+An introduction to
+solving business problems using structured programming techniques and methodology for both interactive and
+batch processing. 
+/
+Computer Networking
+Study of computer interconnection and protocols with emphasis
+on network layers, error detection/correction, data compression, and topologies. Project approach utilized.
+/
+Ethics and Legal Issues
+An overview of legal, ethical, global and professional issues in computing. 
+/
+Database Systems
+Concepts and terminology associated with data structure, file organization, access methods, packaged systems, database design and database systems. 
+/
+Software Engineering II
+This course is a continuation of software engineering that
+emphasizes the entire software process, developing and using process and product metrics, and managing
+software projects. Both individual and team projects will develop student expertise. 
+/
+Mgt of Information Security & Forensics
+Study of information security and
+digital forensics using practical case studies. Emphasis is on developing security policies, security management
+and practices, utilization of digital forensic tools and techniques, risk management, security project management,
+and protection mechanisms. 
+/
+Embedded & Control Systems Security
+A study of embedded system architectures,
+security, and digital forensics; the role of hardware abstraction layers and middleware; real-time OS issues, such as
+concurrency, synchronization, and resource management; and the components and applications of industrial
+control systems. Laboratory activities include: ladder logic programming, embedded systems programming, and
+digital forensics for microcontrollers, mobile computing platforms, and industrial control systems.
+/
+Computer Security
+Study of network security architectures and models, cryptography,
+authentication and authorization protocols, secure application and systems development, and federal regulations
+and compliance. Emphasis is on security professional certification. 
+/
+Disaster Response & Recovery
+How people, groups, organizations, communities, and
+governments manage disasters in the immediate aftermath and recover from their effects, including social,
+physical, business, and infrastructure problems as well as intra- and inter-organizational issues. 
+/
+Introduction to Web Design
+Step-by-step process of creating a well-designed website.
+Emphasizes web design techniques resulting in fast-loading and well-placed graphics, cohesive color and
+typography across platforms and browsers, clear navigational interface, and appropriate use of sound and video.
+Includes studio component where students analyze, design, and implement websites. 
+/
+Web Scripting
+A practical hands-on introduction to web scripting for writing clientside scripts. Topics include fundamentals of scripting as a web programming language, scripting techniques and
+programming concepts, such as control structures, data structure, objects, event handling and functions. Multiple
+scripting languages will be used for the hands-on projects. 
+/
+Dynamic Web Application
+The course will present dynamic web based application
+architecture, web scripting languages syntax, principles and techniques for developing database driven web
+applications using multiple web scripting languages. Students will gain experience in web scripting programming
+via the completion of a series of practical dynamic website projects. 
+/
+Web Application Development Using Web
+Introduction to technologies and
+tools for developing web applications using Web Services, emphasizing organizational issues, challenges, and
+security concerns related to the effective deployment of those applications
+/
+Business Finance
+This course introduces the financial concepts, tools, and principles utilized by the
+entrepreneur to initiate, build, and develop a successful entrepreneurial venture. This course also examines the
+sources of financing necessary to initiate and develop the venture. Additional topics include proforma financial
+statement development; business valuation models; cash flow analysis; and raising capital from private investors,
+venture capitalists, and banks.
+/
+Principles of Management
+A basic course in general management principles and theories. 
+/
+Principles of Marketing
+An introduction to marketing strategy. Focuses on the
+application of product, promotion, price and distribution elements in satisfying the wants and needs of target
+markets. 
+/
+Applied Probability and Statistics
+Provides a summary of introductory probability and statistics centered around data analysis examples and
+computer simulations. Includes discrete and continuous probability distributions, estimation, and hypothesis
+testing. 
+/
+English Composition
+Spelling, grammar, punctuation, vocabulary, and the strategies of effective writing. Introduction to literature. In 102: a research paper.
+/
+World Literature
+The literature of Greece and Rome, the Medieval Period, the Renaissance, the Enlightenment, the Romantic Age, Realism and Symbolism, and our own times. 
+/
+American Literature 
+The American tradition as presented in literature. 201: Franklin, Irving, Poe, Douglass, Emerson, Thoreau, Hawthorne, Melville, Whitman. 
+/
+Introductory Biology I 
+An introduction to the concepts of biology, including cellular
+structure and function, bioenergetics, patterns and mechanisms of inheritance, the processes of evolution, and
+ecology. 
+/
+Introductory Biology Lab I
+Introductory Biology Lab I
+/
+Introductory Biology II
+An introduction to biodiversity, from bacteria through plants and animals, with an emphasis on their structure, function, and ecological interactions. 
+/
+Introductory Biology Lab II 
+Introductory Biology Lab II 
+/
+Calculus and Its Applications
+Topics in differential and integral calculus with business applications, functions of several variables, partial derivatives with business applications, Lagrange Multipliers,
+and multiple integration. 
+/
+Western Civilization 
+Civilization from earliest times to the present. Some training in
+the technique of historical research. 
+/
+Principles of Microeconomics
+Microeconomic analysis, including the consumer, the firm, the market and price determination.
+/
+Principles of Psychology
+An introduction to basic methodology, principles, and terms of contemporary
+psychology. Stresses a scientific analysis of behavior. Direct experience with research psychology or its equivalent
+may be required. 
+/
+Introduction to Anthropology
+Surveys the field of anthropology, including cultural anthropology,
+archaeology, and physical anthropology. 
+/

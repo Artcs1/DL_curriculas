@@ -1,0 +1,129 @@
+PHYSICS I
+Kinematics, Newton's laws of motion, gravitation, Coulomb's law, Lorentz force law, strong and weak nuclear forces, conservation of energy and momentum, relevant laboratory experiments.
+/
+CALCULUS I
+Calculus and analytic geometry in the plane. Algebraic and transcendental functions. Limits and continuity. Differentiation, geometric and physical interpretations of the derivative, Newton’s method. Introduction to integration and the Fundamental Theorem of Calculus.
+/
+INTRODUCTION TO SOFTWARE DEVELOPMENT
+An introduction to procedural and object-oriented programming with an emphasis on problem solving. Problems may include visualizing scientific or commercial data, interfacing with external hardware such as robots, or solving numeric problems from a variety of engineering disciplines. Procedural programming concepts covered include data types, variables, control structures, arrays, and data I/O. Object-oriented programming concepts covered include object creation and use, object interaction, and the design of simple classes. Software engineering concepts covered include testing, incremental development, understanding requirements, and teamwork.
+/
+RHETORIC & COMPOSITION
+Emphasizes rhetorical analysis oftexts and images,research methods, and theconventions of academic writing, including argumentation.
+/
+ART AND MATHEMATICS
+Explores the interplay between art and math with emphasis on hands-on projects. Applies students' existing mathematical knowledge to reinforce new artistic experiences. Increases students' appreciation for both disciplines.
+/
+OBJECT-ORIENTED SOFTWARE DEVELOPMENT
+Object-oriented programming concepts, including the use of inheritance, interfaces, polymorphism, abstract data types, and encapsulation to enable software reuse and assist in software maintenance. Recursion, GUIs and event handing. Use of common object-based data structures, including stacks, queues, lists, trees, sets, maps, and hash tables. Space/time efficiency analysis. Testing. Introduction to UML.
+/
+CALCULUS II
+Techniques of integration, numerical integration, applications of integration. L’Hopital’s rule and improper integrals. Separable first order differential equations, applications of separable first order differential equations. Series of constants, power series, Taylor polynomials, Taylor and McLaurin series.
+/
+PHYSICS II
+Torque and angular momentum, oscillations, one-dimensional waves, electric fields and potentials, electric current and resistance, DC circuits, capacitance, relevant laboratory experiments.
+/
+Science I
+Science I 
+/
+CALCULUS III
+Vectors and parametric equations in three dimensions. Functions of several variables, partial derivatives, maxima and minima of functions of several variables, multiple integrals, and other coordinate systems. Applications of partial derivatives and multiple integrals.
+/
+INTRODUCTION TO COMPUTER SYSTEMS
+Provides students with an understanding of system level issues and their impact on the design and use of computer systems. Examination of both hardware and software layers. Basic computation structures and digital logic. Representation of instructions, integers, floating point numbers and other data types. System requirements, such as resource management, security, communication and synchronization, and their hardware and/or software implementation. Exploration of multiprocessor and distributed systems. Course topics will be explored using a variety of hands-on assignments and projects.
+/
+MATHEMATICAL ECONOMICS
+Illustrates the use of mathematics in economic analysis. Includes discussion of mathematical programming, decision theory, the applications of differential and integral calculus, differential and difference equations.
+/
+GENERAL CHEMISTRY I
+Topics include stoichiometry, nomenclature, phases, and writing balanced chemical equations. Quantum theory is introduced in relation to chemical applications. Atomic structure is introduced. Bonding principles and molecular structure are discussed in terms of Lewis Dot Structures, Valence Bond Theory, VSEPR Theory, Hybridization, and Molecular Orbital Theory.
+/
+MATRIX ALGEBRA & SYSTEMS OF DIFFERENTIAL EQUATIONS
+Basic matrix algebra with emphasis on understanding systems of linear equations from algebraic and geometric viewpoints, and eigenvalues and eigenvectors. Solution of systems of first order linear differential equations by eigensystems and investigation of their solution structure determined by eigensystems. Phase portrait analysis and classification of the nature of the stability of critical points for linear and nonlinear systems. Fourier series. Introduction to complex arithmetic, as needed. Applications to problems in science and engineering.
+/
+DISCRETE & COMBINATORIAL ALGEBRA I
+An introduction to enumeration and discrete structures. Permutations, combinations and the pigeonhole principle. Elementary mathematical logic and proof techniques, including mathematical induction. Properties of the integers. Set theory. Introduction to functions.
+/
+COMPUTER ARCHITECTURE I
+Computer instruction set architecture and implementation. Specific topics include historical perspectives, performance evaluation, computer organization, instruction formats, addressing modes, computer arithmetic, single-cycle and multi-cycle data paths, and processor control. Assembly language programming is used as a means of exploring instruction set architectures. The final project involves the complete design and implementation of a miniscule instruction set processor.
+/
+TECHNICAL & PROFESSIONAL COMMUNICATION
+Provides students with instruction and practice in analyzing contexts, audiences, and genres; crafting documents to meet the demands and constraints of professional situations; integrating all stages of the writing process; and collaborating effectively within and across teams.
+/
+OPERATING SYSTEMS
+Students learn fundamental concepts of modern operating systems by studying how and why operating systems have evolved. Topics include CPU scheduling, process synchronization, memory management, file systems, I/O systems, privacy and security, and performance evaluation. Students implement parts of an operating system as a means of exploring the details of some of these topics.
+/
+DATA STRUCTURES AND ALGORITHM ANALYSIS
+This course reinforces and extends students’ ability to independently design, develop, and debug object-oriented software that uses correct, clear, and efficient algorithms and data structures. Students study and implement classical data structures such as list, stack, queue, tree, priority queue, hash table, graph, set, and dictionary. Formal efficiency analysis is used to evaluate the complexity of algorithms for these data structures. Students gain proficiency in writing recursive methods. Students design and implement software individually, in small groups, and in a challenging multi-week team project.
+/
+DISCRETE & COMBINATORIAL ALGEBRA II
+A continuation of MA 275. Relations. An introduction to finite state machines. More advanced enumeration techniques including recurrence relations, generating functions and the principle of inclusion and exclusion.
+/
+COMBINATORICS
+A first course in combinatorics. Basic counting principles, permutations, combinations. Combinatorial proof. The pigeonhole principle. The principle of inclusion/exclusion. Generating functions. Recurrence relations. Additional topics in combinatorics, which may include permutation groups and Burnside's Lemma, Polya enumeration, multivariate generating functions, combinatorial designs, Ramsey theory, order relations, or other topics at the discretion of the instructor.
+/
+DATABASE SYSTEMS
+Relational database systems, with emphasis on entity relationship diagrams for data modeling. Properties and roles of transactions. SQL for data definition and data manipulation. Use of contemporary API's for access to the database. Enterprise examples provided from several application domains. The influence of design on the use of indexes, views, sequences, joins, and triggers. Physical level data structures: B+ trees and RAID. Survey of object databases.
+/
+SOFTWARE QUALITY ASSURANCE
+Theory and practice of determining whether a product conforms to its specification and intended use. Topics include software quality assurance methods, test plans and strategies, unit level and system level testing, software reliability, peer review methods, and configuration control responsibilities in quality assurance.
+/
+ARTIFICIAL INTELLIGENCE
+Students investigate how to model and implement intelligent behavior using computers. Topics are chosen from how machines can: solve problems; reason and use knowledge; learn from experience; and perceive and act. Students explore these topics by implementing many of the ideas in software. Readings are drawn both from a textbook and from technical papers in recent conferences and journals.
+/
+COMPUTER VISION
+An introduction to 3D computer vision techniques. Both theory and practical applications will be covered. Major topics include image features, camera calibration, stereopsis, motion, shape from x, and recognition.
+/
+IMAGE RECOGNITION
+Introduces statistical pattern recognition of visual data; low-level visual feature extraction (color, shape, edges); clustering and classification techniques. Applies knowledge to various application domains through exercises, large programming projects in Matlab, and an independent research project. Familiarity with probability distributions will be helpful, but not required.
+/
+CRYPTOGRAPHY
+Introduction to basic ideas of modern cryptography with emphasis on mathematical background and practical implementation. Topics include: the history of cryptography and cryptanalysis, public and private key cryptography, digital signatures, and limitations of modern cryptography. Touches upon some of the societal issues of cryptography
+/
+INTRODUCTION TO PROBABILITY WITH APPLICATIONS TO STATISTICS
+Introduction to probability theory; axioms of probability, sample spaces, and probability laws (including conditional probabilities). Univariate random variables (discrete and continuous) and their expectations including these distributions: binomial, Poisson, geometric, uniform, exponential, and normal. Introduction to moment generating functions. Introduction to jointly distributed random variables. Univariate and joint transformations of random variables. The distribution of linear combinations of random variables and an introduction to the Central Limit Theorem. Applications of probability to statistics.
+/
+SOFTWARE REQUIREMENTS ENGINEERING
+Basic concepts and principles of software requirements engineering, its tools and techniques, and methods for modeling software systems. Topics include requirements elicitation, prototyping, functional and non-functional requirements, object-oriented techniques, and requirements tracking.
+/
+SOFTWARE PROJECT MANAGEMENT
+Major issues and techniques of project management. Project evaluation and selection, scope management, team building, stakeholder management, risk assessment, scheduling, quality, rework, negotiation, and conflict management. Professional issues including career planning, lifelong learning, software engineering ethics, and the licensing and certification of software professionals.
+/
+PROGRAMMING LANGUAGE CONCEPTS
+Syntax and semantics of programming languages. Grammars, parsing, data types, control flow, parameter passing, run-time storage management, binding times, functional programming and procedural abstraction, syntactic extensions, continuations, language design and evaluation. Students will explore several language features by writing an interpreter that implements them.
+/
+SOFTWARE DESIGN
+Introduction to the architecture and design of complete software systems, building on components and patterns. Topics include architectural principles and alternatives, design documentation, and relationships between levels of abstraction.
+/
+SOFTWARE CONSTRUCTION AND EVOLUTION
+Issues, methods and techniques associated with constructing software. Topics include detailed design methods and notations, implementation tools, coding standards and styles, peer review techniques, and maintenance issues.
+/
+FORMAL METHODS IN SPECIFICATION AND DESIGN
+Introduction to the use of mathematical models of software systems for their specification and validation. Topics include finite state machine models, models of concurrent systems, verification of models, and limitations of these techniques.
+/
+Senior Research I
+Senior Research I
+/
+SOFTWARE ARCHITECTURE
+This is a second course in the architecture and design of complete software systems, building on components and patterns. Topics include architectural principles and alternatives, design documentation, relationships between levels of abstraction, theory and practice of human interface design, creating systems which can evolve, choosing software sources and strategies, prototyping and documenting designs, and employing patterns for reuse. How to design systems which a team of developers can implement, and which will be successful in the real world.
+/
+Senior Research II
+Senior Research II
+/
+Senior Research III
+Senior Research III
+/
+THEORY OF COMPUTATION
+Students study mathematical models by which to answer three questions: What is a computer? What limits exist on what problems computers can solve? What does it mean for a problem to be hard? Topics include models of computation (including Turing machines), undecidability (including the Halting Problem) and computational complexity (including NP-completeness)
+/
+CRYPTOGRAPHY
+Introduction to basic ideas of modern cryptography with emphasis on mathematical background and practical implementation. Topics include: the history of cryptography and cryptanalysis, public and private key cryptography, digital signatures, and limitations of modern cryptography. Touches upon some of the societal issues of cryptography. 
+/
+COMPUTER SECURITY
+This course introduces ethical, theoretical, and practical issues of information security in computing systems. Implications of relevant professional codes of ethics are a recurring theme of the course. Foundational topics include access control matrices and standard system models, as well as policies for security, confidentiality, and integrity. Implementation issues include key management, cipher techniques, authentication, principles of secure design, representation of identity, access control mechanisms, information flow, life cycle issues, and formal evaluation and certification techniques. Additional topics include malicious logic, vulnerability analysis, and auditing. Computer network attack techniques are discussed and explored in a closed environment to motivate and inform discussion and exploration of computer network defense techniques.
+/
+TOPICS IN ARTIFICIAL INTELLIGENCE
+TOPICS IN ARTIFICIAL INTELLIGENCE
+/
+COMPILER CONSTRUCTION
+Theory and practice of programming language translation. Lexical analysis, syntax analysis, parser generators, abstract syntax, symbol tables, semantic analysis, intermediate languages, code generation, code optimization, run-time storage management, error handling. Students will construct a complete compiler for a small language.
+/

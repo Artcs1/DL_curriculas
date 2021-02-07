@@ -1,0 +1,109 @@
+/
+Calculus I
+Functions and graphs, rational, trigonometric, exponential functions, composite and inverse functions, limits and continuity, differentiation and its applications, integration and its applications.
+/
+Problem Solving and Programming I 
+Problem solving, algorithms, and program design. Use of structured programming, lists, control structures, recursion, objects and files in Python. Introduction to graphical interface programming. Coding, testing and debugging using a modern development environment.
+/
+First Semester Experience 
+The First Semester Experience will introduce students to the people, systems, and resources that foster success at UMKC. Students will participate in weekly Impact Seminars to learn about the research and teaching that takes place across campus and how to engage with faculty in your time at UMKC.
+/
+English I: Introduction To Academic Prose 
+This course introduces students to college-level reading, writing, and discourse analysis: it engages students in the analysis and creation of texts that reveal multiple perspectives about specific rhetorical situations and cultural issues.
+/
+Calculus II 
+Techniques of integration, applications of the definite integral, improper integrals, sequences and series, power series. Taylor series and convergence, analytic geometry in calculus.
+/
+Discrete Structures I 
+Mathematical logic, sets, relations, functions, mathematical induction, algebraic structures with emphasis on computing applications.
+/
+Problem Solving and Programming II 
+Problem solving and programming using classes and objects. Algorithm efficiency, abstract data types, searching and sorting, templates, pointers, linked lists, stacks and queues implemented in C++.
+/
+Problem Solving and Programming II - Lab
+Problem Solving and Programming II - Lab
+/
+Why Though? 
+What is human behavior? How do humans influence and are influenced by the world around them? How can we study the "why" behind human behavior in a meaningful way given just how complex humans and societies are? In this course, students apply perspectives and critical thinking processes from the social sciences to identify and explore relevant questions.
+/
+Problem Solving & Programming I Lab
+Problem Solving & Programming I Lab
+/
+Discrete Structures II
+Recurrence relations and their use in the analysis of algorithms. Graphs, trees, and network flow models. Introduction to Finite state machines, grammars, and automata.
+/
+Data Structures 
+Linear and hierarchical data structures, including stacks, queues, lists, trees, priority queues, advanced tree structures, hashing tables, dictionaries and disjoint-set. Abstractions and strategies for efficient implementations will be discussed. Linear and hierarchical algorithms will be studied as well as recursion and various searching and sorting algorithms. Programming concepts include Object Orientation, concurrency and parallel programming. Several in-depth projects in C++ will be required.
+/
+Physics For Scientists and Engineers I
+Introduction to mechanics, wave motion and sound and heat and thermodynamics.
+/
+Elementary Statistics Credit
+An introduction to descriptive and inferential statistics. Organization and presentation of data, averages and variations, elementary probability, random variables, special discrete distributions, normal distributions, sampling distributions, point estimation, confidence intervals, and hypothesis testing.
+/
+English II: Intermediate Academic Prose
+English II: Intermediate Academic Prose
+/
+Introduction to Computer Architecture and Organization 
+Digital Logic and Data Representation, process architecture and instruction sequencing, memory hierarchy and bus-interfaces and functional organization.
+/
+Linear Algebra I 
+Linear equations, matrix algebra, real vector spaces, linear transformations, determinants, eigenvalues and eigenvectors, orthogonality, and applications.
+/
+Physics For Scientists and Engineers II 
+Introduction to electricity and magnetism, light and optics and modern physics. Four hours lecture and two hours laboratory per week.
+/
+Fundamentals Of Effective Speaking And Listening 
+An introduction to the dimensions of effective platform speaking with special emphasis on developing critical listening skills. Lecture, performance, and discussion.
+/
+Making Meaning in A Changing World
+Students appreciate the Arts and Humanities and the importance of the creative and human experience by learning how to analyze artifacts (e.g., texts) to make meaning out of their world.
+/
+Ethics and Professionalism 
+Societal and ethical obligations of computer science, information technology, and electrical/computer engineering practice. Topics include obligations of professional practice, electronic privacy, intellectual property, ethical issues in networking, computer security, computer reliability, and whistle-blowing.
+/
+Applied Probability 
+Basic concepts of probability theory. Counting and measuring. Probability, conditional probability and independence. Discrete, continuous, joint random variables. Functions of random variables. Sums of independent random variables and transform methods. Random number generation and random event generation. Law of large numbers, central limit theorem, inequalities.
+/
+Introduction to Operating Systems
+This course covers concurrency and control of asynchronous processes, deadlocks, memory management, processor and disk scheduling, x86 assembly language, parallel processing, security, protection, and file system organization in operating systems.
+/
+U.S. History to 1877
+This course offers a broad survey of American history up to 1877.
+/
+Database Design, Implementation and Validation
+This course discusses in detail all aspects of database management systems. It covers in detail database design, implementation, and validation. In addition to these, it briefly covers implementation, tuning, database security, and implementation.
+/
+Introduction to Algorithms and Complexity 
+A rigorous review of asymptotic analysis techniques and algorithms: from design strategy (such as greedy, divide-and-conquer, and dynamic programming) to problem areas (such as searching, sorting, shortest path, spanning trees, transitive closures, and other graph algorithms, string algorithms) arriving at classical algorithms with supporting data structures for efficient implementation.
+/
+Culture and Diversity 
+Students engage in investigation and reflection of their own backgrounds and cultures, examining their own worldview and implicit bias. 
+/
+Introductory Networking and Applications 
+This introductory course examines the systems aspects of the different LAN/MAN/WAN models, including topics such as protocols, network operating systems, applications, management and wireless communication systems. 
+/
+Programming Languages: Design and Implementation 
+This course covers programming language paradigms (object-oriented programming, functional programming, declarative programming, and scripting) and design tradeoffs in terms of binding, visibility, scope, lifetime, type-checking, concurrency/parallelism, and abstraction.
+/
+Foundations of Software Engineering 
+The course introduces concepts of software engineering (e.g. definitions, context) and the software development process (i.e. life cycle). 
+/
+Software Engineering Capstone 
+The course will focus on the requirements and project planning and managing of medium sized projects with deliverables of each phase of the software life cycle. Additional studies of system integration and architecture, software modeling, requirements specifications, configuration management, verification, validation, software evolution and quality and finally measurement, estimation and economics of the software process.
+/
+Introduction to Artificial Intelligence 
+This course provides an overview of the field of artificial intelligence. Topics include guided and unguided search, adversarial search, generation and use of heuristics, logic programming, probabilistic reasoning, and neural networks. 
+/
+Applied Probability 
+Basic concepts of probability theory. Counting and measuring. Probability, conditional probability and independence. Discrete, continuous, joint random variables. Functions of random variables. Sums of independent random variables and transform methods. Random number generation and random event generation. Law of large numbers, central limit theorem, inequalities. Their applications to computer science and electrical and computer engineering areas are stressed.
+/
+Introductory Networking and Applications 
+This introductory course examines the systems aspects of the different LAN/MAN/WAN models, including topics such as protocols, network operating systems, applications, management and wireless communication systems. It also examines how the different models are interconnected using bridges and routers.
+/
+Introduction to Operating Systems 
+This course covers concurrency and control of asynchronous processes, deadlocks, memory management, processor and disk scheduling, x86 assembly language, parallel processing, security, protection, and file system organization in operating systems.
+/
+Introduction to Artificial Intelligence 
+This course provides an overview of the field of artificial intelligence. Topics include guided and unguided search, adversarial search, generation and use of heuristics, logic programming, probabilistic reasoning, and neural networks. Application areas studied include game playing, automated proofs, expert systems, and data mining.
+/

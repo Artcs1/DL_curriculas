@@ -1,0 +1,202 @@
+/
+Fundamentals of Engineering 
+This is an introductory course that focuses on the fundamental concepts of engineering. Topics are drawn from
+principles of bio-, civil, computer, electrical, environmental, and mechanical engineering and show the
+interdisciplinary nature of the profession. Foundational skills such as problem solving, engineering communication,
+and teamwork are included. 
+/
+The Human Experience
+A writing-intensive interdisciplinary course that initiates first year students into the VU academic community by
+exploring significant themes in human experience, engaging students with resources from the areas of history,
+theology, philosophy, literature, and the arts. 
+/
+Calculus I 
+A first course in the calculus sequence. Topics include limits, continuity,
+differentiation, application of the derivative, the Intermediate Value Theorem, definite integrals and the
+Fundamental Theorem of Calculus, with transcendental functions throughout. 
+/
+
+Newtonian Mechanics 
+A study of classical mechanics, including static and dynamic systems, for students of physics, engineering,
+chemistry, and meteorology. Applications of calculus are made as appropriate. 
+/
+Experimental Physics I 
+Laboratory experiments test and illustrate fundamental physics concepts 
+/
+Fundamentals of Electrical Engineering 
+A study of the fundamental methods and theorems of electrical circuit analysis. Topics
+include steady-state and transient analysis of DC and AC circuits containing resistors, capacitors, inductors, and
+operational amplifiers. 
+/
+The Human Experience 
+A writing-intensive interdisciplinary course that initiates first year students into the VU academic community by
+exploring significant themes in human experience, engaging students with resources from the areas of history,
+theology, philosophy, literature, and the arts.
+/
+Calculus II 
+Topics include techniques of integration, applications of the definite integral,
+improper integrals, an introduction to differential equations, convergence of sequences and series, Taylor series,
+parametric equations, and polar coordinates
+/
+Physics: Electricity, Magnetism and Waves
+Physics: Electricity, Magnetism and Waves
+/
+Healthy Lifestyles 
+This course is designed for freshmen (and transfer students) and should be taken during their first year of
+attendance at Valparaiso University. The course is aimed at promoting a concern in each student for their current
+level of health and physical fitness. 
+/
+Technical Writing for Electrical and Computer Engineersw 
+An introduction to technical writing in electrical and computer engineering. Topics include writing impactful
+sentences and paragraphs, designing figures, charts, graphs, and tables to effectively convey technical information,
+and writing for a particular audience
+/
+Linear Circuit Theory I
+A study of the fundamental methods and theorems of electric circuit analysis. Topics include steady state and
+transient analysis of DC and transient circuits containing resistors, capacitors, inductors, and operational amplifiers. 
+/
+Digital Logic Design 
+An introduction to digital logic concepts, including the analysis and design of
+combinational and sequential digital circuits.
+/
+Engineering Programming I 
+A study of the fundamental programming constructs, algorithms, and data structures using industry-standard
+software. An emphasis is placed on programming strategies and the application of computer algorithms to solve
+problems in engineering and mathematics. 
+/
+Linear Systems and Matrices 
+Students will study properties of, and solutions to, linear equations and systems of linear equations. Related
+topics include matrices, properties of matrices, matrix algebra, determinants, eigenvalues, real vectors in two
+and three dimensions, vector algebra (including dot and cross products), linear combinations, and linear
+independence. 
+/
+Ordinary Differential Equations 
+Study of differential equations of a single variable, and their solutions (graphical, exact, and numerical),
+applications of ordinary differential equations, Laplace transforms, introduction to systems of linear differential
+equations, use of eigenvalues and eigenvectors in solving such systems.
+/
+Advanced Logic Design 
+Includes the design of MSI and LSI digital circuits using a hardware description language (VHDL). Designs are also implemented in programmable logic devices (PALs, CPLDs). 
+/
+The Design Process for Electrical and Computer Engineers
+A study of the design process as it relates to electrical and computer engineering. All steps of the design process will
+be considered in depth, and students will complete both incremental projects and a comprehensive design project
+that integrates their knowledge of the course material with technical design constraints.
+/
+Engineering Programming II 
+Topics include the implementation of linked lists, queues, trees, stacks, sets, and sorting algorithms, such as quick sort, merge sort,
+and bucket sort. Students are also introduced to object orientation. 
+/
+Linear Circuit Theory I 
+A study of the fundamental methods and theorems of electric circuit analysis. Topics include steady state and
+transient analysis of DC and transient circuits containing resistors, capacitors, inductors, and operational amplifiers
+/
+The Christian Tradition 
+A study of the origins and development of Christian thought as it forms communities and engages the world.
+/
+Discrete Structures I
+An introduction to mathematical reasoning, algorithm analysis, and the concepts that
+provide a mathematical foundation for computer science. Topics include a review of sets, logic, proof techniques
+including mathematical induction, counting techniques, recurrences, RSA cryptography, graph algorithms,
+applications, and elementary analysis of iterative and recursive algorithms. 
+/
+Electronics I 
+An introduction to semiconductor theory and the design and analysis of electronic circuits. Topics include diodes,
+field-effect and bipolar transistors, CMOS logic circuits, single state discrete transistor amplifiers, and multistage
+integrated-circuit amplifiers. 
+/
+Signals and Systems
+Continuous and discrete systems and signals are considered in both time and frequency domains. Continuous-time
+linear systems topics include Fourier series, Fourier transforms, and Laplace transforms. Discrete-time topics
+include the discrete Fourier transform, the Z-transform, sampling, quantization, and discrete-time processing.
+Discrete and continuous filtering techniques are introduced. 
+/
+Calculus III 
+Topics include conic sections, vector algebra, space curves, calculus of functions of
+several variables, multiple integration, calculus of vector fields. 
+/
+Embedded Microcontrollers 
+The application of microcontrollers in embedded system design, emphasizing the
+interaction of hardware and software design. Topics include integrated development environments, CPUs, program
+and data memories, interrupts, digital inputs and outputs, timer peripherals, serial communication interfaces, and
+analog-to-digital converter peripherals. 
+/
+Networking and Data Communications 
+Theory of interconnected digital systems including information flow control by packet and circuit-switching
+techniques and standards for communication between network nodes. 
+/
+Digital Signal Processing 
+This course is an overview of the theory and techniques of the basic concepts of digital signal processing. Topics
+covered include design of FIR and IIR filters, construction of algorithms for real-time and off-line signal processing,
+relationships between analog and digital realizations, and real-time hardware considerations. 
+/
+Embedded Microcontrollers II
+Topics include assembly language, low power modes, clock systems, real‐time operating systems, and
+hardware/software co‐design. 
+/
+Statistical Analysis 
+An introduction to probability and statistics for students who have completed a semester of calculus. Topics include
+probability, empirical and theoretical frequency distributions, sampling, correlation and regression, testing
+hypotheses, and estimation of parameters, with an emphasis on illustrations and applications of these techniques. 
+/
+Financial Decisions in Engineering 
+A discussion of essential financial issues that impact engineering decision-making. Topics include calculating
+measures of financial merit for engineering decisions and selecting the most economically desirable solution from
+among several alternatives. 
+/
+Ethical Decisions in Engineering 
+A discussion of essential ethical issues that impact engineering decision-making. Topics include recognizing
+situations that require ethical judgment, and applying engineering codes of ethics to make ethical decisions.
+Concepts of sustainability and socio-political influence are also discussed. 
+/
+Linear Circuit Theory II 
+Topics include AC circuits, power computations, transformers, frequency response,
+filters, Laplace transforms, and Fourier series. 
+/
+Experience and Existence
+A study of the fundamental philosophical questions that arise as we attempt to understand the world around us
+and our experience of it. Topics covered may include the nature of time, space, and matter, the existence of God
+and of human souls, the nature of the human person and of consciousness, the reliability of sense- perception and
+the possibility of knowledge, the compatibility of faith, reason, and science, and so on.
+/
+Computer Architecture 
+The description, organization, and design of computer elements to perform effectively. Instruction set design,
+caches, pipelining, and microprogramming.
+/
+Biotechnology 
+An introductory study of modern biology in which those aspects of biotechnology that affect the welfare of
+humanity are emphasized. 
+/
+Senior Design Project I
+The application of theoretical and experimental engineering concepts in the analysis and design of an engineering
+system. Students form teams to plan and organize a multidisciplinary project.
+/
+Integrated Circuit Fabrication and Design 
+An introduction to the fundamental principles of CMOS digital integrated circuit design. Extensive use of CAD tools
+for layout and simulation. Techniques for speed and size tradeoff are studied.
+/
+Senior Design Project II 
+Projects are built, tested, documented, and reported. 
+/
+Simulation and Modeling Tools 
+A study of the software tools that are used by electrical and computer engineers to simulate circuits and to study
+electrical signals and systems.
+/
+Electromagnetic Field Theory 
+The study of fundamental laws of static and dynamic electric and magnetic fields using vector methods. Topics
+include transmission lines, Maxwell’s equations and electromagnetic radiation. 	
+/
+Globalization and Development
+A regional survey of the developing countries, with an emphasis on their economic, social, and political
+development in the context of growing global interconnectedness. 
+/
+Discrete Mathematics 
+An introduction to mathematical reasoning, algorithm analysis, and the concepts that
+provide a mathematical foundation for computer science. Topics include a review of sets, logic, proof techniques
+including mathematical induction, counting techniques, recurrences, RSA cryptography, graph algorithms,
+applications, and elementary analysis of iterative and recursive algorithms. 
+/
+Linear Algebra
+A study of linear algebra and an introduction to mathematical reasoning. Topics include systems of linear
+equations, matrices, determinants, vectors in n-space, abstract vector spaces, and linear transformations. 
+/

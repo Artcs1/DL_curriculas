@@ -1,0 +1,135 @@
+/
+Introductory Psychology
+Psychology is fundamental to every field in academic study. This course is designed to teach the student a basic understanding of human behavior as well as emotional and cognitive development. Coursework incorporates terminology, principles, and foundational theories that comprise modern concepts of introductory psychology.
+/
+Interpersonal Communication
+This course explores the importance of effective interpersonal communication. This course covers: how interpersonal communication impacts an individual, how to recognize the different methods of communication and establishing and maintaining personal and professional relationships through effective communication.
+/
+Introductory Written Communication
+The workshop style course focuses on building confidence in writing as students progress through the process of choosing essay topics, developing introductory paragraphs and thesis statements, creating effective body paragraphs and topic sentences, and drafting conclusion paragraphs.
+/
+Professional Written Communications
+Throughout the course, students will incorporate college-level research into their writing, which includes identifying credible research and using citations following CTU APA guidelines. 
+/
+Modern American History: 1950 to the 21st Century
+This course focuses on the key people, social experiments, and technologies that continue to impact our lives. Particular attention is paid to the latter half of the 20th Century and the dawn of a new millennium in America – a time that, through the lens of history, both gives us pause and inspires hope for the future.
+/
+College Algebra for Technical Programs
+Functions are introduced, including their definition, general properties of zeroes, extreme values, symmetry, transformations, and graphs. Special attention is given to linear, rational, radical, and quadratic equations. Additional topics include computation with complex numbers, solving systems of linear equations with matrices and determinants, and solving rational and radical equations and inequalities with absolute value.
+/
+Introduction to Ethics
+This course is designed to provide students a basic understanding of moral and ethical theories and concepts. The activities and discussions encourage students to explore and solve ethical dilemmas by identifying and applying moral and ethical theories.
+/
+Introduction to the Sciences
+This course is designed to provide foundational knowledge in and foster an appreciation for the many dynamic disciplines –such as chemistry, physics, biology, and geology – within this robust field. This course is designed for students to explore the basic tenets of scientific thinking, including the Scientific Method, as well as other quantitative and qualitative approaches designed to enable them to draw meaningful conclusions about the world around them.
+/
+Science and Technology- Laboratory Course
+This is a learning experience that complements the Introduction to the Sciences course. Since the course addresses how scientific thinking and the resultant technology has changed modern life, this lab will provide students with experiences in the scientific approaches of different sciences covered, such as: biology, chemistry, physics, geology and astronomy. 
+/
+Environmental Science and Sustainability
+This course analyzes the interrelationships between the natural environment and human activities. In this course, students are taught about the preservation and conservation of natural resources and the resilience of the natural environment with respect to the carrying capacity of the earth.
+/
+Social Perspectives on Race, Gender, and Class
+There is an interconnection between gender, race, and class that not only forms our individual identities but also influences how we view the world and others. This course explores how our personal perspectives mold the lens through which we observe our interactions with others. 
+/
+Academic and Career Success
+This course introduces effective academic strategies and resources integrating them with career planning methods that can be leveraged to pursue future academic and professional goals.
+/
+Computer Architecture
+This course studies computer organization and design. Topics include digital logic and digital systems, machine level representation of data, memory system organization and architecture, computer interfacing and multiprocessing.
+/
+Problem Solving in Computer Science
+The objective of this course is to introduce students to the foundational aspects of Computer Science as a discipline. Students will then be provided with an overview to core Computer Science knowledge areas. We will discuss the spectrum of computation technologies and their typical applications. 
+/
+Principles of Programming Languages
+This course provides a comprehensive introduction of programming languages including assembler, scripting, procedural, and Object-Oriented languages. For each type of programming languages, construction components and techniques will be presented and the main application suitability will also be discussed with real world examples.
+/
+Introduction of Programming
+This course introduces students to an introductory programming language which can demonstrate several common types of programming models such as scripting, procedural, and object-oriented programming in one language. The course covers algorithmic logic, basic declarations and statements, control structures, data and program design, basic concepts of object-orientation, and also covers how to organize multiple program components into a single programming project.
+/
+Python Programming
+This course will give students the opportunity to extend their programming skills through use of the Python programming language. The foundation of object-oriented and event-driven programming will be discussed and applied in this course. Topics studied will include the use of data structures, the creation of classes and objects, and the application of inheritance and polymorphism, etc.
+/
+SQL Programming
+This course will give students the opportunity to extend their database knowledge and skills through applying the theory into practical applications implemented by programming in Structured Query Language (SQL).
+/
+Java Programming
+This course provides students an opportunity to learn Java, another object-oriented programming (OOP) language, through the development of a software application. Students will use various Java language features to create classes and objects, and apply inheritance to construct solutions. 
+/
+C++ Programming
+This course provides students an opportunity to learn C++, another object-oriented programming (OOP) language, through the development of a software application. Students will apply C++ language features to create classes and objects; and also apply object-oriented features such as inheritance, operator overloading, polymorphism, and templates to construct solutions.
+/
+Fundamentals of Data Structures
+This course introduces students to the principles and idiosyncrasies behind representatives of some of the different types of data structures. The course includes an examination of arrays, stacks, queues, lists, and trees.
+/
+Introduction to Database Systems
+This course introduces the basic database management system (DBMS) concepts including relational data models, database management system architecture and components, as well as structured query language (SQL), etc. Topics such as conceptual, logical and physical database designs will be covered and applied for several small real-world database application projects.
+/
+Computer Algorithms
+Students are introduced to classical algorithms, including searching and sorting, hashing and information retrieval, with an emphasis on their applicability to solve real-world problems. Basic techniques to analyze and design algorithms are covered. Average and asymptotic behaviors are discussed. 
+/
+Mobile Programming
+As a foundation course for students looking to acquire programming skills in mobile platforms, this course introduces students to application development process for mobile devices. The course illustrates the commonalities and differences between the development process and workflow, application design methodology and principles, as well as the implementation tools for mobile computing as contrasted with those for desktop computing. The design and implementation constraints will be covered and addressed through a hand-on project to build a solution to a problem involving mobile computing.
+/
+Introduction to Parallel Computing
+Parallel programming is a fundamental programming skill to construct high performance solutions for complicated computation tasks. This course introduces the basic concepts of parallel programming including parallel computer architectures, analytical modeling of parallel programs, and principles of parallel algorithm design, as well as effective techniques commonly used in coding, debugging, and testing parallel software.
+/
+Principles of Operating Systems
+In this course, students are introduced to the design and the implementation concepts of modern operating systems. The topics covered include basic capabilities of operating systems, virtual memory, resource allocation and management, concurrent processes and threads, deadlock detection and prevention, protection and security, I/O and file systems, batch and interactive subsystems. 
+/
+Software Engineering
+This course introduces students to the software development processes and methods. Traditional software development life cycle encompassing requirements collection and analysis, design, implementation, testing and the maintenance phases will be covered. The course also introduces principles and techniques supporting topics such as software development project management, people management, software requirements, system models, software design, verification and validation, software maintenance and enhancements, and ethical responsibilities.
+/
+Foundations of Big Data Analytics
+Big data analytics is a critical tool to enable corporations to gain and keep their competitive advantages. To be able to apply various computer technologies to either establish or execute business related data analysis applications is a key skill for any professional with a computer science degree. This course explores the fundamental computer technologies that are required for utilizing a big data analytics applications, including how to store, pre-process, query and visualize big data, as well as how to extract the useful business information through various highly efficient data analysis techniques running on various types of computer platforms connected by various types of communication networks.
+/
+Computer Science Team Project I
+This is the first course in a two course sequence that entails the end-to-end development of a software application in a project team setting. Students in this class will work in project teams. Every student will join only one project team and will assume at least one type of job function typical in a software development project, such as requirement collection and analysis, system function specification, architecture design, component design, prototyping, implementation, testing, project management, etc.
+/
+Computer Science Team Project II
+The course reinforces students' abilities to choose and apply the right principles, engineering processes, methods, and tools to conduct productive software implementation and testing.
+/
+Introduction to Computer Security
+This course provides the foundation for the study of computer system security. The course centers around the ten domains comprising the Information Security Common Body of Knowledge. Topics include access control systems, telecommunications and network security, cryptography, operations security and business continuity and disaster recovery planning. 
+/
+Ethical Hacking
+This course covers ways that computers and networks are attacked by hackers using techniques and common utilities. Learners explore security threats and ways that system vulnerabilities are exploited to attack systems. Topics include Intrusion Detection Systems (IDS), ethical hacking techniques, sniffers, protocols, social engineering, vulnerability analysis, and penetration testing to ensure infrastructure security.
+/
+Principles of User Interface Design
+This course introduces students to the theories, principles, and practices of user interface design for computer-based systems. Topics such as the human computer interaction, user interface design framework, platform consideration, user profiling, prototyping and usability testing will be covered.
+/
+Streaming Data Analytics
+This course introduces students to the basic concepts of streaming data, which includes resources of streaming data, the characteristics and properties of various types of streaming data and the principles, models, methods and technologies that can be effectively applied for streaming data analytics. The course will examine the most common challenges of streaming data analytics—data collection, measurement, tracking, analysis, security, query processing and reporting. 
+/
+Fundamentals of Software Requirements
+This course introduces students to various practical techniques for conducting requirements elicitation, specification, analysis, and validation. The additional topics covered during this course include requirements traceability, software quality matrix, and use case scenario development.
+/
+Fundamentals of Software Design
+This course introduces students to the fundamentals of software design. Software Design consists of a set of commonly used design principles, design paradigms, design models, and design patterns. Through several working projects, students will learn how to choose proper design principles, design paradigms, design models and design patterns based upon the requirements specification. 
+/
+NoSQL Databases
+This course introduces students to the foundation, application background, design and implementation principles of NoSQL databases. The course illustrates the commonalities and differences between NoSQL databases and relational databases. The course covers how to best use different NoSQL databases in their working environments. The design of NoSQL-based applications in a variety of platforms such as Windows, Linux, and the Cloud is discussed.
+/
+Machine Learning
+This course introduces students to the foundations, commonly used algorithms and techniques, as well as various types of applications of Machine Learning which is a branch of Artificial Intelligence. The course discusses the strengths and weaknesses of different machine learning methodologies such as decision trees, neural networks, clustering, Naive Bayes, and regression based on the application requirements. 
+/
+Software Service Construction
+This course introduces students to how to apply the agile software development approach (process and techniques) to develop Software as a Service by using a proper type of cloud (private, public, or hybrid) enabled web application framework. Students will explore the principles and highly effective methods to design, implement and testing as well as deploying a software on a public cloud as a service.
+/
+Software Quality Assurance
+Software Quality Assurance (SQA) is a set of systematic activities that software testers must perform in order to ensure the quality of a software project. This course provides an overview of the techniques, approaches, and processes used for SQA.
+/
+Data Mining
+This course introduces students to the foundations, commonly used algorithms, techniques and tools, as well as applications of data mining. The course will cover data collection and preparation, data classification, mining association rules, clustering, and the real-world applications where these techniques are used. 
+/
+Data Driven Statistics for Computer Systems and IT
+An elementary coverage of statistical techniques is augmented at each step with the aid of technology for data processing and analysis in making inferences. Graphical presentation and statistical measures are studied, followed by basic probability concepts leading to binomial and normal distributions. Hypothesis testing is applied to drawing inferences for one and two population parameters. A graphing calculator or equivalent technology is required.
+/
+Applications of Discrete Mathematics for Computer Systems and IT
+This course studies problems that involve finite or discrete data sets. Logic and set notation form a foundation for creating structure in data storage and information retrieval. Tools used include truth tables, methods of proof, Venn diagrams , graphs, trees, paths, and matrices. Additional topics include defining formal languages and recognizing syntactically correct sentences. Additional techniques include automata, digraphs, state transition tables and context free grammars.
+/
+Fundamentals of Networking
+This course serves as an introduction for students to acquire a foundation in current data communication and networking technologies. The course provides an introduction to the hardware, media, Ethernet, addressing, IP Configuration, components, and connections of a network. Network concepts such as network topologies, and major protocols, as well as the basic functions of network administration and operation are covered.
+/
+
+

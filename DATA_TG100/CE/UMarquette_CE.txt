@@ -1,0 +1,100 @@
+/
+Introduction to Computer and Electrical Engineering 1
+Introduction to computer engineering and electrical engineering through in-class tutorials to support hands-on activities in the computer and electrical engineering disciplines focusing on computer engineering topics relevant to both disciplines. 
+/
+Foundations in Rhetoric
+Process-based introduction to applying rhetorical principles to source-based writing and speaking with multimedia for diverse audiences.
+/
+Calculus 1
+Functions of one variable, limits and continuity. The derivative and the definite integral with applications.
+/
+General Physics with Introductory Calculus 1
+Survey of classical physics for science and engineering majors. Kinematics in one and two dimensions. Newton's laws of motion and dynamics, including rotation of rigid bodies. Energy concepts in physical systems, harmonic motion and thermodynamics with applications. A command of high school algebra, geometry and trigonometry is assumed. 
+/
+Introduction to Computer and Electrical Engineering 2
+Introduction to electrical engineering and computer engineering through in-class tutorials to support hands-on activities focusing on electrical engineering topics relevant to both disciplines. Guest presentations by EECE instructors and industry representatives describe the education and skills needed for engineering careers in these disciplines. 
+/
+Introduction to Computer Programming
+Students are introduced to computer programming with an emphasis on object-oriented programming (OOP) and OOP design methodologies. The students learn about typical programming constructs including data types, data structures, control structures, data input and output techniques as well as several algorithms used for solving engineering problems. In addition, students learn to use modern programming tools in an integrated development environment by focusing on developing software solutions to significant engineering problems. 
+/
+Principles of Sociology
+An introductory survey of the discipline including social structures, social institutions, social differentiation and stratification, social power, the processes of human interactions, and methods of sociological investigation.
+/
+Calculus 2
+The transcendental functions. Techniques of integration including numerical methods. Elementary differential equations. Infinite sequences and series, Taylor Series.
+/
+General Physics with Introductory Calculus 2
+A survey of classical electromagnetic theory, with an introduction to modern physics. Electricity and magnetism: Coulomb's law, Gauss' law, the electric field and the electric potential, circuits, Ampere's law, Faraday's law, electromagnetic waves. 
+/
+Electric Circuits 1
+Ohm's law and Kirchhoff's laws. Mesh and loop analysis of resistive circuits with DC sources. Source transformations. Thevenin's and Norton's theorems. Natural and step response of first- and second-order circuits. Circuits with ideal op amps.
+/
+Circuits Laboratory 1. 
+Introduction to circuit design, construction, and test. The basics of circuit construction techniques and electronic test measurement skills are covered. Circuit components such as resistors, inductors, capacitors and op-amps are used. Emphasis placed on DC and transient response of circuits. 
+/
+Professional Development for Engineers
+Objective is to assist engineering students with their career discernment and to promote professional development. Focuses on the skills needed to secure a job and provides resources and tools to conduct a job search. Topics include: professional development; engineering options; cooperative education and internship opportunities; ethics as well as job search, resume writing, interviewing, professional communication and networking techniques.
+/
+General Chemistry 1
+Introductory college chemistry. Fundamental principles of chemistry including stoichiometry, physical states of matter, energy relationships, periodic table, atomic and molecular structure and solutions.
+/
+Data Structures
+Introduction to algorithm analysis and complexity theory presented in the context of data structures and the algorithms used to manipulate them. Includes traditional abstract data types, such as lists, stacks, queues and trees; as well as concepts of indexing, hashing and time/space complexity.
+/
+Calculus 3
+Three-dimensional analytic geometry including parametric equations, vectors and vector functions. The differential and integral calculus of functions of several variables.
+/
+Foundations in Philosophy
+To help students critically engage their own experience as it relates to fundamental philosophical questions about the human condition, focusing on moral value and the meaning and purpose of human life.
+/
+Electric Circuits 2
+Sinusoidal steady-state analysis. Power in AC circuits. Linear and ideal transformers. Laplace transform methods and circuit analysis applications. Passive and active frequency-selective circuits. Fourier methods. Overview of discrete-time analysis.
+/
+Software Methodologies
+The first course in software engineering, covering the software life cycle, proper selection of data structures and algorithms, and the availability and choice of programming paradigms for appropriate design and implementation of well-engineered software. 
+/
+Digital Electronics
+Introduces students to the basic principles of digital circuit analysis and design. Topics covered include: Boolean Algebra, number systems, basic logic gates, standard combinational circuits, combinational design, timing diagrams, flip-flops, sequential design, standard sequential circuits and programmable logic devices. 
+/
+Circuits Laboratory 2
+Circuit design, construction and test skills are expanded to include digital circuits and programmable logic devices as well as passive and active filters. Emphasis placed on DC, AC and transient response of circuits containing passive and active devices.
+/
+Differential Equations
+Methods and techniques applicable to first order, nth order, and systems of first order differential equations. Eigenvalues, eigenvectors, the Wronskian, Laplace transforms, linearization and phase portraits. 
+/
+Foundations in Theology: Finding God in all Things
+Investigates the principle that God can be found in all things. How are we to envision God and the virtuous life in light of the theological and scriptural understandings of the prophets, Jesus and human existence from which that Catholic, Jesuit conviction springs? What differentiates a faith understanding from other academic, scientific and secular ways of thinking and drawing conclusions? How are we to assess the merits of theological truth claims? How can the Ignatian imperative to see God in all things translate into an obligation to promote justice in the world? What distinctive set of tools for advancing justice emerge from such an understanding?.
+/
+Electronic Devices and Applications
+Electronic components are discussed including semiconducting diodes, bipolar junction transistors, field effect transistors, etc. These devices are analyzed from their terminal characteristics and their behavior in representative electronic circuits. Applications for devices include simple power supply analysis and design, class A amplifier analysis including transistor biasing and stability analysis, simple digital logic gates, etc. 
+/
+Introduction to Microcontrollers Laboratory
+Introduction to the use of microcontrollers and embedded systems with a focus on software and hardware typically encountered in sensor and control applications.
+/
+Discrete Mathematics
+Introduction to set theory, logic, mathematics induction, finite state machines, graph theory, modular arithmetic, Boolean algebra, and coding theory. Applications in computer science are emphasized. 
+/
+Foundations in Methods of Inquiry
+Compares and contrasts the approach of three different disciplines to a common theme. Asks students to reflect on what disciplinary methods they find most appealing or challenging, and why.
+/
+Computer Hardware
+Overview of computer system design. Cost and performance specification. Design of arithmetic and logic units. Fundamentals of central processor architecture and a comparative study of computer instruction set architectures. Detailed study of microprocessors, including instruction execution timing and other timing considerations. Discussions of memory and I/O devices, including the interfaces to the CPU and I/O transfer techniques. Study of common bus standards. 
+/
+Operating Systems and Networking
+Introduces the fundamental concepts of operating systems together with the basics of networking and communications including: memory management, scheduling, concurrent processing, device management, file systems, networking, security and system performance.
+/
+Statistical Methods
+Probability, discrete and continuous distributions. Treatment of data, point and interval estimation, hypothesis testing. Large and small sample method, regression, non-parametric methods. An introductory applications-oriented course recommended for students who wish to acquire a basic understanding of statistical methods.
+/
+Embedded Systems Design
+This course introduces students to embedded systems, the types of hardware that can support such systems, and the interfacing used in embedded systems. The course is a combined laboratory and lecture course, which directly applies the embedded systems techniques using hardware description and assembly languages to field programmable gate array technology. 
+/
+Principles of Design
+Course content focuses on a structured product design and development process that includes project definition, customer needs identification, product specification, concept generation, and concept selection. 
+/
+Senior Design Project
+Focus on detailed design, prototyping, and testing design concepts. Includes topics directly relevant to student design projects and careers in the engineering profession. 
+/
+The Service of Faith and Promotion of Justice
+Designed to integrate the Marquette core by emphasizing the reflection on and application of knowledge and skills developed in the core for life beyond Marquette University. Special focus on vocation and discernment invites students to evaluate their coursework at Marquette alongside their own worldview and transcendent commitments in order to identify ways they are uniquely equipped to work for justice in the world. 
+/

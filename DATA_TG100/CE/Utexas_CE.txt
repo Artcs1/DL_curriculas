@@ -1,0 +1,92 @@
+Rhetoric and Writing.
+An introductory writing course that includes instruction in practical reasoning and the principles of rhetoric. Three lecture hours a week for one semester.
+/
+Engineering Physics I
+A general survey of physics; primarily laws of motion, heat, and wave phenomena.
+/
+Laboratory for Engineering Physics I
+Two laboratory hours a week for one semester
+/
+Engineering Physics II
+Electricity and magnetism, optics, and atomic phenomena
+/
+Laboratory for Engineering Physics II
+Two laboratory hours a week for one semester
+/
+Differential and Integral Calculus. 
+Introduction to the theory and applications of differential and integral calculus of functions of one variable; topics include limits, continuity, differentiation, the mean value theorem and its applications, integration, the fundamental theorem of calculus, and transcendental functions.
+/
+Sequences, Series, and Multivariable Calculus.
+Certain sections of this course are designated as advanced placement or honors sections; they are restricted to students who have scored well on the Advanced Placement Calculus BC exam or have the consent of the mathematics adviser. This is the second semester of the accelerated calculus sequence. The theory and applications of sequences and infinite series, including those involving functions of one variable, and an introduction to the theory and applications of differential and integral calculus of functions of several variables; subjects include methods of integration, parametric equations, sequences, infinite series, power series, functions of several variables, partial derivatives, and multiple integrals. 
+/
+Differential Equations with Linear Algebra.
+Ordinary differential equations, introduction to vector spaces, linear operators and eigenvalues, systems of linear differential equations, introduction to partial differential equations and Fourier series.
+/
+Matrices and Matrix Calculations.
+Restricted to non-mathematics majors. Techniques of matrix calculations and applications of linear algebra. 
+/
+Discrete Mathematics.
+Subjects include logic, set theory, relations and functions, combinatorics, and graph theory and graph algorithms.
+/
+British Literature.
+Introduction to masterpieces of the British literary tradition, emphasizing historical, generic, and thematic connections. 
+/
+Introduction to Electrical Engineering.
+The scope and nature of professional activities of electrical engineers, including problem-solving techniques; analysis and design methods; engineering professional ethics; analysis of analog resistive circuits, including Thevenin/Norton equivalents, mesh analysis, and nodal analysis; and operational amplifiers (DC response).
+/
+Introduction to Computing.
+Motivated, bottom-up introduction to computing; bits and operations on bits; number formats; arithmetic and logic operations; digital logic; the Von Neumann model of processing, including memory, arithmetic logic unit, registers, and instruction decoding and execution; introduction to structured programming and debugging; machine and assembly language programming; the structure of an assembler; physical input/output through device registers; subroutine call/return; trap instruction; stacks and applications of stacks.
+/
+Digital Logic Design.
+Boolean algebra; analysis and design of combinational and sequential logic circuits; state machine design and state tables and graphs; simulation of combinational and sequential circuits; applications to computer design; and introduction to hardware description languages (HDLs) and field-programmable gate arrays (FPGAs). 
+/
+Introduction to Embedded Systems.
+Embedded systems; machine language execution; assembly and C language programming; local variables and subroutines; input/output synchronization; analog to digital conversion and digital to analog conversion; debugging; and interrupts.
+/
+Software Design and Implementation I.
+Basic problem solving, design and implementation techniques for imperative programming; structured programming in the C/C++ language; programming idioms; introduction to software design principles, including modularity, coupling and cohesion; introduction to software engineering tools; elementary data structures; asymptotic analysis
+/
+Linear Systems and Signals.
+Representation of signals and systems; system properties; sampling; Laplace and z-transforms; transfer functions and frequency response; convolution; stability; Fourier transform; feedback; and control applications. Computer analysis using MATLAB or Python.
+/
+Engineering Communication.
+Restricted to electrical engineering majors. Advanced engineering communication skills, with emphasis on technical documents, oral reports, and graphics; collaborative work involving online communication and research. Three lecture hours a week for one semester.
+/
+Probability and Random Processes.
+Probability, random variables, statistics, and random processes, including counting, independence, conditioning, expectation, density functions, distributions, law of large numbers, central limit theorem, confidence intervals, hypothesis testing, statistical estimation, stationary processes, Markov chains, and ergodicity. Three lecture hours a week for one semester.
+/
+Introduction to Engineering Design.
+Introduction to the engineering design process; assessing engineering problems and customer needs; acquiring, documenting, and verifying requirements; high-level system design principles; effects of economic, environmental, ethical, safety, and social issues in design; writing design specifications.
+/
+Algorithms
+Advanced problem solving methods; algorithm design principles; complexity analysis; study of the nature, impact, and handling of intractability; study of common algorithmic classes and their applications.
+/
+Embedded Systems Design Laboratory. 
+Design of microcontroller-based embedded systems; interfacing from both a hardware and software perspective; and applications, including audio, data acquisition, and communication systems
+/
+Software Design and Implementation II.
+Methods for engineering software with a focus on abstraction; specification, design, implementation, and testing of object-oriented code using a modern development tool-set for complex systems; design and implementation of object-oriented programs in Java; abstract data types; inheritance; polymorphism; parameterized types and generic programming; the operation and application of commonly used data structures; exception handling and fault tolerance; introduction to algorithm analysis; teamwork models. 
+/
+Computer Architecture.
+Characteristics of instruction set architecture and microarchitecture; physical and virtual memory; caches and cache design; interrupts and exceptions; integer and floating-point arithmetic; I/O processing; buses; pipelining, out-of-order execution, branch prediction, and other performance enhancements; design trade-offs; case studies of commercial microprocessors. Laboratory work includes completing the behavioral-level design of a microarchitecture.
+/
+Data Science Principles.
+Principles of unsupervised and supervised learning; exploratory data analysis; feature engineering; predictive modeling for regression and classification; clustering algorithms; neural networks and stochastic gradient descent methods; scalable models for Big Data sets; case studies; programming predictive models in Python and R.
+/
+Data Science Laboratory. 
+Predictive modeling, regression and classification, data cleaning and preprocessing, feature engineering, unsupervised methods, principal component analysis, data clustering, model selection and feature selection, entropy and information theory, neural networks, deep learning, machine learning for signals and time-series data.
+/
+Digital Signal Processing.
+Sampling, aliasing, truncation effects; discrete and fast Fourier transform methods; convolution and deconvolution; finite and infinite impulse response filter design methods; Wiener, Kalman, noncausal, linear phase, median, and prediction filters; and spectral estimation.
+/
+Real-Time Digital Signal Processing Laboratory
+Architectures of programmable digital signal processors; programming for real-time performance; design and implementation of digital filters, modulators, data scramblers, pulse shapers, and modems in real time; and interfaces to telecommunication systems. 
+/
+Wireless Communications Laboratory.
+The fundamentals of wireless communication from a digital signal processing perspective; linear modulation, demodulation, and orthogonal frequency division multiplexing; synchronization, channel estimation, and equalization; communication in fading channels; and wireless standards.
+/
+Software Engineering and Design Laboratory.
+The design and development of large-scale software systems using automated analysis tools. Generation of concrete software engineering artifacts at all stages of the software life-cycle. Design principles and methods; design and modeling tools; collaborative development environment; object-oriented design and analysis; design patterns and refactoring; integration and testing tools; debugger and bug finder; program comprehension; software life-cycle and evolution.
+/
+
+

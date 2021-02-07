@@ -1,0 +1,88 @@
+/
+General Chemistry I 
+This course is intended for students who expect to pursue further coursework in science or engineering. It involves the study of chemical nomenclature, stoichiometry, atomic structure, bonding theories, thermochemistry, periodic properties, solution calculations, and the gas laws. 
+/
+General Chemistry Laboratory I
+Experimental work providing hands-on experience with concepts in fundamental chemistry, including chemical nomenclature, stoichiometry, thermochemistry, solution chemistry and related calculations, chemical bonding, and the gas laws.
+/
+Foundations of Engineering Design Thinking I
+Foundations of Engineering Design Thinking I
+/
+Calculus I
+Topics covered include functions, limits and continuity, differentiation, applications of the derivative, optimization, antiderivatives, fundamental theorem of calculus, definite and indefinite integrals
+/
+Calculus II
+Topics covered include techniques of integration, applications of the integral, sequences and series, and vectors.
+/
+Introduction to COOP for CEAS
+This course is designed to introduce CECH students to the cooperative education (co-op) learning model and how it is executed through the Professional Practice Program. It will prepare students to maximize learning through and develop the strategies and necessary skills for effective participation in the Professional Practice Program. 
+/
+Linear Algebra
+Study of linear equations, matrices, Euclidean n-space and its subspaces, bases, dimension, coordinates, orthogonality, linear transformations, determinants, eigenvalues and eigenvectors, diagonalization. 
+/
+Probability and Statistics I
+An introduction to probability and statistics for students with a calculus background. The course covers sample spaces and probability laws; discrete and continuous random variables with special emphasis on the binomial, Poisson, hypergeometric, normal and gamma distributions; joint distributions; sampling distributions; one and two-sample parameter estimation problems; and one and two-sample tests of hypotheses. This course provides a foundation for the further study of statistics. 
+/
+Introduction to Effective Speaking
+This course introduces the principles of and practice in composition and presentation of speeches. Topics include speaker and audience relationship, organization of speeches, active listening skills, use of appropriate language, use of technology as an enhancement of speech, managing speech anxiety and developing a natural verbal and nonverbal delivery style.
+/
+Software Engineering
+Software Engineering
+/
+Operating Systems & Systems Programming	
+Introduction to concepts of modern operating systems and systems programming. Emphasis is on the concepts, algorithms and architectures of modern operating systems. Students will also learnUnix system programming such as synchronizing, inter-process communication, and networking.
+/
+Technical and Scientific Writing
+Technical and Scientific Writing
+/
+Computer Science 1	
+Introduction to computer science with emphasis upon structured and object-oriented programming, algorithm design, and problem-solving. Currently,  C++ is used as the computer language. 
+/
+Introduction to Computer Systems	
+Assembly language programming. Organization of the hardware including registers, memory, and microprocessors and I/O ports. Binary and hexadecimal arithmetic, assembler instructions, processor status (flags), program control, addressing modes.
+/
+Python Programming	
+Topics of the class include: 1. Introduction to Python 2. Interpreters and Dynamic typing 3. Data types and functions 4. Generators and game solvers 5. Modules and Packages 6. Designing Classes 7. Web development 8. Interactive systems and graphics programming 9. Data Methods using numpy, scipy, and matplotlib 10. Networking and Concurrent Programming
+/
+Data Structures
+Pointers and dynamic memory management with objects. Designing of abstract data types, OO programming, and implementing ADTs. Use of templates/generics and STL for container classes. Introduction to complexity analysis. Big O notation, asymptotic behavior. Linked-lists: Use them to implement stacks and queues. Implementation as ADTs using templates: Vectors, Lists, Stacks, Queues, Sets, 
+/
+Information Security and Assurance
+An introduction to the various technical and administrative aspects of information security and assurance. This course provides the foundation for understanding the key issues associated with protecting information assets, determining the levels of protection and response to security incidents, and designing a consistent, reasonable information security system, with appropriate intrusion detection and reporting features.
+/
+Discrete Computational Structures
+Introduces discrete mathematical topics in the context of CS: mathematical induction, sets, propositional logic, relations and functions, algorithm analysis, graph theory. 
+/
+Programming Languages
+Concepts and features in design, compilation, and implementation of modern programming languages. Introduction to functional and logic-programming.
+/
+Intermediate Composition
+This course emphasizes critical reading and writing, advanced research and argument skills, and rhetorical understanding of language as it is used in different discourse communities.
+/
+Design and Analysis of Algorithms	
+An introduction to the study of sequential algorithms. Analysis of computing time, asymptoticnotation, introduction to lower bound theory. Induction, correctness proofs, and recurrence relations. Major design strategies: the greedy method, divide-and-conquer, dynamic programming. Graph and network algorithms.
+/
+Database Design and Development
+Database design with the Entity Relationship model. Relational data model and database design. Physical storage techniques. Reliability and recovery. Concurrency. 
+/
+Artificial Intelligence: Principles and Applications
+Fundamental Issues in Intelligent Systems. Basic Search Strategies.  Basic Knowledge Representation. Reasoning with uncertainty. Basic Machine Learning.
+/
+Computer Networks and Networked Computing
+Introduction to basic concepts of computer networks, communication protocols, and computing principles for networked systems.
+/
+Computer Science Senior Design I
+Each student selects a project advisor,and works with him/her to select a design problem,identify the requirements and specifications of the product, and design the product. Team projects are strongly encouraged. 
+/
+Computer Science Senior Design II
+Computer Science Senior Design II
+/
+The Theory of Formal Languages and Automata
+Finite state automata. Regular languages and grammars. Context-free grammars and their normal forms. Pushdown automata. Turing machines. Nondeterministic Turing machines. Universal Turing Machines. The Chomsky hierarchy. The limits of computation. Complexity theory. Finite-state transducers. Moore machines and Mealy machines. 
+/
+Introduction to Bioinformatics
+Subjects covered include: deep sequencing, biological sequence analysis, statistical models for gene expression profiling, prediction of protein and macromolecular complexes structure and function, systems biology. Analysis of algorithmic aspects will be accompanied by projects and case studies to provide a direct illustration of computational issues and to provide knowledge and practical command of standard bioinformatic tools and protocols that are being used to analyze complex biological data.
+/
+Introduction to Wireless and Mobile Networking	
+Introduction to Wireless and Mobile Systems, Probability Theory, Statistics, and Traffic Theories, Mobile Radio Propagation, Channel Coding, Cellular Concept, Multiple Radio Access, Multiple Division Techniques, Channel Allocation, Mobile Communication Systems, Existing Wireless Systems, Network Protocols, Ad Hoc Networks, Sensor Networks, Wireless LANs and PANs, Recent Advances. 
+/

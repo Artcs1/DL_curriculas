@@ -1,0 +1,106 @@
+/
+Calculus
+Functions, limits, continuity. Slope and derivative. Differentiation of algebraic and transcendental functions. Applications to motion, natural growth, graphing, extrema of a function. Differentials. L'Hopital's rule. 
+/
+Calculus
+Definition of definite integral, fundamental theorem of calculus, techniques of integration. Application to area, volume, arc length, average of a function, improper integral, surface of revolution.
+/
+Calculus
+Sequences, series, tests for convergence, Taylor expansions. Vector algebra, vector calculus, scalar and vector fields. Partial derivatives, total differentials. Applications to maximum and minimum problems in two or more variables.
+/
+Vector Analysis
+Definite integrals over plane and solid regions in various coordinate systems. Line and surface integrals. Green's theorem, Stoke's theorem, divergence theorem. 
+/
+Linear Algebra
+Matrices and linear transformations, determinants, eigenvalues, eigenvectors, diagonalization, factorization. Not open for credit to students who have cMatrices and linear transformations, determinants, eigenvalues, eigenvectors, diagonalization, factorization.
+/
+Linear Algebra Computer Laboratory
+Introduction to MATLAB and its use in linear algebra.
+/
+Differential Equations
+Solutions of elementary differential equations. 
+/
+Classical Physics 
+Introduction to general principles and analytical methods used in physics for physical science and engineering majors. 
+/
+Classical Physics
+Fluid mechanics, thermodynamics, wave phenomena, optics. 
+/
+Classical Physics 
+Electricity and magnetism including circuits and Maxwell's equations. 
+/
+Discrete Mathematics For Computer Science
+Discrete mathematics of particular utility to computer science. Proofs by induction. Propositional and first-order logic. Sets, functions, and relations. Big-O and related notations. Recursion and solutions of recurrence relations. Combinatorics. Probability on finite probability spaces. Graph theory. 
+/
+Programming & Problem Solving
+Computers and computer programming for students with some prior experience, algorithm design, and debugging. Good programming style. Use of basic UNIX tools. 
+/
+Software Development & Object-Oriented Programming in C++
+Object-oriented programming in C++. Basic data structures and their use. Writing good programs of increased complexity and efficiency. Methods for debugging and verification. 
+/
+Data Structures, Algorithms, & Programming
+Design and analysis of data structures for a variety of applications; trees, heaps, searching, sorting, hashing, and graphs. Extensive programming.
+/
+Circuits I
+Basic electric circuit analysis techniques, including electrical quantities and elements, resistive circuits, transient and steady-state responses of RLC circuits, sinusoidal excitation and phasors, and complex frequency and network functions. 
+/
+Introduction to Electrical & Computer Engineering
+Introduction to Electrical & Computer Engineering with focus on sub-disciplines of Electrical & Computer Engineering, engineering design, and problem solving. Microcontrollers, analog circuits, signal processing, and communications links. Application of topics to create a functional device. 
+/
+Introduction to Digital & Analog Systems
+Consent of Instructor. Interactive and practical introduction to fundamental concepts of electrical and computer engineering by implementing electronic systems, which can be digitally controlled and interrogated, with a programmable microcontroller with the ability to program the electrical connections between analog and digital components. 
+/
+Digital Systems I
+Introduction to digital system design including combinational logic design, sequential and asynchronous circuits, computer arithmetic, memory systems and algorithmic state machine design; computer aided design (CAD) methodologies and tools. 
+/
+Introduction to Literature
+Introductory study of several genres of English literature, emphasizing both analysis of particular works and the range of forms and styles in English prose and poetry. 
+/
+Introduction to Public Speaking
+Practice in the preparation and delivery of speeches based on principles and strategies of informing and persuading audiences drawn from the social sciences and humanities. 
+/
+Circuits II
+Theory, application, and design of analog circuits. Methods of analysis including frequency response, SPICE simulation, and Laplace transform. Operational amplifiers and design of active filters. 
+/
+Digital Electronic Circuits
+MOS device fundamentals, introduction to the design of CMOS logic gates, layout, circuits, and modeling. Examination of voltage transfer characteristics, and propagation delay.
+/
+Probabilistic Analysis of Electrical & Computer Systems
+Probabilistic and statistical analysis of electrical and computer systems. Discrete and continuous random variables, expectation and moments. Transformation of random variables. Joint and conditional densities. Limit theorems and statistics. Noise models, system reliability and testing.
+/
+Introduction to Artificial Intelligence
+Design and implementation of intelligent computer systems. Knowledge representation and organization. Memory and inference. Problem solving. Natural language processing. 
+/
+Embedded Systems
+Introduction to embedded-system hardware and software. Topics include: embedded processor and memory architecture; input/output hardware and software, including interrupts and direct memory access; interfacing with sensors and actuators; wired and wireless embedded networking. 
+/
+Computer Networks
+Overview of computer networks, TCP/IP protocol suite, computer-networking applications and protocols, transport-layer protocols, network architectures, Internet Protocol (IP), routing, link-layer protocols, local area and wireless networks, medium access control, physical aspects of data transmission, and network-performance analysis. 
+/
+Digital Systems II
+Computer-aided design of digital systems with emphasis on hardware description languages (VHDL), logic synthesis, and field-programmable gate arrays (FPGA). May cover advanced topics in digital system design such as static timing analysis, pipelining, memory system design, testing digital circuits.
+/
+Issues in Engineering Design
+Covers various electrical and computer engineering standards and realistic design constraints including economic, manufacturability, sustainability, ethical, health & safety, environmental, social, and political. 
+/
+Algorithm Design & Analysis
+Complexity of algorithms, bounds on complexity, analysis methods. Searching, sorting, pattern matching, graph algorithms. Algorithm design techniques: divide-conquer, greedy, dynamic programming. Approximation methods. NP-complete problems.
+/
+Operating Systems & System Programming
+ Basic concepts of operating systems and system programming. Processes and interprocess communication/synchronization; virtual memory, program loading and linking; file and I/O subsystems; utility programs. 
+/
+Ethics in an Age of Technology
+Foundations of ethics. Views of technology. Technology and human values. Costs and benefits of technology. Character of technological change. Social context of work in computer science and engineering.
+/
+Scientific Visualization
+Computer graphics techniques for generating images of various types of measured or computer-simulated data. Typical applications for these graphics techniques include study of air flows around car bodies, medical data, and molecular structures.
+/
+Integrated Circuit Design Project
+Design course involving architecture, circuit design, physical design, and validation through extensive simulation of a digital or mixed-signal integrated circuit of substantial complexity under given design constraints. Team project that includes a final report. 
+/
+Integrated Circuit Design Project 
+Design course involving architecture, circuit design, physical design, and validation through extensive simulation of a digital or mixed-signal integrated circuit of substantial complexity under given design constraints.
+/
+Lasers 
+Theory of population inversion, amplification and oscillation using semiclassical oscillator model and rate equations. Description and design of real laser system. 
+/

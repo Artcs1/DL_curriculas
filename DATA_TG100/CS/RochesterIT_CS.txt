@@ -1,0 +1,141 @@
+Computer Science I
+This course serves as an introduction to computational thinking using a problem-centered approach. Specific topics covered include: expression of algorithms in pseudo code and a programming language; functional and imperative programming techniques; control structures; problem solving using recursion; basic searching and sorting; elementary data structures such as lists, trees, and graphs; and correctness, testing and debugging. 
+/
+Computer Science II
+This course delves further into problem solving by continuing the discussion of data structure use and design, but now from an object-oriented perspective. Key topics include more information on tree and graph structures, nested data structures, objects, classes, inheritance, interfaces, object-oriented collection class libraries for abstract data types (e.g. stacks, queues, maps, and trees), and static vs. dynamic data types. Concepts of object-oriented design are a large part of the course. Software qualities related to object orientation, namely cohesion, minimal coupling, modifiability, and extensibility, are all introduced in this course, as well as a few elementary object-oriented design patterns. Input and output streams, graphical user interfaces, and exception handling are covered
+/
+Project-based Calculus I
+This is the first in a two-course sequence intended for students majoring in mathematics, science, or engineering. It emphasizes the understanding of concepts, and using them to solve physical problems. The course covers functions, limits, continuity, the derivative, rules of differentiation, applications of the derivative, Riemann sums, definite integrals, and indefinite integrals.
+/
+Project-based Calculus II
+This is the second in a two-course sequence intended for students majoring in mathematics, science, or engineering. It emphasizes the understanding of concepts, and using them to solve physical problems. The course covers techniques of integration including integration by parts, partial fractions, improper integrals, applications of integration, representing functions by infinite series, convergence and divergence of series, parametric curves, and polar coordinates.
+/
+Discrete Mathematics for Computing
+This course introduces students to ideas and techniques from discrete mathematics that are widely used in Computer Science. Students will learn about the fundamentals of propositional and predicate calculus, set theory, relations, recursive structures and counting. This course will help increase students’ mathematical sophistication and their ability to handle abstract problems.
+/
+First Year Writing
+First Year Writing
+/
+Wellness Education
+Wellness Education
+/
+Undergraduate Cooperative Education Seminar
+This seminar helps students prepare for Computer Science co-operative education employment (“co-op”) by developing job search strategies and materials, and reviewing relevant policies. Students are introduced to RIT’s Office of Career Services and Cooperative Education, and learn about professional and ethical responsibilities for their co-op and subsequent professional experiences. Completion of this seminar and the related assignments are required before a CS student can be registered for co-op.
+/
+The Mechanics of Programming
+Students will be introduced to the details of program structure and the mechanics of execution as well as supportive operating system features. Security and performance issues in program design will be discussed.
+/
+Analysis of Algorithms
+This course provides an introduction to the design and analysis of algorithms. It covers a variety of classical algorithms and data structures and their complexity and will equip students with the intellectual tools to design, analyze, implement, and evaluate their own algorithms.
+/
+Honors Analysis of Algorithms 
+This course provides a challenging introduction to the design and analysis of algorithms with an emphasis on problem solving and algorithmic research. It covers a variety of classical algorithms and data structures and their complexity, as well as deeper coverage of more advanced material; for example, linear programming, approximation algorithms, and randomized algorithms. The course will equip students with the intellectual tools to design, analyze, implement, and evaluate their own algorithms.
+/
+Introduction to Computer Science Theory
+This course provides an introduction to the theory of computation, including formal languages, grammars, auto-mata theory, computability, and complexity.
+/
+Honors Introduction to Computer Science Theory
+This course provides a challenging introduction to the theory of computation with an emphasis on problem solving. Topics include formal languages, grammars, auto-mata theory, computability, and complexity.
+/
+Linear Algebra
+This course is an introduction to the basic concepts of linear algebra, and techniques of matrix manipulation. Topics include linear transformations, Gaussian elimination, matrix arithmetic, determinants, vector spaces, linear independence, basis, null space, row space, and column space of a matrix, eigenvalues, eigenvectors, change of basis, similarity and diagonalization. Various applications are studied throughout the course.
+/
+Probability and Statistics I
+This course introduces sample spaces and events, axioms of probability, counting techniques, conditional probability and independence, distributions of discrete and continuous random variables, joint distributions (discrete and continuous), the central limit theorem, descriptive statistics, interval estimation, and applications of probability and statistics to real-world problems. A statistical package such as Minitab or R is used for data analysis and statistical applications.
+/
+Introduction to Software Engineering
+An introductory course in software engineering, emphasizing the organizational aspects of software development and software design and implementation by individuals and small teams within a process/product framework. Topics include the software lifecycle, software design, user interface issues, specification and implementation of components, assessing design quality, design reviews and code inspections, software testing, basic support tools, technical communications and system documentation, team-based development. A term-long, team-based project done in a studio format is used to reinforce concepts presented in class.
+/
+Concepts of Computer Systems
+An introduction to the hardware and software organization of computer systems. The course emphasizes a multilevel model of computer organization. Topics include the digital logic level; the micro architecture level; the machine instruction set level; the operating system level; and the assembly language level. Programming assignments will be required.
+/
+Principles of Data Management
+This course provides a broad introduction to the principles and practice of modern data management, with an emphasis on the relational database model. Topics in relational database systems include data modeling; the relational model; relational algebra; Structured Query Language (SQL); and data quality, transactions, integrity and security. Students will also learn approaches to building relational database application programs. Additional topics include object-oriented and object-relational databases; semi-structured databases (such as XML); and information retrieval. A database project is required.
+/
+Introduction to Intelligent Systems
+An introduction to the theories and algorithms used to create artificial intelligence (AI) systems. Topics include search algorithms, logic, planning, machine learning, and applications from areas such as computer vision, robotics, and natural language processing. Programming assignments are an integral part of the course.
+/
+Concepts of Parallel and Distributed Systems
+This course is an introduction to the organization and programming of systems comprising multiple computers. Topics include the organization of multi-core computers, parallel computer clusters, computing grids, client-server systems, and peer-to-peer systems; computer networks and network protocols; network security; multi-threaded programming; and network programming. Programming projects will be required.
+/
+Programming Language Concepts
+This course is a study of the syntax and semantics of a diverse set of high-level programming languages. The languages chosen are compared and contrasted in order to demonstrate general principles of programming language design and implementation. The course emphasizes the concepts underpinning modern languages rather than the mastery of particular language details
+/
+Professional Communications
+This course focuses on developing and improving verbal and written communication skills specific to the discipline of computer science. Topics include the different forms of writing in computer science (books, theses, journal articles, technical reports, manuscripts, etc.), writing styles of computer scientists, document readability and usability, documents for career readiness, effective presentations, teamwork and peer review, research methods, experimentation, documenting mathematics and algorithms, proper formatting of graphs, figures, and tables, and ethical, social, and professional issues facing Computer Scientists.
+/
+Principles of Data Mining
+This course provides an introduction to the major concepts and techniques used in data mining of large databases. Topics include the knowledge discovery process; data exploration and
+cleaning; data mining algorithms; and ethical issues underlying data preparation and mining. 
+/
+Introduction to Computer Vision
+An introduction to the underlying concepts of computer vision. The course will consider
+fundamental topics, including image formation, edge detection, texture analysis, color, segmentation, shape analysis, detection of objects in images and high level image representation.
+Depending on the interest of the class, more advanced topics will be covered, such as image
+database retrieval or robotic vision
+/
+Systems Programming
+Application of operating system concepts to the design of hardware interfaces for a multiprogramming environment. Laboratory work includes the development of a multiprogramming
+(optionally, multiprocessing) kernel with system call and interrupt handling facilities, and the
+building of device drivers for a variety of peripheral devices. This course provides extensive
+experience with those aspects of systems programming that deal directly with the hardware
+interface
+/
+Computer Architecture
+Computer Architecture is a study of the design of both modern and classic computer hardware. Topics include: a review of classical computer architectures; the design of operation
+codes and addressing modes, data formats, and their implementation; internal and external
+bus structures; architectural features to support virtual storage and page-replacement policies, high-level language features, and operating system
+/
+Principles of Computer Security
+This course provides a broad introduction to the basic principles and practice of computer
+security and emphasizes policies and mechanisms for building secure and trusted computer
+systems. Topics include but are not limited to the following: security principles, policies and
+mechanisms; cryptographic tools; user authentication and access control; secure systems and
+networking; secure application development; secure data management; impact of mobile,
+web and cloud computing; intrusion detection and prevention; auditing and forensics; privacy; security management and risk assessment; and legal and ethical aspects
+/
+Introduction to Cryptography
+This course provides an introduction to cryptography, its mathematical foundations, and its
+relation to security. It covers classical cryptosystems, private-key cryptosystems (including DES
+and AES), hashing and public-key cryptosystems (including RSA). The course also provides
+an introduction to data integrity and authentication
+/
+Xtreme Theory
+A fast paced, informal look at current trends in the theory of computing. Each week is dedicated to a different topic and will explore some of the underlying theory as well as the practical
+applications of the theory. Sample topics may include: quantum cryptography, networks and
+complex systems, social welfare and game theory, zero knowledge protocols. Students will
+be evaluated on homework assignments and a final presentation
+/
+Professional Communications
+This course focuses on developing and improving verbal and written communication skills
+specific to the discipline of computer science. Topics include the different forms of writing in
+computer science (books, theses, journal articles, technical reports, manuscripts, etc.), writing
+styles of computer scientists, document readability and usability, documents for career readiness, effective presentations, teamwork and peer review, research methods, experimentation,
+documenting mathematics and algorithms, proper formatting of graphs, figures, and tables, and
+ethical, social, and professional issues facing Computer Scientists
+/
+CS Undergraduate Summer Co-op
+CS Undergraduate Summer Co-op
+/
+Introduction to Computer Graphics
+Introduction to Computer Graphics is a study of the hardware and software principles of
+interactive raster graphics. Topics include an introduction to the basic concepts, 2-D and
+3-D modeling and transformations, viewing transformations, projections, rendering techniques, graphical software packages and graphics systems. The course will focus on rasterization
+techniques and emphasize the hardware rasterization pipeline including the use of hardware shaders. Students will use a standard computer graphics API to reinforce concepts and
+study fundamental computer graphics algorithms
+/
+Introduction to Intelligent Security Systems
+The course will introduce students to the application of intelligent methodologies in computer
+security and information assurance systems design. It will review different application areas
+such as intrusion detection and monitoring systems, access control and biological authentication, firewall structure and design
+/
+Introduction to Security Measurement
+The course will introduce students into the algorithmic foundations and modern methods
+used for security evaluation and tools design. It will combine a theoretical revision of the
+methods and models currently applied for computer security evaluation and an investigation of computer security through the study of user's practice
+/
+Programming Skills
+The goal of this course is to introduce the students to a programming paradigm and an appropriate programming language chosen from those that are currently important or that show
+high promise of becoming important. A significant portion of the learning curve occurs through
+programming assignments with exemplary solutions discussed later in class
+/

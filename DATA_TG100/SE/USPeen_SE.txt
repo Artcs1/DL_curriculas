@@ -1,0 +1,103 @@
+/
+First Year Seminar
+First Year Seminar
+/
+Introduction to Programming Techniques
+Design and implementation of algorithms. Structured programming. Problem solving techniques. Introduction to a high-level language, including arrays, procedures, and recursion.
+/
+Chemical Principles I
+is the first semester of a two-semester, comprehensive general chemistry course which introduces students to the basic principles of chemistry with an emphasis on the relationships between the microscopic structure and macroscopic properties of matter. Principles are illustrated with examples from the sciences, engineering and technology, and from everyday life. Topics covered are atomic structure and periodic properties, molecular compounds and chemical bonding, molecular structure, intermolecular forces, the properties of gases, liquids, and solutions, chemical reactions, stoichiometry and thermochemistry.
+/
+Experimental Chemistry I
+Students are introduced to laboratory safety and good experimental technique, how to keep a proper laboratory notebook, and interpret experimental data. The course introduces laboratory experimentation in the context of a variety of specific topics, such as reactions in solutions, spectroscopy, acids and bases, and the synthesis and analysis of chemical compounds.
+/
+Calculus with Analytic Geometry
+Differential calculus topics include derivatives and their applications to rates of change, related rates, linearization, optimization, and graphing techniques. The Fundamental Theorem of Calculus, relating differential and integral calculus begins the study of Integral Calculus. Antidifferentiation and the technique of substitution is used in integration applications of finding areas of plane figures and volumes of solids of revolution. Trigonometric functions are included in every topic
+/
+English Composition
+An overview of composition studies, with particular attention to the schools of writing pedagogy.
+/
+Intermediate Programming
+Object-oriented programming, recursion, fundamental data structures (including stacks, queues, linked lists, hash tables, trees, and graphs), the basics of algorithmic analysis, and an introduction to the principles of language translation.
+/
+Calculus with Analytic Geometry II
+Calculus is an important building block in the education of any professional who uses quantitative analysis. This course further introduces and develops the mathematical skills required for analyzing growth and change and creating mathematical models that replicate reallife phenomena. The goals of our calculus courses include to develop the students' knowledge of calculus techniques and to use the calculus environment to develop critical thinking and problem solving skills. This course covers the following topics: logarithms, exponentials, and inverse trigonometric functions; applications of the definite integral and techniques of integration; sequences and series; power series and Taylor polynomials; parametric equations and polar functions.
+/
+General Physics: Mechanics
+This course meets the Bachelor of Arts degree requirements. Calculus-based introduction to classical mechanics, including such topics as: measurement, dimensional analysis, motion in one-dimension, vectors, motion in 2 and 3 dimensions, relative and circular motion, force and dynamics, Newton's Laws, friction, kinetic energy, work, potential energy, energy conservation, systems of particles, center of mass and momentum, elastic and inelastic collisions, rotation (moments of inertia), rolling motion, torque, angular momentum, static equilibrium, gravitational force and Kepler's laws, gravitational potential energy, oscillations, waves (transverse and longitudinal, superposition of waves). This course is designed to provide students with a working knowledge of the elementary physics principles mentioned above, as well as their applications, and to enhance their conceptual understanding of physical laws. The exact model of instruction varies at different campuses due to different resources and class sizes. Students attend several class meetings including at least one lab or activity period per week. Use of a combination of computer-based and traditional lab exercises is expected and collaborative learning exercises will be used in both small class sessions. The introduction of data acquisition and analysis methods (often making use of modern computer tools) will be stressed in the laboratory/activity period. Course evaluation is based on a combination assessments such as homework, quizzes, lab reports, midterm and final exams, and other evaluative tools. The course is an important prerequisite for later work in many science and engineering disciplines.
+/
+Matrices
+Systems of linear equations; matrix algebra; eigenvalues and eigenvectors; linear systems of differential equations.
+/
+Introductory Microeconomics
+This course meets the Bachelor of Arts degree requirements. Economics is the study of how people satisfy their wants in the face of limited resources. One way to think about economics is that it is a consistent set of methods and tools that is valuable in analyzing certain types of problems related to decision--making, resource allocation, and the production and distribution of goods and services. There are two main branches of economics, microeconomics, and macroeconomics. Macroeconomics is concerned with economy--wide factors such as inflation, unemployment, and overall economic growth. Microeconomics deals with the behavior of individual households and firms and how government influences that behavior;
+/
+Object-Oriented Software Design and Construction
+Object-Oriented Software Design and Construction (3) Object-oriented design and programming embody powerful design strategies that are based on practical and proven software engineering techniques. In this class, students will learn how existing object-oriented languages support these strategies, how to apply these strategies to moderately-sized systems, and how to use a visual object-oriented modeling tool such as the Unified Modeling Language (UML).
+/
+General Physics: Electricity and Magnetism
+General Physics: Electricity and Magnetism (4) (GN)(BA) This course meets the Bachelor of Arts degree requirements. Calculus-based introduction to classical electricity and magnetism, including such topics as, electric charge and electric fields, Gauss's law, electric potential, capacitance, current, resistance, and circuits, magnetic fields, and fields due to currents, induction and inductance, magnetism of matter, Maxwell's equations, and electromagnetic oscillations. This course is designed to provide students with a working knowledge of the elementary physics principles mentioned above, as well as their applications, and to enhance their conceptual understanding of physical laws. The exact model of instruction varies at different campuses due to different resources and class sizes. Students attend several class meetings including at least one lab or activity period per week. Use of a combination of computer-based and traditional lab exercises is expected and collaborative learning exercises will be used in both small class session. Use of a combination of computer-based and traditional lab exercises is expected and collaborative learning exercises will be used in both small class settings. The introduction of data acquisition and analysis methods (often making use of modern computer tools) will be stressed in the laboratory/activity period.Course evaluation is based on a combination assessments such as homework, quizzes, lab reports, midterm and final exams, and other evaluative tools.The course is an important prerequisite for later work in many science and engineering disciplines.
+/
+Ordinary Differential Equations
+First- and second-order equations; special functions; Laplace transform solutions; higher order equations.
+/
+Effective Speech
+Introduction to speech communication: formal speaking, group discussion, analysis and evaluation of messages.
+/
+Digital Design: Theory and Practice
+Introduction to digital systems and their design. Topics include combinational and sequential devices and circuits, modern design tools and design practices
+/
+Circuits and Devices
+Introduction to electrical circuit analysis, electronic devices, amplifiers, and time-domain transient analysis.
+/
+Discrete Mathematics for Computer Science
+Discrete mathematics and foundations for modern computer science. Topics include sets, relations, logic, algorithms, graphs, finite state machines and regular expressions.
+/
+Statistical Analysis I
+Probability concepts; nature of statistical methods; elementary distribution and sampling theory; fundamental ideas relative to estimation and testing hypotheses.
+/
+Effective Writing: Technical Writing
+A key emphasis will be on the rhetorical principles of effective communication, including context analysis and defining clear, actionable purposes. Students will gain experience with a wide range of technical writing genres, including reports, descriptions, definitions, procedures, job application documents, emails, memos, and web applications. Students will also learn about the importance of document and graphic design, including how best to design communications to maximize their potential for success.
+/
+Microprocessors
+This course is designed to provide students with strong foundation in microprocessor programming and hardware interfacing both in the classroom and laboratory settings. This course is a required course in the Electrical Engineering BS curriculum and is intended to be taken by students who have completed their digital systems and first electronics course requirements. As such, the course integrates materials from the above undergraduate electrical courses in addition to related math, engineering, and science courses.
+/
+Software Engineering
+The purpose of this course is to stress a rigorous and systematic approach to embedded software development that represents current best practices and is widely accepted by business, industry and regulatory agencies governing embedded software. This includes proper planning and implementation.Knowledge of generally accepted core standards and guidelines is stressed, including safety planning, hazards analysis, software management planning, requirements specification, design documents, coding, test plans, test specifications, test logs, test reports, design reviews, structured code walk-throughs, verification and validation, and reporting. The Unified Modeling Language (UML) is introduced and followed, including the components of UML, class diagrams, object diagrams, use-case diagrams, state diagrams, sequence diagrams, activity diagrams, collaboration diagrams, component diagrams, and deployment diagrams. Object oriented concepts include classes, abstraction, inheritance, polymorphism, encapsulation, message sending, associations, and aggregation.
+/
+Operating Systems
+Resource management in computer systems. Process scheduling, memory management, file system design, I/O management, Unix operating system.
+/
+Database Management Systems
+Topics include: conceptual data modeling, relational data model, relational query languages, schema normalization, database/Internet applications, and database system issues.
+/
+Health and Physical Activity
+Health and Physical Activity
+/
+Embedded Real Time Systems
+Embedded Real Time Systems (3) Real time operating systems is the study of hardware/software systems in which timing constraints must be met for correctness. Real time systems are embedded in applications ranging from the antilock brakes in cars to the flight control systems for jetliners. Students are first introduced to the concept of systems with real time constraints by examining case studies. The unified modeling languages (UML) with real time extension is introduced allowing students to capture the constraints present in the systems in a variety of models allowing the problem to be described at several levels of abstraction. Tasks and messages are introduced as programming structures which can satisfy the constraints described by the UML models. With a basic understanding of real time systems and how to implement them, the focus of the course shifts away from these technical concerns towards understanding the documentation of the requirements using the Volere Requirements Specification template
+/
+Software Verification, Validation, and Testing
+Software Verification, Validation, and Testing (3) Provides a background necessary for verification, validation, and testing of software systems. Verification addresses the question: &quot;are we building the product right?&quot; In other words, does the product meet the engineering specifications? Validation addresses whether the right product is being built and if it meets the design requirements. The testing aspect of the course addresses many of the methods available to test software systems. The levels of testing explored are 1) unit level (each module is tested independently), 2) integration testing (where the modules are integrated together and tested as a complete system), and 3) acceptance testing (the testing requirements of the users). Following this, specific test methodologies are addressed. By the end of this course the student should also be able to develop an appropriate test plan.
+/
+Data Structure and Algorithms
+Fundamental concepts of computer science: data structures, analysis of algorithms, recursion, trees, sets, graphs, sorting.
+/
+Software Architecture
+Software Architecture (3)This course introduces the frequently-used software infrastructures in software development by experienced engineers. The formal UML notations are utilized to design software architecture and help communicate the design visually. Students will learn the real practice of architectural styles, design patterns and design reuse. As to certain complex problems, alternative architectures will be proposed and their design trade offs will be evaluated. For instance, students compare two-tier with three-tier client/server architectures for distributed systems, and employ multi-process and multi-thread concurrent architectures for high performance computation systems. Moreover, students learn to conduct high level quality analysis from the design artifacts. The quality evaluation will focus on a number of attributes, including reusability, extendibility and performance. A great deal of effort is placed on the major categories of design types containing dozens of separate design patterns. Students first review the most fundamental design patterns. Afterwards, they apply creational patterns to effectively create objects, partitioning patterns to categorize objects, structural patterns to allocate objects, behavioral patterns to interface the communication between objects, and concurrent patterns to handle tasks simultaneously. These skills will enable students to extend their own knowledge after graduation by giving them the skills to learn new patters on their own. Finally, students will integrate their programs with native code applications to enlarge the application domains. To achieve best reusability, they also learn modular designs to develop component-based software. These help them meet today's software needs of cross applications and architectures.
+/
+Communications Networks
+Data transmission, encoding, link control techniques; communication network architecture, design; computer communication system architecture, protocols. CMPEN 362CMPEN (E E) 362 Communication Networks (3)CMPEN (E E) 362 is an elective course in both the electrical and computer engineering curricula which provides an overview of the broad field of data and computer communications. First, a general model of the communication task is presented, including the layered concept by which each layer provides services for the layer above. First, the lowest (physical) layer is studied. This involves signal design, Fourier analysis representations, bandwidth concepts, transmission impairments and communication media properties. Then the next higher (link) layer is considered which involves organizing bits into frames, data link and error control methods (including frame sequence numbering and error detection principles). Multiplexing to share a link is studied, including frequency division multiplexing, dedicated time division multiplexing, and statistical time multiplexing.At the network layer level, there are two categories: broadcast (usually local area) and switching networks. Broadcast and local area network studies include bus, tree and star topologies, Ethernet, optical fiber bus networks, ring networks, and medium access control protocols.Switching and routing concepts for networks are explained, including both circuit and packet switching, datagrams and virtual circuits. Properties of frame relay and asynchronous transfer mode (ATM) networks are described. Internetworking frame structures, routing and protocols are studied. Also, bridge routing for local networks is described.At the still higher transport (network end-to-end control) layer, transport protocols, including TCP/EP, are described.
+/
+Programming Language Concepts
+Fundamental concepts of programming language design, specifications, and implementation; programming language paradigms and features; program verification.
+/
+Software Engineering Design
+Software Engineering and Design (3) The primary goal of this course is to familiarize students with the wide variety of techniques and methodologies used in software engineering to assist in the development of large software systems. Issues discussed include the human factors involved in developing software, models of the software development process, the use of formal methods in software engineering, software validation and verification, and software maintenance.A second goal is to help students understand the importance of written communication in software engineering, and to provide opportunities for students to improve the quality of their writing 
+/
+Software Engineering Project
+Software Engineering Project
+/
+Basic Management Concepts
+exposes undergraduate students to the fundamental principles and basic concepts of management, with emphasis on organizational design, management processes, leadership, motivation, and managing teams and individuals in a global business environment. Understanding these principles and concepts is extremely important for students preparing for and entering the business profession. Managers plan, organize, lead, and control.
+/

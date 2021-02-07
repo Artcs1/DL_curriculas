@@ -1,0 +1,124 @@
+/
+Digital Circuit Design  
+This course provides a knowledge and facility in logic design, interfacing digital circuits, Boolean algebra, combinatorial logic circuits, circuit minimization techniques, flip-flop storage elements, shift registers, counting devices, sequential logic circuits, state machines and computer structure..
+/
+Digital Circuit Design Laboratory  
+Laboratory experiments in the measurement and verification of digital circuits. Discrete and integrated logic circuit design analysis and measurements.
+/
+English Composition 
+This course focuses on the principles of using writing for thinking, as well as a tool for expressing ideas. It addresses the composing process, research and documentation, and rhetorical strategies for various audiences and purposes. Students develop their communicative, evaluative, critical thinking, and research writing abilities. Daytona Beach students need C or better is required.
+/
+Speech 
+Individual sections may focus on public speaking, group discussion, oral interpretation, or interpersonal communication. 
+/
+Computer Science I  
+Introduction to problem-solving methods, algorithm development, and software engineering; software development process, program design, coding, review, testing, and documentation; and programming using a modern programming language that supports modular development. The course has a closed laboratory that includes activities dealing with the computing environment, the software development process, and programming exercises.
+/
+Introduction to Engineering  
+This course is an introduction to the interdisciplinary aspects of the engineering of aerospace systems. It is a project-based course, demonstrating how the engineering profession is a multi-disciplinary field. Students are involved in an array of conceptual exercises, simple design activities, and projects dealing with engineering in aerospace-related areas.
+/
+Introduction to Computing for Engineers  
+This is an introductory course in programming and computing for scientists and engineers. The course introduces students to the following aspects of software engineering: specification, requirements, design, code, and test. This course uses a problem-solving approach for developing algorithms. The following topics will be included: data types and related operations, looping, decision, input/output, functions, arrays, files, and plotting.
+/
+Physics I & II for Engineers  
+This calculus-based course explores vectors and scalar quantities, kinematics, Newton?s Law of Motion, work, work-energy, conversion of energy, conversion of momentum, center of mass and its motion, torque, equilibrium, orbital motion, rotational motion, simple harmonic motion, waves, and introductory thermodynamics.
+/
+Calculus and Analytical Geometry I  
+Limits and continuity; differentiation and integration of algebraic and elementary transcendental functions; applications of first and second derivatives.
+/
+Calculus and Analytical Geometry II  
+Differentiation and integration of transcendental functions; special integration techniques; applications of the definite integral; numerical methods; infinite series.
+/
+College Success 
+A course in which students assess and develop the personal, interpersonal, intellectual, and social skills necessary to succeed in college. Time management, study skills, goal clarification, career information, and college resources are included. This course is available to freshmen only.
+/
+Technical Report Writing  
+This course introduces students to the preparation of formal and informal technical reports, abstracts, proposals, instructions, professional correspondence and other forms of technical communication. Major emphasis is placed on the long technical report and the acquisition of advanced writing skills.
+/
+Computer Science II 
+This course emphasizes program design, style, data abstraction, information hiding, and testing; advanced programming features; and introduction to object-oriented concepts, basics of algorithm analysis, exception handling, string processing, recursion, pointers, and simple data structures. The course has a closed laboratory that includes activities dealing with the computing environment, the software development process, and programming exercises.
+/
+Data Structures and Analysis of Algorithms  
+This course emphasizes the design, implementation, and analysis of algorithms dealing with searching, sorting, graphs, trees, and disk files
+/
+Values and Ethics 
+This course focuses on the process of practical ethics as a way of resolving moral conflict and of understanding professional responsibility in a multiculturally diverse society without devaluating specific viewpoints of ethical or metaphysical theory, ideology, or religion. Students will use proposals, value judgments, observation statements, assumptions, and alternate-world assumptions in arguing contemporary issues of moral importance. With this basic moral logic, students will resolve issues in terms of rights, responsibilities, and the community of rational beings in terms of consequences and contingencies and in terms of habituated virtues and character. Free and unrestricted discourse will be encouraged to let students find common ground in diversity.
+/
+Exploring Film  
+A survey of the art of film. History of the cinema. Basic elements, photography, continuity and rhythm, movement, imaging, music and sound, script writing, directing, editing, acting, great film artists/directors, cinematographers, actors, etc.
+/
+Mythology 
+This course introduces the study of the myths of humankind, both ancient and modern, using perspectives and methods from archeology, anthropology, psychology, literature, and film. It explores what myths reveal about the human psyche and about historical and modern cultures. It builds facility in symbolic thinking and critical understanding of how this thinking influences contemporary literature, art, film, communication, and politics.
+/
+Introduction to Discrete Structures 
+An introduction to the fundamental algebraic, logical, and combinatorial concepts of mathematics that provides a foundation for the study of computer science.
+/
+Calculus and Analytical Geometry III  
+Solid analytic geometry; vector functions in three dimensions; partial differentiation; directional derivative and gradient; line integrals; multiple integrals
+/
+Physics for Engineers III  
+This course is a calculus-based study of the fundamental principles of classical mechanics. It is the third course of a three-semester sequence, intended for students of science and engineering and is designed to provide the student with an appropriate background for more advanced physics and engineering course work. Topics of discussion include electric forces; electric field; Gauss's law; Ohm's law; Ampere's law; Faraday's law; Lenz's law; Kirchhoff's law and Maxwell's equations; electric potential and electrostatic potential energy; capacitance; simple DC circuit theory; magnetic force, magnetic field; inductance; electromagnetic oscillations and wave propagation; linear accelerators; and cyclotrons.
+/
+Physics Laboratory for Engineers  
+Primarily lab report writing workshop, error analysis, damped harmonic oscillations, spectrometers, optics, atomic physics, thermodynamics and circuit theory.
+/
+Software Engineering Practices  
+This variable credit course introduces students to the fundamental principles and methodologies of large-scale software development. Students learn about the theory and practice of software engineering and work as part of a team on a full life-cycle software project that includes planning, software specification, software design, coding, inspections, and testing. 
+/
+Microprocessor Systems  
+Study of digital computer organizations. Introduction to microcomputer systems using a current microprocessor. Assembly language programming techniques for microcomputers will be used to study digital computer operation. Input and output techniques, memory devices, RS 232, and other interfacing techniques will be studied. Hardware and software relationships will also be discussed.
+/
+Microprocessor Systems Laboratory 
+Hands-on experience with a microprocessor is provided through weekly experiments involving hardware and software techniques.
+/
+Computer Architecture  
+This course describes in detail the Von Neuman computer architecture, which includes processors, memory, input/ output, and transfer of information; examples of machine language, assembly language, microprogramming, and operating systems will be discussed. Additional topics in advanced computer architecture and computer systems will be covered.
+/
+Files and Database Systems  
+Introduction to file and database systems. The course will cover the theory of database systems, various database models, and the design of a database system. Course homework will reflect real-life problems requiring cooperation, problem formulation, and problem-solving skills. A team/group term project may be assigned.
+/
+Organization of Programming Languages  
+A comparative study of different programming paradigms. Students program in several languages chosen to illustrate the essential features of the paradigms studied. Formal language concepts are also introduced.
+/
+ Operating Systems  
+Development, structure, and functions of operating systems; demand service models; development of concurrent models.
+/
+Differential Equations and Matrix Methods  
+Treatment of ordinary differential equations to include principal types of first and second order equations; methods of substitution on simple higher order equations; linear equations and systems of linear equations with constant coefficients; methods of undetermined coefficients and variation of parameters; Laplace transforms; series solutions; linear algebra and matrix methods of solutions; and applications to physics and engineering.
+/
+Probability and Statistics  
+Finite sample spaces; conditional probability and Bayes Theorem, discrete and continuous random variables and their functions; expected value, variance, and standard deviation; systematic study of the major discrete and continuous distributions; moment generating functions; hypothesis testing and estimation.
+/
+Analysis and Design of Software Systems  
+This course focuses on the fundamental methods employed in the analysis and design of software systems. Analysis is the process of determining a complete and consistent set of system requirements. Design is the process of producing a system architecture, both logical and physical, and determining an appropriate way to construct the software. The result of these processes is a documented model of the desired system. The student will learn and practice methods appropriate for both object-oriented and procedural systems.
+/
+Software Quality Assurance  
+This course exposes the student to the key concepts and practices in software testing and quality assurance. The objective of this course is to introduce students to the concepts of software quality through testing, inspection, and walkthrough. The process of software testing and different testing techniques and methodologies will be covered. This course also covers topics related to the management of a testing project. Finally, different software-testing tools and their advantages and disadvantages will be discussed.
+/
+Special Topics in Software Engineering 
+Individual independent or directed studies of selected topics in software engineering.
+/
+Real-Time Systems  
+The course introduces the concepts of real-time systems from the user and designer viewpoint. The requirements, design, implementation, and basic properties of real-time application software are described with an overview of system software. Related topics such as interrupts, concurrent task synchronization, sharing resources, and software reliability are discussed. A team project on a real-time prototype application may be incorporated in the course.
+/
+Telecommunications Systems  
+Techniques and applications in telecommunications. Types of data communication versus line discipline methodology. Hardware requirements and constraints. Speed versus quality. Security and encoding algorithms.
+/
+Human-Computer Interfaces  
+This course introduces Computer Science students to several important aspects of how humans use computers and how software is designed for usability. Students are introduced to usability issues, graphical systems, and graphical interfaces.
+/
+Information and Computer Security  
+The course will start with an overview of the larger context of information security, including the "softer" aspects of personnel and operational security, and then delve into the technical basis and practical difficulties of COMPUSEC itself.
+/
+Engineering Economics  
+An introduction to microeconomic principles, problems, and policies as well as basic financial principles such as time value of money, capital budgeting, and cost of capital. The course will provide the engineering graduate with the tools needed for success in the workplace.
+/
+Software Construction  
+This course provides the student with advanced instruction in programming with an object-oriented programming language. The course objective is proficiency in use of a language widely used for general purpose software development. In addition, the student will be introduced to tools and processes appropriate for employing this language in a significant software development environment. 
+/
+Software Team Project I
+Software Team Project I
+/
+Software Team Project II
+Software Team Project II
+/

@@ -1,0 +1,78 @@
+Introduction To Software Development Concepts
+This course introduces fundamental software development concepts common to most programming languages. Topics include problem solving and algorithm development, debugging, programming standards, variables, data types, operators, decisions, repetitive structures, modularity, arrays, user interface construction, software testing and debugging. A broad range of examples will be used throughout the course to show how each programming concept applies to real life problems. 
+/
+Information Technology Architectures
+A conceptual and technological survey of information technology architectures inclusive of operating systems, network operating systems, distributed systems architectures, and distributed application architectures. Interoperability between these architectural components is explored. Current technology and trends in each architectural element are reviewed. PC literacy required
+/
+Introduction To Systems Development
+This course introduces information systems development. Topics include types of information systems, system development, database management systems, and problem solving. Students will read/create UML, ERD, and data flow diagrams to model information system objects, data, processes, and logic. Labs emphasize modeling and SQL/QBE querying to prepare students for later systems, programming, and database classes. Given user requirements students will design, construct, and test a personal computer information system. PC literacy required.
+/
+System Administration
+This course provides a comprehensive introduction to system administration. Topics include authentication and authorization, directory services, system management and system security. Emphasis is placed on enterprise level systems. 
+/
+Object-Oriented Programming Introduction
+This course introduces software development concepts common to modern object-oriented programming languages. Topics include: intermediate data types, decisions, repetitive structures; methods; arrays and collections; encapsulation, inheritance, and polymorphism; exception handling; data persistence; Database Management System (DBMS) connectivity; user interface construction; software testing and debugging; and working in teams.
+/
+Cybersecurity Fundamentals
+This course introduces cybersecurity fundamentals and concepts. Security models that provide a basis for overarching security solutions are introduced to provide a basis for discussion. Risks and vulnerabilities are examined along with technical controls that can be used to mitigate them. The role of security policy and the incident management framework are examined. Emphasis is placed on building a strong foundation for further study in the field
+/
+Database Fundamentals
+A study of relational database concepts. These concepts include data design, modeling, and normalization; the use of Structured Query Language (SQL) to define, manipulate, and test the database; programmatic access to a database and practical issues that database developers must handle
+/
+Systems Analysis And Design Methods
+Comprehensive introduction to information systems development. Topics include the systems analyst, the systems development life cycle, methodologies, development technology, systems planning, project management, systems analysis, systems design, systems implementation, and systems support. Introduction to tools and techniques for systems development
+/
+Policy, Regulation, And Globalization In Information Technology
+This course provides students with opportunities to study how technology is intertwined with larger economic, social, cultural, and ethical dynamics in an era of intensified globalization. The course examines technology in a global environment. Students will explore concepts and issues related to law, policy, regulation, outsourcing, offshoring, globalization, global competitiveness, global communications, cultural differences and quality of life issues. Students will examine ethical situations that arise as a result of the impact of technology. In summary, the course is designed to help students understand what it means to identify as, and/or work with, technology in a global environment. 
+/
+Managing Information Technology Projects
+This course introduces the application of knowledge, skills, tools, and techniques that project managers use to plan, staff, estimate, and manage information technology projects. Special emphasis is placed on learning and applying the concepts of managing scope, risk, budget, time, expectations, quality, people, communications, procurement, and externally provided services. Students will apply project management technology and techniques to business problems
+/
+Database Programming
+This course explores advanced database programming techniques for enterprise-wide databases and their implementation. It uses programmatic extensions to Structured Query Language (SQL) supported by today’s enterprise-class Relational Database Management Systems (RDBMS). Topics include advanced data manipulation, storage considerations, data transformation techniques to enhance interoperability of data, stored procedure and trigger design and implementation; and query optimization.
+/
+Enterprise Data Management
+This course examines advanced design techniques and physical issues relating to enterprise-wide data management. Topics include advanced design concepts, enhanced modeling and constructs, objects and unstructured and semi-structured data in databases, data management in non-business contexts, implementation of an enterprise data architecture, and data quality and stewardship.
+/
+Systems Programming
+This course introduces concepts of lower level systems programming in C/C++ on a UNIX/Linus operation system platform. Command level development, algorithms, data structures, iteration and recursion, algorithms and analysis will be covered.
+/
+Object-Oriented Application Development
+This course focuses on using object-oriented programming languages in the development of modern, business applications. Topics include object-oriented design, encapsulation, object interfaces, inheritance, aggregation, abstract classes, polymorphism, data structures, and exception handling.
+/
+Transformative Texts, Critical Thinking And Communication I: Antiquity To Modernity
+The primary goal of the course is to provide students with a foundational knowledge of transformative literature from around the world as well as fundamental reading, writing, speaking and analytical skills. This first course in the sequence introduces students to great texts from antiquity to the birth of the modern era. Its goal is to create life-long learners, open to the world, and sensitive to other points of view. It exposes students from across the university to the ideas, skill-set and inspiration that animates from the liberal arts, and it also introduces them to liberal arts faculty. 
+/
+Transformative Texts, Critical Thinking And Communication II: Modern World
+The primary goal of the course is to provide students with a foundational knowledge of transformative literature from around the world as well as fundamental reading, writing, speaking and analytical skills. This second course in the sequence introduces students to great texts from the modern era. Its goal is to create life-long learners, open to the world, and sensitive to other points of view. It exposes students from across the university to the ideas, skill-set and inspiration that animates from the liberal arts, and it also introduces them to liberal arts faculty.
+/
+Design Thinking In Technology
+Student will engage in critical analysis of real-world problems and global challenges. They will demonstrate the ability to recognize opportunity and to take initiative in developing solutions applying the principles of human centered design. Students will be able to communicate effectively and to work well on teams. Problems and solutions will be examined from societal, cultural, and ethical perspectives.
+/
+Applied Calculus I
+Topics include trigonometric and exponential functions; limits and differentiation, rules of differentiation, maxima, minima and optimization; curve sketching, integration, anti-derivatives, fundamental theorem of calculus. Properties of definite integrals and numerical methods. Applications to life, managerial and social sciences.
+/
+Applied Calculus II
+This course covers techniques of integration; infinite series, convergence tests; differentiation and integration of functions of several variables; maxima and minima, optimization; differential equations and initial value problems; matrices, determinants, eigenvalues and eigenvectors
+/
+Foundations Of Organizational Leadership
+A survey of individual and organizational behavioral concepts and principles that provide a foundation for leadership in technology organizations. The focus will be toward the understanding of behaviors necessary for effective organizational leadership, including concepts of work in a technology-rich environment.
+/
+Fundamentals Of Speech Communication
+A study of communication theories as applied to speech; practical communicative experiences ranging from interpersonal communication and small group process through problem identification and solution in discussion to informative and persuasive speaking in standard speaker-audience situations.
+/
+America And The World
+This course examines the evolution of American culture as the United States transitioned from a relatively isolated country at the end of the 19th century to an active shaper of a global community by the 21st century. We will examine ways in which American Culture shaped and was shaped by international relationships that transcend nation states. We will explore reactions to, and the results of, the spread of American culture both inside and outside the United States. By studying traditional cultural forms like art, music, design, literature, film, and technology the course will build a foundation from which to understand the configuration of American culture. Yet the course will also emphasize American culture expression, that in the forms of television, advertising, sport, cartoons, social media, video games, fashion, food, drugs, and automobiles, have transcended the geographical boundaries of the United States to engage in global interplays of material cultural exchange. 
+/
+Quantitative Reasoning
+This course will cover important mathematical ideas, including proportion, weighted averages, linear models, exponential models, basic probability and statistics, and some algebra, by using concrete real-world problems. It will not be a prerequisite for any other mathematics course.
+/
+Basic Drawing
+An introduction to drawing and sketching as a means of communication of ideas.
+/
+Economics
+National economic problems such as unemployment, recessions, inflation, taxation, bank interest rates, the growth of government, monetary systems, and a rising national debt are discussed along with the principles, policies and institutions for solving these macroeconomic problems.
+/
+Statistics And Society
+Introduction to statistical ideas and their impact on public policy and the sciences. Sample surveys, design of experiments, measurement, analysis of data, simulating probabilities, concepts of inference. Application to current issues and controversies.
+/

@@ -1,0 +1,91 @@
+/
+Applications in Engineering
+Introduction of various concepts in engineering. Emphasis on project work, engineering ethics, and engineering design process. 
+/
+Introduction To Computing In Engineering
+An introduction to engineering problem-solving with the aid of computational software. Scientific computing concepts will be introduced including number representation, arrays, structured programming techniques, and good coding practices.  Basic numerical and data analysis methods will be introduced including numerical differentiation and integration, matrix operations, descriptive statistics, curve fitting, and optimization. 
+/
+Calculus I
+Differential and integral calculus: limits and continuity, the derivative and techniques of differentiation, extremal problems, related rates, the definite integral, Fundamental Theorem of Calculus, derivatives and integrals of trigonometric functions, logarithmic and exponential functions. 
+/
+Calculus II	
+Applications of the integral, techniques of integration, separable differential equations, improper integrals. Sequences, series, convergence tests, Taylor series. Polar coordinates, complex numbers.   
+/
+General Physics I W/lab
+Principles of classical mechanics, fluids, heat, thermodynamics. Lectures, recitations, laboratories. Calculus based.
+/
+General Physics II W/lab
+Principles of  electricity and magnetism, waves, sound, and light. Lectures, recitations, laboratories. 
+/
+Expository Writing
+Explores the principles of effective written communication and provides intensive practice in writing various types of expository prose, especially analysis and persuasion.  
+/
+Introduction To Computer Science
+The study of computer science centers on two complementary aspects of the discipline. First, computer science is fundamentally concerned with the problem-solving methodologies it derives from its foundational fields: the design principles of engineering, mathematical theory, and scientific empirical study. Second, these methodologies are applied in the complex context of a modern day computing system. In this course we will address both of these important aspects. As a means for developing your design skills, we will discuss the fundamental features of a high level, general purpose programming language — namely C++ — and learn how to use it as a tool for problem solving. We will also consider the performance of solutions, and how to apply both analytical and empirical assessment techniques 
+/
+Data Structures
+Data structures and algorithms are studied through major programming projects. Topics include linked lists, trees, graphs, dynamic storage allocation, and recursion.
+/
+Calculus III
+Vectors in two and three dimensions, applications of the derivative of vector-valued functions of a single variable. Functions of several variables, continuity, partial derivatives, the gradient, directional derivatives. Multiple integrals and their applications. Line integrals, Green's theorem, divergence theorem, Stokes’ theorem. 
+/
+Discrete Mathematics
+Sets, relations and functions, logic and methods of proof, combinatorics, graphs and digraphs.
+/
+General Physics II W/lab
+Principles of  electricity and magnetism, waves, sound, and light. Lectures, recitations, laboratories.   
+/
+Introduction To Digital Logic Circuits W/ Lab
+Number systems and their conversions. Boolean algebra and Karnaugh map minimizations of Boolean expressions. Logic gates. Analysis and design of combinational logic circuits. Characteristics of various flip-flops. Analysis and design of sequential logic circuits. Design of counter and shift register circuits. Various binary codes and code conversion circuits. Binary arithmetic and arithmetic circuits. Introduction to iterative design.
+/
+Introduction To Electrical Systems W/ Lab
+Definitions of circuit elements, fundamental laws, selected network theorems, controlled sources, introduction to the oscilloscope, energy and power, natural response and complete response of first order circuits, steady state sinusoidal behavior, algebra of complex numbers, phasors, impedance, average and reactive power, introduction to analog and digital systems, frequency response and filters, measurements and instrumentation, introduction to computer applications for circuit analysis and design.
+/
+Machine Structure & Assembly-language Programming
+Structure of machine-level data and code, including memory, cache, registers, machine arithmetic, and bitwise operations. Encapsulating machine functionality through interfaces and abstract data types. Structure of assembly code, relocatable object code, and binary machine code, and the translations between them. Applications of machine-level operations and code translations in programming projects.
+/
+Algorithms	
+Introduction to the study of algorithms. Strategies such as divide-and-conquer, greedy methods, and dynamic programming. Graph algorithms, sorting, searching, integer arithmetic, hashing, and NP-complete problems.
+/
+Convex Optimization
+Convex sets, convex functions and convex optimization problems; duality theory and optimality conditions; algorithms for solving convex problems including descent, gradient descent, Newton and interior point methods. 
+/
+Human Computer Interaction
+Introduction to human-computer interaction, or how computers communicate with people. Methodology for designing and testing user interfaces, interaction styles (command line, menus, graphical user interfaces, virtual reality), interaction techniques (voice, gesture, eye movement), design guidelines, and user-interface management system software. Students will design a small user interface, program a prototype, and test the result for usability.
+/
+Introduction To Biomedical Engineering
+An introduction to the interdisciplinary nature of biomedical engineering. The biological, chemical, electrical, and mechanical principles involved in the design and operation of medical devices. Biopotentials, electrodes, transducers, biocompatibility of materials, and patient safety. 
+/
+Engineering for a Sustainable and Resilient Society
+Quantitative description of natural and engineered processes affecting environmental sustainability at local, regional, and global scales.  Principles of ecology, material and energy flows, environmental quality, climate change, and resiliency in a civil and environmental engineering context.   
+/
+Senior Capstone Project I	
+Requirements analysis and design of a senior capstone project. Requirements analysis and elicitation methods, and prototyping. Design principles and methods, including designing for usability, security, testability, performance, and scaling. Project management and planning, including cost and effort estimation. Writing effective documentation. 
+/
+Senior Capstone Project II	
+Implementation and testing of the project designed in COMP97. Implementation tools, strategies, and platforms. Testing and debugging methodologies. Maintenance and release management. Legal, ethical, and social impacts of computing.
+/
+Programming Languages	
+Principles and application of computer programming languages.  Emphasizes ideas and techniques most relevant to practitioners, but includes foundations crucial for intellectual rigor: abstract syntax, lambda calculus, type systems, dynamic semantics.  Case studies, reinforced by programming exercises.  Grounding sufficient to read professional literature.
+/
+Computation Theory
+Models of computation: Turing machines, pushdown automata, and finite automata. Grammars and formal languages, including context-free languages and regular sets. Important problems, including the halting problem and language equivalence theorems.
+/
+Computer Graphics
+The course provides the background to understand and build interactive graphics systems. Introduction to computer graphics from simple two-dimensional graphics through three-dimensional viewing and transforms. Interactive graphics programming, raster graphics, raster algorithms, geometrical transformations, viewing in three dimensions, modeling and hierarchical data structures, visual realism, virtual reality, interaction devices, tasks and techniques.
+/
+Visualization
+Visualization as a tool for data analysis, recall, inference, and decision-making. Tools for visual description and presentation. Principles of effective visualization, including data-visual mapping, interaction techniques, color theory, cognitive and perceptual psychology, and human factors of visual depictions of data.
+/
+Biostatistics
+An examination of statistical methods for designing, analyzing, and interpreting biological experiments and observations. Topics include probability, parameter estimation, inference, correlation, regression, analysis of variance, and nonparametric methods.
+/
+Software Engineering
+Core principles and ideas that enable development of large-scale software systems, with a focus on programming. Abstraction, modularity, design patterns, specification, testing, verification, and debugging. 
+/
+Mechanical Design And Fabrication
+Fabrication techniques focusing on manual and CNC machines. Engineering drawings. Fundamentals of machine design. Elastic and plastic deformation, theories of failure, impact, and fatigue of machine elements. 
+/
+Engineering Psychology
+Survey of the applied areas of psychology that have proven useful in the design of equipment for human use and in the design of human-machine systems. Emphasis on how humans process information and how psychological science can further inform each stage of information processing.
+/

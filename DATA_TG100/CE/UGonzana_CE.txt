@@ -1,0 +1,147 @@
+/
+General Chemistry
+A systematic treatment of the fundamental laws and theories of chemistry and their applications. Designed for science and engineering majors. 
+/
+General Chemistry Lab
+General Chemistry Lab
+/
+First Year Seminar
+An introduction to multiple aspects of engineering as well as the university intellectual life. A primary focus is on programming and the use of computers within the engineering disciplines. Through a focus on hands-on projects performed in teams, the course introduces students to commonalities and differences among the engineering disciplines, modes of inquiry, project design, teaming, skills in professional/technical writing, persuasive arguments (based on evidence, logic and critical thinking), innovation, and the use of multiple languages (English, computing, graphic) to communicate technical ideas to colleagues and clients.
+/
+Calculus-Analytic Geometry I
+An introduction to calculus for engineering, science and mathematics students, with an emphasis on conceptual understanding, problem solving, and modeling. Topics covered include: limits, continuity, derivatives of algebraic, trigonometric, and transcendental functions, applications of the derivative including optimization problems and linear approximations, antiderivatives, introduction to the definite integral, and the Fundamental Theorem of Calculus.
+/
+Reasoning
+This course helps students develop the foundational skills of critical reading, thinking, analysis, and writing. Students will analyze and evaluate different approaches to formal and informal arguments, reconstruct arguments from a range of sources, assess the quality of various types of evidence, and demonstrate careful use of statistics.
+/
+Survey of Westrn Civilizatn I
+A survey of the origins of western civilization in the Near East; classical Greek and Roman civilizations; and developments in Europe to 1648.
+/
+Survey of Westrn Civilizatn I
+A survey of the origins of western civilization in the Near East; classical Greek and Roman civilizations; and developments in Europe to 1648.
+/
+First Year Seminar
+First Year Seminar
+/
+Calculus-Analytic Geometry II
+Topics covered are: techniques of integration, applications of the integral, improper integrals, sequences and infinite series with an introduction to convergence tests, parametric equations, and polar coordinates.
+/
+PHYS 103 Scientific Physics I
+4.00 credits
+Calculus-based introductory physics. Mechanics, including Newton's laws, conservation laws, fluids, oscillations, and waves. Five hours of lecture with experimental demonstrations and problems. 
+/
+Scientific Physics I Lab
+Scientific Physics I Lab
+/
+Philosophy of Human Nature
+Philosophical study of human nature, the human condition, the meaning and value of human life, and the human relationship to ultimate reality, with attention to such issues as the nature and possible existence of the soul, the relation between body and mind, belief and knowledge, freedom vs. determinism, and the possibility of human immortality. 
+/
+Intro Digital Logic
+3.00 credits
+Number systems and codes, Boolean Algebra, Logic gates and flip-flops. Verilog HDL. Combinational and sequential Logic Design using CPLDs. 
+/
+Intro Digital Logic Lab
+Intro Digital Logic Lab
+/
+Computer Science II
+An examination of dynamic memory management and recursion; an introduction to basic data structures and algorithmic analysis. 
+/
+Circuit Analysis I
+Fundamental electrical laws; network theorems. Basic circuit elements: resistance, inductance, capacitance, independent and controlled sources, and op-amps. Techniques of circuit analysis; steady-state and transient responses; first-order and second-order circuits; complex numbers; sinusoidal analysis. 
+/
+Circuit Analysis I Lab
+Circuit Analysis I Lab
+/
+Discrete Structures
+Topics taken from sets, functions, matrices, ordered sets, partially ordered sets, directed graphs, algebraic systems, recursive definitions, and algorithms. 
+/
+Continuing Education
+Continuing Education
+/
+Microcomputer Arch & Assm Prog
+Study of components of simple computer systems: CPU's memory, registers, busses, computer control, microprogramming, assembly language programming. 
+/
+Microcomp Arch & Assm Prog Lab
+Microcomp Arch & Assm Prog Lab
+/
+Circuit Analysis II
+Sinusoidal steady-state analysis; RMS value; real , reactive, and complex powers; balanced three-phase circuits; second-order circuits; frequency response; Bode plots; resonance; complex frequency; transfer functions; two-port circuits; magnetically coupled circuits; transformers.
+/
+Calculus-Analytic Geometry III
+A treatment of multivariable calculus and the calculus of vector fields. Topics include: vectors and vector-valued functions, partial derivatives, multiple integration, curl and divergence, line integrals, Green’s theorem, Stokes’ theorem, and the Divergence theorem.
+/
+Scientific Physics II
+Calculus-based introductory physics. Thermodynamics, electricity and magnetism, and optics. Five hours of lecture with experimental demonstrations and problems. 
+/
+Scientific Physics II Lab
+Scientific Physics II Lab
+/
+Algorithm&Abstract Data Struct
+Algorithm analysis using O-notation, sorting, heaps, balanced binary search trees, and hash tables. 
+/
+Electronics Design I
+Introduction to electronics design concepts; semiconductor devices and their associated electrical behavior; amplifier modeling, design, and trade-offs; practical designing, building, testing, and analyzing of electronic circuits. 
+/
+Electronics Design I Lab
+Electronics Design I Lab
+/
+Signals and Systems
+Signals and systems; types of signals; properties of systems; convolution integral; Fourier series; Fourier transform and applications; Laplace transform and applications; Sampling Theorem.
+/
+Ordinary Differential Equation
+Solution methods for first order equations and for second and higher order linear equations. Includes series methods and solution of linear systems of differential equations.
+/
+Embedded Computer Systems
+The micro controller as an engineering component. Hardware expansion with analog and digital devices. Board level design of real-time systems. Design of user-friendly interactive displays.
+/
+Embedded Computer Systems Lab
+Embedded Computer Systems Lab
+/
+Electronics Design II
+Frequency response and distortion; tuned circuits; operational amplifiers; power amplifiers; feedback concepts and oscillators; digital circuits; astable circuits; data conversion; practical design and application of electronic circuits. 
+/
+Electronics Design II Lab
+Electronics Design II Lab
+/
+Probabilistic Mtds Elect Eng
+Introduction to probability; random variables; multiple random variables; elements of statistics; applications in electrical and computer engineering.
+/
+Engineering Design
+Fundamentals of the engineering design process fundamentals: project requirements analysis and specification, system design, detailed design, testing and written and oral presentations. Project management: tasks, schedules, budget, critical items and fall back options. 
+/
+Old and New Testament
+A study of both Old and New Testament as the scriptures of Christianity.
+/
+Digital System Design
+Modern methods of digital design realization. Technology independence. Designs utilizing gate arrays and custom integrated circuits. Use of high level design software. Extensive use of Verilog hardware design language for system description, simulation and implementation. 
+/
+Digital System Design Lab
+Digital System Design Lab
+/
+Operating Systems
+Study of operating systems internals. Topics include concurrent programming, memory management, file system management, scheduling algorithms, security. 
+/
+Senior Design Project I
+Elective senior design project of an interdisciplinary or specialized nature involving both technical and non-technical aspects of an engineering problem for students in any of the engineering majors.
+/
+Parallel Computing
+Parallel Programming platforms; principles of parallel algorithm design; basic communication operations; analytical modeling of parallel programs; programming using the message-passing paradigm (MPI); programming on shared address space platforms (POSIX Thread and OpenMP); and other advanced topics. 
+/
+Biomedical Informatics & Comp
+Investigation of the role of computers in the provision of medical services; study of the nature of clinical data, medical information exchange standards, data storage, retrieval, integration and analysis and privacy issues; medical decision-making support; design of healthcare information systems; genomic medicine and its techniques. 
+/
+Survy Westrn Civilztn I Honors
+A survey of the origins of western civilization in the Near East; Greek and Roman civilizations; and developments in Europe to 1648.
+/
+Survey of Westrn Civilizatn II
+A survey of European history from the seventeenth century to the present with emphasis on ideas, politics, and social changes.
+/
+Computer Architecture
+Introduction to fundamental concepts in the design and implementation of computing systems. Topics include fundamentals of computer design, performance and cost, instruction set architecture, computer arithmetic, data path control, processor technology, pipelining, memory system (caches, virtual memory). 
+/
+Senior Design Project II
+Ongoing completion of an elective senior design project of an interdisciplinary or specialized nature involving both technical and non-technical aspects of an engineering problem for students in any of the engineering majors.
+/
+Fund of Engineering Exam
+Proctoring of the practice examination for Students in preparation for the Fundamental of Engineering Exam (1st exam toward professional licensing), and of the School of Engineering and Applied Sciences assessment surveys (dates and times are announced during the semester).
+/

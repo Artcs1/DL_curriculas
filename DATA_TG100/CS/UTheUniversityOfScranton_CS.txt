@@ -1,0 +1,151 @@
+/
+Computer Science I
+An introduction to programming concepts and methodology using an object-oriented programming language (currently Java).  Topics include problem analysis, abstraction, modularization, the development and use of algorithms, reuse, and the use of programming constructs including data types, classes, control structures, and methods.
+/
+Computer Science II
+This course emphasizes object-oriented software development, addressing both software engineering and programming.  Topics include modularization, abstraction, encapsulation/information hiding, software reuse, software testing, classic data abstractions (e.g., lists, trees) and algorithms (e.g., sorting, searching), recursion, program correctness, and basic algorithm analysis.
+/
+Discrete Structures
+A study of symbolic logic, sets, combinatorics, mathematical induction, recursion, graph theory, and trees. Intended for Engineering, Computer Science, and Computer Information Systems majors, but open to other qualified students.
+/
+Calculus I
+Topics from calculus and analytic geometry including limits, derivatives and their applications, integrals, and the Fundamental Theorem.
+/
+Introduction to Computing and Information Technology
+This course presents foundational concepts and surveys the past, present and future of computing and information technology with an emphasis on the seminal ideas, concepts, inventions and innovations that fuel the Digital Revolution.  The sub-disciplines of computing are identified and discussed relative to each other. 
+/
+Composition
+Students develop techniques for making effective contributions in writing to intellectual discussions, academically and in other cultural settings. Students are tasked with forming the strong foundation in critical reading, thinking, writing, researching, and reflecting necessary for expressing ideas in a variety of rhetorical situations.
+/
+Introduction to Philosophy
+The aim of this course is to awaken in the student an appreciation of the nature and method of philosophical inquiry through an examination of key texts that grapple with central questions in the history of philosophy.
+/
+Introduction to the Bible
+A survey of central texts and themes of the Bible. Its purpose is to develop biblical literacy as well as skills in interpreting various literary forms and key theological concepts.
+/
+Data Structures and Algorithms
+An examination of the issues of data representation, algorithm structure, and encapsulation as they pertain to the development of object-oriented software.  Abstract data types studied include stacks, queues, binary trees, n-ary trees, and graphs. Various representation alternatives are analyzed and compared, trade-offs frequently encountered by software developers are discussed.
+/
+Machine Organization and Assembly Language Programming
+An introductory study of the organization and architecture of computers through an exploration of various virtual machines. Programming at the assembly-language level and interfacing with software components (primarily written in C). Topics include representation of data and instructions, computer arithmetic, memory hierarchies, instruction sets, addressing modes, digital logic, microprogramming, pipelining, and parallel processing.
+/
+Theoretical Foundations of Computer Science
+An examination of the fundamental models and concepts of computation – automata, formal languages, and grammars – and how they are related.  Church-Turing thesis; recursive and recursively enumerable sets; unsolvable problems; complexity of algorithms; Chomsky hierarchy.
+/
+Sophomore Colloquia I
+Sophomore Colloquia I
+/
+Sophomore Colloquia II
+Sophomore Colloquia II
+/
+Calculus II
+Topics from calculus and analytic geometry including applications of the definite integral, calculus of transcendental functions, methods of integration, improper integrals, sequences and series.
+/
+Ethics
+An examination of moral issues through close readings of important historical texts such as the writings of Plato, Aristotle, Augustine, Aquinas, Kant or Mill.  Themes will include happiness, virtue, the nature of justice, free choice, conscience, natural law and obligation, God and morality.
+/
+Theology II: Introduction to Christian Theology
+A survey of key Christian themes: creation, Christ’s incarnation and redemption, the Church and sacraments, Christian personhood, and the practice of prayer, virtue, and hope for the future.
+/
+Operating Systems
+An introduction to the principles of operating systems.  Topics include operating system structure, process management, scheduling and dispatching, process synchronization and interprocess communication, memory management, virtual memory, device management, I/O, and file systems.
+/
+Programming Languages
+A study of programming languages from both the theoretical and practical perspectives.  A survey of major and developing paradigms and languages is undertaken which includes use of specific languages to broaden the student’s experience.  Implementation is studied through an introduction to language translation along with a study of run-time models and interfaces with virtual machines.
+/
+Introduction to Database
+File structures concepts and file processing applications.  Topics include file maintenance and storage management; file searching, sorting, and merging; co-sequential processing; index structures; B-trees; hash tables; indexed sequential files; database concepts.
+/
+Computer Architecture
+A study of the logical structure of computer-system organization including a survey of logic and design with an emphasis on functional components.  Topics include instruction sets, hard-wired and microprogrammed control-unit designs, memory systems (caches and virtual memory), I/O systems (interrupts, DMA, and channels).  
+/
+Junior Colloquia I
+Junior Colloquia I
+/
+Junior Colloquia II
+Junior Colloquia II
+/
+Fundamentals of Software Engineering
+An introduction to the concepts of Software Engineering.  Stress is placed upon formal models for the design and development of high-quality software.  Topics include: project planning, requirements analysis, system design, program design, program implementation, program testing, system testing, system delivery, and maintenance.
+/
+Capstone Project
+Capstone Project
+/
+Senior Colloquia I
+Senior Colloquia I
+/
+Senior Colloquia II
+Senior Colloquia II
+/
+Computers and Ethics
+Ethical aspects of hacking, software, piracy, computer-aided decision making, protection of software by copyright, patent, trade secret laws, unauthorized use of computer resources, privacy and database security, program warranties and programmer responsibility, artificial intelligence, the interface between human and computer.
+/
+Elements of Physics I
+Calculus-based introduction to physics covering linear and rational kinematics, Newton’s laws, conservation of momentum and energy, the work-energy theorem, gravitation, oscillations, and waves
+/
+Elements of Physics II
+Calculus-based introduction to physics covering waves of sound and light, superposition, interference, geometrical and ray optics, electrostatics, electric field, electric potential, current, capacitance, resistance, circuits, magnetic field, magnetic force, and induced emf.
+/
+General and Analytical Chemistry
+A study of the laws, theories and principles of general chemistry together with qualitative and quantitative analysis. Three hours lecture each semester.
+/
+General Biology
+A comprehensive study of the nature of living organisms, both plant and animal, their structure, function, development and relationships, including the problems of development, heredity and evolution. 
+/
+Database Systems
+An introduction to database management systems with an emphasis on relational database design and applications.  It uses an appropriate database package such as ORACLE or PostgreSQL.
+/
+Data Communications and Networks
+A study of data communication and networking concepts, including distributed-system architectures, electronic interfaces, data-transmission, data link protocols, terminal networks, computer communication, public-data networks, and local-area networks.
+/
+Mobile Application Development
+This course deals with the development of software for mobile devices such as smartphones and tablets.  Topics include, but are not limited to, graphical user interface design, event-driven software model, resource management, interfacing with sensors, concurrency, database access, and networking.
+/
+Web Programming
+This course covers all aspects of programming on the World Wide Web.  This includes the presentation of HTML, Java, JavaScript and CGI.  Topics include advanced HTML (maps, forms, etc.) client-server programming basics as they relate to the Web, Java machine concepts, Java/JavaScript similarities and differences, server-side programming, GIF animations, Web programming resources and environments. 
+/
+Real-Time Systems
+A study of issues related to systems that interface with the physical world and must meet the timing constraints imposed on them.  Topics include: real-time hardware architecture, real-time operating systems, invoking and managing threads and processes, interprocess communications and synchronization, manipulating process priority, concurrent programming, exception handling, software safety, reliability, and fault tolerance.
+/
+Analysis of Algorithms
+A survey of methods for designing and analyzing algorithms. Classic algorithms from graph theory, combinatorics and text processing are examined, as are traditional design strategies such as divide-and-conquer, backtracking and dynamic programming.  Other topics include NP-completeness and parallel algorithms.
+/
+Numerical Analysis
+A survey of numerical methods for solving equations, integration, differentiation, interpolation, differential equations, and linear algebra, and the analysis of error.
+/
+Theory of Computation
+The development of a theoretical notion of computability and its relationship to Turing computability and recursive functions; the study of the relationships between automata, formal languages and grammars.
+/
+Computer Graphics
+An introduction to the hardware, software and techniques used to generate graphical representations by computer.  Two and three dimensional concepts, algorithms and architectures are studied. An essential aspect of the course involves the development of programs utilizing appropriate APIs (currently OpenGL is emphasized) as a means of developing expertise.  Advanced topics may be pursued as appropriate.
+/
+Artificial Intelligence
+Problem solving using expert systems, heuristic programming techniques, tree speed-up techniques, and learning mechanisms.
+/
+Rapid Prototyping
+Some common applications using a database with a visual interface (perhaps Web based) can be successfully treated using Rapid Prototyping (a.k.a. Rapid Application Development).   This course will cover the synergy of combining a visual language and a relational database employing rigorous design techniques.
+/
+Special Topics
+Some recent courses have covered Rapid Prototyping, Real-Time Systems, and Parallel Computing.  A syllabus including prerequisites is published prior to the registration period for the course.
+/
+Computer Research
+Computer Research
+/
+Compiler Design
+Study of techniques and problems involved in constructing compilers.  Lexical analysis, syntax analysis, semantic analysis, symbol-table management, code generation, code optimization.
+/
+Computer Internship
+An extensive job experience in computing which carries academic credit. 
+/
+Computer Graphics
+An introduction to the hardware, software and techniques used to generate graphical representations by computer.  Two and three dimensional concepts, algorithms and architectures are studied. An essential aspect of the course involves the development of programs utilizing appropriate APIs (currently OpenGL is emphasized) as a means of developing expertise.  Advanced topics may be pursued as appropriate.
+/
+Linear Algebra
+Vector spaces, matrices, determinants, linear transformations, eigenvalues, eigenvectors, inner products, and orthogonality.
+/
+3D Computer-generated Animation/Content
+A course that addresses three-dimensional graphic content creation and manipulation. Students develop 3D content using a number of industry- standard software packages. Topics include mode/texture development, animation, construction of 3D environments, rendering and advanced topics.
+/
+Capstone Project
+In this course, students prepare and present individual computer projects to be evaluated by the instructor and their fellow students.
+/

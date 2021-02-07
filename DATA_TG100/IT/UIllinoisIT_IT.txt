@@ -1,0 +1,87 @@
+/
+Introduction to Contemporary Operating Systems and Hardware I
+Students study the basics of computer architecture and learn to use a contemporary operating system. Hardware requirements, hardware components, software compatibility, and system installation topics are covered along with post-installation, storage, security and system diagnosis, and repair. Topics also include discussion of current and future technology industry trends.
+/
+Introduction to Software Development
+A broad introduction to object-oriented programming and the related knowledge necessary to program in a contemporary programming language. This would include coverage of an Application Development Kit, a standard integrated Development environment, and the use of GUI components.
+/
+Calculus I
+Analytic geometry. Functions and their graphs. Limits and continuity. Derivatives of algebraic and trigonometric functions. Applications of the derivative. Introduction to integrals and their applications.
+/
+Calculus II
+Transcendental functions and their calculus. Integration techniques. Applications of the integral. Indeterminate forms and improper integrals. Polar coordinates. Numerical series and power series expansions.
+/
+Introduction to Information Technology as a Profession
+Introduces students to the profession of information technology, beginning with concepts of systems, systems theory and modeling, information systems, and system integration. Examines the steps necessary to analyze a business problem and identify and define the computing and information requirements appropriate to its solution, with a focus on how to design, implement, and evaluate a technology-based system to meet desired needs. Students learn to analyze the local and global impact of computing on individuals, organizations, and society. Leads students to recognize of the need for continuing professional development, and imparts an understanding of professional, ethical, legal, security and social issues and responsibilities in information technology. 
+/
+Human-Computer Interaction and Web Design
+Students in this course will learn the importance of human-computer interaction design and the effectiveness of user-centered design. The course will cover a survey of methods frequently used by the HCI profession, such as usability testing and prototyping, as well as general design principles and how to use design guidelines. A particular emphasis will be placed on usability for Web site engineering, and students will apply knowledge from the field in the design and construction of user-centered Web sites.	
+/
+Introduction to Open Source Application Development
+Introduces basic concepts of systems programming using a modern open source language. Students learn to apply basic programming concepts toward solving problems, writing pseudocode, working with and effectively using basic data types, abstract data types, control structures, code modularization and arrays. They will learn to detect errors, work with variables and loops, and discover how functions, methods, and operators work with different data types. Students will be introduced to the object paradigm including classes, inheritance , and polymorphism.
+/
+Intermediate Software Development
+This course covers a broad spectrum of object-oriented programming concepts and application programming interfaces. The student considers the details of object-orientated development in topics of multi-threading, data structure collections, stream I/O and client interfaces. Software engineering topics of packaging and deployment are covered as well. 	
+/
+Fundamentals of Web Development
+This course will cover the creation of Web pages and sites using HTML, CSS, Javascript, jQuery, and graphical applications as well as the client and server architecture of the Internet and related web technologies. The creation and deployment of modern, standards-compliant web pages are addressed. Students create and deploy a Web site with multiple pages and cross-linked structures.	
+/
+Multivariate and Vector Calculus
+Analytic geometry in three-dimensional space. Partial derivatives. Multiple integrals. Vector analysis. Applications.
+/
+Cyber Security Management
+In-depth examination of topics in the management of information technology security including access control systems and methodology, business continuity and disaster recovery planning, legal issues in information system security, ethics, computer operations security, physical security and security architecture & models using current standards and models.
+/
+Introduction to Discrete Math
+Sets, statements, and elementary symbolic logic; relations and digraphs; functions and sequences; mathematical induction; basic counting techniques and recurrence.
+/
+Project Management for Information Technology and Management
+Basic principles of project management are taught with a particular focus on project planning for information technology hardware, software and networking project implementation. Management of application development and major Web development projects will also be addressed.	
+/
+Cyber Forensics
+This course will address methods to properly conduct a computer and/or network forensics investigation including digital evidence collection and evaluation and legal issues involved in network forensics. Technical issues in acquiring court admissible chains-of-evidence using various forensic tools that reconstruct criminally liable actions at the physical and logical levels are also addressed. Technical topics covered include detailed analysis of hard disks, files systems (including FAT, NTFS, and EXT) and removable storage media; mechanisms for hiding and detecting hidden information; and the hands-on use of powerful forensic analysis tools.
+/Coding Security
+This course examines security architecture elements within modern object oriented programming languages that create the framework for secure programming. Analysis of components and services with their inherent strength and weaknesses give rise to common coding security challenges. An exploration of identity management, encryption services and common hacking techniques will enable the student’s ability to develop secure code. Homework assignments and projects will reinforce theories taught.	
+/
+Vulnerability Analysis and Control
+This course addresses hands-on ethical hacking, penetration testing, and detection of malicious probes and their prevention. It provides students with in-depth theoretical and practical knowledge of the vulnerabilities of networks of computers including the networks themselves, operating systems, and important applications. Integrated with the lectures are laboratories focusing on the use of open source and freeware tools; students will learn in a closed environment to probe, penetrate, and hack other networks.	
+/
+Cyber Security Technologies
+Prepares students for a role as a network security analyst and administrator. Topics include viruses, worms, and other attack mechanisms, vulnerabilities, and countermeasures; network security protocols, encryption, identity and authentication, scanning, firewalls, security tools, and organizations addressing security.
+/
+Operating System Security
+This course will address theoretical concepts of operating system security, security architectures of current operating systems, and details of security implementation using best practices to configure operating systems to industry security standards. Server configuration, system-level firewalls, file system security, logging, anti-virus and anti-spyware measures and other operating system security strategies will be examined.	
+/
+Probability and Statistics
+Elementary probability theory including discrete and continuous distributions, sampling, estimation, confidence intervals, hypothesis testing, and linear regression.
+/
+Legal and Ethical Issues in Information Technology
+Current legal issues in information technology are addressed including elements of contracting, payment systems and digital signatures, privacy concerns, intellectual property, business torts, and criminal liability including hacking, computer trespass and fraud. Examination of ethical issues including privacy, system abuse, and ethical practices in information technology equip students to make sound ethical choices and resolve legal and moral issues that arise in information technology.
+/
+System Integration
+In this capstone course, students will identify, gather, analyze, and write requirements based on user needs and will then design, construct, integrate, and implement an information system as a solution to a business problem. Students will document integration requirements using business process models and will learn and apply key systems integration architecture, methodologies, and technologies using industry best practices. User needs and user centered design will be applied in the selection, creation, evaluation, and administration of the resulting system. The system design process will take into account professional, ethical, legal, security, and social issues and responsibilities and stress the local and global impact of computing on individuals, organizations, and society. Discussion will also cover the need to engage in continuing professional development.
+/
+Digital Evidence
+In this course, students learn the fundamental principles and concepts in the conduct of investigations in the digital realm. Students will learn the process and methods of obtaining, preserving and presenting digital information for use as evidence in civil, criminal, or administrative cases. Topics include legal concepts and terminology, ethics, computer crime, investigative procedures, chain of custody, digital evidence controls, processing crime and incident scenes, data acquisition, e-mail Investigations, applicable case law, and appearance as an expert witness in a judicial or administrative proceeding.
+/
+Coding Security
+This course examines security architecture elements within modern object oriented programming languages that create the framework for secure programming. Analysis of components and services with their inherent strength and weaknesses give rise to common coding security challenges. An exploration of identity management, encryption services and common hacking techniques will enable the student’s ability to develop secure code. 
+/
+Database Security
+Students will engage in an in-depth examination of topics in data security including security considerations in applications and systems development, encryption methods, cryptography law and security architecture and models.
+/
+Introduction to Psychological Science
+Psychologists use the scientific method to understand the behavior and mental processes of individuals. Their investigations into understanding the behavior of individuals span multiple areas including perception, learning, cognition, language, development, motivation, personality, psychological disorders, social, health, and industrial/organization. In addition to the variety of fields, psychology examines behavior at multiple levels such as biological, behavioral, and cultural. 
+/
+Age of Darwin
+An introduction to the humanities through an investigation of important changes in our culture associated with Darwin's theory of evolution. 
+/
+Introduction to Energy, Waves, Materials, and Forces
+This course will address the basic physical principles and concepts associated with energy, power, heat, light, sound, circuits, materials, fluids, and forces. Although quantitative at times, the course will stress conceptual understanding and practical applications.
+/
+Engineering Graphics for Non-Engineers
+Designed for students in business, liberal arts and non-technical programs. Basic drafting techniques and applications, lettering, geometric constructions, charts and graphs, technical sketching, multiview projection, pictorial drawings, dimensioning, blueprint reading and working drawings. Introduction to computer graphics. Credit for this course is not applicable to an engineering degree.
+/
+Professional Skills
+Didactic and applied approach to professional skill development in the areas of oral communication, conflict management and interpersonal dimensions of the work setting.
+/

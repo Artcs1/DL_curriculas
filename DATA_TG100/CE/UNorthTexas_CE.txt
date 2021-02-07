@@ -1,0 +1,98 @@
+/
+Computer Science I
+Introduction to computer science and engineering, problem-solving techniques, algorithmic processes, software design and development.
+/
+Computer Science II
+Software design, structured programming, object-oriented design and programming.
+/
+Foundations of Computing
+Conceptual and formal models, efficiency and levels of abstraction as used in the field of computing, big-Oh notation, combinatorics and conditional probability, basic operations of sets, functions, relations, trees and graphs, regular expressions, deterministic finite automata and non-deterministic finite automata to describe patterns in strings.
+/
+Foundations of Data Structures
+Data structures and formalisms used in computing, such as asymptotic behavior of algorithms, graph, table, relational and set data structures, context-free grammars to describe patterns, assertions in propositional logic form, amortized analysis to evaluate efficiency of data structures such as splay trees and O(1) expansion of tables.
+/
+Assembly Language and Computer Organization
+Principles of computer systems organization, instruction sets, assembly language programming, computer arithmetic, data and control paths, and introduction to memory hierarchy.
+/
+Signals and Systems
+Elementary concepts of continuous-time and discrete-time signals and systems. Specific topics include linear time-invariant (LTI) systems, impulse response, convolution, Fourier series, Fourier transforms, frequency-domain analysis of LTI systems, Laplace transforms, z-transforms, and rational function descriptions of LTI systems.
+/
+Communications Systems
+Introduction to the concepts of analysis and design of communication system components using signal analysis techniques. Amplitude and angle modulation for the transmission of continuous-time signals. Introduction to analog and digital filter design and analysis.
+/
+Principles of Systems Programming
+Introduction to the design and operation of systems software. Analysis is made of current system software technology, including operating systems, language translation systems and file systems.
+/
+Embedded Systems Design
+Computer systems as embedded computing elements and micro-controllers. System specification using UML or other high-level abstract models. Issues and constraints on embedded computing systems, including power, performance, memory and size. Use of DSP, ASIC and micro-controllers in a single design.
+/
+Reconfigurable Logic
+Advanced concepts in Boolean algebra, use of hardware description languages as a practical means to implement hybrid sequential and combinational designs, digital logic simulation, rapid prototyping techniques, and design for testability concepts. Focuses on the actual design and implementation of sizeable digital design problems using representative computer aided design (CAD) tools.
+/
+Engineering Ethics
+The effect of technology in modern society with emphasis on the role of engineering and technical professionals.
+/
+Computer Engineering Design I
+First course in the senior capstone design sequence. Focus is the application of techniques to the design of electronic systems that have digital hardware and software components. Students apply the theory acquired from numerous engineering courses to solve real-world design problems. The design will consider realistic constraints including economic, environmental, sustainability, manufacturability, ethical, social, safety.
+/
+Computer Engineering Design II
+Second course in the senior capstone design sequence. Focus is the application of techniques to the design of electronic systems that have digital hardware and software components. Students apply the theory acquired from numerous engineering courses to solve real-world design problems. The design will consider realistic constraints including economic, environmental, sustainability, manufacturability, ethical, social, safety.
+/
+Electronics I (Devices and Materials)
+Introduction to contemporary electronic devices, terminal characteristics of active semiconductor devices, and models of the BJT and MOSFET in cutoff and saturation region are introduced. Incremental and DC models of junction diodes, bipolar transistors (BJTs), and metal-oxide semiconductor field effect transistors (MOSFETs) are studied to design single and multistage amplifiers.
+/
+Circuit Analysis
+Introduction to electrical elements, sources and interconnects. Ohm’s law, Kirchoff’s law, superposition and Thevenin’s theorems are introduced. The resistive circuit, OP Amp, RL, RC circuits, Sinusoidal analysis.
+/
+Digital Logic
+Digital system design; number systems and codes; Boolean algebra; logic gates; programmable logic devices and hardware description languages; arithmetic operations and circuits; combinational circuits; code converters, multiplexers and demultiplexers; sequential circuits; flip-flops, registers and shift registers; finite state machines; microprocessor fundamentals.
+/
+Calculus I
+Limits and continuity, derivatives and integrals; differentiation and integration of polynomial, rational, trigonometric, and algebraic functions; applications, including slope, velocity, extrema, area, volume and work.
+/
+Calculus II
+Differentiation and integration of exponential, logarithmic and transcendental functions; integration techniques; indeterminate forms; improper integrals; area and arc length in polar coordinates; infinite series; power series; Taylor’s theorem.
+/
+Probability Models
+Probability theory, discrete and continuous random variables, Markov chains, limit theorems, stochastic processes, models for phenomena with statistical regularity.
+/
+Linear Algebra and Vector Geometry
+Vector spaces over the real number field; applications to systems of linear equations and analytic geometry in En, linear transformations, matrices, determinants and eigenvalues.
+/
+Multivariable Calculus
+Vectors and analytic geometry in 3-space; partial and directional derivatives; extrema; double and triple integrals and applications; cylindrical and spherical coordinates.
+/
+Technical Writing
+Expository writing, especially for science, pre-engineering and business students.
+/
+Mechanics
+Laws of motion; inertia, acceleration, force, energy, momentum and angular momentum. Rotational and oscillatory motion. Gravitation.
+/
+Electricity and Magnetism
+Electric fields, dc and ac circuits, magnetic fields and magnetic induction. Electric and magnetic properties of matter.
+/
+Computer Architecture
+Study of performance issues and power requirements related to modern computer systems, including Instruction Level Parallelism, out-of-order instruction scheduling, branch prediction, speculative execution, cache memory, and concurrency.
+/
+VLSI Design
+Introduction to VLSI design using CAD tools, CMOS logic, switch level modeling, circuit characterization, logic design in CMOS, systems design methods, test subsystem design, design examples, student design project.
+/
+Directed Study
+Study by individuals or small groups if faculty supervisor agrees. A plan of study approved by the faculty supervisor along with the study will be graded by the faculty supervisor; must be approved by the coordinator for undergraduate studies.
+
+Prerequisite(s): Junior or senior standing in computer science, computer engineering or information technology, and consent of instructor.
+You must get Instructor consent by email. As well as, Departmental Consent by filling out the Enrollment Assistance request form at www.cse.unt.edu/overrides. Please upload the instructor consent in the form.
+/
+Embedded C-Programming
+C programming and applications for modern microcontroller architectures. Topics covered include C data types, arrays and pointers, data structures and their uses. Introduction to basic techniques of memory management and programming with dynamic data structures. Interrupt handling, multi-module programming including applications containing a mixture of C and assembly language modules, and techniques for manipulating hardware registers and special function registers.
+/
+Embedded System Organization
+Common architectures and instruction sets for embedded microcontrollers. Detailed study of the software/hardware components and interfaces in embedded systems. Applications of soft cores and custom programming interfaces to embedded system control with emphasis on Field-Programmable Gate Array (FPGA) implementation. Usage of a modern Hardware Description Language (HDL) such as Verilog or VHDL. This course practices ETEC OpenLab Format: at least 30% of the assignments are completed in the lab or at home using proper technology.
+/
+Digital Logic Design Techniques
+Study of modern digital circuit implementation technologies, with emphasis on Field-Programmable Gate Arrays (FPGAs). Traditional and computer-based digital synthesis techniques for combination and sequential circuits are covered. Complex systems, such as reaction timers, processors and buses, are built from simpler circuits. A modern hardware description language, such as Verilog or VHDL, is used throughout the course. This course practices ETEC OpenLab Format: at least 30% of the assignments are completed in the lab or at home using proper technology.
+/
+Introduction to Solid-State Physics
+Introduction to the major areas of solid-state physics, including crystal structure and symmetry, lattice vibrations and phonons, thermal properties, energy bands, semiconductors, superconductivity, and magnetic properties.
+/
+

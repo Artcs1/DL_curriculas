@@ -1,0 +1,70 @@
+/
+Computer Science Principles 
+Computer Science Principles introduces students to the central ideas of computer science vital for success in today’s world.  Students are invited to develop the computational thinking skills that apply across disciplines, as we explore computing from multiple perspectives, including: cognitive, economic, ethical, legal, mathematical, philosophical, social, and technical.  The course integrates computational thinking practices with big ideas in computing to address: collaborative teamwork, communication, creativity, critical thinking, innovation, problem solving, and programming. 
+/
+Computer Science 1 
+This is the first course in the computer science core sequence. Students learn a modern programming language and the basic skills needed to analyze problems and construct programs for their solutions. The emphasis of the course is on the techniques of algorithm development, correctness, and programming style. Students are also introduced to the fundamentals of software engineering and the software-development life cycle.
+/
+Computer Organization 1 
+In this course, students will study the internal organization, characteristics, performance and interactions of a computer system’s functional components. Binary codes and binary arithmetic, digital logic, central processor organization, instruction set architecture, input/output fundamentals, and memory architecture are covered.
+/
+Computer Science 2 
+This course, a continuation of CS 1050, further emphasizes the concepts of the software development cycle and introduces the concept of an abstract data type (ADT). The topics covered include linked-lists, trees, stacks, queues, classes, recursion, and a variety of data representation methods. Further topics in software engineering and programming style as well as algorithms for sorting and searching are included.
+/
+Computer Organization 2 
+The course presents the functional organization of computers, multicore and multithreaded processors, high-performance storage, multiprocessor and multicomputer parallel architectures, and error detecting/correcting codes. Students learn assembly language programming and create software using a contemporary development environment.
+/
+Principles of Programming Languages 
+This course traces the evolution of programming languages and identifies and analyzes the contributions made by several significant languages and their successors. Specific issues of programming language implementation such as creation of activation records for block structured languages and static and dynamic scoping as methods for defining program object visibility are studied in depth. All four of the modern programming language paradigms (procedural, functional, object-oriented, and logical) are studied.
+/
+Introduction to the Theory of Computation 
+This course explores language theory and computability. Language theory includes: regular expressions, regular languages, and finite automata (deterministic and nondeterministic); context-free languages and pushdown automata; and language grammars. Computability includes: Tuning machines and their computing power; unsolvable problems; and intractable problems (NP-Completeness).
+/
+Software Development Methods and Tools 
+This course introduces the basics of large-scale software development. As software size increases, so does the need to use appropriate tools and development techniques. The phases of traditional software development and several current software development lifecycles are introduced. The use of object-oriented techniques for large projects is covered. Creating appropriate and sufficient tests for test-driven and behavior-driven development is discussed. Students learn how to analyze their programs to detect errors and increase performance.  The various types of automation used in creating a product are introduced.  Students learn about group dynamics and work on a significant project in groups.
+/
+Operating Systems 
+This course provides an introduction to modern computer operating systems, their use, design, development, and implementation. Topics covered include: operating system modes, structuring methods, process and thread scheduling and dispatch, concurrency, inter-process communication, memory management, file system organization (in both stand-alone and networked environments), and system security.  Students are required to write programs that implement some operating system functions.
+/
+Algorithms and Algorithm Analysis
+The emphasis of this course is on the design, analysis, and evaluation of efficient algorithms for a wide variety of computing problems.
+/
+Calculus I
+This is a first course in calculus for science and engineering. The topics covered include derivatives of polynomials, trigonometric, exponential and logarithmic functions, applications of the derivative, the definite integral, and the fundamental theorem of calculus. 
+/
+Computational Matrix Algebra 1
+This course is an introduction to computational matrix algebra. The computations will be done by hand and by using an appropriate software package. The course will include the following topics: matrix operations, determinants, solutions of linear systems of equations, and eigenvalues and eigenvectors.
+/
+Calculus II  
+The topics covered include techniques of integration, applications of the integral and infinite series, including Taylor’s series. 
+/
+Discrete Mathematics for Computer Science 
+This course provides a foundation in mathematical proofs and abstract mathematics in the context of discrete mathematics. Mathematical topics in the course are chosen for their relevance to computer science, and include combinatorics, set theory, graph theory, and recurrence relations.  
+/
+Probability and Statistics
+This is a course in the application and theory of the principles of probability and statistics in the sciences and engineering. It includes descriptive statistics, linear regression, probability, random variables and their distributions, estimation, and tests of hypotheses.
+/
+General Biology I 
+This introductory course serves as the foundation for all other biology courses. Emphasis is placed on cellular and molecular biology, biochemical pathways, and genetics.
+/
+General Biology Laboratory I 
+This course introduces biology laboratory techniques, specifically exploring the scientific method.
+/
+Software Engineering Practices
+This course continues the software engineering emphasis of CS 4250, Software Engineering Principles. Students work in teams and apply software engineering principles and best practices to the development of real-world projects for which the quality of the software products is significant. Some projects have been solicited from external constituents (industry, non-profit organizations, etc.) with progress evaluated in conjunction with constituent representatives.
+/
+Public Speaking
+This course integrates both the theory and practical skills of topic research, composition, delivery, and criticism of public speaking. Skill development includes effective public presentation strategies and audience analysis. Students develop critical listening skills by evaluating their own public-speaking style, as well as the effectiveness of their peers and professional speakers. 
+/
+Introduction to Technical Writing
+This course provides students with the skills to analyze and produce clear and effective technical and scientific documents and materials.  Students determine the style, purpose, content, and format for numerous industry-specific reports and technical support documents.  Students analyze and produce accessible materials for expert, technical, lay, and intercultural audiences.  Students also develop, incorporate, and cite visual elements, including images, tables, and the representation of numeric data, to support the message delivered towards a specific audience.
+/
+Computers, Ethics, and Society 
+The course discusses various ethical frameworks in which to consider issues that computers raise with regard to concepts of personhood, privacy, property. Additionally, it considers the wider social, legal, and political implications of computers as they pertain to the nature of work, professionalism, and the determination of risk and liability.
+/
+Software Product Engineering
+This course surveys fundamental topics necessary for successful software product engineering, including usability engineering, software configuration management (SCM), and an overview of legal issues for software engineers.
+/
+Best Practices in Software Development
+This course exposes the student to current best practices and emerging methodologies in software engineering and software product development. Topics are chosen to reflect the current state of the care and practice. (A typical set of such topics includes: software architecture as a discipline, design patterns, eXtreme Programming, recent technology in security, and aspect-oriented programming.)
+/

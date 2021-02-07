@@ -1,0 +1,112 @@
+/
+Principles of Chemistry I 
+Introduction to basic facts and principles of chemistry including atomic and molecular structure, states of matter and thermodynamics. 
+/
+Principles of Chemistry I Laboratory	
+Laboratory course applying principles of thermodynamics, chemical analysis and laboratory practice.
+/
+English Composition I 
+Extensive and varied experience in developing writing skills, with practice in expressive, reflective, and analytic forms of writing.
+/
+Analytic Geometry-Calculus I 
+Limits; continuity; rates of change; derivatives and applications algebraic, trigonometric, transcendental functions; curve sketching, antiderivatives and integration, areas.
+/
+Tools for Computer Engineering
+Orientation to degree programs and design practice in electrical and computer engineering. Introduction to computer applications and resources for engineering studies.
+/
+English Composition II 
+Designed to develop skills in analyzing and writing persuasive arguments.
+/
+Introduction to Discrete Mathematics
+A foundation course in discrete mathematics with applications. Topics include sets, number systems, Boolean Algebra, logic, relations, functions, recursion, matrices, induction, graphs, and trees.
+/
+Analytic Geometry-Calculus II 
+Methods and applications of integration; sequences, series and power series; Taylor polynomials and Taylor series; parametric and polar coordinates.
+/
+Elementary Classical Physics I 
+Introductory physics for students of science and engineering. Classical kinematics and dynamics as related to contemporary physics. Oscillations, thermodynamics. Vectors and some calculus introduced as needed. 
+/
+Digital Logic Design
+Boolean algebra and simplification of logic functions. Combinational and synchronous sequential circuits. Laboratory projects include design of digital systems with hardware description language and simulation.
+/
+Computer Science I	
+Introduction to problem-solving methods and algorithms. Programming in a high-level language including how to design, code, debug and document programs with good programming style.
+/
+Analytic Geometry-Calculus III 
+Vector algebra, cylindrical, spherical coordinates, vector-valued functions, curvature; functions of several variables, limit, continuity, partial derivatives, differentials, directional derivatives, maxima and minima, multiple integrals, Divergence Theorem.
+/
+Elementary Classical Physics II 
+Fluid mechanics, mechanical and electromagnetic waves and wave phenomena, basic laws of electromagnetism, interference and diffraction, coherence, geometrical and physical optics. Includes laboratory activities.
+/
+Circuits I Laboratory
+Computation, computer aided circuit analysis, circuit theorem confirmation, report writing to include data analysis and reduction, introduction to electrical measurements.
+/
+Circuits I
+DC and AC linear circuit analysis. Operational amplifier circuits. Loop and nodal analyses. Network theorems. Phasor techniques, steady-state AC power, three-phase systems.
+/
+Computer Science II	
+Dynamic memory allocation methods, elementary data structures, internal representations, and associated algorithms. Topics include lists, stacks, queues, trees, and sorting methods
+/
+Introduction to Ordinary Differential Equations	3
+Basic techniques for solving ODEs and systems of ODEs. Analysis of models involving differential equations of first order and simple equations of second order.
+/
+Circuits II Laboratory	
+Computation, computer aided circuit analysis, circuit theorem confirmation, report writing to include data analysis and reduction, intermediate electrical measurements.
+/
+Circuits II	
+Coupled magnetic circuits. Transient and frequency domain analyses of linear circuits. Bode plots, Laplace transforms, transfer functions, resonance, passive and active filters.
+/
+Computer Systems
+Introduces the design and architecture of modern computer systems. Data and instruction representation. Conventional computer organization. Hardware and software design processes. The hardware/software interface.
+/
+Signals & Systems	
+Linear systems theory and transform analysis techniques for continuous and discrete systems. Convolutions, Laplace transforms, continuous and discrete Fourier transforms. Difference equations and Z transforms.
+/
+Physical Electronics	
+PN junction, diffusion, tunneling, FET and BJT device physics, equivalent circuits for electronic devices, time and frequency analysis, biasing and logic families.
+/
+Operating Systems Concepts 
+Processes and threads. Process communication and resource sharing. Deadlock resolution. Memory management. File systems. Introduction to network operating systems.
+/
+Embedded Systems Interfacing	
+Microcontroller structures and embedded peripherals. Interfaces to physical environments. Software access to peripherals including timers, ADCs and DACs. Synchronous and asynchronous communications. Interrupts. Real-time operating systems.
+/
+Design Project Seminar - Computer Engineering	
+Engineering capstone project selection and proposal, including preliminary technical specifications. Professional ethics. Intellectual property. Societal impact issues in engineering design.
+/
+VLSI Design	
+Digital logic circuits. Very large scale integration (VLSI) fabrication processes and layout design. Delay and power of digital circuits. Latches and flip-flops in VLSI. Memory design. System-level design issues. Design project.
+/
+Computer Systems Design	
+Design of advanced processors at the microarchitecture level. Pipelining. Superscalar, vector and VLIW architectures. Instruction-level parallelism. Compiler support. Multiprocessor architectures.
+/
+Computer Networks	
+Network architecture and protocol layering. Network design principles, communication protocols, and performance measures. Socket programming, routing, error detection and correction, access control, multimedia networking.
+/
+Digital Signal Processing	
+Signal sampling and reconstruction; data-converter models. Unilateral and bilateral z transforms. Discrete Fourier Transform (DFT); Fast Fourier Transform (FFT). Digital filter structures and design methods.
+/
+Probability and Statistics for Engineers
+Introduction to probability, statistics, random variables, data descriptions, statistical inference, confidence intervals, hypothesis testing, design of experiments, and applications of statistics to engineering.
+/
+Senior Design Project I - Computer Engineering 
+Design and preparation phase of an engineering project. Requires project presentation, approval of a written proposal, and ordering of required parts.
+/
+Computer Architecture
+An introduction to the hardware organization of the computer at the register, processor and systems level. In-depth study of the architecture of a particular computer system family.
+/
+Compiler Design
+Techniques used in constructing compilers, including lexical and syntactic analysis, parsing techniques, object code generation and optimization. 
+/
+Wireless Communications
+Theory and analysis of wireless communication systems, wireless propagation, multiple access, modulation, demodulation, multipath channel characterization, diversity, cellular and PCS services and standards.
+/
+Digital Communication
+Introduction to digital communications theory and systems. Sampling, formatting and baseband communications. Digital modulation techniques and optimal receivers. Error performance analysis. Error control.
+/
+VLSI Design & Automation
+Methodologies for automated design of VLSI systems. Computer-aided design tools and algorithms. Design for low power, high performance, testability. Research topics in VLSI design.
+/
+Networked Embedded Systems
+Foundations for design and deployment of asynchronous distributed systems. Wireless sensor-actuator systems. New frontiers in distributed systems including communication, localization, synchronization, failure detection and performance analysis.
+/

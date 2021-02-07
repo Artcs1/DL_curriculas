@@ -1,0 +1,121 @@
+﻿/
+Network Analysis I. 
+Modeling and analysis of electrical networks. Basic network theorems. Sinusoidal steady state and transient analysis of RLC networks and the impedance concept.
+/
+Discrete-Time Signals and Systems. 
+Analysis of discrete-time linear-time-invariant (DTLTI) systems in the time domain and using z-transforms.  Introduction to techniques based on Discrete-Time, Discrete, and Fast Fourier Transforms. Examples of their application to digital signal processing and digital communications.
+/
+Classical Physics Laboratory. 
+Electricity and magnetism.
+/
+Organization of Digital Computers Laboratory. 
+Specification and implementation of a processor-based system using a hardware description language such as VHDL. Hands-on experience with design tools including simulation, synthesis, and evaluation using testbenches.
+/
+Senior Design Project I.
+Teaches problem definition, detailed design, integration, and testability with teams of students specifying, designing, building, and testing complex systems. Lectures include engineering values, discussions, and ethical ramifications of engineering decisions.
+/
+Communications in the Professional World. 
+Upper-division technical writing course including the development of presentation skills. Effective communication with a range of audiences. Recognition of ethical and professional responsibilities for engineers.
+/
+Introduction to Probability and Statistics for Computer Science. 
+Introduction to the basic concepts of probability and statistics with discussion of applications to computer science.
+/
+Intermediate Programming. 
+Intermediate-level language features and programming concepts for larger, more complex, higher-quality software. Functional programming, name spaces, modules, class protocols, inheritance, iterators, generators, operator overloading, reflection. Analysis of time and space efficiency.
+/
+Systems Engineering and Technical Communications.
+Introduces systems engineering concepts, including specifications and requirements, hardware and software design, integration, testing, and documentation. Emphasizes organization and writing of reports and effective presentations.
+/
+Concepts in Programming Languages I. 
+In-depth study of several contemporary programming languages stressing variety in data structures, operations, notation, and control. Examination of different programming paradigms, such as logic programming, functional programming and object-oriented programming; implementation strategies, programming environments, and programming style.
+/
+Introduction to Linear Algebra. 
+Systems of linear equations, matrix operations, determinants, eigenvalues and eigenvectors, vector spaces, subspaces, and dimension.
+/
+Data Structure Implementation and Analysis. 
+Focuses on implementation and mathematical analysis of fundamental data structures and algorithms. Covers storage allocation and memory management techniques.
+/
+Electronic Devices and Circuits.  
+A first course in the design of Very Large Scale Integrated (VLSI) systems. Introduction to CMOS technology; MOS transistors and CMOS circuits. Analysis and synthesis of CMOS gates. Layout design techniques for building blocks and systems. Introduction to CAD tools.
+/
+Introduction to Programming. 
+Introduction to fundamental concepts and techniques for writing software in a high-level programming language. Covers the syntax and semantics of data types, expressions, exceptions, control structures, input/output, methods, classes, and pragmatics of programming.
+/
+Single-Variable Calculus.  
+Introduction to derivatives, calculation of derivatives of algebraic and trigonometric functions; applications including curve sketching, related rates, and optimization. Exponential and logarithm functions.
+/
+Computer Networks. 
+Computer network architectures, protocols, and applications.  Internet congestion control, addressing, and routing. Local area networks. Multimedia networking.
+/
+Single-Variable Calculus. 
+Definite integrals; the fundamental theorem of calculus. Applications of integration including finding areas and volumes. Techniques of integration. Infinite sequences and series.
+/
+Digital Signal Processing. 
+Nature of sampled data, sampling theorem, difference equations, data holds, z-transform, w-transform, digital filters, Butterworth and Chebychev filters, quantization effects.
+/
+Senior Design Project II.  
+Teaches problem definition, detailed design, integration, and testability with teams of students specifying, designing, building, and testing complex systems. Lectures include engineering values, discussions, and ethical ramifications of engineering decisions.
+/
+System Software. 
+Multiprogramming, interrupt, processes, kernel, parallelism, critical sections, deadlocks, communication, multiprocessing, multilevel memory management, binding, name management, file systems, protection, resource allocation, scheduling. Experience with concurrent programming, synchronization mechanisms, interprocess communication.
+/
+Introduction to Software Engineering. 
+Concepts, methods, and current practice of software engineering. Large-scale software production, software life cycle models, principles and techniques for each stage of development.
+/
+Discrete Mathematics for Computer Science. 
+Covers essential tools from discrete mathematics used in computer science with an emphasis on the process of abstracting computational problems and analyzing them mathematically. Topics include mathematical induction, combinatorics, and recurrence relations.
+/
+Organization of Digital Computers.  
+Building blocks and organization of digital computers, the arithmetic, control, and memory units, and input/out devices and interfaces. Microprogramming and microprocessors.
+/
+Embedded Software.  
+Principles of embedded computing systems: embedded systems architecture, hardware/software components, system software and interfacing, real-time operating systems, hardware/software co-development, and communication issues. Examples of embedded computing in real-world application domains. Simple programming using an embedded systems development environment.
+/
+Introduction to Digital Logic Laboratory. 
+Introduction to common digital integrated circuits: gates, memory circuits, MSI components. Operating characteristics, specifications, applications. Design of simple combinational and sequential digital systems (arithmetic processors game-playing machines). Construction and debugging techniques using hardware description languages and CAD tools.
+/
+Principles of Operating Systems. 
+Principles and concepts of process and resource management, especially as seen in operating systems. Processes, memory management, protection, scheduling, file systems, and I/O systems are covered. Concepts illustrated in the context of several well-known systems.
+/
+Classical Physics Laboratory.  
+Experiments related to lecture topics in Physics 7C. Materials fee.
+/
+Multivariable Calculus.  
+Differential and integral calculus of real-valued functions of several real variables, including applications. Polar coordinates.
+/
+Compilers and Interpreters.
+Introduction to the theory of programming language processors covering lexical analysis, syntax analysis, semantic analysis, intermediate representations, code generation, optimization, interpretation, and run-time support.
+/
+Embedded Software Laboratory. 
+Embedded Software Laboratory. 
+/
+Classical Physics.
+Electricity and magnetism.
+/
+Programming with Software Libraries. 
+Construction of programs for problems and computing environments more varied than in I&C SCI 31. Using library modules for applications such as graphics, sound, GUI, database, Web, and network programming. Language features beyond those in I&C SCI 31 are introduced as needed.
+/
+Introduction to Digital Systems. 
+Digital representation of information. Specification, analysis, design and optimization or combinational and sequential logic, register-transfer components and register-transfer systems with datapaths and controllers. Introduction to high-level and algorithmic state-machines and custom processors.
+/
+Digital Signal Processing Design and Laboratory.  
+Design and implementation of algorithms on a DSP processor and using computer simulation. Applications in signal and image processing, communications, radar, etc.
+/
+Classical Physics.  
+Topics include force, energy, momentum, rotation, and gravity.
+/
+Programming in C/C++ as a Second Language. 
+An introduction to the lexical, syntactic, semantic, and pragmatic characteristics of the C/C++ languages for experienced programmers. Emphasis on object-oriented programming, using standard libraries, and programming with manual garbage collection.
+/
+Elementary Differential Equations.  
+Linear differential equations, variation of parameters, constant coefficient cookbook, systems of equations, Laplace tranforms, series solutions.
+/
+Design and Analysis of Algorithms. 
+Techniques for efficient algorithm design, including divide-and-conquer and dynamic programming, and time/space analysis. Fast algorithms for problems applicable to networks, computer games, and scientific computing, such as sorting, shortest paths, minimum spanning trees, network flow, and pattern matching.
+/
+Boolean Logic and Discrete Structures.
+Relations and their properties; Boolean algebras, formal languages; finite automata.
+/
+Python Programming and Libraries (Accelerated).
+Introduces Python syntax and semantics for fundamental programming concepts.  Constructing programs for varied problems and environments. Using library modules for applications such as graphics, sound, GUI, database, Web, and network programming. Accelerated course for students with previous programming background.
+/

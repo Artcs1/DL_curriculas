@@ -1,0 +1,115 @@
+/
+English Composition I
+A study of logical and rhetorical principles and organizational strategies that contribute to effective writing. Honors section available
+/
+English Composition II
+An expanded study of and practice in stylistics, logic, and research as contributions to analytical writing
+/
+Humanities I
+Humanities I
+/
+Fine Arts I
+Fine Arts I
+/
+Social I 
+Social I
+/
+Calculus I
+Analytic geometry; functions; limits; continuity; derivatives of algebraic functions; applications of the derivative
+/
+Calculus II
+Antidifferentiation; the definite integral; applications of the definite integral; differentiation and integration of transcendental functions.
+/
+Calculus III
+Further methods of integration; polar coordinates; vectors; infinite series.
+/
+Calculus IV
+Differential calculus of functions of several variables; multiple integration; vector calculus.
+/
+Introduction to Linear Algebra
+Vector spaces; matrices; linear transformations; systems of linear equations; characteristic values and characteristic vectors
+/
+Differential Equations I
+Origin and solution of differential equations; series solutions; Laplace Transform methods; applications
+/
+Engineering Statistics I
+Introduction to statistical analysis. Topics include: probability, probability distributions, data analysis, parameter estimation, statistical intervals, and statistical inferences
+/
+Chemistry I
+The principles of atomic and molecular structure, energetics, dynamics, and synthesis as related to chemical systems
+/
+Investigations in Chemistry I
+Selected experiments to illustrate fundamentals of chemistry
+/
+Physics I
+Calculus-based course emphasizing Newtonian mechanics and conservation laws
+/
+Physics II
+Calculus-based introduction to gravitation, electricity and magnetism. Laboratory emphasizes concepts of force and motion, conservation laws, and simple electrical circuits.
+/
+Introduction to Computer Programming
+Introductory problem solving and computer programming using object-oriented techniques. Theoretical and practical aspects of programming and problem solving
+/
+Intermediate Computer Programming
+Three hour laboratory. Object-oriented problem solving, design,and programming. Introduction to data structures, algorithm design and complexity. 
+/
+Data Structures and Analysis of Algorithms
+Non-linear data structures and their associated algorithms. Trees, graphs, hash tables, relational data model, file organization. Advanced software design and development
+/
+Discrete Structures
+Concepts of algorithms, induction, recursion,proofs, topics from logic,set theory, combinatorics, graph theory fundamental to study of computer science
+/
+Distributed Client/Server Programming
+Design of software systems for distributed environments. Multithreaded and server-side programming,
+/
+Operating Systems I
+Historical development of operating systems to control complex computing systems; process management, communication, scheduling techniques;file systems concepts and operation; data communication, distributed process management
+/
+Introduction to Analysis of Algorithms
+Study of complexity of algorithms and algorithm design. Tools for analyzing efficiency; design of algorithms, including recurrence, divide-and-conquer, dynamic programming and greedy algorithms
+/
+Introduction to ECE Design I
+Introduction to the profession, college, department, and program. Survey of ECE technical knowledge and tools crucial in early ECE courses. Introduction to engineering design, teaming, and technical communication
+/
+Introduction to ECE Design II
+Technical communication (including engineering team communication) and engineering ethics. Project planning and management. Documenting, designing, prototyping, testing, and oral presentations of an engineering design project
+/
+Introduction to Electronic Circuits
+Fundamentals of electric circuits and network analysis. DC and AC circuits. AC power. Ideal transformers. Frequency response of networks. Ideal operational amplifiers and circuits
+/
+Intermediate Electronic Circuits
+First-order and second-order transient analysis. Operation circuit models and application of diodes and field-effect and bipolar junction transistors. Electronic instrumentation
+/
+Advanced Electronic Circuits
+Feedback and stability. Operational-amplifier and data-converter circuits. Introduction to CMOS logic circuits. Filters and tuned amplifiers. Signal generator circuits. Power amplifiers
+/
+Signals and Systems
+Modeling of analog and discrete-time signals and systems, time domain analysis. Fourier series, continuous and discrete-time Fourier transforms and applications, sampling, z-transform, state variables
+/
+Digital Devices and Logic Design
+Binary codes, Boolean, algebra, combinational logic design, flip-flops, counters, synchronous sequential logic, programmable logic devices, MSI logic devices, adder circuits
+/
+Microprocessors
+Architecture of microprocessor-based systems. Study of microprocessor operation, assembly language, arithmetic operations, and interfacing
+/
+Embedded Systems
+Advanced topics in embedded systems design using contemporary practice. Interrupt-driven, reactive, real-time, object-oriented, and distributed client/server embedded systems
+/
+CPE Design I
+CPE Design I
+/
+CPE Design II
+CPE Design II
+/
+Computer Architecture
+Designs for the CPU, I/O subsystems, and memory organizations. ALU design and computer arithmetic
+/
+Digital System Design
+Hierarchical digital design using available design software. Computer aided design workstations will be used to give students access to state-of-the-art design techniques
+/
+Data Communications and Computer Networks
+The concepts and practices of data communications and networking to provide student with an understanding of the hardware and software used for data communications
+/
+Technical Writing
+Instruction and practice in technical writing for scientific and engineering fields, emphasizing analysis and development of correspondence, progress and research reports, instruction, and proposals
+/

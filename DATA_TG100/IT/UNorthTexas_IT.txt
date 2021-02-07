@@ -1,0 +1,73 @@
+/
+Computer Science I
+Introduction to computer science and engineering, problem-solving techniques, algorithmic processes, software design and development.
+/
+Computer Science II
+Software design, structured programming, object-oriented design and programming.
+/
+Foundations of Computing
+Conceptual and formal models, efficiency and levels of abstraction as used in the field of computing, big-Oh notation, combinatorics and conditional probability, basic operations of sets, functions, relations, trees and graphs, regular expressions, deterministic finite automata and non-deterministic finite automata to describe patterns in strings.
+/
+Foundations of Data Structures
+Data structures and formalisms used in computing, such as asymptotic behavior of algorithms, graph, table, relational and set data structures, context-free grammars to describe patterns, assertions in propositional logic form, amortized analysis to evaluate efficiency of data structures such as splay trees and O(1) expansion of tables.
+/
+IT Project Management
+Provides students with the tools and techniques needed to manage a wide variety of IT systems projects, including software design and development, IT systems design and installation, network management and support, and others. Students develop and practice skills through the use of case studies and other project-based exercises.
+/
+Human Computer Interfaces
+Human-Computer Interaction (HCI). Methods for designing, prototyping, and evaluating user interfaces for computing applications. Human capabilities, interface technology, interface design methods, and interface evaluation tools and techniques.
+/
+Internet Programming
+Covers Internet programming in depth, including client-server peer-to-peer, and web applications. Primary goal is to help students understand the principles of how distributed applications are built, while also giving them practical experience in creating common Internet applications.
+/
+Introduction to Computer Networks
+Introduction to data communications; asynchronous, synchronous, networks and current technology.
+/
+Introduction to Computer Security
+Security goals, threats and vulnerabilities. Cryptography, program security and operating system security issues. Basic network security. Planning, policies and risk analysis.
+/
+Principles of Systems Programming
+Introduction to the design and operation of systems software. Analysis is made of current system software technology, including operating systems, language translation systems and file systems.
+/
+Enterprise Systems Architecture and Design
+Introduces upper division IT students to concepts of system architecture, design and software engineering that are needed for career opportunities as software, system and business analysts. Topics include enterprise architecture design, requirements analysis, software and systems lifecycle methodologies, Unified Modeling Language, analysis and design methodologies and other related topics. Project activities expose all students to the full design and specification of IT systems to meet a variety of business and technical problems, as well as prepare them for their capstone course experiences.
+/
+Social Issues in Computing
+The effect of computer science and engineering on the home and workplace, with emphasis on the role of computer professional in modern society.
+/
+Fundamentals of Database Systems
+Logical and physical database system organization; logical models; design issues; secondary storage considerations.
+/
+Information Technology Capstone I
+Information Technology Capstone I
+/
+Information Technology Capstone II
+Information Technology Capstone II
+/
+Systems Administration
+Prepares students with an understanding of virtual machines with universal principles that apply to all operating systems structure and operation including the concepts of processes, resource and file management and performance. Students also develop an understanding of the pervasive use of Unix-based operating systems in the design of various systems such as switches, routers, load balances, wireless controllers and network management platforms to provide various services to support interaction between computer-based systems.
+/
+Introduction to Network Administration
+Students explore topics in network administration in theoretical and practical ways, study different software platforms, control, shared resources, administration, security, anti-virus procedures and methodologies.
+/
+Database Administration
+Database administration skills covering installation, configuration and tuning a database; administering servers and server groups; managing and optimizing schemas, tables, indexes, and views; creating logins; configuring permissions; assigning roles, and performing other essential security tasks, backup and recovery strategies, automation and maintenance.
+/
+Probability Models
+Probability theory, discrete and continuous random variables, Markov chains, limit theorems, stochastic processes, models for phenomena with statistical regularity.
+/
+Calculus I
+Limits and continuity, derivatives and integrals; differentiation and integration of polynomial, rational, trigonometric, and algebraic functions; applications, including slope, velocity, extrema, area, volume and work.
+/
+General Chemistry for Science Majors
+Fundamental concepts, states of matter, periodic table, structure and bonding, stoichiometry, oxidation and reduction, solutions, and compounds of representative elements.'
+/
+Mechanics
+Laws of motion; inertia, acceleration, force, energy, momentum and angular momentum. Rotational and oscillatory motion. Gravitation.
+/
+Technical Writing
+Expository writing, especially for science, pre-engineering and business students.
+/
+General Chemistry for Engineering Majors
+Fundamental concepts, atomic structure, periodic table, stoichiometry, states of matter, chemical bonding, new materials, solutions, thermodynamics, reaction rates, equilibrium, electrochemistry, polymers and nuclear reactions.
+/

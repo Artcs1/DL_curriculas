@@ -1,0 +1,91 @@
+/
+Introduction to Computer Science and Engineering Technology
+This course is the first course in computer hardware and software for CSET majors. Introduction to Single and multi-user operating systems, command-line processing and some internet tools are covered.
+/
+Calculus with Applications to Business and Finance
+An introduction to differential and integral calculus. Topics include limits, derivatives, maxima/minima, indefinite and definite integrals with an emphasis on business applications and technology use.
+/
+Principles Of Macroeconomics
+Explaining the level and the growth of economic activity, its fluctuations and ways of achieving greater stability, including the roles of money, banking and international finance.
+/
+Engineering Technology Orientation
+Overview of careers in engineering technology, information about each program in Engineering Technology, and skills required for success in technological fields, such as computer skills.
+/
+College Composition I
+Explanatory and persuasive writing in both personal and public genres; instruction and practice in generating, focusing, developing, researching and presenting ideas in ways consistent with one's subject, purposes and intended audience.
+/
+Fundamentals Of Electricity
+An introduction to basic analytical techniques for resistive and reactive DC and AC electric circuits, and an introduction to electronic devices, including diodes and transistors.
+/
+Principles Of Microeconomics
+Theories of consumer behavior; determination of input and output; prices and quantities in factor and product markets; analysis of international trade and policy; applications include labor markets and income distribution.
+/
+Natural Sciences Core 
+Natural Sciences Core 
+/
+Science And Technical Report Writing
+Instruction and practice in multiple forms of technical and scientific communication for varied scientific and technical audiences. Emphasis on writing informational and analytical reports and documents in medical, scientific or technical fields. Additional focus on writing for multiple audiences and in different mediums, including online mediums.
+/
+Financial Accounting Information
+This course is an introduction to financial accounting from the perspective of a financial statement user. Where appropriate, it provides a small and mid-sized company's perspective.
+/
+Technical Project Management
+General methodology of managing a technical project from concept to operational use. Emphasis is on the functions and responsibilities of the project manager related to maintaining project control and team management.
+/
+Small Computer Systems
+This course covers the various parts of a Personal Computer and how the hardware and software perform together. Content covers CPU development, various busses, memory devices, connections to peripheral devices, operating systems and additional topics concerned with the PC.
+/
+Accounting For Business Decision-Making
+This course is an introduction to management accounting, including the use and limitations of cost-volume-profit analysis for fundamental decisions concerning products, services and activities.
+/
+Object Oriented Programming and Data Structures
+This course teaches object oriented program design, analysis, and verification with an introduction to data structures including but not limited to list, queue, stack and tree. The course emphasizes Programming Methodology and its impact on programs and the use of Data Abstractions and the implementation of Data Abstractions using classes.
+/
+PC and Industrial Networks
+Current concepts and technologies used with personal computers and PLCs in both industrial (factory-floor) and commercial data networks. Topics include PC networking hardware and software, PLC hardware and programming and PLC networking alternatives.
+/
+Applied Statistics And Design Of Experiments
+Introduction to probability, statistical inference and design of experiments. Topics include confidence intervals, tests of hypothesis, regression, analysis of variance, factorial experimental designs and propagation of experimental errors.
+/
+Client-Server Computing
+Covers client-server architecture and programming techniques. Major topics include two-tier and three-tier client server architectures, programming considerations, cleanlayering, advanced graphical user interface controls, database processing, transaction processing and monitoring.
+/
+Advanced Web Site Design
+HTML forms, creation of static and animated web graphics, Dynamic Fonts, SMIL (Synchronized Multimedia Integration Language) as it relates to G2, Realtext, Realpix and XML. The course also covers Frames, META Tags, Optimizing Speed, Cookies, Imagemapping (from both sides), HTML, tables and Shockwave.
+/
+Information Technology Management	
+The role of computers and information systems in business decision-making will be carefully examined. The student is expected to develop computer-based applications for business decision making and problem solving through the use of state of the art software, including advanced spreadsheets, database and web design tools.
+/
+Introduction To Database Systems
+In this course, the design and implementation of database management systems are studied. Students will develop significant skills in data modeling, database design and SQL
+/
+Database-Driven Web Sites
+Creation of dynamic Web applications that interact with a database using client-side scripts, server-side scripts and compiled server programs. Includes database fundamentals, scripting language fundamentals and server considerations.
+/
+Client-Side Scripting
+Introduction to the Document Object Model (DOM), JavaScript and VBScript scripting languages, cascading style sheets, browser recognition, browser-specific content, data validation and layers.
+/
+Web Application Development II
+Address web architecture, web server administration and security issues; analyze, design, develop, and implement extensive database oriented business processes using server-side and client-side processing.
+/
+SERVER-SIDE PROGRAMMING
+Covers Common Gateway Interface (CGI) programming on the Internet using the most popular scripting languages. Topics include client-side programs, server-side programs, distributed database creation and searching.
+/
+Managerial And Behavioral Processes In Organizations
+Introduction to managerial and organizational concepts designed to develop knowledge, attitudes, techniques and skills in creating and managing innovative, adaptive organizations. Interactive exercises, videos, cases, discussions and lectures will be used.
+/
+Computer Networks And Data Communication
+Computer network architectures and their application to industry needs. Major topics include vocabulary, hardware, design concepts, current issues, trends, hardware, multi-user operating systems, network protocols, local and wide area networks, intranet and internet communications, analog and digital data transmissions.
+/
+Web Server Administration
+Installation and configuration of the web server operating systems (e.g., UNIX, Windows NT), installation and administration of web daemon (e.g., Apache, Microsoft IIS). Site management, including file and directory hierarchy, web log analysis, installation and configuration of various utilities for gopher, ftp, text ending and email.
+/
+Principles Of Manufacturing And Service Systems
+This course provides an overview of the functions, problems, solution techniques and decision making processes within the manufacturing and service environment. Topics include concept of supply chain, sales and operations planning, MRP, materials management, quality management, and project management.
+/
+Applied Programming Languages
+How to select the most appropriate language for a specific engineering technology application. Topics include comparison of programming languages by evolution, formal specifications, structures, features, application domains, programming paradigms, implementation of syntax, semantics and program run-time behavior.
+/
+Senior Technology Capstone
+A comprehensive problem in engineering technology is assigned to a group of students who work together as a team to present a solution in a formal written and oral report.
+/

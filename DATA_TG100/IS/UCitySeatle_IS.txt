@@ -1,0 +1,254 @@
+/
+Computer Science I - C++
+This course provides an introduction
+to programming using the Standard
+C++ programming language. Students
+learn the basic concepts of assignment,
+iteration, and looping. The course
+includes extensive coverage of objects
+and the concepts of object-oriented
+programming. 
+/
+Introduction to Web Design
+The course develops a student’s
+understanding and skills in web
+development and script programming
+to create dynamic websites. The course
+is an introductory course and builds a
+fundamental working knowledge of web
+technology and the ability to create a
+website. Students will apply knowledge of
+computer operation and basic symbolic
+logic to create a dynamic website.
+Students completing this course will have
+an understanding of the operation and
+construction of a dynamic website.
+/
+Fundamentals of Computing
+This course is designed to provide
+an overview of the fundamentals of
+computing. Emphasis is placed on
+the five basic areas of Information
+Technology (IT): applications,
+platforms, development, data, and
+communication. Students will develop
+their understanding of basic IT concepts,
+and delve into Information Technology
+planning and analysis through practical
+application of current techniques and
+tools for building a website.
+/
+Precalculus
+This course covers a review of algebra
+and geometry; linear, quadratic, and
+polynomial functions and their graphs;
+exponential and logarithmic functions;
+systems of equations and inequalities;
+linear programming; and sequences, sets,
+counting, permutations, combinations,
+and probability. 
+/
+Foundational Statistics
+This course introduces students to the
+study of basic probability, descriptive
+and inferential statistics, and decisionmaking. Through various learning
+activities, students will explore concepts
+such as measures of central tendency and
+dispersion, correlation, regression, discrete
+and continuous probability distributions,
+and hypothesis testing.
+/
+Calculus
+MATH 151 (CM) or (NS) 5 Credits
+This course covers the basic concepts
+and theory of differential and integral
+calculus of one variable, with emphasis
+on applications to business and
+economics. Additional applications
+are drawn from the natural and social
+sciences. 
+/
+Introduction To Functions Of Management
+Introduction to planning, organizing,
+coordinating, staffing, directing,
+budgeting, controlling, and evaluating
+functions of management; leadership
+roles and styles, and development of
+individual and group effectiveness;
+managing conflict and change; and the
+human aspects of management.
+/
+Introduction to Marketing
+Students are introduced to fundamental
+concepts involved in marketing an
+organization. They will learn the following
+strategies: target marketing, marketing
+mix, new product development,
+competition, pricing, positioning strategy,
+SWOT analysis and market research.
+Students practice applying marketing
+strategies that support and drive strong
+businesses. 
+/
+Critical Thinking 
+Critical Thinking 
+/
+Interpretation of Financial Statements
+Interpretation of Financial Statements
+focuses on the analysis of publicly issued
+financial statements for decision making,
+and is taught from a user perspective.
+Students will learn to read, understand,
+and analyze a set of financial statements
+in a broad, decision-making context. 
+/
+Operations Management
+Operations Management
+explores operations management in the
+manufacturing and service environments.
+/
+Business Economics
+Applies micro and macro-economic theories to
+the real world. Topics include: supply and
+demand; market structure; policy issues
+such as income distribution, government
+regulation, and the environment;
+business cycles; money and monetary
+policy; and the international economy. 
+/
+Information Systems
+This course will cover information
+systems taxonomies and general
+applications such as CRM, SCM,
+e-commerce, ERP, business intelligence,
+knowledge management, finance and
+accounting, personal productivity,
+computer supported cooperative work
+(groupware), and global systems.
+/
+Introduction to Project Management
+Utilizes a real team project to manage a
+project’s life cycle. Emphasis is placed on
+activity networks, managing resources, and
+creating control mechanisms that minimize
+risk. 
+/
+Data Management Communications and Networking
+This course develops student
+understanding of a model of Information
+Systems composed of data acquisition,
+data transport, data manipulation, data
+storage and data display. The use of
+data to develop business intelligence,
+competitive advantage, and support
+business operations through lean
+supply chains, delivery, and oversight
+has become an increasingly critical
+component in business success. 
+/
+Information Security
+Information security is an increasingly vital
+concern in today’s highly networked digital
+world. This course provides an overview
+of the field including the objectives of
+information security - Confidentiality,
+Integrity, and Availability (CIA) and the
+inherent conflicts in these objectives.
+/
+Systems Analysis and Design
+This course examines systems analysis
+and design using the Software
+Engineering Body of Knowledge
+(SWEBOK) as a foundation. The concepts
+include data, process, and network
+modeling along with frameworks such as
+the Zachman Framework and The Open
+Group Architectural Framework (TOGAF).
+Object technologies will be built into
+the program along with design patterns
+/
+C++ - Intermediate
+In this course students further their
+understanding of the C++ programming
+language, applying it to the managed
+code environment, databases and
+Windows programming. 
+/
+IT Service Management
+This course focuses on Information
+Technology Service Management
+(ITSM) best practices as defined by
+Information Technology Infrastructure
+Library (ITIL), Capability Maturity Model
+Integration (CMMI), Six Sigma, and Total
+Quality Management (TQM). 
+/
+IT Ethics
+introduces students to the social, ethical,
+and policy dimensions of technology
+in organizations, schools and society.
+This course examines access and equity
+issues, censorship, privacy, piracy, hacking,
+commercialization, literacy, online
+communication, Intellectual Property,
+crime, Civil Liberties, Social Media, and
+developing a “global community” through
+the Internet.
+/
+Internet Technologies
+This course covers Internet technology
+including: physical devices and networks,
+protocols and services, and common
+network operating systems. The course
+focuses on a broad understanding of
+how to use and implement networks,
+including an introduction to physical and
+logical network design. 
+/
+Database Technologies
+This course covers data modeling, design,
+normalization, change control, backup /
+recovery, data dictionaries, client server
+architecture, SQL, Relational and Object
+Databases, MS SQL Server 2008, Oracle,
+and mySQL (open source). The emphasis
+is on understanding why information
+resources are of critical importance
+and how to manage them.
+/
+Web Programming
+The course brings together student skills
+in web development, programming and
+databases to create dynamic websites
+which incorporate the use of databases,
+web services, and mash-ups.
+/
+Quality Assurance
+This course covers software testing
+throughout the entire life cycle of
+systems development. In addition, peer
+reviews, AARs, lessons learned, and
+audits will be covered. 
+/
+Software Process Management
+This course covers software process
+improvement concepts including CQI,
+CMMI, and PCMM. These concepts
+illustrate how to assess the current state
+of software development and provide
+practice in how to systematically improve
+and manage the software development
+process using national and international
+standards
+/
+Technology Capstone
+This cumulative capstone course
+provides students an opportunity to
+apply, integrate, and demonstrate
+knowledge and skills they have acquired
+throughout their undergraduate
+technology education. This course is
+designed to be taken at the completion,
+or near the completion, of a student’s
+undergraduate technology program. 
+/

@@ -1,0 +1,159 @@
+Introduction to Computer Programming
+Introduction to object-oriented program design and development. Principles of algorithm formulation and implementation.
+/
+Introduction to Computer Systems
+How a computer works, from hardware to high-level programming. Logic circuits, computer instructions, assembly language, binary arithmetic, C programming, program translation, data structures, and algorithm analysis.
+/
+Data Structures and Algorithms
+Fundamental data structures and algorithms of computer science; basic algorithm analysis; recursion; sorting and searching; lists, stacks, queues, trees, hashing; object-oriented data abstraction.
+/
+Discrete Structures
+Introduction to grammars and parsing; predicate and propositional logic; proof techniques; sets, functions, relations, relational data model; graphs and graph algorithms.
+/
+Advanced Programming Concepts
+Advanced software development with an object-oriented focus. Design, implementation, and testing of several large programs in a Java and Linux environment using current technologies.
+/
+Introduction to Computational Theory
+Finite state automata, regular languages, lexical analysis; push-down automata, context-free languages, parsing; Turing machines and unrestricted grammars; computability complexity, NP-completeness.
+/
+Algorithm Design and Analysis
+A study of the design and analysis of algorithms as solutions to problems, including dynamic programming, linear programming, greedy algorithms, divide-and-conquer algorithms, graph algorithms, and intelligent search algorithms.
+/
+Systems Programming
+Systems programming principles and concepts, including Linux systems programming, multiprocessing, concurrency, exceptional control flow, caching, sockets, protocols, and non-blocking I/O.
+/
+Software Design and Testing
+Principles of software design, design patterns, design representation, refactoring. Principles of software quality assurance and testing. Development and testing tools.
+/
+Ethics and Computers in Society
+Societal impact of computer technology, the computer scientist's place in society, ethical issues. Reading, discussion, and writing seminar.
+/
+Technical Communication
+Effective processes of written, oral, and visual technical communication, including collaborative processes. Writing for academic and professional audiences.
+/
+Calculus 1
+Differential and integral calculus: limits; continuity; the derivative and applications; extrema; the definite integral; fundamental theorem of calculus; L'Hopital's rule.
+/
+Calculus 2
+Techniques and applications of integration; sequences, series, convergence tests, power series; parametric equations; polar coordinates.
+/
+Elementary Linear Algebra
+Linear systems, matrices, vectors and vector spaces, linear transformations, determinants, inner product spaces, eigenvalues, and eigenvectors.
+/
+Introduction to Newtonian Mechanics
+Linear, circular, and projectile motion; their prediction from forces and torques. Conservation of energy and momentum. Weekly lab.
+/
+Probability Theory
+Axiomatic probability theory, conditional probability, discrete / continuous random variables, expectation, conditional expectation, moments, functions of random variables, multivariate distributions, laws of large numbers, central limit theorem.
+/
+Principles of Statistics
+Graphical displays and numerical summaries, data collection methods, probability, sampling distributions, confidence intervals and hypothesis testing involving one or two means and proportions, contingency tables, correlation and simple linear regression.
+/
+Statistics for Engineers and Scientists
+The scientific method; probability, random variables, common discrete and continuous random variables, central limit theorem; confidence intervals and hypothesis testing; completely randomized experiments; factorial experiments.
+/
+Concepts of Programming Languages
+Principles and concepts characterizing high-level computer programming languages, process and data abstration, encapsulation, inheritance, functional programming, logic programming, scanners, and parsers.
+/
+Operating Systems Design
+Principles and concepts of operating systems design and the implementation of an operating system.
+/
+Introduction to Graphics and Image Processing
+Introduces basic concepts of computer graphics and image processing. Includes characteristics of physical cameras and displays; color models; basic image processing algorithms: 2D and 3D homogeneous coordinate transformations; fundamentals of 3D rendering geometry; lighting and shading: image warping and texture mapping; and frequency-domain processing.
+/
+Topics in Computer Science
+Undergraduate level subjects as announced before each semester.
+/
+Linear Programming and Convex Optimization
+Optimization, problem formulation, and solution algorithms, including simplex and interior point methods. Applications from control, data mining, finance, game theory, learning, network flow, operations research, and statistical estimation.
+/
+Bioinformatics
+Computational methods for analyzing biological systems. Dynamic programming, Markov models, Neural Networks, and Bayesian analysis are used to predict secondary structure, tertiary structure, and active sites for drug docking given molecular DNA sequence data.
+/
+Software Engineering
+Analysis, design, implementation, and testing of significant software systems.
+/
+Algorithmic Languages and Compilers
+Formal description of algorithmic languages and techniques used in their compilation: semantics, ambiguities, procedures, replication, iteration, recursion.
+/
+Computer Vision
+Introduction to fundamental concepts and algorithms of computer vision, including feature extraction, detection, segmentation, registration, recognition, motion, 3D vision, and image understanding. Applies techniques from image processing, geometry, Bayesian methods, optimization, and machine learning to computer vision problems.
+/
+Database Modeling Concepts
+Database models: relational, deductive, object-oriented. Integrity constraints, query languages, database design.
+/
+Fundamentals of Information Retrieval
+Concepts and terminology of information retrieval (IR) systems. Design methodologies and issues. Fundamental IR models examined: Boolean, Vector Space, Probabilistic models, and evaluation strategies.
+/
+Computer Graphics
+Interactive computer graphics systems programming and architecture.
+/
+Introduction to User Interface Software
+Introduction to software architectures and techniques for graphical user interfaces. Input devices, windowing systems, event-driven programming, interactive geometry.
+/
+Computer Communications and Networking
+Introduction to data communications and computer networking. Communications fundamentals, computer networks, software, architecture, telecommunications, regulation, standards.
+/
+Large-Scale Distributed System Design
+Principles and concepts of designing and building distributed systems. Introduction to architectures for distributed computation. Reliability, availability, and scalability of large applications. Cloud computing and APIs.
+/
+Computer Security
+Introduction to computer security fundamentals: confidentiality, integrity, authentication, and access control. Secret key and public key cryptography, network security protocols, viruses, and fire walls.
+/
+Introduction to Artificial Intelligence
+Introduction to core areas of artifical intelligence; intelligent agents, problem solving and search, knowledge-based systems and inference, planning, uncertainty, learning, and perception.
+/
+Tools for Machine Learning
+Machine learning models and other mechanisms allowing computers to learn and find knowledge from data.
+/
+Parallel Processing
+Theoretical and practical study of parallel processing including multi-core, fine-grained, and clustered architectures, parallel programming languages, and parallel algorithms.
+/
+Verification and Validation
+Foundational topics in verification and validation; the application of logic to building correct systems. Covers logics to formally specify properties of systems, verifications of basic systems, and advanced topics in formal verification for complex systems.
+/
+Advanced Topics in Computer Science
+Advanced undergraduate- and graduate-level subjects as announced before each semester.
+/
+Robust Control
+Introduction to the analysis and design of feedback systems guaranteed to perform well in spite of model uncertainty.
+/
+Web Programming
+Introduction to web application design and implementation. Both front end and back end development with an emphasis on REST architectures.
+/
+Designing the User Experience
+Iterative user centered design of the user experience situated in the mobile and desktop contexts. Students will use their background in software engineering to create prototypes of increasing functional and visual fidelity. The class will situate designing the user experience in the mobile and desktop contexts. About half of in-class time will be spent reviewing and critiquing design artifacts.
+/
+Creating and Managing a Software Business
+Entrepreneurship, idea/opportunity generation, strategic planning, legal organization, product development, marketing/sales, customer support, fund raising, and effective management.
+/
+Computer Systems
+Machine-level representations of programs and data, processor architecture, program performance optimizaton, memory hierarchies, virtual memory, linking, exceptions.
+/
+Real-Time Operating Systems
+Hardware/software interface, real-time kernel internals, implementation of high-level language constructs, issues in real-time application software development.
+/
+Cyber Security and Penetration Testing
+Advanced computer systems security. Vulnerabilities and exploits. System and network attacks. Ethical hacking and penetration testing. Cyber security, cyber weapons, and advanced persistent threats. Legal and regulatory requirements for security and privacy.
+/
+Numerical Methods
+Iterative solvers for linear systems, eigenvalue, eigenvector approximations, numerical solutions to nonlinear systems, numerical techniques for initial and boundary value problems, elementary solvers for PDEs.
+/
+Mathematical Cryptography
+A mathematical introduction to some of the high points of modern cryptography.
+/
+Computing Competitions
+Students work in teams to prepare for and compete in computer science competitions in areas such as programming, data science, and ethical hacking.
+/
+Capstone 1
+Culminating experience based on skills learned in advanced technical courses. Students work in teams to plan, design, test, and demonstrate a major project.
+/
+Capstone 2
+The second semester of a culminating experience based on skills learned in advanced technical courses. Students work in teams to plan, design, test, and demonstrate a major project.
+/
+Undergraduate Research
+Students receive course credit for doing undergraduate research under the supervision of a faculty mentor.
+/
+Undergraduate Special Projects
+Students identify an interesting problem in computer science and solve it with the aid of faculty members.
+/

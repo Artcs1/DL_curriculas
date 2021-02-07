@@ -1,0 +1,85 @@
+/
+Introduction to Computer Science and Engineering Technology
+This course is the first course in computer hardware and software for CSET majors. Introduction to Single and multi-user operating systems, command-line processing and some internet tools are covered. Most of the course focuses on introduction to programming and software development.
+/
+Electrical Instrumentation Laboratory
+Provides an opportunity for freshman Computer Science and Engineering Technology students to gain laboratory experience with basic electrical instrumentation and basic computer components.
+/
+Introduction To Logic
+An introduction to the symbolic analysis of argument components and structures. Topics include definition, syllogistic reasoning, semantics, sentential logic and probability.
+/
+Engineering Technology Orientation
+Overview of careers in engineering technology, information about each program in Engineering Technology, and skills required for success in technological fields, such as computer skills.
+/
+College Composition I
+Explanatory and persuasive writing in both personal and public genres; instruction and practice in generating, focusing, developing, researching and presenting ideas in ways consistent with one's subject, purposes and intended audience.
+/
+Object Oriented Programming and Data Structures
+This course teaches object oriented program design, analysis, and verification with an introduction to data structures including but not limited to list, queue, stack and tree. The course emphasizes Programming Methodology and its impact on programs and the use of Data Abstractions and the implementation of Data Abstractions using classes.
+/
+Technical Physics I
+Topics include measurement, statics, Newton's laws, friction, work, energy, power, impulse and momentum, and simple machines. Includes integrated laboratory.
+/
+Digital Logic Fundamentals
+This course covers the fundamentals of digital logic circuits. Topics include number systems, logic gates, Boolean algebra, logic simplification, Karnaugh maps, adders, multipliers, multiplexers and decoders. Elementary digital circuits including flip-flops, counters, shift registers, memory devices, programmable logic devices and integrated circuits are also covered.
+/
+Science And Technical Report Writing
+Instruction and practice in multiple forms of technical and scientific communication for varied scientific and technical audiences. Emphasis on writing informational and analytical reports and documents in medical, scientific or technical fields. Additional focus on writing for multiple audiences and in different mediums, including online mediums.
+/
+Technical Physics II
+Topics include thermodynamics, electricity, and magnetism, electromagnetic radiation, optics, atomic and nuclear physics. Includes integrated laboratory.
+/
+Calculus For Engineering Technology I
+Differential calculus of algebraic and trigonometric functions, including limits, curve sketching, motion, maxima/minima, related rates, integral calculus of algebraic functions.
+/
+PC and Industrial Networks
+Current concepts and technologies used with personal computers and PLCs in both industrial (factory-floor) and commercial data networks. Topics include PC networking hardware and software, PLC hardware and programming and PLC networking alternatives.
+/
+Assembly Language and Computer Architecture
+This course focuses on the analysis, design, and programming of computer microprocessor architectures. Topics include performance metrics, the design of a machine's instruction set architecture (ISA). This course examines the bride between low-level hardware and executable software, and includes programming in assembly language (representing software programs).
+/
+Fundamentals Of Electricity
+An introduction to basic analytical techniques for resistive and reactive DC and AC electric circuits, and an introduction to electronic devices, including diodes and transistors. No credit towards EET degree.
+/
+Calculus For Engineering Technology II
+Transcendental functions, methods of integration, applications of the integral, polar coordinates, vectors and vector operation, lines and planes, parametric equations.
+/
+Discrete Structures
+An introduction to the discrete structures used in computer science to develop software including proof techniques, Boolean logic, graphs, trees, recurrence relations, functions, combinatorics, and number theory.
+/
+Mechatronics I
+A study of programmable controllers emphasizing program development, logic development and troubleshooting. Emphasis on relays, timers, counters, integer math and scan-dependent programming. Factory floor control concepts are stressed.
+/
+Professional Development
+An introduction to the performance expectations of the engineering profession. Topics covered include resume writing, public speaking, interviewing skills, ethics, social responsibilities and the value of continuing education and professional registration.
+/
+Applied Statistics And Design Of Experiments
+Introduction to probability, statistical inference and design of experiments. Topics include confidence intervals, tests of hypothesis, regression, analysis of variance, factorial experimental designs and propagation of experimental errors.
+/
+Embedded Systems Design
+This course covers different aspects of real-time embedded systems implementation with low-level access to hardware resources of microcontrollers. Topics include but not limited to low-level and high-level microcontroller programming covering assembly and C, I/O access, interrupt-driven programming, timers, serial interfacing, analog-to-digital (ADC), and digital-to-analog (DAC). Uses system design approach, such as flow charts, finite state machines (FSM) while implementing embedded systems is emphasized.
+/
+Numerical Methods And Linear Algebra
+Topics include: matrices, characteristic roots, solution of linear and nonlinear equations, curve fitting, integration, differentiation and numerical solution of ordinary differential equations. MATLAB is introduced and used to analyze problems. Additional topics are chosen from Google's page rank algorithm, Digital Image Compression, and others.
+/
+Introduction to Algorithms
+The course covers topics in basic algorithm design and analysis of traditional algorithms such as sorting algorithms, selection algorithms and graph algorithms, with the focus on building correct and efficient algorithms based on the known algorithms. Besides, advanced data structures such as hash tables, binary search trees are covered in the course.
+/
+Database-Driven Web Sites
+Creation of dynamic Web applications that interact with a database using client-side scripts, server-side scripts and compiled server programs. Includes database fundamentals, scripting language fundamentals and server considerations.
+/
+Software Engineering and Human Interfacing
+An introduction to software engineering processes for technology students. Includes: user requirements, software specification, design approaches, human-computer interfacing, software tools, validation, modification, maintenance, documentation, lifecycle models, and intellectual property considerations.
+/
+Operating Systems
+This course teaches the fundamentals of operating systems concepts. It discusses the following topics: process scheduling, memory management, kernel and user mode, system calls, context switches, inter-process communication, I/O and file systems.
+/
+Computer Networks And Data Communication
+Computer network architectures and their application to industry needs. Major topics include vocabulary, hardware, design concepts, current issues, trends, hardware, multi-user operating systems, network protocols, local and wide area networks, intranet and internet communications, analog and digital data transmissions.
+/
+Applied Programming Languages
+How to select the most appropriate language for a specific engineering technology application. Topics include comparison of programming languages by evolution, formal specifications, structures, features, application domains, programming paradigms, implementation of syntax, semantics and program run-time behavior.
+/
+Senior Technology Capstone
+Senior Technology Capstone
+/

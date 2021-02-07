@@ -1,0 +1,112 @@
+/
+Composing Arguments	
+This a course in the process of writing and revising shorter college-level essays. Classes include lecture, discussion, workshop, and conference methods. By the close of the semester, students will demonstrate their ability to generate, organize, and present writing for the appropriate audience.
+/
+Freshman Composition: Analysis, Research & Documentation	
+The course includes an introduction to library use, research techniques, and conventions of documentation as well as practice in critical reading, thinking, and writing across the disciplines. Students can expect to do a series of shorter writing assignments leading to the longer, documented paper.
+/
+Public Speaking	
+This course acquaints students with the basic theory of the art of public speaking and provides experience in the preparation and delivery of short talks.
+/
+Finite Mathematics for the Management and Social Sciences	
+This course stresses applications in business and the social sciences. The topics covered include evaluation and graphing of functions, the geometry of straight lines, operations on matrices, solving systems of equations, and an introduction to set theory and probability theory.
+/
+Ethics	
+This course provides a survey of alternative ethical viewpoints with a focus on the principles of moral action. The implications of these ethical positions for moral living will be emphasized through discussion of selected contemporary moral issues. Critical thinking about issues of right conduct will be developed.
+/
+Drawing I
+This course introduces drawing as a conceptually based art-making medium. Students practice fundamental drawing skills using a variety of black and white media and techniques while learning to apply line, shape, value, and texture to creative visual problem solving and the expression of ideas.
+/
+American Civilization
+Minimum performance standard scores on reading and writing preassessment placement tests American Civilization is an entry-level American history course designed to trace the roots of contemporary America.
+/
+Principles of Macroeconomics
+An introduction to the principles of economics emphasizing the economy as a whole. Topics include: methods used in economics; gains from exchange and international trade, supply and demand-market outcomes and the impact of government interventions; measurement and determinants of macroeconomic performance–the national income and product, inflation, unemployment, and international balance of payments; business cycles (economic fluctuations) and economic growth; demand-side and supply-side fiscal policy; banking, central banking, and monetary policy; preliminary international financial markets; and open economy macro policy.	
+/
+Principles of Microeconomics	
+An introduction to the principles of economics with an emphasis on individual economic units. Topics include: supply and demand-market outcomes and the impact of government interventions; consumer choice; production theory and economic costs, the theory of the firm; competition and monopoly; resource markets and factor prices; and the role of government in a market economy–the legal framework and property rights, economic efficiency, and competition policy, externalities and environmental protection, provision of public goods, and distribution of income and wealth.1
+/
+Principles of Accounting I	
+This course introduces students to the role of accounting in society and economic decision making. The course focuses on financial accounting and reporting as tools to aid external decision making, financial analysis, and interpretation. Topics covered include: conceptual foundations and principles underlying financial statements; accounting systems overview; analysis and interpretation of financing, investing, and operating activities; and attestation.
+/
+Principles of Accounting II	
+The course focuses on managerial accounting and cost management as tools to aid internal decision making, planning and control. Topics covered include: accounting and management decisions; traditional and activity-based costing systems; planning and control systems; managerial accounting in a global environment; and current approaches including ABM, JIT, value chain, target costing, continuous improvement and quality management.
+/
+Foundations of Information Systems	
+This course is an introduction to fundamental business information systems from a business perspective. It includes computer hardware and software, use of business productivity tools and the Internet, and an introduction to fundamental and functional business information systems.
+/
+Business Analytics I (Descriptive and Predictive)	
+This is a course in the application of statistical inference and translation of quantitative data into information which can be used in business decision making. This course will cover the topics of index numbers, learning curves, confidence intervals, tests of hypothesis, quality control, and regression and correlation analysis, etc., in the context of production and operations management skills needed by American industry.
+/
+Business Analytics II (Prescriptive)	
+This course is an introduction to business management science techniques. The course covers the topics of linear programming, project scheduling, inventory models, decision analysis, queuing theory, and simulation, in the context of management decision-making skills.
+/
+Managerial Finance	
+This is a study of the dynamic environment of financial management using the following analytical skills: financial analysis and forecasting, time value of money, security valuation, capital budgeting, capital structure, the cost of capital, and working capital management.
+/
+Managerial Communications
+Multiple forms of communication within a business environment are studied. Emphasis is placed on writing, listening, speaking, nonverbal and interpersonal communication with internal and external business audiences. Students apply the principles learned to written exercises and oral presentations.	
+/
+Principles of Marketing	
+This course helps students understand marketing, the process through which organizations analyze, plan, implement, and control programs to develop and maintain beneficial exchanges with target buyers. Effective marketing is critical for the long-term success of any business organization because this function ensures that the firm attracts, retains, and grows customers by creating, delivering, and communicating superior customer value.
+/
+Legal Environment of Business I	
+This course is designed to present the legal system as it applies to business. The course includes a discussion of fundamental concepts related to the nature and sources of law and to the resolution of disputes. The course requires analysis of statutes, cases, and regulations of related governmental agencies that address employment, securities, trade and workplace decisions. The law of agency, contracts, organizations and torts is analyzed. Ethical and international aspects of law are treated where appropriate.
+/
+Organizational Management	
+Completion of General Studies Level I composition and communications requirements This course examines, analyzes, and assesses managerial functions and processes as related to business and other organizations. It is designed to prepare students to meet the challenges of a highly dynamic and ever-changing business environment by formulating individual competencies and skills, translating theory into practice, creating critical thinkers, and reflecting on the integration of new concepts and environmental changes into managerial practices.
+/
+Strategic Management	
+This course presents concepts used by managers to develop companies that can prosper in a competitive, global environment. Students are provided the opportunity to apply the concepts and theories of strategic management along with knowledge gained from business courses, general studies, and work experience to the operating and strategic challenges faced by domestic and global organizations.
+/
+Structured Problem Solving in Information Systems	
+This is a problem-solving course in which the tools of structured design are used to design computerized solutions to business problems. Procedural programming languages are used to implement these designs. Emphasis is placed on the implementation of the three logic constructs in procedural languages: sequence, selection, and iteration. Students will be required to develop, test, and debug programs in one or more procedural languages, using a variety of hardware and operating system platforms.
+/
+Fundamentals of System Analysis and Design	
+This course covers the basic concepts of an information system and systems analysis tools and techniques necessary to develop requirements for a business information system. Students will concentrate on systems analysis using current methodologies, technologies, and available tools of analysis, as well as an examination of the effect on systems analysis by business drivers such as globalization, security, privacy, ethics, and collaboration. The course will focus on the analysis phase including requirements definition, modeling, feasibility, project planning and management, and documentation.
+/
+Database Management Systems	
+This course provides an introduction to the design, development, implementation, and manipulation of databases as well as covering the essentials of file processing. The student will create information level database designs from a set of user requirements and implement those designs employing a 4GL database tool. Finally, the student will be introduced to current topics in the database field, which may include Data Warehousing, Distributed Systems, Object-Oriented Systems, Spatial Databases, and Database Driven Web Sites.
+/
+Business Application Development
+This course provides a visual development environment to develop object-oriented, event driven GUI business applications. Visual Basic is a graphical user interface RAD tool for development of Web and Windows applications. Students will complete an application project that requires the analysis of a problem, development of an appropriate program design, creation of a MSIL solution, and a plan for implementation with appropriate documentation.	
+/
+Telecommunications Systems and Networking
+This course is a study of the transmission of data, voice, and video including: transmission systems and associated hardware and software; types of networks; introduction to the OSI model, LANs and WANs; and applications of networks.	
+/
+Information Systems Security	
+This course covers a broad range of topics in security for networked and inter networked computer systems. It examines security and integrity objectives in terms of high-level policy and presents security services used to address those requirements. Network security architectures are analyzed to insure that critical security functions are protected from unauthorized access and modification. Access control in networked systems is examined.
+/
+Systems Analysis and Design
+This course focuses on the development of business systems. The emphasis of this course is on the design and prototyping phases of systems development using as a basis the concepts of problem solving, requirements specification, analysis, and programming from the prerequisite courses. Current methodologies and technologies will be evaluated and implemented in the development process. Information-systems problems will be analyzed and alternative solutions will be proposed using design models, a solution will be selected, and a prototype will be constructed for that solution. Students will evaluate the system using tests they developed and then propose a plan for implementation, maintenance, and training for the system.	
+/
+Web Site Administration
+This course presents the fundamentals of organizing and administering a business Web site with multiple clients. Students will learn how to design effective, business-oriented Web pages. They will be able to give advice to the users, describe how to put Web pages on a server, how to organize the published information, how to plan a business Web site, specify the hardware, choose the daemon, and install and configure a server. In addition, the course will cover the security issues of the internet access, the different protection techniques, how to maintain a site, content and interpretation of the log files, and tools and techniques required to run an effective business site.
+/
+Database Administration
+This course covers the functions and responsibilities of the Database Administrator (DBA) in an organization with an integrated, shared Relational Database Management System (RDBMS). The course will focus on the technical requirements of the DBA including enrolling new users, creating the database, backup and recovery of data, security measures, implementing data integrity, and tuning the database.
+/
+Network Installation and Administration
+This course presents the knowledge and skills necessary to install the network operating system and to perform competently in the role of a network administrator.
+/
+Introduction to Psychology	
+This course presents basic concepts, principles, and methods involved in the scientific study and understanding of human behavior. Attention is given to organic bases of human and other animal behavior with emphasis on perception, learning, motivation, maturation, physical and social adaptation, experimental techniques, individuality and personality, conflict and stress, adjustment and mental health, social behavior, and developmental processes.This course is required course for all psychology majors and minors.
+/
+American National Government	
+This course explores the American political process with emphasis on the federal government: how it is organized, formal and informal sources of power and influence, political attitudes and behavior of American citizens, civil rights, constitutional evolution, factors of change and stability.
+/
+Calculus for the Management and Social Sciences	
+Graphing calculator experience is expected. This course is an introduction to calculus emphasizing applications in business and social sciences. Topics include differentiation, partial differentiation, indefinite and definite integration. 
+/
+Foundations of Artificial Intelligence
+This course includes a study of the theoretical foundations of artificial intelligence, including the algorithms and techniques and programming languages used to design and implement intelligent systems. The topics covered include search strategies, resolution theorem proving, rule-based deduction, expert systems architecture, plan-generating systems, analysis of languages, and machine learning. LISP and PROLOG, the most commonly used AI programming languages, will be covered and used for programming assignments.
+/
+Software Product Engineering
+This course surveys fundamental topics necessary for successful software product engineering, including usability engineering, software configuration management (SCM), and an overview of legal issues for software engineers.
+/
+Best Practices in Software Development
+This course exposes the student to current best practices and emerging methodologies in software engineering and software product development. Topics are chosen to reflect the current state of the care and practice. (A typical set of such topics includes: software architecture as a discipline, design patterns, eXtreme Programming, recent technology in security, and aspect-oriented programming.)
+/
+Advanced Computing: Variable Topics
+This course will include further topics in computer science and its applications. Topics will be chosen from analysis of algorithms, compiler design, simulation, artificial intelligence, or other chosen by the instructor.
+/

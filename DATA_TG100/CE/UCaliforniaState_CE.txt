@@ -1,0 +1,151 @@
+Calculus I
+Limits, derivatives, and applications of differentiation. Definite and indefinite integrals. The fundamental theorem of calculus and applications of integration. 
+/
+Calculus II
+Techniques of integration and improper integrals. Sequences and series. Power series and Taylor polynomials. Parametric and polar coordinates. Vectors and solid geometry.
+/
+Mechanics and Lab
+Mechanics and Lab
+/
+Introduction to Algorithms and programming and Lab
+Introduction to algorithms, their representation, design, structuring, analysis and optimization. Implementation of algorithms as structured programs in a high level languag
+/
+Introduction to Computer Systems and Lab
+Introduction to computer architecture, assembly language programming, system software and computer applications. Number systems and data representation. Internal organization of a computer. Primitive instructions and operations. Assembly language. Integrated lecture/lab environment
+/
+Data Structures and Program Design and Lab
+Introduction to data structures and the algorithms that use them. Review of composite data types, such as arrays, records, strings and sets. Role of the abstract data type in program design. Definition, implementation and application of data structures, such as stacks, queues, linked lists, trees and graphs. Recursion. Use of time complexity expressions in evaluating algorithms. Comparative study of sorting and searching algorithms
+/
+Calculus III
+
+/
+Analytical Reading 
+Analytical Reading 
+/
+Expository Writing
+Expository Writing
+/
+Oral Communication
+Oral Communication
+/
+Social Sciences 
+Social Sciences 
+/
+Arts and Humanities 
+Arts and Humanities 
+/
+Comparative Cultures
+Comparative Cultures
+/
+History and Local Government
+History and Local Government
+/
+Calculus III
+Solid analytic geometry and space curves. Partial differentiation and applications. Multiple integrals. Line integrals and independence of path. Vector calculus including the divergence theorem and Stokes’ theorem.
+/
+Applied Differential Equations
+First order equations. Explicit solution methods, existence and uniqueness for initial value problems. Higher order linear equations. Undetermined coefficients and variation of parameters. Laplace transforms and transform solution methods. Linear first-order systems. Emphasis on engineering applications
+/
+Electricity and Magnetism
+Electric and magnetic fields, circuit theory and electromagnetic induction.
+/
+Physics III
+Third course of a sequence of courses intended primarily for physical science majors. Calculus-based course on thermodynamics, waves and modern physics.
+/
+Quantum Physics I
+Classical background, the wave function, Schroedinger equation, time development and stationary states, 1-dimensional problems, harmonic oscillator and formalism of quantum mechanics.
+/
+Introduction to Linear Algebra
+Systems of linear equations, matrices, determinants, eigenvalues, vector spaces and linear transformations, as well as introduction to inner products on Rn and spectral theorem for symmetric matrices.
+/
+Discrete Mathematics
+Propositional calculus, predicate calculus, set algebra, relations, functions, mappings, fields and number systems.
+/
+Biological Principles I
+Selected topics illustrating major concepts in biology, including the scientific process, heredity, evolution, taxonomy and systematics, ecology and animal behavior. Observations, experiments and demonstrations. Emphasis on unifying biological concepts and methods in science
+/
+Biological Principles II
+Selected topics illustrating major concepts in biology, including biological chemistry, cells, molecular genetics, animal development and plant and animal physiology. Observations, experiments and demonstrations. Emphasis on unifying biological concepts and methods in science
+/
+General Chemistry I
+Basic course in the fundamental principles and theories with special emphasis on chemical calculations. Includes a discussion of the kinetic molecular theory, atomic structures, the periodic table, solutions and oxidation-reduction.
+/
+General Chemistry II
+Introduction to kinetics, gas phase and solution equilibria, electrochemistry, chemical thermodynamics, radio, organic chemistry and the descriptive chemistry of the more familiar metals and nonmetals. Recitation portion deals with problem solving, review of the lecture material and quizzes. (Available for General Education, B1 Physical Science.
+/
+Computer Organization
+Extension of basic addressing concepts to more advanced addressability, such as base register and self-relative addressing. Comparative computer architecture focusing on such organizations as multiple register processors and stack machines. Basics of virtual memory input-output. Introduction to the concept of microprogrammable systems.
+/
+Advanced Data Structures
+Introduction to advanced data structures (particularly persistent structures) using object-oriented design. Main memory structures, hash tables and trees. Architectural foundations for files. Large-scale sorting. Hash-based persistent structures. Indexed files. Introduction to databases.
+/
+Introduction to Operating Systems and System Architecture and Lab
+Examination of the principal types of systems, including batch, multi-programming and time-sharing. Discusses networked system. Considers the salient problems associated with implementing systems, including interrupt of event driven systems, multitasking, storage and database management and input-output. Emphasizes some of the simple algorithms used to solve common problems encountered, such as deadlocks, queue service and multiple access to data
+/
+Introduction to Software Engineering
+Concepts and techniques for systems engineering, requirements analysis, design, implementation and testing of large-scale computer systems. Principles of software engineering for production of reliable, maintainable and portable software products. Emphasis on object-oriented analysis and design techniques. Topics include unit, integration and systems testing, configuration management, software quality assurance practices and an introduction to Computer Aided Software Engineering (CASE).
+/
+Computer Network Software
+Basic software design and analysis considerations in networking computers into coherent, cooperating systems capable of processing computational tasks in a distributed manner. Network topology, routing procedures, message multiplexing and process scheduling techniques.
+/
+Advanced Network Topics and Lab
+Architectural principles: naming, addressing, routing; congestion control, traffic management, QoS; wireless networks; overlay networks and virtualization; queueing theory; measurements; network security; switching and routing; content distribution; and proposals for future Internet structures.
+/
+Theory of Digital Systems and Lab
+Introduction to digital systems. Topics include number systems, binary codes, Boolean algebra, combinational logic design, logic minimization techniques, sequential circuits design, arithmetic operations, data transfers using register transfer notation, memory devices, digital system organization and digital subsystems design
+/
+Engineering Economy
+Engineering Economy
+/
+Electronics I and Lab
+Linear, piecewise-linear and nonlinear models for active devices and their interaction with passive network elements. Characteristics and behavior of operational amplifiers, diodes and transistors. Small signal amplifiers and their analysis at low, midband and high frequencies.
+/
+Linear Systems I
+Systematic development of linear system response models in both the time and frequency domains. Concentrates on continuous system models. Techniques developed include Laplace transform, Fourier analysis, impulse response, convolution and state variables for continuous linear systems.
+/
+Design of Digital Computers
+Structure and operation of a stored-program general-purpose digital computer. Design of computer hardware modules: arithmetic-logic units, control units, input-output units and memories. Basic organizations of digital computers. Fault diagnosis and fault tolerant design of digital systems
+/
+Digital Systems Design with Programmable Logic
+Designed to cover and compare a variety of programmable logic devices with design examples to show their applications. Emphasizes the implementation of digital systems with programmable logic devices and uses VHDL in design description and Vivado software in design simulation and verification. 
+/
+Microprocessor Systems and Lab
+Studies of microprocessor architectures and microcomputer systems. Basic microprocessor software consideration and assembly language programming. Microcomputers system design considerations, applications and design with a microcontroller
+/
+Digital Electronics and Lab
+This course covers models of electronic nonlinear devices and their analysis for digital circuit applications. Additional topics include: the limitations of digital circuits; design of logic gates, memory elements and registers at the device level; system considerations with reference to various technologies including CMOS, Pseudo-NMOS, ECL, Pass Transistor, and dynamic logic circuits; and integrated circuit layout. Graduate students enrolled in the class will be required to develop computer simulation design programs that will produce results that meet a set of circuit specifications. Available for graduate credit
+/
+Probabilistic Systems in Electrical Engineering–Design and Analysis
+Develops and demonstrates techniques and models useful for solving a wide range of problems associated with the design and analysis of various probabilistic systems in electrical engineering application. These include radar, communication systems, sonar, control systems, information theory, computer systems, circuit design, measurement theory, vulnerability analysis and propagation.
+/
+Senior Design Project-Electrical I
+Senior Design Project-Electrical I
+/
+Senior Design Project-Electrical II
+Senior Design Project-Electrical II
+/
+Design of Digital Computers
+Structure and operation of a stored-program general-purpose digital computer. Design of computer hardware modules: arithmetic-logic units, control units, input-output units and memories. Basic organizations of digital computers. Fault diagnosis and fault tolerant design of digital systems
+/
+Pulse and Waveshaping Circuit Design and Lab
+Wave shaping and generation circuits with application to data acquisition and instrumentation. Design of multivibrator circuits, analog-to-digital and digital-to-analog converters, sample and hold amplifiers, and general interface circuits. Graduate students enrolled in the class will be required to develop computer simulation design programs that will produce results that meet a set of circuit specifications.
+/
+System on Chip Design
+Introduction to system on chip design methodology that includes the study of ZYNQ and ARM architectures, AXI Interconnect, memory, real-time operating system (RTOS), peripheral interface and components, and contemporary high-density FPGAs.
+/
+FPGA/ASIC Design Lab
+The lab accompanying course ECE 524 covers modeling of digital systems and electronic circuit design hierarchy and the role of methodology in FPGA/ASIC design. Hardware Description Language, VHDL, simulation and synthesis tools are utilized to elaborate the material covered throughout the course. The lab introduces the systematic top-down design methodology to design complex digital hardware such as FPGAs and ASICs. FPGA and ASIC design flow as well as design optimization techniques are discussed. For FPGAs, Xilinx Virtex and Actel SX architecture are covered.
+/
+Digital Design with Verilog and System Verilog and Lab 
+This course covers the use of Verilog and SystemVerilog Languages (IEEE Std. 1800) for the design and development of digital integrated circuits, including mask-programmed integrated circuits (ASICs) and field programmable devices (FPGAs). Hierarchical top down vs. bottom up design, synthesizable vs. non-synthesizable code, design scalability and reuse, verification, hardware modeling, simulation system tasks, compiler directives and subroutines are all covered and illustrated with design examples
+/
+ASIC Development Lab
+This course is a companion to ECE 527–Application Specific Integrated Circuit Development. In the lab, students apply the lessons of ECE 527 to code circuits in Verilog HDL, synthesize them for varying performance goals and modify the implemented designs for testability. This is accomplished through use of state-of-the-art industrial design automation software.
+/
+Very Large Scale Integrated Circuit Design
+Survey of VLSI technology and very large scale integrated systems. Problems that occur when ordinary circuits are replicated to involve millions of devices. CMOS technology, design styles up to the point of submission for fabrication. Computerized methods with high-density circuits with optimized speed and power consumption. Students perform simple layouts and simulations suitable for extension to a very large scale.
+/
+Data Communication Networks
+Layered network architectures and the TCP/IP model. Link layer error and flow control mechanisms. Packet switching. Wired and wireless local and wide area networks. Medium access control procedures. Internet working with switches, bridges and routers. Routing algorithms. Network security.
+/
+

@@ -1,0 +1,70 @@
+/
+Engineering Seminar I 
+The goal of this course is to prepare the student for study in an engineering discipline. This will include general skills for achieving success in college, in addition to an introduction to the engineering disciplines and the engineering development process.
+/ 	
+Modeling and Simulation 
+An introduction to modeling physical systems and simulating them using scientific computation software. Topics will include modeling dynamic systems, the basic mathematics of modeling physical systems, including difference equations, arithmetic and geometric series, spring-damper systems, open- and closed- loop systems. To support these topics, students will learn to use the MATLAB and Simulink systems, including basic expression evaluation, scalar, vector, and multi-dimensional variables, conditionals, repetition, and writing basic functions.
+/
+Programming for Engineers
+An introduction to programming for electrical engineers. This course is a highly focused introduction to programming in C language. It covers the basics of programming including procedures, variables, types, loop, and control structures. The course introduces basic computing resources, and introduces algorithmic solutions to common engineering and numerical problems.
+/
+Engineering Seminar II 
+This course is focused on the tools that teams use to engineer solutions together. Participation in a team project will help the students learn about and apply current team coordination tools for project management, configuration management, and personal improvement.
+/
+Engineering Seminar III
+The goal of this course is to prepare the student for upper class courses and entering the workplace. Career preparation will include strategies for finding internships and full-time positions and preparing for the hiring process (building a resume, writing a cover letter, and interviewing). Academic preparation will be focused on how to find and read journal publications on a given topic. 
+/
+Statistical Process Control 
+The course will develop the students’ understanding of statistical process control. A variety of control charts will be used for assessing process stability and estimation of process capability. We will also study how engineers design experiments based on statistical quality control for the purpose of controlling, improving, and optimizing the engineering process.
+/
+Fundamentals of Physics I 
+An introductory study of the laws of Mechanics. Topics covered include: Kinematics; Newton’s laws; Energy: The Work-energy theorem, Potential Energy, Power, conservation of Energy; Momentum: Center of Mass, Collisions, Momentum Conservation; Rotational Dynamics; Fluids; Oscillations (Simple Harmonic Oscillator) and Waves. 
+/
+Fundamentals of Physics II 
+Topics covered include: electric force, E-field, Gauss’ law, E-potential; currents and circuits, capacitors, RC circuits; magnetic fields, inductance; AC circuits; EM waves; interference and diffraction of light; geometrical optics: Snell’s law, refracting lenses, mirrors. 
+/
+Electronics 
+Provides an introduction to electronics with an emphasis on practical knowledge required for modern experimental work. Topics include: electrical quantities and their measurement; linear components and circuit theory; diodes and simple transistors, FET circuits; signal conditioning with Op-amps; Instrumentation amplifiers; transducers: e.g. PIN photodiodes; regulated power supplies; other analog integrated circuits ( e.g. multipliers); and A/D conversion and computer interfacing: microcontrollers. 
+/
+Calculus I 
+Introduction to study of differential and integral calculus from algebraic, numerical, and graphical points of view. Concept of limit and applications of derivatives will be covered.
+/
+Calculus II 
+Will include methods of integration, applications and infinite series.
+/
+Calculus III 
+Generalization of single-variable calculus to higher dimensions. Parametric curves and applications covered.
+/
+Discrete Mathematics 
+Study of topics usually associated with analysis of discrete and/or finite mathematical models. Topics from logic, set theory, Boolean algebra, mathematical proof, recursion, induction, combinatorics, discrete probability, matrices and graph theory covered
+/
+Differential Equations
+Topics include modeling with differential equations, initial value problems, first and second order linear differential equations, systems of linear differential equations and numerical methods, as well as material chosen from the following topics: Laplace transforms, advanced numerical methods, and partial differential equations.
+/
+Computer Organization
+Introduces organization and architecture of computer systems from the standard von Neumann model to more recent architectural concepts. Internal structure and organization of a computer lead to significant differences in performance and functionality, giving rise to an extraordinary range of computing devices from hand-held computer to large-scale, high performance machines. To gain a better understanding of exactly how a computer functions, students will write programs in a common assembly language.
+/
+Operating Systems 
+An operating system provides an abstract interface with which programmers can control hardware. Study includes both the use of operating systems (externals) and their design and implementation (internals). Includes laboratories to simulate or experiment with operating system concepts. Topics include overview of operating systems, processes and concurrency, memory management, scheduling, input/output and file systems, system performance evaluation ethics, and security.
+/
+Microcontrollers & Interfaces
+Students will use basic microprocessors and TTL logic components to create embedded solutions to real-world problems including: basic device control, serial and wireless communications, EEPROM storage and retrieval, and interfacing with analog sensors. Includes use of assembly and C languages for software development, and basic electronics skills to connect components.
+/
+Digital and Reconfigurable Computing 
+In-depth study of issues involved in developing software for real-time study and/or embedded systems. Demands and architecture of real-time operating systems. Performance and benchmarking. Issues in designing for performance. Mission-critical and safety-critical systems. Software engineering tools and techniques specific to these systems.
+/
+Engineering Research Methods 
+Students will use basic research strategies, including literature reviews, designing experiments, and conducting tests to complete a research project. Students are expected to produce results that lead to external publication at a conference or in a journal. 
+/
+Engineering Design & Development
+Starting from a given problem, they will plan and design a solution to that problem, and then go on to implement and test their plan. Students demonstrate their capabilities by using the engineering method to analyze the problem to develop requirements, estimate time and costs, perform safety and risk analysis, and develop an implementation plan.
+/
+Computer Networks
+Studies protocol suites, emphasizing the TCP/IP 4-layer model. Topics included are network addresses, sub netting, client/server network programming via the sockets API, network utilities, architecture of packets, routing, fragmentation, connection and termination, connection-less applications, data flow, and an examination of necessary protocols at the link layer, particularly Ethernet. Other topics may include FDDI, wireless, ATM, congestion control, and network security.
+/
+Communications Systems 
+Introduction to analog and digital communication systems. Emphasis on engineering applications of theory to communication system design. Students will study the basics of sampling and quantization, coding, signal detection, and digital modulation schemes including AM, FM, PAM, and PCM. Transmission of information and system performance in the presence of noise will be covered. Students will use state of the art tools such as MATLAB to analyze communication systems limited by bandwidth and noise.
+/
+High Speed Circuits 
+Students will learn about analog and mixed-signal circuits including high-speed clocks, phase-lock-loops, A/D and D/A converters, and amplifiers. Students will also learn about principles of high-speed communications, including energy and band-width constrained waveforms, and various forms of signal modulations, and data encodings 
+/

@@ -1,0 +1,150 @@
+/
+What is a Good Society
+Pacific Seminar 1 introduces students to the intellectual life of the university by exploring the intersection of who we are as individuals and who we are as communities. 
+/
+Topical Seminar on a Good Society
+Topical Seminar on a Good Society
+/
+What is an Ethical Life?
+In their senior year, students take Pacific Seminar 3: What is an Ethical Life? This course is a culminating general education experience and the final component of the university writing requirement. What is an Ethical Life? 3 Units.
+/
+Introduction to Interpersonal Communication
+Introduction to the study of human interaction that occurs in relatively informal, everyday social contexts. Using models, theories, and skills of communication as takeoff points, the course introduces students to dimensions related to trust, openness, listening, perception, language, nonverbal communication, conflict, social influence, and communication competence.
+/
+Political Advocacy
+Principles of persuasion in political contexts in the U.S. (types and characteristics of political audiences, official and unofficial advocacy campaigns, media framing of political news & commentary) from historical and theoretical perspectives. 
+/
+Engineering and Computing Ethics in Society
+Topics include societal needs, personal rights, whistle blowing, conflicts of interest, professional autonomy, risk assessment, sustainable development and the application of engineering codes of ethics.
+/
+English 25 
+Students are expected to write about and discuss various topics that arise in the study of literary works.
+/
+History Goes To Hollywood
+This course examines how films shape our understanding of certain historical events. It will provide students with the tools to watch films critically and to place them in the context of a broader historical time period. 
+/
+United States History I
+This is an introductory level course in U.S. history. It begins with Native American societies at the time of European contact and examines major social, political, and cultural issues in U.S. history through colonial settlement, the American Revolution, the early national period, the antebellum era, the Civil War, and Reconstruction. The course considers dominant cultural traditions and perspectives as well as minority cultures and dissent.
+/
+Calculus I
+Students study differential calculus of algebraic and elementary transcendental functions, anti-derivatives, introductory definite integrals, and the Fundamental Theorem of Calculus. Applications, include the first and second derivative tests and optimization.
+/
+Calculus II
+This course covers techniques and applications of integration, sequences and series, convergence of series, and Taylor Polynomials. 
+/
+Calculus III
+This course introduces multivariable calculus. Topics covered include vector geometry of the plane and Euclidean 3-space; differential calculus of real-valued functions of several variables, as well as partial derivatives, gradient, max-min theory, quadratic surfaces, and multiple integrals. 
+/
+Applied Differential Equations I: ODEs
+Students study ordinary differential equations, first-order equations, separable and linear equations. Also covered are direction fields, second order linear equations with constant coefficients, method of undetermined coefficients, laplace transforms, and unit impulse response and convolutions. Homogeneous systems of first order linear equations and matrix algebra determinants, eigenvalues, eigenvectors are also studied. Existence and uniqueness theorems are discussed and calculators or computers are used to display solutions and applications.
+/
+Principles of Physics I
+Students investigate kinematics, dynamics, oscillations, wave motion and fluids.
+/
+Principles of Physics II
+Students study thermodynamics, electricity, magnetism, light and optics, atomic and nuclear physics, particle physics and cosmology.
+/
+General Biology with Applications for Engineers I
+This course focuses primarily on evolution, plant and animal diversity and ecology. Laboratory activities are integrated into the lecture and are used to reinforce course content with experiential activities and the application of biological principles to an engineering context.
+/
+Discrete Math for Computer Science
+This course is designed to develop skills in deductive reasoning and to apply concepts of discrete mathematics to computer science. Topics include logic, deductive reasoning, mathematical induction, set theory, functions, recurrence relations, combinatorics and probability, graphs, trees, and Boolean Algebra. 
+/
+Discrete and Combinatorial Mathematics
+The fundamental principles of discrete and combinatorial mathematics are covered. Topics include the fundamental principles of counting, the Binomial Theorem, generating functions, recurrence relations and introductory graph theory, that includes trees and connectivity.
+/
+Dean's Seminar.
+This course is a survey of the profession and practice of engineering and computer science. It is an overview of the programs and methodologies of the School of Engineering and Computer Science that includes educational requirements, professional and career opportunities, introduction to the history of engineering and computing, and entrepreneurship. Hands-on activities and guest lecturers are included to complement the discussion sessions. The course provides basic skills, tools, and techniques applied to problem solving, teamwork and communication necessary for academic and professional success.
+/
+Introduction to Electrical and Computer Engineering
+This course introduces students to various sub-disciplines of Electrical and Computer Engineering and to the tools, both hardware and software, that are used in Electrical & Computer Engineering.
+/
+Circuits
+Students study concepts of voltage, current, power, energy. Topics include ideal circuit elements and their I/V characteristics, Kirchhoff's laws, circuit analysis using node voltage and mesh current methods Thevenin's and Norton's theorems, maximum power transfer, and operational amplifier circuits. 
+/
+Circuits Laboratory
+Students study the use of standard test equipment to make DC and AC measurements and characterize electric circuits.
+/
+Digital Design
+Digital Design
+/
+Digital Design Lab
+Digital Design Lab
+/
+Introduction to Computer Science
+The course emphasizes program design and problem solving techniques that use a high-level programming language. The course introduces basic concepts such as assignment, control flow, iteration, and basic data structures in addition to a supervised lab.
+/
+Data Structures
+The course continues the development of program design and problem solving techniques. Topics include development of fundamental data structures and their associated algorithms as well as array-based algorithms, recursion, lists, generics, dynamic memory, binary trees, and associative structures.
+/
+Digital Signal Processing
+Students analyze discrete-time signals and systems using z transforms and Fourier transforms, the fast Fourier transform and its applications, digital filters and their applications and implementation of DSP algorithms using Matlab and Simulink.
+/
+Random Signals
+This course is an introduction to probability and statistics in engineering applications. Students will become familiar with discrete and continuous random variables and their probability models.
+/
+Electronics
+This course introduces students to semiconductor physics. Topics include modeling, analysis, and simulation of analog and digital circuits containing diodes, bipolar junction transistors, and MOSFETs. Other topics include analysis and design of single stage amplifiers, frequency response of amplifiers, gain, bandwidth, DC biasing, and small signal analysis of amplifiers.
+/
+Electronics Lab
+Students examine the use of standard electronic test equipment and simulation tools to analyze, design, and test electronic circuits. Emphasis on analog circuits.
+/
+Computer Systems and Networks
+This course is a comprehensive and holistic examination of the modern computing environment. Students gain an understanding of the various hardware and software components that enable computers and networks to process information and execute applications. Students learn to apply this knowledge in the development of efficient and robust software applications.
+/
+Microcontrollers
+Students study the design and implementation of digital monitoring and control systems that use micro-controllers. Topics include hardware and software development, interfacing input and output devices, assembly and C programming as well as representative applications.
+/
+Computer Organization and Arch
+The objective of this course is to give students an understanding of how a complete modern computer system operates. Students learn about design of control, datapath and arithmetic-logic units. Other topics include pipelining, memory hierarchy and assembly language programming.
+/
+Advanced Digital Design
+Students learn how to analysis, design, and implement synchronous state machines using programmable logic devices. Topics include CAD-based simulation and development that use schematic capture and hardware description languages, and representative applications. 
+/
+Senior Project I
+Senior Project I
+/
+Senior Project II
+Senior Project II
+/
+Professional Practice Seminar
+This course is designed to prepare students for the Cooperative Education experience. Presentations are from representatives of industry, government, education and former Co-op students. Topics include engineering ethics, professionalism, time management and mock interviewing.
+/
+Programming Languages
+Topics in evaluation, design, and development of programming languages. Topics include type systems, variables and scope, functions, parameter passing, data hiding and abstractions, recursion, memory allocation, grammars and parsing, compiler architecture, programming paradigms, and comparison of programming languages and environments.
+/
+Power Electronics
+Switch-Mode DC-DC converters, Feedback control of converters, Rectifiers and power factor correction circuits, switch mode DC power supplies, applications to motor control and renewable energy integration to the grid. Includes laboratory. 
+/
+Computer Networking
+Students study computer networks and the Internet. Topics include LAN and WAN architectures, packet switched networks and routing, the 7-layer OSI model and Internet protocol stack, socket programming and client/server systems as well as wireless security.
+/
+Independent Study
+Special individual projects are undertaken under the direction of one or more faculty members knowledgeable in the particular field of study. Permission of department chairperson and faculty members involved.
+/
+Operating Systems
+Students are introduced to the fundamental concepts of modern operating systems. Topics include an overview of the computer hardware that supports the operating system, process management, threads, and CPU scheduling. 
+/
+Professional Practice
+This course offers cooperative employment in a professional engineering environment. 
+/
+Professional Practice
+This course offers cooperative employment in a professional engineering environment. Students may register for a variable number of credits that depend upon the length of the work period.
+/
+Professional Practice
+This course offers cooperative employment in a professional engineering environment. he course requires a satisfactory completion of the work assignment and a written report. 
+/
+
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/

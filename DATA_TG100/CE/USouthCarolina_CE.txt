@@ -1,0 +1,127 @@
+/
+Critical Reading and Composition
+Instruction in strategies for critically reading and analyzing literature and non-literary texts; structured, sustained practice in composing expository and analytical essays.
+/
+Rhetoric and Composition
+Instruction and intensive practice in researching, analyzing, and composing written arguments about academic and public issues.
+/
+Calculus I
+Functions, limits, derivatives, introduction to integrals, the Fundamental Theorem of Calculus, applications of derivatives and integrals.
+/
+Calculus II
+Methods of integration, sequences and series, approximations.
+/
+General Chemistry I
+Survey of the principles that underlie all chemistry with applications illustrating these principles.
+/
+Essentials of Physics I
+Classical mechanics and wave motion. Calculus-level course for students of science and engineering.
+/
+Public Communication
+Introduction to theory and practice of oral communication in public, social, and institutional contexts. Includes foundational and cumulative training in the invention, performance, and critical analysis of oral communication, with emphasis on argumentation, persuasion, audience analysis, delivery, and ethical forms of engagement.
+/
+Professional Issues in Computer Science and Engineering
+Professional issues in the information technology professions; history and social context of computing; professional responsibilities; privacy; intellectual property; risks and liabilities of computer-based systems.
+/
+Elementary Arabic
+Elementary Arabic
+/
+History of Asian Art
+History of Asian Art
+/
+Introduction to African American Studies: Social and Historical Foundations
+Introduction to African American Studies: Social and Historical Foundations
+/
+ARTE 101 - Introduction to Art
+ARTE 101 - Introduction to Art
+/
+Vector Calculus
+Vector algebra, geometry of three-dimensional space; lines, planes, and curves in space; polar, cylindrical, and spherical coordinate systems; partial differentiation, max-min theory; multiple and iterated integration, line integrals, and Green’s theorem in the plane.
+/
+Elementary Differential Equations
+Ordinary differential equations of first order, higher order linear equations, Laplace transform methods, series methods; numerical solution of differential equations. Applications to physical sciences and engineering.
+/
+Applied Linear Algebra
+General solutions of systems of linear equations, vector spaces and subspaces, linear transformations, singular value decompositions, and generalized inverse.
+/
+Discrete Structures
+Propositional and predicate logic; proof techniques; recursion and recurrence relations; sets, combinatorics, and probability; functions, relations, and matrices; algebraic structures.
+/
+Essentials of Physics II
+Classical electromagnetism and optics
+/
+Statistics for Engineers
+Basic probability and statistics with applications and examples in engineering. Elementary probability, random variables and their distribution, random processes, statistical inference, linear regression, correlation and basic design of experiments with application to quality assurance, reliability, and life testing.
+/
+Technical Writing
+Preparation for and practice in types of writing important to scientists, engineers, and computer scientists, from brief technical letters to formal articles and reports.
+/
+Algorithmic Design I
+Problem-solving, algorithmic design, and programming.
+/
+Algorithmic Design II
+Rigorous development of algorithms and computer programs; elementary data structures.
+/
+Computing in the Modern World
+An introduction to the field of computing: trends in computing technology, the profession, and careers; subdisciplines in computing; the nature of research and development.
+/
+Digital Logic Design
+Number systems, Boolean algebra, logic design, sequential machines.
+/
+Introduction to Computer Architecture
+Computer architecture, components. and organization; memory addressing; Input/Output; instruction sets; interrupts; assembly-language programming.
+/
+UNIX/Linux Fundamentals
+UNIX operating system, user-level system commands, and programming tools. UNIX scripting languages.
+/
+Advanced Programming Techniques
+Pointers; memory management; advanced programming language structures: operator overloading, iterators, multiple inheritance, polymorphism, templates, virtual functions; Unix programming environment.
+/
+Robotic Applications and Design
+Design and control of robots. Interactions between robots, sensing, actuation, and computation.
+/
+Electrical Science
+Fundamentals of electrical and electronic components. Basic network laws. Mathematical and computer tools for network analysis.
+/
+Introductory Electrical Engineering Laboratory
+Laboratory procedures, instrumentation and measurements, report writing, computer use in system design, testing, and troubleshooting. Integrative project-based learning environment including passive, active, electronic and electromechanical systems
+/
+Signals and Systems
+Analysis of continuous-time signals and systems in time and frequency domains, Fourier series and transforms, Laplace transforms; introduction to discrete-time signals.
+/
+Circuits
+Analysis of linear ac circuits using complex variables. Nodal and mesh analysis, Thevenin and Norton transformations, linearity, superposition, use of math solvers, circuit simulators, and computer-interfaced instrumentation.
+/
+Operating Systems
+Operating system structure and function; process implementation, scheduling, and synchronization; memory management; security; naming protection; resource allocation; network file systems.
+/
+Embedded Systems
+Fundamentals of embedded systems: hardware components, software components, hardware/software interface design, and hardware/software co-design.
+/
+Computer Systems Engineering
+System-level modeling and evaluation of computer systems: requirements elicitation and specification, architectural design, reliability and performance evaluation, Markov modeling, life-cycle cost analysis, project management.
+/
+Data Structures and Algorithms
+Techniques for representing and processing information, including the use of lists, trees, and graphs; analysis of algorithms; sorting, searching, and hashing techniques.
+/
+Introduction to Computer Networks
+Concepts and components of computer networks and the Internet; network applications; network protocol stack.
+/
+Capstone Computing Project I
+Capstone Computing Project I
+/
+Advanced Digital Design 
+Design techniques for logic systems; emphasis on higher-level CAD tools such as hardware description languages and functional modeling.
+/
+Programming Language Structures
+Formal specification of syntax and semantics; structure of algorithms; list processing and string manipulation languages; statement types, control structures, and interfacing procedures
+/
+Foundations of Computation
+Basic theoretical principles of computing as modeled by formal languages, grammars, automata, and Turing machines; fundamental limits of computation
+/
+Digital Signal Processing
+An introduction to analysis, design and applications of discrete time systems; z- and discrete Fourier transforms; frequency and impulse responses, FIR and IIR filters.
+/
+Control Systems
+Fundamentals of control systems. Analysis and design of control systems using physical system models. State variables, steady-state error, time- and frequency-responses, control system stability. Root locus analysis and controller design - PI, PD, PID, lead-lag compensator. Nyquist stability criterion.
+/

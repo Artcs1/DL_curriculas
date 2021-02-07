@@ -1,0 +1,112 @@
+/
+Freshman Seminar
+Required introduction to the Computer Science and Software Engineering programs. Students will discuss what it means to be a professional in the fields of computer science and software engineering, meet professionals in these fields, and hear about the wide range of employment opportunities
+/
+Fundmentals Of Computer Science I
+This course introduces the beginning programmer to the fundamentals of object-oriented programming while becoming acquainted with many of the core features of Java. The student will be exposed to the creation of a variety of games and applications. After the basics, the student will learn to develop his or her own systems of classes, eventually working with many of Java’s Graphical User Interface (GUI) features and will develop a desktop Windows application.
+/
+Calculus I
+Includes the study of limits of functions, continuous functions, tangents and derivatives, implicit differentiation, extreme values, curve sketching, antiderivatives, integrals of continuous functions, and the Fundamental Theorem of Integral Calculus.
+/
+Business Ethics and Decision Making
+Seeks to explore value systems as a basis and framework for ethical decisions to develop sensitivity for the numerous ethical issues in the competitive business world. Encourages the evaluation and development of personal value systems and develops an awareness of the value implications of managerial decision.
+/
+Introduction To Technical Writing
+Introduces students to written technical communication. Coverage includes electronic communication, memo writing, report writing, formal research writing, document design (including the design of graphical elements), grammar, usage, and style. Course assumes working knowledge of Microsoft Word.
+/
+Introduction to Embedded Systems
+Develops basic concepts of computer systems and computer architecture. Includes base-2 arithmetic, octal and hexadecimal number systems, computer addressing modes, I/O, and assemblers.
+/
+Calculus II
+Includes the study of methods of integration including, u-substitution, integration by parts, integration by partial fractions. Studies the derivatives and integral of the inverse trigonometric functions, exponential functions, and hyperbolic functions. Also studied are applications of the integral, sequences, and infinite series.
+/
+Fundamentals Of Computer Science II
+this class explores the finer and more subtle elements of programming.  Programming techniques and structures will include recursion, linked lists, stacks and queues, threading and socket communication. In the second part of the semester, students will be introduced to an additional operating system and an additional programming language.
+/
+Presenting Technical Information
+Interactive, participatory course which requires use of multimedia to enhance the visual dimension of oral presentations.
+/
+Advanced Public Speaking
+with greater emphasis on argumentation, persuasion, audience analysis and adaptation, and oral style.
+/
+Introduction to Public Speaking
+A performance course in public speaking for the beginner covering theory and practice in the preparation and presentation of original speeches to inform and persuade. Logical organization is stressed.
+/
+Data Structures and Algorithms
+Commonly used structures found in computing and the algorithms which manipulate them are studied. Design and analysis of algorithms are emphasized. Topics include stacks, queues, general lists, trees, hashing, searching, and sorting.
+/
+Discrete Structures
+Course includes those mathematical topics which will help students in future courses. It refines problem solving skills by providing a vocabulary, structures and techniques for working with problems. Topics include logic, theorem  proving, properties of sets, functions, relations, and sequences, counting techniques, recursion, and graph theory.
+/
+Multivariable Calculus
+Includes the study of vector-valued functions, parametric functions, curves in the plane, the polar coordinate system, partial derivatives, multiple integrals and calculus of vector fields.
+/
+Design & Analysis of Algorithms
+Covers several advanced data structures, including balanced search trees and graphs. Studies common algorithm design methods (Brute Force, Decrease and Conquer, Divide and Conquer, Greedy, and Dynamic Programming) to solve various classic problems. Ehmphasizes the space and time complexitites of various data structures and their associated algorithms.
+/
+Matrices & Linear Algebra
+An introduction to matrices and matrix algebra, inverses, determinants, solving simultaneous linear equations, vector spaces, dot products and norms, linear transformations, eigenvalues and eigenvectors.
+/
+Introduction to Differential Equation
+A study of first order and linear second order differential equations, power series methods, numerical techniques, Laplace transform, with applications to mechanical vibrations and circuits.
+/
+Concepts of Programming Languages
+Students will study concepts of high-level programming languages. Topics include regular expressions, context free grammars, programming language syntax, semantics, language translation and how language constructs are implemented. Projects include a lexical analyzer and/or a parser. Students will also program in a functional and a logic language.
+/
+Software Engineering
+Studies the process of engineering software applications and systems. Topics include process models, metrics, requirements engineering, design, testing, quality assurance, configuration management and software inspections.  Students gain experience in these areas by working on a software project.
+/
+Data Analytics
+Using an agile project management methodology, students will develop knowledge and skills in data analytics to provide creative and innovative solutions to a variety of business, science, and engineering problems, while gaining proficiency in the use of current data analytics software. 
+/
+Statistics for Scientists and Engineers
+Studies probability, random variables, univariate discrete and continuous probability models, expected values, sampling distributions, data collection, point and interval estimation, and hypothesis testing.
+/
+Computer Architecture
+Studies the design and organization of computer systems, including the instruction set and interconnection of hardware components. Topics include computer performance, assembly language programming, microprocessor architecture, pipeline processing, memory and storage organization, and multiprocessor computers.
+/
+Software Maintenance
+Continues to study the process of developing software applications and systems. Software requirements, design and testing are addressed. Students gain experience in these areas by working on software maintenance projects that involve significant changes to a previously developed product and further development on a previously started project. 
+/
+Introduction to Film
+This course examines the development of the film medium, paying equal attention to its history and its language. We will learn the necessary tools to understand and analyze the technical, formal, historical, and theoretical aspects of film, such as cinematography, editing, composition and framing, sound, narrative, and theories of cinema. We will consider the history of film, and genres such the Detective-Crime Thriller, the Documentary, Experimental, and Animated film, studying closely a selection of watershed films that shaped the language of this medium. Issues of race and gender will feature prominently in our discussions as well as consider of the film industry, such as issues of production, distribution, and exhibition. In short we will pay equal attention to the aesthetic, theoretical, and industrial aspects of film.
+/
+Database Systems
+The traditional relational database system is explored more deeply, along with alternative database systems including document-oriented, graph-oriented, and object-oriented systems.  Database architectures are also explored including scalability, reliability, distributed databases, in-memory databases, database replication and fault tolerance.  Design considerations such as relational algebras, functional dependencies and normal forms, and query execution are also considered.  Lastly, integration of databases into software is explored and the benefits of creating a database API is developed.
+/
+Numerical Computing for Engineering & Science
+An introduction to the basic algorithms of numerical analysis and the theory behind them. Topics include systems of linear and nonlinear equations, interpolation, numerical differentiation and integration and ordinary differential equations.
+/
+Artificial Intelligence
+An introduction to the basic concepts of Artificial Intelligence. Topics to be covered include the history of AI, the problems treated in AI, solution techniques, state spaces, search algorithms and heuristics, expert systems, natural language processing, and robotics.
+/
+Internship
+For academic work done in conjunction with an approved work experience related to the Computer Science degree program. Students should consult with their faculty advisor and/or department Internship Coordinator to determine the availability of appropriate work experiences and the specific academic requirements for receiving credit.
+/
+Networks
+A study of the fundamental principles of computer based communication. Principles, design, and standards of networks will be discussed, including standard network protocols. Includes an introduction to telecommunications and basic data transfer processes.
+/
+Advanced Technical Writing
+Emphasizes effective, clear and accurate scientific and technical communication. Focuses on writing theory and on the process approach to writing. Rewriting is stressed. Written work integrated with major fields.
+/
+Writing in the Sciences
+Emphasizes research strategies, including electronic searching and retrieval, to write, format, and polish action-oriented, ethical documents focusing on the profession that student is preparing to enter. Collaborative writing and incorporation of computerized capabilities for documents are course expectations.
+/
+Advanced Business Writing
+Provides strategies for effective communication used in business, engineering and other professions, such as correspondence, interagency communication, reports and proposals. Emphasizes audience-oriented, clear, concise writing; techniques of research; formats; and electronic communication (sometimes offered electronically)
+/
+Theory Of Computation
+Students will look abstractly at computers and what it means to be computable. Turing Machines, which appear to be powerful enough to serve as the basis for defining computability, will be studied. Students will learn that some questions are not computable by any computing machine. Regular, context-free languages, decidability and computational complexity will also be studied.
+/
+Operating Systems
+I/O management, memory management, processor management, device management and performance measurement/evaluation are examined. Other operating systems, theoretical and current, are discussed.
+/
+Web Science
+This course examines the structure of the world wide web from a software architecture point of view and how best to engineer software applications using web technologies.  The structures is also examined as the world’s largest distributed data repository of information and how to apply descriptive logic in a semantic graph framework to make inferences from this information and build ontologies.  Finally, topics in cryptology are examined for how to construct secure protocols and hashes used to reduce the vulnerabilities of threat vectors in web applications. 
+/
+Senior Seminar
+Investigations in the Computer Science and Software Engineering fields. Students will report on their internship experience, present their senior design projects, and/or present their undergraduate research. Faculty and guest speakers will discuss current issues in computer science and software engineering, Students will take an exam covering their computer-related course work. This is a required seminar for Computer Science and Software Engineering seniors.
+/
+Internship
+Internship
+/

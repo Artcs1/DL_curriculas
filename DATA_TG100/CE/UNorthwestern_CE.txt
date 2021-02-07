@@ -1,0 +1,36 @@
+/
+Fundamentals of Computer Programming I
+This is an introductory course on the fundamentals of computer programming. This course will include weekly programming projects, readings, a midterm, and final examinations.
+/
+Fundamentals of Computer Programming II
+Object-oriented programming, classes and data hiding, dynamic object construction and destruction, derived classes and inheritance, virtual functions; functions, call by value/reference, overloading; abstract data types; standard template libraries; exception handling; introduction to UNIX, file processing, process management.
+/
+Fundamentals of Computer System Software
+Basics of assembly language programming. Macros. System stack and procedure calls. Techniques for writing assembly language programs.
+/
+Data Structures and Data Management
+The design, implementation, and analysis of abstract data types, data structures and their algorithms. Topics include: data and procedural abstraction, amortized data structures, trees and search trees, hash tables, priority queues, graphs, shortest paths, searching, and sorting.
+/
+Fundamentals of Circuits
+Fundamental concepts in electrical circuits; circuit analysis and network theorems; linearity and superposition; series/parallel combinations of R, L, and C circuits; sinusoidal forcing; complex frequency and Bode plots; mutual inductance and transformers; two port networks.
+/
+Advanced Logic Design
+Advanced Logic Design
+/
+Computer Architecture I
+Design and understanding of the computer system as a whole unit. Performance Evaluation and its role in computer system design; Instruction Set Architecture design, Datapath design and optimizations (e.g., ALU); Control design; Single cycle, multiple cycle and pipeline implementations of processor; Hazard detection and forwarding; memory hierarchy design; Cache memories, Virtual memory, peripheral devices and I/O.
+/
+Intro to Computer Systems
+This course has four purposes:to learn about the hierarchy of abstractions and implementations that comprise a modern computer system;to demystify the machine and the tools that we use to program it;to come up to speed on systems programming in C in the Unix environment;to prepare students for upper-level systems courses.
+/
+Fundamentals of Signals and Systems
+Comprehensive introduction to analysis of continuous and discrete-time signals and systems. Linear time-invariant systems, convolution; Fourier series representations of periodic signals; Continuous time and discrete time Fourier transforms; Laplace transform; z-transform.
+/
+Fundamentals of Solid State Engineering
+Introduction to Solid State Engineering. Crystalline state of matter. Quantum phenomena, quantum mechanics. Electrons in atoms, atoms in crystals, electrons in crystals. Energy band structures. Semiconductors. Thermal properties of crystals.
+/
+Fundamentals of Electromagnetics and Photonics
+Introduction to electromagnetic waves in electrical engineering. Topics include: concepts of transmission lines, electrostatics and magnetostatics; Maxwell's equations for time-varying fields; plane-wave propagation, reflection, and transmission; introduction to fiber optics and photonics.
+/
+Fundamentals of Electronics
+Fundamental concepts in electronics. Diode, BJT and FET Circuits; design using ideal operational amplifiers; feedback; frequency response; biasing; current sources and mirrors; small-signal analysis; design of operational amplifiers.

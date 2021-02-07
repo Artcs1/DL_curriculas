@@ -1,0 +1,195 @@
+/
+Introduction to Computers 
+This course will introduce the students to microcomputer usage and will fulfill
+the core curriculum computerliteracy/technology requirements. Topics include;
+word processor, presentation, spreadsheet, anddatabase.
+/
+College Writing I
+This course focuses on effective writing, grammar review, and critical thinking. Students
+develop research and writing skills using classical rhetorical modes of
+argument and logic and by writing college-level essays and research papers
+with the use of information technology. This course will satisfy the Gordon
+Rule requirement in the Florida State UniversitySystem
+/
+Computer Programming I 
+This course builds on the basic concepts and syntax of
+the Java programming language. It is the first course in the series of
+programming study in computer science. Topics include programming,
+problem solving, design, construct, analysis of the programs and objectoriented programming. 
+/
+University 101 
+This course is designed to help new college students develop study habits,
+attitudes and knowledge which will lead to academic success. The course
+content includes Florida Memorial University’s history and resources, student
+time management, study methods, memory techniques, career exploration,
+and cultural literacy.
+/
+College Writing II 
+This is an intensive writing, reading, and research course. Students compose research
+papers and college-level essays based on readings from poetry, short stories,
+drama, novels, periodicals, and other literature, incorporating the use of
+information technology. This course will satisfy the Gordon Rule.
+/
+Applied Calculus
+The applications of calculus using computer algebra systems. A brief review of functions and plane
+analytic geometry; intuitive and geometric definitions of limit, continuity and
+derivatives; derivatives of elementary functions; applications of derivatives
+including optimization problems taken from various disciplines; indefinite
+integral, Riemann sums and definite integral; elementary techniques of
+integration; and applications of integration in variousdisciplines.
+/
+African Amer His I 
+This is an intensive reading course. The course promotes the awareness and
+exploration of relevant books and materials concerning the lives, struggles,
+achievements, and contributions of African Americans.
+/
+Critical Think/Read
+This course develops and strengthens the critical
+thinking skills needed for reading college and professional materials, and will
+include bias and propaganda, fallacies, connotation/ denotation,
+inductive/deductive reasoning, problem-solving, and inferential thinking.
+/
+Critical Think Info Age 
+This course is designed to equip students with the ability to apply critical
+thinking in the field of Computing, Information Systems, Information
+Technology, and Mathematics. They will demonstrate critical thinking skills
+through the analysis and/or synthesis of information to draw conclusions or
+make decisions on matters pertaining to career planning, personal growth and
+goal-setting as potential careers of the future in the information age.
+/
+Introduction to Public Speaking
+An introduction to effective communication in speaker-audience situations.
+Students learn basic techniques of researching, organizing and presenting
+their own, original ideas to an audience. There is additional emphasis on
+developing effective listening skills and ethical communication strategies for
+use in a democratic society.
+/
+Principles of Mgmt 
+An introductory management course dealing with the fundamental principles of management:
+planning, organizing, staffing, leading and controlling. The systems concept of
+management and the role of the manager in each level of the organization are
+emphasized.
+/
+Computer Programming II 
+An intermediate level course in programming with a more advanced concepts and programs technique. The course offers deeper
+understanding of classes and object in Java. The course also provides more indepth skills in java programming such as polymorphism, inheritance,
+handling exceptions, file and string manipulation, and recursion.
+/
+Prob & Statistics 
+Probability concepts, discrete and continuous distributions, random variables, expectation and variance,
+frequency distribution, statistical inferences and sampling, hypotheses testing
+for the mean and variance of a population.
+/
+Syst Analysis/Design 
+Uses analysis and review of existing systems to explain
+the structured systems analysis and design process. Working with the
+system’s life cycles, topics include flow diagrams, cost/benefit analysis,
+interviewing and documentation. Students are required to solve case studies
+and develop a documentation portfolio.
+/
+Introduction to Religion 
+This is an intensive reading and writing course surveying the practices and
+associated customs of the major recognized religions of the world, such as
+Judaism, Christianity, Hinduism and Islam.
+/
+Micro-Economics 
+A study of the aggregate level of national income and output as it affects economic growth and stability, inflation, unemployment.
+/
+Computer Organization
+This course introduces computer hardware and system software concepts. The objective is to provide technical
+knowledge and skills on computer resource management, systems design, and
+systems implementation. Material on systems architecture, data storage
+technology, systems integration and performance, input/output technology,
+data and network communication, computer networks, application
+development, operating systems, file management, internet and distributed
+applications, and system administration are presented in this course. 
+/
+Network/Data Com 
+This course covers the basic concepts of network and
+data communications. The course covers sections on network design essentials,
+media, interface cards, communications and protocols, architectures,
+administration and support, types of networks, troubleshooting network
+problems, and internetresources.
+/
+Web Technology 
+Students will learn how to plan and create a Web page
+from scratch, import and manage media from other sources, publishing and
+maintaining a web site, using hyperlinks to navigate throughout a website or
+link to other sites on the Internet, add navigation bars and user interactions on
+the Web.
+/
+Operating Systems 
+Introduces the students to operating systems and
+systems programming. Topics include design, implementation, and
+maintenance techniques, multi-level memory management and resource
+allocation, scheduling supervisors, loaders, I/O control systems, multiprogramming, file and systems protection.
+/
+Database Management Systems 
+The study focuses on the theoretical design
+and management of database systems conceptual data models,
+implementation models, data dictionary and policy formulation. The study
+will also uncover structures relating to databases, design methodology,
+normalization, integrity constraints, distributed databases, data warehouse,
+and relational algebra.
+/
+/
+Spanish I
+This course and its sequel, constitute the basic sequence in Spanish. Emphasis is on the development of
+competence in the language. 
+/
+Spanish II
+This course completes the sequence in the Spanish language core requirement. It prepares students for advanced course work in Spanish if desired. 
+/
+Principles of Accounting I
+A study of basic accounting concepts
+essential to recording business transactions, preparing financial statements,
+and interpreting data for financial decisions
+/
+Principles of Accounting II 
+The study of basic accounting concepts essential to recording business transactions, preparing
+financial statements, and interpreting data for financial decisions.
+/
+Management Information Systems 
+Study of life cycle and prototyping methodologies used to develop, implement, and maintain computer- based
+information systems. Discusses transaction processing, management
+information and decision-support systems. Can include case studies and team
+presentation.
+/
+Senior Project 
+This is a capstone course for senior majors in the
+Computer and Information Sciences. Students will have an opportunity to
+undertake valuable research in areas of computer science, computer
+information systems, and management information systems to organize into
+teams and select a design project, complete the preliminary design project for
+approval and finally present detail and final design work or prototype to departmental faculty.
+/
+Principles of Microeconomics 
+A study of U.S. market systems emphasizing concepts of supply and demand, competition, pricing, resource allocation as applied to issues in business, labor, and public policy.
+/
+Computer Ethics 
+This course deals with the ethical and
+social issues arising from the development and deployment of computers in
+society. The course also provides fundamental information about computer
+and technology ethics, as well as the details the ramifications of continuing
+technological developments with regard to privacy, security, piracy, access to
+computing technology for person with disabilities and other important
+philosophical and ethical issues.
+/
+Applied Analytics 
+This course will expose students to animation techniques and web
+programming with ActionScript in Flash and Java Script. The course
+emphasizes on Web Multimedia Applications, such as the user interface,
+drawing tools, inverse kinematics and 3D tools, mathematics objects, and the
+Media Encoder.
+/
+Computer Security 
+This course deals with the essentials of computer security. It covers
+cryptography, computer system security, database, operating systems,
+network security, mobility, and writing secure programs. There is a special
+emphasis on: single key and public key, authentication, access control,
+malicious software, firewalls, VPNs, intrusion detection and prevention
+systems, Denial of Service attacks, and other security technologies.
+/
+Simulation & Management Applications I
+A study of program packages leading to solutions of management problems. Advanced techniques in solving problems
+will be discussed and preparing for IT Certification.

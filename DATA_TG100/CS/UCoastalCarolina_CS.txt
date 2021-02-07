@@ -1,0 +1,130 @@
+/
+Calculus I
+Limits, continuity, differentiation and integration of algebraic and transcendental functions, applications of the derivative to curve sketching, optimization and related rates. 
+/
+Calculus II
+Applications of integration, techniques of integration, sequences and series, Taylor polynomials, and elementary differential equations. 
+/
+Introduction to Discrete Mathematics
+Set theory, logic divisibility, induction, combinatorics, relations, functions, graphs, digraphs, and Boolean algebra. F, S.
+/
+Elementary Statistics
+An introductory course in the fundamentals of modern statistical methods. Topics include descriptive statistics, introduction to probability, random variables and sampling distribution, linear regression and correlation, testing of hypothesis concerning one and two population samples, confidence interval estimation of parameters and introduction to one way ANOVA (analysis of variance). 
+/
+Elementary Statistics Computer Laboratory
+
+/
+Modeling for Scientists I
+The class is designed to introduce students to concepts in mathematical modeling and scientific computing. The course is project based, and Computer Software will be used extensively to implement models, solve problems, and visualize results.
+/
+Modeling for Scientists I Laboratory
+
+/
+Mathematical Proofs and Problem Solving
+Detailed investigation of the methods of mathematical proof: direct, indirect, induction, contradiction, case analysis and counter examples.
+/
+Calculus III
+Lines, planes and surfaces in space; spherical and cylindrical coordinate systems; vector valued functions; differentiation of functions of several variables; multiple integration and applications; topics in vector analysis. 
+/
+Combinatorics
+This course covers the basics of combinatorics: enumeration, recurrence, generating functions, as well as some applications to probability. S, odd years.
+/
+Graph Theory
+This course will introduce students to the basic concepts and applications of graph theory. This will be achieved via examples, algorithms and proofs. F, odd years.
+/
+Elementary Differential Equations
+This course represents a systematic introduction to ordinary differential equations. 
+/
+Linear Algebra
+Vector spaces, linear transformations, matrices, systems of equations, determinants, eigenvectors and eigenvalues. F, S.
+/
+Coding Theory
+This course covers the issues involved in designing efficient codes, including error detection/correction. Topics to be covered include distance, nearest neighbor decoding, hamming codes and linear codes. 
+/
+Biological Science I
+An introduction to biological principles for students majoring in biology and related fields of study.
+/
+Biological Science II
+An introduction to biological principles for students majoring in biology and related fields of study.
+/
+Business and Professional Communication
+Designed to improve practical communication, both written and oral. Students learn business style and formats (the letter, memo, resume, and report), as well as strategies for presenting neutral, negative, and persuasive messages.
+/
+Introduction to Web Interface Development
+An introduction to the design and development of interactive Web 2.0 user interfaces using client-side programming languages.
+/
+Introduction to Computer Science
+Designed as a communication intensive introduction to Computer Science; provides a comprehensive overview of the field of Computer Science in areas such as machine architecture, data storage, data manipulation, operating systems, algorithms, programming languages, data structures, database structures, computational complexity, and artificial intelligence; includes a brief introduction to programming.
+/
+Introduction to Algorithmic Design I
+An introduction to problem solving and algorithmic design methodology using a high-level programming language. Topics include problem solving techniques; subprograms and modularity; fundamental data types and structures; flow of control statements; and file input/output. 
+/
+Introduction to Algorithmic Design I Laboratory
+Introduction to Algorithmic Design I Laboratory
+/
+Introduction to Algorithmic Design II
+Continued development of discipline in program design, style and expression, debugging and testing. Topics include object oriented programming and algorithm design; elementary data structures; user-defined data types, inheritance, and encapsulation.
+/
+Introduction to Algorithmic Design II Laboratory
+Introduction to Algorithmic Design II Laboratory
+/
+Ethics in Computer Science
+Provides real-world experiences that stimulate discussion of ethical issues in the technical work place. Topics include: ACM Code of Ethics, general moral responsibilities, privacy security, copyright and ownership agreements, computer crimes, and personal ethics.
+/
+Computer Organization and Programming 
+Logical basis of computer structure, machine representation of information, flow of control, instruction codes, arithmetic and logical operations, indexing, indirect addressing, input-output, sub-routines, linkages, macros. Interpretive and assembly systems, and pushdown stacks.
+/
+Data Structures
+Topics include analysis of algorithms, with emphasis on computational complexity and advanced algorithms including self-adjusting trees, hashing, graphs, sorting, searching, hashing methods, and greedy algorithms.
+/
+Information Management
+This course covers the key aspects of information management including the acquisition, classification, storage, analysis, presentation, and archival of information. Privacy and security of information are also addressed.
+/
+Data Communication Systems and Networks
+Fundamentals of data communications, including hardware, basic components of communications, configurations, networks and applications, protocols and software are discussed.
+/
+Systems Analysis & Software Engineering 
+A thorough introduction to requirements management, and best practices in eliciting, documenting, and verifying requirements for programming systems. 
+/
+Organization of Programming Languages
+Formal language concepts, statement types, control structures, compilation vs. interpretation, list processing and string manipulation languages.
+/
+Operating Systems
+Basic concepts and terminology of operating systems, I/0 and interrupt structures, system structures, processor scheduling, processes and process synchronization, deadlocks, memory management, and other concepts.
+/
+Introduction to the Analysis of Algorithms
+An introductory course in the analysis of algorithms, with emphasis on computational complexity including practical applications and the analysis of specific problems and algorithms, course investigates most commonly used algorithm design techniques and also introduces the notion of “hard” problems and approximate solutions.
+/
+Theory of Computation
+General models of computation, formal languages and automa theory and algorithmic unsolvability.
+/
+Senior Assessment
+This course provides various resources to graduating seniors including strategies for job searching and/or entry to graduate school.
+/
+Introduction to Parallel Systems 
+This course introduces parallel computer architectures and their programming. It includes an introduction to MPI and OpenMP and a number of engineering problems, including numerical simulations.
+/
+Introduction to Computer Architecture
+An introduction to the fundamental aspects of a computer system’s structure and behavior; binary arithmetic, combinational logic, circuit design, instruction sets, register operations and flip-flops, control system functions, memories, interrupt structures, processors, and performance measures will be covered.
+/
+Database Systems Design
+An exploration of advanced database topics will be covered. Topics may include the efficiency of advanced queries, indexing structures, database and SQL optimizations, backup and recovery, NoSQL and big data concepts.
+/
+Introduction to Computer Graphics
+An overview of the elements of 2D and 3D graphics, includes topics on raster graphics, geometrical transformations, parallel and perspective projections for 3D viewing, interaction techniques, representation of curves and surfaces, solid modeling and topics on visual realism.
+/
+Image Processing and Analysis
+This course introduces the theoretical foundations and methodologies of digital image processing and analysis. Topics include intensity transformations, contrast enhancement, filtering in the spatial and frequency domains, restoration and reconstruction, edge detection, feature extraction, morphological operations, image segmentation, object recognition, and color image processing.
+/
+Informatics and Knowledge Discovery
+Students will explore the basic techniques of data mining and data stream mining and then apply them on real world datasets taken from different domain experts. This class will teach students how to obtain patterns, trends, and behavior from different datasets to enable domain experts to discover new knowledge without the need to conduct expensive experiments or complex modeling procedures.
+/
+Machine Learning
+This course provides an introduction to pattern recognition and machine learning. Topics may include probabilistic learning, linear discriminants, neural networks, unsupervised learning, decision trees, Bayesian networks, support vector machines, and reinforcement learning.
+/
+Introduction to Robotics
+An introduction to the fundamentals of mobile robotics including robot hardware, sensors, obstacle avoidance, navigation, mapping, path planning and robot architectures.
+/
+Software Engineering II
+Topics include project requirements, design specifications, testing, project management and group dynamics. Student will design, code, test and implement an information system as part of a team project.
+/

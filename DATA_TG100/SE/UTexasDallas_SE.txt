@@ -1,0 +1,79 @@
+/
+Rhetoric
+This course presents an integrated approach to writing, reading, and critical thinking by developing the grammatical, logical, and rhetorical skills necessary for university writing
+/
+Professional and Technical Communication
+Expands students' professional and team communication skills and strategies in technical contexts. Integrates writing, speaking and group communication by developing and presenting technical information to different audiences. Written assignments focus on creating professional technical documents, such as proposals, memos, abstracts, reports and letters. Presentation assignments emphasize planning, preparing and delivering dynamic, informative and persuasive presentations.
+/
+Differential Calculus
+Course covers topics in differential calculus of functions of one variable; topics include limits, continuity, derivative, chain rule, implicit differentiation, mean value theorem, maxima and minima, curve sketching, derivatives of inverse trigonometric functions, antiderivative, substitution method, and applications
+/
+Mechanics
+Calculus based. Basic physics including a study of space and time, kinematics, forces, energy and momentum, conservation laws, rotational motion, torques, and harmonic oscillation
+/
+Electromagnetism and Waves
+Topics include electrostatics and electromagnetics, electric field and potential, electric currents, magnetic fields, laws of Coulomb, Ampere, and Faraday, Maxwell's theory of wave propagation.
+/
+American National Government
+Survey of American national government, politics, and constitutional development
+/
+State and Local Government
+Survey of state and local government and politics with special reference to the constitution and politics of Texas. 
+/
+Social Issues and Ethics in Science and Technology
+This course exposes students to major theoretical approaches and professional codes of ethics and how they may be applied to explore a range of important social issues in the information age. Issues of professional ethics, computer crime and privacy, intellectual property, the balance between the acceptability of risk and constraints such as cost, scheduling, safety and quality, the role of globalization and various important constitutional issues are explored by drawing upon case studies.
+/
+Calculus I
+Functions, limits, continuity, differentiation; integration of function of one variable; logarithmic, exponential, and inverse trigonometric functions; techniques of integration, and applications
+/
+Calculus II
+Improper integrals, sequences, infinite series, power series, parametric equations and polar coordinates, vectors, vector valued functions, functions of several variables, partial derivatives and applications, and multiple integration.
+/
+Linear Algebra
+Introduces and provides models for application of the concepts of vector algebra. Topics include finite dimensional vector spaces and their geometric significance; representing and solving systems of linear equations using multiple methods, including Gaussian elimination and matrix inversion; matrices; determinants; linear transformations; quadratic forms; eigenvalues and eigenvectors; and applications in science and engineering.
+/
+Computer Science I
+Review of control structures and data types with emphasis on structured data types. Applies the object-oriented programming paradigm, focusing on the definition and use of classes along with the fundamentals of object-oriented design. Includes basic analysis of algorithms, searching and sorting techniques, and an introduction to software engineering. 
+/
+Discrete Mathematics for Computing I
+Principles of counting. Boolean operations. Logic and proof methods. Recurrence relations. Sets, relations, functions. Elementary graph theory. Elementary number theory
+/
+Introduction to Computer Science and Software Engineering
+Introduction to quantitative methods; team projects designed to replicate decision processes and problem solving in real-world situations
+/
+Software Engineering
+ntroduction to software life cycle models. Software requirements engineering, formal specification and validation. Techniques for software design and testing.
+/
+Computer Architecture
+This course introduces the concepts of computer architecture by going through multiple levels of abstraction, and the numbering systems and their basic computations. It focuses on the instruction-set architecture of the MIPS machine, including MIPS assembly programming, translation between MIPS and C, and between MIPS and machine code. General topics include performance calculation, processor datapath, pipelining, and memory hierarchy
+/
+Mathematical Foundations of Software Engineering
+Boolean logic, first-order logic, models of first-order logic. Introduction to program verification, applications in software engineering. Completeness Theorem. Regular expressions, regular sets, finite-state machines, and applications in software engineering
+/
+Database Systems
+This course emphasizes the concepts and structures necessary for the design and implementation of database management systems. Topics include data models, data normalization, data description languages, query facilities, file organization, index organization, file security, data integrity, and reliability.
+/
+Software Architecture and Design
+Introduction to software design with emphasis on architectural design. Models of software architecture. Architecture styles and patterns, including explicit, event-driven, client-server, and middleware architectures. Decomposition and composition of architectural components and interactions. 
+/
+Software Project Planning and Management
+SEI's Capability Maturity Model, continuous process improvement. Planning, scheduling, tracking, cost estimation, risk management, configuration management.
+/
+Software Engineering Project
+Software Engineering Project
+/
+Software Architecture and Design
+Introduction to software design with emphasis on architectural design. Models of software architecture. Architecture styles and patterns, including explicit, event-driven, client-server, and middleware architectures. Decomposition and composition of architectural components and interactions. 
+/
+Object-Oriented Design
+n-depth study of the features/advantages of object-oriented approach to problem solving. Special emphasis on issues of object-oriented analysis, design, implementation, and testing. Review of basic concepts of object-oriented technology (abstraction, inheritance, and polymorphism). Object-oriented programming languages, databases, and productivity tools.
+/
+Introduction to VLSI Design
+Introduction to CMOS digital IC design using semi-custom and full-custom design techniques with an emphasis on techniques for rapid prototyping and use of various VLSI design tools. FPGA's, standard cell and full-custom design styles.
+/
+Senior Honors in Software Engineering
+Senior Honors in Software Engineering
+/
+Computer Networks
+The design and analysis of computer networks. Topics include the ISO reference model, transmission media, medium-access protocols, LANs, data link protocols, routing, congestion control, internetworking, and connection management. 
+/

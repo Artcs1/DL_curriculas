@@ -1,0 +1,143 @@
+/
+Computer Science I
+Techniques of problem-solving and algorithmic development. An introduction to programming. Emphasis is on how to design, code, debug, and document programs using good programming style. 
+/
+Computer Science II
+Computer Science II
+/
+Algorithm&Abstract Data Struct
+Algorithm analysis using O-notation, sorting, heaps, balanced binary search trees, and hash tables.
+/
+Software Development
+This course covers topics in object-oriented programming, user-interface design and development, and software construction including program design, development tools, and basic concepts in software engineering. 
+/
+Computer Organization
+This course covers basic topics in the design of modern computer systems. Topics include digital logic, computer system components, machine-level code, memory organization and management, computer arithmetic, assembly-language programming, and basic connections between high-level and low-level languages (C and assembly). This course also serves as a foundation for courses on networking. security, operating systems, and computer architecture, where a deeper understanding of systems-level issues is required. 
+/
+Database Management Systems
+Introduction to database concepts. A study of data models, data normalization, relational algebra. Use of data definition and data manipulation languages including embedded SQL. File and index organization. 
+/
+Organization of Program Langs
+Examination of the structures and concepts of procedural, functional, and logic-based programming languages.
+/
+Operating Systems
+Study of operating systems internals. Topics include concurrent programming, memory management, file system management, scheduling algorithms, security. 
+/
+Computer Security
+Study of security and information assurance in stand-alone and distributed computing. Topics include ethics, privacy, access control methods and intrusion detection. 
+/
+Theory of Computation
+Study of the theory of computation. Regular grammars, finite state automata, context-free grammars, pushdown automata, Turing machines, parsing, normal forms, and the Chomsky hierarchy. 
+/
+Theory of Computation
+Study of the theory of computation. Regular grammars, finite state automata, context-free grammars, pushdown automata, Turing machines, parsing, normal forms, and the Chomsky hierarchy.
+/
+Software Engineering
+A survey of approaches used in software engineering focusing on software development processes, requirements engineering, estimation, scheduling, risk analysis, testing, version control, and project management. Students apply the techniques and practices learned in their senior design projects, including the development of a detailed project plan and a functional software prototype.
+/
+Senior Design Project Lab I
+First semester of a two semester senior design project in which students work in teams to develop a large software product. 
+/
+Senior Design Project Lab II
+Second semester of a two semester senior design project in which students work in teams to develop a large software product. 
+/
+Computers and Society
+This course discusses ethical, societal, security and legal issues in computing, including their relationship to professional development. Topics are examined within the context of students' senior design projects.
+/
+Great Ideas in Comp Sci
+3.00 credits
+Computer science is the study of what is computable. Students will be introduced to computing technologies and learn how these technologies are applied in today's world. The course will focus on the relationship between computation, technology, and society. Topics could include robotics, artificial intelligence, bio-computing, media computing, technology from the movies, and technology and art. On sufficient demand.
+CPSC 107 User Centered Web Site Design
+3.00 credits
+Introduction to quality design principles and user-centered development techniques used in creating a web site. Topics will include human-computer interaction, graphical design, prototyping, and introduction to web programming. On sufficient demand.
+/
+Algorithmic Art
+Algorithmic Art sits at the intersection of mathematics, programming, algorithms, and art. The primary goal of the course is to teach computational thinking to liberal arts students. Student motivation is achieved by presenting programming and math concepts in the context of the visual arts. The assignments use the programming environment called Processing which was developed specifically for visual artists. Fall.
+/
+Computational Modeling
+This course introduces students to the modeling process and computer simulations. It considers two major approaches: system dynamics models and agent-based models. A variety of software tools will be explored. Applications will be chosen from ecology, medicine, chemistry, biology, and others. 
+/
+Introduction to Data Science
+This course provides an introduction to the underlying ideas, concepts, and techniques used in data science. Students gain skills in statistical and computational thinking, and their practical application to real-world, data-driven problem solving and decision making.The course teaches important concepts and skills in both statistical reasoning and computer programming for the purpose of analyzing real-world datasets. Examples are drawn from diverse areas such as economics, social science, health and wellness, climate science, and education. Students gain experience using the Python programming language, Pythons standard libraries for data science applications and computational notebooks (e.g. using Jupyter). The course also raises important social questions concerning privacy, social inequality, and professional ethics related to data science and its applications.
+/
+Algorithm&Abstract Data Struct
+Algorithm analysis using O-notation, sorting, heaps, balanced binary search trees, and hash tables.
+/
+Machine Lrng & Intllgnt Systms
+This course provides a detailed overview of topics in machine learning with an emphasis on algorithms and techniques for unstructured and complex datasets. Students implement and apply machine learning algorithms to examples drawn from time series, image, audio, textual, and numerical data. Topics include regression analysis, support vector machines, genetic algorithms, neural networks and heuristic search. Concepts and issues in building intelligent systems and the role of machine learning are also discussed. 
+/
+Calculus-Analytic Geometry I
+An introduction to calculus for engineering, science and mathematics students, with an emphasis on conceptual understanding, problem solving, and modeling. Topics covered include: limits, continuity, derivatives of algebraic, trigonometric, and transcendental functions, applications of the derivative including optimization problems and linear approximations, antiderivatives, introduction to the definite integral, and the Fundamental Theorem of Calculus.
+/
+Discrete Structures
+Topics taken from sets, functions, matrices, ordered sets, partially ordered sets, directed graphs, algebraic systems, recursive definitions, and algorithms.
+/
+Calculus-Analytic Geometry II
+Topics covered are: techniques of integration, applications of the integral, improper integrals, sequences and infinite series with an introduction to convergence tests, parametric equations, and polar coordinates.
+/
+Ordinary Differential Equation
+Solution methods for first order equations and for second and higher order linear equations. Includes series methods and solution of linear systems of differential equations. 
+/
+Advanced Engineering Math
+Application of advanced mathematical techniques to problems of interest to engineers and scientists. Analytical methods involving topics such as ordinary and partial differential equations, special functions, and complex valued functions.
+/
+Info Flow in Biol Systems
+This course provides a foundation in the principles of biology by examining the fundamental role of information in generating the properties of life. The course explores the molecular basis of biological information (codes, signals, structures) and its role in growth, development, communication, regulation, reproduction and evolution of living things.
+/
+Energy Flow in Biol Systems
+This course focuses on the biological processes of energy acquisition, how energy is used in biological systems, and how energy is transferred between organisms and through ecosystems. Human impacts to energy transfer will be covered and topics will integrate energy concepts from cells to organisms to ecosystems.
+/
+Physiology & Biodiversity
+This course focuses on understanding the diversity of life on earth and the physiological mechanisms that allow organisms to live in a wide array of environments. A framework of physiology is used to compare and contrast clades of organisms.
+/
+Ecology
+This course examines the ecological and evolutionary mechanisms that determine the distribution and abundance of species. Students will explore interactions between organisms and their environments at levels from individuals through ecosystems.
+/
+Genetics
+This course promotes an understanding of genes and genomes – their molecular properties, how they are expressed and regulated, how they contribute to inheritance, and how they are shaped by evolutionary forces.
+/
+General Chemistry
+A systematic treatment of the fundamental laws and theories of chemistry and their applications. 
+/
+Inorganic Chemistry
+Introduction to foundational concepts in inorganic chemistry with emphasis on atomic structure, bonding, and reactivity. Topics will include nuclear chemistry, quantum mechanics, periodic trends, covalent bonding, ionic bonding, metallic bonding, coordinate covalent bonding, acid-base chemistry, electrochemistry, and thermodynamics. 
+/
+Organic Chemistry I
+Essential concepts in bonding and structure, acid-base chemistry, reactivity and synthesis of functional groups, nomenclature, and mechanisms of fundamental organic reactions. 
+/
+Organic Chemistry II
+A significant focus of the course will be on aromatic compounds and carbonyl chemistry. Other topics include organometallic chemistry, radicals, mass spectrometry and synthetic polymers.
+/
+Biochemistry
+Structure and function of the major classes of biomolecules (carbohydrates, lipids, proteins and nucleic acids). Fundamental concepts of protein structure and function, kinetics and enzymology, bioenergetics and thermodynamics, metabolism and regulation, will be discussed.
+/
+Chaos & Dynamical Systems
+Introduction to the study of discrete nonlinear dynamical systems and their chaotic behavior. The course will focus on investigation s through computer experiments- both numerical and graphical- and the corresponding mathematical analysis of the observed behavior. A significant portion of the course will be devoted to designing graphics programs. In the humanistic tradition of Gonzaga, students will also learn the historical development of the modern science of chaotic dynamical systems.
+/
+Advanced Engineering Math
+Application of advanced mathematical techniques to problems of interest to engineers and scientists. Analytical methods involving topics such as ordinary and partial differential equations, special functions, and complex valued functions.
+/
+Scientific Physics I
+Calculus-based introductory physics. Mechanics, including Newton's laws, conservation laws, fluids, oscillations, and waves.
+/
+Scientific Physics II
+Calculus-based introductory physics. Thermodynamics, electricity and magnetism, and optics. Five hours of lecture with experimental demonstrations and problems. 
+/
+Modern Physics
+Special relativity, development and an introduction to quantum mechanics and other selected topics. 
+/
+Computational Physics
+An introduction to computational physics. Students will be introduced to many of the basic ideas, algorithms, and tools used by physicists to solve problems. 
+/
+Intro to Linear Electronics
+This course is primarily a laboratory in which students learn basic concepts of linear electronics and laboratory techniques through passive components, DC and AC applications, use of test equipment, operational amplifiers, basic transistor circuits, and more.
+/
+Modern Physics Lab
+Modern Physics Lab
+/
+Calculus-Analytic Geometry III
+A treatment of multivariable calculus and the calculus of vector fields. Topics include: vectors and vector-valued functions, partial derivatives, multiple integration, curl and divergence, line integrals, Green’s theorem, Stokes’ theorem, and the Divergence theorem.
+/
+Ordinary Differential Equation
+Solution methods for first order equations and for second and higher order linear equations. Includes series methods and solution of linear systems of differential equations.
+/

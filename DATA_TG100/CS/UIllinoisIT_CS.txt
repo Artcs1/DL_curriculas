@@ -1,0 +1,271 @@
+﻿/
+Intercultural Communication
+An introduction to the problems of communication across cultures, with emphasis on the interplay of American civilization with those of other cultural areas.
+/
+General Physics I: Mechanics
+Vectors and motion in one, two and three dimensions.  Newton's Laws.  Particle dynamics, work and energy.  Conservation laws and collisions.  Rotational kinematics and dynamics, angular momentum and equilibrium of rigid bodies.  Gravitation.  Oscillations.
+/
+Graph Theory and Applications
+Directed and undirected graphs; paths, cycles, trees, Eulerian cycles, matchings and coverings, connectivity, Menger's Theorem, network flow, coloring, planarity, with applications to the sciences (computer, life, physical, social) and engineering.
+/
+Discrete Structures
+Introduction to the use of formal mathematical structures to represent problems and computational processes. Topics covered include Boolean algebra, first-order logic, recursive structures, graphs, and abstract language models.
+/
+Introduction to Computer Science Research
+Prepares undergraduate computer science majors for conducting research.
+/
+Introduction to Information Security
+An introduction to the fundamentals of computer and information security. This course focuses on algorithms and techniques used to defend against malicious software. Topics include an introduction to encryption systems, operating system security, database security, network security, system threats, and risk avoidance procedures.
+/
+Advanced Computer Security
+This course will teach various modern topics in network and computer security.  It will provide a thorough grounding in cyber-security for students who are interested in conducting research on security and networking and for students who are more broadly interested in real-world security issues and techniques.  Students will undertake a semester-long research project with the goal of technical publications.  Lecture topics will include, but not limited to:  (1) Unwanted traffic, such as denial of service (DoS), and spam; (2) Malware, such as botnet, worm, and virus; (3) Network configuration and defense, such as firewall, access control, and intrusion detection systems; (4) Cyber physical system security, such as critical infrastructure protection (e.g., smart grid); and (5) Hot topics, such as software-defined networking (SDN), network verification, data center and enterprise network security, web security and more.
+/
+Software Engineering I
+Study of the principles and practices of software engineering. Topics include software quality concepts, process models, software requirements analysis, design methodologies, software testing and software maintenance. Hands-on experience building a software system using the waterfall life cycle model. Students work in teams to develop all life cycle deliverables: requirements document, specification and design documents, system code, test plan, and user manuals.
+/
+Multivariate and Vector Calculus
+Analytic geometry in three-dimensional space. Partial derivatives. Multiple integrals. Vector analysis. Applications.
+/
+Technical Communication
+Principles and practice in the communication of technical materials. Students work on the design, writing, and revising of reports, articles, manuals, procedures, proposals, including the use of graphics. Works by modern writers are analyzed.
+/
+Systems Programming
+Examines the components of sophisticated multilayer software systems, including device drivers, systems software, applications interfaces, and user interfaces. Explores the design and development of interrupt-driven and event-driven software.
+/
+Matrix Algebra and Complex Variables
+Vectors and matrices; matrix operations, transpose, rank, inverse; determinants; solution of linear systems; eigenvalues and eigenvectors. The complex plane; analytic functions; contour integrals; Laurent series expansions; singularities and residues.
+/
+Natural Language Processing
+An introduction to the problems of computing with human languages. Parsing. Semantic representations. Text generation. Lexicography. Discourse. Sublanguage studies. Applications to CAI, database interfaces and information retrieval.
+/
+Information Retrieval
+Overview of fundamental issues of information retrieval with theoretical foundations. The information-retrieval techniques and theory, covering both effectiveness and run-time performance of information-retrieval systems are covered. The focus is on algorithms and heuristics used to find documents relevant to the user request and to find them fast. The course covers the architecture and components of the search engine such as parser, stemmer, index builder, and query processor. The students learn the material by building a prototype of such a search engine. Requires strong programming knowledge.
+/
+Special Projects
+Special Projects
+/
+Introduction to Parallel and Distributed Computing
+This course covers general introductory concepts in the design and implementation of parallel and distributed systems covering all the major branches such as cloud computing, grid computing, cluster computing, supercomputing, and many-core computing.
+/
+Introduction to Advanced Studies I
+First course in a two-course sequence that is designed to prepare students for graduate study in computer science.  Explores the implementation and application of fundamental data structures and algorithms with an emphasis on object-oriented programming in Java.  Examines the relationship between these elements and the mathematical structures that form the foundation of computer science.
+/
+Probability and Statistics
+Elementary probability theory including discrete and continuous distributions, sampling, estimation, confidence intervals, hypothesis testing, and linear regression.
+/
+Database Organization
+Overview of database architectures, including the Relational, Hierarchical, Network, and Object Models. Database interfaces, including the SQL query language. Database design using the Entity-Relationship Model. Issues such as security, integrity, and query optimization.
+/
+Introduction to Mathematical Modeling
+This course provides an introduction to problem-driven (as opposed to method-driven) applications of mathematics with a focus on design and analysis of models using tools from all parts of mathematics.
+/
+Calculus II
+Transcendental functions and their calculus. Integration techniques. Applications of the integral. Indeterminate forms and improper integrals. Polar coordinates. Numerical series and power series expansions.
+/
+Distributed Objects
+This course provides an introduction to architecture, analysis, design, and implementation of distributed, multi-tier applications using distributed object technology. The course focuses on the services and facilities provided by an Object Request Broker (ORB). Students will use a commercially available ORB and Database Management System to develop distributed object applications.
+/
+Machine Learning
+Introduce fundamental problems in machine learning.  Provide understanding of techniques, mathematical concepts, and algorithms used in machine learning.  Provide understanding of the limitations of various machine learning algorithms and the way to evaluate performance of learning algorithms.  Topics include introduction, regression, kernel methods, generative learning, discriminative learning, neural networks, support vector machines, graphical models, unsupervised learning, and dimensionality reduction.
+/
+Object-Oriented Programming II
+Introduces more advanced elements of object-oriented programming, including dynamic data structures, recursion, searching and sorting, and advanced object-oriented programming techniques.
+/
+Introduction to Differential Equations
+Linear differential equations of order one. Linear differential equations of higher order. Series solutions of linear DE. Laplace transforms and their use in solving linear DE. Introduction to matrices. Systems of linear differential equations.
+/
+Discrete Structures
+Introduction to the use of formal mathematical structures to represent problems and computational processes. Topics covered include Boolean algebra, first-order logic, recursive structures, graphs, and abstract language models.
+/
+Introduction to Wireless Networks and Performance
+This class provides an opportunity for students to obtain a fundamental understanding of the nature and operation of the full range of wireless networks (personal, local area, wide area, and satellite) and their performance characteristics, future potential, and challenges through class lectures, assigned readings, homework, projects, and various hands-on experiences.
+/
+Distributed Objects
+This course provides an introduction to architecture, analysis, design, and implementation of distributed, multi-tier applications using distributed object technology. The course focuses on the services and facilities provided by an Object Request Broker (ORB). Students will use a commercially available ORB and Database Management System to develop distributed object applications.
+/
+Cryptography
+Cryptography provides foundations for ensuring the confidentiality, authenticity, integrity and privacy of the increasing sensitive information in digital world.  It
+is a theoretical field that relies on a diverse and wide variety of mathematics.  The topics in this course include encryption, message authentication codes, digital signatures, public key crypto-systems, key exchange, identification protocols, zero-knowledge proof systems, etc.  The goal of this course is to help students develop a solid understanding of the fundamentals of security and become familiar with the theories of cryptography as well as the role of cryptography in the recent and emerging applications.
+/
+General Physics II:  Electricity and Magnetism
+Waves charge, electric field, Gauss' Law and potential.  Capacitance, resistance, simple a/c and d/c circuits.  Magnetic fields, Ampere's Law, Faraday's Law, induction, and Maxwell's equations.  Traveling waves, electromagnetic waves, and light.
+/
+Data Mining
+This course will provide an introductory look at concepts and techniques in the field of data mining. After covering the introduction and terminologies to Data Mining, the techniques used to explore the large quantities of data for the discovery of meaningful rules and knowledge such as market basket analysis, nearest neighbor, decision trees, and clustering are covered. The students learn the material by implementing different techniques throughout the semester.
+/
+Elementary Linear Algebra
+Systems of linear equations; matrix algebra, inverses, determinants, eigenvalues, and eigenvectors, diagonalization; vector spaces, basis, dimension, rank and nullity; inner product spaces, orthonormal bases; quadratic forms.
+/
+Number Theory
+Divisibility, congruencies, distribution of prime numbers, functions of number theory, diophantine equations, applications to encryption methods.
+/
+Introduction to Artificial Intelligence
+Introduction to computational methods for intelligent control of autonomous agents, and the use of programming paradigms that support development of flexible and reactive systems. These include heuristic search, knowledge representation, constraint satisfaction, probabilistic reasoning, decision-theoretic control, and sensor interpretation. Particular focus will be places on real-world application of the material.
+/
+Systems Programming
+Examines the components of sophisticated multilayer software systems, including device drivers, systems software, applications interfaces, and user interfaces. Explores the design and development of interrupt-driven and event-driven software.
+/
+Introduction to Information Security
+An introduction to the fundamentals of computer and information security. This course focuses on algorithms and techniques used to defend against malicious software. Topics include an introduction to encryption systems, operating system security, database security, network security, system threats, and risk avoidance procedures.
+/
+Design and Analysis of Experiments
+Review of elementary probability and statistics; analysis of variance for design of experiments; estimation of parameters; confidence intervals for various linear combinations of the parameters; selection of sample sizes; various plots of residuals; block designs; Latin squares; one, two, and 2^k factorial designs; nested and cross factor designs; regression; nonparametric techniques.
+/
+Information and Knowledge Management Systems
+This capstone course is designed as a project course whose purpose is to enable students to see how the various algorithms and systems they have learned about in their prerequisite courses can be used in context to create useful knowledge management tools.  Class periods will be divided among discussion of design of information and knowledge management systems, lectures on effective project management techniques, and hands-on advising of student project group meetings.
+/
+Introduction to Discrete Structures and Algorithms
+This course will provide students with an understanding of some basic discrete mathematics and techniques for designing computer algorithms and measuring and analyzing their behavior. We emphasize the necessary mathematical ideas such as how to prove a mathematical statement, how to analyze the worst case and the average case complexity of an algorithm. We also introduce students to some new techniques used in designing algorithms, such as the approximation algorithms and randomized algorithms.
+/
+Calculus I
+Analytic geometry.  Functions and their graphs.  Limits and continuity.  Derivatives of algebraic and trigonometric functions.  Applications of the derivative.  Introduction to integrals and their applications.
+/
+Mobile Applications Development
+Students will learn a variety of software engineering techniques and design patterns to assist in the rapid development and prototyping of applications, leveraging frameworks and APIs provided by current mobile development platforms (such as Android and iOS).  Application lifecycles, data management and persistence mechanisms, and user interface design, among other topics, will be covered.  Industry speakers will be invited to speak about best practices.  Students (individually or in teams) will take ideas from concept to final implementation and will present their work at the end of the semester.  When appropriate, students may take the additional step of deploying their work on the appropriate application marketplace(s).
+/
+Introduction to Computational Mathematics
+Study and design of mathematical models for the numerical solution of scientific problems. This includes numerical methods for the solution on linear and nonlinear systems, basic data fitting problems, and ordinary differential equations. Robustness, accuracy, and speed of convergence of algorithms will be investigated including the basics of computer arithmetic and round-off errors.
+/
+Introduction to Algorithms
+Introduction to the design, behavior, and analysis of computer algorithms. Searching, sorting, and combinatorial algorithms are emphasized. Worst case, amortized, and expected bounds on time and space usage.
+/
+Editing
+Principles and practical applications of editing at all levels, working with both hard and soft copy and including copymarking, copyediting, proofreading, grammar and style, and comprehensive editing.  Attention primarily to documents from science, technology, and business.
+/
+Probability
+Elementary probability theory; combinatorics; random variables; discrete and continuous distributions; joint distributions and moments; transformations and convolution; basic theorems; simulation.
+/
+Computer Organization and Assembly Language Programming
+Introduction to the internal architecture of computer systems, including micro-, mini-, and mainframe computer architectures. Focuses on the relationship among a computer's hardware, its native instruction set, and the implementation of high-level languages on that machine. Uses a set of assembly language programming exercises to explore and analyze a microcomputer architecture.
+/
+Linear Optimization
+Introduction to both theoretical and algorithmic aspects of linear optimization: geometry of linear programs, simplex method, anticycling, duality theory and dual simplex method, sensitivity analysis, large scale optimization via Dantzig-Wolfe decomposition and Benders decomposition, interior point methods, network flow problems, integer programming.
+/
+Programming Languages and Translators
+Study of commonly used computer programming languages with an emphasis on precision of definition and facility in use. Scanning, parsing, and introduction to compiler design. Use of compiler generating tools.
+/
+Information and Knowledge Management Systems
+This capstone course is designed as a project course whose purpose is to enable students to see how the various algorithms and systems they have learned about in their prerequisite courses can be used in context to create useful knowledge management tools.  Class periods will be divided among discussion of design of information and knowledge management systems, lectures on effective project management techniques, and hands-on advising of student project group meetings.
+/
+Data Communications
+Introduction to data communication concepts and facilities with an emphasis on protocols and interface specifications. Focuses on the lower four layers of the ISO-OSI reference model.
+/
+Undergraduate Research
+Undergraduate Research
+
+
+/
+Information Retrieval
+Overview of fundamental issues of information retrieval with theoretical foundations. The information-retrieval techniques and theory, covering both effectiveness and run-time performance of information-retrieval systems are covered. The focus is on algorithms and heuristics used to find documents relevant to the user request and to find them fast. The course covers the architecture and components of the search engine such as parser, stemmer, index builder, and query processor. The students learn the material by building a prototype of such a search engine. Requires strong programming knowledge.
+/
+Computers and Society
+Discussion of the impact of computer technology on present and future society. Historical development of the computer. Social issues raised by cybernetics.
+/
+Operating Systems
+Introduction to operating system concepts-including system organization for uniprocessors and multiprocessors, scheduling algorithms, process management, deadlocks, paging and segmentation, files and protection, and process coordination and communication.
+/
+Marketing Fundamentals
+BUS 371 focuses on the information, frameworks and techniques required to devise a marketing strategy for the organization.  The course begins with an understanding of how to design products and services for consumers based on their needs and their budget constraints.  It then moves to an evaluation of the capabilities of the firm, its collaborators, and its competitors in service of developing appropriate price and promotion strategies when going to market.  This course has no formal pre-requisites, but students will benefit from a basic background in microeconomics and basic statistics.
+/
+Introduction to Stochastic Processes
+This is an introductory, undergraduate course in stochastic processes.  Its purpose is to introduce students to a range of stochastic processes which are used as modeling tools in diverse fields of applications, especially in risk management applications for finance and insurance.  The course covers basic classes of stochastic processes:  Markov chains and martingales in discrete time; Brownian motion; and Poisson process.  It also presents some aspects of stochastic calculus.
+/
+Computer Organization and Assembly Language Programming
+Introduction to the internal architecture of computer systems, including micro-, mini-, and mainframe computer architectures. Focuses on the relationship among a computer's hardware, its native instruction set, and the implementation of high-level languages on that machine. Uses a set of assembly language programming exercises to explore and analyze a microcomputer architecture.
+/
+Artificial Intelligence Language Understanding
+Theory and programming paradigms that enable systems to understand human language texts and extract useful information and knowledge. For example, extraction of structured event representations from news stories or discovering new research hypotheses by analyzing thousands of medical research articles. the course covers a variety of text analysis and text mining methods, with an emphasis on building working systems. Connections to information retrieval, data mining, and speech recognition will be discussed.
+/
+Document Design
+Principles and strategies for effective document and information design, focusing on print media.  Students design, produce, and evaluate documents for a variety of applications, such as instructional materials, brochures, newsletters, graphics, and tables.
+/
+Computers and Society
+Discussion of the impact of computer technology on present and future society. Historical development of the computer. Social issues raised by cybernetics.
+/
+Combinatorics
+Permutations and combinations; pigeonhole principle; inclusion-exclusion principle; recurrence relations and generating functions; enumeration under group action.
+/
+Special Projects
+Special projects.
+/
+Topics in Computer Science
+This course will treat a specific topic, varying from semester to semester, in which there is particular student or staff interest.
+/
+Introduction to Algorithms
+Introduction to the design, behavior, and analysis of computer algorithms. Searching, sorting, and combinatorial algorithms are emphasized. Worst case, amortized, and expected bounds on time and space usage.
+/
+ Undergraduate Research
+Undergraduate Research
+/
+Artificial Intelligence Language Understanding
+Theory and programming paradigms that enable systems to understand human language texts and extract useful information and knowledge. For example, extraction of structured event representations from news stories or discovering new research hypotheses by analyzing thousands of medical research articles. the course covers a variety of text analysis and text mining methods, with an emphasis on building working systems. Connections to information retrieval, data mining, and speech recognition will be discussed.
+/
+Software Engineering I
+Study of the principles and practices of software engineering. Topics include software quality concepts, process models, software requirements analysis, design methodologies, software testing and software maintenance. Hands-on experience building a software system using the waterfall life cycle model. Students work in teams to develop all life cycle deliverables: requirements document, specification and design documents, system code, test plan, and user manuals.
+/
+Data Structures and Algorithms
+Implementation and application of the essential data structures used in computer science. Analysis of basic sorting and searching algorithms and their relationship to these data structures. Particular emphasis is given to the use of object-oriented design and data abstraction in the creation and application of data structures.
+/
+Data Communications
+Introduction to data communication concepts and facilities with an emphasis on protocols and interface specifications. Focuses on the lower four layers of the ISO-OSI reference model.
+/
+Data Mining
+This course will provide an introductory look at concepts and techniques in the field of data mining. After covering the introduction and terminologies to Data Mining, the techniques used to explore the large quantities of data for the discovery of meaningful rules and knowledge such as market basket analysis, nearest neighbor, decision trees, and clustering are covered. The students learn the material by implementing different techniques throughout the semester.
+/
+Introduction to Computer Science Research
+Prepares undergraduate computer science majors for conducting research.
+/
+Statistics
+Estimation theory; hypothesis tests; confidence intervals; goodness-of-fit tests; correlation and linear regression; analysis of variance; nonparametric methods.
+/
+Operating Systems
+Introduction to operating system concepts-including system organization for uniprocessors and multiprocessors, scheduling algorithms, process management, deadlocks, paging and segmentation, files and protection, and process coordination and communication.
+/
+Special Projects
+Special projects.
+/
+Introduction to Parallel and Distributed Computing
+This course covers general introductory concepts in the design and implementation of parallel and distributed systems covering all the major branches such as cloud computing, grid computing, cluster computing, supercomputing, and many-core computing.
+/
+Cloud Computing
+This course is a tour through various topics and technologies related to cloud computing.  Students will explore solutions and learn design principles for building large network-based systems to support both compute-intensive and data-intensive applications across geographically distributed infrastructure.  Topics include resource management, programming models, application models, system characterizations, and implementations.  Discussions will often be grounded in the context of deployed cloud computing systems such as Amazon EC2 and S3, Microsoft Azure, Google AppEngine, Eucalyptus, Nimbus, OpenStack, Google's MapReduce, Yahoo's Hadoop, Microsoft's Dryad, Sphere/Sector, and many other systems.  The course involves lectures, outside invited speakers, discussions of research papers, programming assignments, and a major project (including both a written report and an oral presentation).
+/
+Computer Architecture
+Introduction to the functional elements and structures of digital computers. Detailed study of specific machines at the register transfer level illustrates arithmetic, memory, I/O and instruction processing.
+/
+Foundations to Advanced Studies
+This course is a six-credit hour integration of CS 401 and CS 402. The course is an introduction to data structures but is designed to expand programming skills/concepts using software development methodology techniques. The course also provides an introduction to computer architecture and systems programming including assembly language programming, event handling and multi-threading.
+/
+Computer Graphics
+Overview of display devices and applications. Vector graphics in two and three dimensions. Image generation, representation, and manipulation. Homogeneous coordinates. Modeling and hidden line elimination. Introduction to raster graphics. Perspective and parallel projections.
+/
+Introduction to Advanced Studies II
+Second course in a two-course sequence that is designed to prepare students for graduate study in computer science. Explores the development of the multiple layers of software that form a sophisticated software system, from device drivers to application interfaces to user interfaces. Examines how computer architecture influences software development. Emphasizes the design and implementation of interrupt-driven/event-driven software.
+/
+Object Oriented Design and Programming
+Introduction to methodologies for object-oriented design and programming. Examines the object model and how it is realized in various object-oriented languages. Focuses on methods for developing and implementing object-oriented systems.
+/
+Programming Languages and Translators
+Study of commonly used computer programming languages with an emphasis on precision of definition and facility in use. Scanning, parsing, and introduction to compiler design. Use of compiler generating tools.
+/
+Introduction to the Profession
+An introduction to science and engineering as a profession. Examines the problem-solving process used in engineering and science. Emphasizes the interdisciplinary and international nature of problem-solving and the need to evaluate solutions in terms of a variety of constraints: computational, financial, and social.
+/
+Programming Paradigms and Patterns
+This class balances the imperative, object-oriented bent of the introductory programming sequence by presenting alternative programming paradigms and asks students to write complex programs from scratch while amassing a repertoire of reusable programming patterns and techniques.  Programming assignments, drawn from various domains of computer science, will highlight the importance of selecting appropriate data structures, algorithms, and techniques for the problem at hand.
+/
+Mobile Applications Development
+Students will learn a variety of software engineering techniques and design patterns to assist in the rapid development and prototyping of applications, leveraging frameworks and APIs provided by current mobile development platforms (such as Android and iOS).  Application lifecycles, data management and persistence mechanisms, and user interface design, among other topics, will be covered.  Industry speakers will be invited to speak about best practices.  Students (individually or in teams) will take ideas from concept to final implementation and will present their work at the end of the semester.  When appropriate, students may take the additional step of deploying their work on the appropriate application marketplace(s).
+/
+Object-Oriented Programming I
+Introduces the use of a high-level object-oriented programming language as a problem-solving tool, including basic data structures and algorithms, object-oriented programming techniques, and software documentation. Designed for students who have had little or no prior experience with computer programming. For students in CS and CS-related degree programs.
+/
+Database Organization
+Overview of database architectures, including the Relational, Hierarchical, Network, and Object Models. Database interfaces, including the SQL query language. Database design using the Entity-Relationship Model. Issues such as security, integrity, and query optimization.
+/
+Verbal and Visual Communication
+Introduces students to the issues, strategies, and ethics of technical and professional presentations, and provides students with opportunities to engage in public address, video presentations and conferencing, and group presentations. Analysis of audience types and presentation situations, group dynamics, persuasive theories, language, and mass media.
+/
+Compiler Construction
+This course covers the design and implementation of a compiler for modern languages by implementing the following:  abstract syntax trees; intermediate representations; static analysis; fix-point operations; symbol tables and type checking; and first-order and high-order function implementation.  Students will incrementally create a series of compilers.
+/

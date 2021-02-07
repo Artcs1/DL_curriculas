@@ -1,0 +1,74 @@
+/
+Writing I
+Writing I provides the undergraduate student with the foundation necessary for critical thinking through academic and other professional writing. Students will cultivate the skills of argumentation, uses of evidence, analysis, close reading of texts, and revision as essential elements of the college-level writing process
+/
+Computer Science I
+his course introduces Computer Science by using a high-level programming language. Students will be taught to design programs and implement them using object-oriented programming techniques
+/
+Precalculus
+This course prepares students for the study of calculus. Topics covered include real numbers, equations and inequalities and analytic geometry, as well as polynomial, rational, trigonometric, exponential and logarithmic functions. 
+/
+Writing II
+Expanding upon the argumentative and analytical emphases of Writing I, Writing II will foster research-based composition. In Writing II, students will demonstrate in prose their knowledge of rhetoric, employ a variety of research methods, and become familiar with latest information technologies
+/
+Computer Science II
+This course builds on the concepts covered in Computer Science I. Topics covered include inheritance, polymorphism, recursion, advanced GUI programming, exception handling and input/output handling. Students use integrated development environment to create, compile, run and debug programs.
+/
+Discrete Mathematics
+This course introduces discrete mathematics as applied to computer science. Topics covered include Boolean logic, elementary set theory, functions, relations, enumeration, proof techniques number systems and trees.
+/
+Introduction to Electronics
+This course provides an introduction to electronic circuit principles including diodes, transistors and analog integrated circuit (IC) building blocks. Laboratory work involves the use of modern test equipment to construct and observe the behavior of circuits we study. Topics covered include: electrical circuit theory, DC circuit analysis, electrical signals, integrator and differentiator circuit analysis, diodes, transistor switches, operational amplifier applications and IC timers.
+/
+Systems Programming
+This course provides the student with the fundamentals of structured programming at the systems level. UNIX is used as a base for this course. Students obtain a thorough knowledge of the C language, comfort in using the UNIX operating system and an appreciation for a systems approach to low-level programming tasks.
+/
+Calculus I
+This course involves the study of the derivative of a function, methods of differentiation and applications, L’Hospital’s Rule, integration of functions, the Fundamental Theorem of Calculus, and the substitution rule
+/
+Digital Electronics
+This course provides a study of the design and application of both asynchronous and synchronous electronic logic circuits. Counters, registers, serial and parallel adders, and arithmetic units are included. Topics covered are Boolean algebraic simplifications; Karnaugh maps; Quine McCluskey method; combinational logic circuits; sequential logic circuits; comparison of TTL, MOS, and ECL logic families; the arithmetic unit; coding and decoding; parity detection and generators; multiplexers and programmable logic devices.
+/
+Algorithms and Data Structures
+This course provides an introduction to modern study of computer algorithms and complex data structures. It explores the logic of algorithmic analysis and design as well as practical utility and implementation techniques. The basic ideas from Complexity Theory will help students understand the concept of efficiency of algorithms and its role in the design of algorithms. The analysis of data structures is focused on the concepts of linked list, queues, stacks and trees. Various programming techniques such as divide and conquer, dynamic programming and backtracking are presented.
+/
+Introduction to Speech Communication
+The class focuses on theory and practice of interpersonal and public communication, including communication theory, self-concept, perception, language, listening, non-verbal communication and public speaking
+/
+Programming Languages
+This course studies the hierarchy of programming languages starting with Assembly Language. It covers general principles of languages within imperative, object oriented and functional paradigms, as well as logic programming. Students have an opportunity to learn the basic concepts and constructs of various programming frameworks and practice software design skills in languages like Ada, Lisp and/or Prolog.
+/
+Computer Organization
+The purpose of this course is to provide a thorough discussion of the fundamentals of computer organization and architecture and to relate these to contemporary computer design issues. After a brief review of the basic digital components used, the steps that a designer would go through in the design of an elementary systems are covered followed by a discussion of the organization and design of the central processing unit (CPU) and various control system implementations. The input/output and memory subsystems are included as is a brief discussion of multiprocessing systems, pipelining and virtual memory.
+/
+Business Statistics
+Topics covered in this course include descriptive methods, probability distributions, estimation, testing, analysis of variance and regression analysis. 
+/
+Data Modeling and Database Design
+In this course, students will learn how to create data models from business requirements and transform them into logical and physical database designs and study the evolution and advantages of various database models. It teaches students how to design relational databases by applying ERD modeling and normalization techniques. Students will work with a database engine and the SQL language to create a two-layer application using a high-level language.
+/
+Microprocessors
+The course provides a detailed study of the microprocessor and its applications. Emphasis is placed on a current microprocessor, its hardware and software and its associated family of integrated circuits. Students design a microprocessor system, configuring the random access memory, the read-only memory and peripheral devices using peripheral interface adapters. Students reinforce theory with extensive laboratory work
+/
+Operating Systems
+This course examines the internal structure and operation of operating systems with an emphasis on their design criteria and approaches. Topics covered include process management, scheduling, deadlock, memory management, virtual memory, protection and security and distributed systems. A working knowledge of a higher-level system programming language and computer data structures is assumed.
+/
+Linear Algebra
+In this course topics covered include the application of vector spaces, linear transformations and matrices
+/
+Ethical Issues in Computer Science
+This course covers various ethical issues that arise as a result of increasing use of computers in contemporary society. Topics include methodology, tools and frameworks for analysis of ethical issues in Computer Science, social and ethical context of computing, professional and ethical responsibilities, risks and liabilities of safety-critical systems, privacy and civil liberties, social implications of the internet and cyber-security.
+/
+Software Engineering
+This course examines main features of software life cycle. It covers the main issues in design creation, principles of programs verification, system testing and evaluation criteria. This course provides students with an opportunity to obtain practical experience in software design using CASE tools. Students work in project teams and apply principles of software design, verification, testing and coding toward the solutions of assigned problems.
+/
+Game Programming
+This course covers main game programming techniques and related algorithms. Topics may include game program architecture, game engine design patterns, game library, rapid prototyping and game testing, bitmap handling through programming, sound and music in game programming, pathfinding algorithms, and 3D programming.  Game programming tools will be implemented using Object-Oriented paradigm and students will be able to choose any appropriate programming language for their main project.
+/
+Computer Graphics Programming
+Students will write programs that create digital representations of geometric objects and render them on a computer screen. Topics covered in this course are: the graphics processing pipeline, graphics primitives, vertex specification, rendering, color theory, geometric transformations, illumination, perspectives and the virtual camera.
+/
+Digital Signal Processing
+DSP has found its way into a number of applications, including communications and controls, graphics, and speech and image processing. DSP is concerned with real time signal processing where timing is of the utmost importance. This course will help students understand time and frequency domain descriptions of signals and systems. Linear time invariant systems, convolution, difference equations, and various mathematical transforms. Fourier, Fast Fourier and z-transform are introduced to describe and design both recursive and non-recursive digital filters. DSP processor fundamentals, architectures and special features will be introduced using a particular processor in a lab environment.
+/
+

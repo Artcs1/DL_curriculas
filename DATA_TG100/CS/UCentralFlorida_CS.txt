@@ -1,0 +1,115 @@
+/
+Composition I 
+Expository writing with emphasis on effective communication and critical thinking. Emphasizing the writing process writing topics are based on selected readings and on student experiences. 
+/
+Composition II 
+Focus on extensive research in analytical and argumentative writing based on a variety of readings from the humanities. Emphasis on developing critical thinking and diversity of perspective. 
+/
+Fundamentals of Technical Presentations
+Communication theory and its application to preparing and delivering technical information in public speaking situations. 
+/
+Calculus with Analytic Geometry I 
+Analytic geometry; limits, continuity, differentiation of algebraic and trigonometric functions; applications of derivatives; integration and the fundamental theorem of calculus; applications of definite integrals.
+/
+Statistical Methods I 
+First methods course introducing probability and statistical inference, including estimation, hypothesis testing, binomial and normal distributions, sample size.
+/
+Biology I 
+Open only to students whose major requires this specific course. Cellular and chemical basis of life, genetics, and the theory of evolution. Emphasis on problem solving, analysis, synthesis of information, and applying data effectively.
+/
+General Physics Using Calculus I 
+Mechanics, Thermodynamics, fluids. 
+/
+Introduction to Programming with C 
+Programming in C including arrays, pointer manipulation and use of standard C math and IO libraries.
+/
+Calculus with Analytic Geometry I 
+Analytic geometry; limits, continuity, differentiation of algebraic and trigonometric functions; applications of derivatives; integration and the fundamental theorem of calculus; applications of definite integrals.
+/
+Calculus with Analytic Geometry II 
+Differentiation and integration of exponential, logarithmic, inverse trigonometric functions; techniques of integration; further applications of integration; parametric equations, polar coordinates; infinite sequences and series. 
+/
+General Physics Using Calculus II
+Electricity, magnetism, optics.
+/
+Chemistry Fundamentals I
+Principles of modern chemistry, units and measures, basic physical theory of chemical reactivity, stoichiometry, reactions in aqueous solutions, thermochemistry, atomic structure, periodicity, chemical bonding, states of matter, gases. 
+/
+Chemistry Fundamentals II
+Intermolecular forces, solutions and colligative properties. equilibria, thermodynamics, chemical kinetics, electrochemistry, nuclear chemistry. 
+/
+Statistical Methods I 
+First methods course introducing probability and statistical inference, including estimation, hypothesis testing, binomial and normal distributions, sample size.
+/
+Object Oriented Programming 
+Object oriented programming concepts (classes, objects, methods, encapsulating, inheritance, interfaces) and the expression of these concepts in the programming languages such as JAVA. 
+/
+Computer Science I 
+Problem solving techniques, order analysis and notation, abstract data types, and recursion.
+/
+Computer Science II
+Algorithm design and analysis for tree, list, set, and graph data models; algorithmic strategies and applications, and algorithmic complexity analysis; sorting and searching; practical applications. 
+/
+Computer Logic and Organization 
+Logic design, computer arithmetic, Instruction Set Architecture (MIPS, SPIM simulator), performance, data path, control unit, memory hierarchy, I/O interface.
+/
+Introduction to Discrete Structures 
+Logic, sets, functions, relations, combinatorics, graphics, Boolean algebras, finite-state machines, Turing machines, unsolvability, computational complexity. 
+/
+Security in Computing 
+Security theory. Legal and human factors, Malware, Intrusion patterns and tools, Windows, Unix, TCP/IP, and applications vulnerabilities. Detection. Policies and enforcement. Protection and assurance.
+/
+Systems Software 
+Design and development of assemblers, linkers, loaders, and compilers. Study memory hierarchy, program performance, and system level I/O.
+/
+Discrete Structures II
+Computation theory. A study of the properties of grammars and automata as formal specifications for algorithms and families of languages. 
+/
+Processes for Object-Oriented Software Development
+Concepts, principles, processes and methods for developing large software systems featuring a team project using object-oriented design in UML and implementation in C++.
+/
+Foundation Exam 
+Foundation examination for computer science majors. 
+/
+Professional Writing 
+Study of and practice with professional writing as a rhetorical act involving problem solving and audience accommodation; includes research and text production practices as well as business genres and conventions. 
+/
+Senior Design I 
+Students work in teams to demonstrate their knowledge of computer science and apply it to realistic and meaningful problems.
+/
+Senior Design II
+Students work in teams to demonstrate their knowledge of computer science and apply it to realistic and meaningful problems.
+/
+Calculus with Analytic Geometry III 
+Geometry of higher dimensional Euclidean space; vectors and vector functions; partial derivatives; multiple integrals; line integrals; vector fields; Green’s Theorem and Stoke’s Theorem.
+/
+Ordinary Differential Equations I 
+Methods of solution for first order equations. Linear equations. Laplace transforms. Series solutions. Selected applications.
+/
+Concepts of Parallel and Distributed Processing 
+Parallel and distributed paradigms, architectures and algorithms, and the analytical tools, environments and languages needed to support these paradigms.
+/
+Operating Systems
+Function and organization of operating systems, process management, virtual memory, I/O management, and file management.
+/
+Database Systems
+Storage and access Structures, database models and languages, related database design, and implementation techniques for database management systems.
+/
+Computer Architecture
+Computer systems performance and evaluation, processor datapath and control, microprogrammed architectures, instruction and arithmetic pipelines, cache and virtual memory, and RISC vs. CISC. 
+/
+AI for Game Programming 
+Surveys cutting-edge AI techniques for video games and board games and contrasts them with more traditional approaches.
+/
+Robot Vision 
+Perspective and orthographic projections; the processing of edges, regions, motion, shading, texture, object detection, recognition, and machine learning. 
+/
+
+
+
+
+
+
+
+
+

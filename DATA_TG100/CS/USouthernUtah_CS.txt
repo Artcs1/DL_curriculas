@@ -1,0 +1,133 @@
+/
+Introduction to Academic Writing
+The first of the required GE writing courses introduces students to academic composition. Students will engage in writing as a process, pre-drafting strategies, multiple drafts, peer review, and large and small-scale revisions.
+/
+Intermediate Writing
+The second of the GE writing courses emphasizes the development of an effective academic style in argumentative essays that makes use of traditional rhetorical patterns, culminating in a major research paper. 
+/
+Contemporary Mathematics
+An exploration of contemporary mathematical applications with a focus on developing quantitative reasoning skills. Students will represent and analyze multiple concrete real-world problems using quantitative tools. Topics include voting theory, graph theory, financial mathematics, statistics, and probability
+/
+Statistical Reasoning
+An exploration of basic statistical concepts with a focus on developing critical reasoning skills. Students will represent data, calculate probabilities, draw conclusions using statistical tools, and critique statistical studies and data collection methods. Topics include descriptive statistics, basic probability, statistical graphs, experimental design, and an introduction to statistical inference. Appropriate for many non-quantitative majors, the course is designed to develop statistical literacy and involves limited algebraic manipulation.
+/
+Statistical Inference
+An introduction to the basic concepts and methods of statistical data analysis. Students will summarize and interpret data, evaluate important assumptions, and draw appropriate conclusions based on sample data sets from a variety of disciplines
+/
+College Algebra
+An exploration of the properties and applications of functions and their graphs. Students will construct and analyze mathematical models from a wide variety of fields using appropriate technology. Topics include polynomial, rational, inverse, logarithmic, and exponential functions as well as matrix methods for solving systems of equations
+/
+Trigonometry
+An exploration of the properties and applications of trigonometric functions. Students will represent physical situations and solve applied problems using trigonometric tools and appropriate technology. Topics include angle measure, solving triangles, and trigonometric functions, graphs, equations, and identities. Vectors, polar coordinates, and complex numbers will also be introduced.
+/
+Applied Calculus
+An introduction to basic computational techniques and applications of calculus. Topics include functions, limits, differentiation, and integration. Emphasizes the use of calculus in solving problems from areas including business, economics, social sciences, and life sciences.
+/
+Calculus I
+Functions, limits and continuity; the derivative, differentiation techniques, and applications; graphing applications including extrema and concavity; elementary antiderivative/integration skills; the definite integral and its applications. Coverage includes applying the ideas and techniques of calculus to algebraic, trigonometric, exponential, and logarithmic functions.
+/
+Algebraic Reasoning
+An exploration of fundamental concepts underlying algebra and algebraic thinking. Students will investigate, discuss, and apply foundational ideas such as variable, equation, solution, function, and graph in multiple algebraic settings. Topics include the integers modulo n, inverses and inverse functions, growth in dynamical systems, polynomial and exponential models. Recommended for prospective elementary school teachers but open to all majors. Graphing calculator required; this course does not serve as a prerequisite for Calculus I
+/
+US Economic History
+Satisfies American government requirement of General Education. History from colonial times to present. Coverage of U.S. Constitution; national economy; pluralism; ethnicity, race, gender; distribution of wealth and power; social conflict and reform; entrepreneurs, workers, workplace; cultural encounters; popular culture; and U.S. and global affairs
+/
+American Civilization
+The fundamentals of American history including political, economic, and social development of American institutions and ideas. Successful completion of this course meets the American Institutions requirement established by the state legislature
+/
+American National Government
+Source of democratic ideas and principles of the constitutional system. Cultural, group, party, and governmental influences on the process of public policymaking. The administration and impact of public policy.
+/
+Fundamentals of Programming
+An introduction to computer programming. Topics to be covered include program design, program implementation techniques, programming constructs, console output, class design, and basic familiarity with the API. Emphasis is placed on modifying and developing simple applications. 
+/
+Object Oriented Programming
+featuring the use of APIs and problem-solving strategies to create, test, and debug interactive object oriented programs. Topics to be covered include recursion, exception handling, reusability, and program design
+/
+Database Design and Management
+Introduction to database management systems, database processing, data modeling, database, and database design, development, and implementation. Contrasts alternative modeling approaches. Includes implementation of current DBMS tools and SQL.
+/
+Introduction to Computer Applications and the Internet
+Designed to explore concepts of microcomputer systems. Concepts include Windows and general information, word processing, spreadsheets, database, presentations, and the Internet. Students will gain proficiency with the basic command structures of each application in an integrated office suite. Recommend typing speed of at least 25 wpm.
+/
+Web Development
+Designed to develop web pages using HTML and other web page authoring software programs. Students will create several web pages and publish them to a web server. Some advanced features will be introduced. 
+/
+Data Communications and Networking
+Designed as a telecommunications and networking foundation in network connectivity, data communication concepts, and communication protocols. Students learn to analyze cost-benefits and to evaluate, select, and implement different communication options.
+/
+Defensive Security
+This course provides a fundamental understanding of defensive security principles, technologies, and countermeasures, such as firewalls, intrusion detection systems, physical security and more. A variety of projects are assigned to reinforce concepts.
+/
+Discrete Structures
+This course covers algebraic structures applied to computer programming. Topics include propositional and predicate logic, proofs, sets, relations, functions, counting, graphs, and trees. This course lays the foundation for problems solving in computer science and information systems.
+/
+Introduction to Algorithms and Data Structures
+Concepts and theory of data structures and algorithm analysis. Understanding basic data structures such as lists, stacks, queues, trees, graphs, and hash tables. Further exploration of objected oriented programming and the software development process
+/
+Software Engineering
+An examination of systematic, disciplined, and quantifiable approaches to the development, operation, and maintenance of software. This course features a major programming project that is developed in accordance with sound software engineering principles.
+/
+Computer Organization and Architecture
+This course builds on students understanding of interface between computer software and hardware. Topics for this course include processor architecture, computer arithmetic, instruction set architecture, assembly language and its relation to higher level languages, computer performance analysis, basic concepts on pipeline, introduction to memory management, Computer IO, and disk storage systems
+/
+Advanced Algorithms and Data Structures
+This course is a survey of the most effective algorithms currently in use for a wide variety of problems and their usage in program design. Characteristics and performance of algorithms are studied. Advanced object oriented programming techniques are emphasized.
+/
+C and C++ Programming
+An introduction to C and C++ for students with previous programming experience in Java. Topics include C and C++ syntax and constructs, the Standard Template Library, and advanced problem-solving techniques in both languages
+/
+Foundations of Computation Theory
+An introduction to the theory of computation and its relationship to the design and implementation of compilers. Topics include finite-state and pushdown automata, formal languages and grammars, Turing machines, and syntax and semantics of programming languages.
+/
+Operating Systems
+An introduction to fundamental concepts in the design, implementation, and usage of operating systems. Topics include process management, main memory management, virtual memory, I/O and device drivers, file handling, and concurrency
+/
+Programming Languages
+An introduction to the core principles of programming languages: syntactic and semantic descriptions, and compilation and implementation issues. An introduction to the main programming paradigms, exemplified using contemporary programming languages: imperative, object-oriented, functional, and logic
+/
+CS Capstone Project
+CS Capstone Project
+/
+Programming with Python
+This course presents the student with foundational concepts and techniques of the Python programming language. The student will develop an understanding of the format and structure of coded programs and applications. The essential elements of the programming language will be presented and explored in class. The course will use hands-on labs and exercises to illustrate the practical application of Python
+/
+Digital Electronics I
+This is the first of a two-semester sequence in digital electronics. Topics include number systems, Boolean algebra, binary arithmetic, logic gates, combinational circuits, and basic memory circuits. Electronic test equipment and simulation software will be used in the lab. Students will analyze, build, and test logic circuits.
+/
+Calculus II
+Inverse trigonometric functions; techniques of integration; further applications of the definite integral; improper integrals and indeterminate forms; infinite series; conic sections and topics in analytic geometry; polar coordinates and parametric equations. A graphing calculator is required
+/
+Linear Algebra
+Systems of linear equations, matrices and matrix inverses, linear transformations, vector spaces, bases and linear independence, eigenvalues and eigenvectors. Basic proofs and selected applications
+/
+Probability and Statistics
+A formal, calculus-based introduction to the concepts of probability theory and mathematical statistics. Set theory based probability and probability distributions are studied with the goal of presenting and understanding the underpinnings of statistical methodology
+/
+Computer Interfacing
+A course designed to provide experience in interfacing microcomputers to outside peripheral devices. Areas of study will include peripheral sensors, digital to analog converters, analog to digital converters, voltage to frequency converters, and serial and parallel I/O busses
+/
+Applications of Microprocessors
+A course designed to prepare the student with the key concepts of microprocessor architecture, interfacing, and assembly language programming.
+/
+Advanced Digital Forensics
+This course covers advanced topics in digital forensics including incident response, malware analysis, and Internet forensics. Topics such as digital evidence collection/evaluation and legal issues in digital forensics will also be further expanded on.
+/
+Big Data Analytics
+This course will introduce basic concepts in the business analytics field, along with some popular techniques and tools. Students will have opportunities to explore and analyze large quantities of observational data in order to discover meaningful patterns and useful information to support decision making in business contexts.
+/
+Introduction to Digital Forensics
+This course covers the process of obtaining and analyzing digital information stored on digital devices including investigation, data acquisition, file system analysis, and file analysis. This course introduces various tools used in the digital forensics industry. This course will also explore ethical issues faced by digital forensic examiners.
+/
+Artificial Intelligence
+This course explores the ideas and topics surrounding computer programs that make decisions that mimic intelligent behaviors. These programs are sometimes referred to as Intelligent systems, or Artificial Intelligence. Students will program intelligent systems of their own using informed search methods, planning, logical reasoning, and/or probabilistic reasoning during this course.
+/
+Undergraduate Research
+Undergraduate Research
+/
+Special Topics
+Special Topics
+/
+Internship
+Internship
+/

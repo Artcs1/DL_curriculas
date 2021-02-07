@@ -1,0 +1,242 @@
+﻿Mobile Application Development. 
+This project based course will teach fundamental principles of software development for the mobile device environment, emphasizing the application of numerous academic concepts and the new design and programming paradigms that stem from the use of mobile devices. Topics include user interfaces, event-based programming, interprocess communications, networking, mobile-specific capabilities and performance in a resource restricted environment. 
+/
+Analysis of Algorithms.
+Topics include analyzing sequential and parallel algorithmic strategies such as greedy methods, divide and conquer strategies, dynamic programming, search and traversal techniques, and approximation algorithms; and analyzing specific algorithms falling into these classes, NP-Hard and NP-Complete problems. 
+/
+Special Topics in Computer Science. 
+Special Topics in Computer Science.
+/
+General Chemistry Laboratory II.
+General Chemistry laboratory course for students majoring in science, engineering, or mathematics. Laboratory experience will demonstrate general chemistry principles and applications. 
+/
+Computer Systems and Programming.
+Introduces students to computer systems from a programmer's perspective. Topics include data representation, assembly and machine-level representation of high-level language programs, the memory hierarchy, linking, exceptions, interrupts, processes and signals, virtual memory, and system-level I/O. Foundation for courses on compilers; networks; operating systems; and computer architecture, where a deeper understanding of systems-level issues is required. 
+/
+Synthesis of Ethics and Law for the Computing Professional. 
+Practical course to become effective computer professional. Examines legal and ethical issues surrounding computer technology and its use, as well as the foundation building that is necessary to deal with those challenges. Applies philosophical bases for ethical decision making to modern concerns raised by computers and technology. 
+/
+Computer Systems Architecture. 
+Computer subsystems and instruction set architectures. Single-cycle, multiple-cycle, and pipeline architectures. Memory hierarchy, cache, and virtual memory input-output processing.
+/
+Design Exhibition. 
+Capstone course focusing on design and successful implementation of major software project, encompassing broad spectrum of knowledge and skills, developed by team of students. 
+/
+Introduction to Low-Level Programming. 
+Introduction to the language C, as well as operating system concepts, in UNIX, to prepare students for topics in systems programming. 
+/
+Philosophy of Natural Sciences.
+Study of aims and methodology of science. Among the questions of concern are: What constitutes a good scientific explanation? What grounds are used for comparing rival theories? Is there a special method of scientific discovery?
+/
+Fundamentals of Communication. 
+Presents principles to develop appropriate and effective communication strategies in one-to-one and small group communication settings. Emphasizes analyzing and assessing communication skills to create and sustain effective communication in personal and professional relationships. 
+/
+Analytic Geometry and Calculus III.
+Partial differentiation, multiple integrals, line and surface integrals, and three-dimensional analytic geometry. 
+/
+Essentials of Computer Science. 
+Offers a broad overview of computer science designed to provide computer science majors with an introduction to their discipline. Fundamental computing concepts such as number representation, programming environments, communication tools, and basic network security measures are covered. Privacy and ethical use of computing are also discussed along with guest lectures to sample current computer science research.
+/
+Introductory Geology II.
+Earth processes in historical context. Topics include sedimentary rocks and principles, deformation and metamorphism, mountain building and plate tectonics, geologic time, fossils, and historical development of continents. 
+/
+University Physics I Laboratory. 
+Experiments in mechanics, including techniques for recording, graphically and statistically analyzing, and reporting data. Offered by Physics & Astronomy.
+/
+Analysis of Algorithms. 
+Analyzes computational resources for important problem types by alternative algorithms and their associated data structures, using mathematically rigorous techniques. Specific algorithms analyzed and improved. 
+/
+Analytic Geometry and Calculus II. 
+Methods of integration, conic sections, parametric equations, infinite series, and power series. 
+/
+Computer Architecture.
+Introduces the concepts of a processor microarchitecture, from a pipelined processing unit, through a superscalar, to a multicore multithreaded computing system. Topics include instruction set architecture, single cycle processor, MIPS pipeline processor, precise state, parallel processing, superscalars, memory and cache organization, branch prediction, multicore processors, memory consistency, multi- and many-core cache coherence, and heterogeneous computing. 
+
+
+/
+Introduction to Computer Statistical Packages. 
+Use of computer packages in statistical analysis of data. Topics include data entry, checking, and manipulation, and use of computer statistical packages for graphical procedures, basic descriptive and inferential procedures, and regression. 
+/
+Data Structures. 
+Focuses on object-oriented programming with an emphasis on tools and techniques for developing moderate to large programs. Topics include use and implementation of linear and nonlinear data structures and the design and analysis of elementary algorithms. 
+/
+Industry-Sponsored Senior Design Project.
+Senior design project course focusing on design and successful implementation of major software project specified by an industry sponsor, encompassing broad spectrum of knowledge and skills, developed by team of students. Requires final exhibition to faculty-industry panel. 
+/
+General Chemistry II. 
+Fundamentals of colligative properties, reaction rates and equilibrium. Topics Include kinetics, properties of solutions, ionic equilibrium, chemical thermodynamics, electrochemistry, and nuclear chemistry. 
+/
+Computer Communications and Networking. 
+Techniques and systems for communication of data between computational devices and layers of Internet Protocol Suite. Topics include role of various media and software components, local and wide area network protocols, network design, performance and cost considerations, and emerging advanced commercial technologies. Emphasizes TCP/IP family of protocols. 
+/
+Intro Biology II Lecture. 
+Topics include animal (including human) structure, function, homeostatic mechanisms, organ systems, behavior, higher plant systems, and major concepts in ecology. 
+/
+Single-Chip Microcomputers. 
+Explores designing with single-chip microcomputers and microcomputer interfacing. Topics include role of microcomputers compared with microprocessors and other computers, microcomputer architecture and organization, real-time control issues, assembly language programming for control, design of control software, input/output methods, design tools, and available single-chip microcomputers. Students select project and design, and construct system including single-chip microcomputer and ancillary hardware to implement control system. 
+/
+Symbolic Logic. 
+Study of predicate calculi by means of a step-by-step construction of artificial languages. Topics include procedures for constructing a calculus, proof techniques, significant properties of predicate calculi, and procedures for recognizing phrases. 
+/
+Discrete Mathematics I. 
+Introduces ideas of discrete mathematics and combinatorial proof techniques including mathematical induction, sets, graphs, trees, recursion, and enumeration. 
+/
+Probability and Statistics for Engineers and Scientists I. 
+Introduction to probability and statistics with applications to computer science, engineering, operations research, and information technology. Basic concepts of probability, random variables and expectation, Bayes rule, bivariate distributions, sums of independent random variables, correlation and least squares estimation, central limit theorem, sampling distributions, confidence interval construction, and hypothesis testing for a single sample and two samples. 
+/
+Digital System Design.
+Covers principles of digital logic and digital system design and implementation in VHDL. Topics include number systems; Boolean algebra; analysis, design, and minimization of combinational logic circuits; analysis and design of synchronous and asynchronous finite state machines; and introduction to VHDL and behavioral modeling of combinational and sequential circuits. 
+/
+Linear Algebra. 
+Systems of linear equations, linear independence, linear transformations, inverse of a matrix, determinants, vector spaces, eigenvalues, eigenvectors, and orthogonalization. 
+/
+Software Testing and Maintenance.
+Concepts and techniques for testing and modifying software in evolving environments. Topics include software testing at the unit, module, subsystem, and system levels; developer testing; automatic and manual techniques for generating test data; testing concurrent and distributed software; designing and implementing software to increase maintainability and reuse; evaluating software for change; and validating software changes. 
+/
+Professional and Technical Writing.
+Intensive study and practice in various forms of professional and technical writing, including proposals, reports, instructions, news releases, white papers, and correspondence. Emphasizes writing for variety of audiences, both lay and informed, and writing within various professional and organizational contexts.
+/
+Numerical Analysis I. 
+Significant figures, round-off errors, iterative methods of solution of nonlinear equations of a single variable, solutions of linear systems, iterative techniques in matrix algebra, interpolation and polynomial approximation.
+/
+Computer Vision.
+Basic principles of visual perception and their implementation on computer systems. Topics include early visual processing, edge detection, segmentation, intrinsic images, image modeling, representation of visual knowledge, and image understanding. Students complete projects involving real images.
+/
+Introduction to Artificial Intelligence. 
+Principles and methods for knowledge representation, reasoning, learning, problem solving, planning, heuristic search, and natural language processing and their application to building intelligent systems in a variety of domains. LISP, PROLOG, or expert system programming language. 
+/
+Device Driver Development. 
+Addresses device driver and kernel level software programming and development. The C programming language and program trouble shooting are reviewed. Basics of device driver software, Character driver operations and data structures, concurrency and race conditions, kernel timers, memory allocation, communications with hardware, interrupt handling, kernel data types, memory mapping and Direct Memory Access concepts are explored.
+/
+Digital Electronics and Logic Design Lab.
+Digital Electronics and Logic Design Lab.
+/
+Computer Communications and Networking. 
+Data communications and networking protocols, with study organized to follow layers of Internet Protocol Suite (TCP/IP family of protocols). Topics include role of various media and software components, local and wide area network protocols, network performance, and emerging advanced commercial technologies. 
+/
+Probability and Statistics for Engineers and Scientists II.
+Multivariate probability distributions, variable transformations, properties of estimators, inference on means, variances, and proportions for two samples, contingency tables, goodness-of-fit test, nonparametric tests, simple linear regression, multiple linear regression, logistic regression, ANOVA, basic experimental design, basic resampling methods such as the bootstrap. 
+/
+University Physics II Laboratory. 
+Experiments in mechanics, electricity, and magnetism, including techniques for recording, graphically and statistically analyzing, and reporting data.
+/
+Abstract Algebra. 
+Theory of groups, rings, fields.
+/
+Probability for Engineers. 
+Introduction to probability with applications to electrical and computer engineering, operations research, information technology, and economics. Basic concepts of probability, conditional probability, random variables and moments, specific probability distributions, multivariate distributions, moment-generating functions, limit theorems, and sampling distributions. 
+/
+Digital Electronics.
+Introduces digital systems, circuits, and computers. Topics include binary systems and codes, digital logic gates and circuits, microelectronics and integrated circuits, coding and multiplexing, multivibrators, shift registers, counters, A/D converters, and elementary computer architecture. 
+/
+Software Engineering. 
+An introduction to concepts, methods, and tools for the creation of large-scale software systems. Methods, tools, notations, and validation techniques to analyze, specify, prototype, and maintain software requirements. Introduction to object-oriented requirements modeling, including use of case modeling, static modeling, and dynamic modeling using the Unified Modeling Language (UML) notation. Concepts and methods for the design of large-scale software systems. Fundamental design concepts and design notations are introduced. A study of object-oriented analysis and design modeling using the UML notation. Students participate in a group project on software requirements, specification, and object-oriented software design.
+/
+Embedded Systems and Hardware Interfaces. 
+This course introduces embedded systems design through project-based activities. The platform runs on Linux and students design their own loT (Internet of Things) system as well as demonstrate dashboards with cloud-based data. Hardware interfaces and several types of sensors and actuators are incorporated as part of the projects. Students also learn how to simulate and test signal-conditioning circuits, eventually integrating those as part of their projects.
+/
+Game Programming I.
+Introduction to technologies and techniques used in modern computer games. Teams will explore the various facets of a complete design using sophisticated tools. Includes a project in which a game is prototyped; this prototype and initial design will serve as the starting point for the project. 
+/
+Introductory Biology I. 
+Topics include chemistry of life, cell structure and function, Mendelian genetics, evolution, and diversity of life. 
+/
+Data Mining. 
+Basic principles and methods for data analysis and knowledge discovery. Emphasizes developing basic skills for modeling and prediction and performance evaluation. Topics include system design; data quality, preprocessing, and association; event classification; clustering; biometrics; business intelligence; and mining complex types of data. 
+/
+University Physics I.
+Calculus-based introductory physics sequence, designed primarily for science and engineering majors. Mechanics. 
+/
+Operating Systems.
+Issues in multiprogramming. Covers concurrent processes and synchronization mechanisms; processor scheduling; memory, file, I/O, and deadlock management; performance of operating systems; and projects dealing with synchronization in multiprogrammed OS and virtual memory management. 
+/
+General Chemistry I. 
+Fundamental principles of atomic and molecular structure; chemical bonding; basic concepts of chemical reactions and thermochemistry; properties of gases, liquids, and solids. 
+/
+Computer Graphics. 
+Graphics principles and programming. Topics include graphics hardware, antialiasing, transformations, viewing, illumination, blending, texture mapping, color models, curves, surfaces, and animation. 
+/
+Object-Oriented Programming.
+Thorough treatment of programming according to object-oriented principles. Introduces classes, interfaces, inheritance, polymorphism, and single dispatch as means to decompose problems. Covers intermediate programming techniques including error handling through exceptions, arrangement of source code into packages, and simple data structures. Intermediate debugging techniques and unit testing are covered.
+/
+General Chemistry Laboratory I. 
+General Chemistry laboratory course for students majoring in science, engineering, or mathematics. Laboratory experience will demonstrate general chemistry principles and applications. 
+/
+Analytic Geometry and Calculus I. 
+Functions, limits, the derivative, maximum and minimum problems, the integral, and transcendental functions. 
+/
+Computer Graphics. 
+Basic graphics principles and programming. Topics include scan conversion, transformation, viewing, lighting, blending, texture mapping, and some advanced graphics techniques. 
+/
+Comparative Programming Languages.
+Key programming mechanisms described independently of particular machines or languages, including control, binding, procedural abstraction, types, and concurrency. Includes basic programming competence in several different types of programming languages, including a language that provides concurrency. 
+/
+Introductory Geology I.
+Covers Earth, processes that operate within Earth and on surface, and human interaction with Earth. Topics include minerals, earthquakes and seismology, isostasy, igneous processes and rocks, paleomagnetism and plate tectonics, weathering, mass movements, rivers and streams, groundwater, glaciers, and marine processes. 
+/
+Introduction to Computer Programming. 
+Rigorous introduction to problem solving through development of computer programs. Focuses on identifying algorithmic patterns in problems, describing problem solutions in high-level pseudocode, then implementing in a procedural programming language. Basic programming concepts are covered in detail including expressions, control structures, simple data types, and input/output. Program testing and debugging are discussed to verify that problems are solved correctly. 
+/
+Language Processors and Programming Environments. 
+Survey of basic programming language processors and software development tools such as assemblers, interpreters, and compilers. Topics include design and construction of language processors, formal syntactic definition methods, parsing techniques, and code-generation techniques. 
+/
+Human Factors Engineering. 
+Human information processing, inferential analysis, biases and heuristics in human information processing, support systems to aid in human information processing, human-system interaction, and software systems engineering considerations. 
+/
+Formal Methods and Models. 
+Abstract concepts that underlie much advanced work in computer science, with major emphasis on formal languages, models of computation, logic, and proof strategies. 
+/
+Systems Engineering Management. 
+Study of basics of systems engineering management. Includes engineering economics, planning, organizing, staffing, monitoring, and controlling process of designing, developing, and producing system to meet stated need in effective and efficient manner. Discusses management tools, processes, and procedures, including various engineering documentation templates, managerial processes, and dealing with personnel issues. 
+/
+Introduction to Artificial Intelligence.
+Principles and methods for knowledge representation, reasoning, learning, problem solving, planning, heuristic search, and natural language processing and their application to building intelligent systems in a variety of domains. Uses LISP, PROLOG, or expert system programming language.
+/
+Probability. 
+Random variables, probability functions, special distributions, and limit theorems. 
+/
+Introductory Biology II Laboratory. 
+The structure and function of major organ systems of animals and an examination of the structure and function of plants, emphasizing the higher plants. 
+/
+Security Engineering. 
+Covers the software subsystems that are involved in defending computer systems. Studies threats and architecting solutions against them, including but not limited to access control and identity management, network and system security, intrusion detection and recovery systems, monitoring and forensic systems. 
+/
+Introductory Statistics I.
+Elementary introduction to statistics. Topics include descriptive statistics, probability, and estimation and hypothesis testing for means and proportions. Statistical software used for assignments. 
+/
+Language Processors.
+Basic programming language processors such as assemblers, interpreters, and compilers. Topics include design and construction of language processors, formal syntactic definition methods, parsing techniques, and code generation techniques. Lab includes construction of language processors and experience with programming environments. 
+/
+Theory and Applications of Data Mining. 
+Concepts and techniques in data mining and multidisciplinary applications. Topics include databases; data cleaning and transformation; concept description; association and correlation rules; data classification and predictive modeling; performance analysis and scalability; data mining in advanced database systems, including text, audio, and images; and emerging themes and future challenges. 
+/
+Database Concepts. 
+Covers basics to intermediate knowledge for the design, implementation, and use of relational database systems. Topics include the Entity-Relationship (ER) and Entity-Enhanced Relationship (EER) models for database design, Relational Algebra (RA), Structured Query Language (SQL), SQL programming techniques, functional dependencies and normalization, object and object-relational databases, and security. Students will practice to design, develop, and implement a relational ORACLE database and use the database for queries, transaction processing, and report generation.
+/
+Secure Programming and Systems.
+Fundamental principles and techniques for implementing secure computer systems. Topics include security and cryptography basics, vulnerability analysis, secure software development, and distributed system security. Projects involve designing and programming basic security tools, secure programs, and distributed systems.
+/
+University Physics II. 
+Waves, electricity, and magnetism. 
+/
+Operating Systems. 
+Models of operating systems. Major functions including processes, memory management, I/O, interprocess communication, files, directories, shells, distributed systems, performance, and user interface.
+/
+Public Speaking. 
+Presents principles to develop effective presentations for public and professional settings while integrating appropriate technologies. Emphasizes analyzing audience; composing meaningful, coherent messages; conducting responsible research; developing effective arguments; and improving delivery skills to strengthen confidence and credibility. 
+/
+Concurrent and Distributed Systems. 
+Practical issues in designing and implementing concurrent and distributed software. Topics include concurrent programming, synchronization, multithreading, local and wide-area network protocols, distributed computation, systems integration, and techniques for expressing coarsegrained parallelism at the application level. Projects involve network programming at application level.
+/
+Software Architectures. 
+Teaches how to design, understand, and evaluate software systems at an architectural level of abstraction. By end of course, students will be able to recognize major architectural styles in existing software systems, describe a system's architecture accurately, generate architectural alternatives to address a problem and choose from among them, design a medium-size software system that satisfies a specification of requirements, use existing tools to expedite software design, and evaluate the suitability of a given architecture in meeting a set of system requirements. 
+/
+Database Systems.
+An introduction to database management with focus on architecting databases and using them in applications. Topics to be covered include: data modeling with the Entity-Relationship model, the relational data model and its formal languages, SQL, the theory of database design, object databases, XML and Web data.
+/
+Web Application Development. 
+A comprehensive introduction to the design and implementation of applications for the web, including client and server-side development. Exploration of principles for the design of web applications that are robust, scalable, and secure, that enable change and reuse, and that are usable for their intended purpose. Topics include client-server communication, asynchronous programming, persistence, security, web development tools, the document object model, templates and data-binding, interaction techniques, and site design for the web. 
+/
+Autonomous Robotics.
+Covers various basic topics in autonomous robotics, such as autonomous architectures and their interaction with physical hardware, elementary kinematics and robot control, motion and trajectory planning, localization, task planning, learning and adaptation, modeling, and sensor fusion. Includes projects involving physical robots. 
+/

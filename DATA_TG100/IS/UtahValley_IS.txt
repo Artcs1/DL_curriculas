@@ -1,0 +1,40 @@
+/
+Introduction to Academic Writing
+Teaches rhetorical knowledge and skills, focusing on critical reading, writing, and thinking. Introduces writing for specific academic audiences and situations. Emphasizes writing as a process through multiple drafts and revisions
+/
+Intermediate Writing/Academic Writing and Research
+Emphasizes academic inquiry and research. Explores issues from multiple perspectives. Teaches careful reasoning, argumentation, and rhetorical awareness of purpose, audience, and genre. Focuses on critically evaluating, effectively integrating, and properly documenting sources.
+/
+College Algebra
+Includes inequalities, functions and their graphs, polynomial and rational functions, exponential and logarithmic functions, systems of linear and nonlinear equations, matrices and determinants, arithmetic and geometric sequences, and the Binomial Theorem
+/
+US History to 1877
+Surveys the origins of the United States from the Pre-Columbian era and early colonization through Reconstruction. Focuses on encounters among indigenous, African and European peoples; gender, race, and Atlantic slavery; the causes and consequences of the American Revolution; the westward expansion of the United States; and the sectional crisis that lead to the American Civil War.
+/
+Ethics and Values
+Challenges students to explore and clarify their values; critically read works of philosophy, literature, religion, and history toward understanding the basis of their ethical views; and read, study, research, discuss, and write about difficult ethical issues. Focuses on issues of good vs. evil, justice vs. injustice, equality vs. inequality, and the necessity of defining and examining happiness and values. Engages students in serious reflection on issues of ethics and values as they relate to the students' own lives
+/
+Business Statistics I
+Presents an application of statistics in business and economics covering methods of collecting, analyzing, and presenting data. Includes frequency distributions, averages, index numbers, probability, sampling, estimation, analysis of variance, time series, regression and correlation, and chi-square. May be delivered online
+/
+Information Systems and Technology Fundamentals
+Explores the fundamental concepts of information technology and the role played by enterprise systems in business and organizational strategy. Introduces types of systems, computer organization and hardware, operating systems and networking, project planning, software development, computer ethics, and career paths for enterprise developers and IT professionals.
+/
+Computer Programming I for IS IT
+Presents concepts of modern computer programming. Emphasizes problem-solving, algorithm development, and programming desgin. Stresses constructs, data representation, fundamental types and data structures, decision structures, repetition structures, methods, arrays, classes, and objects. Includes testing, debugging, and documentation. Introduces object-oriented, event-driven programming models
+/
+Fundamentals of Programming
+For Majors in Computer Science, Computer Engineering, Software Engineering, and other majors requiring computer programming skills. Introduces the fundamental concepts of computer programming. Presents the ideas, tools, structure, syntax, and design techniques for developing well-formed programs. Studies problem solving, program structure, data types, decision logic, loops, functions, input and output, and arrays. Introduces the basic ideas of classes and objects. Requires students to program a number of assignments that demonstrate their understanding of these concepts
+/
+Computer Programming II for IS IT
+Focuses on object-oriented design and programming methodologies. Teaches inheritance, polymorphism, and encapsulation. Develops knowledge to abstract functionality by using interfaces. Covers collection classes, generics, exception handling, file handling, and more advanced topics such as accessing databases via LINQ, socket/network programming, and multi-threading.
+/
+Database Fundamentals
+Introduces concepts and use of database management systems. Presents the relational model, Structured Query Language, database design including normalization theory, and application development tools using an enterprise-level relational database management system.
+/
+Web Application Design
+Focuses on the design and construction of Web pages and maintenance of Web sites. Includes foundations in standards-based HTML and CSS. Covers code markup, design concepts and web graphics manipulation, page layout, form development, and usability and accessibility issues. Teaches use of Web authoring tools for code development and site management. Requires individual projects
+/
+Basic Computer Applications
+Teaches basic computer fundamentals, digital living concepts, and key applications. Includes PC computer system concepts, basics of the Windows operating system, software licensing and installation, electronic communication, Internet and research fluency, and ethical computer usage. Provides hand-on experience in the basic features of Microsoft Word, PowerPoint, Excel, and Access as common business problem solving and communication tools.
+/

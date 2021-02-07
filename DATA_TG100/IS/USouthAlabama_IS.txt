@@ -1,0 +1,120 @@
+/
+ENGLISH COMPOSITION I
+Prepares students for diverse types of college writing. Covers the writing process, general criteria used to evaluate writing, collaborative writing, and rhetoric, especially audience analysis.
+/
+ENGLISH COMPOSITION II
+Prepare students for college writing by focusing on argumentation, research, and the critical thinking required to argue effectively.
+/
+PUBLIC SPEAKING
+A beginning study of the principles of speech communication as they relate to speaker-audience communication. The student is provided an opportunity to develop the art of audience and subject analysis, research, critical thinking, organization, language, and delivery of speeches. 
+/
+M LIT BEFORE 1865
+This course traces the development of American literature from its beginning through 1865 by studying the works of representative writers. 
+/
+HY OF WESTERN CIVILIZATION I
+History of humankind, emphasizing the development of the West to c. 1600 C.E. Topics may include Mesopotamia and Egypt, Ancient Greece and Rome, the origins of monotheistic religions, and medieval Europe.
+/
+ATMOSPHERIC PROCESSES
+Introduces students to the natural science branch of geography. Emphasizes Earth-Sun relationships, weather and climate. 
+/
+CHEMISTRY-ITS ROLE IN SOCIETY
+Chemical principles to allow understanding of the technical aspects of air and water pollution, chemical solutions of the energy crisis, the polymer industry, drugs, nutrition, and genetic engineering. 
+/
+COASTAL GEOMORPHOLOGY
+An introduction to coastal sediment processes and their applied coastal geomorphology with emphasis on waves, tides, sediments, and their interactions including the impacts of anthropogenic influences. 
+/
+CALCULUS AND ITS APPLICATIONS
+Introduction to calculus with an emphasis on problem solving and applications. Key concepts are presented graphically, numerically and algebraically, although the stress is on a clear understanding of graphs and tabular data. 
+/
+CALCULUS I
+The course provides an introduction to calculus with emphasis on differential calculus. Topics include limits of functions, derivatives of algebraic and transcendental functions, application of the derivative to curve sketching, optimization problems, and examples in the natural sciences, engineering, and economics. 
+/
+PROF EXPERIENCE I
+An introduction to career success tools including: personality and career interest inventories, steps to succeed basic resume preparation, business ethics, personal branding, university and community involvement and other career preparation activities. 
+/
+BUSINESS ANALYTICS II3
+A second course in quantitative data analytics in business decision making utilizing methods of analysis including statistical inference, predictive, modeling, forecasting, correlation and regression analysis. It further develops fundamental knowledge and skills for making data driven business decisions including the use of computer applications for problem solving. 
+/
+DISCRETE MATH STRUCTURES
+This course is an introduction to discrete mathematics for students majoring in computer-related areas. Students will be introduced to concepts and methods that are essential to theoretical computer science. A strong emphasis is placed on mathematical reasoning and proofs. Topics include sets, functions, induction, recursion, combinatorics and graphs. Students must have sufficient mathematics placement exam score.
+/
+PRIN OF MICROECONOMICS
+Functions of the price system in a market economy; role of households and business firms in mobilizing resources to meet human needs. The functional and personal distribution and use of income. Relevant problems are discussed.
+/
+PRIN OF MACROECONOMICS
+Economics as a science; its nature and functions. Analysis of the American economy from the macroeconomic viewpoint, stressing full employment, monetary and fiscal policy, national income accounting, and their application to current problems and issues.
+/
+MANAGEMENT THEORY AND PRACTICE
+Theories of organizational structures, practices, and behavior, and the effective management of organizations. Emphasis on developing patterns and strategies of organizational management in a dynamic environment as affected by the interaction of material and human resources using the technique of applied social and management sciences.
+/
+ADV APPLICATION DEVELOPMENT
+This course explores advanced topics in visual applications development. Emphasis is placed upon developing increased program functionality and connectivity with local and remote databases. Other topics: integrating programming components and libraries, object-oriented application development and testing methodologies, and using an object-oriented approach for multi-tiered applications. Programming projects are required.
+/
+HUMAN COMPUTER INTERFACE3 cr
+Students will study the concepts of human-computer interaction and interface design. Topics include: detailed human-computer interaction concepts, modern graphical user interface models, and interface usability testing. Students will use rapid-prototyping tools to develop and test a typical user interface. 
+/
+SPECIAL TOPICS
+Advanced selected topics in information technology.
+/
+HEALTH INFO CLINICAL ENVIRONME
+This course provides an overview of concepts, terms, organization, and processes associated with patient care and clinical environments as they pertain to health informatics. The entire process of how a person accesses, moves within, and exits the system both as in inpatient and outpatient to obtain care. 
+/
+HEALTH INFORMATICS
+This course provides an overview of the concepts, terms, tools, and architectures associated with health informatics as applied to healthcare delivery. Topics include: electronic record systems, computerized physician order entry, health system standards, terminologies, workflow modeling, security and privacy of clinical data, clinical reporting, and the impact of information technology use on the quality and efficiency of health care delivery and outcomes.
+/
+HEALTH DATA SECUR/COMPLIANCE
+This course involves a thorough examination of the security and privacy requirements of the Health Insurance Portability and Accountability Act (HIPAA) and the implementation of these requirements in the clinical environment. Students will learn how to address security issues from system development all the way through post-implementation, how to evaluate systems for vulnerabilities, and how to identify protected health information and covered entities.
+/
+HLTH DATA MGT & DECISION SUPP
+This course focuses on the design and management of electronic medical record systems and clinical decision support systems. Course content related to electronic medical record systems includes architectural components, technical design issues, and management; and, content related to clinical decision support systems includes decision support roles, extracting useful information from data, and legal and regulatory restrictions. 
+/
+DECISION MAKING - SMALL GROUPS
+Theory and practice in leading and participating in small group decision making Special focus on group problem solving and the management of conflict in small group decision-making meetings. 
+/
+TECHNICAL WRITING - W
+The purpose of this course is to train students in the kinds of written reports required of practicing professionals, aiming to improve mastery of the whole process of report writing from conceptual stage through editing stage.
+/
+BEGINNING PROGRAMMING
+A first course in programming using a visual, event-driven programming language. Coverage includes algorithmic problem solving, fundamentals of programming, procedures, decisions, repetition, and arrays.
+/
+INFORMATION TECH IN SOCIETY
+A discussion of personal, local, national, and global impact of information technology on ethical, legal, and social issues.
+/
+DATA COMM AND NETWORKING
+An introduction to data communications, computer networking and network operating systems. Topics include: basic concepts of data transmission, network architectures, communications devices, and communication protocols.
+/
+DATABASE DESIGN-DEV-MGT
+Analysis, design, and development of desktop database systems. Coverage of normalization concepts, DBMS models, E-R/Semantic modeling, and query processing.
+/
+ENIOR CAPSTONE EXPERIENCE-W
+A comprehensive team project will be completed and documented. Writing assignments will reinforce the importance of life-long learning, leadership skills, and the ethical issues of computing as well as appropriate resume and job application cover letter creation. 
+/
+CIS SENIOR SEMINAR
+A series of mini-seminars designed to prepare graduating seniors for transition to professional careers in computing or graduate study and to assess student learning outcomes in the curriculum. Mini-seminars would include, but would not be limited to: resume development, interviewing tips and techniques, career planning, professionalism and ethics in the workplace, and advanced graduate study and professional development. 
+/
+INFO SYSTEMS PROJ MANAGEMENT
+This course examines the principles and techniques of project management from an information systems perspective. Major topics covered include project context, project selection, and project planning. 
+/
+IS STRATEGY AND POLICY
+This course provides the top management, strategic perspective for aligning competitive strategy with information systems. Issues include the development and implementation of policies and plans to achieve organizational goals, including security policy.
+/
+DATABASE FOR INFO SYSTEMS
+The course builds on relational database and programming concepts by exploring the analysis, design, and implementation of more complex database systems. Topics include advanced data modeling, advanced query design, and application development in a database programming environment.
+/
+INFO SYS ANALYSIS AND DESIGN-W
+A thorough examination of the analysis and design of computer information systems from the systems analysts view. The course will use an established software development methodology. At each step in the software development life cycle, both the methodologies used and the documentation required will be examined.
+/
+INTERMEDIATE PROGRAMMING
+A second course in visual, event-driven programming that builds on the CIS 115. Topics include arrays, sequential files, random access files, structured exception handling, use of LINQ, object-oriented programming, debugging, and additional controls and objects. 
+/
+SYSTEMS ARCHITECTURE
+This course introduces students to Information Technology hardware and systems software concepts. Topics include: computer hardware, operating systems, system software, hardware and software integration, operating procedures, system performance, security/safety, and compatibility. 
+/
+INFO SYSTEMS IN ORGANIZATIONS
+An overview of information systems topics from an organizational and managerial perspective. Topics include current information technology and systems, such as the Internet and its organizational impacts; the emergence of global economy and digital firms; and the ethical and social impacts of information systems, such as privacy, intellectual property rights, and liability. Issues and strategies regarding information systems planning, systems development, decision making, and using IT for competitive advantage are discussed. Throughout the course, students will investigate the strategic uses of information technology in current industry-specific situations.
+/
+/
+/
+/
+/
+/

@@ -1,0 +1,67 @@
+/
+Computer Programming Fundamentals
+Introduction to the art of computing. The course objectives are understanding relationships between computation, problem solving, and programming using high-level languages.
+/
+Computer Programming Fundamentals for Non-Majors
+An introduction to the art of computing. Not intended for Computer Science majors or minors. The objective of the course is an understanding of the relationship between computing and problem solving.
+/
+Intermediate Programming 
+An introduction to the methods underlying modern program development. Specific topics will include object-oriented design and the development of graphical user interfaces. Programming assignments will emphasize the use of objects implemented in standard libraries. 
+/
+Design of Large Programs
+A projects course with emphasis on object-oriented analysis, design and programming. Also discussed are programming language issues, programming tools and other computer science concepts as needed to do the projects (e.g., discrete-event simulation, parsing).
+/
+Data Structures with Java
+An accelerated course covering the material of 151L and 251L in one semester. Topics include elementary data structures and their implementation, recursive procedures, data abstraction and encapsulation, and program organization and verification. Programs will be written in JAVA.
+/
+Data Organization 
+Data representation, storage and manipulation. Covers the memory organization of data storage and its relation to computation and efficiency. Topics include: linked vs. contiguous implementations, memory management, the use of indices and pointers, and an introduction to issues raised by the memory hierarchy. Programming assignments in C provide practice with programming styles that yield efficient code and computational experiments investigate the effect of storage design choices on the running time of programs.
+/
+Introduction to Computing Systems
+Survey of various levels of computer architecture and design: microprogramming and processor architecture, advanced assembly language programming, operating system concepts and input/output via the operating system.
+/
+ECE 238L Computer Logic Design
+Binary number systems. Boolean algebra. Combinational, sequential and register transfer logic. VHDL. Arithmetic/logic unit. Memories, computer organization. Input-output. Microprocessors. 
+/
+Programming Fundamentals 
+Fundamental programming concepts, including consideration of abstract machine models with emphasis on the memory hierarchy, basic programming constructs, functions, parameter passing, pointers and arrays, file I/O, bit-level operations, programming in the Linux environment, and lab. 
+/
+College Algebra
+The study of equations, functions and graphs, especially linear and quadratic functions. Introduction to polynomial, rational, exponential and logarithmic functions. Applications involving simple geometric objects. Emphasizes algebraic problem solving skills. 
+/
+Intermediate Algebra IC
+This course includes radical expressions and equations, rational expressions and equations, the exponential and logarithm functions.
+/
+Intermediate Algebra IB 
+This course includes quadratic equations, properties of exponents and scientific notation, simplifying polynomial expressions, factoring and introduction to functions. 
+/
+Intermediate Algebra IA 
+This course includes equations and inequalities, applications and problem solving with linear equations, linear functions and the graph of a line, percent, perimeters, areas of simple geometric shapes. 
+/
+Pre-Calculus
+In-depth study of polynomial, rational, exponential and logarithmic functions and their graphs. Includes the fundamental theorem of algebra, systems of equations, conic sections, parametric equations and applications in geometry. Exploration of the graphing calculator. 
+/
+Mathematical Foundations of Computer Science
+Introduction to the formal mathematical concepts of computer science for the beginning student. Topics include elementary logic, induction, algorithmic processes, graph theory and models of computation. 
+/
+Data Structures and Algorithms I
+An introduction to data structures and algorithms and the mathematics needed to analyze their time and space complexity. Topics include asymptotic notation, recurrence relations and their solution, sorting, hash tables, basic priority queues, search trees (including at least one balanced structure) and basic graph representation and search. 
+/
+Data Structures and Algorithms II
+Topics include: amortized analysis and self-adjusting data structures for trees and priority queues; union-find; minimum spanning tree, shortest path and other graph algorithms; elementary computational geometry; greedy and divide-and-conquer paradigms. 
+/
+Social and Ethical Issues in Computing
+Overview of philosophical ethics, privacy and databases, intellectual property, computer security, computer crime, safety and reliability, professional responsibility and codes, electronic communities and the Internet, and social impact of computers.
+/ 
+Declarative Programming 
+Course focuses on one of the declarative programming paradigms: functional, logic, or constraint programming. Specialized techniques are introduced with a view towards general principles. Selected advanced topics in programming language design and implementation are covered.
+/
+Introduction to Numerical Computing
+An introductory course covering such topics as solution of linear and nonlinear equations; interpolation and approximation of functions, including splines; techniques for approximate differentiation and integration; solution of differential equations; familiarization with existing software.
+/
+Software Engineering
+Software engineering principles will be discussed and applied to a large team developed project. Other topics relevant to the production of software will also be covered, including ethics, legalities, risks, copyrights and management issues.
+/
+Operating Systems Principles
+Fundamental principles of modern operating systems design, with emphasis on concurrency and resource management. Topics include processes, interprocess communication, semaphores, monitors, message passing, input/output device, deadlocks memory management, files system design.
+/

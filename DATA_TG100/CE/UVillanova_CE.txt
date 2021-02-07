@@ -1,0 +1,103 @@
+/
+General Chemistry I
+Basic concepts of chemistry covering the following topics: stoichiometry, redox reactions; properties of gases; thermochemistry; descriptive presentation of atomic orbitals; molecular structure and bonding; chemical trends in the periodic table; properties of bulk matter; colligative properties of solutions.
+/
+Ancients
+A Humanities seminar based principally on texts and readings drawn from primary sources up to 1650. Extensive written work and seminar discussions. Required readings: Hebrew and Christian scriptures, selections from the works of Augustine, Greek and Renaissance works. Readings from different genres and disciplines. Themes developed by the instructor in accordance with the selected readings.
+/
+Egr. Interdisciplinary Proj. I
+Core engineering concepts and project-based introduction to engineering course for freshmen engineering majors. First half of semester is lecture/project format emphasizing core concepts and math. Second half consists of an elective interdisciplinary project. Students choose from among several of these
+/
+Calculus I
+Limits, transcendental functions (logarithms, exponential functions, inverse trigonometric functions), differentiation (definition, tangent lines, rates of change, techniques, implicit differentiation, related rates), applications of differentiation (graphing, optimization), indeterminate forms and LHopitals Rule. Use of a computer algebra system, eg. MAPLE.
+/
+Faith, Reason, and Culture
+Study of Christianity with a particular focus on Roman Catholicism, animated by Augustine's concern to relate Christian faith, reason and human culture, using various disciplinary approaches within the fields of theology and religious studies.
+/
+Moderns
+A Humanities seminar based principally on texts and readings drawn from primary sources 1650 to the present. Extensive written work and seminar discussions. Readings from each of the following five historical eras: Early Modern, Enlightenment, Romantic, Modernist, Contemporary. Readings will also reflect different genres and disciplines. Themes developed by the instructor in accordance with the selected readings, including a specific Augustinian theme.
+/
+ECE Freshman Projects
+Project-based introduction to engineering course for freshman electrical and computer engineering majors
+/
+Egr Prog & Applic
+Engineering problem solving using the C programming language, C control structures, data files, debugging, functions, arrays, elementary data structures, and pointers. Two lecture hours per week and 1 lab period per week.
+/
+Calculus II
+Integration (indefinite, definite), applications of integration (area, volume, applications to physics and economics, etc.), methods of integration, approximate integration (trapezoidal and Simpson's rules), improper integrals, differential equations, infinite sequences and series. Continued use of a computer algebra system.
+/
+Physics I Mechanics
+Introduction to Mechanics. Designed for students in the College of Engineering.
+/
+Fund Computer Engineering I
+Introduction to logic design and digital computer fundamentals. Topics include computer arithmetic, Boolean algebra and logical design, assembly language programming basics, and basic concepts of computer architecture
+/
+Fundamentals of MATLAB
+Use of MATLAB, a matrix oriented, high level programming language, for the simulation and modeling of physical systems. Matrix operations, extensive 2-dimensional and 3-dimensional graphing, introduction to MATLAB toolboxes. Lectures are conducted in parallel with hands-on programming and computer simulations. One lecture hour and one laboratory period per week.
+/
+C++, Algorithms & Data Struct
+C++ classes, access rules, inheritance, friends, abstract classes, passing parameters by value, by reference, polymorphism in functions and operators, static and dynamic binding, templates; searching, sorting; pointer implementation of lists, stacks, queues, trees, hashing; P and NP classes; analysis of algorithms.
+/
+Career Compass Second Yr A
+First part of the professional development program for second year engineering students focused on four areas: The Engineering Profession, Setting the Stage for Personal Success, Post-Graduation Planning, and Communicating in the 21st Century.
+/
+Diff Equation with Linear Alg
+First order and linear second order differential equations, matrices and linear equation systems, eigenvalues and eigenvectors, and linear systems of differential equations.
+/
+Physics II Elec & Magnet
+Electrostatics, DC Circuits, magnetism, and AC circuits.
+/
+Discrete Structures
+Mathematical structures that support computer science: sets, matrices, trees, graphs, logic and proof, mathematical induction, relations, functions, sequences, summations, and elementary combinatorics.
+/
+Fund Comp Engineering II
+Continuation of ECE 2041. Topics include the PIC Microprocessor, VHDL, Quine-McCuskey method, fault detection and localization, state machine minimization, state machine testing, and codes.
+/
+Fund Electrical Engineering I
+Basic concepts, steady-state dc circuit analysis, network theorems, ideal op-amp circuit analysis, energy storage elements, complete response of first-order circuits, steady-state sinusoidal circuit analysis and the phasor diagram.
+/
+Prof. Dev. Seminar
+Various professional development activities including: initiation into mentoring program, introduction to engineering ethics and professional responsibilities, field trips and other events on contemporary issues, peer evaluation process, development of oral and written communication skills, workshops on a variety of professional skills.
+/
+Career Compass Second Yr B
+Second part of the professional development program for second year engineering students focused on four areas: The Engineering Profession, Setting the Stage for Personal Success, Post-Graduation Planning, and Communicating in the 21st Century.
+/
+Operating Systems
+System software design and implementation; process and resource management; concurrency, scheduling, and deadlock; memory management; file systems and security.
+/
+Java Bootcamp
+Fast-paced coverage of object-oriented programming using Java and the Java API, including packages for creating graphics and applets; Java syntax and control structures; arrays; designing objects, classes, and methods; graphical user interfaces; input streams, exception handling and threads.
+/
+Computer Architecture
+Fundamentals of instruction sets and their efficient execution - e.g., pipelines, caches, out-of-order execution, and branch prediction mechanisms. Performance analysis, superscalar, VLIW, multithreading, and multiprocessing are among the topics studied. Trace-driven simulators are used in practicums to explore concepts learned in class
+/
+Digital Electronics
+Digital logic families with primary emphasis on external electrical characteristics of the logic devices. Applications and designs at the board-level, involving topics such as series/parallel conversion and analog/digital conversion
+/
+Eng Probability & Statistics
+Basic set theory, axioms of probability, probability relationships. Concepts of a random variable. Joint random variables. Selected topics in statistics from: estimation, hypotheseis testing and regression. Selected topics from: functions of a random variable, random processes, Markov chains, applications (e.g. reliability, queuing, microprocessor control, digital communications, detection).
+/
+Career Compass
+First part of the professional development program for third year engineering students focused on four areas: The Engineering Profession, Setting the Stage for Personal Success, Post-Graduation Planning, and Communicating in the 21st Century.
+/
+Compiler Construction
+Lexical and syntactical analysis; code generation; error recovery; recursive descent compilation; handling of run-time environment.
+/
+Design Seminar - CPE
+Design Seminar - CPE
+/
+Computer Networks
+ISO/OSI, TCP/IP reference models; data transmission, encoding, framing, error detection, stop-and-wait, sliding windows; CSMA/CD, Ethernet; bridges, spanning tree protocol; connectionless, connection-oriented and source routing, IP addressing, forwarding, VPNs; switching fabrics; ARP, DHCP, DV, OSPF, BGP, DNS.
+/
+Design Project - CPE
+Design Project - CPE
+/
+Multimedia
+Algorithms and standards that make possible multimedia communication and storage over the internet, including baseline JPEG, JPEG 2000, video compression (MPEG-1, 2, 4), audio compression and MP3, DVD, video conferencing and streaming, multimedia over broadband (DSL and cable), multimedia database search and retrieval and digital watermarking for multimedia content ownership and intellectual property rights protection
+/
+Biomedical Instrumentation
+Introductory course in Biomedical Engineering emphasizing human physiology & medical measurement tools & techniques. Topics include the nervous system, the cardiovascular system & the respiratory system.
+/
+Environmental Ethics
+The relation of the physical and biological environment to ethical values. Priorities among environmental, economic and political values as a basis for ethical decisions.
+/

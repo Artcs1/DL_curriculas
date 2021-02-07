@@ -1,0 +1,113 @@
+/
+Calculus I
+Limits, continuity, and the derivative and integral of functions of one variable, with applications, and the fundamental theorem of calculus. 
+/
+Math I Lab
+Topics include: Algebra Review, Limits, Continuity, Derivative: definition, rules: sum, quotient, product, power, chain, Implicit Differentiation, Applications of the Derivative: related rates, max/min problems, L’Hospital’s Rule, Anti-derivative, Integration.
+/
+Introduction to Engineering
+Provides information on engineering education, the engineering profession, and basic concepts and tools. Introduces the engineering design process and provides opportunity for students to complete engineering design projects.
+/
+General Chemistry and Recitation
+Deals with the fundamental principles of chemistry, the chemical and physical properties of the elements and their most common compounds, and methods of qualitative inorganic analysis.
+/
+General Chemistry Laboratory
+Designed to teach some of the techniques of chemical experimentation, illustrate some of the principles of chemical theory, and develop some skill in the preparation and analysis of chemical substances.
+/
+Calculus II
+Including more integration, sequences, series, Taylor's theorem, improper integrals, and L'Hospital's rule
+/
+Math Lab II
+Topics include: integration techniques, applications of integration, polar functions and parametric functions, sequences and series.
+/
+Introduction to Electrical & Computer Engineering Organized in five (5)
+Descriptive, Environment, Technical, Practical (Hands on), and Projects, students are introduced
+to various engineering issues related to the profession of electrical engineering.
+/
+General Physics for Science and Engineering Students
+General Physics for Science and Engineering Students
+/
+General Physics for Science and Engineering Students Lab. 1
+General Physics for Science and Engineering Students Lab. 1
+/
+Calculus III.
+Including calculus of functions of several variables, through Green’s Theorem and Stokes’s Theorem, with applications. 
+/
+Math III Laboratory 1 Credit
+The purpose of this course is to further develop students' problem solving skills and
+help them see how calculus can be used to solve engineering problems. Topics include: Vectors
+and scalars, Dot and Cross Product, Vector Differentiation, Gradient, Divergence, and Curl,
+Vector Integration, Divergence Theorem, and Stokes’ Theorem.
+/
+General Physics for Science and Engineering II
+General Physics for Science and Engineering II
+/
+General Physics for Science and Engineering II Lab
+General Physics for Science and Engineering II Lab
+/
+Computer Science I
+This course provides an introduction to the discipline of computer programming. Closed laboratory to reinforce lecture topics and introduce new topics. Course is designed to expose students to basic programming concepts and to the use of the C++ language. This course is designed to enhance the student’s ability to design, develop and test/debug programs. Each student will increase his or her skill in writing correct and maintainable programs. Emphasis will be placed on problem analysis and on the subsequent development of algorithms. Several standard data types will be discussed and the student will gain an understanding of the issues relating to the use, design and implementation of each type in C++. A major focus of the lectures will be to provide an overview of real-world problem solving concepts and top-down software design. 
+/
+Engineering Math
+History and importance of engineering Mathematics, trigonometry in engineering, 2-D vectors in engineering, complex numbers in engineering, 3-D vectors in engineering, systems of equations in engineering, application of derivatives in engineering, application of integrals in engineering, solving differential equation, applications of differential equations in engineering, Laplace transforms and applications, Interdisciplinary Applications.
+/
+Computer Science II
+Course exposes students to the software development life cycle with a focus on the concepts and use of the object-oriented paradigm in problem analysis, solution design, software development and implementation.  This course is designed to enhance the student’s ability to engineer software that is efficient, maintainable and cost efficient over its entire life cycle. Data abstraction is discussed in depth and students gain experience in the use of classes, object and member functions. 
+/
+Fundamentals of Circuit Theory
+Understanding of basic circuit theory, circuit theorems, dc, ac circuits, magnetic circuits, transients, Laplace and Fourier transforms, Fourier series, electric devices, 2-port network, basic filters and op-amps.
+/
+Fundamentals of Circuit Theory Lab
+Understanding of hands-on labs associated basic circuit theory, circuit theorems, dc, ac circuits, operational amplifiers (op-amps), electric devices network, basic filters and op-amps.
+/
+Fundamentals of Digital Systems
+Introduction to hardware building blocks used in digital computers and systems. Introduces number systems (including binary, octal and hexadecimal), Boolean algebra, two-level/multilevel logic minimization/simplification using K-Maps and Quine-McCluskey methods, combinational logic circuit design and implementation with available SSI, MSI, and programmable logic devices (PAL, PLA, multiplexers, encoders, ROMS). Practical considerations such as hazard and glitches are treated. Basics of sequential logic design including latches, flip-flops, registers, counters, finite state machines design, minimization, and implementation are presented.
+/
+Fund of Digital Systems Lab
+Laboratory experiments and (mini) projects in design and implementation of simplex to moderately complex combinational and sequential logic circuits.
+/
+Fund: Electromagnetics
+Electric fields, flux and potential; Coulomb's Poisson's and Gauss's laws; permittivity and conductivity, magnetostatics, magnetic materials, magnetic materials and forces, Biot-Savart law and time varying fields, Maxwell's equations in integral and differential forms, time-domain analysis of waves. Application of electromagnetic theory to transmission lines.
+/
+Fund: Electromagnetics Lab
+Fund: Electromagnetics Lab
+/
+Fundamentals of Electronics & SS Devices
+Understanding of basic semiconductors devices, characteristics, switching and basic amplifiers, operational amplifiers, frequency response, filters, wave generation, introduction to power electronics, team work.
+/
+Fundamentals: Elec & SS Devices Lab
+Understanding of basic semiconductors devices, characteristics, switching and basic amplifiers, operational amplifiers, frequency response, filters, wave generation, introduction to power electronics, team work
+/
+Probability & Random Variables for Engineers
+Examines fundamentals of discrete and continuous probability: conditional probability, independence, random variables, density and distribution functions, expected value and variance, common discrete and continuous distributions, joint distributions, and introduction to simple stochastic processes. Applications to electrical and computer engineering; reliability of series and parallel circuits, models for waiting time phenomena.
+/
+Advanced Digital Systems Design
+Consists of design, analysis, optimization, and implementation of complex sequential digital systems and finite state machines (FSM). Hardware description languages (HDL), VHDL and/or Verilog, are introduced and will be used to design and implement digital systems. The structure of a computer and its organization will be reviewed.
+/
+Advanced Digital Systems Design Laboratory
+Laboratory projects will use a PC-based Computer-Aided Design Tool environment that supports hardware description languages (HDL) such as VHDL and Verilog for design, simulation, and synthesis of logic systems.
+/
+Fundamentals of Signals & Systems
+Design-based course introduces comprehensive treatment of basic signal theory in time and frequency domains. Discrete and continuous time cases are treated simultaneously, covers concepts of signals and systems, convolution of difference and differential systems, block diagrams, state-space realizations and solution, matrix theory, Fourier series, transform techniques (Fourier, FFT, Z and Laplace), frequency response and stability.
+/
+Discrete Structures. 
+Algebraic structures applicable to computer science; semigroups, graphs, lattices, Boolean algebras, and combinatorics. 
+/
+Computer Organization I
+This course will cover the fundamentals required to understand the relationship between computer hardware and software. Topics include data representation on computers, computer arithmetic, Boolean algebra and digital logic, and assembly programming in MIPS. 
+/
+Research in Undergraduate Exp
+Research in Undergraduate Experience makes undergraduate students familiar with basics of research. Students practice research on a specific subject under supervision of a faculty member. Students perform literature review on their selected subject and discuss about it to the class. Through this effort, students become exposed to various subjects and understand the importance of and the need for research.
+/
+Principles of Economics I
+Introduction to macroeconomic analysis and its application to the American economic system. Includes such major topics as the economic role of government, the banking system, the determination and measurement of national income, economic growth, and elements of monetary and fiscal policies.
+/
+Microcomputer Design
+Examines microprocessors, support architectures, and hardware/software. Also presents microprocessors' software model and programming, assembly language programming, microprocessor applications, microprocessor-based systems, and microcomputers. 
+/
+Senior Design I
+Fundamentals of design principles, and engineering applications, design methodologies with emphasis on synthesis and evaluation, design process, reliability, the impact of engineering economy, report writing, ethics and alternative solutions will be discussed. During this course, students must identify a topic and an advisor for their Thesis Design Project.
+/
+Senior Design II
+Enhances knowledge of engineering design principles to solve real world problems, project planning, analysis, simulation and presentation, economic impact, ethics synthesis. Design areas are selected from solid-state electronics, digital systems, communications (signal processing), power/energy systems and controls, power electronics, antennas and microwave and others.
+/

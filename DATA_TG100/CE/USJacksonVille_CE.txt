@@ -1,0 +1,287 @@
+/
+University Success in College
+Experience and offers a global, comprehensive and
+personalized approach to student success through
+textbook, stimulating lectures, action research,
+leadership development, library initiatives, and
+service learning.
+/
+Calculus I with Laboratory.
+Functions, limits, continuity, differentiation, limiting forms,
+applications, properties of continuous functions,
+analytic geometry and integration. The Laboratory
+component is designed to reinforce the lecture
+component with activities requiring the use of
+technology in the form of computers with selective
+software and graphing utilities.
+/
+Programming Fundamentals. 
+This is the
+first course in the computer science programming
+sequence and is required of all computer science
+majors. Course objectives include: introduction to
+problem solving methods and algorithm development;
+definition of language syntax and semantics of a
+high level programming language; and developing
+the ability to design, code, debug, document, and
+successfully execute programs. Topics include
+objects and classes, data types, applets and
+graphics, decision statements, iteration, methods,
+testing and debugging, arrays, sorting and searching,
+inheritance, interfaces and polymorphism
+/
+History of Civilization I
+A global survey
+and study of the histories of major geographical
+regions and populations between humans’ prehistory
+beginnings and their civilizational, societal, and
+cultural developments by the 15th century. Additionally,
+the course provides and promotes student learning
+outcomes that include content literacy about the
+human historical experience and the honing of
+specific skill sets–i.e., reading comprehension, critical,
+and analytical thinking as well as effective written
+and oral communication.
+/
+History of Civilization II
+A global survey
+and study of the histories of population groups,
+their regional geographics and their civilizational
+and cultural developments from the 15th and the
+21st century. The course emphasizes both content
+literacy and enrichment as well as the honing of skill
+sets, especially students’ reading comprehension,
+analytical and critical thinking, problem solving and
+effective oral and written communication
+/
+Composition I
+This course is the first
+part of the two-semester freshman composition
+program and is designed to give intensive study
+and practice in writing themes. Emphasis is placed
+on grammar and mechanics, the sentence, the
+paragraph, and the essay
+/
+Composition II
+with emphasis
+on critical thinking and writing essays; writing the
+research paper, business letters, and resumes.
+/
+Digital Logic
+This is an introductory course to digital
+design. Topics include number systems, binary
+logic, Boolean algebra, truth tables, minimization
+of Boolean functions. K-maps, and Flip-Flops,
+Designs include combinational circuits, counters, and
+sequential circuits.
+/
+General Physics I
+Introduction to mechanics, wave motion, sound,
+and heat
+/
+Calculus III with Laboratory
+Infinite sequences and
+series, differential calculus of functions of several
+variables, multiple integrals. The laboratory
+component is designed to reinforce the lecture
+component with activities requiring the use of
+technology in the form of computers with selective
+software and graphing utilities.
+/
+General Physics II
+A calculus-based continuation of PHY
+211. Introduction to electricity, magnetism, optics,
+and modern physics.
+/
+Object-Oriented Programming. 
+Then the emphasis shiftsto object-oriented analysis and design. This course
+covers I/O streams, exception handling, threads,
+reflection, UML, object-oriented analysis and design,
+object-oriented graphical user interfaces, design
+patterns, and refactoring. 
+/
+Circuit Theory
+This course introduces
+concepts and basic laws in the analysis of AC and
+DC linear electric circuits. Topics include mesh and
+nodal analysis. Thevenin’s and Norton’s theorems,
+superposition principle, transients in RLC circuits,
+phasor notation, and frequency response.
+/
+Engineering Analysis
+This course introduces the principles and applications of engineering mathematics, including linear
+algebra, Fourier analysis, and complex variable theory
+/
+Computer Organization and Design. 
+This course
+introduces the basic computer organization,
+which includes the Central Processing Unit (CPU)
+architecture, memory organization, and input/output
+subsystem. It covers instruction sets, addressing
+modes, hardwired control, and microprogrammed
+control. Projects emphasized simple CPU designs.
+/
+Discrete Structures for Computer Science.
+Introduces the foundations of discrete mathematics
+as they apply to computer science, focusing on
+providing a solid theoretical foundation for further
+work. Topics include basic logic, proof techniques, sets,
+bags, ordered structures, graphs, trees, facts and
+properties of functions, and construction techniques
+/
+Electronics Lab
+This laboratory course
+includes experiments that validate the concepts
+covered in CPE 330–Electronics. Experiments
+include diode circuits, BJT characteristics, FET
+characteristics, and MOSFET circuits.
+/
+Ordinary Differential Equations. 
+Introduction to differential
+equations, first-order differential equations, higherorder differential equations, series solutions of linear
+equations, the Laplace transform and systems of
+linear first-order differential equations.
+/
+Engineering Mechanics I.
+Calculus-based statics of particles and rigid
+bodies, equilibrium; distributed forces; centroids;
+structures, trusses, frame, machines; forces in beams
+and cables; friction; moments of inertia, real life examples
+for engineering applications and systems approach
+/
+Embedded Microprocessor Systems.
+This course covers the architecture, operation,
+and applications of microprocessors. Topics include
+microprocessor programming, address decoding,
+interface to memory, interfacing to parallel and serial
+input/output, interrupts, and direct memory access.
+Course project is to design, build, and program a
+simple microprocessor-based system.
+/
+Synthesis with Hardware Descriptive Language
+This course provides an overview of digital
+logic design. It covers modeling and simulation of
+basic digital systems using a hardware descriptive
+language. Topics include behavioral, data flow, and
+structural modeling
+/
+General Chemistry I.
+A study of the types and properties of
+matter, measurement, qualitative and quantitative
+descriptions of chemical reactions, atomic structure,
+bonding and thermochemistry.
+/
+Probability and Statistics for Engineers
+Introduction to concepts of probability and statistics required to
+solve problems in various disciplines; mathematical
+basis for probability and statistics includes axioms of
+probability, continuous sampling distributions, and
+discrete probability, hypothesis testing, confidence
+intervals, probability estimations for risk assessment,
+data processing and statistical inference, statistical
+techniques of data analysis, simple and multiple
+regression model development; stochastic processes,
+emphasis is on the application of probability, statistics
+and reliability to rational decision making, data analysis
+and model estimation in engineering context.
+/
+Engineering Economy
+Introduction to economic
+principles, application of economic principles to
+multidisciplinary engineering problems; calculation
+of capitalized costs, present worth, prospective rates
+of return, and annual costs, economy of equipment
+replacement, market forces and firm analysis; case
+studies and group project.
+/
+Data Structures and Algorithms. 
+The concepts of data abstraction and
+data structures are developed. For the basic data
+structures of linked lists, stacks, queues, hash
+tables, graphs, and trees, associated algorithms are
+described and analyzed. The course also treats 
+JACKSON STATE UNIVERSITY | 260
+recursion, sorting, fundamentals of software engineering, 
+/
+Signals and Systems.
+This course introduces theoretical
+analysis of signals and systems. Topics include timedomain response and convolution, Fourier transform,
+frequency-domain response using Fourier series,
+and Laplace transform, discrete Fourier series and
+transform, sampling, z-transform, and relationships
+between time and frequency descriptions
+/
+Computer Architecture
+This course covers computer architecture
+design issues. Topics include organization of CPU,
+processor systems design, computer arithmetic,
+memory system organization and architecture,
+interfacing and communication, performance, and
+multiprocessing.
+/
+Operating Systems. 
+This course
+introduces the major concepts of process
+communication and synchronization, protection,
+performance measurement, and causes and
+evaluations of the problems associated with mutual
+exclusions and process synchronization among
+concurrent processes. This course introduces and
+analyzes various operating systems in terms of
+processor management, memory management,
+device management, information management, and
+distributed systems management
+/
+Senior Design Project I
+Senior Design Project I
+/
+Philosophy Option
+Philosophy Option
+/
+Fine Arts Option
+Fine Arts Option
+/
+Senior Design Project II 
+Senior Design Project II 
+/
+Digital VLSI Design.
+This course introduces principles
+of the design and layout of Very Large Scale Integrated
+(VLSI) circuits with concentrations on the Complementary Metal-Oxide-Semiconductor (CMOS)
+technology. Topics include MOS transistor theory
+and CMOS technology, characterization and
+performance estimation of CMOS gates. Course
+projects involve layout designs and simulations
+using computer-aided design tools.
+/
+Digital System Testing and Design for Testability
+This course introduces fundamental techniques for
+detecting defects in VLSI circuits. Topics include
+fault models, fault detection, and schemes for
+designing systems to be easily testable and with
+self-test capability.
+/
+Communication Systems. 
+This course introduces students to analog and digital modulation
+techniques. Topics include random processes, power
+special density, effects of nosie on, and bandwidth
+requirements of, different modulation schemes
+/
+Computer Networks
+This course introduces students to network
+protocols and network architectures. Topics
+include characteristics and principles related to
+Wide Area Networ A(WAN), and network devices
+and their relationship with network protocols
+and architectures. It also provides methods for
+characterizing and analyzing communications
+systems performance.
+/
+Digital Signal Processing.
+This course introduces the theory and
+algorithms for processing deterministic and
+stochastic signals. Topics include discrete signals,
+linear filtering; Fast Fourier Transform, nonlinear
+filtering, spectrum estimation, linear prediction,
+adaptive filtering, and array signal processing.
+/

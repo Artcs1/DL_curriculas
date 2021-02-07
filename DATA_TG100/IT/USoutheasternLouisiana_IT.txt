@@ -1,0 +1,100 @@
+/
+Freshman Composition
+Instruction and practice in the basic principles of expository writing: the paragraph and the whole composition-the methods of development, the thesis, the outline and organization, the structure and style. Instruction in functional grammar, sentence structure, diction and spelling, punctuation and mechanics, in direct relation to the student's writing.  
+/
+Pre-Calculus with Trigonometry 
+Topics will include a study of conic sections, general quadratic equations, systems of linear and general quadratic equations, exponential, logarithmic, and rational functions, properties and applications of trigonometric functions.
+/
+Pre-Calculus with Trigonometry 
+A combined course on function properties and graphs; inverse functions; linear, quadratic, polynomial, rational, exponential and logarithmic functions with applications; trigonometric functions and graphs; inverse trigonometric functions; fundamental identities and angle formulas; solving equations, and triangles with applications.
+/
+Critical Reading and Writing 
+Development of skills in reading critically, analyzing models of good writing, and writing in response to a variety of texts, including imaginative literature. Writing the argumentative essay, the critical essay, the research paper, and the essay examination. 
+/
+Elementary Statistics
+An introduction to statistical reasoning. Topics include graphical display of data, measures of central tendency and variability, sampling theory, the normal curve, standard scores, Student's T, Chi Square, and correlation techniques.
+/
+WORLD LITERATURE
+A survey of major writings of the Western tradition from classical times to the present.
+/
+Algorithm Design & Implementation I
+Basic concepts of computer programming, problem solving, algorithm development, and program coding using a high-level, block-structured language. 
+/
+Intro to Prof and Technical Writing
+An introduction to the genres of writing used in the technical and professional workplace, including memos, letters, instructions, directions, proposals, résumés, and short reports. 
+/
+Discrete Structures 
+Introduction to discrete structures of computing. Topics include sets, relations, functions, digraphs, matrices, recursion, partially ordered sets, Boolean Algebra, artificial languages, and finite state machines.
+/
+GENERAL BIOLOGY I
+Principles of biology from the cellular level including biochemistry, cell biology, metabolism, photosynthesis, molecular biology, and genetics.
+/
+ALGORITHM DESIGN AND IMPLEMENTATION II
+An intensive capstone of the material covered in Computer Science 161 and an introduction to elementary data structures, searches, simple and complex sorts, and objects.
+/
+GENERAL BIOLOGY LAB I
+Laboratory exercises for studying the principles of biology from the cellular level including biochemistry, cell biology, molecular biology, and genetics. 
+/
+SOFTWARE ENGINEERING
+Introduction to the methods used for specifying, designing, implementing, and testing medium and large-scale software systems; methods for organizing and managing software development projects, professionalism and ethical resposibilities in software development.
+/
+Computer Organization
+An introduction to the structure and function of computing machines. The primary components of the computer are examined from an organizational and logical standpoint. Topics include introduction to digital systems; machine level representation of data; assembly level machine organization; memory system organization and architectures; and introduction to language translation. 
+/
+Internet Programming 
+This course concerns the art and science of programming for WWW Internet applications from a client-side perspective. Basic and advanced HTML will be covered, with emphasis on current scripting technologies.
+/
+System Administration 
+This course teaches skills and concepts that are essential to the administration of operation systems, networks, software, various computing support systems, and system documentation, policies, and procedures. This also includes education and support of the users of these systems.
+/
+Computer Networking and Security
+Topics include computer networking and protocols used in local and wide area networks, network administration, and the conceptual and technical aspects of computer security and information assurance, especially as it impacts networks and the Internet.
+/
+Database Administration 
+A hands-on comprehensive study of database administration and applications to include selecting, installing, configuring, tuning, maintaining, and reviewing modern database systems.
+/
+Computer Architecture
+Hardware organization and implementation of computer architecture. Instruction set considerations and addressing modes. System control concepts. CPU control, microprogramming, I/O interface and memory organization. Parallel and data flow architecture.
+/
+Information Systems 
+A study of file organization and management, analysis of the concept of information systems, approaches and techniques for evaluating information systems. 
+/
+Data Structures
+Further study of trees, including: balanced trees, B-trees, 2-3 trees, and tries; external sorting, symbol tables, and file structures.
+/
+Capstone I
+This course must be taken in the academic year in which the student intends to graduate. Through participation in a major capstone project, this course presents a formal approach to the top-down design, development, and maintenance of software systems. Topics include organization and management of software projects, security, programmer teams, validation and verification.
+/
+Integrated Technologies for
+This course provides an introduction to several current technologies, and how they can be used to integrate software solutions into a functional large interconnected system. The course will focus on contemporary technologies used for enterprise software development.
+/
+Human Computer Interaction
+Designing, implementing, and evaluating computer systems. Task analysis, prototyping, usability evaluation, dialogue specification, interaction styles and techniques, human factors, virtual reality, multimedia, and hypermedia systems.
+/
+Operating Systems 
+Topics include process management, processor management, memory management, device management, file management, process synchronization and interprocess communication, and user interface. Other issues such as distributed computing and system performance may be discussed.
+/
+Current Trends in Computer
+Topics include computer and information ethics, social implications of technology, current trends in computer science and information technology applications and development, professional issues, and emerging trends and current topics in computer science research.
+/
+INTERNSHIP IN MATHEMATICS
+INTERNSHIP IN MATHEMATICS
+/
+CULTURAL ANTHROPOLOGY
+A study of the nature and components of culture and the diversity of human cultures.
+/
+INTRODUCTION TO CRIMINAL JUSTICE
+The criminal justice system. Study of the historical development of criminal justice. Overview of the functions and responsibilities of law enforcement, the judiciary and
+/
+SOCIAL SOFTWARE
+An application-based introduction to development of Social Software. Blogs, microblogs, podcasting, social networking and related issues will be examined. Emphasis will be on gaining hands-on experience in the use of content authoring tools.
+/
+SURVEY WORLD ART HISTORY I
+One semester chronological survey of world art and architecture from the Paleolithic to the Late Gothic eras. Emphasis varies with instructor. 
+/
+INTRODUCTION TO PUBLIC SPEAKING
+Training in the organization of materials and the oral and physical aspects of delivery in various speaking situations. Intended to give the beginning student an understanding of and practice in communicative speaking.
+/
+FRESHMAN ACADEMIC SUCCESS AT SOUTHEASTERN
+A student success course providing the tools that address the rigors of academic life on the University level. Topics include the purpose and value of higher education; the expectations and responsibilities of a college student; the development of analytical and metacognitive learning strategies; choosing the appropriate major and developing degree/career goals; and personal management during the college years. 
+/

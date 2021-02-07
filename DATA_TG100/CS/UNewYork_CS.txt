@@ -1,0 +1,115 @@
+/
+Introduction to Programming & Problem Solving
+This course introduces problem solving and computer programming and is for undergraduate Computer Science and Computer Engineering majors who have limited prior experience in programming in any language. The course covers fundamentals of computer programming and its underlying principles using the Python programming language
+/
+Introduction to Computer Science
+This is a breadth-first course that introduces computer-science majors to several subdisciplines in the computer-science field. The course is built around the theme that computer science is the study of algorithms and includes much more than programming. The course introduces hardware, virtual machines, software, applications and social issues in computing.
+/
+Data Structures and Algorithms
+This course covers abstract data types and the implementation and use of standard data structures along with fundamental algorithms and the basics of algorithm analysis. 
+/
+Object Oriented Programming
+This intermediate-level programming course teaches object-oriented programming in C++. Topics: Pointers, dynamic memory allocation and recursion. Classes and objects including constructors, destructors, methods (member functions) and data members. Access and the interface to relationships of classes including composition, association and inheritance. Polymorphism through function overloading operators. Inheritance and templates. Use of the standard template library containers and algorithms.
+/
+Computer Architecture and Organization
+This course covers a top-down approach to computer design. Topics: Computer architecture, introduction to assembly language programming and machine language set design. Computer organization, logical modules; CPU, memory and I/O units. Instruction cycles, the datapath and control unit. Hardwiring and microprogramming. The memory subsystem and timing. I/O interface, interrupts, programmed I/O and DMA. Introduction to pipelining and memory hierarchies. Fundamentals of computer networks.
+/
+Design & Analysis of Algorithms
+This course covers fundamental principles of the design and analysis of algorithms. Topics include asymptotic notation, recurrences, randomized algorithms, sorting and selection, balanced binary search trees, augmented data structures, advanced data structures, algorithms on strings, graph algorithms, geometric algorithms, greedy algorithms, dynamic programming and NP completeness.
+/
+Introduction to Operating System
+This course studies the fundamental concepts and principles of operating systems. Batch, spooling and multiprogramming systems are introduced. The parts of an operating system are described in terms of their functions, structure and implementation. Basic policies for allocating resources are discussed.
+/
+Software Engineering
+Focusing on software engineering, the course introduces techniques to specify, design, test and document medium and large software systems. Design techniques include information engineering, object orientation and complexity measures. Also covered are testing methods, such as path testing, exhaustive test models and construction of test data. An introduction to software tools and project management techniques is presented. Student projects involve team software development and tracking.
+/
+Design Project
+Design Project
+/
+Calculus I for Engineers
+Library of Functions, functions of one variable. Limits, derivatives of functions defined by graphs, tables and formulas, differentiation rules for power, polynomial, exponential and logarithmic functions, derivatives of trigonometric functions, the product and quotient rules, the chain rule, applications of the chain rule, maxima and minima, optimization. The definite integral, the Fundamental Theorem of Calculus and interpretations, theorems about definite integrals, anti-derivatives.
+/
+Calculus II for Engineers
+covers techniques of integration, introduction to ordinary differential equations, improper integrals, numerical methods of integration, applications of integration, sequences, series, power series, approximations of functions via Taylor polynomials, Taylor series, functions of two variables, graphs of functions of two variables, contour diagrams, linear functions, functions of three variables
+/
+Data Analysis
+An introductory course to probability and statistics. It affords the student some acquaintance with both probability and statistics in a single term. Topics in Probability include mathematical treatment of chance; combinatorics; binomial, Poisson, and Gaussian distributions; the Central Limit Theorem and the normal approximation. Topics in Statistics include sampling distributions of sample mean and sample variance; normal, t-, and Chi-square distributions; confidence intervals; testing of hypotheses; least squares regression model.
+/
+Discrete Mathematics
+Logic, proofs, set theory, functions, relations, asymptotic notation, recurrences, modeling computation, graph theory.
+/
+Engineering and Technology Forum
+In this course the notion of invention, innovation and entrepreneurship (i2e) is introduced to the students’ educational experience. Students will be exposed to elements of a research-intensive institution and diverse research performed by leading engineers, scientists, inventors and entrepreneurs.
+/
+Introduction to Engineering and Design
+This course introduces selected aspects of the history, philosophy, methodology, tools and contemporary topics in engineering. Also included are basic engineering experimentation and data analysis, a team design project and analysis and presentation of engineering data and designs.
+/
+Science Requirement I
+Science Requirement I
+/
+Science Requirement II
+Science Requirement II
+/
+Writing the Essay
+Writing the Essay
+/
+The Advanced College Essay
+The Advanced College Essay
+/
+Digital Logic and State Machine Design
+This course covers combinational and sequential digital circuits. Topics: Introduction to digital systems. Number systems and binary arithmetic. Switching algebra and logic design. Error detection and correction. Combinational integrated circuits, including adders. Timing hazards. Sequential circuits, flipflops, state diagrams and synchronous machine synthesis. Programmable Logic Devices, PLA, PAL and FPGA. Finite-state machine design. Memory elements. A grade of C or better is required of undergraduate computer-engineering majors.
+/
+Introduction to Databases
+This course introduces database systems and their approach as a mechanism to model the real world. The course covers data models (relational, object-oriented), physical database design, query languages, query processing and optimization, as well as transaction management techniques. Implementation issues, object oriented and distributed databases also are introduced.
+/
+Introduction to Game Programming
+A programming intensive introduction to the creation of computer games. Using mostly two-dimensional sprite-based programming, we examine and experiment with animation, physics, artificial intelligence and audio. In addition, the course explores the mathematics of transformations (both 2D and 3D) and the ways they may be represented.
+/
+Game Development Studio I
+This class introduces the principles of 2D and 3D computer game design. Students learn about the range of game types and understand their conceptual building blocks. Students complete a structured sequence of assignments towards the design for a new game.
+/
+Introduction to Parallel and Distributed Systems
+This course offers a solid grounding in the basic issues and techniques of parallel and distributed computing. The material covers the spectrum from theoretical models of parallel and distributed systems to actual programming assignments.
+/
+Unix System Programming
+This course covers programming and system administration of UNIX systems. Also covered: Shell programming, special purpose languages, UNIX utilities, UNIX programming tools, systems programming and system administration.
+/
+Java and Web Design
+Programmers familiar with C or C++ learn to develop Java applications and applets. This course teaches the syntax of the Java language, object-oriented programming in Java, creating graphical user interfaces (GIU) using the Java 2 Platform technology event model, Java exceptions, file input/output (I/O) using Java Foundation Class threads and networking.
+/
+Computer Security
+This course covers cryptographic systems. Topics: Capability and access control mechanisms, authentication models, protection models. Database and operating system security issues, mobile code, security kernels. Malicious code, Trojan horses and computer viruses. Security policy formation and enforcement enforcement, legal aspects and ethical aspects.
+/
+Network Security
+This course covers reviews networking. Topics: Basic notations of confidentiality, integrity, availability; cryptographic systems, coding and decoding messages. Cryptographic protocols for privacy, integrity, key exchange and access control. TCP/IP security; Firewalls, IPSec; secure ecommerce. Intrusion detection, prevention, response.
+/
+Special Topics in Computer Science
+Special Topics in Computer Science
+/
+Interactive Computer Graphics
+An introduction to the field of computer graphics: displays, image formation, visual perception, images, transformations (viewing and projection), programmable pipelines (vertex and fragment programs), modeling (primitives, polygon meshes, smooth curves and surfaces), animation (keyframing, procedural), rendering and realism (visibility, lighting, shading, shadows, texturing, ray tracing).
+/
+Human Computer Interaction
+Designing a successful interactive experience or software system takes more than technical savvy and vision--it also requires a deep understanding of how to serve people's needs and desires through the experience of the system, and knowledge about how to weave this understanding into the development process. This course introduces key topics and methods for creating and evaluating human-computer interfaces/digital user experiences. Students apply these practices to a system of their choosing (I encourage application to prototype systems that students are currently working on in other contexts, at any stage of development). The course builds toward a final write-up and presentation in which students detail how they tackled HCI/user experience design and evaluation of their system, and results from their investigations. Some experience creating/participating in the production of interactive experiences/software is recommended.
+/
+Game Design
+This course is about experimental game design. Design in this context pertains to every aspect of the game, and these can be broadly characterized as the game system, control, visuals, audio, and resulting theme. We will explore these aspects through the creation of a few very focused game prototypes using a variety of contemporary game engines and frameworks, high-level programming languages, and physical materials. This will allow us to obtain a better understanding of what makes games appealing, and how game mechanics, systems, and a variety of player experiences can be designed and iteratively improved by means of rapid prototyping and play-testing
+/
+Artificial Intelligence
+Artificial Intelligence (AI) is an important topic in computer science that has many diversified applications. It addresses one of the ultimate puzzles human are trying to solve – How is it possible for a slow, tiny brain, whether biological or electronic, to perceive, understand, predict, and manipulate a world far larger and more complicated than itself? And, how do we go about creating a machine (or computer) with those properties? To this end, researchers in the AI field have been trying to understand how seeing, learning, remembering, and reasoning could, or should be done. 
+/
+Application Security
+This course addresses the design and implementation of secure applications. Concentration is on writing software programs that make it difficult for intruders to exploit security holes. The course emphasizes writing secure distributed programs in Java. The security ramifications of class, field and method visibility are emphasized.
+/
+Information Systems Security Engineering and Management
+The primary goal of this course is to present a system and management view of information security: what it is, what drives the requirements for information security, how to integrate it into the systems design process, and life cycle security management of information systems. This course will not be about the technologies of information security, but how those technologies are integrated into a system and managed.
+/
+Penetration Testing and Vulnerability Analysis
+The course will start off with an in-depth review of the exploitation mitigations introduced in modern operating systems. The instructors will demonstrate their limitations through simple examples and gradually develop the basic exploitation techniques into more complicated methods applicable to real-world exploitation. Unlike most other exploitation courses, we will focus on approaching exploitation as a creative problem-solving process rather than an exercise of applying cookbook techniques to common types of vulnerabilities. Most of the course will focus on the hands-on application of the material through exercises and leading the students through the development of reliable exploits for recently patched vulnerabilities in widely used software.
+/
+Applied Cryptography
+This course examines Modern Cryptography from a both theoretical and applied perspective, with emphasis on “provable security” and “application case studies”. The course looks particularly at cryptographic primitives that are building blocks of various cryptographic applications. The course studies notions of security for a given cryptographic primitive, its various constructions and respective security analysis based on the security notion. The cryptographic primitives covered include pseudorandom functions, symmetric encryption (block ciphers), hash functions and random oracles, message authentication codes, asymmetric encryption, digital signatures and authenticated key exchange. The course covers how to build provably secure cryptographic protocols (e.g., secure message transmission, identification schemes, secure function evaluation, etc.), and various number-theoretic assumptions upon which cryptography is based. Also covered: implementation issues (e.g., key lengths, key management, standards, etc.) and, as application case studies, a number of real-life scenarios currently using solutions from modern cryptography.
+/
+Computer Networking
+This course takes a top-down approach to computer networking. After an overview of computer networks and the Internet, the course covers the application layer, transport layer, network layer and link layers. Topics at the application layer include client-server architectures, P2P architectures, DNS and HTTP and Web applications. Topics at the transport layer include multiplexing, connectionless transport and UDP, principles or reliable data transfer, connection-oriented transport and TCP and TCP congestion control. Topics at the network layer include forwarding, router architecture, the IP protocol and routing protocols including OSPF and BGP. Topics at the link layer include multiple-access protocols, ALOHA, CSMA/CD, Ethernet, CSMA/CA, wireless 802.11 networks and link-layer switches. 
+/

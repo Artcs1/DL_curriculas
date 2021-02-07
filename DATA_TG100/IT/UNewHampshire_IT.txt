@@ -1,0 +1,82 @@
+/
+Introduction to Computer Science I
+Theory and practice of computer science. Algorithm development and analysis; data abstraction techniques; elementary data structures; dynamic memory manipulation; debugging; and program design issues. Computer systems and applications. Intended for CS majors.
+/
+Introduction to Computer Science II	
+Theory and practice of computer science. Algorithm development and analysis; data abstraction techniques; elementary data structures; dynamic memory manipulation; debugging; and program design issues. Computer systems and applications. Intended for CS majors.
+/
+From Problems to Algorithms to Programs
+This course is an introduction to the design and implementation of computer programs. The basic software development process (modeling, algorithm design, programming, testing and debugging) is illustrated through problem examples. Programming techniques are introduced to allow students to implement and evaluate solutions as programs.
+/
+From Programs to Computer Science
+Covers basic algorithm analysis. Topics include basics of classes, inheritance, and data abstraction; linear data structures (vectors, lists, stacks and queues); trees and simple graphs; hash tables; sorting and searching; recursion; and basic graph traversal algorithms.
+/
+Introduction to Scientific Programming
+Introduces the concepts and techniques of computer programming. Particular emphasis on computer programming as a problem-solving technique in science and engineering applications. Either the C language or Python is taught and used for assignments. Good programming style is stressed. Significant out-of-class programming required.
+/
+From Programs to Computer Science
+Covers basic algorithm analysis. Topics include basics of classes, inheritance, and data abstraction; linear data structures (vectors, lists, stacks and queues); trees and simple graphs; hash tables; sorting and searching; recursion; and basic graph traversal algorithms. Numerous labs and programming assignments build skills in planning, problem solving, and debugging: this is a hands on course
+/
+Introduction to Computing
+Initial exploration of computing, including comparison of the various subfields. A wide range of issues, including fundamental concepts, selected current topics and the role of both computing and computing professionals in organizations and in society are also discussed. 
+/
+Introduction to Internet Technologies
+Introductory course exploring the fundamentals of Internet communications with an emphasis on the World Wide Web. Students develop an understanding of the Internet's underlying technologies and learn how to utilize them as contributing members of the Web community. Students become proficient with creating and publishing Web pages using HTML and CSS.
+/
+Professional Ethics and Communication in Technology-related Fields
+A mixed lecture/seminar course intended to improve both reasoning and ability to communicate effectively in front of an audience. Students learn basic forms of ethical argument, they read about ethical situations in which technology and technology professions play a key role, and they participate in student-led discussions about the reading. Students also make oral presentations about both ethical and technical topics, and evaluate each other's presentations in order to improve their sense for what makes a good presentation.
+/
+Intermediate Web Design
+An intermediate level exploration of the theory and practice of Web design. Students learn the fundamentals of design theory applicable to the World Wide Web and examine tools and techniques for applying that knowledge to their projects. Additional topics include information architecture, usability, accessibility, optimization, typography, and market visibility. Working knowledge of XHTML and CSS required.
+/
+Database Programming
+Introduces database programming in the microcomputer environment. Students use a procedural programming language such as Visual Basic to manipulate data managed by a database management system. Emphasis is on the relational database model. Topics include connections, queries (including use of SQL), relations, constraints, transaction processing, concurrency issues, exception handling, and report generation.
+/
+Computer Architecture
+Fundamentals of computer organization, including binary systems, data representation (and compression), machine language, program execution, memory and process issues. Operating systems and networking basics.
+/
+Network/Systems Administration
+Introduces the central issues in administration of a networked computer system. Topics include the client-server model (including support of mail, FTP, Telnet, the Web), disk and file systems, backup and recovery, and security.
+/
+Computer Security
+Provides students with the skills required to recognize and diagnose potential security issues in computer and network systems. Through readings, case studies, exercises, research papers, exams and personal experience, students will discuss and debate security policies and legislation, system procedures, security tools and techniques and the patterns that attackers use to foil security systems. Other topics include types of attacks, viruses, intrusion detection and tracking, firewalls, trust relationships and authentication, secure connections, and cryptography. At the conclusion of the course, student will have a heightened sense of security in the actions they take when using and maintaining computer systems.
+/
+Internship
+Provides the opportunity to apply academic experience in settings associated with future professional employment. A written proposal for the internship must be approved by the instructor. The proposal must specify what the student will learn from the internship, why the student is properly prepared for the internship and what supervision is available during the internship. A mid-semester report and final report are required. 
+/
+Project Management for Information Technology
+This course focuses on a core set of project management essentials that can affect the bottom line of project technical and business performance. These are termed "best practices," and those addressed are: formal risk management, agreement on interfaces, metrics based scheduling/tracking, frequent binary completion milestones, incremental development, people aware management style, and change management. The emphasis is on information technology projects; however, the basic principles are pertinent to a wider class of project domains.
+/
+Senior Project
+Senior Project
+/
+Database Technology
+Topics include database architecture, schema design and definition, entity-relationship diagrams, data retrieval and update, and indexing performance. Architectures for single-user, multi-user, client-server, and web access are introduced. The relational data model is emphasized but alternative database models, such as semi-structured and object models, are introduced. Database administration topics include examination of metadata information, data integrity, and management of users and privileges, performance tuning, transactions, isolation levels, and security. Ethics of data protection are introduced. 
+/
+Server-side Web Development
+An intermediate-level examination of the theory and practice of developing server-side applications for the World Wide Web. Students will learn practical techniques for designing and implementing data-driven Web sites through the use of server-side processing. Working knowledge of HTML, CSS, and some programming language is required.
+/
+Client-side Web Development
+An intermediate-level examination of the theory and practice of developing client-side applications for the World Wide Web. Students will learn practical techniques for designing and implementing dynamic Web sites through the use of client-side processing. Working knowledge of HTML, CSS, and some programming language is required.
+/
+Scripting Languages
+This course is a study of the class of programming languages and tools known as scripting languages. Topics include: a general discussion of language design and its relationship to the intended computing environment, introduction to the command-line environment, the role of scripts in controlling and connecting other programs and components, basic functionality of at least two scripting languages, and the syntax use of regular expressions. Programming projects in multiple languages will be required.
+/
+Data Science and Analytics
+An introduction to various disciplines that contribute to what is commonly known as Data Science.
+/
+Advanced Web Development
+An advanced exploration of various topics in Web development. Topics covered each semester will be chosen to reflect the current state of stable and accepted Web technologies, with a decided emphasis on open-source solutions. Both client-side and server-side technologies are likely to be included, with particular attention given to concepts and techniques used to facilitate efficient Web development.
+/
+Network Technology
+Introduction to fundamental concepts of computer networks and exploration of widely-used networking technologies. Topics include principles of congestion and error control; network routing; local, wireless and access networks; application protocol design; and network programming. In-depth discussion of the Internet suite of protocols.
+/
+Topics in Information Technology
+Topics in Information Technology
+/
+Calculus I
+Calculus of one variable covering limits, derivatives of algebraic, trigonometric, exponential, and logarithmic functions; applications include curve sketching, max-min problems, related rates, and volume and area problems. 
+/
+Introduction to Statistical Analysis
+A first course introducing concepts of probability and scientific methods for data analysis. Exploratory data analysis, survey sampling, probability, discrete and continuous distributions, confidence intervals, hypothesis testing, comparing samples, linear regression, analysis of variance. Statistical software is used.
+/

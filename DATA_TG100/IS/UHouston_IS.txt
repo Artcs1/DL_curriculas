@@ -1,0 +1,109 @@
+/
+First Year Writing I
+A detailed study of the principles of rhetoric as applied in reading and writing expository essays.
+/
+First Year Writing II
+Detailed study of the principles of rhetoric as applied to analyzing and writing argumentative and persuasive essays; principles and methods of research, culminating in writing a substantial research paper.
+/
+The U S To 1877
+The social, economic, and political history of the United States to 1877.
+/
+The U S Since 1877
+The social, economic, and political history of the United States since 1877
+/
+U.S. and Texas Constitution and Politics
+Introduction to the constitutions and politics of the United States and Texas, emphasizing constitutional structure, federalism, separation of powers, limited government, public opinion, elections, and civil liberties
+/
+U.S. Government: Congress, President, and Courts
+Introduction to the institutions of government with an emphasis on the congress, the president, and the federal courts. (Introductory category.)
+/
+Precalculus
+Precalculus
+/
+Calculus I
+Calculus of rational functions, limits, derivatives, applications of the derivative, antiderivatives, the definite integral with applications, mean value theorem, fundamental theorem of calculus, and numerical integration
+/
+Microeconomic Principles
+Individual consumer and firm behavior, supply and demand and the market determination or prices, production, and income. Includes government price ceilings, monopoly and antitrust, market failures and environmental pollution.
+/
+Macroeconomic Principles
+Aggregate economy, inflation, recession, and economic policy. Economic growth, business cycle theory, and international trades
+/
+Technical Communications
+Procedures and techniques of preparing technical memoranda, oral and written reports, manuals, and other source documents that fit the pattern of industrial and institutional communications.
+/
+Applications of Discrete Methods in Technology
+Application of discrete methods in technology with an emphasis on computer applications.
+/
+Finite Math with Applications
+Systems of linear equations, introduction to linear programming, mathematics of finance, topics in probability and statistics.
+/
+Accounting Principles 1 - Financial
+Fundamentals of financial accounting.
+/
+Accounting Principles 2 -Managerial
+Fundamentals of managerial accounting.
+/
+Intro To Logistics Technology
+Functions, processes and objectives of the logistics operation. Industrial distributor and its relationship to other channel members.
+/
+Organizational Leadership and Supervision
+The supervisory process. Established practices and supporting knowledge of supervisory planning, leading, organizing, and controlling.
+/
+Introduction to Organizational Behavior and Management
+General management functions and the role of individual, group, and organizational behavior in the management process.
+/
+Production & Service Operation
+Planning and control of production and service operations. Product and service design, design of work systems, forecasting, scheduling, capacity planning, and inventory control.
+/
+Supply Chain Management Fundamentals
+Concepts and techniques used to plan, source, make and deliver products and services meeting customer needs in a global environment. Topics include supply chain strategy, forecasting, inventory management, logistics, and operations management, among others.
+/
+Quality Improvement Methods
+Quality improvement methods for managing production and service operations. Concepts, methodologies, and tools of quality improvement, including quality theory, standards, design, control, and assurance.
+/
+Computer Science & Programming
+Introduction to problem solving through computer programming. Students will learn the fundamental principles of computer science, basic hardware and software components of a computer system, computational thinking, basic algorithms, and programming concepts. Students will get hands-on experience in problem solving by designing, writing, testing and debugging programs in a modern programming language.
+/
+Introduction to C++ Programming
+Fundamentals of C++ programming, conditional and looping constructs, functions and function overloading, arrays, pointers and references, class concepts, and files. Emphasis on practical applications.
+/
+Information Technology Hardware and Systems Software
+A conceptual and technological survey of the structure of distributed information systems architectures, operating systems, network operating systems, data management systems, application development environments, peripheral technology, and user interfaces.
+/
+Information Systems Applications
+Concepts and production skills relating to information systems technologies, procedures, and resources.
+/
+Internet Application Development
+Internet and World Wide Web Technologies. Development and maintenance of Web sites and Web applications.
+/
+Fundamentals of Information Security
+Information security, including technical security issues, people security issues, policy issues, privacy, and ethics.
+/
+Information Systems Application Development
+Development of information systems applications using modern application development technologies.
+/
+Info Systems Analysis & Design
+Development and evaluation of information systems with relation to efficiency and cost.
+/
+Information Systems Infrastructure and Networks
+Data communications standards, protocols, models, architectures, internet topics, and ethics. Components of industry infrastructure with business justification. Study of emerging technologies and trends related to software/hardware components.
+/
+Integrated Information Systems
+Evaluation of integrated information systems.
+/
+Database Management
+Applications of hierarchical and relational database systems.
+/
+Advanced Information Systems Development
+Use of integrated development tools for full-stack systems development. Architectural planning, technology selection, user interface design concepts, and programming for desktop applications that include database persistence.
+/
+Database Administration and Implementation
+Database implementation for a multi-user environment, including usage analysis, database application development, and query optimization.
+/
+Enterprise Applications Development
+Advanced n-tier client/server application development for an enterprise-wide setting.
+/
+Project Management and Practice
+Computer Information Systems Capstone course. Information Systems Project Management concepts. Students plan, manage and complete a major semester-long group project involving a multi-user information system application for a client.
+/

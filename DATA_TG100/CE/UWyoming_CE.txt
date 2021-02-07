@@ -1,0 +1,103 @@
+/
+General Chemistry I
+Provides broad coverage of chemistry principles with inorganic and organic systems applications. 
+/
+Intro. to Computer Science I
+Introduces the fundamental concepts of programming from an object-oriented perspective. Topics include simple data types, control structures, array and string data structures, algorithm development, and debugging techniques. Emphasizes good software engineering principles and developing fundamental programming skills in the context of a language that supports the object-oriented paradigm. 
+/
+College Comp & Rhetoric 
+A composition course emphasizing expository writing, analytical reading, and academic and civic argumentation in a range of print, oral, and digital genres. 
+/
+Calculus I
+Emphasizes physical science applications. Includes plane analytic geometry, differentiation, applications of the derivative, differential equations, integration and applications. 
+/
+Computer Science I
+The course emphasizes basic software design, expands the students’ knowledge of programming language syntax, expands the students’ ability to think and design in an object-oriented paradigm. Introduces the students to UML, pseudocode, and simple planning for the design of software. Also introduces the students to templates and the C++ STL.
+/
+Statics 
+Vector statics of particles and rigid bodies, including equilibrium in two and three dimensions, center of gravity, centroids, distributed loads, truss analysis, simple structures and machines, friction, and internal actions.
+/
+Calculus II
+Includes elementary functions, derivatives, integrals, analytical geometry, infinite series and applications. 
+/
+Engineering Physics I 
+Provides introduction to physics with calculus for engineering students. Includes classical mechanics, gravitation and mechanical waves. Laboratory sessions illustrate principles studied.
+/
+Computer Science II
+Builds on the introduction to object-oriented programming with an emphasis on algorithms, data structures, and software engineering
+/
+Dynamics (1)
+Vector dynamics of particles and rigid bodies, including impulse-momentum and work-energy.
+/
+Electric Circuit Analysis
+Basic concepts of electric circuit theory, dependent sources, network theorems, first and second order circuits, phasors, three-phase circuits. 
+/
+Calculus III
+Applies calculus to situations described by more than one variable. Includes vectors, multivariable equations and functions, parameterization of curves and surfaces, partial derivatives, directional derivatives, the gradient, optimization methods, integration over curves and surfaces using Cartesian, polar, cylindrical, and spherical coordinates, vector fields, and Green’s, Stokes’s, and the Divergence Theorems. 
+/
+Engineering Physics II
+Introduction to physics with calculus for engineering students. Includes electricity, magnetism and heat. Laboratories illustrate principles studied. 
+/
+Computer Organization
+Introduces students to the organization and architecture of computer systems, beginning with the standard von Neumann model and then moving forward to more recent architectural concepts.
+/
+Circuits and Signals
+Review of sinusoidal steady state analysis and ac power. Mutual inductance and linear transformers. Laplace transform. Laplace transform in circuit analysis. Frequency dependent circuits, including RLC circuit resonance. Magnitude and phase response, complex poles and zeros. Bode plots.
+/
+Digital Systems Design
+Binary logic, digital logic gates, reduction of Boolean expressions, combinational logic design. MSI and LSI combinational logic ICs, flip-flops, synchronous and asynchronous sequential systems design, MSI and LSI sequential system ICs, and algorithmic state machines.
+/
+Discrete Structures
+Introduces the mathematical concepts that serve as foundations of computer science: logic, set theory, relations and functions, graphs (directed and undirected), inductively defined structures (lists and trees), and applications of mathematical induction. Provides an introduction to abstract and rigorous thinking in advanced mathematics and computer science. 
+/
+Applied Differential Equations I
+Includes solution of ordinary differential equations, integral transforms. Emphasizes construction of mathematical models arising in physical science and other areas.
+/
+Signals And Systems
+Discrete and continuous-time signals and systems. Topics include linear time-invariant systems; convolution; difference equations; FIR and IIR systems; sampling, aliasing, reconstruction, and quantization. Frequency domain concepts include discrete and continuous Fourier transforms, Z-transforms, system frequency response, Laplace transform properties, and applications of digital filters and DFT analysis.
+/
+Electronics I 
+Physical characteristics and models of semiconductor devices with application to electronic circuit design. Diode circuits, single transistor amplifiers, biasing, and load lines.
+/
+HDL Digital Design
+Hardware Description Language design of digital systems. Industrial CAD tools are used to produce a functional description of hardware that is both simulated and then synthesized into hardware. Methods to describe both combinational logic and synchronous devices are given. Devices such as CPLDs and FPGAs are targeted in this design process. 
+/
+Electronics II
+Analysis and design of microwave and RF circuits with applications to communication and radar systems. Review of transmission line concepts and the Smith Chart, scattering parameters, microstrip lines, and matching networks. Analysis and design of microwave and RF amplifiers, oscillators, and mixers. 
+/
+Probabilistic Signals & Systems
+Fundamentals of probability and statistics for engineers; reliability in engineering systems; random processes, statistical estimation, auto/cross correlation and power spectral density functions and linear filtering of random signals.
+/
+Microprocessors
+Design of microcomputers, controllers and instruments which use microprocessors. Semiconductor memory design, CPU architecture, bus structure and timing, input-output interfaces and devices, assembly language programming, assemblers, compilers, editors and simulators. 
+/
+Computer Networks OR
+Examines network protocols using a top-down approach based on the Internet model. Course focuses on the application, transport, network and link layers. Also covers wireless communication. Discusses problems and current solutions regarding the efficient use of network resources in the global, multi-media Internet.
+/
+Network Hardware
+Basic LANs, Ethernet LAN architecture, and classical Ethernet CSMA/CD MAC protocol. 10Mbps, 100 Mbps, and gigabit Ethernet architecture. Introduction to switching, queuing theory, architecture, design and performance analysis of switch fabrics. Architecture, design, algorithms and performance analysis of Routing.
+/
+Electromagnetics
+A thorough study of static electric and magnetic fields using vector methods with an introduction to dynamic fields. 
+/
+Senior Design I
+Students choose a senior design project and complete the preliminary design. This stage of senior design includes investigation of alternative solutions that meet the project's requirements, cost analysis, and building the prototype circuit. 
+/
+Senior Design I 
+Students complete the senior design project partially designed in EE 4820. The final result of the senior design project includes assembly of a PC board hardware that meets the project's requirements and final report describing the design procedure, designed hardware and software, and results of final testing.
+/
+Network Synthesis
+Characterization and design specification of analog filters. First and second order passive and active filters. Butterworth and Chebyshev filter responses. Audio frequency active filter synthesis using operational amplifiers. 
+/
+Digital Signal Processing.
+Sampling and oversampling A/D's; FIR and IIR digital filter design, effects of quantization, practical realizations; applications of the discrete and fast Fourier Transform (DFT and FFT); correlation, periodograms, window effects, multi-rate techniques, multi-dimensional signal processing, and other topics in digital signal processing. 
+/
+Semiconductor Materials and Devices
+Physical properties of semiconductor materials and devices, including crystal lattices and energy bands, carrier generation, transport, and recombination. PN, metal-semiconductor, and heterojunction operation. Field Effect Transistors, including Metal Oxide Semiconductor (MOSFET), Junction (JFET), MEtal Semiconductor (MESFET), and High Electron Mobility (HEMT) transistors. Bipolar Junction (BJT) and Heterojunction (HBT) Transistor operation. 
+/
+Hardware Digital Signal Processing
+Hands-on introduction to real-time digital signal processing. Programming DSP algorithms using C on modern DSP hardware. Students gain deep understanding of fundamental DSP concepts by implementing selected applications including sampling, reconstruction, FIR and IIR filters, signal generation, and FFT. Hardware concepts include EDMA, memory maps, interrupts, buffered serial ports.
+/
+VLSI Design
+Introduction to CMOS processing, MOS fundamentals including devices models; switching and timing; analog subcircuits and amplifiers; inverters and CMOS gates; concept of standard cells and fully custom design; use of SPICE, digital simulation, and chip layout and verification software. 
+/ 

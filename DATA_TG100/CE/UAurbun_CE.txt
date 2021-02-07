@@ -1,0 +1,100 @@
+/
+English Composition I
+Intensive study of and practice in effective expository and argumentative writing.
+/
+Engineering Physics I
+Introduction to Newton's Laws, gravitation, cosmology, conservation of energy, momentum and angular momentum, special relativity, and fluids using introductory calculus
+/
+Calculus I
+Mathematics Core. Limits, the derivative of algebraic, trigonometric, exponential, logarithmic functions. Applications of the derivative, antiderivatives, the definite integral and applications to area problems, the fundamental theorem of calculus
+/
+Introduction to Engineering
+Introduction to engineering design, engineering teams, graphical presentation, technical writing, oral presentation.
+/
+English Composition II
+Emphasis on research.
+/
+Engineering Orientation
+Introduction to the College of Engineering and its resources, exploration of engineering careers, orientation to campus resources and facilities, and assistance with academics and transition to college.
+/
+Engineering Physics II
+Thermodynamics, electricity and magnetism, simple AC circuits, waves, and geometric optics. Physics at the level of PHYS 1600 or higher is expected
+/
+Calculus II
+Techniques of integration, applications of the integral, parametric equations, polar coordinates. Vectors, lines and planes in space. Infinite sequences and series
+/
+Fundamentals of Computing I
+Introduction to the fundamental concepts of programming from an object-oriented perspective. Emphasis on good software engineering principles and development of the fundamental programming skills in the context of a language that supports the object-oriented paradigm.
+/
+Calculus III
+Multivariate calculus: vector-valued functions, partial derivatives, multiple integration, vector calculus.
+/
+Linear Differential Equations	
+Introduction to ordinary differential equations, specifically linear equations of first and second order, and applications.
+/
+Fundamentals of Computing II
+Software development in the context of collections (e.g., lists, trees, graphs, hashtables). Communication, teamwork, and a design experience are integral course experience.
+/
+Digital Logic Circuits
+Electronic devices and digital circuits; binary numbers; Boolean algebra and switching functions; gates and flip-flops; combinational and sequential logic circuits; hierarchical design of digital systems; computer-aided design tools for digital design, simulation, and testing.
+/
+Fundamentals Chemistry I
+Atomic and molecular theory, chemical equations, stoichiometry, gas laws, thermochemistry, bonding, electronic structure, molecular geometries, solids, liquids, properties of solutions, problem-solving techniques.
+/
+Topics in Linear Algebra
+Matrices, row-reduction, systems of linear equations, (finite-dimensional) vector spaces, subspaces, bases, dimension, change of basis, linear transformations, kernels, orthogonality, Gram-Schmidt.
+/
+Software Construction
+Intensive experience in software construction, to include topics such as testing, debugging, and associated tools; configuration management; low-level file and device I/O; systems and event-driven programming.
+/
+Electric Circuit Analysis
+Basic laws and concepts; resistive circuits; first-order transient circuits; phasors and frequency response of circuits; RMS values and complex power.
+/
+Computer Systems
+Computer hardware/software organization, processor programming models, assembly language programming, design of memory systems, I/O device interfacing, programming and multiprocessing.
+/
+Discrete Structures
+Characterization of computer science data structures and algorithms in terms of sets and relations, functions, recurrence relations. Use of propositional and predicate calculus to describe algorithms. Proving correctness and running time bounds for algorithms by induction and structural induction.
+/
+Introduction to Operating Systems	
+Structure and functions of operating systems; processes and process scheduling; synchronization and mutual exclusion; memory management; auxiliary storage management; resource allocation and deadlock; security, privacy, and ethical concerns; design tradeoffs.
+/
+Digital Electronics
+History of electronics; semiconductors; biasing and operation of PN junction diodes; field-effect transistors and bipolar junction transistors; logic families and logic technologies; flip-flops and memory circuitry.
+/
+Introduction to Algorithms
+Algorithms for standard computational problems and techniques for analyzing their efficiency; designing efficient algorithms and experimentally evaluating their performance.
+/
+Embedded System Design Lab
+Integration of hardware and software in the design of an embedded computing system; development of professional skills.
+/
+Analog Electronics
+Amplifier modeling. Design and analysis of single-stage and multistage transistor amplifiers. Biasing for integrated circuit design. Operational amplifier circuits.
+/
+Random Signals and Systems
+Introduction to probability, random variables, random processes and basic statistics, analysis of random signals and noise.
+/
+Digital System Design
+Hierarchical, modular design of digital systems, computer-aided digital system modeling, simulation, analysis, and synthesis; design implementation with programmable logic devices and FPGAs.
+/
+Engineering Economy
+Principles required in engineering economic studies.
+/
+Computer Architecture and Design	
+Structural organization and hardware design of digital computers; register transfers; micro-operations, control units and timing; instruction set design; input/output devices, multiprocessors, automated hardware design aids.
+/
+Information Networks and Technology
+Architectures, protocols, standards and technologies of information networks; design and implementation of information networks; applications of information networks for data, audio and video communications.
+/
+Capstone Design I
+Capstone Design I
+/
+Introduction to Ethics
+Humanities Core. Major ethical theories from the history of philosophy, their foundations in epistemology and metaphysics, and their extension into social thought
+/
+University Graduation
+University Graduation
+/
+Capstone Design II
+Capstone Design II
+/

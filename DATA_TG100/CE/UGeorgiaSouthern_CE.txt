@@ -1,0 +1,97 @@
+/
+Calculus I 
+Topics include: limits, continuity, differentiation and integration, applications of the derivative and the integral.
+/
+Calculus II
+Techniques and applications of integration; transcendental functions; indeterminate forms; improper integrals; parametric equations and polar coordinates; sequences and series; Taylor's theorem.
+/
+Comprehen. General Chemistry
+Fundamental laws and theories of chemical reactions. Topics include atomic structure, bonding, theory, stoichiometry, properties of matter; chemical thermodynamics, electrochemistry and kinetics.
+/
+Principles of Physics I
+An introductory course which will include material from mechanics, thermodynamics and waves. Elementary differential calculus will be used. 
+/
+Calculus I
+Topics include: limits, continuity, differentiation and integration, applications of the derivative and the integral.
+/
+Computing for Engineers
+This is an introductory course in the foundations of computing, computational thinking, and engineering problem-solving using programming. The course introduces students to the concepts of design and analysis of algorithms and construction of programs for engineering problem-solving. Topics such as arrays, data types and related operations, decision, looping, input/output, functions, files, and plotting.
+/
+Program Design for Engineers
+This course will introduce engineering students to applications for engineering problem-solving and object-oriented programming principles in Electrical and Computer Engineering using standard (ANSI) C and C++. 
+/
+Composition I
+This course introduces students to the conventions of academic and professional writing through the rhetorical practices of reading and composing texts. Students will use critical thinking and information literacy skills to develop texts through the processes of writing, revision, and reflection. 
+/
+Logic Circuit Design
+Computer systems and digital design principles. Architectural concepts, software, Boolean algebra, number systems, combinational datapath elements, sequential logic and storage elements. 
+/
+First Year Seminar 
+Seminar designed to develop foundational information literacy skills and apply them to academic inquiry, academic planning, and campus engagement. 
+/
+Composition II
+This course develops students' knowledge of writing beyond the proficiency emphasizing interpreting, evaluating, and synthesizing information to create arguments from a variety of sources using more advanced research methods.
+/
+Discrete Mathematics 
+Covers important discrete mathematical objects such as sets, relations and functions, graphs and trees. An introduction to mathematical logic and reasoning, and the concept of an algorithm and its complexity will be covered. 
+/
+Ordinary Differential Equations
+The study of differential equations involving functions of one variable. Topics include: linear and non-linear differential equations, initial value problems, existence and uniqueness theorems, systems of differential equations, stability, computational methods and Laplace transform methods.
+/
+Programming Principles I 
+Provides a fundamental understanding of the development of computer solutions to solve problems with emphasis on structured, top-down development and testing. Concepts include the following: an overview of computer system design, problem solving and procedural abstraction design of computer solutions, algorithm development using simple data types and control structures, implementation and testing of programmed problem solutions, design modularization using subprograms and structured and user-defined data types. 
+/
+Circuit Analysis I
+This course introduces the students to the basic concepts of circuit theory and analysis. Topics covered are basic elements and sources, energy and power, Ohm’s law, Kirchhoff’s law, nodal and mesh analysis, Thevenin’s and Norton’s theorems, capacitors, inductors, transient analysis, first-order and second-order circuits. 
+/
+Principles of Physics II
+An introductory course which will include electrostatics, electric current and circuits, and electromagnetism, and may also include optics and modern physics. Elementary calculus will be used. Laboratory exercises supplement the lecture material
+/
+Introduction to Signal Processing with Lab 
+This course introduces students to signal processing for discrete-time and continuous-time signals, convolutions, filtering, frequency response, Fourier series, Fourier transform, Laplace transform, and Z-transform to be used in real applications such as in communication systems, image processing, circuits, biomedical engineering and computer engineering. Laboratory emphasizes computer-based signal processing. 
+/
+Digital Design Lab  
+Design and implementation of digital systems, including a team design project using CAD tools, discrete chip-set and FPGA. Both schematic and hardware description language are used for digital design.
+/
+Programming Principles II
+Emphasis is on advanced techniques such as recursion, regular expressions, refactoring, object oriented programming concepts and constructs, reusing components, templates/generics, interfaces and classes. Experiences include use of an integrated development environment and shared (code) repositories. 
+/
+Technical Communication 
+Teaches students to improve written, oral and visual communication by requiring assignments relevant to their proposed professions. The focus is on the type of communication required by the scientific and engineering discourse communities. 
+/
+Microcontrollers with Lab
+Fundamental concepts of microcontroller architecture, including the Central Processing Unit (CPU), memory devices (ROM & RAM), Input/output peripheral devices and sensor interfacing. Students learn to write programs in C and Assembly languages used to implement real practical applications using microprocessors. The course includes laboratory activities in support of instruction. 
+/
+CORE Capstone Course
+In this course students will make connections among their core curriculum, their career goals, and their external activities, and articulate how these connections inform their understanding of their place in the world.
+/
+Circuit Analysis II w/ Lab
+The course focuses on advanced topics in circuit analysis and design. Topics include Phasor analysis, three-phase systems, AC steady-state power, transformers, transfer functions, Bode plots, passive and active filters, Laplace and Fourier transforms, and two-port networks. 
+/
+Systems Software
+Provides basic concepts of computer software systems including operating systems, language translators, utilities, linkers and loaders, system component interface, diverse programming language concepts, and interfaces. 
+/
+Advanced Engineering Analysis
+This course also introduces the basic concepts of statistics and design of experiments such as randomization, replication, blocking, hypothesis Testing, Z-test, t-test, ANOVA, pair-wise comparisons, and randomized complete block designs. Matlab and Minitab software are used to support instruction. 
+/
+Database Systems
+The fundamental concepts of database management systems (DBMS) including logical and physical database organization, date models and design issues. Emphasis will be placed upon the rational data model including design and implementation using commercial database systems. 
+/
+Data Structures
+Introduction to abstract data types such as lists, stacks, queues, and trees, and algorithm analysis.
+/
+Microelectronics with Lab
+A study of the characteristics and design of bipolar junction and metal oxide semiconductor integrated circuit devices with emphasis on commercial and industrial applications including operational amplifiers, digital logic, and solid state memory. 
+/
+U.S. A Comprehensive Survey
+Surveys the United States from precolonial times to the present with special attention to Georgia. Satisfies the Georgia History and U.S. 
+/
+American Government
+Surveys government and politics, with additional attention to the government and the Constitution of Georgia. Topics include the constitutional structure of American government, the role of non-governmental institutions such as interest groups and mass media, the role of governmental institutions such as Congress and the Presidency, the operation of major political process such as elections and policy making, and the interaction between institutions and processes. 
+/
+Computer Syst Design 
+Digital computers with emphasis on design and simulation are covered including instruction set design, processor implementation, pipelining, cache design, memory hierarchy, and input/output. The course also includes laboratory activities in support of instruction.
+/
+Concepts of Health and Physical Activity
+This course combines health-related content knowledge with weekly participation in fitness or sport based physical activity. The health-related topics may include; behavioral change, personal safety, components of fitness, nutrition and weight management, prevention of chronic disease, mental health and stress management, substance use and abuse, and sexual health. 
+/

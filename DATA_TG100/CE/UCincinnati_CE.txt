@@ -1,0 +1,118 @@
+/
+Calculus I
+Topics covered include functions, limits and continuity, differentiation, applications of the derivative, optimization, antiderivatives, fundamental theorem of calculus, definite and indefinite integrals.
+/
+Foundations of Engineering Design Thinking I
+Foundations of Engineering Design Thinking I
+/
+General Chemistry I 
+This course is intended for students who expect to pursue further coursework in science or engineering. It involves the study of chemical nomenclature, stoichiometry, atomic structure, bonding theories, thermochemistry, periodic properties, solution calculations, and the gas laws. 
+/
+General Chemistry Laboratory I
+Experimental work providing hands-on experience with concepts in fundamental chemistry, including chemical nomenclature, stoichiometry, thermochemistry, solution chemistry and related calculations, chemical bonding, and the gas laws.
+/
+English Composition
+This course emphasizes critical reading, writing, and textual analysis with particular focus on argument and research-based writing. 
+/
+Calculus II
+Topics covered include techniques of integration, applications of the integral, sequences and series, and vectors.
+/
+Foundations of Engineering Design Thinking II
+You will continue to develop a holistic approach to integrating multiple disciplines to facilitate your ability to construct innovative and quantitatively rigorous engineering solutions. Finally, you will extend your skill development in project management, engineering fundamentals, sustainability, written, oral and graphical communication, logical thinking, and modern engineering tools (e.g., Excel, Python, LabVIEW, MATLAB, Visual Basic, CAD, Rapid Prototyping). 
+/
+College Physics I
+This course covers topics in physics using methodsof calculus, algebra, and trigonometry, including vector arithmetic. The course includes the study of motion in one and two dimensions, and the applications of the concepts of force, work, energy, and momentum to linear and rotational motion. Simple harmonic motion, waves, elementary thermodynamics, and properties of solids, fluids, and gases are also explored.
+/
+College Physics Lab I
+College Physics Lab I
+/
+Programming for ECE
+Introduction to software methods for solving engineering problems. Emphasis is on the software development process including creating problem requirements, systematic software design, correct and maintainable C++ coding, and efficient software testing methods.
+/
+Introduction to COOP for CEAS
+This course is designed to introduce CECH students to the cooperative education (co-op) learning model and how it is executed through the Professional Practice Program. It will prepare students to maximize learning through and develop the strategies and necessary skills for effective participation in the Professional Practice Program. 
+/
+Network Analysis	
+Voltage, current, and power in electrical networks. Resistive networks:  Ohm’s law, Kirchhoff’s Laws, node voltage and mesh current analysis. Network theorems:  superposition, source transformations, Thévenin’s theorem.  Transient and steady-state solutions for RL, RC and RLC networks with constant forcing functions.  Use of phasors in steady-state analysis of networks with sinusoidal forcing functions. AC power circuit analysis. Magnetically coupled networks. Frequency response, resonance, bandwidth, and quality factor.
+/
+Digital Design
+Theory and practice of digital system design; combinational logic, synchronous sequential circuits, components and technologies, digital design processes including requirements generation, design and verification using Hardware Description Language (HDL) modeling and simulation, hardware synthesis, digital test design, digital circuit design labs included.
+/
+Multivariable Calculus
+Study of lines and planes, vector-valued functions, partial derivatives and their applications, multiple integrals, and calculus of vector fields.
+/
+Differential Equations and Laplace Transforms
+First and Second Order Differential Equations and Laplace Transforms. 
+/
+Semiconductor Physics for Engineers
+The goal for SEMICONDUCTOR PHYSICS FOR ENGINEERS is to introduce the basic concepts of quantum mechanics and teach students to apply these concepts to a variety of physical situations. This course covers topics in modern physics including the special theory of relativity, wave properties of matter, quantum mechanics, the structure of the atom, statistical physics, molecules and solids, semiconductor theory and devices as well as nuclear physics. 
+/
+COOP for CEAS 
+An individualized, progressive course of study utilizing cooperative education to facilitate and focus the process of integrating theory and practice through faculty-guided, discipline-related learning experiences. In addition the course develops and applies students 'observation, reflection, and evaluation skills related to specific learning objectives. Cooperative education learning objectives include topics and assignments designed to support increasing levels of professional knowledge and skills in the workplace, and enhance students' ability to critically analyze the learning gained through workplace experiences. 
+/	
+Linear Algebra
+Study of linear equations, matrices, Euclidean n-space and its subspaces, bases, dimension, coordinates, orthogonality, linear transformations, determinants, eigenvalues and eigenvectors, diagonalization. 
+/
+Electronics I 
+Operational amplifiers, nonlinear circuits, linear amplifiers, bipolar and field-effect stages, differential and multistage amplifiers; use of MATLAB and PSpice.
+/
+Electronics Laboratory I
+Computer controlled use of oscilloscope and spectrum analyzer, circuit simulation, operational amplifiers, transistor biasing and single-stage amplification, multi-stage and feedback amplifiers, active filters.
+/
+Engineering Data Structures	
+Introduction to intermediate and advanced programming methods.  Objects, pointers, proper use of dynamic data structures, files.  Introduction to Unix/linux operating systems. 
+/
+Signals and Systems
+Signals and Systems
+/
+Introduction to Effective Speaking
+This course introduces the principles of and practice in composition and presentation of speeches. Topics include speaker and audience relationship, organization of speeches, active listening skills, use of appropriate language, use of technology as an enhancement of speech, managing speech anxiety and developing a natural verbal and nonverbal delivery style.
+/
+COOP for CEAS
+An individualized, progressive course of study utilizing cooperative education to facilitate and focus the process of integrating theory and practice through faculty-guided, discipline-related learning experiences. In addition the course develops and applies students' observation, reflection, and evaluation skills related to specific learning objectives. 
+/
+Probability and Statistics I
+An introduction to probability and statistics for students with a calculus background. The course covers sample spaces and probability laws; discrete and continuous random variables with special emphasis on the binomial, Poisson, hypergeometric, normal and gamma distributions; joint distributions; sampling distributions; one and two-sample parameter estimation problems; and one and two-sample tests of hypotheses. This course provides a foundation for the further study of statistics. 
+/
+Introduction to Computer Architecture & Organization
+Fundamentals of computers. The stored program concept. Addressing modes, instruction formats, and instruction sets. Data path and control unit design. Hardwired and microprogrammed control. Memory components and the memory hierarchy. 
+/
+Electronics II
+Frequency response of amplifiers, feedback systems, active filters, oscillators, tuned amplifiers, field-effect and bipolar digital circuits, use of MATLAB, PSPICE.
+/
+Electronics Laboratory II
+Multi-stage, tuned, large-signal, and power amplifiers, emitter-coupled oscillators, active filters, and transistor-transistor and emitter-coupled logic. 
+/
+Software Engineering
+Software Engineering
+/
+Mid-Curricular Co-op Community for Engineering
+This course is required for students who have completed two cooperative education work terms. The course provides a forum for students to share their co-op experiences in community with their classmates and to explore career options and discipline specific topics of their choosing. 
+/
+COOP for CEAS
+An individualized, progressive course of study utilizing cooperative education to facilitate and focus the process of integrating theory and practice through faculty-guided, discipline-related learning experiences. In addition the course develops and applies students' observation, reflection, and evaluation skills related to specific learning objectives. 
+/
+Discrete Computational Structures	
+Three undergraduate credits. Introduces discrete mathematical topics in the context of CS: mathematical induction, sets, propositional logic, relations and functions, algorithm analysis, graph theory.
+/
+Operating Systems & Systems Programming	
+Introduction to concepts of modern operating systems and systems programming. Emphasis is on the concepts, algorithms and architectures of modern operating systems. Students will also learnUnix system programming such as synchronizing, inter-process communication, and networking.
+/
+Embedded System Design	
+Introduction to microprocessors and their uses. Review of gate level digital fundamentals. Architecture and register set of CPU, types of memory, interfacing using FPGA technology. Use of assembly language to create binary machine code. Link to high level languages.
+/
+Advanced Data Structures and Algorithms
+Introduction to data abstraction; problem-solving with abstract data types, algorithm analysis and space/time complexity.
+/
+Technical and Scientific Writing
+Technical and Scientific Writing
+/
+Computer Engineering Senior Design I
+Each student selects a project advisor, and works with him/her to select a design problem, identify the requirements and specifications of the product, and design the product.
+/
+Computer Engineering Senior Design II
+Computer Engineering Senior Design II
+/
+COOP for CEAS
+An individualized, progressive course of study utilizing cooperative education to facilitate and focus the process of integrating theory and practice through faculty-guided, discipline-related learning experiences. In addition the course develops and applies students'observation, reflection, and evaluation skills related to specific learning objectives. 
+/

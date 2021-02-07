@@ -1,0 +1,120 @@
+/
+Principles of Programming
+Concepts of problem solving using an object-oriented programming language, algorithm design, structured programming, fundamental algorithms and techniques.
+/
+Calculus for Engineers I
+Limits and continuity, differential calculus of functions of one variable, introduction to integration.
+/
+Introduction to Engineering
+Introduces the engineering design process; working in engineering teams; the profession of engineering; engineering models, written and oral technical communication skills.
+/
+Introduction to Africana Studies
+Introduces the study of African and African-descended peoples; theory, themes, and perspectives.
+/
+Advanced First-Year Composition
+Concentrated composition course for students with superior writing skills; intensive reading; research papers; logical and rhetorical effectiveness.
+/
+Object-Oriented Programming and Data Structures
+Problem solving by programming with an object-oriented programming language. Introduces data structures. Overview of computer science topics.
+/
+Calculus for Engineers II
+Methods of integration, applications of calculus, elements of analytic geometry, improper integrals, Taylor series.
+/
+Advanced First-Year Composition
+Concentrated composition course for students with superior writing skills; intensive reading; research papers; logical and rhetorical effectiveness.
+/
+African American Literature: Beginnings through the Harlem Renaissance
+Focuses on the history of African American literature through the Harlem Renaissance, as exemplified in selected slave narratives, poems, and fiction.
+/
+Digital Design Fundamentals
+Number systems, conversion methods, binary and complement arithmetic, Boolean algebra, circuit minimization, ROMs, PLAs, flipflops, synchronous sequential circuits.
+/
+Discrete Mathematical Structures
+Logic, sets, functions, elementary number theory and combinatorics, recursive algorithms, and mathematical reasoning, including induction. Emphasizes connections to computer science.
+/
+Calculus for Engineers III
+Vector-valued functions of several variables, partial derivatives, multiple integration.
+/
+Logic in Computer Science
+This course is a mathematically solid introduction to propositional logic, first order logic, logic programming, and their applications in computer science.
+/
+Introduction to Environmental Science
+Introduces the interconnected nature of Earth's hydrosphere, lithosphere (soils and rocks), atmosphere, and biosphere.
+/
+Computer Organization and Assembly Language Programming
+Register-level computer organization. Instruction set architecture. Assembly language. Processor organization and design. Memory organization. IO programming. Exception/interrupt handling.
+/
+Introduction to Programming Languages
+Introduces the procedural, object-oriented, functional and declarative languages.
+/
+Applied Linear Algebra
+Solving linear systems, matrices, determinants, vector spaces, bases, linear transformations, eigenvectors, norms, inner products, decompositions, applications. Problem solving using MATLAB.
+/
+Fundamentals of Sustainable Horticulture
+Principles and practices of horticulture, emphasizing development, growth, and propagation of horticultural plants and environmental factors that affect these processes.
+/
+Data Structures and Algorithms
+Advanced data structures and algorithms, including stacks, queues, trees (B, B+, AVL), and graphs. Searching for graphs, hashing, external sorting.
+/
+Computing Ethics
+Ethics for computing majors: history of computing, intellectual property, privacy, ethical frameworks, professional ethical responsibilities, and risks of computer-based systems.
+/
+Introduction to Software Engineering
+Software life cycle models; project management, team development environments and methodologies; software architectures; quality assurance and standards; legal, ethical issues.
+/
+Information Assurance
+Concepts of information assurance (IA); basic IA techniques, policies, risk management, administration, legal and ethics issues.
+/
+Probability and Statistics for Engineering Problem Solving
+Applications-oriented course with computer-based experience using statistical software for formulating and solving engineering problems.
+/
+Principles of Programming Languages
+Formal syntactic and semantic descriptions, compilation and implementation issues, and theoretical foundations for several programming paradigms.
+/
+Operating Systems
+Operating system structure and services, processor scheduling, concurrent processes, synchronization techniques, memory management, virtual memory, input/output, storage management, and file systems.
+/
+Introduction to Theoretical Computer Science
+Introduces formal language theory and automata, Turing machines, decidability/undecidability, recursive function theory, and complexity theory.
+/
+Distributed Software Development
+Distributed system architectures and design, service-oriented computing, and frameworks for development of distributed applications and software components.
+/
+Precolonial Africa
+The course will study the continent and its people, the way the history of the continent has been interpreted by non-Africans, how the continent's anatomy has affected historical development, and the methodology and interdisciplinary scholarship in the study of Africa
+/
+Computer Science Capstone Project I
+First course in capstone sequence for computer science and informatics majors emphasizing development process, technical skills, teamwork, and communication.
+/
+Software Analysis and Design
+Object-oriented and structured analysis and design; software architecture and design patterns; component-based development; software safety and reliability.
+/
+Software Quality Assurance and Testing
+Software quality assurance (SQA), software quality metrics, software configuration management, software verification and validation, reviews, inspections, understanding software testing process, functional testing, structural testing, model-based testing, integration, system, and regression testing techniques, software life cycle models and software testing, testing distributed software, bug management, and use of testing tools.
+/
+Space Vehicle Dynamics and Control
+Attitude dynamics and control, orbital mechanics, orbital transfer/rendezvous, spacecraft control systems design.
+/
+Computer Science Capstone Project II
+Second course in capstone sequence for computer science and informatics majors continuing the development process, technical skills, teamwork and communication.
+/
+Software Integration and Engineering
+Software development using architecture design, composition, workflow, services, data resources, data representations, data management, and development tools.
+/
+Introduction to Human Computer Interaction
+Design, evaluate, and implement interactive software intended for human use.
+/
+Computer Systems Security
+Countermeasures to attacks to computer systems from miscreants (or hackers) and basic topics of cryptography and network security.
+/
+Data and Information Security
+Basic concepts of security and privacy, data and database security, access controls, trust models, watermarking, and private information retrieval.
+/
+Computer Network Security
+Practical network security exposure and hands-on experience about basic concepts, case studies, and useful tools.
+/
+General Genetics
+General Genetics
+/
+
+

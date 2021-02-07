@@ -1,0 +1,76 @@
+/
+Calculus I
+A detailed study of limits, continuity, derivatives of algebraic and transcendental functions, applications of derivatives, numerical techniques, integrals and the Fundamental Theorem of Calculus
+/
+Calculus II
+A detailed study of methods of integration, applications of the integrals, improper integrals, sequences, series and power series, polar coordinates, and parametric curves. Satisfies the university general education requirement for the knowledge applications integration area
+/
+Linear Algebra
+Study of general vector spaces, linear systems of equations, linear transformations and compositions, Eigenvalues, eigenvectors, diagonalization, modeling and orthogonality. Provides a transition to formal mathematics.
+/
+Discrete Mathematics
+Concepts and methods of discrete mathematics with an emphasis on their application to computer science. Logic and proofs, sets and relations, algorithms, induction and recursion, combinatorics, graphs and trees.
+/
+Applied Probability and Statistics
+Introduction to probability and statistics as applied to the physical, biological and social sciences and to engineering. Applications of special distributions and nonparametric techniques. Regression analysis and analysis of variance
+/
+Introductory Physics I
+Classical mechanics and thermodynamics. For science, mathematics and engineering students
+/
+Fundamentals of Physics II
+Sound, light, electricity and magnetism.
+/
+Introduction to C Programming and Unix
+Introduction to programming and problem solving using C and Unix. The topics include fundamentals of C programming and basic Unix commands including file organization, user commands, and utilities in Unix and creating, editing, executing, and debugging C programs. Introduction to shell programming.
+/
+Introduction to Electrical and Computer Engineering
+An introduction to the fundamentals of electrical and computer engineering; DC and AC circuits, digital logic circuits; combinational logic design; sequential circuits, introduction to electronics, operational amplifiers, DC electromechanical machines. With laboratory. Offered fall, winter. Satisfies the university general education requirement in the natural science and technology knowledge exploration area.
+/
+Object-Oriented Computing
+Introduction to object-oriented computer programming using a high-level programming language such as Java. Classes, member functions, inheritance, polymorphism and operator overloading. Design methodologies and introduction to software engineering principles and practices. Basic data structures, algorithms and event driven programming concepts are introduced.
+/
+Data Structures
+This course covers data structures using object oriented programming. The fundamental data structures in computer science, including stacks, queues, lists and trees are covered in detail. Concepts of design, analysis and verification are discussed in the context of abstract data types. Examples of applications taken from numeric and symbolic domains are used. With laboratory.
+/
+Introduction to Computer Networks
+An introduction to fundamental concepts for design and analyses of computer networks. Topics covered include the physical layer, network protocols, Local Area Networks, Internet, wireless and mobile networks, network security, and socket programming
+/
+Sophomore Project
+Sophomore Project
+/
+Programming Languages
+Fundamental concepts in programming languages. Several high-level languages are studied in depth and their approaches to the fundamental issues in language design are compared. Issues include: data types and structures, control structures, binding times, run-time storage organization, flexibility vs. efficiency, compiled vs. interpreted languages, strong vs. weak typing, block structure and scope of names. 
+/
+Software Engineering and Practice
+Introduction to software engineering and practice. Topics include software process models, project management, requirements analysis, software quality assurance, and testing.
+/
+Theory of Computation
+Formal models of computation, ranging from finite state automata to Turing machines. Computational models are used to discuss the languages recognized by these machines and address issues of computability.
+/
+Database Design and Implementation
+Introduction to the design and implementation of database systems. Include designing a practical database for an application using normal forms, understanding relational database schemas, planning and implementing a database using software such as Oracle and Microsoft SQL Server, advanced database topics in redundancy, replication, load balancing, compatibility, ODBC and JDBC, and database systems administration.
+/
+Design and Analysis of Algorithm
+Computer algorithms, their design and analysis. Strategies constructing algorithmic solutions, including divide-and- conquer, dynamic programming and greedy algorithms. Development of algorithms for parallel and distributed architectures. Computational complexity as it pertains to time and space is used to evaluate the algorithms. 
+/
+Computer Organization
+Assembly language, addressing modes, RISC and CISC architectures, assemblers, loaders, linkers arithmetic and logic unit, hardware functional units, input/output organization, memory organization, cache memory, virtual memory, control unit, pipelining, parallel computer organization.
+/
+Information Security Practice
+Survey of concepts and methods of security policies, models and mechanisms for secrecy, integrity, availability, and authentication. Topics covered include security policies; access control; introduction to cryptography; control and prevention of viruses and other rogue programs; common system vulnerabilities and countermeasures; and legal and social issues.
+/
+Fundamentals of Operating Systems
+Introduction to the concepts and design of operating systems. Typical topics include: sequential processes, concurrent processes, processor management, memory management, scheduling, file management, and resource protection.
+/
+Senior Capstone Project
+Senior Capstone Project
+/
+Immersive Python
+This course introduces the fundamentals and applications of Python. The language fundamentals covered are statements, variables, comments, control structures, functions, modules, packages, and objects. The course also includes advanced concepts such as collections (Lists, Tuples and Dictionaries) with their practical use for Data Processing, Systems administration, and Web development applications. 
+/
+Computer Algebra
+The mathematics and algorithms for symbolic computation. Includes theory of algebraic extensions, modular and p-adic methods, Groebner bases, factorization and zeros of polynomials, solutions to systems of polynomial equations, applications to automatic geometric theorem proving and closed form solutions to differential equations.
+/
+Computational Intelligence Track
+Computational Intelligence Track
+/

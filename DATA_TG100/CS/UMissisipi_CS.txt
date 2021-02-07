@@ -1,0 +1,136 @@
+/
+English Composition I
+A study of logical and rhetorical principles and organizational strategies that contribute to effective writing. Honors section available
+/
+English Composition II
+An expanded study of and practice in stylistics, logic, and research as contributions to analytical writing
+/
+Humanities I
+Humanities I
+/
+Fine Arts I
+Fine Arts I
+/
+Social I 
+Social I
+/
+Calculus I
+Analytic geometry; functions; limits; continuity; derivatives of algebraic functions; applications of the derivative
+/
+Calculus II
+Antidifferentiation; the definite integral; applications of the definite integral; differentiation and integration of transcendental functions.
+/
+Calculus III
+Further methods of integration; polar coordinates; vectors; infinite series.
+/
+Calculus IV
+Differential calculus of functions of several variables; multiple integration; vector calculus.
+/
+Introduction to Linear Algebra
+Vector spaces; matrices; linear transformations; systems of linear equations; characteristic values and characteristic vectors
+/
+Foundations of Mathematics
+The logical structure of mathematics; the nature of a mathematical proof; applications to the basic principles of algebra and calculus
+/
+Graph Theory
+Basic concepts, graphs, and matrices, algebraic graph theory, planarity and nonplanarity, Hamiltonian graphs, digraphs, network flows, and applications
+/
+Number Theory
+Divisibility: congruences; quadratic reciprocity; Diophantine equations; continued fractions
+/
+Engineering Statistics I
+Introduction to statistical analysis. Topics include: probability, probability distributions, data analysis, parameter estimation, statistical intervals, and statistical inferences
+/
+Biology I
+Principles of Biology including nature of science, chemistry of life, cell structure and division, cellular respiration, photosynthesis, Mendelian, chromosomal and molecular genetics, evolution, and ecology
+/
+Chemistry I
+The principles of atomic and molecular structure, energetics, dynamics, and synthesis as related to chemical systems
+/
+Investigations in Chemistry I
+Selected experiments to illustrate fundamentals of chemistry
+/
+Physics I
+Calculus-based course emphasizing Newtonian mechanics and conservation laws
+/
+Physics II
+Calculus-based introduction to gravitation, electricity and magnetism. Laboratory emphasizes concepts of force and motion, conservation laws, and simple electrical circuits
+/
+Chemistry II
+The principles of atomic and molecular structure, energetics, dynamics, and synthesis as related to chemical systems
+/
+Biology II
+Form and function of organisms including body plans and phylogeny,human evolution, plant anatomy and physiology, animal anatomy and physiology,reproduction, development, and animal behavior
+/
+Introduction to CSE
+Introduction to the computer science and software engineering curricula, profession, and career opportunities. Historical perspective; support role of the department. Ethics, team building, problem solving
+/
+Introduction to Computer Programming
+Introductory problem solving and computer programming using object-oriented techniques. Theoretical and practical aspects of programming and problem solving.
+/
+Intermediate Computer Programming
+Object-oriented problem solving, design,and programming. Introduction to data structures, algorithm design and complexity.
+/
+Data Structures and Analysis of Algorithms
+Non-linear data structures and their associated algorithms. Trees, graphs, hash tables, relational data model, file organization
+/
+Discrete Structures
+Concepts of algorithms, induction, recursion,proofs, topics from logic,set theory, combinatorics, graph theory fundamental to study of computer science
+/
+Distributed Client/Server Programming
+Design of software systems for distributed environments. Multithreaded and server-side programming, client/server
+/
+Introduction to Formal Languages and Automata
+Theoretical foundations of computer science; formal languages and automata, parsing of context-free languages; Turing machines; introduction to computability and complexity
+/
+Social and Ethical Issues in Computing
+Study of major social and ethical issues in computing, impact of computers on society, and the computer professional's code of ethics
+/
+Database Management Systems
+Modern database models; basic database management concepts; query languages; database design through normalization; advanced database models; extensive development experience in a team environment
+/
+Programming Languages	
+An introduction to programming language specification and analysis. Additional topics include control structrues, data types, and structures,run-time environments, binding strategies, compilers, and interpreters
+/
+Operating Systems I
+Historical development of operating systems to control complex computing systems; process management, communication, scheduling techniques;file systems concepts and operation; data communication, distributed process management
+/
+Introduction to Analysis of Algorithms
+Study of complexity of algorithms and algorithm design. Tools for analyzing efficiency; design of algorithms, including recurrence, divide-and-conquer, dynamic programming and greedy algorithms
+/
+Digital Devices and Logic Design
+Binary codes, Boolean, algebra, combinational logic design, flip-flops, counters, synchronous sequential logic, programmable logic devices, MSI logic devices, adder circuits
+/
+Microprocessors
+Architecture of microprocessor-based systems. Study of microprocessor operation, assembly language, arithmetic operations, and interfacing
+/
+Computer Architecture
+Detailed design and implementation of a stored-program digital computer system. Designs for the CPU, I/O subsystems, and memory organizations. ALU design and computer arithmetic
+/
+Data Communications and Computer Networks
+The concepts and practices of data communications and networking to provide the student with an understanding of the hardware and software used for data communications
+/
+Designing Parallel Algorithms
+Techniques for designing algorithms to take advantage efficiently of different parallel architectures. Includes techniques for parallelizing sequential algorithms and techniques for matching algorithms to architectures
+/
+Introduction to Software Engineering	
+Introduction to software engineering; planning, requirements, analysis and specification, design; testing; debugging; maintenance; documentation. Alternative design methods, software metrics, software projecet management, reuse, and reengineering
+/
+Principles of Computer Graphics
+Graphics hardware; algorithms,graphics primitives, windowing and clipping , transformations,3D graphics, shading,hidden surfaces; standards
+/
+Game Design
+Principles of computer game design: Game mechanics, structure, narrative, character/environment/level design
+/
+Artificial Intelligence
+Heuristic programming;search programming; search strategies; knowledge representation; natural language understanding; perception; learning
+/
+Operating Systems II
+Integrated treatment of hardware and software concepts in operating systems design; procedure implementation; creation and control of processes;name and space management
+/
+Fundamentals of Public Speaking
+The psychological processes and adjustments necessary in preparing, organizing, wording, and delivering effective speeches. Honors section available.
+/
+Technical Writing
+Instruction and practice in technical writing for scientific and engineering fields, emphasizing analysis and development of correspondence, progress and research reports, instruction, and proposals
+/

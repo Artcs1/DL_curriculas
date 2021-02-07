@@ -1,0 +1,467 @@
+ACADEMIC WRITING
+ACADEMIC WRITING
+/
+DATABASE ADMINISTRATION
+Currently with the growth of information storage needs,
+It is extremely important to be trained in techniques and methods that allow the administration of
+databases correctly focusing on the strategies that can be applied in
+any database engine having an overview of how to perform the management and
+have the basis for a database audit line. This course gives us that
+knowledge necessary to manage information in companies
+/
+NETWORK ADMINISTRATION
+The course develops the basic concepts of infrastructure and management of much needed Data Centers
+for project development courses as well as to have information management
+in large projects in his professional life
+/
+ADVERTISING MANAGEMENT
+The Advertising Management course of the Strategic Marketing mention focuses on management
+strategic of offline and online advertising to strengthen the positioning of brands,
+products and services in order to attract and retain the consumer in the search to generate
+Branding and commercial results that maximize revenue to companies.
+Today with the development of the internet, 360 ° marketing campaigns involve a
+understanding of the multichannel integration of the media and the contact points of the
+consumer to develop advertising strategies that generate engagement and with high reach
+at the hearings to ensure the business results of the companies.
+/
+ERP SECURITY ADMINISTRATION
+In the course, students learn the concepts, terminology and architecture of SAP security,
+they will be able to solve security incidents and secure the application using
+diagnostic and audit tools; may define, implement and manage models of
+security of roles and profiles. This in turn is very useful in a professional because many companies
+today they need staff who know how to manage security in their ERP
+/
+ALGORITHMS AND DATA STRUCTURES
+The main tools used today to solve problems of
+information processing and analysis in the industry, are nothing more than the combination of many
+Algorithms and data structures; know the design and operation of these structures of
+data help us develop and refine essential skills such as the ability to take
+decisions based on quantitative data of the constructed components.
+/
+ANALYSIS AND DESIGN OF BUSINESS ARCHITECTURE
+The course is based on the analysis of the current business architecture, information systems,
+data and the technological infrastructure that support a company, so that they can propose
+a portfolio of projects and piorize them. Teach how to identify problems, propose alternatives
+of solution with the analysis and design of solutions in applications, data and technologies, aligned to
+Business architecture The objective is to meet the needs of a company by solving
+The problem (s) identified. Methodologies for the definition of these are reviewed
+architectures, deepening the application of analysis, design and / or redesign of applications,
+data and technological infrastructure, within the framework of Information Systems Design.
+/
+COMPUTER ARCHITECTURE AND OPERATING SYSTEMS
+The course performs an exploration from digital mathematics and digital circuits to
+main components of a computers architecture such as processor (CPU), memory,
+buses, GPU, inputs and outputs (I / O). At the same time the system operation is established
+operational and its integration with real memory, virtual memory, processes, file systems,
+among others. As well as the various mathematical algorithms with which
+these components work both hardware and software
+/
+LEGAL ASPECTS IN INFORMATION TECHNOLOGIES
+The course is based on the analysis of international and national legislation related to Technologies
+of Information, the correct use and the duties and rights that the career carries. Also I know
+will study practical and real cases in which the implication of laws and regulations will be evaluated
+taking this to the best use of these.
+/
+BIOENGINEERING
+Its purpose is to provide the future professional interdisciplinary links between the
+Life sciences and engineering. In turn, it allows to know the fundamentals of algorithms
+computational based on physiological systems and are currently highly
+used in information systems, such as genetic Algorithms and Networks
+artificial neural and also techniques of computational extraction of signals and images
+medical In addition, principles of biomedical instrumentation that includes analysis will be studied
+of analog circuits.
+/
+BUSINESS MARKETING STRATEGY
+The purpose of this course is to develop the skill and experience in the formulation and
+Marketing strategy planning in the current era. This course deepens the taking of
+strategic decisions in companies at senior management level. In particular, the course brings together and
+develops the competition Strategic Reasoning at Level 3 and Strategic Planning at Level
+3, in addition to new market concepts in the digital era.
+/
+CALCULUS I
+Calculation I is a general course for all engineering careers; theoretical and is dictated in
+blended mode, is aimed at second cycle students, provides support
+Mathematical to the student for the following subjects specific to each specialty, for such
+reason the concepts of each topic are defined in a simple way, relating them to problems
+Engineering related.
+In this course the student will develop the general competence of quantitative reasoning, in
+level 1, through the dimensions of: interpretation, representation, calculation, analysis and
+communication or argumentation in simple problems of engineering contexts.
+/
+CALCULUS II
+Through the dimensions, the student acquires the ability to interpret
+alphanumeric data and sometimes represents them graphically, performs operations
+mathematics showing precision in developments, use them as arguments for
+support an idea or project, modeling real context problems that can be solved
+by two or three methods of analysis, so that the student develops the ability to use the
+Mathematics as engineering language and serve as a tool to solve problems
+through the most direct and effective method, to draw conclusions and build arguments based
+in valid results when emphasizing verbalization and descriptive problems in
+real context Visualization, numerical and graphic experimentation and other approaches have
+modified the way in which conceptual reasoning is learned.
+/
+QUALITY OF INFORMATION SYSTEMS
+The course is based on applying quality concepts, standards and models to each stage of
+information systems life cycle, particularly to planning, developing and using them. In each of
+these stages there will be studied knowledge, tools and techniques which form the best practices
+related to quality management.
+/
+UNDERSTANDING AND PRODUCTION OF LANGUAGE I
+The course develops written communication competence, at level 1; that is, the student is
+able to build consistent and solid messages that fit the situation and purpose
+communicative. This development allows the generation and construction of new ideas, which is
+relevant to your academic and professional life. The current information society and the
+knowledge, characterized by disruption, innovation and complexity in the ways of
+Technology-mediated communication, faces the student and the professional to new challenges
+in the ways of communicating what he knows and builds.
+/
+ACCOUNTING AND BUDGETS
+The accounting and budgeting course will provide the student with the concepts of information
+Accounting and how it is used is in the decision making by managers.
+At the beginning of the course the accounting information to study will refer to the financial statements and the
+analysis of these for management decision making, the development of the
+concepts of costs and will end with the analysis of the master budget.
+/
+CONTROL AND AUDIT IN INFORMATION SYSTEMS
+This course will provide students of the Information Systems Engineering degree
+concepts about systems auditing, what is the role of an auditor specialized in
+Information technologies, what controls are relevant to review and what are the risks
+Associates Additionally, it will allow to know the most used reference frames in the
+organizations to perform an IT audit, as well as understand the importance of the audit
+IT, as added value to the business.
+/
+SPORTS AND POLICY
+Politics and sport is a general training course, of a theoretical nature, aimed at students of
+Communications, International Business and Sports Business careers, as well as all
+those that require a broad knowledge of culture, society and politics since the beginning of the century
+XX to the present.
+/
+DESIGN THINKING
+The Design Thinking course has been designed with the purpose of allowing the future graduate
+develop empathy with the user and real knowledge of its needs for the
+Obtaining a problem solution in a disruptive way, through exploration and identification
+of the real needs of the user, the conception of the problem from their point of view and the
+Development of constant prototypes to validate the solution. This course, line integrator
+of Business Initiative
+/
+DIGITAL ANALYTICS
+First we must be clear that business leaders compete to convert information
+extracted from the data in significant results. Those most successful apply analysis throughout
+your organization to make smarter decisions, act quickly and optimize
+results.
+Therefore in this course you will learn to analyze the data available from the online activity of
+an organization, turn them into conclusions of value to the business, learn how to
+Analysts describe, predict and report business decisions. You will know how to measure
+effectively a website and take advantage of the different tools, understand the
+metric differences
+/
+STRATEGIC ADDRESS
+This course provides the student with the necessary training for the development of the first
+stages of the strategic management process that consists of making advance decisions through
+of the strategic planning methodology and the formulation of strategies for its
+implantation. It will seek that students can make strategic diagnoses of both
+organizational environment as of the organization itself with an optimal search, selection and
+integration of information to design a business model that generates value, formulates
+viable strategies and prioritize the implementation of strategies over time by
+matrix and quantitative tools, closely relating the planning link and
+control of the strategic management process.
+/
+DISABILITY AND INCLUSION
+Disability and inclusion seeks to make the problems and challenges it demands visible to students
+disability in our society, as future professionals who will have the responsibility
+to innovate and manage inclusion policies. It is an elective course of general formation, of character
+Theoretical-practical, aimed at students from fifth to seventh cycle of all careers. Search
+develop the general skills of Citizenship and Critical Thinking.
+/
+DATABASE DESIGN
+The specialization course in Database Design, in Computer Science careers
+(CC), Software Engineering (ISW) and Information Systems Engineering (ISI), is of a character
+theoretical-practical and is aimed at students in the fourth cycle for the three races
+The knowledge acquired throughout the course is very important in the professional development of the
+student since the management of information in database is one of the pillars in training,
+Development and growth of any company in the market. This way they can be
+participants in the development and implementation of the most important asset of a company such as its
+Database.
+/
+DESIGN OF EXPERIMENTS IN INFORMATION SYSTEMS
+The course covers the activities, techniques, tools and strategies of verification and
+Software validation throughout the life cycle of developing an information system,
+taking into account the specifications of the user requirements, the specifications
+Functional, technical specifications and application of the most popular CASE tools
+in the market. This knowledge is important for the student because it allows him to validate and
+verify the SI projects both at the academic level today and in your professional life to
+future.
+/
+ENTREPRENEURSHIP OF SUSTAINABLE BUSINESSES FORMULATION
+The purpose of the Sustainable Business Entrepreneurship course Formulation is to give the
+student the necessary knowledge and tools to use when presented
+a situation of undertaking a project or business. The reality in the labor market is that no
+everyone ends up working for an established company, so they must be able to
+generate disruptive business ideas. This course should motivate those students
+Entrepreneurs the ability to start a business idea and succeed.
+/
+GAME DESIGN
+The course will discuss various strategies for designing video games and prototypes of
+fast way, in order for the student to be able to perform game mechanics that
+meet the objectives of the game and optimize the production time of a video game through
+of prototyping learning. This is useful for both career projects and their
+professional performance in the world of video games.
+/
+SUSTAINABLE BUSINESS ENTREPRENEURSHIP impleme
+It is a specialty course of the career and is theoretical and practical for the X cycle, has
+The objective is to provide the student with the theoretical and practical knowledge and skills
+allow the optimal development of an entrepreneurial project in the business scenario
+current.
+/
+ENGLISH COMPOSITION I
+ENGLISH COMPOSITION I
+/
+SPECIFICATION AND ANALYSIS OF REQUIREMENTS
+Nowadays it is important to propose creative and innovative solutions to various problems
+that meet specific needs, this is largely obtained by performing an analysis and
+systematization of the requirements. Within the software development process, it should be
+begin with the collection of user needs, as well as a diagnosis of the situation
+Current business. This leads us to be able to describe prototypes or software models, project
+a specific product and analyze risks before developing it, optimizing resources and time.
+/
+APPLIED STATISTICS I
+The course is oriented to decision making about
+the basis of descriptive statistics, probabilities and interval estimation. For this the student
+must take into account relevant information that helps to draw conclusions and take
+decisions. The course considers the use of scientific calculators, the Excel spreadsheet or others
+Statistical packages as a support tool for data processing.
+The course of applied statistics 1 is intended to provide the future engineering professional
+a set of qualitative and quantitative information analysis tools for making
+decisions in real career situations. The course contributes directly to developing
+general powers of quantitative reasoning at a level 1.
+/
+NEGOTIATING STRATEGIES
+Negotiation is a tool that is important to know and develop because the conflict is
+is present in the different instances of relations with customers, suppliers,
+partners, interest groups among others. The course has been designed to favor the learning of
+negotiation techniques and strategies both through theoretical and practical classes that
+develop cases of different conflict situations in which knowledge will be applied
+provided in the theoretical classes. This dynamic will allow the student to develop their skills
+analytical and communicational in situations of conflict.
+/
+ETHICS AND CITIZENSHIP
+The course aims to contribute to the ethical and citizen learning of students by inviting them
+to know and explain ethical problems and your daily life. Given that this course
+It is done under the blended modality, various educational activities of type are proposed
+individual and group, both in face-to-face sessions and in virtual sessions, which means
+an active, organized and permanent participation by the students. The strategies to
+used include: reading and discussion of texts, analysis and evaluation of films and documentaries,
+resolution of cases, debates and exhibitions, virtual forums.
+/
+FINANCE AND ECONOMIC ENGINEERING
+The course provides knowledge about the world of analysis, mathematical calculation and development of
+Financial algorithms, therefore an integral vision of finance is developed. It will be introduced to
+student in the field of modeling financial instruments, developing algorithms
+that serve to create computer programs aimed at calculating mathematically, the
+profitability indicators that allow you to function successfully in the very demanding System
+International Financial
+/
+PHYSICS I
+PHYSICS I
+/
+PHYSICS II
+The course provides the support of physical concepts required by the engineering student, necessary
+for subsequent subjects specific to each specialty. The purpose of the course is that the
+student analyze, quantify physical magnitudes, develop strategies and basic skills
+associated to the behavior of the fluid, the operation of thermodynamic systems and
+electrical using the laws of Physics.
+/
+PHYSICS III
+The course provides the support of physical concepts required by the engineering student, necessary
+for subsequent subjects specific to each specialty. The purpose of the course is that the
+student quantify physical quantities associated with the operation of systems
+electromagnetic and optical using the laws of physics.
+/
+FUNDAMENTALS OF CYBER SECURITY
+The course provides a global vision of security so that you become aware of the importance and
+reality of the great opportunities and threats of digital transformation, as well as that
+You can start research in specialties as essential as Ethical Hacking, the
+Reverse engineering, cyberintelligence, digital forensic analysis and information auditing. This
+course will be presented clearly, accessible by example and success stories.
+/
+FUNDAMENTALS OF BUSINESS MANAGEMENT IN ERP
+In the course, he seeks to develop the skills of design and preparation of reports for the taking
+of decisions in organizations at operational, tactical and strategic level using technology
+SAP
+/
+FUNDAMENTALS OF INFORMATION SYSTEMS
+The subject has been designed so that students can learn to develop
+Windows applications where data structures, search algorithms and
+optimization, control of runtime and an information repository. This
+knowledge is necessary for higher cycle projects and in turn for their performance
+professional
+/
+FUNDAMENTALS IN BUSINESS INTELLIGENCE
+Nowadays companies, and organizations in general, produce high volumes of
+information as a result of its processes, which is not always used properly
+to support the decision making process. This course will focus on the identification of
+information exploitation opportunities based on datawarehouse solutions, and
+data visualization tools, promoting with them, knowledge development and
+the achievement of competitive advantages in organizations.
+/
+FUNDAMENTALS ON SECURITY AND AUDIT
+The course also allows to know the fundamentals on risk management, oriented to the
+information security and understand the principles of systems auditing in the sector
+business to manage the protection of information and initiate processes in audit of
+systems.
+/
+INFORMATION SYSTEMS / INFORMATION TECHNOLOGY PROJECT MANAGEMENT
+The knowledge acquired throughout the course is very important in the professional development of the
+student since throughout his professional career he will develop his activities under the framework of
+Project management may also be participants in the development and implementation of these.
+/
+INFORMATION SECURITY MANAGEMENT
+The course is useful for the student who seeks to know and possess an integral vision of the role of the
+CISO, includes the following key issues: Governance, Management, Audit, Projects, Technologies,
+Operations, Strategy and Financing.
+/
+SERVICE MANAGEMENT I
+The advancement of information technologies and the high dependence on them have the
+organizations originate that the quality, opportunity and costs of technology services have
+a vital importance for the business objectives of modern companies. Therefore, the course
+Explains to students the fundamentals of IT Service Management, how this management influences
+in achieving business objectives and, based on the ITIL process approach,
+develops a model of the processes that an IT organization must carry out for management
+efficient in the delivery and support of its services
+/
+IHC AND MOBILE TECHNOLOGIES
+The course will help students understand how to transition from what should be done?
+(functionality) towards how should it be done to meet user requirements (usability)
+in the specific context of work. To achieve this, the student will select the interfaces
+adequate (physical and virtual) seeking the best interaction schemes (forms, language
+natural, GUI¿s, etc.).
+/
+IMPLEMENTATION OF BUSINESS SYSTEMS
+The course is based on the analysis and definition of business processes that are supported by
+transactional information systems with SAP technology. In addition, it proposes a review
+full of the methodological incorporation of a transactional system to an organization both
+from a commercial as well as operational point of view, that is, from implementation; using
+international case studies that reinforce the implementation of the knowledge acquired.
+/
+LIDERAZGO Y PENSAMIENTO SISTÉMICO
+The purpose of the course is aimed at the student developing competencies inherent in the
+leadership, recognizing their own style, considering that leadership is closely
+related to systemic thinking. 
+/
+MARKETING STRATEGY
+The student will analyze in depth the main trends in marketing theory and explore
+how to develop value proposals that adapt to new technological trends
+digital Design of new management and sales models based on digital proposals
+disruptive Efficient and effective use of information for marketing management. Applications
+insights from Consumer insight and Customer Journey. Also, explore the changes in the channels
+of distribution, such as, the mobile revolution within the marketing strategy and how
+Maintain brand positioning in an omnichannel environment.
+/
+BASIC MATHEMATICS
+In this course the student will develop the general competence of quantitative reasoning, in
+level 1, through the dimensions of: interpretation, representation, calculation, analysis and
+communication or argumentation in simple problems of real context. At the end of the course the
+student will be able to work with alphanumeric data, represented in different ways
+(tables, graphs, etc.) and use them as arguments to support an idea or make decisions
+Based on this information.
+/
+COMPUTATIONAL MATHEMATICS
+Quantitative reasoning: Provides the ability to work with alphanumeric data and
+sometimes represented in graphic form. Apply them as arguments to support
+An idea or project. They have the ability to
+apply concepts and techniques of mathematics, science and engineering obtaining results that
+solve problems of greater complexity, related to development, process improvement, and
+other aspects of the engineering field.
+/
+DISCRETE MATHEMATICS
+It is convenient to appreciate the technological value of Mathematics in this century, since it is lived in
+full era of knowledge, digital era; available to everyone is digital technology
+(computers, digital cameras, smartphones, smart TVs, MP3, MP4,
+etc.). Algebraic coding theory is involved in communications so that the
+message arrives clearly, debit cards, credit cards are used, purchases are made by
+Internet; There is coding, data understanding and cryptography. Well, in
+All this is present in Discrete Mathematics, the foundation of all modern Theories of
+Information and Communication.
+/
+PROCESS MEASUREMENT AND EVALUATION
+The course is based on the analysis and definition of management indicators that allow to know the
+process behavior for decision making and improvement actions. The
+methodologies for the improvement in the most widespread Process Management, deepening the
+Reengineering application within the process evaluation framework.
+/
+MET. AND TOOLS FOR THE BEST. OF PROCESSES
+The course is based on the application of management tools and techniques by processes based on
+BPM; modeling, analysis, design and process automation to provide criteria for
+judgments for the selection and comparison of technologies for business process management.
+This allows the student to have the ability to improve business processes.
+involved in the company where you work.
+/
+ORGANIZATION AND MANAGEMENT OF COMPANIES
+The course aims to familiarize students with the business environment, their
+management and planning thereof, their market positioning through marketing,
+the operation of the organization through its operations, the importance of resources
+humans in any organization, the use of technologies and the control and monitoring of
+operations within an organization. Likewise, students participate in a workshop
+Entrepreneurship with the purpose of learning to generate business ideas. In addition the product that
+generate in this workshop will serve as a starting point for the final work which will consist of
+present an implementation plan in the market of the chosen product.
+/
+STRATEGIC PLANNING IN INFORMATION SYSTEMS
+The course analyzes the current architecture of the information system of a company, proposes the
+portfolio and project prioritization. Proposes the improvement of processes designing and
+supporting a new business architecture according to the needs of the company.
+Through this knowledge the professional can master an efficient architecture scheme
+business that would help a lot in the management of projects in companies
+/
+INFORMATION SECURITY PRINCIPLES
+Given the relevance and importance of the application of information technologies (IT) in the
+organizations, it is required to use and exploit them safely in order to preserve the
+expected value generation. In this context, professionals with skills in the
+governance and security management of IT infrastructures for the benefit of
+Organizations and society.
+/
+PROGRAMMING I
+The student learns good programming habits emphasizing the use of a
+Five-step methodology: problem analysis, algorithm design, set design
+test data, coding and debugging. All these concepts are basic for good
+performance in computer projects and provide as a final result a video game where
+It shows everything learned.
+/
+NETWORKS AND DATA COMMUNICATIONS
+This course develops the basic concepts of telecommunications, how they are carried out and the
+devices used to make it happen, which are necessary for the courses of
+project development, as well as to have a good management of networks and communication
+in large projects in his professional life
+/
+SECURITY AND TUNNING OF DATABASE
+The course is essentially practical. First, it begins with a review of the main
+Oracle features as well as the different architectures and installation forms. Then I know
+presents and develops advanced concepts in security and auditing. Continue with the setting
+to the point of the database and ends with the tuning of SQL queries.
+/
+ACADEMIC RESEARCH SEMINAR I
+Its character is theoretical-practical and contributes to the development in level 1 of two general competences
+from our university: Information Management and Written Communication. Therefore, it plays a role
+formative and instrumental for both university and professional life, because feel the
+bases and provides experience in activities of academic research.
+/
+MOBILE SOLUTIONS AND CLOUD
+The Mobile and Cloud Solutions course is designed to provide participants with both
+theoretical foundations as the practical part that allow them to propose to students the use
+Cloud Computing as a competitive advantage at the corporate level. The first part of the course is
+It focuses on understanding definitions, methodologies, use of the platform. The second part of
+course focuses on generating two technological projects, one with social impact research
+and another to create a project in the cloud that generates value at the corporate level.
+/
+SOCIAL MEDIA
+The course seeks to identify the different strategies to promote and spread a brand,
+product and service through social networks.
+It also has a participatory approach because it will allow the use of web tools and techniques.
+2.0, digital marketing and metrics to increase business visibility and take
+right decisions, understanding the constant changes and implications of social communication
+/
+SQL SERVER
+In this course the student will be able to design, implement and manage database solutions
+oriented to companies, using Microsoft SQL Server 2012. as engine.
+Most computer projects need a solid database knowledge.
+/

@@ -1,0 +1,130 @@
+Critical Reading and Expository Writing
+Writing paragraphs and essays based on close readings of various texts, with an emphasis on clear, grammatically correct expository prose. Students must take this course during the first eligible semester at the university.
+/
+Critical Thinking and Argumentation
+Writing essays based on critical analyses of various literary texts. Emphasis on sound argumentative techniques. Requires documented research paper. Students must earn a grade of “C” or above to pass this course.
+/
+Fundamentals of Communication
+An introduction to the primary areas of study in the communication discipline. Emphasis is on developing communication competence and understanding communication processes. Topics covered include public speaking, interpersonal communication, and group communication.
+/
+Public Speaking
+The study and practice of preparing, delivering, and analyzing public speeches. Writing in ways that appeal to different audiences and presenting in ways that are confident and credible are emphasized.
+/
+Argumentation and Debate
+An introduction to oral argumentation and debate, including case construction techniques, and case analysis and criticism.
+/
+World Literature
+Various genres from such non-European cultures as early Middle East, Asian, African, and Latin American.
+/
+Arts and Ideas I
+An examination of the arts and ideas of ancient and medieval cultures.
+/
+Introduction to Philosophy
+An introduction to some central philosophical problems concerning free will, the self, science, and reality.
+/
+Principles of Microeconomics
+A study of economics which concentrates on micro-theoretical concepts such as pricing, consumer choice, business production, and profit decisions.
+/
+Social Problems
+Sociological study of major current problems confronted in American society and the beliefs that compound them.
+/
+General Physics I-Noncalculus
+A survey of the topics in classical physics intended primarily for students in preprofessional curricula and majors in various engineering technology concentrations
+/
+Technical Physics I-Calculus Based
+A survey of physics for students majoring in technical fields, such as physics, chemistry, engineering, etc.
+/
+Probability and Statistics - Noncalculus
+Descriptive statistics and its relevance, including probability, experimentation, measurement, sampling and surveys, informal statistical inference, and hypothesis testing are included.
+/
+Calculus I
+Functions, limits of functions, derivatives and applications, and introduction to the integral.
+/
+Analytic Geometry and Differential Calculus
+A course in differential calculus with technical applications. Analytic geometry, quadratic equations, and additional topics in trigonometry as foundation to the calculus, limits, the derivative, and applications.
+/
+Introduction to Computer Science I
+Introduction to all aspects of the programming and problem-solving process and the elements of good programming style. A high-level language will be used as a vehicle for introducing these concepts. Laboratory use of the computer in designing, coding, debugging, and executing programs is an integral part of the course.
+/
+Introduction to Computer Science II
+Programming in a high-level language, including programming concepts, good style, algorithms, documentation, and elementary data structures.
+/
+PC Set-up and Maintenance
+Introduces students to the concepts and skills necessary to install, upgrade, maintain, and troubleshoot computers. Includes the installation and replacement of devices interfacing with the motherboard, installation and upgrade of at least two operating systems, and the analysis of computer performance.
+/
+Student in University
+This course is meant to provide guidance to first-year university students as they begin their search for directions to take in self-definition, intellectual growth, career choices, and life skills. Only first semester students may enroll.
+/
+Math for Computer Science
+Students will gain a working knowledge of set theory, mathematical induction and recursion, relations and digraphs, functions, trees and languages, finite-state machines, and languages and see how these topics are applied to the practice of computer science.
+/
+Fundamentals of Database
+This course will introduce students to the essential skills of creating, maintaining, and querying a database system. Basic methodologies for transferring data between a database and a program or web page will be covered. Also considered will be methodologies for database design to ensure consistency and accuracy of the data.
+/
+Computer Organization
+A study of the physical implementation of the computer including mathematical and logical foundations, component-level design, and an introduction to machine architecture. Topics include Boolean algebra, data representation, logic gates, combinational and sequential circuit design, memory cells, memory subsystems, memory hierarchy, I/O subsystems, I/O handling, interrupts, instruction representation, error detection, and serial protocols.
+/
+Networking Fundamentals
+A study of concerns related to the operation of computer networks. Topics include incentives for computer networking, the OSI model of network operation, network media, theory and practice of local area networking, bridging, switching, and routing. Principles of TCP/IP network operation.
+/
+Information Security and Assurance
+Presents critical concepts and skills that are related to protecting information assets from harm. Topics include the history of information security, basic security-related terminology and concepts, major classes of threats to information security, model strategies for protecting against those threats, computer forensics, and best practices in information assurance.
+/
+Software Engineering I
+An introduction to software systems development as an engineering discipline. All phases of the software development life cycle are examined, with particular emphasis on requirements analysis, requirements specification, and preliminary design. Participation on realistic team projects, use of automated tools, written and oral communication skills, exposure to legal, professional, and ethical issues is stressed.
+/
+Software Engineering II
+Software development as an engineering discipline with emphasis on detailed design, implementation, testing, maintenance, project management, verification and validation, configuration management, and software quality assurance. Communications (written and oral), legal, professional, ethical issues, participation on team projects, and use of automated tools are integral.
+/
+Essentials of Web DevelopmentAn introduction to the design and development of visually effective and functional web sites. Concepts include design principles regarding information architecture and page layout, the use of graphics in web pages, HTML, CSS, the use of web page and graphics editors, basic accessibility issues, the development process and maintenance issues. Laboratory use of software is an integral part of this course.
+/
+Server-Side Web Programming
+This course covers strategies for developing maintainable and efficient server-side Web applications. Topics include object-oriented methodology, server-side scripting languages, sessions, database integration with web applications, and web site security.
+/
+Fundamentals of Business Information Systems
+Presents the role and responsibility of IS management in a contemporary business environment. Topics include risk management, IS governance policies, system acquisition policies and processes, and IS financial management.
+/
+Database Advanced Topics
+A study of the use and underlying principles of database management systems, and approaches for database design with an emphasis on the relational approach. Students will learn how to use good design techniques and implement methods for both small and large databases. Laboratory use of database software for designing, implementing, debugging, and maintaining database systems will be an integral part of this course.
+/
+Database Administration
+A continuation of the study of the use and underlying principles of database design. Students learn more of the internal working of database management systems, as well as exploring approaches other than relational. Laboratory use of database software for designing, implementing, debugging, and maintaining database systems is an integral part of this course.
+/
+Information Systems Implementation
+Presents implementation and configuration issues in contemporary Enterprise Resource Planning (ERP) and other enterprise-scale information systems. Topics include configuration, organization modeling, role management, decision support, and data integrity.
+/
+Enterprise Programming
+Presents enterprise programming to those students who are experienced programmers through the use of contemporary enterprise system development language syntax, frameworks, and development environments. Development project management concepts are discussed.
+/
+Information Systems Strategy and Management
+Presents the role and responsibility of IS management in a contemporary business environment. Topics include risk management, IS governance policies, system acquisition policies and processes, and IS financial management.
+/
+Principles of Accounting I
+An introductory course in the fundamental concepts and procedures of financial accounting for corporations. Emphasis is placed on the preparation and use of accrual-basis financial statements for decision-making. Additional topics include the regulatory environment, the role of ethics, and the application of technology in the accounting environment.
+/
+Principles of Accounting II
+This course is a study of management accounting including costing, cost-volume-profit analysis, budgeting, productivity analysis, capital investment decisions, planning and control, and managerial decision-making in advanced manufacturing environments. Additional topics include accounting information systems and quality control measurements.
+/
+Financial Accounting I
+An advanced study of financial accounting and reporting including historical development, theoretical structure, the accounting process, financial statements, revenue recognition, current asset and liability recognition, and inventory valuation.
+/
+Management Accounting
+A study of cost accounting emphasizing job order costing, process costing, capital budgeting, and budget control analysis.
+/
+Principles of Macroeconomics
+An introduction to macroeconomic analysis which concentrates on economy wide systematic issues such as inflation, unemployment, and the level of economic activity.
+/
+Principles of Accounting I
+An introductory course in the fundamental concepts and procedures of financial accounting for corporations. Emphasis is placed on the preparation and use of accrual-basis financial statements for decision-making. Additional topics include the regulatory environment, the role of ethics, and the application of technology in the accounting environment.
+/
+Organizational Behavior and Management
+Introduction to the factors influencing individual and group behavior in organizations. From the field of organizational behavior, topics covered include individual differences and diversity, work attitudes, stress, work motivation, power and influence, decision making, negotiation, teams, leadership, organizational culture, and organizational research.
+/
+Organizational Theory and Development
+The study of the structure and functioning of organizations and an examination of the interactive effects of people, technology, and environment on the organization.
+/
+Current Management Issues
+course designed to teach students in specific up-to-date issues tailored to their specific degree requirements. Areas such as total quality management, continuous improvement, team building, quick response, efficient customer response, enterprise resource planning, and business process re-engineering are developed through lectures and case studies to show the student realworld application.
+/
+	
+

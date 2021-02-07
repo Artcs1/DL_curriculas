@@ -1,0 +1,94 @@
+/
+DATA STRUCTURES AND ALGORITHMS
+Advanced data structures, including lists, trees, sets, and graphs. Analysis of algorithms. Emphasis on abstract data types, their representations, and role as models in the development of computer algorithms. 
+/
+ INTRODUCTION TO SOFTWARE ENGINEERING
+Systems development life cycle from project request through project implementation and evaluation. Systems analysis and design concepts, tools, and techniques are emphasized. Traditional and structured approaches.
+/
+SYSTEM-LEVEL PROGRAMMING AND UTILITIES
+Introduction software infrastructure underlying development of computer programs. Topics include Linux utilities, shell scripting, processes, facilities for programming, the C programming language, libraries, structures, pointers, dynamic memory management, and system calls.
+/
+OPERATING SYSTEMS CONCEPTS
+Fundamental operating systems concepts: processes and threads, CPU scheduling, coordination and synchronization, deadlock, memory management, input/output devices, file systems, distributed systems, protection and security. Case studies and lab exercises using modern operating systems.
+/
+CIRCUIT ANALYSIS II
+Topics include first and second order system transient analysis, Laplace transform analysis, sinusoidal steady state analysis, Bode plots, resonance, first and second order filters, Fourier series, and use of computer aided design software. 
+/
+ELECTRONIC CIRCUITS I
+The design of discrete and integrated electronic circuits. Topics include large and small signal modeling of diodes, bipolar junction transistors, and MOS transistors. Biasing, small and large signal amplifier design, feedback, oscillators, and the use of computer-aided design software.
+/
+EMBEDDED SYSTEM DESIGN
+A course in the design and implementation of embedded electronic systems. Topics include digital logic building blocks, programmable logic, microcontrollers, analog interface and support components, timing margin analysis, serial interfacing, signal integrity, heat sinks, and thermal resistance. A significant term project is required. 
+/
+COMPUTER ARCHITECTURE
+This course will survey advanced computer architecture techniques such as branch prediction, super-scalar, multiprocessors and multicomputers. It will also compare CPU design options (such as CISC vs. RISC) and discuss the effects of these options on performance.
+/
+DATA COMMUNICATIONS
+An introduction to data communications techniques, particularly as applied to computer networks. Physical media and devices, data link and network protocols, and other data communications topics will be studied.
+/
+SIGNALS AND SYSTEMS ANALYSIS
+A course in the engineering applications of transform methods. The processing of analog and digital signals is discussed, as well as the analysis and design of linear time invariant systems. Topics include signal and system classification, vector space representations, convolution, impulse response, Fourier Transform, DTFT, DFT, FFT, windowing, and time frequency tradeoff. 
+/
+DIGITAL SIGNAL PROCESSING SYSTEMS
+The techniques and tools used for signal/system analysis and design in the digital domain. Filter design and frequency analysis are presented in the context of implementation on modern digital hardware. Hands-on experiments and design projects are a central component of the course.
+/
+DESIGN OF MICROCONTROLLER APPLICATIONS
+The architecture and capabilities of single chip microcontrollers and the design of microcontroller applications. A/D and D/A conversion, I/O, timing, programming, expansion methods, and development systems. Design projects will be an integral part of both lecture and laboratory. 
+/
+INTEGRATED CIRCUIT SYSTEMS DESIGN
+The design of digital circuits using behavioral modeling with VHDL. Topics include CPLD and FPGA architectures, the VHDL language, modeling of combinational logic, sequential logic, microcontrollers, state machines, and algorithms for numeric computation on integer and fixed-point numbers. Hands-on projects are a significant part of the course.
+/
+BIOMEDICAL IMAGING AND IMAGE PROCESSING
+Study of biomedical imaging modalities used in diagnostic imaging with an emphasis on physical principles and algorithms underlying X-ray imaging, computed X-ray tomography, magnetic resonance imaging, fluoroscopy, and ultrasound imaging. Topics also include multidimensional signal processing, image acquisition and filtering, reconstruction, qualification, segmentation, and pattern analysis.
+/
+EMBEDDED SYSTEMS INTERFACE
+Study of the interface between microcontrollers and sensors and actuators that enable programmed control of monitoring and interaction with the environment. Use of wired and wireless communications to link users to modern electronic systems either directly or through the Internet. 
+/
+ENGINEERING CO-OP 1
+The first full-time, four-month cooperative engineering work experience usually in a local industrial/manufacturing firm. Reading and writing assignments required. At least one evening meeting required.
+/
+ENGINEERING CO-OP 2
+The second full-time, four-month cooperative engineering work experience usually in a local industrial/manufacturing firm. Reading, writing assignments required. At least one evening meeting required. 
+/
+INTRODUCTORY MACROECONOMICS
+Introduction to the study of the national and global economies. Topics include the effects of government taxation and budget deficits on economic growth; ways to alleviate unemployment, inflation and international trade imbalances, and the importance of expectations and decision-making in an uncertain world. Fulfills Foundations - Social and Behavioral Sciences. 
+/
+INTRODUCTORY MICROECONOMICS
+Focuses on the interactions among households, producers, and governments in market economies. Applies fundamental methods of economic analysis to topics such as household spending and saving patterns; producer pricing, profits, and organization; wages and income distribution; investment decisions; health care and insurance; government taxes, spending, and regulation of markets. Fulfills Foundation - Social and Behavioral Sciences.
+/
+ENGINEERING CO-OP 3
+The third full-time, four-month cooperative engineering work experience usually in a local industrial/manufacturing firm. Reading and writing assignments required. At least one evening meeting required. 
+/
+SENIOR ENGINEERING PROJECT I (CAPSTONE)
+An independent investigation of theoretical or experimental design problems in engineering. The nature and scope of the project are determined by the student in consultation with the instructor and depend upon the facilities available. Normally this project is carried out during the entire senior year, with one-hour of credit during the first semester and two hours of credit during the second semester. A written technical report is required.
+/
+ETHICS
+What is good? What is evil? Are there objective standards for right and wrong? What are these objective standards? How can they be applied to important contemporary moral problems? This course considers the answers philosophers give to these and related questions.
+/
+SENIOR ENGINEERING PROJECT II (CAPSTONE)
+SENIOR ENGINEERING PROJECT II (CAPSTONE)
+/
+DYNAMICS
+Study of motion and the relationship between force, mass, and acceleration for particles and rigid bodies. Work-energy and impulse-momentum concepts. 
+/
+MACHINE DESIGN I
+Topics include shear and bending stresses in beams, beam deflections, statically indeterminate beams, planar combined loading, triaxial stress and strain transformations, static failure theories, fatigue failure theories, surface failures, belt and chain drives, clutches and brakes, finite element analysis for planar loading, and introduction to strain gauges and rosettes. 
+/
+ELECTRONIC MATERIALS AND DEVICES
+An introduction to solid state electronic materials and devices. Topics include basic quantum mechanics, atomic structure, electrical, magnetic and optical properties of electronic materials, and fundamentals of semiconductor devices including diodes and transistors.
+/
+TEACHING SOCIAL STUDIES: ELEMENTARY
+Introduces students to strategies, methods, and issues that are related to teaching social studies content at the elementary level. Students will study current state and national standards and design units and lessons to achieve appropriate objectives.
+/
+PERSPECTIVES ON GLOBALIZATION
+The anthropology of globalization examines the emergence of "globalized local cultures." Students employ the ethnographic approach to understand globalization as the intensification of interconnectedness, in which anthropologists learn that fundamental problems of deep and universal concern to humans everywhere will need to be addressed at local, national, and global levels.
+/
+INTRODUCTION TO ART
+Introduction to the visual arts. Examination of creative, social, historical, and aesthetic aspects of selected works of art. 
+/
+ORGANIC CHEMISTRY FOR LIFE SCIENCES I
+The first semester of a two-semester sequence of organic chemistry designed to meet the specific needs of life science students. Topics include classes of organic compounds, nomenclature, transformations and reaction mechanisms, stereochemistry, and spectroscopy. This course emphasizes the importance and application of functional group organic chemistry in living systems.
+/
+HISTORICAL PERSPECTIVES IN ANTHROPOLOGY
+Students will explore historical, theoretical, and methodological developments from an anthropological perspective, focusing on trends in interpretation of material culture, cultural resources management, experimental archaeology, and the contribution of anthropology to understanding major social issues. Students will critically examine the practice and application of anthropological research from a historic perspective. 
+/

@@ -1,0 +1,69 @@
+/
+Engineering Seminar I
+The goal of this course is to prepare the student for study in an engineering discipline.
+/
+Engineering Seminar II
+This course is focused on the tools that teams use to engineer solutions together.
+/
+Engineering Seminar III
+The goal of this course is to prepare the student for upper class courses and entering the workplace.  Career preparation will include strategies for finding internships and full-time positions and preparing for the hiring process (building a resume, writing a cover letter, and interviewing).  
+/
+Programming for Engineers
+An introduction to programming for electrical engineers. This course is a highly focused introduction to programming in C language. It covers the basics of programming including procedures, variables, types, loop, and control structures.
+/
+Statistical Process Control
+A variety of control charts will be used for assessing process stability and estimation of process capability. We will also study how engineers design experiments based on statistical quality control for the purpose of controlling, improving, and optimizing the engineering process.
+/
+Computer Science I - Lecture
+An introduction to computer programming from an object-oriented perspective. Students will complete several programs with an emphasis placed on good software engineering principles and development of good programming skills. Students will implement complete programs using an object-oriented programming language and development environment. Topics include: fundamental programming techniques including algorithm design, documentation, style, and debugging; fundamental program constructs including simple data types, and control structures; fundamental object oriented techniques including classes, abstraction, polymorphism, inheritance, and encapsulation; and fundamental software engineering principles.
+/
+Computer Science I - Lab for non-majors
+An introduction to computer programming from an object-oriented perspective. Students will complete several programs with an emphasis placed on good software engineering principles and development of good programming skills. Students will implement complete programs using an object-oriented programming language and development environment. Programming assignments will address the implementation and use of fundamental programming techniques including algorithm design, documentation, style, and debugging; fundamental program constructs including simple data types, and control structures; fundamental object oriented techniques including classes, abstraction, polymorphism, inheritance, and encapsulation; and fundamental software engineering principles.
+/
+Probability and Statistics for Engineers
+Course topics will include basic probability rules, conditional probability and independence, Bayes’ rule, discrete and continuous random variables, joint distributions, expectation and variance, probability distributions to include binomial, geometric, hypergeometric, Poisson, Gaussian, exponential, lognormal, t, F, and Chi-square, correlation and covariance, Central Limit Theorem and sampling distributions, simple linear regression, and inference procedures for means and proportions.
+/
+Design Patterns
+ Provides an advanced study of the concepts of object-oriented programming, with an emphasis on applying those concepts to software development. Many object design patters have emerged as proven ways to structure object-oriented solutions to a wide range of key problems. 
+/
+Crafting Quality Code
+This course will explore the differences between code that works and good code. This will include: designing during development, characteristics of interfaces, naming conventions, defensive programming, selecting data types, organizing code, controlling loops, unusual control structures, table driven methods.
+/
+Software Metrics & Process Mgt
+Software Metrics & Process Mgt
+/
+Large Scale Architectures
+This course will cover the issues associated with enterprise size systems including: layered and tiered architectures, view patterns, input controller patterns, concurrency, session states, distribution strategies, domain logic patterns, object-relational patterns, web presentation patterns, and distribution patterns.
+/
+Interdisciplinary Development
+The course is focused on building a product for a non-engineering customer. The class will be paired with another course or activity on campus which will act as the customer.
+/
+Extreme Programming
+The capstone experience of product development using agile development techniques. Topics include iteration planning, configuration management, communication tools, customer management, retrospectives and revising the development project.
+/
+Design and Analysis of Algorithms
+Examines various techniques for designing algorithms and analyzing their efficiencies, and examines and compares their efficiency of execution. Studies the theoretical foundations for analysis of algorithms and the ramifications of design strategies on efficiency.
+/
+Database Management Systems
+Detailed examination of theory and practical issues underlying the design, development, and use of a DBMS. Topics include characteristics of a well-designed database; high-level representation of an application using ER modeling; functional dependency theory, normalization, and their application toward a well-designed database; abstract query languages; query languages; concurrency; integrity; security. Advanced topics may be included (e.g., distributed databases; object-oriented databases). Theory to practice is applied in a number of projects involving the design, creation, and use of a database.
+/
+Computer Networks
+Studies protocol suites, emphasizing the TCP/IP 4-layer model. Topics included are network addresses, sub netting, client/server network programming via the sockets API, network utilities, architecture of packets, routing, fragmentation, connection and termination, connection-less applications, data flow, and an examination of necessary protocols at the link layer, particularly Ethernet. Other topics may include FDDI, wireless, ATM, congestion control, and network security. 
+/
+Computer Organization
+Introduces organization and architecture of computer systems from the standard von Neumann model to more recent architectural concepts. Internal structure and organization of a computer leads to significant differences in performance and functionality, giving rise to an extraordinary range of computing devices from hand-held computer to large-scale, high performance machines.
+/
+Operating Systems
+An operating system provides an abstract interface with which programmers can control hardware. The study of this area includes both the use of operating systems (externals) and their design and implementation (internals).
+/
+Calculus I
+Introduction to study of differential and integral calculus from algebraic, numerical, and graphical points of view. Concept of limit and applications of derivatives will be covered.
+/
+Discrete Mathematics
+Study of topics usually associated with analysis of discrete and/or finite mathematical models. Topics from logic, set theory, Boolean algebra, mathematical proof, recursion, induction, combinatorics, discrete probability, matrices and graph theory covered.
+/
+Elementary Linear Algebra
+Introduction to the study of matrices, linear systems, determinants, eigenvalues, and the geometry of linear operators. Topics from Euclidean n-space include linear transformations, linear independence, span, bases, inner product, and vector spaces. An introduction to structural proof techniques will be a part of the key concepts for the course.
+/
+
+

@@ -1,0 +1,94 @@
+/
+Calculus I
+The differential calculus and integral calculus, emphasizing conceptual understanding, computations and applications, for students who have the necessary background from 12th-year high school mathematics. Differentiation of elementary algebraic; trigonometric, exponential, and logarithmic functions; graphing; modelling and maximization; L'Hospital's rule; the Riemann integral; and the Fundamental Theorem of Calculus. 
+/
+Calculus II
+Covering symbolic and numeric methods of integration; area under a curve; volume; applications such as work and probability; sequences; series; Taylor series; differential equations; and modelling. 
+/
+Applied Calculus I
+A review of functions and their applications; analytic methods of differentiation; interpretations and applications of differentiation; introduction to integration.
+/
+Applied Calculus II
+Analytic and numerical methods of integration; interpretations and applications of integration; differential equations models and elementary solution techniques; phase planes; Taylor series and Fourier series. 
+/
+Introduction to Linear Algebra
+Introduction to the theory of linear algebra with some applications; vectors, vector spaces, bases and dimension, applications to geometry, linear transformations and rank, eigenvalues and eigenvectors, determinants and inner products. 
+/
+Calculus III with Applications
+Vector algebra in two and three dimensions, multivariate differential and integral calculus, optimization, vector calculus including the theorems of Green, Gauss, and Stokes. Applications to economics, engineering, and all sciences, with emphasis on numerical and graphical solutions; use of graphing calculators or computers. 
+/
+Calculus IV with Applications
+Homogeneous and inhomogeneous linear differential equations; systems of linear differential equations; series solutions; Laplace transforms; Fourier series. Applications to economics, engineering, and all sciences with emphasis on numerical and graphical solutions; use of computers. 
+/
+Fundamentals of Biology: Cellular and Organ Physiology
+The fundamentals of cell and organ physiology in mammalian and non-mammalian organisms. The structure and function of cell membranes and the physiology of cell to cell signaling, cellular respiration, and homeostasis of organs and organisms are examined with an emphasis on the comparative physiology of vertebrates and invertebrates. 
+/
+Introduction to Electrical and Computer Engineering
+Introduces basic electrical and computer engineering concepts in a dual approach that includes: laboratories for hands-on wired and computer simulation experiments in analog and logic circuits, and lectures providing concepts and theory relevant to the laboratories. Emphasizes physical insight and applications rather than theory. 
+/
+Digital Logic Design 
+Develops methods of analysis and design of both combinational and sequential systems regarding digital circuits as functional blocks. Utilizes demonstrations and laboratory projects consisting of building hardware on breadboards and simulation of design using CAD tools. Topics include: number systems and codes; switching algebra and switching functions; standard combinational modules and arithmetic circuits; realization of switching functions; latches and flip-flops; standard sequential modules; memory, combinational, and sequential PLDs and their applications; design of system controllers.
+/
+Electrical Circuit Analysis
+The course covers the following topics: passive circuit elements: resistors, capacitors, inductors. Elements of circuit topology. Kirchhoff's and Ohm's law. Nodal and mesh analysis. Equivalent circuits. Steady-state AC circuits. 
+/
+Electronics
+This is the first non-linear electronics class that introduces the students to the fundamentals of the circuit design through the architecture of a modern electronics system at the interface with sensors and actuators. Modeling of the non-linear devices, diode and MOS transistors, is presented, along with basic properties of MOS transistors for analog (amplification) and digital (switching) IC circuit design. Operational amplifier ideal and non-ideal models are explored along with the concepts of the feedback and stability. Signal conditioning circuits (fixed-gain, difference and instrumentation amplifiers, active filters), signal shaping circuits (rectifier, clipper, peak detector) and oscillators are presented.
+/
+Deterministic Signals and Systems
+Introduction to signals and systems. Manipulation of simple analog and digital signals. Relationship between frequencies of analog signals and their sampled sequences. Sampling theorem. Concepts of linearity, time-invariance, causality in systems. Convolution integral and summation; FIR and IIR digital filters. Differential and difference equations. Laplace transform, Z-transform, Fourier series and Fourier transform. Stability, frequency response and filtering. 
+/
+Embedded Microcontroller Systems Design I
+Fundamental design of microcontroller-based electronic systems. Topics include system level architecture, microcontrollers, memory, configurable ports, peripheral ICs, interrupts, sensors, and actuators, serial data protocols, assembly language programming, debugging, and table driven FSMs. Hardware/software trade-offs in implementing system functions. Hardware and software design are equally emphasized.
+/
+Computer Architecture
+This course focuses on the fundamental techniques of designing and evaluating modern computer architectures and tradeoffs present at the hardware/software boundary. The emphasis is on instruction set design, processor design, memory and parallel processing. Students will get an understanding of the design process in the context of a complex computer system. 
+/
+Digital Design Using VHDL and PLDs
+Digital system design using the hardware description language VHDL and system implementation using complex programmable logic devices (CPLDs) and field programmable gate arrays (FPGAs). Topics include design methodology, VHDL syntax, entities, architectures, testbenches, subprograms, packages, and libraries. Architecture and characteristics of PLDs and FPGAs are studied. Laboratory work involves writing the VHDL descriptions and testbenches for designs, compiling, and functionally stimulating the designs, fitting and timing simulation of the fitted designs, and programming the designs into a CPLD or FPGA and bench testing.
+/
+Senior Design I
+The primary objective of the senior design course sequence is to provide a vehicle for students to transition from an academic environment to that of a commercial/professional engineering environment. Students learn to work in teams to complete a project from concept, practical design based on multiple constraints, to creating a deliverable product meeting the design specifications. Students present written, oral and poster presentations of the project. While most of the project work is done outside the classroom, guest speakers provide insight into other related topics from resume preparation, to program management, to team dynamics and to design methodologies used in industry. 
+/
+Senior Design II
+The primary objective of the senior design course sequence is to provide a vehicle for students to transition from an academic environment to that of a commercial/professional engineering environment. Students learn to work in teams to complete a project from concept, practical design based on multiple constraints, to creating a deliverable product meeting the design specifications. Students present written, oral and poster presentations of the project. While most of the project work is done outside the classroom, guest speakers provide insight into other related topics from resume preparation, to program management, to team dynamics and to design methodologies used in industry.
+/
+Discrete Mathematics for Engineers
+Introduction to topics in computational mathematics, such as number systems, Boolean algebra, mathematical induction, combinatorics and probability, recursion and graph theory. Algorithm aspects of the topics discussed will be emphasized.
+/
+Random Signals and Systems
+Random experiments and events; random variables and random vectors, probability distribution functions, random processes; Binomial, Bernoulli, Poisson, and Gaussian processes; Markov chains; significance testing, detection of signals, estimation of signal parameters; properties and application of auto-correlation and cross-correlation functions; power spectral density; response of linear systems to random inputs.
+/
+Programming Fundamentals
+The course presents fundamental and more advanced C programming concepts. Lectures discuss the C language constructs and exemplify their using in relevant programming applications. The course also introduces fundamental concepts in electrical and computer engineering, such as bitwise operations, text file scanning, stack-based computation, table-based finite state machine implementation, hash tables, and linked lists. Scheduled lab activities focus on devising, implementing, debugging, and validating C programs for the concepts discussed in class. 
+/
+Advanced Programming and Data Structures
+The course presents fundamental data structures and algorithms frequently used in engineering applications. Object oriented programming in C++ is used to teach the concepts. Discussed topics include: programming and applications of data structures; stacks, queues, lists, heaps, priority queues, and introduction to binary trees. Recursive programming is heavily utilized. Fundamental sorting algorithms are examined along with informal efficiency analysis./
+/
+Real-time Operating Systems
+Introduces basic concepts and principles of real-time operating systems. Topics include structure, multiple processes, interprocess communication, real-time process scheduling, memory management, virtual memory, file system design, security, protection, and programming environments for real-time systems.
+/
+Software Techniques for Engineers
+This course covers software techniques for solving electrical and computer engineering problems in the C++ programming language. Design, implementation, and application to engineering problems of non-linear data structures and related advanced algorithms are covered. This includes binary trees, trees, graphs, and networks. OOP features such as Polymorphism, templates, Exception handling, File I/O operations, as well as Standard Template Library are used in the programming projects.
+/
+Digital System Specification and Modeling
+A comprehensive introduction to the field of system level design. This course introduces basic concepts of complex hybrid (software/hardware) system modeling and simulation methodologies. Topics include top-down and bottom-up design methodology, system complexity refinement, SystemC specification language syntax and semantics, behavioral and system-level modeling, channel and interface modeling and implementation, and IP core development. Included are three projects on modeling and simulation.
+/
+Computer Vision
+Introduces fundamental concepts, algorithms, computational techniques, and applications in visual information processing. Covers image formation models and image filtering, binary image analysis, feature detection, contours, image segmentation, 3D image capture and analysis through stereo, motion, structured-light, and LIDAR, medical images, pattern classification, machine learning, and 3D object recognition.
+/
+Design using Programmable Mixed-Signal Systems-on-Chip
+This course focuses on development of mixed-signal embedded applications that utilize systems on chip (SoC) technology. The course discusses design issues such as: implementation of functionality; realizing new interfacing capabilities; and improving performance through programming the embedded microcontroller and customizing the reconfigurable analog and digital hardware of SoC.
+/
+Architectures for Digital Signal Processing
+This course covers various aspects of architectures in digital signal processing and multimedia data processing. The topics include iteration bound analysis, retiming the circuits, unfolding and folding the architectures, algorithmic and numerical strength reduction for low power and low complexity design, introduction to array processor architectures and CORDIC implementation.
+/
+Embedded Microprocessor Systems Design II
+The entire system design cycle, including requirements definition and system specifications, is covered. Topics include real-time requirements, timing, interrupt driven systems, analog data conversion, multi-module and multi-language systems. The interface between high-level language and assembly language is covered. A complete system is designed and prototyped in the laboratory.
+/
+Engineering Ethics and Societal Impact
+The study of ethical issues facing engineers and engineering related organizations and the societal impact of technology. Decisions involving moral conduct, character, ideals and relationships of people and organizations involved in technology. The interaction of engineers, their technology, the society and the environment is examined using case studies. Introduction to patents, copyright, trademarks and infringement using case studies.
+/
+Technical Communication for Electrical and Computer Engineers
+Topics include how technical writing differs from other forms of writing, the components of technical writing, technical style, report writing, technical definitions, proposal writing, writing by group or team, instructions and manuals, transmittal letters, memoranda, abstracts and summaries, proper methods of documentation, presentations and briefings, and analysis of published engineering writing. Also covered are the writing of resumes and cover letters.
+/

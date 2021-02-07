@@ -1,0 +1,59 @@
+/
+Rhetoric
+This course presents an integrated approach to writing, reading, and critical thinking by developing the grammatical, logical, and rhetorical skills necessary for university writing.
+/
+Professional and Technical Communication
+Expands students' professional and team communication skills and strategies in technical contexts. Integrates writing, speaking and group communication by developing and presenting technical information to different audiences. Written assignments focus on creating professional technical documents, such as proposals, memos, abstracts, reports and letters. Presentation assignments emphasize planning, preparing and delivering dynamic, informative and persuasive presentations. Attendance at first class mandatory.
+/
+Differential Calculus
+Course covers topics in differential calculus of functions of one variable; topics include limits, continuity, derivative, chain rule, implicit differentiation, mean value theorem, maxima and minima, curve sketching, derivatives of inverse trigonometric functions, antiderivative, substitution method, and applications.
+/
+Mechanics
+Calculus based. Basic physics including a study of space and time, kinematics, forces, energy and momentum, conservation laws, rotational motion, torques, and harmonic oscillation
+/
+Electromagnetism and Waves
+Topics include electrostatics and electromagnetics, electric field and potential, electric currents, magnetic fields, laws of Coulomb, Ampere, and Faraday, Maxwell's theory of wave propagation. Two lectures per week
+/
+American National Government
+Survey of American national government, politics, and constitutional development
+/
+Social Issues and Ethics in Science and Technology
+This course exposes students to major theoretical approaches and professional codes of ethics and how they may be applied to explore a range of important social issues in the information age. Issues of professional ethics, computer crime and privacy, intellectual property, the balance between the acceptability of risk and constraints such as cost, scheduling, safety and quality, the role of globalization and various important constitutional issues are explored by drawing upon case studies.
+/
+Physics Laboratory I
+Laboratory course to accompany any Physics I or Mechanics course. Experiments investigate basic measurements and statistics including error, mean, standard deviation and error propagation; one dimensional and two dimensional motion; Newton's laws; conservation laws of energy and momentum; rotational motion; and oscillations.
+/
+Introduction to Computer Engineering
+Introduction to discipline and practice of Electrical and Computer Engineering; overview of the Electrical Engineering (EE) and Computer Engineering (CE) curricula. Basic study, problem solving and other skills needed to succeed as an EE or CE major. Introduction to professional ethics, EE and CE engineering design and quantitative methods; team projects designed to replicate decision process in real-world applications of the EE and CE engineering process
+/
+Linear Algebra
+Matrices, vectors, linear systems of equations, Gauss-Jordan elimination, LU factorization and rank. Vector spaces, linear dependence/independence, basis, and change of basis. Linear transformations and matrix representation; similarity, scalar products, orthogonality, Gram-Schmidt procedures, and QR factorization. Determinants: eigenvalues, eigenvectors, and diagonalization. Introduction to problem solving using MATLAB. This course includes a required laboratory.
+/
+Electromagnetism and Waves
+Topics include electrostatics and electromagnetics, electric field and potential, electric currents, magnetic fields, laws of Coulomb, Ampere, and Faraday, Maxwell's theory of wave propagation.
+/
+Introduction to Digital Systems
+Introduction to digital circuits, hardware structures, and assembly-language concepts that underlie the design of modern computer systems. Topics include: Internal data representation and arithmetic operations in a computer, basic logic circuits, MIPS assembly language and an overview of computer architecture.
+/
+Digital Circuits
+Design and analysis of combinational logic circuits using basic logic gates and other building blocks like multiplexers and ROMs. Design and analysis of latches and flip-flops. Design and analysis of synchronous state machines. State minimization and introduction to state assignment. Design of datapath components: adders, multipliers, registers, shifters, and counters. Electrical properties of logic gates
+/
+Senior Design Project I
+Senior Design Project I
+/
+Electrical and Computer Engineering Laboratory in Circuits
+Electrical and Computer Engineering Laboratory in Circuits
+/
+Advanced Engineering Mathematics
+Survey of advanced mathematics topics needed in the study of engineering. Topics include use of complex numbers, properties of complex-valued functions, scalar and vector fields, introduction to partial differential equations, and Fourier series
+/
+Digital Circuits
+Design and analysis of combinational logic circuits using basic logic gates and other building blocks like multiplexers and ROMs. Design and analysis of latches and flip-flops. Design and analysis of synchronous state machines. State minimization and introduction to state assignment. Design of datapath components: adders, multipliers, registers, shifters, and counters. Electrical properties of logic gates.
+/
+Computer Networks
+The design and analysis of computer networks. Topics include the ISO reference model, transmission media, medium-access protocols, LANs, data link protocols, routing, congestion control, internetworking, and connection management.
+/
+Operating Systems Concepts
+An introduction to fundamental concepts in operating systems and how they are realized in a practical operating system such as UNIX. Topics include process management, main memory management, virtual memory, I/O and device drivers, file systems, secondary storage management, and an introduction to critical sections and deadlocks. 
+/
+

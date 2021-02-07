@@ -1,0 +1,123 @@
+Introduction to Programming
+A first course in programming, software development, and computer science. Introduces computing fundamentals and an appreciation for computational thinking
+/
+Software Development Methods
+A second course in computing with an emphasis on modern software development and principles central to computer science. Topics include software requirements, testing, object-oriented design, abstraction, encapsulation, recursion, and time-complexity.
+/
+Discrete Mathematics
+Introduces discrete mathematics and proof techniques involving first order predicate logic and induction. Application areas include finite and infinite sets, elementary combinatorial problems, and graph theory. Development of tools and mechanisms for reasoning about discrete problems
+/
+Program and Data Representation
+Introduces programs and data representation at the machine level. Data structuring techniques and the representation of data structures during program execution. Operations and control structures and their representation during program execution. Representations of numbers, arithmetic operations, arrays, records, recursion, hashing, stacks, queues, trees, graphs, and related concepts
+/
+Digital Logic Design
+Includes number systems and conversion; Boolean algebra and logic gates; minimization of switching functions; combinational network design; flip-flops; sequential network design; arithmetic networks. Introduces computer organization and assembly language
+/
+Computer Science Seminar
+Provides cultural capstone to the undergraduate experience. Students make presentations based on topics not covered in the traditional curriculum. Emphasizes learning the mechanisms by which researchers and practicing computer scientists can access information relevant to their discipline, and on the professional computer scientist’s responsibility in society
+/
+Theory of Computation
+Introduces computation theory including grammars, finite state machines, pushdown automata, and Turing machines
+/
+Computer Architecture
+Includes the organization and architecture of computer systems hardware; instruction set architectures; addressing modes; register transfer notation; processor design and computer arithmetic; memory systems; hardware implementations of virtual memory, and input/output control and devices
+/
+Advanced Software Development Techniques
+Analyzes modern software engineering practice for multi-person projects; methods for requirements specification, design, implementation, verification, and maintenance of large software systems; advanced software development techniques and large project management approaches; project planning, scheduling, resource management, accounting, configuration control, and documentation
+/
+Algorithms
+Introduces the analysis of algorithms and the effects of data structures on them. Algorithms selected from areas such as sorting, searching, shortest paths, greedy algorithms, backtracking, divide-and-conquer, and dynamic programming. Data structures include heaps and search, splay, and spanning trees. Analysis techniques include asymtotic worst case, expected time, amortized analysis, and reductions between problems
+/
+Operating Systems
+Analyzes process communication and synchronization; resource management; virtual memory management algorithms; file systems; and networking and distributed systems.
+/
+Probability
+A calculus-based introduction to probability theory and its applications in engineering and applied science. Includes counting techniques, conditional probability, independence, discrete and continuous random variables, probability distribution functions, expected value and variance, joint distributions, covariance, correlation, the Central Limit theorem, the Poisson process, an introduction to statistical inference
+/
+Ordinary Differential Equations
+First order differential equations, second order and higher order linear differential equations, reduction of order, undetermined coefficients, variation of parameters, series solutions, Laplace transforms, linear systems of first order differential equations and the associated matrix theory, numerical methods.
+/
+Single Variable Calculus II
+Includes the concepts of differential and integral calculus and applications to problems in geometry and elementary physics, including inverse functions, indeterminate forms, techniques of integration, parametric equations, polar coordinates, infinite series, including Taylor and Maclaurin series. Applications.
+/
+Multivariable Calculus
+Topics include vectors in three-space and vector valued functions. The multivariate calculus, including partial differentiation, multiple integrals, line and surface integrals, and the vector calculus, including Green’s theorem, the divergence theorem, and Stokes’s theorem. 
+/
+Introductory Chemistry I for Engineers
+Introduces the principles and applications of chemistry. Topics include stoichiometry, chemical equations and reactions, chemical bonding, states of matter, thermochemistry, chemical kinetics, equilibrium, acids and bases, electrochemistry, nuclear chemistry, and descriptive chemistry of the elements
+/
+Introductory Chemistry I for Engineers Laboratory
+Introduction to experimental chemistry, developing laboratory skills & safety. Students plan & implement chemistry experiments in cooperative 4-person teams using a guided inquiry approach. Process skills include developing procedures, data analysis, oral & written communication. Mathematica as a computational tool. Topics: glassware characterization & accuracy, unknown identification of, & applications of solubility
+/
+Introduction to Engineering
+ENGR 1620 is a cornerstone course for first year engineering students. They are introduced to the philosophy and practice of engineering through hands-on experience in developing solutions for various open-ended, realistic challenges while considering the various contexts in which these challenges occur.
+/
+Introduction to Engineering Lab
+ENGR 1620 is a prerequisite for this course. If you have not taken ENGR 1620, take ENGR 1624 instead of this course. If you have already completed ENGR 1620, take this course. Introductory course in the use of quantitative engineering tools to model, characterize and predict system behavior.
+/
+General Physics I: Mechanics, Thermodynamics
+First semester of introductory physics for engineers and scientists. Classical mechanics, including vector algebra, particle kinematics and dynamics, energy and momentum, conservation laws, rotational dynamics, oscillatory motion, gravitation, thermodynamics, and kinetic theory of gases
+/
+General Physics I Workshop
+General Physics I Workshop
+/
+General Physics II: Electricity & Magnetism, Optics
+Second semester of introductory physics for engineers and scientists. Electrostatics, including conductors and insulators; DC circuits; magnetic forces and fields; magnetic effects of moving charges and currents; electromagnetic induction; Maxwell’s equations; electromagnetic oscillations and waves. Introduces geometrical and physical optics
+/
+General Physics II Workshop
+General Physics II Workshop
+/
+Science, Technology, and Contemporary Issues
+This course introduces students to contemporary issues involving science, technology, and engineering as well as the core ideas of STS. Emphasis is on three ideas: a) engineering is a social endeavor; b) technology shapes and is shaped by society; and c) technologies are sociotechnical systems.
+/
+STS and Engineering Practice
+This course engages students with the idea that success in posing and solving engineering problems requires attention to the social dimensions of professional endeavors and practice. STS theories and methods are applied to student thesis projects. Students produce a prospectus for the senior thesis projec
+/
+HCI in Software Development
+Human-computer interaction and user-centered design in the context of software engineering. Examines the fundamental principles of human-computer interaction. Includes evaluating a system’s usability based on well-defined criteria; user and task analysis, as well as conceptual models and metaphors; the use of prototyping for evaluating design alternatives; and physical design of software user-interfaces, including windows, menus, and commands
+/
+Principles of Software Design
+Focuses on techniques for software design in the development of large and complex software systems. Topics will include software architecture, modeling (including UML), object-oriented design patterns, and processes for carrying out analysis and design
+/
+Advanced Computer Architecture
+Provides an overview of modern microprocessor design. The topics covered in the course will include the design of super-scalar processors and their memory systems, and the fundamentals of multi-core processor design
+/
+Introduction to Parallel Computing
+Introduces the student to the basics of high-performance parallel computing and the national cyber-infrastructure. The course is targeted for both computer science students and students from other disciplines who want to learn how to significantly increase the performance of applications
+/
+Computer Networks
+A first course in communication networks for upper-level undergraduate students. Topics include the design of modern communication networks; point-to-point and broadcast network solutions; advanced issues such as Gigabit networks; ATM networks; and real-time communications
+/
+Internet Engineering
+An advanced course on computer networks on the technologies and protocols of the Internet. Topics include the design principles of the Internet protocols, including TCP/IP, the Domain Name System, routing protocols, and network management protocols.
+/
+Programming Languages
+Presents the fundamental concepts of programming language design and implementation. Emphasizes language paradigms and implementation issues. Develops working programs in languages representing different language paradigms. Many programs oriented toward language implementation issues
+/
+Compilers
+Provides an introduction to the field of compilers, which translate programs written in high-level languages to a form that can be executed. The course covers the theories and mechanisms of compilation tools. Students will learn the core ideas behind compilation and how to use software tools such as lex/flex, yacc/bison to build a compiler for a non-trivial programming language
+/
+Defense Against the Dark Arts
+Viruses, worms, and other malicious software are an ever-increasing threat to computer systems. There is an escalating battle between computer security specialists and the designers of malicious software. 
+/
+Artificial Intelligence
+Introduces artificial intelligence. Covers fundamental concepts and techniques and surveys selected application areas. Core material includes state space search, logic, and resolution theorem proving. Application areas may include expert systems, natural language understanding, planning, machine learning, or machine perception. Provides exposure to AI implementation methods, emphasizing programming in Common LISP.
+/
+Mobile Application Development
+Mobile computing devices have become ubiquitous in our communities. In this course, we focus on the creation of mobile solutions for various modern platforms, including major mobile operating systems. Topics include mobile device architecture, programming languages, software engineering, user interface design, and app distribution
+/
+Computer Game Design
+This course will introduce students to the concepts and tools used in the development of modern 2-D and 3-D real-time interactive computer video games. Topics covered in this include graphics, parallel processing, human-computer interaction, networking, artificial intelligence, and software engineering
+/
+Database Systems
+Introduces the fundamental concepts for design and development of database systems. Emphasizes relational data model and conceptual schema design using ER model, practical issues in commercial database systems, database design using functional dependencies, and other data models. Develops a working relational database for a realistic application.
+/
+Electronic Commerce Technologies
+History of Internet and electronic commerce on the web; case studies of success and failure; cryptographic techniques for privacy, security, and authentication; digital money; transaction processing; wired and wireless access technologies; Java; streaming multimedia; XML; Bluetooth. Defining, protecting, growing, and raising capital for an e-business
+/
+Introduction to Computer Graphics
+Introduces the fundamentals of three-dimensional computer graphics: rendering, modeling, and animation. Students learn how to represent three-dimensional objects (modeling) and the movement of those objects over time (animation). Students learn and implement the standard rendering pipeline, defined as the stages of turning a three-dimensional model into a shaded, lit, texture-mapped two-dimensional image
+/
+Network Security
+This course covers the principles of secure network communications and the application of network security. Topics include: attack types, attack surfaces, attack phases, network security devices.(a)symmetric key encryption, cryptographic hash function, authentication/identification techniques, key distribution, and data integrity assurance. Also, currently used security mechanisms and protocols will be discussed.
+/

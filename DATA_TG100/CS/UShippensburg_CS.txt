@@ -1,0 +1,79 @@
+/
+Computer Science I
+An introduction to computer programming from an object-oriented perspective. Students will complete several programs with an emphasis placed on good software engineering principles and development of good programming skills. Students will implement complete programs using an object-oriented programming language and development environment.
+/
+Computer Science II
+Students will apply new techniques such as pointers, structures and unions to create advanced programs and solutions. Students will also need to improve their solutions to enhance efficiency and soundness. 
+/
+Design and Analysis of Algorithms
+Examines various techniques for designing algorithms and analyzing their efficiencies, and examines and compares their efficiency of execution. Studies the theoretical foundations for analysis of algorithms and the ramifications of design strategies on efficiency.
+/
+Theoretical Foundations of Computer Science
+Topics include finite automata, regular languages, regular expressions, and regular grammars; pushdown automata and context-free languages; Turing machines; Church-Turing Thesis; the Halting Problem; undecidability; classes of languages, including the Chomsky hierarchy and the classes P, NP, and NP-Complete.
+/
+Computer Science Senior Research Methods
+Students will learn basic research strategies including conducting literature reviews, designing experiments, defining hypotheses, and writing proposals. The course will include topics including finding and evaluating sources of information, defining topics, developing and supporting a hypotheses, and acceptable research and experimental practices. 
+/
+Computer Science Senior Research and Development
+Students will conduct the experiments outlined in their testing / implementation plan. Students will then analyze the results and determine if their hypothesis was supported or not.
+/
+Design Patterns
+ Provides an advanced study of the concepts of object-oriented programming, with an emphasis on applying those concepts to software development. Many object design patters have emerged as proven ways to structure object-oriented solutions to a wide range of key problems. This course provides hands-on experience with using object design patterns to solve a number of problems that recur in computer science. 
+/
+Computer Organization
+Introduces organization and architecture of computer systems from the standard von Neumann model to more recent architectural concepts. Internal structure and organization of a computer leads to significant differences in performance and functionality, giving rise to an extraordinary range of computing devices from hand-held computer to large-scale, high performance machines. To gain a better understanding of exactly how a computer functions, students will write programs in a common assembly language.
+/
+Operating Systems
+An operating system provides an abstract interface with which programmers can control hardware. The study of this area includes both the use of operating systems (externals) and their design and implementation (internals).
+/
+Calculus I
+Introduction to study of differential and integral calculus from algebraic, numerical, and graphical points of view. Concept of limit and applications of derivatives will be covered.
+/
+Discrete Mathematics
+Study of topics usually associated with analysis of discrete and/or finite mathematical models. Topics from logic, set theory, Boolean algebra, mathematical proof, recursion, induction, combinatorics, discrete probability, matrices and graph theory covered.
+/
+Statistics I
+Topics include exploratory data analysis, basic probability, the Central Limit Theorem, confidence intervals, hypothesis testing, linear regression, experimental design, analysis of variance and goodness of fit tests. A statistical software package will be utilized throughout course.
+/
+Elementary Linear Algebra
+Introduction to the study of matrices, linear systems, determinants, eigenvalues, and the geometry of linear operators. Topics from Euclidean n-space include linear transformations, linear independence, span, bases, inner product, and vector spaces.
+/
+ Introduction to Computer Graphics
+Provides a non-mathematical introduction to the basic concepts and techniques of computer graphics. Topics include real-world vs. synthetic image creation; graphics primitives; interaction and animation; I/O hardware environment; 3-D modeling and viewing; color, light, and shading; segments; textures; realistic effects. A typical graphics API (e.g., OpenGL) is used to create computer-generated images.
+/
+Video Game Programming
+This course will look at the key concepts needed to build 2D and 3D video games using an existing game engine. The course will look at asset management, animation, collision detection physics, and user input. Additionally, It will look at some key design patterns related to game programming.
+/
+Big Data Analysis
+We are living in data-intensive world. Efficiently extracting, interpreting, and learning from very large datasets requires efficient and scalable algorithms as well as new data management technologies. Machine learning techniques and high performance computing make the efficient analysis of large volumes of data. In this course we explore big dataset analysis techniques and apply it to the distributed.
+/
+Machine Learning
+This introductory course gives an overview of machine learning. This is a wide ranging field including topics such as: classification, linear regression, Principal Component Analysis (PCA), neural networks, bagging and boosting, support vector machines, hidden Markov models, Bayesian networks, Q-learning, reinforcement learning. 
+/
+Theoretical Foundations of Computer Science
+Topics include finite automata, regular languages, regular expressions, and regular grammars; pushdown automata and context-free languages; Turing machines; Church-Turing Thesis; the Halting Problem; undecidability; classes of languages, including the Chomsky hierarchy and the classes P, NP, and NP-Complete. 
+/
+Computer Networks
+Studies protocol suites, emphasizing the TCP/IP 4-layer model. Topics included are network addresses, sub netting, client/server network programming via the sockets API, network utilities, architecture of packets, routing, fragmentation, connection and termination, connection-less applications, data flow, and an examination of necessary protocols at the link layer, particularly Ethernet.
+/
+Web Programming
+Teaches how to set up a website typical of one used in an online business. Includes preparing web pages in HTML, writing client-side scripts in VBScript or JavaScript for active web pages, writing server-side scripts in VBScript for active server pages, learning to set up and access a database for processing online ordering and searches, and some web server administration.
+/
+Computer Graphics Algorithms
+Explores the algorithmic foundations that underlie a typical computer graphics API. Topics include: normals; 2D and 3D transformation matrices; projection matrices; clipping; raster scan algorithms; fill algorithms; hidden line and surface algorithms; light, color, and shading algorithms; curve fitting; surface representation.
+/
+Artificial Intelligence
+Overview of artificial intelligence. Emphasis on basic tools of AI, search and knowledge representation, and their application to a variety of AI problems. Search methods include depth-first, breadth-first, and AI algorithms; knowledge representation schemes include propositional and predicate logics, semantic nets and frames, and scripts. Planning using a STRIPS-like planner will also be addressed. 
+/
+Principles of Biology: Cell Structure and Function
+Introductory course for majors that examines cell structure and function, genetics, population genetics, and evolution.
+/
+Chemical Bonding
+Study of the structure of matter ranging from atoms through molecules to crystalline structures. Three periods lecture/week.
+/
+Database Management Systems
+Detailed examination of theory and practical issues underlying the design, development, and use of a DBMS. 
+/
+Introduction to Robotics
+Introduces the science of robotics from the perspective of artificial intelligence. Emphasizes various robot control architectures and their implementations using mobile robots. Topics include history of robotics; hierarchical, reactive, and hybrid architectures; Braitenberg vehicles; integration and calibration of sensors; construction techniques and considerations; and implementation of various types of behaviors
+/

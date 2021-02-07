@@ -1,0 +1,88 @@
+/
+Introduction to Writing
+eaches rhetorical knowledge and skills, focusing on critical reading, writing, and thinking. Introduces writing for specific academic audiences and situations. Emphasizes writing as a process through multiple drafts and revisions. 
+/
+College Algebra
+Includes inequalities, functions and their graphs, polynomial and rational functions, exponential and logarithmic functions, systems of linear and nonlinear equations, matrices and determinants, arithmetic and geometric sequences, and the Binomial Theorem.
+/
+Information Systems and Technology Fundamentals
+Explores the fundamental concepts of information technology and the role played by enterprise systems in business and organizational strategy. Introduces types of systems, computer organization and hardware, operating systems and networking, project planning, software development, computer ethics, and career paths for enterprise developers and IT professionals. 
+/
+Computer Architecture and Systems Software
+Provides a thorough grounding in computer hardware, system software, and contemporary information system architecture. Examines hardware structure, operating systems theory, and systems software as part of a technical foundation for enterprise systems development and IT infrastructure procurement and management.
+/
+Personal Health and Wellness
+Examines the challenges to individual and community health, and encourages students to become actively engaged in preserving, protecting, and promoting health at all levels. Develops a greater appreciation for bodies and understanding of requirements to maintain or achieve good physical, mental, emotional, social, and spiritual health. Includes lecture, discussion groups, guest lecturers, media, and role-playing.
+/
+Intermediate Writing
+Emphasizes academic inquiry and research. Explores issues from multiple perspectives. Teaches careful reasoning, argumentation, and rhetorical awareness of purpose, audience, and genre. Focuses on critically evaluating, effectively integrating, and properly documenting sources.
+/
+Computer Programming I for IS IT
+Presents concepts of modern computer programming. Emphasizes problem-solving, algorithm development, and programming desgin. Stresses constructs, data representation, fundamental types and data structures, decision structures, repetition structures, methods, arrays, classes, and objects. Includes testing, debugging, and documentation. Introduces object-oriented, event-driven programming models. 
+/
+Data Communication Fundamentals
+Explores introductory information and cybersecurity concepts: security technologies, methodologies, and tools. Topics include security models, risk assessment, threat analysis, attack types, encryption technologies, security implementation, access controls, business continuity, and security policies. Discusses current topics, trends, and career opportunities in information security. Includes lab assignments covering information security principles. 
+/
+Introduction to System Administration--Linux/UNIX
+Introduces the UNIX Operating System using the popular Linux OS. Explores the Linux file system, Linux administration, OS utilities, and program features and uses. Aids the student in the development, understanding, and working knowledge of the details of the Linux Operating System, memory organization, disk architectures, and demand paged virtual memory. Includes OS installation, user creation, rights management, loading daemons, and server best practices. 
+/
+Technical Communication
+Teaches basic technical writing skills used in a variety of professional settings. Emphasizes audience analysis, document design, and using precise language for a particular audience.
+/
+Business Statistics I	
+Presents an application of statistics in business and economics covering methods of collecting, analyzing, and presenting data. Includes frequency distributions, averages, index numbers, probability, sampling, estimation, analysis of variance, time series, regression and correlation, and chi-square. 
+/
+Introduction to System Administration--WIndows Client	
+Introduces operation management of operating systems using Microsoft Windows. Introduces installation methods and troubleshooting, hardware device installation and management, storage management, disaster recovery planning and management. Aids the student in the development, understanding, and working knowledge of the Windows networking framework including peer-to-peer, workgroups, user profiles, domains, NTFS, and share-level permissions. 
+/
+Information Security Fundamentals	
+Explores introductory information and cybersecurity concepts: security technologies, methodologies, and tools. Topics include security models, risk assessment, threat analysis, attack types, encryption technologies, security implementation, access controls, business continuity, and security policies. Discusses current topics, trends, and career opportunities in information security. Includes lab assignments covering information security principles.
+/
+Web Systems Development
+Emphasizes interpretation of business processes, process modeling, and implementation of the models as web applications. Instructs how to implement web solutions that use a relational database backend to manage site data using an industry-standard programming language to interact with the database to produce dynamic web content. Covers parameter passing, cookie storage, and session variables. Introduces application platforms that can be customized to new business requirements. Teaches how to use content management systems (CMS) and how to customize such systems to quickly produce web applications to meet business needs. 
+/	
+Systems Analysis and Design
+Introduces the systems development life cycle with a focus on systematic planning; requirements, process, and data analysis; and an overview of the design phase. Covers fundamental principles, effective processes, and techniques of project management, including scheduling and project control. Covers appropriate methodologies, tools, diagrams, and techniques for systems analysis, design, and project management. Requires working in teams to complete and present the first planning and analysis phases of a project for a client. 
+/
+Systems Design and Implementation	
+Focuses on the design and implementation of an information system using an agile, iterative development approach. Utilizes self-organizing teams that will deliver working software with ongoing customer collaboration. Introduces use of a source control system to manage code base, an agile project management tool, and encourages continuous integration practices. 
+/
+Advanced System Administration--Linux/UNIX	
+Explores enterprise systems administration using the UNIX/Linux operating system. Students learn advanced administrative tasks including server installation, network configuration and user management, file management, network services deployment, server security, back up and recovery, Shell scripting, source compilation, performance monitoring and tuning, troubleshooting, and managing hardware and component changes. 
+/
+Advanced System Administration--Windows Server	
+Explores enterprise systems administration using the Microsoft Windows Server operating system. Students learn advanced administrative tasks including server installation; hardware change management; software application management; network configuration and user management; file management; printing; network services deployment; server security; back up and recovery; scripting; performance monitoring, tuning, and troubleshooting. 
+/
+Voice and Data Cabling Fundamentals	
+For students interested in the physical aspects of voice and data network cabling and installation. Focuses on cabling issues related to data and voice connections and provides an understanding of the industry and its worldwide standards. Covers types of media and cabling, physical and logical networks, as well as signal transmission. Focuses on best practices and safety using copper and fiber-optic cabling. Requires students to install a complete cable infrastructure for a simulated telecommunications room.
+/
+Internetworking and Router Management	
+Teaches the theory and implementation skills and techniques needed to configure, troubleshoot and support reliable TCP/IP internetworks. Discusses security and management issues. Offers the opportunity to build an internetwork with cables, network cards, and routers. Emphasizes the analysis and design of networks in organizations. 
+/
+Web Application Security	
+Examines web application vulnerabilities and remediation techniques. Explores various tools and techniques for mapping web applications and assessing their vulnerabilities. Includes authentication management, session management, cross-site scripting, SQL injection, and web server configuration.
+/
+Information Security--Network Defense and Countermeasures	
+Examines advanced information security concepts through an applied viewpoint. Extends the student's understanding of security issues through hands-on application of real-world techniques and use of current security software. Topics include legal/ethical issues, use of security tools, network reconnaissance, password/brute-force attacks, firewall configuration, Honeypot deployment, intrusion analysis/detection, server hardening, and penetration testing.
+/
+Enterprise Network Architectures and Administration	
+Examines management of resources used in enterprise computing environments from a practical, applied viewpoint. Extends the student's understanding of these concepts through hands-on application of real-world network, server, and software management techniques and addresses the problems associated with providing a secure, stable, reliable enterprise computing infrastructure. Includes principles of IT enterprise infrastructure management; configuration, analysis, and troubleshooting of virtual servers; redundancy and failover; directory service integration, access control and security; uptime monitoring and notification; backup and recovery; Storage Area Networking; Cloud computing platform choices, functionality, cost, deployment, flexibility, and adaptability. 
+/
+Enterprise Information Security Management	
+Provides perspective of key issues involved in IT activities across the organizational and technical security landscape. Examines management methodologies, staffing, and operational issues. Teaches use of financial analysis and decision-making methodologies to aid investment decisions at the operational, functional, and strategic levels. Illustrates use of risk assessment and contingency planning as applied to business continuity and disaster recovery strategies. Includes the use of Service Level Agreement for managing both internal and external relationships. 
+/
+Global Ethical and Professional Perspectives in IS and IT
+Examines professional and ethical issues within the information systems and information technology fields with a global perspective. Covers ethical and legal issues IT professionals face dealing with computer and cybercrimes, privacy issues, freedom of expression, intellectual property, software development including risk analysis, and social networking. Includes career professional development through resumes, cover letters, and job interviews specific to information systems and technology. Focuses on global networked readiness, digital highways, and challenges that information technology organizations face.
+/
+Network Security and Operations Capstone	
+Senior-level, capstone experience course. Enhances student cyber security knowledge with operational and business applications. Focuses on integrating cyber security principles as an organic part of an organization's processes. Covers barriers to implementing security policy, building a business case for cyber security, and incorporating cyber security into project management and software life cycles.
+/
+College Physics I Lab	
+Provides firsthand experience with the laws of mechanics, fluids, waves, heat, thermodynamics, and data analysis. 
+/
+College Physics I
+Covers mechanics, fluids, waves, heat, and thermodynamics. 
+/
+Ethics and Values
+Challenges students to explore and clarify their values; critically read works of philosophy, literature, religion, and history toward understanding the basis of their ethical views; and read, study, research, discuss, and write about difficult ethical issues. Focuses on issues of good vs. evil, justice vs. injustice, equality vs. inequality, and the necessity of defining and examining happiness and values.
+/

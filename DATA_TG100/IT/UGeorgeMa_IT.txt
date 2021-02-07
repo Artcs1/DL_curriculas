@@ -1,0 +1,238 @@
+/
+CFRS 510: Digital Forensics Analysis. 3 credits.
+Explains computer forensics crime scene procedures, beginning with initial walk-through and evaluation; identification and collection of potential evidence; preparation of intrusion investigation; aspects of working with investigators and attorneys; reverse engineering with file identification and profiling; application of critical thinking in determination of significance of artifacts; and analysis and reporting of evidence. Offered by Electrical & Comp. Engineering. May not be repeated for credit.
+/
+IT 213: Multimedia and Web Design. 3 credits.
+Through lecture, class demonstration, class discussion, and hands-on lab experience, introduces multimedia and web computer graphics. Focuses on development of web-enabled multimedia applications from practical business perspective. Introduces and discusses technological, aesthetic, and human factors. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+STAT 250: Introductory Statistics I. 3 credits.
+Elementary introduction to statistics. Topics include descriptive statistics, probability, and estimation and hypothesis testing for means and proportions. Statistical software used for assignments. Offered by Statistics. Limited to three attempts.
+/
+IT 214: Database Fundamentals. 3 credits.
+Covers fundamentals of relational database management systems and their use in business environments. Topics include: database classifications, data models with extensive coverage of the relational model, entity-relationship and extended entity-relationship models, normalization, advanced data modeling, and Structured Query Language (SQL) programming. Students design and implement a real-world relational database and create complex SQL queries to retrieve data from the database. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+IT 353: Information Defense Technologies. 3 credits.
+This course will examine and assess the role of information technology as a tool of warfare and civil defense. Topics will be discussed from both defensive and offensive perspectives and will include asset tracking, asymmetric warfare, network centric warfare, physical attacks, cyberterrorism, espionage, psyops, reconnaissance and surveillance, space assets, and applications of GPS and cryptographic technology. Students will research and write about the social, ethical, and political effects of such technology. Notes: For INFT and AIT majors, minors and certificates, and BAS cybersecurity concentration only. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+STAT 362: Introduction to Computer Statistical Packages. 3 credits.
+Use of computer packages in statistical analysis of data. Topics include data entry, checking, and manipulation, and use of computer statistical packages for graphical procedures, basic descriptive and inferential procedures, and regression. Offered by Statistics. Limited to two attempts.
+/
+IT 343: IT Project Management. 3 credits.
+Provides essential strategies and procedures for planning, organizing, staffing, monitoring, and controlling design, development, and production of system to meet stated IT-related need in effective and efficient manner. Fulfills writing-intensive requirement for BS in information technology. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+COMM 100: Public Speaking. 3 credits.
+Presents principles to develop effective presentations for public and professional settings while integrating appropriate technologies. Emphasizes analyzing audience; composing meaningful, coherent messages; conducting responsible research; developing effective arguments; and improving delivery skills to strengthen confidence and credibility. Offered by Communication. Limited to three attempts.
+/
+IT 105: IT Architecture Fundamentals. 3 credits.
+Introduces students to fundamental hardware and software concepts of information technology (IT) to understand the basics of modern computing environments. Students acquire a comprehensive understanding of a computer system's essential components, component interdependence, and binary functions, factoring in performance, data communication models, telecommunication basics, and information security. Recent trends and advancements in mobile computing, telecommunications, and IT infrastructures are discussed. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+IT 332: Web Server Administration. 3 credits.
+Covers the installation, configuration, and administration of Web servers, FTP servers, and DNS servers. Additional topics include security setups, administration, and associated performance issues. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+HAP 360: Introduction to Health Information Systems. 3 credits.
+An introduction to basic information management in health care service organizations. Provides an overview of health information systems for selected administrative functions and clinical care services, including electronic data interchange for billing and claims management, institutional approaches to ensuring data security and privacy, and information management and decision support for managers and clinicians. Offered by Health Administration & Policy. Limited to three attempts.
+/
+IT 324: Health Information Technology Fundamentals. 3 credits.
+Explores challenges in the development and implementation of information systems and informatics tools in healthcare environment. Discusses the importance and benefits of electronic health records (EHRs). Students learn about EHRs' creation, management, and evolution, and their use for clinical decision support. In addition health information security, privacy, federal laws, regulations and standards, and their impact on healthcare delivery are discussed. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+IT 194: Review of Database Fundamentals. 1 credit.
+Provides an extensive understanding of database fundamentals. Topics include: database classifications, data models with extensive coverage of the relational model, entity-relationship and extended entity relationship models, normalization, advanced data modeling, and Structured Query Language (SQL) programming. Open only to students with transfer credit comparable to IT 214 who have not attempted IT 194 or IT 214. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+IT 293: Applied IT: Junior Transition. 1 credit.
+Focuses on transition issues for sophomores and transfer students in Information Sciences and Technology programs. Assists sophomore and transfer students with choice of concentration, course selection, and career readiness. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+IT 223: Information Security Fundamentals. 3 credits.
+Introduces concept of information security. Discusses need for organizational policy to define required services such as confidentiality, authentication, integrity, nonrepudiation, access control, and availability, and mechanisms to implement those services. Covers different types of security including physical security, computer security, and network security; common threats to and attacks against information systems, including accidental damage, identity theft, malicious software, and "spam"; and defensive measures. Notes: Students cannot receive credit for both IT 221 and IT 223. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+IT 455: Wireless Communications and Networking. 3 credits.
+Covers fundamental principles underlying wireless data communications. Topics include wireless transmission basics, radio propagation issues, antennas, digital modulation, spread spectrum techniques and their applications, and popular standards: WiFi, WiMAX and Bluetooth. Also presents practical knowledge to enable the design, testing, deployment, debugging and commissioning of WiFi, WiMAX networks and point-to-point microwave systems. Discussions on cellular network technologies are also included. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+IT 429: Security Accreditation of Information Systems. 3 credits.
+This course explains basic principles of performing FISMA certification and accreditation (C&A) of an IT System.  The course covers methodology for completing C&A, explains the role of the Certifier and the Information System Security Officer (ISSO), and gives students real world experience with IT Systems in the Federal Government. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+IT 462: Applied Cyber Threat Analysis. 3 credits.
+Studies security policies, models, and mechanisms for secrecy, integrity, availability, and usage controls. Topics include models and mechanisms for mandatory, discretionary, and role-based access controls; authentication technologies; control and prevention of viruses and other rogue programs; common system vulnerabilities and countermeasures; privacy and security policies and risk analysis; intellectual property protection; and legal and social issues. Notes: For INFT and AIT majors, minors and certificates, and BAS cybersecurity concentration only. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+MATH 113: Analytic Geometry and Calculus I. 4 credits.
+Functions, limits, the derivative, maximum and minimum problems, the integral, and transcendental functions. Offered by Mathematics. Limited to three attempts. Equivalent to MATH 115, MATH 124.
+/
+IT 493: Senior Design Project II. 4 credits.
+Students, in teams, complete projects demonstrating preparedness as an IT professional. This work includes ethical challenges, status reports and engineering notebooks evaluated during class. Teams members develop detailed designs, build solutions up to Beta, present final written reports and final verbal presentations before review panels of business leaders. Students must register for the section that continues their IT 492 section. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+IT 109: Introduction to Computer Programming. 3 credits.
+This foundation course is designed to teach students problem-solving skills using procedural programming that is required for the Information Technology degree program. The course accomplishes the goals through hands-on experience in the lecture class as well as through computer laboratory work. Topics to be discussed include, but are not limited to: variables, conditionals, functions, strings, iteration, testing, storage types and files. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+IT 106: Introduction to IT Problem Solving Using Computer Programming. 3 credits.
+Introduces techniques for developing solutions to business problems using procedural programming as an IT resource/tool. Students apply problem solving concepts by analyzing problems and constructing, testing, and implementing algorithms using pseudocode, desk checking, and procedural programming. Topics include: program flow, control structures, programming fundamentals, and integrating program modules into a cohesive solution. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+MBUS 300: Accounting in a Global Economy. 3 credits.
+Focuses on using basic concepts of accounting and financial management to make investment, credit, and operating decisions for an organization. Emphasizes financial reports to aid planning and control of organizational activities. Notes: May not be taken for credit by School of Business majors. Students who have received credit for both ACCT 203 and FNAN 303 cannot also receive credit for MSOM 300 or MBUS 300. Offered by School of Business. Limited to three attempts.
+/
+IT 441: Network Servers and Infrastructures. 3 credits.
+Covers IP networking concepts and practices for IPv6 addressing, DHCP and DNS in IPv6 networks, secure communication over VPNs, VoIP architecture, Virtual Computing, Cloud Computing, MPLS, traffic monitoring and network connectivity between operating systems. Students learn the latest technologies of IP networks and understand application-level services used in the Internet. Lab sessions focus on installation of applications on virtual servers. Notes: Term project. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+SYST 469: Human Computer Interaction. 3 credits.
+Covers principles of human-computer interaction, including information processing design, cognitive models, ergonomics, and design metaphors. Students learn to evaluate interface design in terms of effectiveness, efficiency, and cost. Notes: Students who receive credit for SYST 470 may not receive credit for this course. Offered by Systems Engr & Operations Rsch. Limited to two attempts.
+/
+IT 465: Peer-to-Peer Systems and Overlay Networks. 3 credits.
+Peer-to-Peer (P2P) systems and overlay networks have become popular over the years because they are a cost-effective and scalable content sharing solution. Fundamentals of P2P systems and overlay networks are introduced to validate it as a better option than the traditional client server architecture. Students learn the classifications of P2P systems and architectures; overlay network categories, and their benefits and disadvantages. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+ISA 562: Information Security Theory and Practice. 3 credits.
+A technical introduction to the theory and practice of information security, which serves as the first security course for the MS-ISA degree, is required as a prerequisite for all subsequent ISA courses (at the 600 and 700 levels) and subsumes most topics covered by the CISSP examination. Also serves as an entry-level course available to non-ISA students, including MS-CS, MS-IS, and MS-SWE students. Offered by Computer Science. May not be repeated for credit.
+/
+SWE 619: Object-Oriented Software Specification and Construction. 3 credits.
+In-depth study of software construction using modern, object-oriented language with support for graphical user interfaces and complex data structures. Specifications, design patterns, and abstraction techniques, including procedural, data, iteration, type, and polymorphic. Information hiding, classes, objects, and inheritance. Exception handling, event-based systems, and concurrency. Offered by Computer Science. May not be repeated for credit.
+/
+CFRS 500: Introduction to Forensic Technology and Analysis. 3 credits.
+Presents an overview of technologies related to the digital forensics process. It will introduce software, analysis, operating systems, networking, and other aspects required as the base for forensic examiners. Not intended to be taken for credit by students in the MS CFRS/DFCA program. Offered by Electrical & Comp. Engineering. May not be repeated for credit.
+/
+COMM 101: Fundamentals of Communication. 3 credits.
+Presents principles to develop appropriate and effective communication strategies in one-to-one and small group communication settings. Emphasizes analyzing and assessing communication skills to create and sustain effective communication in personal and professional relationships. Offered by Communication. Limited to three attempts.
+/
+IT 102: Discrete Structures. 3 credits.
+Introduces ideas of high-level program design and discrete structures. This course focuses on problem-solving and includes an introduction to programming, Boolean algebra, symbolic logic, digital circuits, set theory, combinatorics, discrete probability, mathematical induction, recursion and a basic introduction to trigonometry. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+CFRS 660: Network Forensics. 3 credits.
+Deals with the collection, preservation, and analysis of network-generated digital evidence such that the evidence can be successfully presented in a court of law (both civil and criminal). The relevant federal laws will be examined as well as private sector applications. The capture/intercept of digital evidence, the analysis of audit trails, the recording of running processes, and the reporting of such information will be examined. Offered by Electrical & Comp. Engineering. May not be repeated for credit. Equivalent to TCOM 660.
+/
+IT 357: Computer Crime, Forensics, and Auditing. 3 credits.
+Covers computer crime, relevant laws, agencies, and standards. Presents auditing, logging, forensics, and related software. Explores legal principles such as chain of evidence, electronic document discovery, eavesdropping, and entrapment. Students get hands-on experience with forensics tools. Notes: For INFT and AIT majors, minors and certificates, and BAS cybersecurity concentration only. Offered by Info Sciences & Technology. Limited to two attempts. Equivalent to CRIM 304.
+/
+IT 314: Database Programming. 3 credits.
+The course introduces students to the Oracle Developer application development utilities and tools and describes how to create and manipulate databases in Oracle database management system. The course provides an extensive overview of SQL and introduction to PL/SQL. Topics include data definition and manipulation languages, stored procedures, triggers, indexing techniques, and elementary query optimization. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+IT 390: Rapid Development of Scalable Cloud Applications. 3 credits.
+Presents software engineering, programming techniques, platforms and tools necessary for rapid development of scalable applications including: cloud platforms; scalable data storage solutions; web applications development environments. The course will provide a general overview of such techniques but will concentrate on selected ones in each term. The students will work in small teams and must develop scalable prototypes during the course. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+IT 410: Web Programming. 3 credits.
+This course covers layers of the n-tier architecture. Students will build web applications using available frameworks at each tier, such as Java Server Faces and Servlets for the UI tier, Web Services for the business tier and Java Database Connectivity for the persistence tier. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+IT 467: Network Defense. 3 credits.
+Practices and procedures for defending business-class, heterogeneous networks against threats (including system failure, environmental events, human error) and attacks (including intrusion, malicious software, denial of service). Through practical lab sessions, students receive real-world experience designing networks, installing and configuring system components, detecting and recovering from problems and attacks, and gathering data to support prosecution of offenders and refinement of countermeasures. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+IT 207: Applied IT Programming. 3 credits.
+Building on fundamentals of problem solving, logic and algorithm development, and procedural programming, this course further develops these skills while covering server side scripting languages and relational database connectivity. Students will use open source software tools to develop database-enabled web applications. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+TCOM 500: Modern Telecommunications. 3 credits.
+Comprehensive overview of telecommunications, including current status and future directions. Topics include review of evolution of telecommunications; voice and data services; basics of signals and noise, digital transmission, network architecture and protocols; local area, metropolitan and wide area networks and narrow band ISDN; asynchronous transfer mode and broadband ISDN; and satellite systems, optical communications, cellular radio, personal communication systems, and multimedia services. Examples of real-life networks illustrate basic concepts and offer further insight. Offered by Electrical & Comp. Engineering. May not be repeated for credit.
+/
+AIT 524: Database Management Systems. 3 credits.
+Relational database management systems. Covers logical and physical database design; query languages and database programming; and examines commercial systems. Computing lab.  Notes: This course does not count towards MS programs offered in the Computer Science Department and cannot be used to satisfy course requirements for PhD IT students. Offered by Info Sciences & Technology. May not be repeated for credit.
+/
+AIT 512: Algorithms and Data Structures Essentials. 3 credits.
+Introduces analysis of algorithms and basic data structures assuming basic programming knowledge. Topics include: collections, sorting, searching, graphs, strings, B-Trees, and analysis of algorithms. Offered by Info Sciences & Technology. May not be repeated for credit.
+/
+IT 369: Data and Application Security. 3 credits.
+Introduces concept of data and application security. Discuss challenges of database, and application and industrial control system security. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+IT 104: Introduction to Computing. 3 credits.
+This course, using both lecture and laboratory practice, introduces students to basic computer concepts in hardware, software, networking, computer security, programming, database, e-commerce, decision support systems, and current developments in 3-D printing, virtualization, and Siri-like systems. Additional lectures examine social, legal, ethical issues including privacy, intellectual property, health concerns, green computing, and accessibility. Students learn techniques to search, evaluate, validate, and cite information found online. Hands-on lab includes spreadsheets, databases, presentation, HTML 5, CSS, cybersecurity, blogs, wiki, and mobile app development.  Offered by Info Sciences & Technology. Limited to two attempts.
+/
+TCOM 530: Data Communications Fundamentals. 3 credits.
+Covers the foundations of modern data communications. The lower layers of the OSI reference model are discussed with an emphasis on the data link and the network layers. Concepts are illustrated by drawing examples from important data networks ranging from local are networks to the Internet. Offered by Electrical & Comp. Engineering. May not be repeated for credit.
+/
+IT 304: IT in the Global Economy. 3 credits.
+Explores how IT changed nature of society and contributed to evolution of global economy. Examines changing nature of work, education, and communication, and ethical issues such as intellectual property rights, computer-related crime, privacy concerns, and public policy issues. Offered by Info Sciences & Technology. Limited to two attempts. Equivalent to CS 306.
+/
+IT 492: Senior Design Project I. 3 credits.
+Students use information technology as a tool to redesign business processes so the enterprise can achieve its objectives. Student teams analyze the business processes of real organizations, quantify the negative impact caused by current process challenges, then develop and present a compelling Business Case for Change. Students develop skills critical for preparing and delivering effective verbal briefings and presentations. Notes: Restricted to AIT/INFT majors. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+IT 352: Security Administration of Linux Systems. 3 credits.
+Provides theoretical foundation and practical experience installing, configuring, and maintaining Linux systems with an emphasis on best practices for security. Students develop a heterogeneous suite of clients and servers with firewalls and other networking components. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+IT 322: Health Data Challenges. 3 credits.
+Covers methodology and tools used to work with health data structures supporting organizations' needs for reliable data that are captured, stored, processed, integrated, and prepared for further querying, decision making, data mining and knowledge discovery for a variety of clinical and organizational purposes. Data security and privacy, data standards, data interoperability, health information exchange, and big data analytics are discussed. Offered by Info Sciences & Technology. Limited to two attempts. Equivalent to BENG 322.
+/
+IT 415: Information Visualization. 3 credits.
+Provides an overview of information visualization applications in intelligence analysis, decision support systems, and network monitoring. Covers human factors, human interface with information, and current and future trends in information visualization. Students also learn to develop a rudimentary visualization application. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+INFS 612: Principles and Practices of Communication Networks. 3 credits.
+Introduces principles of computer networks and applications to Internet. Discusses details of layering, protocols, performance, resource allocation, management, security and other contemporary issues related to networks. Examples of course material are protocols such as HTTP(S), DNS, TCP/IP, RSVP, SNMP, algorithms such as Dijkstra's link state routing; and security measures such as firewalls and encryption, the principles behind them and analysis of performance. Notes: No substitutions can be made for this class. Offered by Computer Science. May not be repeated for credit.
+/
+IT 206: Object Oriented Techniques for IT Problem Solving. 3 credits.
+Introduces techniques for developing solutions to business problems using object-oriented programming as an IT resource/tool. Students apply problem solving concepts by analyzing problems and constructing, testing, and implementing object-oriented solutions using object-oriented analysis and design, data modeling, and object-oriented programming fundamentals. Topics include: Unified Modeling Language (UML), classes, inheritance, polymorphism, and exception handling. Notes: Students cannot receive credit for both IT 108 and IT 206. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+ECE 301: Digital Electronics. 3 credits.
+Introduces digital systems, circuits, and computers. Topics include binary systems and codes, digital logic gates and circuits, microelectronics and integrated circuits, coding and multiplexing, multivibrators, shift registers, counters, A/D converters, and elementary computer architecture. Notes: Not intended for those majoring in electrical or computer engineering. Offered by Electrical & Comp. Engineering. Limited to two attempts. Equivalent to CYSE 301.
+/
+IT 431: Web II: Advanced Web Development. 3 credits.
+Focuses on database-driven web application development and web presentation using server-side coding and advanced techniques. Additional topics include AJAX, web server configuration and web services. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+IT 445: Advanced Networking Principles. 3 credits.
+This course focuses on Layer 2 and 3 of the OSI model and WAN technologies. Frame Relay and ISDN, complex router configurations of Variable Length Subnet Masking (VLSM), Classless Inter-Domain Routing (CIDR), Network Address Translation (NAT), Dynamic Host Configuration Protocol (DHCP), and study of Network Management Systems available for Data Communications Networks. Layer 2 involves Ethernet-switching components, including detailed hands-on configuration covering all aspects of switches using the command-line interface method. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+IT 342: Operating Systems Fundamentals. 3 credits.
+Practices and procedures for installing and configuring modern operating systems, including user accounts, file, print, and terminal servers, mobile computing, and disaster recovery. Through practical lab sessions, students receive real-world experiences with multiple operating systems. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+IT 193: Review of Multimedia and Web Design. 1 credit.
+Provides an extensive understanding of concepts and techniques for designing and developing attractive and accessible websites with multimedia components. Introduces and discusses technological, aesthetic, and human factors. Open only to students with transfer credit comparable to IT 213 who have not attempted IT 193 or IT 213. Offered by Info Sciences & Technology. Limited to three attempts.
+/
+IT 488: Fundamentals of Satellite Communications. 3 credits.
+Provides a comprehensive overview of the principles of satellite communications systems. Major topics include satellite orbits and constellations, the space segment, antennas, modulation, coding, satellite access methods and link analysis. Also covers satellite applications, with emphasis on recent developments in the satellite communications field. Hands-on design experience is gained through the use of readily available vendor software systems. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+IT 466: Foundations of Cryptography and Security. 3 credits.
+Detailed study of certain symmetric and asymmetric cryptographic schemes; analysis of network data (including "packet sniffing"); security at different network layers (including IPSec, SSL/TLS and Kerberos); and secure e-commerce. Teaches principles of designing and testing secure networks, including use of network partitioning, firewalls, intrusion detection systems, and vulnerability assessment tools. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+IT 216: Systems Analysis and Design. 3 credits.
+Students survey and apply techniques in analyzing and modeling information systems. Requirements are derived in various domains and abstracted at conceptual, logical, and physical levels. Process, data, and state modeling are applied through a project that follows a systems development lifecycle. Object modeling is explored and contrasted with data and process modeling. Individual and group modeling assignments are required. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+CS 550: Database Systems. 3 credits.
+An introduction to database management with focus on architecting databases and using them in applications. Topics to be covered include: data modeling with the Entity-Relationship model, the relational data model and its formal languages, SQL, the theory of database design, object databases, XML and Web data. Offered by Computer Science. May not be repeated for credit.
+/
+IT 300: Modern Telecommunications. 3 credits.
+Comprehensive overview of the fundamental principles of telecommunications, including current status and future directions of the public switched telephone network, cellular networks, satellite networks, and computer networks. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+TCOM 535: The TCP/IP Suite of Internet Protocols. 3 credits.
+Provides an in-depth treatment of the protocols that define the Internet. Topics include: IPv4 addressing and subnetting; CIDR; Data Link Protocols: ARP, RARP; Network Protocols: IP, ICMP; IP Routing Protocols: RIP, OSPF, IS-IS, BGP; Transport Protocols: TCP, UDP; TCP Features: Windowing, Congestion Control, Advanced Protocols: MPLS; Internet Security: IPSec, SSL. Offered by Electrical & Comp. Engineering. May be repeated within the degree.
+/
+IT 484: Voice Communications Technologies. 3 credits.
+Examines current and emerging technologies for transmission of voice signals over telecommunications systems. Highlights significant differences between the requirements for voice and other forms of data. Topics provide a balance between traditional voice technologies and those that use data networks. Real-world implementations are analyzed to determine reliability, quality, and cost effectiveness. Includes lab experiments with analog and digital technologies. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+IT 209: Introduction to Object Oriented Programming. 3 credits.
+Introduction to Object Oriented Programming (OOP) is intended for students who want to advance their basic programming skill to the next level by learning the OO programming paradigm. This course is designed to teach the benefits of OOP, including faster development, code reusability and less code maintenance. The course accomplishes the goals through hands-on experience with a number of coding assignments. Topics include, but are not limited to: OOP design, objects, class, methods, inheritance, testing, debugging, graphical user interfaces (GUIs). Offered by Info Sciences & Technology. Limited to two attempts.
+/
+IT 479: Digital Media and Web Design Capstone. 3 credits.
+Student team-based experience grounded in the work of the preceding courses in the digital media and web design minor. Each individual student will produce a portfolio of digital media and web-design related products and features that demonstrate core competencies in coding, design, content, and accessibility. Students will work in cross-disciplinary teams to carry out a client-based web design project, the process and outcomes of which will also be represented in the individual portfolio. Offered by Info Sciences & Technology. Limited to two attempts. Equivalent to ENGH 479.
+/
+MATH 125: Discrete Mathematics I. 3 credits.
+Introduces ideas of discrete mathematics and combinatorial proof techniques including mathematical induction, sets, graphs, trees, recursion, and enumeration. Offered by Mathematics. Limited to three attempts.
+/
+IT 331: Web I: Web Development. 3 credits.
+Introduces the principles and techniques necessary for successful client-side web development. Topics such as HTML5, Cascading Style Sheets, JavaScript, DOM, XML, AJAX, and jQuery are presented. Students will learn to develop attractive and interactive web pages and applications and use client-side web-scripting languages to solve problems both with a text editor and more powerful WYSIWYG HTML editors. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+INFS 622: Information Systems Analysis and Design. 3 credits.
+Integration of computing technologies, systems analysis, system design practices, and management criteria in the design of large-scale information management and decision-support systems. Includes cases, computing lab. Offered by Computer Science. May not be repeated for credit.
+/
+IT 341: Data Communications and Network Principles. 3 credits.
+Focuses on primary aspects of data communications and networking. Open Systems Interconnection (OSI) and Internet models; Layer 1 interfaces and cabling configurations; IP network addressing, network design, router and port configurations; security protocols; static routing, RIPv2, and OSPF configurations; TCP, UDP, data reliability, and error correction methods; Telnet, FTP, TFTP, HTTP, SMTP, POP, and DNS protocols. Notes: This course is 50 percent lab work of configuration of routers and network design, implementation, and testing. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+TCOM 631: Voice Over IP. 3 credits.
+Presents the protocols used for transporting voice over Packet Switched Network. Topics include: Signaling basics; Topics; VoIP Network Scenarios and Connection Strategies; Communication Protocols: RTP, RTCP; VoIP Decomposition; Performance and quality metrics for VoIP; VoIP Signaling Protocols: H.323, SIP, SS7; Softswitches: architecture, functionality, application; VOIP-PSTN integration and migration; VOIP Quality and QoS; VoIP Security: Vulnerabilities, remedies; NextGen VoIP: VoIP Mobility, Equipment, Voice XML, IMS; Future of VoIP. Offered by Electrical & Comp. Engineering. May not be repeated for credit.
+/
+MATH 108: Introductory Calculus with Business Applications. 3 credits.
+Functions, limits, derivative, and integral. Applications of differentiation and integration. Notes: Call Mathematical Sciences Department at 703-993-1460 for details. Students who have received credit for MATH 113 or 114 may not receive credit for this course. Offered by Mathematics. Limited to three attempts.
+/
+IT 335: Web Development using Content Management Systems. 3 credits.
+Through lectures and hands-on lab experience, presents web development techniques using content management systems (e.g. Joomla, Dot net nuke). Introduces characteristics of various types of websites (corporate portals, intranets and extranets; online magazines, newspapers, and publications; e-commerce and online reservations, government applications, small business websites). Presents methods, languages, tools related to web content management systems from an applied perspective. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+IT 306: Data Structures and Algorithms in Java. 3 credits.
+Fundamentals of data structures and analysis of algorithms. Large programs written in a modern, high-level programming language. Stresses abstraction, modular design, code reuse, and correctness. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+IT 315: Mobile Development. 3 credits.
+Studies business-oriented applications for popular mobile platforms including Blackberry, Android and Apple. Provides overview of mobile platforms and devices including evaluation, uses, design and development of applications. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+IT 309: Data Structures and Algorithms in Python. 3 credits.
+Fundamentals of data structures and analysis of algorithms. Large programs written in a modern, high-level programming language. Stresses abstraction, modular design, code reuse, and correctness. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+IT 409: Python Web Programming. 3 credits.
+This course covers layers of the n-tier architecture. It teaches students how to use Python and Django framework for building web sites. It starts with developing a web application with Python and adding additional features to that application. These features include, persisting data to an RDBMS systems such as Postgres SQL, securing the developed applications including user authentication, logging and debugging, and testing. Finally, we will explore developing RESTFul web services with Python/Django and integrating them with a Python web application. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+IT 366: Network Security. 3 credits.
+Examines information security services and mechanisms in network context. Topics include symmetric and asymmetric cryptography; message authentication codes, hash functions and digital signatures; digital certificates and public key infrastructure; access control including hardware and biometrics; intrusion detection; and securing network-enabled applications including e-mail and web browsing. Offered by Info Sciences & Technology. Limited to two attempts.
+/
+AIT 542: Fundamentals of Computing Platforms. 3 credits.
+Contemporary information systems are platforms inextricably combining operating systems and networks. This graduate course provides an overview of OS and networking elements of information systems, and examines the particular issues relating to the range of platforms, from handheld mobile devices to cloud and supercomputer systems. Offered by Info Sciences & Technology. May not be repeated for credit.
+/
+IT 414: Database Administration. 3 credits.
+Explores advanced concepts of database administration using enterprise-level database management system. Topics include: backup, recovery, corruption, automatic management, resource management, job scheduling, space management, memory management, storage management, diagnosis and corresponding tools. Offered by Info Sciences & Technology. Limited to two attempts.
+/

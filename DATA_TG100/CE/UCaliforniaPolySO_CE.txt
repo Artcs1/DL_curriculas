@@ -1,0 +1,170 @@
+/
+Public Speaking
+Introduction to the principles of public speaking. Practical experience in the development, presentation, and critical analysis of speeches to inform, to persuade, and to actuate.
+/
+Writing and Rhetoric
+Rhetorical principles of and strategies for producing effective academic writing. Writing as a recursive process that leads to greater organizational coherency, stylistic complexity, and rhetorical awareness.
+/
+Argument and Advocacy
+The nature of critical thinking as applied in written and oral argument. Analysis of inductive and deductive reasoning. Analysis of reasoning, argument, forms of support and fallacies of argument and language. Instruction in and practical experience in writing sound persuasive arguments and engaging in oral argumentation assignments.
+/
+Introduction to Geology
+Processes responsible for the Earth's minerals, rocks, and structure surface features. Volcanism; mountain building; plate tectonics; weathering. Erosion and deposition by streams, glaciers, wind and waves. Geological resources, earth hazards, and interaction of man with global processes.
+/
+Biology of Sex
+Fundamental principles of biology related to sexual reproduction: genetics, physiology, behavior, ecology and evolution of sex in a broad range of organisms.
+/
+Digital Cities
+Explores changes in urban form and urban experience associated with advances in digital technology. Implications for the design of places and the distribution of economic and social benefit. Lecture-discussions and opportunities to explore technology initiatives in community building.
+/
+Probability and Random Processes for Engineers
+Random events, random variables, and random processes, with emphasis on probabilistic treatment of signals and noise. Specific topics include: sample spaces, probability, distributions, independence, moments, covariance, time/ensemble averages, stationarity, common processes, correlation and spectral functions.
+/
+Modern Physics I
+Special relativity, fundamental principles of quantum mechanics, emphasizing the modern description of atomic phenomena. Wave-particle duality, Bohr theory, Schroedinger equation, elementary atomic structure.
+/
+General Physics II
+Oscillations, waves in elastic media, sound waves. Temperature, heat and the first law of thermodynamics. Kinetic theory of matter, second law of thermodynamics.
+/
+General Physics III
+Charge and matter, electric field, electric potential, dielectrics, capacitance, current and resistance, electromotive force and circuits, magnetic fields, magnetic field of a moving charge,
+/
+General Physics I
+Fundamental principles of mechanics. Vectors, particle kinematics. Equilibrium of a rigid body. Work and energy, linear momentum, rotational kinematics and dynamics. Primarily for engineering and science students.
+/
+Linear Analysis I
+Separable and linear ordinary differential equations with selected applications; numerical and analytical solutions. Linear algebra: vectors in n-space, matrices, linear transformations, eigenvalues, eigenvectors, diagonalization; applications to the study of systems of linear differential equations
+/
+Calculus IV
+Partial derivatives, multiple integrals, introduction to vector analysis.
+/
+Calculus III
+Infinite sequences and series, vector algebra, curves.
+/
+Calculus II
+Techniques of integration, applications to physics, transcendental functions.
+/
+Calculus I
+Limits, continuity, differentiation. Introduction to integration. 4 lectures
+/
+Materials Engineering
+Structure of matter. Physical and mechanical properties of materials including metals, polymers, ceramics, composites, and electronic materials. Equilibrium diagrams. Heat treatments, materials selection and corrosion phenomena
+/
+Design and Analysis of Algorithms
+Intermediate and advanced algorithms and their analysis. Mathematical, geometrical, and graph algorithms. NP-complete problems. Additional topics will be chosen from pattern matching, file compression, cryptology, dynamic and linear programming, and exhaustive search
+/
+Discrete Time Signals and Systems
+Discrete-time systems and analysis, with emphasis on linear time-invariant (LTI) systems. Sampling theorem. Classification of discrete-time systems. Convolution and its application to LTI systems. The z transform, discrete-time Fourier transform, and discrete Fourier transform. Introduction to digital filters.
+/
+General Chemistry for Physical Science and Engineering II
+Topics include solution chemistry, thermodynamics, kinetics, equilibrium (including acids and bases), electrochemistry, and nuclear chemistry.
+/
+General Chemistry for Physical Science and Engineering I
+Stoichiometry, thermochemistry, atomic structure, bonding, solid-state structures, intermolecular forces, and foundational principles of organic chemistry.
+/
+Design of Museum Displays of Science, Engineering and Technology
+The design and creation of educational museum displays that highlight science, engineering, and technology. Projects done by multidisciplinary teams and for clients in the community. Emphasis on design, teamwork, service learning and project management
+/
+Solid State Physics Laboratory
+Selected experiments on X-ray diffraction, Hall effect, optical absorption, thermo-electric effect, photovoltaic cells, diode characteristics, and superconductivity
+/
+Solid State Physics
+Physics of solids including the structural, mechanical, thermal, and electronic properties, energy band theory and the properties of metals and semiconductors
+/
+Electromagnetic Fields and Waves I
+Electric and magnetic field theory using vector analysis. Electric fields, dielectric materials, magnetic fields, induced emf, magnetic materials, Maxwell's equations, wave equation
+/
+Optics
+Ray optics, lens systems, optical instruments, wave optics, and polarization of light.
+/
+Vibrations and Waves
+Introduction to vibrations and waves and their applications. Harmonic oscillator, waves, complex notation, superposition, interference, coherence, Fourier analysis. Applications may include sound, optics, quantum mechanics, and electromagnetic radiation
+/
+Mechatronics
+Microprocessor applications in machine control and product design. Applied electronics. Drive technology; transducers and electromechanical systems. Real-time programming. Mechatronic design methodology
+/
+Numerical Analysis I
+Topics in interpolation and approximation methods, initial value problems, and boundary value problems of ordinary differential equations
+/
+Complex Analysis II
+Elementary analytic functions and mappings. Cauchy's Integral Theorem; Poisson's Integral Formula. Taylor and Laurent series, theory of residues, and the evaluation of integrals. Harmonic functions, conformal mappings.
+/
+Complex Analysis I
+Elementary analytic functions and mappings. Cauchy's Integral Theorem; Poisson's Integral Formula. Taylor and Laurent series, theory of residues, and the evaluation of integrals. Harmonic functions, conformal mappings
+/
+Vector Analysis
+Differential and integral calculus of vector-valued functions. Green's Theorem, Stokes' Theorem, and the Divergence Theorem. Applications and generalizations
+/
+Advanced Electronic Manufacturing
+Design and fabrication of commercial electronic products; PCB layout design, bill of material analysis and component purchasing, production planning and scheduling, programming automated surface-mount assembly line, marketing of products. Multidisciplinary project teams exposed to real-world challenges of electronics manufacturers. 
+/
+Sales Engineering
+Concepts and principles of engineering in sales. Role of the professional engineer in the analysis, design, development, production, and final application of a product or system required by the buyer. 
+/
+Human Factors Engineering
+Analysis of factors influencing the efficiency of human work. Data on the physical and mental capacities of persons, the physical environment, work organization, and the problem of aging. Design of machines, operations, human computer interface and work environment to match human capacities and limitations, including the handicapped
+/
+Engineering Economics
+Economic analysis of engineering decisions. Determining rates of return on investments. Effects of inflation, depreciation and income taxes. Sensitivity, uncertainty, and risk analysis. Application of basic principles and tools of analysis using case studies
+/
+Project Organization and Management
+Design and implementation of a major industrial/business systems project. Project planning considerations. Motivational and influence techniques used in project management. Scheduling techniques with risk assessment. Resource leveling and management under constraints. Reducing project duration. Monitoring progress with earned value analysis. Project audit and closure. Planning and implementation of a project. Application of project management software
+/
+Operations Research I
+Systems modeling methodology, mathematical model formulations, linear programming, graphical and simplex methods. Sensitivity analysis. Integer and binary programming. Transportation, transshipment, assignment, and other network optimization models.
+/
+Introduction to Data Science
+Introduction to the field of data science and the workflow of a data scientist. Types of data (tabular, textual, sparse, structured, temporal, geospatial), basic data management and manipulation, simple summaries, and visualization.
+/
+Microelectronics and Electronics Packaging
+Materials, processes, and reliability of microelectronics and electronics packaging, surface mount assembly and printed circuit board fabrication. Organic substrates and ceramic substrates. Mechanical design, thermal, and electrical considerations in electronic packaging. Design for manufacturability. Overview of optoelectronics packaging and other emerging technologies in microelectronics and electronic packaging. Project on design and manufacture of an electronic device.
+/
+Professional Responsibilities
+The responsibilities of the computer science professional. The ethics of science and the IEEE/ACM Software Engineering Code of Ethics. Quality tradeoffs, software system safety, intellectual property, history of computing and the social implications of computers in the modern world. Applications to ethical dilemmas in computing. Technical presentation methods and practice.
+/
+Survey of Organic Chemistry
+Structure, isomerism, nomenclature, fundamental reactions of major functional groups and applications of organic chemicals in agriculture, medicine, industry, and the home. 
+/
+Microfabrication Laboratory
+Application of basic processes involved in microfabrication: cleanroom protocol, oxidation, diffusion, photolithography etching and sputtering. Explore process development through fabrication of electronic, photonic or microfluidic devices. Each student will be part of a team that will fabricate and test a device.
+/
+Micro/Nano System Design
+Fundamentals of designing micro/nano scale systems employing sensors, actuators and intelligent controls. Explore mechanics, electronics, heat transfer, photonics, fluid mechanics and biometrics at the micrometer and nanometer scale. Discover how scaling impacts design criteria. Investigate the integration of science and engineering and evaluate applications in living systems.
+/
+Electric Circuit Analysis I and Electronics Manufacturing and Circuit Analysis Laboratory
+Basic circuit analysis and basic electronics manufacturing. Resistive circuits, voltage and current sources, op-amps, network theorems. Practical electronics manufacturing expanded through concepts such as CAD/CAM design, Design for Manufacture (DFM), documentation requirements, deposition and etching processes, prototyping, and production planning. PCB design and assembly.
+/
+Senior Project I
+Senior Project I
+/
+Computer Engineering Orientation
+Introduction to the computer engineering discipline. Success skills and curricular information. Career paths and opportunities. Professional aspects of engineering and computer science. Interaction with upper division students, alumni, faculty and staff. Introduction to computer software and hardware.
+/
+Fundamentals of Computer Science
+Basic principles of algorithmic problem solving and programming using methods of top-down design, stepwise refinement and procedural abstraction. Basic control structures, data types, and input/output. Introduction to the software development process: design, implementation, testing and documentation. The syntax and semantics of a modern programming language
+/
+Introduction to Computing
+Use of a supportive software development environment to design, develop, and test applications in a selected topic domain that demonstrates the potential of careers in computing. An introduction to computing and to the selected topic domain. The Class Schedule will list topic selected.
+/
+Digital Design
+Number systems, Boolean algebra, Boolean functions, and function minimization. Analysis and design of combinational and sequential digital logic circuits. Hardware Description Language (HDL) concepts and applications digital design and synthesis in FPGAs. Course may be offered in classroom-based or online format.
+/
+Data Structures
+Introduction to data structures and analysis of algorithms. Abstract datatypes. Specification and implementation of advanced data structures. Theoretical and empirical analysis of recursive and iterative algorithms. Software performance evaluation and testing techniques.
+/
+Project-Based Object-Oriented Programming and Design
+Object-oriented programming and design with applications to project construction. Introduction to class design, interfaces, inheritance, generics, exceptions, streams, and testing.
+/
+Computer Design and Assembly Language Programming
+Design and implementation of digital computer circuits via CAD tools for programmable logic devices (PLDs). Basic computer design with its datapath components and control unit. Introduction to assembly language programming of an off-the-shelf RISC-based microcontroller.
+/
+Computer Architecture
+In-depth study of the instruction set architecture and hardware design of a specific CPU. Introduction to pipelines, input/output and multi-processors. Computer abstractions and performance measurement.
+/
+Microcontroller-Based Systems Design
+Design, implementation and testing of microcontroller-based systems. Hardware and C software for embedded systems to sense and actuate external devices. I/O common embedded systems to interface I/O devices and protocols.
+/
+Systems Programming
+C programming language from a system programming perspective. Standard C language including operators, I/O functions, and data types in the context of system functions. Unix commands, shell scripting, file system, editors
+/
+

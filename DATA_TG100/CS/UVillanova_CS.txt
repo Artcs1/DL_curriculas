@@ -1,0 +1,83 @@
+Algorithms and Data Structures I 
+Object-oriented design: objects, classes, methods, encapsulation; programming fundamentals: data, variables, selection, loops, arrays, input/output; basic graphics and exceptions. 
+/
+Enrichment Seminar 
+Skills for success in computing: research questions and methodologies, oral and written presentation techniques, argumentation and critical thinking, time and project management strategies, study skills. 
+/
+Knowledge, Reality, Self
+Philosophical responses to the questions of how we can know, what is real, and what is the nature of human existence that explore the dialogue between Catholic, Christian, secular and skeptical perspectives on these questions. 
+/
+Calculus I 
+Limits, transcendental functions (logarithms, exponential functions, inverse trigonometric functions), differentiation (definition, tangent lines, rates of change, techniques, implicit differentiation, related rates), applications of differentiation (graphing, optimization), indeterminate forms and L'Hopital's Rule. Use of a computer algebra system, eg. MAPLE.
+/
+Ancients 
+A Humanities seminar based principally on texts and readings drawn from primary sources up to 1650. Extensive written work and seminar discussions. Required readings: Hebrew and Christian scriptures, selections from the works of Augustine, Greek and Renaissance works. Readings from different genres and disciplines. Themes developed by the instructor in accordance with the selected readings.
+/
+Algorithms and Data Structures II
+Object-oriented design: inheritance, interfaces, polymorphism; problem analysis; recursion; abstract data types; dynamically linked structures; data structures: stacks, queues, lists, collections, trees. 
+/
+Discrete Structures 
+Mathematical structures that support computer science: sets, matrices, trees, graphs, logic and proof, mathematical induction, relations, functions, sequences, summations, and elementary combinatorics. 
+/
+Faith, Reason, Culture
+Study of Christianity with a particular focus on Roman Catholicism, animated by Augustine's concern to relate Christian faith, reason and human culture, using various disciplinary approaches within the fields of theology and religious studies. 	
+/
+Moderns 
+A Humanities seminar based principally on texts and readings drawn from primary sources 1650 to the present. Extensive written work and seminar discussions. Readings from each of the following five historical eras: Early Modern, Enlightenment, Romantic, Modernist, Contemporary. Readings will also reflect different genres and disciplines. Themes developed by the instructor in accordance with the selected readings, including a specific Augustinian theme. 
+/
+Computing Systems I 
+Architecture of computer systems: representation of data; processor, memory and I/O organization. Assembly language programming. C programming language constructs and their relationship to the underlying architecture. Basics of operating systems: interrupts, concurrency, process scheduling, security, networking. 
+/
+Platform Based Computing 
+Topics include maps, hash tables, graphs, concurrency/ interference/synchronization, internet programming and security. 
+/
+Ethics 
+Major Western ethical traditions as they apply to selected contemporary ethical problems, with special consideration to Jewish and Christian perspectives. 
+/
+The United States to 1877
+For AP and transfer credit only. Does not fulfill Arts and Sciences core history requirement. 
+/
+Computing Systems II 
+Processes, threads and concurrent programming. Scheduling and dispatching. Linking and relocation. Memory management. Virtual memory. System-level I/O Device management. File systems. Security and protection in depth. Real-time and embedded systems. System performance evaluation. Scripting. 
+/
+Design and Analysis of Algorithms 
+Efficiency classifications and mathematical analysis of recursive and nonrecursive algorithms; design techniques: brute force, greedy, divide-and-conquer, dynamic programming, backtracking, branch-and-bound, space and time tradeoffs; NP-completeness; approximation algorithms; computational problems: sorting, searching, string processing, graphs, arithmetic, linear algebra. 
+/
+Sophomore Writing seminar
+/
+Programming Languages 
+High level language features: data types, control structures; formal lexical and syntactical analysis; operational semantics; language translation.  
+/
+Theory of Computation 
+Finite automata and regular expressions; push down automata and context-free grammars; Turing machines; Church's thesis; computability; NP-completeness.
+/
+Database Systems
+Concepts and technology of database management systems; data modeling with an emphasis on the relational model; database querying and normalization; physical data organization.
+/
+Genesis to Judges
+Critical analysis of Genesis through Judges. Historical and archaeological focus with topics including Creation, Flood, Abraham and Sarah, Isaac and Rebekah, Moses, Exodus, Covenant, Joshua, the judge Deborah, Samson and Delilah and others with social, political and religious life situations of these.
+/
+Software Engineering 
+Management and production of software systems; the software life cycle; software design techniques and methodologies; participation in a team software development project.  
+/
+Network Management & Performance 
+Monitoring and management of computer networks and network devices; SNMP, CMIS CMIP network management protocols and services; Management Information Base (MIB) development; performance analysis including queuing models; comparison of channel access protocols; other related topics as selected by the class. This is frequently run as a seminar requiring a significant paper or project, consistent class preparation and participation. Prerequisites: statistics, probability. 
+/
+Linear Algebra for Computing 
+Fields, vectors, matrices. Structures and computations in a high-level language for these mathematical objects. Computational applications including image morphing, page rankings, compression, search in images, graph manipulation. 
+/
+Ethical Issues in Computing 
+Codes of professional ethics, unauthorized access, ownership of software, and the social responsibility of computing professionals.  
+/
+Senior Project 
+Capstone course centered around a semester long sofware development or research project; project planning; requirements elicitation and specification; teamwork; oral presentations required of all students. 
+/
+User/System Interface
+The design and measurement of human-computer interfaces, with the objectives of developing models of user communities, summarizing current research in user-oriented design, defining design criteria for the user/system interface, and constructing test strategies for interactive software systems. 
+/
+Advance Systems Program
+The UNIX kernel: architecture, inodes, process control, memory management, I/O subsystem. System calls in C: execution environment, memory management, terminal control, locking, file management, process management, interprocess communication. C libraries. Program development and debugging tools. 
+/
+Expert Systems
+Knowledge representation and reasoning techniques; forward and backward chaining; semantic net and frame systems; uncertainty, automated knowledge acquisition; practical guidelines for implementing expert systems.
+/

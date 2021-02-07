@@ -1,0 +1,146 @@
+College Composition I
+This course introduces students to a variety of writing forms and emphasizes writing as a recursive process of exploring,
+researching, drafting and revising. Students produce purposeful, literate, well-developed, and informed writing that requires
+critical reading, thinking and writing activities. The course also emphasizes responsible evaluation and use of information.
+Course requirements include a portfolio comprised of works created during the semester. Students are placed in the course
+based on the Writing Arts placement criteria.
+/
+College Composition II
+The course emphasizes argumentation and information literacy. It introduces students to
+argumentative strategies, asks them to identify and analyze forms of argumentation, and requires them to write a variety of
+well-researched and ethically responsible arguments. Students will work to become independent researchers who can find
+relevant information from a variety of sources (both academic and non-academic, traditional text and digital) and evaluate
+and present that information to an academic audience. Course requirements include a portfolio comprised of works created
+during the semester.
+/
+Calculus I
+Calculus is a subject about functions. This course deals primarily with the two most fundamental concepts in Calculus:
+derivatives and definite integrals. It begins with a discussion of notions of the limit and continuity of a function. Then the
+definition of a derivative is introduced, and techniques of computing derivatives are studied. Through applications to
+analysis of functions, optimizations and problems in sciences, a student can appreciate the importance of the derivative. The
+concept of a definite integral as a limit of approximating sums emerges naturally in the context of problems of areas. Hidden
+links between the two concepts are formulated in the Fundamental Theorems of Calculus, which also provide a convenient
+shortcut for computing definite integrals. A graphing calculator is required for this course, and so is the use of computer
+software, such as Mathematica.
+/
+College Algebra
+This course is designed to help students who are weak in algebra prepare for Statistics I or Calculus Techniques &
+Applications. The contents include: a brief review of intermediate algebra, the structure of the real number system,
+elementary analytic geometry, and algebraic, exponential and logarithmic functions (including their inverses and related
+functions). Graphs of functions are also studied. A graphing calculator is required. Students are expected to have completed
+Basic Algebra II or its equivalent.
+/
+Enterprise Computing I
+This course will acquaint students with data representation, data organization and data storage utilizing basic data
+structures. Students will perform basic file manipulation by reading data from files, writing data to files and data file
+formatting. Students will also understand basic logic, basic object oriented design and programming and the concepts of
+software engineering
+/
+Lab Science
+Lab Science
+/
+An Introduction To Economics-A Macroeconomic Perspective
+This course analyzes the overall level of economic activity in the United States and examines its major determinants, public
+stabilization policies, economic growth and international trade
+/
+An Introduction To Economics-A Microeconomic Perspective
+This course analyzes resource allocation among alternative uses. It studies consumer demand, product and factor price
+determination, general equilibrium and optimal income distribution.
+/
+Principles Of Marketing
+This course provides an overview of the theory and practice of marketing within a corporate and societal context in a
+dynamic environment. The major functions of marketing are covered from the perspective of management strategy seeking
+competitive advantage.
+/
+Principles Of Accounting II
+This course includes accounting theory and practice applied to corporations and public agencies; budgeting and
+estimating; analysis and comparison of cost and financial data.
+/
+Principles Of Accounting II
+This course includes accounting theory and practice applied to corporations and public agencies; budgeting and
+estimating; analysis and comparison of cost and financial data.
+/
+Management Information Systems
+Information systems are an integral part of all business activities and careers. This course is designed to introduce students
+to contemporary information systems and demonstrate how these systems are used throughout organizations. This course
+focuses on the key components of information systems - organizations, people, software, hardware, data, and
+telecommunications - and how these components can be integrated and managed to create competitive advantage. Students
+will gain hands-on experience with business software tools commonly applied to business data analysis and database
+/
+Legal Environment Of Business
+Students in this course examine the legal process and the legal environment within which business must operate, as well as
+the interrelationship of government and business. Students develop an understanding of the methods by which legal
+decisions are formulated as they affect both individual rights and business transactions
+/
+Organizational Behavior
+This course examines human relations in management. The course studies the concern for both task and process in the
+light of structure, goals and human relationships found in organized efforts. It also covers the application of new
+management theories in the areas of motivation, leadership and group problem-solving by a variety of means, including
+simulation, case studies, and role playing
+/
+Principles Of Finance
+This course includes the following topics: financial goals; depreciation, taxation and cashflows; financing the firm via
+short-term, intermediate and long-term debt, and preferred and common stock; capital budgeting and leasing; dividend
+policy; business growth and contraction.
+/
+Operations Management
+This course provides a critical study of the operational functions of the business enterprise. Its topics include capital costs
+and investment criteria, plant location and layout, process planning and production design, job designs, work methods and
+cost controls
+/
+Business Policy
+This capstone course in business policy provides students with an opportunity to integrate what they have learned in
+separate business fields and use this knowledge in the analysis of complex business problems. There is an emphasis on the
+skills of identifying, analyzing and solving problems which are not pre-judged as being marketing problems, finance
+problems, etc. Students are encouraged to consider issues from the viewpoint of general management rather than as a
+functional specialist or researcher.
+/
+International Marketing
+Basic marketing concepts as they relate to foreign markets are analyzed in depth in this course. Two approaches are used:
+the environmental approach introduces the setting in which international marketing takes place; and the managerial
+approach incorporates marketing strategies of firms that choose to venture abroad.
+/
+Design Of Database Systems
+This course explores the fundamentals of designing a database for a business organization. It emphasizes the relational
+model; however, the course also explores the hierarchical and network models. Additionally, the course covers such topics as
+recovery, integrity, security, concurrency, distributed databases, data dictionaries and the role of the database administrator.
+/
+Business Systems
+This course introduces students to the different tiers of an information system, with specific emphasis placed on design
+concepts and tools used to develop the presentation tier for web-enabled business information systems.
+/
+Principles of System Design
+This course explores the methodology and techniques in analysis and design of computer information systems. The
+systems analyst, the architect of information systems, is a liaison between user and programmer. The roles and
+responsibilities of the systems analyst are emphasized at all stages of the systems development life cycle.
+/
+Advanced Database Management
+The course provides students with a hands-on experience of designing, creating, and querying a relational database using a
+reputable relational database management system. Students also learn to use advanced Structured Query Language (SQL) to
+access and manipulate data. A basic understanding of relational database concepts and the logical design process are
+expected.
+/
+Network Management
+This course introduces students concepts associated with managing a network within a business setting. Furthermore, to
+solve business problems, students will apply theoretical concepts to fully design, specify, and justify networking solutions.
+/
+Project Management
+In this course, students will learn the Project Management Body of Knowledge (PMBOK) as put forward by the
+professional association, the Project Management Institute (PMI). Students will not only study the various phases and
+documents of project management, they will also have experience creating each of the documents for a given project.
+/
+E- Business: IS Perspective
+E- Business: IS Perspective
+/
+Business Web Application
+Students will learn how to create web pages with various types of functionality as required in the business environment.
+Students will create web pages to display a business' catalog, allow customers to select and place items in a shopping cart,
+etc. Huban factors will be considered for all design aspects
+/
+MIS Capstone Experience
+MIS Capstone Experience
+/
+MKBI Emgagement Experiences
+MKBI Emgagement Experiences
+/
+

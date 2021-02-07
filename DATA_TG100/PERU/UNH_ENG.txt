@@ -1,0 +1,354 @@
+﻿BASIC MATHEMATICS I
+Real numbers and the application of their properties in solving equations and
+inequalities. Analytical geometry: Cartesian plane coordinate system; distance between two
+points; geometric places; equation graph; the straight line; circumference, parabola, ellipse e
+hyperbola; polar coordinates.
+/
+METHODS AND STUDY TECHNIQUES
+Fundamentals of Method, Technique and Strategy.
+Factors that influence the study: Internal and External.
+How to study: Learning and study methods. The reading.
+Techniques to study: Underline, synthesis, concept maps, summary, signing, group work,
+Expository
+/
+SYSTEM PHILOSOPHY
+Fundamentals of Philosophy: Origins and limits. Who am I?
+History of Philosophy.
+Contribution of the Presocratics. What does it mean to be a professional in Systems Engineering?
+The Socratic Method. Aristotle's philosophy. Medieval Philosophy Scholastic Philosophy Philosophy
+Renaissance.
+Modern Philosophy Contemporary Philosophy Phenomenology. Latin American Philosophy Peruvian philosophy.
+/
+ALGORITHMS AND PROGRAMMING TECHNIQUES
+Fundamentals of computer science and algorithm.
+Algorithm representation: Flowcharts, pseudocode and N-S diagram, others.
+Classes and Objects: Concepts, Properties and methods.
+Control algorithms and repetitive algorithms.
+Arrangements: Unidimensional (Vectors) and algorithms with vectors, ordering and search.
+Two-dimensional arrangements (matrices): Most common operations with a matrix and with several matrices.
+Chains and Dates.
+Files
+/
+BASIC MATHEMATICS II
+Complex numbers; system of linear equations; Vectors in the plane and in space. Matrices and
+determinants Vector spaces - Linear transformations - Values ​​and eigenvectors.
+/
+MATHEMATICAL ANALYSIS I
+The development of the subject includes the following thematic units: Functions of real variables,
+limits, continuity, function graphs, exponential and logarithmic functions, functions
+trigonometric, derivatives, applications of the derivative: maximum and minimum.
+/
+COMMUNICATION TECHNIQUES
+Communication and its importance: Purposes, elements, types and importance of communication.
+Communication functions and requirements for effective and efficient linguistic communication.
+Oral Communication: Elocution, techniques, public speaking modalities, Exhibition or dissertation practice.
+Writing: spelling of the word, speech and its importance. Properties and Requirements of the
+writing, text structure, intra-textual relations, composition techniques, writing
+Work documents.
+/
+PROGRAMMING LANGUAGE I
+Problem solving methods: "Divide and conquer."
+Object-oriented programming (OOP): classes and objects, methods.
+Inheritance and Polymorphism: overload and over position of methods and overload of builders.
+Encapsulation; introduction to exception handling
+Dynamic polymorphism: overload and over position of methods and overload of builders. Management
+Bits
+Use of a predefined library to help solve moderately complex problems (collections,
+math, character strings)
+File handling: sequential streams (byte and character), random access files, streams
+tokens, pipes, serialization.
+/
+SYSTEM THEORY
+History of General Systems theory, main representatives and contributions to the
+Systems Engineering, Objectives of the General Systems Theory. Systems thinking. Focus
+of the systems. What is a system, definition of a system, Subsystem, Levels of organization,
+System boundaries, properties, Open Systems and Closed Systems. Synergy Recursiveness.
+System Elements Entropy and neguentropia, principles of organicity. Control Subsystem
+Problemology, Introduction to the MSB, Introduction to the MSV.
+/
+STATISTICS AND PROBABILITIES
+Treatment
+and data analysis, from its collection, processing, presentation, conclusions and
+some generalizations and interpretations of results, related to Systems Engineering. For
+The practical development will use advanced software tools such as: SPSS, Minitab and Stackpack.
+The contents of the Statistics and Probability course are divided into two thematic units:
+Descriptive Statistics: basic concepts, frequency distributions and graphs, trend measures
+central, dispersion, and asymmetry, two-dimensional distributions, correlation and regression.
+Probability: axiomatic concept, conditional probability, bayes.
+Simple linear regression model. Graphic representation. Analysis of
+Correlation. Interpretations of the regression and correlation coefficients. Determination Coefficient
+/
+MATHEMATICAL ANALYSIS II
+Integration Methods Defined integral applications. The indefinite integral and its
+main solution methods and techniques, the definite integral and its applications in the Engineering of
+Systems
+Differential Equations: First order and first degree, first order and higher degree, of order
+Superior applications
+/
+GENERAL PHYSICS
+This subject is of great importance because it will help the student to understand the basis on which
+The current science and technology in the world is grounded. In the race it will serve to analyze with criteria
+technical and scientific the most recent contributions of the physical sciences and their possible applications in the
+different problems that arise in the activities inherent to Systems Engineering. The
+Subject contains: Newton's laws. Kinematics. Dynamic. Work and energy
+/
+GENERAL ADMINISTRATION
+The subject contains: Introduction to administration; Administration and managers, Theory evolution
+Administrative The administration in the 21st century; Natural organizational environment, Globalization and l
+administration, foreign trade and administration, Invent and reinvent organizations, culture
+Organizational, Quality approaches, Social and ethical responsibility. The Planning; Decision making,
+Strategic planning and administration, Implementation of strategies. The organization; design and
+Organizational structure, Power and Distribution of authority, Resource Management, Administration
+of Change and Organizational Innovation. Direction; Motivation, Leadership, Teams and teamwork,
+Communication and negotiation. The control; Effective control, Operations management, Systems
+Information.
+/
+ECOLOGY AND SUSTAINABLE DEVELOPMENT
+Ecology. Definition. Origin and history Importance. Relationship with other sciences. Division: Auto ecology and
+Without ecology. Ecological systems Models and components. Ambient.
+Community. Ecological succession: primary and secondary succession. Climax community. Biocenosis Biotope
+Energy flow in the environment. Food chains. Trophic plot. Ecological pyramids Key species.
+Dominant species. Primary and secondary production. Ecological efficiency.
+Ecosystem. Definition. Ecosystem models Circulation of energy Earth Ecosystems and
+aquatic
+Environmental problems in the world. Environmental problems in Peru. Environmental law. General Law
+of Environment No. 28611 (October 13, 2005).
+Sustainable development. Definition. Beginning. Background. Features.
+Environmental education. Environmental awareness. Environmental defense
+Eco development: national strategy. Politics and environment. Economy and environment Personal ethics and environment.
+/
+
+DATA STRUCTURE
+Algorithm analysis and data abstraction.
+Recursion
+ADD list, stack and queue
+Open type dispersion tables, the whole ADD.
+Binary trees, n-Aryan trees, Graphs.
+/
+DATABASE SYSTEMS
+The subject contains: Relational Model: Domains, Values. Relational Algebra Relational Calculation
+Integrity. Relationship Entity Diagrams, Database Design: Functional Dependencies,
+Database Standardization, Database Query Languages, Network Database, Design
+Database, Database Creation and Management.
+/
+INFERENTIAL STATISTICS
+In a process of economic globalization, where companies to stay in the market have to
+to achieve the highest level of competitiveness, it is vital to study the procedures, and models
+statistics offered by statistical inference for decision making.
+The subject contains:
+Random variables: discrete distributions (binomial, pisson, hypergeometric), continuous distributions
+(uniform, exponential, gamma, beta, chi-square, t-student, F).
+Statistical Inference: sampling, statistical estimation (punctual and by intervals), hypothesis tests.
+Experiment Designs: Goodness Tests of Adjustment to Normal. Homogeneity Tests of
+Variations
+Random Complete Block Design (D.B.C.A.). Concepts Methodology. Applications. Test of
+comparison of sample means.
+Nonlinear and Multiple Regression Model.
+Time Series. Trend Analysis. Cyclic Variation Seasonal variation. Irregular variation.
+/
+GENERAL ECONOMY
+Proportional to students the basic concepts of economics formalizing them with microeconomics and
+macroeconomics, in order that the understanding of economic activities, variables and
+economic indicators be an instrument of analysis to understand and understand microeconomics and
+macroeconomics, as well as identifying a methodology for its analysis.
+The subject contains:
+Introduction - The Economy - Global Framework - Microeconomics - Macroeconomics - Finance - Development
+Economic - International Commerce
+/
+DIGITAL CIRCUITS AND SYSTEMS
+Electronics / Electronic Components.
+Measuring Instruments / Electrical Circuits / Sources.
+Boolean algebra, Logic gates, Combinational circuits, Sequential circuits, Circuits
+sequential integrated circuit: registers, counters, MSI circuits. Arithmetic circuits, Devices
+of memories, Introduction to the computer.
+/
+COST ACCOUNTING
+Fundamental concepts of Cost Accounting.
+- Costs in Accounting and Costs in Economy.
+- Direct and Variable Costing.
+- Cost Accounting Cycle.
+- Analytical Accounting of Exploitation
+- Accounting and Materials Control.
+- Accounting and Control of Direct Labor.
+/
+Informatic RIGHT
+Legal Generalities, Guarantees to private investment. Legal forms of business activity. He
+individual entrepreneur. The corporate law. Securities and securities. Legal norm and free competition. The system
+tax. Constitutional regime of taxes The income tax. Tax on the sales. Legislation
+labor.
+Computer Law and Digital Law.
+Legal Protection of material and intangible assets.
+Copyright. IT contracts and electronic contracting. Cybercrime. The
+Taxation and computing. Computer Ethics
+/
+PROGRAMMING LANGUAGE II
+Introduction to relational database management (RDBM).
+Client server applications: Database Management through GUI.
+Database Management Web Application.
+Development and Consumption of Web Services
+Integral Application Project
+/
+ORGANIZATIONAL SYSTEMS
+The contents of the subject are Organizational Framework; Systems theory and organization; Systems
+of Planning; Organization Systems; Information system; Procedures manual; System
+Psychosocial; Control system.
+/
+OPERATIONS RESEARCH
+Mathematical models and systems.
+Solution of linear programming models and sensitivity analysis.
+Group decision making.
+Dynamic programming
+Graph and network models.
+/
+MARKETING
+The subject is part of the commercial area, theoretical and practical, oriented to develop in the
+creativity and innovation student with a vision of the future and
+enable it to study and evaluate the variables of the environment, developing competitive strategies in the
+market; for this, the learning units are listed
+which will allow you to evaluate them:
+Develop the following learning units:
+The consumer and the market in which it interacts.
+The variables of marketing.
+Determination of sales prices.
+The distribution, communication and controls of commercial action.
+/
+COMPUTER ARCHITECTURE AND OPERATING SYSTEMS
+Develop the following learning units:
+Unit 1: Concepts and theoretical foundations of Computer and Network Architecture. Basic Structure
+of a computer.
+Microprocessor Architecture.
+Structure of the Operating Systems
+Processor Administration.
+Memory Administration.
+Organization and Administration of Memory.
+Organization and administration of Entry / Exit.
+Distributed Operating Systems.
+/
+INVESTIGATION METHODOLOGY
+Introduction to the course, the role of thinking and research, Reality in which we do research,
+Scientific, technological research, ortos. Methods and Methodologies, The problem; Identify, Name,
+Formulate, Justification. The reference framework or comparative pattern of an Investigation, Techniques for
+present the theoretical framework, How to define the objectives of a scientific investigation, The Hypothesis of a
+Scientific research, factors and variables of a Scientific Research, The design of research,
+Techniques to present the Bibliography.
+/
+ANALYSIS OF COMPUTER SYSTEMS
+This subject is aimed at providing the student with the knowledge and methodologies
+Basics for the analysis of computer systems in private or state-owned companies, allowing you
+develop their intellectual and cognitive skills related to the development of the Systems.
+This course includes the study of software development methodologies concepts (Process
+Unified Software Development - RUP, Métrica V3, Constructionist design methodology - CDM, Agile
+Unified Process - AUP, etc.) and the use of modeling tools, code generation, testing
+/
+CYBER AND CONTROL THEORY
+Curricular component of practical theoretical nature oriented to publicize the fundamentals of the
+Cybernetics and control theory:
+Its content is: Basic notions of cybernetics; Logical theory; Biophysical theory; Analog theory: The theory
+of control.
+/
+DISCRETE SIMULATION
+Introduction to Modeling and Simulation.
+Discrete Process Simulation (Networks)
+Control of a model.
+Advanced topics in discrete process simulation.
+Logical operations and decision rules.
+Introduction to the statistical aspects of the simulation.
+Process modeling with user insertions.
+Discrete Simulation by Events.
+/
+COMPUTER NETWORKS I
+Data communication standards.
+Connectivity Technologies Local Area Networks vs. Broadband networks.
+Wireless data communication standards and Security.
+Integration of computer solutions.
+/
+LOGISTICS AND PRODUCTION
+Logistics Administration and Purchasing Function
+Warehouse Management and Inventory Control
+Models of Computer Integration and application in national and international Logistics.
+Purchases in government organizations - Law on
+Acquisitions and Contracting of the State.
+/
+SOFTWARE ENGINEERING
+The subject contains: Software engineering, software process, software process models,
+methodologies inherent in software development, Software project management, planning and
+project scheduling, measurements, metrics and indicators, software requirements, functional and
+non-functional, user and system requirements. Analysis modeling, functional modeling and
+information flow modeling, data design, architectural design, graphic interface design
+Username. Software quality assurance, Software testing techniques, Software testing techniques
+software, Software test strategies, Software maintenance and configuration management.
+/
+REQUIREMENTS ENGINEERING
+Introduction to Requirements Engineering
+Fundamentals of software requirements.
+The requirements process
+The techniques of Business Modeling and Specification of Use Cases
+Elicitation of Requirements
+Acquisition of requirements
+Requirements Analysis
+Requirements Specification
+Documentation and specification of requirements
+Requirements specification tools
+Validation and Requirements Management
+Requirements Validation
+Requirements Management
+/
+DYNAMIC OF SYSTEMS
+Introduction, resource input, output and result, program and mission components, models
+Mathematicians in the social sciences, model and decision making, mental models and formal models,
+models in social systems, sensitivity of social systems, dynamic system, elements and
+relationships, causal diagrams feedback loop classes, forrester diagram, levels, variables
+of flow, auxiliary variables, elementary structures, first order systems, first order systems
+with positive power, second order systems.
+/
+ARTIFICIAL INTELLIGENCE
+The subject is oriented to give the knowledge of models that allow us to reproduce the form of
+human reasoning to apply it in solving real problems, through software development
+applicable
+The content of the subject is:
+Representation of knowledge. - Smart Agents. - Expert systems. - Expert systems and bases
+of data - Artificial intelligence techniques: Neural Networks, Diffuse Logic, Robotics.
+/
+BUSINESS INTELLIGENCE
+Management Models: Strategic, Technology, Marketing, Supply, Operations,
+Finance, Human Resources, Project Management.
+Business Support Systems: ERP, SCM, CRM, eBusiness, BSC, BI.
+Business Intelligence Systems: DataWarehouse, Datamart, Scorecards, Data systems
+Enrichment The Balanced Scorecard.
+DataWarehouse modeling, architectures and concepts of ETL storage and deployment of
+information.
+Data Mining: Fundamentals, Classification Models, Regression Models, Association Models,
+Grouping models.
+Presentation of the prototype of the Business Intelligence System project developed.
+/
+DISTRIBUTED SYSTEMS
+Distributed, able to meet the needs of an organization to support development of
+distributed applications based on emerging technologies.
+The contents of the course are divided into five thematic units:
+Fundamentals of Distributed Systems: Concept, transparency, taxonomy, client-server model,
+peer-to-peer model.
+Communication in Distributed Systems: RPC, RMI, OMA Architecture, CORBA, DCOM. Processes,
+Synchronization. File System. Consistency and Replication Fault tolerance, Security.
+Frameworks for distributed application development.
+Middleware technology.
+New paradigms in distributed computing: Web Services, Mobile Agents Technology.
+/
+INFORMATIC SECURITY
+Identification and Authentication Techniques.
+Network and Communications Security.
+Application level security.
+Security at Operations level.
+Attack Control
+Security Administration
+/
+BUSINESS UNDERTAKING AND SIMULATION
+Introduction to the entrepreneurial process
+Business model: where are the keys to success?
+The business plan: the cover letter
+Financing
+Legal aspects
+Initiation of activities
+Optimizing working capital
+Management for people
+/
+

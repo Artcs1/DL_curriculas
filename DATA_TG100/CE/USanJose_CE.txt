@@ -1,0 +1,115 @@
+/
+American Cultures to 1877
+American culture examined through political, literary, artistic, economic and social development. American values, ideas and institutions from popular culture as well as traditional sources.
+/
+American Cultures 1877 to present
+American culture examined through political, literary, artistic, economic and social development. American values, ideas and institutions from popular culture as well as traditional sources.
+/
+Engineering Reports
+Regular technical writing assignments and company-focused oral presentations while integrating effects of environmental factors as they relate to products, systems and engineering processes
+/
+The Living World
+Provides students with an understanding of the most fundamental concepts of modern biology including ecology (the interaction between organisms and their environment), human inheritance, the structure and function of living organisms, evolution, strategies for survival and reproduction, and biotechnology
+/
+Argument and Analysis
+is a writing course that focuses on argumentation and analysis. Through the study of literary, rhetorical, and professional texts, students will develop the habits of mind required to write argumentative and critical essays. Particular emphasis is placed on writing and reading processes. Students will have repeated practice in prewriting, drafting, revising, and editing, and repeated practice in reading closely in a variety of forms, styles, structures, and modes.
+/
+Engineering Probability and Statistics
+Probability theory, graphical displays of data, graphical methods of comparisons of samples and hypotheses testing. Statistical estimation and inference. Uses graphical statistical packages.
+/
+Calculus I
+Introduction to calculus including limits, continuity, differentiation, applications and introduction to integration. Graphical, algebraic and numerical methods of solving problems.
+/
+Calculus II
+Definite and indefinite integration with applications. Sequences and series. Graphical, algebraic and numerical methods of solving problems
+/
+Calculus III
+Functions of more than one variable, partial derivatives, multiple integrals and vector calculus. Graphical, algebraic and numerical methods of solving problems.
+/
+Discrete Mathematics
+Sets, logic, methods of proof including mathematical induction, functions, relations, elementary combinatorics, probability, Boolean algebras
+/
+Differential Equations and Linear Algebra
+Matrices, determinants, systems of linear equations, vector geometry, linear transformations, eigenvalues and eigenvectors, diagonalization, first order differential equations, linear systems of differential equations, higher order differential equations, Laplace transforms.
+/
+General Physics/Mechanics
+A calculus-based treatment of particle kinematics and dynamics, work, energy, momentum, rotational motion, equilibrium, and simple harmonic motion
+/
+General Physics/Electricity and Magnetism
+A calculus-based introduction to electricity and magnetism, covering electric charges, electric and magnetic fields, dc and ac circuits, and electromagnetic waves. Intensive Science
+/
+Programming Concepts and Methodology
+Introduction to programming; overview of computer organization and introduction to software engineering. Topics include methodologies for program design, development, style, testing, and documentation; algorithms, control structures, functions, and elementary data structures.
+/
+Object-Oriented Concepts and Methodology
+Application of object-oriented software engineering techniques to the design and development of larger programs; data abstraction, structures, classes and associated algorithms.
+/
+Introduction to Engineering
+Introduction to engineering through hands-on design projects, case studies, and problem-solving using computers. Students also acquire non-technical skills, such as team skills and the ability to deal with ethical dilemmas
+/
+Introductory Electrical Engineering Laboratory
+Basic instruments and experimental techniques in electrical engineering. Oscilloscopes, function generators, frequency counters and multiple-use meters. Measurements of voltage, current, frequency response, transient response and computer simulation of circuits.
+/
+Introduction to Circuit Analysis
+Circuit laws and nomenclature, resistive circuits with DC sources, ideal operational amplifier, controlled sources, natural and complete response of simple circuits, steady-state sinusoidal analysis and power calculations. 
+/
+Assembly Language Programming
+Assembly programming; assembly-C interface; CPU and memory organization; addressing modes; arithmetic, logic and branch instructions; arrays, pointers, subroutines, stack and procedure calls; software interrupts; multiplication, division and floating point arithmetic.
+/
+Electronics for Computing Systems
+RC, RL and RLC circuit analysis, diodes and diode circuits, MOSFET and bipolar transistor I-V characteristics and circuits, CMOS logic circuits, CMOS-TTL interface, sensors and signal conditioning circuits using operational amplifiers, A/D and D/A converters, electromechanical device control.
+/
+Digital Design I
+Combinational and sequential logic theory and circuits. Emphasis on mixed logic and algorithmic state machines. Design projects using standard integrated circuit packages.
+/
+Digital Design II
+Digital system building blocks, data path and control units, system-level RTL design, Verilog HDL for design and verification, contemporary design flow and methodology, lab experiments using industry standard CAD tools and field programmable gate array (FPGA) devices. 
+/
+Algorithms and Data Structure Design
+Object-oriented data organization and representation as strings, arrays, stacks, queues, dequeues, lists, sets, trees, tables, and graphs. Sorting and searching and algorithm design and performance analysis.
+/
+Microprocessor Design I
+Microprocessor architecture and assembly language. Design of peripheral blocks and their interfaces to the microprocessor. Design projects using standard integrated circuit packages.
+/
+Advanced Algorithm Design
+Design and analysis of data structures and algorithms. Advanced tree structures, hashing, searching and sorting. Divide-and-conquer, greedy and dynamic programming algorithm design techniques.
+/
+Software Engineering I
+Why software engineering? What is software engineering? Software development lifecycle activities: project planning and management requirements analysis, requirement specification. Software design, software testing, verification, validation, and documentation. Software quality assurance and review techniques, software maintenance, team-based projects
+/
+Computer Architecture and Design
+Pipelining and timing issues in CPU data-paths. Principles of RISC-type CPU instruction set and architecture. Structural, data and control hazards in a RISC processor, forwarding loops, branch mechanisms. Memory architectures in CPUs such as register files and caches.
+/
+Operating Systems Design
+Overview: history, concepts, system calls and structures. Management of major components: processes, memory, input/output and files. Design of system calls and device drivers for hardware dependence. Concepts of kernel and shell, file protection and interactive computation.
+/
+Real-Time Embedded System Co-Design
+Embedded system architecture with real-time operating system including microcontrollers, interfacing techniques for industrial applications using transducers, sensors, and A/D-D/A converters. Hardware/software integration and codesign.
+/
+Computer Networks I
+Comparative evaluation of network architecture, layering model, standards, protocol examples for ISO and TCP/IP layers. Network applications, transport layer protocols, Internet routing, data link and physical transmissions. Applications in world wide web, file transfer, electronic mail, peer-to-peer and other areas. 
+/
+Compiler Design
+Principles of lexical analysis, finite state automata and parsing; issues of variable declarations, variable types, control statements, function calls, nested scopes and efficient assembler target code.
+/
+Senior Design Project I
+Senior Design Project I
+/
+Senior Design Project II
+Senior Design Project II
+/
+Global and Social Issues in Engineering
+Interdisciplinary seminar treating social and global impacts of technology and engineering. This integrated GE experience requires students to apply these concepts in their senior project classes. Students must enroll concurrently in their department senior project course
+/
+Global and Social Issues in Engineering
+Second course in a two-course sequence to support the integration of General Education Area S and Area V into the engineering major. Case study approach to the relationship of engineering to social, ethical and cultural aspects of the broader community both in the U. S. and worldwide.
+/
+Artificial Intellegence
+Artificial Intellegence
+/
+Computer Vision
+Computer vision
+/
+Natural Language Processing
+Natural Language Processing
+/

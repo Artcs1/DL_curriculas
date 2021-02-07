@@ -1,0 +1,102 @@
+Public Speaking
+The nature and problems of public speech communication, with practical experience in representative speaking situations.
+/
+Electrical and Computer Engineering Seminar
+Introduces first year and transfer students to different aspects of Electrical Engineering and Computer Engineering programs and exploration of career paths and professional responsibilities.  Presentations will be made by the instructor, faculty, and industry speakers.
+/
+Introduction to Electrical and Computer Engineering
+Introduction to information and concepts of general use in Electrical and Computer Engineering.  Topics include: basic use of personal computers, mathematical concepts, development of problem solving skills with professional communication.  
+/
+Introduction to Programming for Engineers
+Introduction to computer programming with emphasis on algorithms and an understanding of underlying hardware. Topics include syntax, variables, control structures, pointers, operators, functions, and input and output. 
+/
+Electric Circuits
+Topics include: Basic circuit laws and theorems, nodal analysis, op-amps, natural and forced responses of first and second order systems, phasor concepts, solution of steady-state AC circuits, AC power calculations, frequency response, basic filters, Bode plots, and Fourier Series.
+/
+Sequential Logic Systems
+Methods of design and testing for logic systems with memory. Includes procedures and the design of system tests, combinational design, multi-level circuits, logic minimization, sequential design, analysis and optimization and the use of computer tools for logic design. 
+/
+Electrical Circuits Laboratory
+Lab exercise and circuit simulations demonstrate concepts presented in ECE 210.  Participants become familiar with circuit simulation, safety and grounding considerations, instrumentation, e.g., oscilloscopes, signal sources, multimeters, and signal analyzers.  
+/
+Microcomputer Architecture and Applications
+The microcomputer and its component parts including microprocessors, registers, memory and I/O.  Programming in C and Assembly and applying the microcomputer in engineering systems.
+/
+Electronics I
+Investigates semiconductor fundamentals of the p-n junction, BJT and MOSFET. Static and low frequency dynamic models are developed and utilized in design and analysis. Explores basic electronic circuit building blocks based on diodes, BJT’s MOSFET’s and fully-compensated op-amps. Digital efforts are concentrated in the CMOS and pseudo-NMOS areas.
+/
+Computer Architecture and Organization
+Evolution, design implementation, and evaluation of state-of-the-art systems; the organization and structure of computer systems; the architecture of single-processor computer systems; Memory Systems, including interleaving, hierarchies, virtual memory and cache implementations; Communications and I/O, including bus architectures, disk arrays, and DMA. 
+/
+Signals and Systems
+Analysis of continuous linear time-invariant systems including Fourier series, Fourier transforms, Laplace transform techniques and their applications; transformation and properties of continuous signals and systems, convolution, transfer functions and state variable system representations. 
+/
+Introduction to Unix Systems Administration
+Topics include hardware and devices, file systems, user management, backup and recovery, application management, and network services such as NFS, NIS, DNS, DHCP, electronic mail and web servers. Problem solving and diagnostic methods, performance tuning, legal and professional issues, ethics and policies and security aspects of hosts on the Internet are discussed. Students gain hands-on experience and complete a project.
+/
+Computer Engineering Design Project
+First of a three semester sequence of courses involving the design, implementation and reporting of an engineering device, system or software package by an individual student or small group.  Part one: project selection, feasibility studies and proposal writing.
+/
+Hardware Applications Using C
+Emphasizes the use of the C programming language to control hardware devices.  Review of the necessary features of the C programming language will be included.  
+/
+Computer Engineering Design Project
+Second of a three semester sequence of courses involving the design, implementation and reporting of an engineering device, system or software package by an individual student or small groups.  Part two: resource location, module debugging, prototype testing.
+/
+Embedded Systems
+Application of micro-processors to the solution of design problems, including hardware characteristics, peripheral control techniques and system development.
+/
+Electrical and Computer Engineering Design Project
+Third of a three semester sequence of courses involving the design, implementation and reporting of an engineering device, system or software package by an individual student or small group. Part three: written and oral presentation of the completed project.
+/
+Digital Signal Processing
+A study of discrete-time signals and systems, Z-transforms, discrete Fourier series and transforms. Efficient implementations of discrete-time system and design of IIR, FIR and multirate digital filter structures.
+/
+Calculus I
+An introduction to calculus for students in mathematics, engineering, and the sciences. Covers the differential calculus of the algebraic, trigonometric, exponential and logarithmic functions, concluding with the definite integral and the fundamental theorem of calculus. The approach is intuitive and geometric, with emphasis on understanding the basic concepts of function, limit, derivative and integral.
+/
+Calculus II
+Completes the study of single-variable calculus. Topics covered include inverse trigonometric functions, hyperbolic functions, methods of integration, improper integrals, indeterminate forms, parametric equations, polar coordinates and infinite series.
+/
+Calculus III
+For students of mathematics, engineering and the sciences. Vector algebra, geometry and calculus; multivariable differential and integral calculus, including the theorems of Gauss, Green and Stokes.
+/
+Introduction to Differential Equations with Linear Algebra
+An introduction to elementary linear algebra and ordinary differential equations including applications.
+/
+Discrete Mathematics
+Topics covered typically include graphs and networks, analysis of algorithms, generating functions and recurrence relations, graph coloring, satisfiability, computational complexity, automata and languages, Turing machines and computability, and a brief introduction to the theory of NP-completeness.
+/
+Physics for Engineers and Physical Scientists I
+An introductory calculus-based physics course, primarily serving students majoring in engineering or the physical sciences. 
+/
+Physics for Engineers and Physical Scientists II
+Physics for Engineers and Physical Scientists II
+/
+College Composition
+Students practice the ways in which writing serves to expand, clarify, and order experience and knowledge, with particular attention to persuasive writing. Satisfactory completion of the course depends upon quality of weekly writing assignments as well as demonstration of proficiency in college-level writing.
+/
+Data Structures in C++
+This course introduces object-oriented programming techniques and data structures in C++.  Topics include class design, dynamic memory management, lists, stacks, queues, trees. STL, algorithm efficiency, searching and sorting algorithms.
+/
+Statistical Process Control and Analysis
+The basics of statistics and statistical process control and systems optimization will be investigated.
+/
+Feedback Control Systems
+Analysis and design of continuous control systems using transfer function and state variable system representations. Covers signal flow graphs and Mason’s gain formula, decomposition of transfer functions, controllability and observability, root locus techniques, Routh-Hurwitz criterion, Nyquist criterion, controller design in time and frequency domains, State feedback, phase lead and lag controllers, PID type controllers.
+/
+Fields and Waves
+Topics include: Transmission lines and wave propagation with special emphasis on transverse electromagnetic waves in dielectric and lossy media, complex numbers, vectors, phasors, vector calculus, Smith Chart, electrostatics, magnetostatics, Gauss’s laws, Faraday’s law, Ampere’s law, Maxwell’s equations, properties of dielectric and ferromagnetic materials, time varying fields, wave reflection and transmission, waveguides, radiation.
+/
+Introduction to Robotics
+Introduces robotics and operation of microcomputer-controlled manipulators with their applications in automation. Includes a general review of robot structure, current application of robots in automation, spatial descriptions and coordinate transformations, manipulator kinematics and solutions, robot control and path planning, dynamics and vision in robot application.
+/
+Network Engineering
+Focuses on the engineering aspects of data networks including physical media and interconnections, signals and noise, modulation, multiplexing, frame and packet transmission, routing, network design and network management.  Problem solving and diagnostic methods, legal and professional issues, ethics and policies, and security aspects of interconnected networks are discussed.  
+/
+Embedded Systems
+Application of micro-processors to the solution of design problems, including hardware characteristics, peripheral control techniques and system development.
+/
+
+
+

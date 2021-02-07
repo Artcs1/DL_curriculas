@@ -1,0 +1,115 @@
+/
+Critical Thinking in the Digital Information Age 
+Help students develop critical thinking skills using technical software. Main topics include: identifying engineering issues for investigation, developing planning and problem solving strategies, locating pertinent information and examples, critically analyzing these sources, forming and testing hypotheses, synthesizing and organizing results for effective communication, and developing transferable problem solving skills.
+/
+Introduction to Computer Engineering and Computer Science 
+Introduction to the fields of computer engineering and computer science. Current and future trends and challenges in various fields of computing. Social, ethical and economical issues related to computing technology. Exploration of career and professional development opportunities.
+/
+Introduction to Programming and Problem Solving 
+Introduction to basic concepts of computer science and fundamental techniques for solving problems using the Python programming language. Variables, data types, conditional statements, loops and arrays. Programming style. Applications to numerical and non-numerical problems.
+/
+Computer Logic Design I 
+Basic topics in combinational and sequential switching circuits with applications to the design of digital devices. Introduction to Electronic Design Automation (EDA) tools. Laboratory projects with Field Programmable Gate Arrays (FPGA).
+/
+Principles of Computer Engineering I 
+Basic principles of analysis and design of computer-based circuits. Application of transistors, logic families, digital, devices in computer and embedded processor interfacing, importance of phasors and the complex plane. Basic DC/AC circuit fundamentals. Laboratory safety.
+/
+Discrete Structures with Computing Applications 
+An introduction to discrete mathematics with applications towards computing. Topics include sets, functions, logic, relations, graphs, trees, recursion, combinatorics, and mathematical reasoning.
+/
+Discrete Structures with Computing Applications II 
+This is the second course in a two-course sequence in computing applications of discrete structures. Topics include applications of computer arithmetic and matrices in computer systems. Programming assignments in Python will be provided.
+/
+Introduction to Embedded System Programming
+Introduction to embedded system architecture, memory organization and programming using C. Interfacing with external I/O devices, Use of internal special function registers. Development tools and extended C instructions unique to embedded systems. Course will be taught using an embedded processor development board.
+/
+Introduction to Numerical Methods 
+Numerical methods for algebraic equations, computer arithmetic, error propagation, fixed and arbitrary precision, numerical integration and differentiation, ordinary differential equations, Fourier Transform, discrete Fourier Transform. Programming assignments for implementation.
+/
+Programming and Data Structures in C++ 
+Disciplined methods of design, coding and testing using the C++ programming language. Data abstraction and class design. Introduction to data structures (linked lists, stacks, queues and trees.)
+/
+Introduction to the Engineering Profession 
+Freshman orientation seminar on careers in engineering. Speakers from various fields illustrate opportunities and challenges in the engineering profession.
+/
+Academic Success Skills
+Development of skills and identification of strengths and weaknesses for success in a COE major.
+/
+Calculus I
+Derivatives and applications including graphing, related rates, and optimization. Transcendental functions. L’Hospital’s Rule. Antiderivatives. Definite integrals. Area under a curve.
+/
+Calculus II 
+Applications of the integral. Techniques of integration. Infinite series including convergence tests and Taylor series. Parametric equations. Polar coordinates. Introduces differential equations.
+/
+Mechanics and Heat 
+Kinematics, Newton’s Laws, rotational motion, fluid statics, laws of thermodynamics.
+/
+General Biology 
+Brief survey of major areas of biology including cell biology, genetics, evolution, phylogeny, plant and animal anatomy and physiology, ecology, and behavior. Specially designed for non-science majors.
+/
+PHYS 254 - Applied Modern Physics 
+Geometrical and physical optics, models of atomic and condensed matter systems.
+/
+Laboratory on Modern Physics 
+Experimental work in optics and modern physics.
+/
+General Chemistry 
+Introduction to principles of chemistry including chemical reactions, stoichiometry, thermochemistry, electronic structure, bonding, and properties of solids, liquids, gases, and solutions.
+/
+Computer Logic Design II 
+Sequential logic emphasizing Finite State Machine design & analysis, timing analysis of sequential logic, Introduction to Data Path, Control and Memory. Use of Electronic Design Automation (EDA) tools for design, simulation, verification. Laboratory projects with Field Programmable Gate Arrays (FPGA’s).
+/
+Principles of Computer Engineering II 
+Embedded system components. Bipolar and MOS devices and switching circuits. Embedded systems signal processing with operational amplifiers. Digital/analog interfacing including A/D and D/A converters. Schematic capture, analysis and implementation of embedded signal processing algorithms. Fundamentals of digital communication.
+/
+Operating Systems 
+The structure and functions of operating systems. Interrupt handling, processes and interprocess communication, memory management, resource scheduling, information sharing and protection. Project implementation in C/C++.
+/
+Embedded Systems I 
+Intro microprocessor/controller, embedded programming and design. Basic computer organization, representation of information and instruction, addressing techniques, input/output, assembly language programming. Introduction to assemblers, linkage editors and loaders. Study of the 8051. Design of microprocessor-based systems.
+/
+Embedded Systems II 
+Study of embedded processor applications and interfacing. Embedded systems design, control of external devices, embedded programming in C and assembly. A/D and D/A converters, digital signal processing, motor and LCD controllers. Laboratory implementation of embedded designs and hardware-assisted debugging.
+/
+Digital Design Techniques and Verification 
+Discussion of advanced techniques for synchronous digital design, verification of digital designs utilizing test fixtures, and the confirmation of meeting the physical constraints of timing, area and power, with an emphasis on timing.
+/
+Computer Architecture 
+Review of logic design. Register transfer and micro-operations. Basic computer organization. Central processor organization. Microprogram control organization. Arithmetic processor design. Arithmetic algorithms. Input-output organization. Memory organization.
+/
+Embedded Systems III 
+Embedded system applications and techniques. Real-time multitasking systems, schedulers, kernels, and operating systems for embedded processors. Advanced I/O technologies - CAN, I2C, Ethernet. Embedded Internet applications. Polling vs. interrupt handling. Lab implementation of embedded designs and hardware-assisted debugging.
+/
+System on Chip Design 
+Complete System on Chip (SOC) design flow from design specification to working SOC. Creation of RTL level modules designed for reuse, integration of Intellectual Property (IP) for RTL and physical level IP, IC verification, creation of self-checking test benches for designs.
+/
+Digital Signal Processing Design and Simulation
+System on Chip (SOC) design applications. Study of a variety of signal processing SOC designs and ASIC algorithms. Class projects emphasizing hardware/software integration with use of FPGA/CPLD devices. Design reviews, specification, team design implementation with project planning and tracking for system level design applications.
+/
+Computer Engineering Senior Project I 
+The first in a two-course capstone senior project in computer engineering that fulfills GE integrative learning. Students work in teams to define a problem, complete a design and provide both a written report and a multimedia presentation at the end of the semester.
+/
+Computer Engineering Senior Project II 
+Second of a two-semester capstone senior project in computer engineering that fulfills GE integrative learning. Student teams will build, program and verify operation of project started in prior design course.
+/
+Probability and Statistics with Applications to Computing 
+Applications of probability and statistics to computing. Topics include random variables and their statistics, probability distributions, Markov chains, Bayesian networks, sampling techniques, hypothesis testing, regression and analytic methods. Programming assignments using Python.
+/
+Data Structures and Algorithms
+A broad view of data structures and the structure-preserving operations on them. Abstract data types, algorithms, complexity. Programming projects to exemplify these concepts.
+/
+Introduction to Software Engineering
+Principles of software engineering, UML, modeling large software systems, requirements elicitation, object oriented analysis and design using UML, introduction to design patterns, implementation of large systems, software testing, project management, the software lifecycle. 
+/
+Selected Topics in Computer Science
+Selected Topics in Computer Science
+/
+Artificial Intelligence 
+Introduction to the history and implementation of artificial intelligence agents. Topics include search, constraint satisfaction, game-playing, logical agents, belief networks, optimal sequential decision systems. Project implementation.
+/
+Machine Learning 
+An introduction to machine learning and its applications, including supervised, unsupervised learning and deep learning. Main topics include regression, classification and neural networks. Programming assignments.
+/
+Hardware/Software Co-design 
+Introduction to top-down methods for hardware/software system-on-chip co-design. Design flow - system specification, software implementation, hardware synthesis, system design, and verification. Process optimization with various design decisions emphasized. Projects/case studies using system-level design methods and tools.
+/

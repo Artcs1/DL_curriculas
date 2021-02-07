@@ -1,0 +1,127 @@
+/
+Fundamentals of Computer Science
+Basic principles of algorithmic problem solving and programming using methods of top-down design, stepwise refinement and procedural abstraction. Basic control structures, data types, and input/output. Introduction to the software development process: design, implementation, testing and documentation. The syntax and semantics of a modern programming language. 
+/
+Introduction to Computing
+Use of a supportive software development environment to design, develop, and test applications in a selected topic domain that demonstrates the potential of careers in computing. An introduction to computing and to the selected topic domain.
+/
+Accelerated Introduction to Computer Science
+Accelerated introduction to basic principles of algorithmic and object-oriented problem solving and programming. Introduction to programming language concepts including control structures, data types, classes, and inheritance. Program design principles. Use and implementation of algorithms (searching, sorting, recursion) and data structures (lists, stacks, and queues).
+/
+Data Structures
+Introduction to data structures and analysis of algorithms. Abstract datatypes. Specification and implementation of advanced data structures. Theoretical and empirical analysis of recursive and iterative algorithms. Software performance evaluation and testing techniques.
+/
+Project-Based Object-Oriented Programming and Design
+Object-oriented programming and design with applications to project construction. Introduction to class design, interfaces, inheritance, generics, exceptions, streams, and testing.
+/
+Introduction to Computer Organization
+Introduction to computer systems. Simple instruction set architecture and the computer hardware needed to implement that architecture. Machine and assembly language programming.
+/
+Professional Responsibilities
+The responsibilities of the computer science professional. The ethics of science and the IEEE/ACM Software Engineering Code of Ethics. Quality tradeoffs, software system safety, intellectual property, history of computing and the social implications of computers in the modern world. Applications to ethical dilemmas in computing. 
+/
+Introduction to Software Engineering
+Requirements, specification, design, implementation, testing and verification of large software systems. Study and use of the software process and software engineering methodologies; working in project teams. 
+/
+Computer Architecture
+In-depth study of the instruction set architecture and hardware design of a specific CPU. Introduction to pipelines, input/output and multi-processors. Computer abstractions and performance measurement.
+/
+Discrete Structures
+Structures of computer science: logic, sets, relations, functions, graphs and trees. Propositional and predicate logic. Applications of predicate logic to preconditions, postconditions, and proof techniques. Complexity of algorithms. 
+/
+Design and Analysis of Algorithms
+Intermediate and advanced algorithms and their analysis. Mathematical, geometrical, and graph algorithms. NP-complete problems. Additional topics will be chosen from pattern matching, file compression, cryptology, dynamic and linear programming, and exhaustive search. Course may be offered in classroom-based or online format. 
+/
+Systems Programming
+C programming language from a system programming perspective. Standard C language including operators, I/O functions, and data types in the context of system functions. Unix commands, shell scripting, file system, editors.
+/
+Programming Languages
+Programming language design through evaluator implementation. Expressions, functions, environments, closures, mutation, objects, type systems, and syntactic abstraction. Syntactic, semantic, and static analysis properties.
+/
+Compiler Construction
+Intermediate code representations, memory management, functions and parameter passing, code transformations and optimizations, code generation, register allocation.
+/
+Theory of Computation I
+Theory of formal languages and automata. Turing machines. Chomsky hierarchy. Theory of decidability and computability.
+/
+Introduction to Operating Systems
+Introduction to sequential and multiprogramming operating systems; kernel calls, interrupt service mechanisms, scheduling, files and protection mechanisms, conventional machine attributes that apply to operating system implementation, virtual memory management, and I/O control systems.
+/
+Senior Project I
+Selection and completion of a project by individuals or team which is typical of problems which graduates must solve in their fields of employment. Project may include students from other disciplines. Formulation of outline, literature review, and project schedule.
+/
+Senior Project II
+Selection and completion of a project by individuals or team which is typical of problems which graduates must solve in their fields of employment. Project may include students from other disciplines. Project results are presented in a formal report.
+/
+Technical Writing for Engineers
+The principles of technical writing. Discussion and application of rhetorical principles in technical environments. Study of methods, resources and common formats used in corporate or research writing.
+/
+Calculus I
+Limits, continuity, differentiation. Introduction to integration.
+/
+Calculus II
+Techniques of integration, applications to physics, transcendental functions.
+/
+Calculus III
+Infinite sequences and series, vector algebra, curves.
+/
+Linear Algebra I
+Systems of linear equations. Matrix algebra, including inverses and determinants. Vectors, vector spaces, bases and linear transformations in real coordinate space of n dimensions. Eigenvalues, eigenvectors and diagonalization. Applications of linear algebra. Introduction to inner products and orthogonality. 
+/
+Statistical Methods for Engineers
+Descriptive and graphical methods. Discrete and continuous probability distributions. One and two sample confidence intervals and hypothesis testing. Single factor analysis of variance. Quality control. Introduction to regression and to experimental design. Substantial use of statistical software. 
+/
+General Biology
+Principles of cellular biology, heredity, ecology, biological diversity, and evolution, with emphasis on their relationships to human affairs. Not open for major credit in Biological Sciences, Microbiology or Marine Sciences. 
+/
+Introduction to Cell and Molecular Biology
+Fundamentals of cellular biology with an emphasis on the molecular perspective of life: metabolism, photosynthesis, cell structure and reproduction, meiosis, immunology, classical and molecular genetics, gene regulation.
+/
+Life Science for Engineers
+Fundamentals of life sciences: energetics, cell biology, molecular and classical genetics, microbiology, organismal biology, and ecology. 
+/
+Bioengineering Fundamentals
+Treatment of the engineering applications of biology. Genetic engineering and the industrial application of microbiology. Systems physiology with engineering applications. Structure and function relationships in biological systems. The impact of life on its environment. Course may be offered in classroom-based or online format. 
+/
+General Botany
+The anatomy, physiology, reproduction, and importance of plants.
+/
+Microbiology
+Morphology, metabolism, classification, and identification; microbiology of air, soil, water, and foods with applications to industry, agriculture, medicine, and public health.
+/
+General Microbiology I
+Microbial cellular structure and function, nutrition and growth dynamics, control of microbial growth, metabolism, genetics, and viruses. Both prokaryotic and eukaryotic microorganisms emphasized.
+/
+Calculus IV
+Partial derivatives, multiple integrals, introduction to vector analysis. 
+/
+Software Evaluation
+Theory and practice of evaluation of software and software systems. Design of experiments for measuring software performance, measuring software output quality, comparing multiple implementations of the same algorithm, and evaluation of software heuristics. Selection of appropriate software evaluation measures and criteria. 
+/
+Network and Web Security
+Introduction to network and web security, including denial of service, botnets, access control, routing attacks, transport layer attacks, tunneling mechanisms, VPNs, IDS, firewalls, penetration testing, key distribution, browser security, social network security, email security, jamming, and wireless security. 
+/
+Software Security
+Principles behind secure software design including threat models, trust management, common vulnerabilities and mitigation techniques, robust software development, isolation of untrusted code, auditability, and testing. 
+/
+Current Topics in Computer Security
+Selected topics in emerging areas of computer security. Potential topics include: network and web security, critical infrastructure protection, embedded systems security, malware analysis, mobile security, and digital forensics, among others. 
+/
+Mobile Application Development
+Inception, development, testing, and deployment of mobile applications. Introduction to tools, libraries, and frameworks for one or more mobile platforms and devices. Emphasis on software engineering best practices for developing entrepreneurial or humanitarian mobile-centric applications.
+/
+Dynamic Web Development
+Project-based study of web-based three-tiered applications, including current best practices and tools for design, implementation and testing of browser interface, serverside business logic, object-relational mapping, databases, and web services. 
+/
+Bioinformatics Algorithms
+Introduction to the use of computers to solve problems in molecular biology. The algorithms, languages, and databases important in determining and analyzing nucleic and protein sequences and their structure. 
+/
+Game Design
+In-depth study of game design including rules, player interaction, and storytelling. Exploration of effective use of sound, art, and game controls in creating meaningful play. Development of fully functioning and engaging games, following standard domain-specific software development processes and using physical prototyping and playtesting. Current, industry-tested game engines.
+/
+Special Problems
+Individual investigation, research, studies or surveys of selected problems.
+/
+Distributed Systems
+Foundations of distributed systems, distributed hash tables (peer-to-peer systems), failure detectors, synchronization, election, inter-process communication, consensus, replication, key-value stores, and measurements. 
+/

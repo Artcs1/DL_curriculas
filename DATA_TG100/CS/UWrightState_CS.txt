@@ -1,0 +1,100 @@
+/
+Academic Writing and Reading
+Introduces students to principles of effective written communication and critical reading. Stresses invention, drafting, revising, editing, and self-assessment, along with effective critiquing and collaborating
+/
+Technical Communications for Engineers and Computer Scientists
+A modular approach to oral and written communication of complex technical information to an expert audience. Includes describing technical mechanisms and processes; designing and using tables, graphs, charts, and figures; producing technical proposals, progress reports, feasibility reports, and formal reports; and doing technical briefings.
+/
+Calculus I
+Examines limits, the derivative, differentiation, applications of the derivative, antiderivatives, Riemann sums, the definite integral, and the fundamental theorem of calculus.
+/
+Technology and Society
+Examines and evaluates the consequences of technology on individuals, organizations and society to recognize its benefits, potential, and limitations. Explores current social, ethical, legal and philosophical topics to understand how the Digital Revolution impacts society.
+/
+HUMANITIES I
+HUMANITIES I
+/
+Social I
+Social I
+/
+General Physics I
+Introductory survey of mechanics for science and engineering students. Uses of interpreting physical phenomena. Topics include vectors, kinematics, dynamics, energy, momentum, rotation, oscillation and thermodynamics.
+/
+General Physics II
+Introductory survey of electricity and magnetism. Uses calculus in interpreting physical phenomena. Topics include electric field and potential, currents, DC circuits, magnetic fields, Faraday’s law, and optics.
+/
+Calculus II
+Integration techniques, applications of the definite integral, first-order differential equations, vectors and vector operations, parametric equations and polar coordinates, infinite series.
+/
+Computer Science I
+Basic concepts of programming and programming languages. Structured programming, stepwise refinement, and object-oriented development.
+/
+Computer Science II
+Advanced concepts of computer programming. Use of data structures and tools that facilitate programming
+/
+Data Structures and Algorithms
+Study of the implementation of data structures and control structures in professional computer programs. Introduction to the fundamentals of complexity and analysis. Study of common standard problems and solutions (e.g., transitive closure and critical path). Emphasis on high-level language software design.
+/
+Comparative Languages
+Fundamental concepts and paradigms underlying modern programming languages to enable better appreciation, comparison and evaluation of languages. Covers an object-oriented language, a functional language, a logic language, and a multi-paradigm scripting language. Basics of interpreters and compilers are explored through programming assignments.
+/
+Logic
+Fundamental material in foundations of logic most relevant to Computer Science. Propositional logic, predicate logic, modeling of knowledge, and algorithms for logical reasoning.
+/
+Theoretical Foundations of Computing
+Introduction to the theory of formal languages and automata with an emphasis on the classes of languages commonly encountered by computer scientists. Computability examines the solution of decision problems; the Church-Turing thesis; the undecidability of the Halting Problem; and problem reduction and undecidability.
+/
+Operating System Concepts and Usage
+Provides introduction to Linux and Windows operating systems and system administration. Covers files and directories, ownership and sharing, programs and processes, system calls, libraries, dynamic linking, command line shells, scripting, regular expressions and secure network protocols.
+/
+Computer Organization
+Organization and sequential operation of digital computers. Binary and hexadecimal number systems, 2’s complement arithmetic, program control, memory organization and hierarchy, addressing modes, stacks and parameter passing, interrupts and traps, I/O devices, DMA, cache, and virtual memory.
+/
+Introduction to Software Engineering
+Introduction to the concepts of Software Engineering. Software qualities, development life-cycle models, requirements analysis, semi-formal and formal systems modeling, system design, testing, and project management techniques. Case studies and a course project serve as examples illustrating the software engineering process
+/
+Operating System Internals and Design
+Overview of operating systems internals. File-system usage and design, process usage and control, virtual memory, multi user systems, access control. Course projects use C++ language.
+/
+Team Project I
+Team Project I
+/
+Team Project II
+Team Project II
+/
+Elementary Linear Algebra
+Matrices and their operations, linear systems of equations, Gaussian elimination, determinants, geometry of Euclidean space, vector spaces and subspaces, linear independence, basis, dimension and rank, orthogonality and the Gram-Schmidt process, linear transformations, eigenvalues and eigenvectors, and diagonalization.
+/
+Discrete Mathematics for Computing
+Discrete mathematics useful in computing. Emphasis on mathematical induction, recurrence relations, asymptotic behavior of functions, and algorithm analysis.
+/
+Applied Statistics I
+Introduction to probability, random variables and their expectations, some commonly used discrete and continuous distributions, concept of random sampling and sampling distributions. Use of computer software packages for simulating, summarizing, and displaying data.
+/
+Special Topics in Computer Science
+Special Topics in Computer Science
+/
+Machine Learning
+Reviews the development of machine learning paradigms. Introductory topics include parameter adjustment methods, signature tables, and the application of genetic algorithms to artificial intelligence problem domains
+/
+Numerical Analysis I
+Solutions of systems of linear and nonlinear equations, numerical solution of matrix eigenvalue problems, interpolation and numerical integration, numerical solution of initial and boundary value problems for differential equations.
+/
+Intro Machine Learning
+This course offers an introduction to the field of probabilistic machine learning. Examples are drawn from sensor signal exploitation, biology, text processing, computer vision, and robotics.
+/
+Introduction to Data Mining
+Introduction to the fundamentals of data mining. Emphasis is on data preparation/evaluation/exploration, association rules, classification, clustering, OLAP/OLAM, pattern/model evaluation, anomaly detection. Students will develop and use data mining software
+/
+Parallel Programming for Many-Core GPUs
+This course will introduce an important trend in high-performance computing, the use of many-core graphics processing units (GPUs) to solve computation-intensive problems. Students will learn about new many-core GPU architecture, CUDA programming model, memory hierarchy design, parallel programming concepts, and compiling techniques to improve parallelism
+/
+Introduction to Data Mining
+Introduction to the fundamentals of data mining. Emphasis is on data preparation/evaluation/exploration, association rules, classification, clustering, OLAP/OLAM, pattern/model evaluation, anomaly detection. Students will develop and use data mining software.
+/
+Web Development I
+Introduction to basic web design and development using HTML and CSS. Topics include page structure, responsive design, and use of multimedia. Client-side programming using scripting languages such as JavaScript and jQuery will be introduced.
+/
+Numerical Methods for Computational Science
+Numerical methods for the sciences using modern programming languages. Solution of linear and nonlinear equations, symmetric matrix eigenvalue problems, interpolation, and least squares. Initial value and boundary value problems for representative systems governed by ordinary and partial differential equations are also solved numerically.
+/

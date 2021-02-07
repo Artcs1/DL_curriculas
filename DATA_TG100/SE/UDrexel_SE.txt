@@ -1,0 +1,184 @@
+MATH 221  Discrete Mathematics 3.0 Credits
+Elementary set theory, combinatorics, elementary number theory, graphs, and special topics chosen from formal language theory, graph algorithms, coding theory, and other applications.
+/
+INFO 210  Database Management Systems 3.0 Credits
+Focuses on how to design databases for given problems, and how to use database systems effectively. Topics include database design techniques using the entity-relationship approach, techniques of translating the entity-relationship diagram into a relational schema, relational algebra, commercial query languages, and normalization techniques.
+/
+STAT 202  Business Statistics II 4.0 Credits
+This second course in business statistics focuses on widely used data analysis techniques in business and economics.  Topics include two sample procedures, categorical data analysis, analysis of variance, regression analysis and other statistical applications as time permits.  Applications are covered through practical data analysis examples.
+/
+CHEM 103  General Chemistry III 5.0 Credits
+Covers organic functional groups, biochemistry, inorganic and coordination compounds, chemical kinetics, thermodynamics, and nuclear chemistry.
+/
+STAT 201  Introduction to Business Statistics 4.0 Credits
+This introductory first course in business statistics focuses on applications of data analysis and statistics in business and economics.  Topics covered include descriptive statistics and graphical presentation, probability, statistical inference, and simple regression analysis.
+/
+CI 101  Computing and Informatics Design I 2.0 Credits
+Introduces computing and informatics through a combination of lectures and hands-on laboratory exercises. Lectures emphasize an integrated view of topic areas and systems, spanning low-level software and implementation issues to high-level use and acceptance by individuals and communities. Lab exercises allow students to explore familiar systems in unique and novel ways to better understand how these systems are designed and used.
+/
+ENGL 102  Composition and Rhetoric II: Advanced Research and Evidence-Based Writing 3.0 Credits
+Advances students’ development in the writing processes. Promotes a critical evaluation and integration of information into their own writing as they research complex and open-ended issues. Identifies the relationships between rhetorical situations, the status of claims, and the need for evidence and warrants. Continues review of grammar, style, and documentation conventions. Encourages collaboration and effective search strategies of the Internet and library resources. Promotes students’ reflective analysis and a positive attitude toward writing.
+/
+CS 472  Computer Networks: Theory, Applications and Programming 3.0 Credits
+Introduction to computer networking theory, applications and programming, focusing on large heterogeneous networks. Broad topdown introductions to computer networking concepts including distributed applications, socket programming, operation system and router support, router algorithms, and sending bits over congested, noisy and unreliable communication links.
+/
+CS 171  Computer Programming I 3.0 Credits
+Introduces fundamental concepts of computing including memory, instructions, function calls, and activation records. Covers fundamentals of structured computer programming in the language of instruction: variables, input and output, expressions, assignment statements, conditionals and branching, subprograms, parameter passing, repetition, arrays, top-down design, testing, and debugging.
+/
+UNIV CI101  The Drexel Experience 0.0-2.0 Credits
+This course introduces first-year students to university life, his/her major, our community, and co-op.
+/
+PHYS 102  Fundamentals of Physics II 4.0 Credits
+Second of a four course sequence teaching fundamental physics to engineering and science majors.  Topics include: electrostatics, capacitors, charges in motion, insulators, semiconductors, conductors, superconductors, voltage and current measurements, magnetism, electromagnetic induction, magnetic materials, quantum dots, magnetic resonance phenomenon.
+/
+CI 103  Computing and Informatics Design III 2.0 Credits
+Follows CI 102 in the Computing & Informatics design sequence. Introduces computing and informatics through a combination of lectures and hands-on laboratory exercises. Lectures emphasize an integrated view of topic areas and systems, spanning low-level software and implementation issues to high-level use and acceptance by individuals and communities. Lab exercises allow students to explore familiar systems in unique and novel ways to better understand how these systems are designed and used.
+/
+ECON 201  Principles of Microeconomics 4.0 Credits
+Examines allocation of resources within an economy.  Major topics include interaction of supply and demand in markets, consumer choice, cost structure of firms, and profit maximization for competitive forms as well as firms with market power.
+/
+CS 172  Computer Programming II 3.0 Credits
+Covers object-oriented design, inheritance hierarchies, information hiding principles, string processing, recursion, good programming style, documentation, debugging, and testing.
+/
+SE 310  Software Architecture I 3.0 Credits
+Study of macro-level software system architectures with an emphasis on approaches to interconnection and distribution of current and emerging architectural styles.
+/
+SE 211  Software Specification and Design II 3.0 Credits
+Continues study of requirements with increasing emphasis on converting requirements into a software system design. Presents alternate approaches, techniques for evaluating specifications, specification and design tools, and use of specifications to develop system-level tests.
+/
+CS 281  Systems Architecture 4.0 Credits
+Covers internal function and organization of digital computers, including instruction sets, addressing methods, input-output architectures, central processor organization, machine language, and assembly language.
+/
+CS 260  Data Structures 3.0 Credits
+Covers stacks, queues, linked allocation, binary trees, internal searching and sorting, hashing, and applications.
+/
+CS 283  Systems Programming 3.0 Credits
+This course introduces computer systems, including interaction of hardware and software through the operating system, from the programmer's perspective.  Three fundamental abstractions are emphasized: processes, virtual memory, and files.  These abstractions provide programmers a common interface to a wide variety of hardware devices.  Topics covered include linking, system level I/O, concurrent programming, and network programming.
+/
+ENGL 111  English Composition I 3.0 Credits
+Equivalent to the university requirement of ENGL 101. Develops multilingual (non-native speakers of English) students' abilities to use writing as a tool for research and reflection. Introduces the concept of genre, writing as a process, reflection on students’ own and others’ work, revision, and approaches to primary and secondary research. Reviews grammar, organization, style, and documentation conventions. Promotes positive attitudes toward writing.
+/
+CS 164  Introduction to Computer Science 3.0 Credits
+An introduction to the field of computer science.  Exposure to core areas (selected from algorithms, artificial intelligence, computer architecture, databases, graphics, human-computer interaction, programming languages, scientific computation, software engineering) while introducing and reinforcing the importance of programming.
+/
+CS 176  Advanced Computer Programming II 3.0 Credits
+Enhanced presentation of object-oriented design, inheritance hierarchies, information hiding principles, string processing, recursion, good programming style, documentation, debugging and testing.  Includes special focus on language facilities and use of libraries.
+/
+/
+SE 210  Software Specification and Design I 3.0 Credits
+Study of the principles, practices, and techniques used to gather system requirements and document them in a requirements specification.  Includes techniques for requirements discovery such as user interviews and prototyping.  Introduces approaches for organizing and expressing software requirements in a requirements specification.
+/
+SE 410  Software Evolution 3.0 Credits
+Covers issues related to change in software systems. Addresses principles and techniques of corrective software maintenance, software enhancements, and software product family.  Introduces students to issues of change in large software systems including configuration control, change and product management.
+/
+CI 493   [WI] Senior Project III 3.0 Credits
+Part of a multi-term capstone experience involving in-depth study and application of computing and informatics. Students work in teams to develop a significant product. Requires use of a development process that includes planning, specification, design, implementation, evaluation, and documentation. This course is writing intensive.
+/
+BIO 126  Physiology and Ecology 4.5 Credits
+The first half of the course will survey physiological systems, including the respiratory, circulatory, homeostatic, excretory, and digestive systems in animals.  The second half of the course will emphasize the relationships between organisms and the environment, including how humans impact ecosystems and the biosphere.  This course has a lecture, lab and recitation component.
+/
+CI 492   [WI] Senior Project II 3.0 Credits
+Part of a multi-term capstone experience involving in-depth study and application of computing and informatics. Students work in teams to develop a significant product. Requires use of a development process that includes planning, specification, design, implementation, evaluation, and documentation. This course is writing intensive.
+/
+SE 181  Introduction to Software Engineering and Development 3.0 Credits
+Introduces advanced software development fundamentals including memory management, typing and scoping, datastores, software testing, and security, as well as user-centric design and user experience. This course will be taught using a specified programming language of instruction.
+/
+MATH 123  Calculus III 0.0-4.0 Credits
+Differential equations, Taylor's theorem, sequence and series, convergence, power series.
+/
+Calculus I
+Functions, limits and continuity, derivatives, trancendental functions, and applications.
+/
+CIVC 101  Introduction to Civic Engagement 1.0 Credit
+This course is designed to help students develop skills as active participants in a pluralistic, democratic society through direct service, education and reflection opportunities.
+/
+ENGL 101  Composition and Rhetoric I: Inquiry and Exploratory Research 3.0 Credits
+Develops students’ abilities to use writing as a tool for inquiry. Introduces genre theory, writing as a process, revision, and strategies of primary and secondary research. Reviews grammar, style, and documentation conventions. Engages students in reflection and promotes positive attitudes toward writing.
+/
+Calculus II
+Definite integrals, Fundamental Theorem of Calculus, integration techniques, applications of integration, numerical integration and differential equations.
+/
+ENGL 112  English Composition II 3.0 Credits
+Equivalent to the university requirement of ENGL 102. Advances multilingual (non-native speakers of English) students’ abilities to use of writing as a tool for research and reflection and their understanding of writing as a process. Develops the critical evaluation and integration of information into students’ own writing as they research social, political, and educational open-ended issues. Continues review of grammar, organization, style, and documentation conventions. Enhances effective strategies for secondary research and collaboration skills. Promotes positive attitude towards writing.
+/
+ECON 202  Principles of Macroeconomics 4.0 Credits
+Examines measurement, growth, and fluctuation of aggregate economic activity. Includes national income accounting and explains determination of output, employment, and price level. Also provides an introduction to international economics, money and banking, and economic policy.  Some or all pre-requisites may be taken as either a pre-requisite or co-requisite.  Please see the department for more information.
+/
+COOP 101  Career Management and Professional Development 0.0 Credits
+Prepares new students to achieve success, personally and academically, in their first co-operative education experience. Topics covered include career exploration, resume skills, interview techniques, professional conduct in the job search, contemporary workplace issues, and job searching and the Internet.
+/
+CS 270  Mathematical Foundations of Computer Science 3.0 Credits
+Introduces formal logic and its connections to Computer Science. Students learn to translate statements about the behavior of computer programs into logical claims and to prove such assertions using both traditional techniques and automated tools. Considers approaches to proving termination, correctness, and safety for programs. Discusses propositional and predicate logic, logical inference, recursion and recursively defined sets, mathematical induction, and structural induction.
+/
+CS 175  Advanced Computer Programming I 3.0 Credits
+Advanced programming in language of instruction at an accelerated pace: introduces fundamental concepts of computing including memory, instructions, function calls, and activation records. Covers fundamentals of structured computer programming in the language of instruction: conditionals and branching, subprograms, parameter passing, repetition, arrays, top-down design, testing, and debugging. Supplements basic topics with deeper presentation of advanced techniques for those with some incoming programming experience.
+/
+PHYS 201  Fundamentals of Physics III 4.0 Credits
+Third of a four course sequence teaching fundamental physics to engineering and science majors.  Topics include: oscillations, EM waves, interference, diffraction, wave-particle duality, energy-matter equivalence, uncertainty relations, Schrodinger's equation, Hydrogen atom, laser, and nuclear physics.
+/
+PHIL 105  Critical Reasoning 3.0 Credits
+Introduces and develops the skills involved in reasoning effectively about experience, and being able to distinguish strong arguments from weak ones.
+/
+ENGL 113  English Composition III 3.0 Credits
+Equivalent to the university requirement of ENGL 103. Advances multilingual (non-native speakers of English) students' development in the reading, writing, and research processes. Some courses may focus on the student's academic and discipline-specific experiences, while others may be based on literary or social themes. Enhances multilingual students’ ability to read texts critically and to reflect on their own and others’ writing, scholarly and literary works, and social events. Promotes a positive attitude toward writing.
+/
+CI 102  Computing and Informatics Design II 2.0 Credits
+Introduces computing and informatics through a combination of lectures and hands on laboratory exercises. Lectures emphasize an integrated view of topic areas and systems, spanning low level software and implementation issues to high level use and acceptance by individuals and communities. Lab exercises allow students to explore familiar systems in unique and novel ways to better understand how these systems are designed and used.
+/
+CHEM 102  General Chemistry II 4.5 Credits
+Covers chemical equilibrium, including acid-base equilibria in solution; electrochemistry; organic chemistry; polymers; and petroleum.
+/
+PSY 330  Cognitive Psychology 3.0 Credits
+Covers human thought processes, including perception and pattern recognition, learning and memory, language, problem-solving, and decision-making.
+/
+BIO 124  Evolution & Organismal Diversity 4.5 Credits
+Students will learn about the theory of evolution and the mechanisms of how organisms change.  Using this knowledge, students will explore the diversity of organisms on Earth that is a hallmark of biology and the result of evolution by examining the representative members from the five major kingdoms of life. This course has a lecture, lab and recitation component.
+/
+SE 311  Software Architecture II 3.0 Credits
+Continues discussion of software architecture with a focus on micro-level architecture including patterns, frameworks, and component-based software engineering, and commercial off-the-shelf software.
+/
+BIO 122  Cells and Genetics 4.5 Credits
+An introduction to the concepts of cell and function, cell and reproduction, cell communication, genetic inheritance, and population genetics.  The relevance of genetics to society and ethical issues are included.
+/
+CHEM 101  General Chemistry I 3.5 Credits
+Covers fundamental principles of chemistry, stoichiometry, atomic and molecular structure, chemical bonding, states of matter, thermochemistry, and periodicity.
+/
+PHIL 311  Ethics and Information Technology 3.0 Credits
+Ethical analyses of current laws and pending legislation aimed at regulating computer use as well as Internet practices and content.
+/
+PSY 101  General Psychology I 3.0 Credits
+Reviews the fundamental principles, concepts, and methods of psychology, with emphasis on the concepts of motivation, learning, and perception, and their psychological foundations.
+/
+COM 310   [WI] Technical Communication 3.0 Credits
+Develops skills in communicating technical information. Focuses on writing letters, resumes, proposals, reports, and instructions. Offers extensive writing practice along with exercises and presentations. This is a writing intensive course.
+/
+CI 491   [WI] Senior Project I 3.0 Credits
+Part of a multi-term capstone experience involving in-depth study and application of computing and informatics. Students work in teams to develop a significant product. Requires use of a development process that includes planning, specification, design, implementation, evaluation, and documentation. This course is writing intensive.
+/
+COM 230  Techniques of Speaking 3.0 Credits
+A workshop course in improving public speaking skills. Provides experience in speeches of explanation, persuasion, and argument.
+/
+SE 320  Software Verification and Validation 3.0 Credits
+Presents theory and practice of software testing.  Covers structural testing including such topics as path testing, dataflow testing, logic based testing, syntax testing, program slicing, mutation testing, fault injection, program perturbation, and testing tools.  Discusses techniques for test construction and test suite evaluation, and validation against requirements and design models.  Also covers methods of inspection and review at various phases of the software lifecycle.
+/
+CI 120  CCI Transfer Student Seminar 2.0 Credits
+Introduces students to the academic and co-curricular aspects of university life. Includes academic functions such as reflection papers, reading, and study skills, as well as co-curricular functions such as campus resources, activities, and social programs. Aids in the transition to student life at Drexel and is designed to help each student achieve academic and personal success through academic and career exploration.
+/
+CS 265  Advanced Programming Tools and Techniques 3.0 Credits
+Introduction to the basic principles of programming practice: testing, debugging, portability, performance, design alternatives, and style.  Application in a variety of programming languages, programming environments, and operating systems.  Introduction to tools used in the software development process for improving program functionality, performance, and robustness.
+/
+ENGL 103  Composition and Rhetoric III: Themes and Genres 3.0 Credits
+Advances students' development in the writing and research processes and their understanding of how genres of writing shape meaning. Some courses may focus on the student's academic and discipline-specific experiences; Others may be based on literary or social themes. Promotes a critical reading of texts, reflective analysis, and a positive attitude toward writing.
+/
+PHYS 101  Fundamentals of Physics I 4.0 Credits
+First of a four course sequence teaching fundamental physics to engineering and science majors.  Topics include: description of motion, inertial and non-inertial frames, special relativity, Newton's Laws, translational and rotational equilibrium, one- and two-dimensional motion, fundamental forces, inverse square laws, Gauss' Law, Bohr's quantization, rotational dynamics, potential energy, black holes, determinism and chaos.
+/
+INFO 310  Human-Centered Design Process & Methods 3.0 Credits
+Introduces the student to the process of human-centered design of interactive user interfaces. Teaches some of the basic approaches to design and evaluation of interactive user interfaces. Delivers practical advice on interaction design challenges. Applies human-centered design principles in the design of the user interface to an interactive computer system.
+/
+INFO 420  Software Project Management 3.0 Credits
+The objective of this course is to study project management in the context of software systems development. The course will cover the processes, contexts, metrics, planning and management concerns of managing projects for modern software systems.
+/
+ACCT 110  Accounting for Professionals 4.0 Credits
+The course is open only to non-business students. A nontechnical introduction to the principles of financial and managerial accounting with emphasis on the use and interpretation of financial reports, managerial planning and control.  The course would also provide an overview of business entities and taxation for businesses and individuals. The course is for the individual who seeks a basic knowledge of accounting and its uses. It is designed for the user of accounting information rather than the preparer. This course cannot be substituted for ACCT 115 or 116. Students graduating with a major in the School of Business cannot receive credit for this course.
+/

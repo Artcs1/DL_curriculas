@@ -1,0 +1,178 @@
+/
+Introduction to Financial Accounting	 	3.0	FS	 
+Introductory study of the information system that measures, records, and communicates the economic activity of an entity, in monetary terms, to stakeholders outside of the organization. The study of assets, liabilities, owners' equity, revenues, expenses, gains, and losses as they relate to the preparation of financial statements communicating an entity's financial position, results of operations, and cash flows. 
+/
+Introduction to Managerial Accounting	 	3.0	FS	 
+Introductory study of the process of identification, measurement, accumulation, summarization, preparation, interpretation, analysis, and communication of financial and non-financial information to assist managerial planning, controlling, and decision-making within an organization to assure appropriate use of and accountability for the organization's resources. 
+/
+Introduction to Business Law	 	3.0	FS	 
+A study of the role of law in business environments, including the study of legal institutions and their role in facilitating and regulating business. 
+/
+Principles of Macroeconomic Analysis	 	3.0	FS	 GE
+An introductory survey of macroeconomic analysis. Use of fundamental economic concepts to analyze the over-all economy. Determination of gross national product, rates of unemployment, problems of inflation, recession, and the use of governmental policies. 
+/
+Principles of Microeconomic Analysis	 	3.0	FS	 GE
+An introductory survey of microeconomic analysis. Analysis of individual economic units: household, firms, and markets. Analysis of individual decision making. Supply and demand analysis. Type of market organization: competition, oligopoly, and monopoly. 
+/
+Finite Mathematics for Business	 	3.0	FS	 GE
+Solutions to systems of linear equations, matrices, linear programming, combinatorics, probability, binomial and normal distributions. 
+/
+Statistics of Business and Economics	 	3.0	FS	 GE
+Descriptive statistics, sampling theory, statistical inference and tests of hypotheses, analysis of variance, chi-square tests, simple regression and correlation, and multiple regression and correlation.
+/
+Database Design
+Study of fundamental database design principles and techniques, including data modeling with Entity-Relationship diagrams and normalization. Study of SQL (Structured Query Language) database management systems capabilities. Study of the relational data model and relational operations. Study of database security mechanisms. Introduction to PL/SQL. Application of concepts and techniques to practical business scenarios.
+/
+Communication in Business
+Emphasis is on solving business problems through the strategic design of verbal, print, and electronic messages. Models for effective business documents, presentations, meetings, and interpersonal as well as electronic project interaction are applied to business communication problems. Related technology use, etiquette, cultural differences, and ethical considerations are highlighted.
+/
+Enterprise Technology Integration
+This course introduces students to the concept of information systems as the application of technical resources to support organizational processes. Given this foundation, students build an integrative, process-oriented understanding of information systems and their deployment, management, and use within distributed and global organizations. Projects focus on introductory enterprise systems, client-server database systems management, corporate data networking, and advanced Web programming. 
+/
+Decision Analysis for Business
+This course introduces students to qualitative and quantitative decision analysis techniques and practical tools for critical thinking and problem solving in business. A primary emphasis is on the problem solving process including problem identification, data collection and evaluation, analysis, consideration of alternatives, and the presentation of logical and persuasive conclusions.
+/
+Systems Project Management
+Application of Project Management (PM) concepts and tools to systems projects. Students work in teams and apply PM concepts to projects and actual problems in organizations. 
+/
+Survey of Finance
+An introduction to financial management, providing a background in the areas of financial institutions, the time value of money, analysis of financial statements, working capital management, financial structure of the firm, capital budgeting, and related tools of financial analysis.
+/
+Survey of Management
+Using a combination of theory and application, this course focuses on the human side of organizations, including issues of 1) making good decisions, 2) enhancing performance, 3) steering through a turbulent global environment, 4) combining and unifying multiple business functions and 5) enabling change. Students gain an understanding of management and how and why organizations are structured. 
+/
+Survey of Marketing
+Nature and functions of marketing systems and marketing in the individual firm. Study of the marketing mix, marketing institutions, and the environments in which marketing decisions are made. 
+/
+Operations Management
+An overview of the operations function in organizations; topics include operations strategy, manufacturing philosophies, process selection, supply chain management, inventory management, forecasting, production planning and control, capacity planning, material requirements planning, quality management and project management. 
+/
+Strategic Issues for Information Systems Professionals 
+A senior seminar with an emphasis on strategy and management of adoption, implementation, and use of information systems in business. An integrative course serving to organize the information learned from earlier information systems and business school courses. 
+/
+Enterprise Resource Planning: Systems Configuration and Use
+This course focuses on setting up an Enterprise Resource Planning (ERP) system for use in a global organization. Students learn how to configure a large system to support a global organization with multiple companies. Concepts, issues, current trends, and decision making are addressed through a cross-functional view of the enterprise. 
+/
+Business Programming
+Introduction to the basic problem- solving skills needed to create and maintain business-oriented software. This course provides an overview of business information systems, their use in business contexts, and object-oriented design of applications. Coverage includes a survey of basic data structures and the standard algorithms used to manipulate and work with them.
+/
+Database Application Development
+Study of database application development concepts and techniques. Advanced data modeling and SQL for complex business applications. Stored procedures and database triggers. Application of concepts and techniques to practical business information processing environments. 
+/
+Data Communications and Networking
+An introduction to data communications and local area networks. This course provides a background in standards and protocols used in communications and their functions within a business information system environment. The class combines lectures, writing assignments, group work, and class discussion to develop a fundamental knowledge of data communications and its importance to the business information systems environment. 
+/
+Business Systems Analysis
+An in-depth examination of tools, techniques, and processes used to support the systems analysis portion of the systems development life cycle. Emphasis is given to requirements gathering, gap-fit analysis, development of the business case for systems development projects, as well as tools and techniques that plan, identify, model and communicate conceptual systems to both end users and programmers. Both case studies and real projects are used to develop hands-on experience with conducting business analysis studies from object, data, and process perspectives. 
+/
+Web Programming Fundamentals
+A hands-on project course that examines languages, tools, protocols, and techniques for developing interactive and dynamic web applications. Topics include the model-view-controller pattern, document object model, server side and client side scripting, using a server side database, and web applications security. 
+/
+Distributed Systems Management
+An in-depth analysis of current managerial issues related to business data communications, networks, and distributed processing. The topics covered in this course directly impact the analysis, design, and implementation of management information systems for both private organizations and government.
+/
+Supply Chain Management
+This course provides an overview of the supply chain management function in modern business. The objective of the course is to provide students with an integrative view of how supply chain decisions affect other functional areas of the firm and impact financial performance. The course focuses on three primary areas of supply chain management: strategy and design, planning, and operations. 
+/
+Purchasing and Global Sourcing
+This course examines the business role and ethical consideration of purchasing and procurement. Students learn to identify supplier sources, negotiate terms and conditions of sale, and build and manage supplier relationships linked to organizational goals. Students learn how purchasing operates across all functional areas - including inbound logistics, manufacturing, and outbound logistics - and contributes to competitive advantage and added value through teamwork.
+/
+Production Planning and Inventory Control
+An in-depth study of inventory management and material requirements planning (MRP). Topics include the study of inventory systems and modeling, master production scheduling, and purchasing systems and control.
+/
+Quality Management
+The study and application of the quality management process in both the manufacturing and service sectors of the economy. Topics include process analysis and improvement, statistical process control, cost of quality, quality measurement, and quality in the global marketplace.
+/
+Distribution Systems and Channel Management
+The course includes a study of distribution and its role in the marketing system, economics of distribution, financing competing carriers, rate determination, government regulation subsidization, carrier organization, operation, and traffic control. 
+/
+Labor Law and Collective Bargaining
+Intensive examination of unions in an organizational setting. Includes organizational and concerted activities, collective bargaining and employee/employer rights and responsibilities. Includes applied collective bargaining project. 
+/
+Organizational Design and Change
+Effective organizations make active design decisions that support their goals and generate a competitive advantage. This course takes a systems perspective to analyze the different elements of an organization's design, including the fundamental elements of internal design and decisions regarding its interaction with its external environment.
+/
+Speech Communication Fundamentals
+Effective oral communication. Introduction to human communication theory. Practice in gathering, organizing, and presenting material in speeches to persuade, inform, and interest. 
+/
+Academic Writing 
+Instruction and practice in writing university-level expository prose. 
+/
+Argumentation and Debate
+Study of the nature of argument, including methods of analysis, research, patterns and fallacies of reasoning, use and tests of evidence, refutation, and debate as a practical application of argumentation.
+/
+Digital Literacy
+Digital literacy provides students with an introduction to acquisition, management, and communication of textual, numeric, and visual information. The course emphasizes the development of quantitative reasoning skills, financial literacy, and data visualization.
+/
+Chemistry and Current Issues
+This course will introduces students to some of the fundamental concepts of chemistry and illustrates how they apply to important contemporary issues, including nuclear power, water purification, alternative energy, climate change, and foods and drugs. 
+/
+Introduction to Biological Anthropology
+The qualities of being human are examined through the investigation of evolutionary principles, non-human primates, human fossil record, and living peoples. The biological origin, evolution, and variation of humankind are explored.
+/
+United States History
+Survey of American history. Development of the United States and its political, economic, social, and cultural institutions.
+/
+American Government: National, State, and Local
+An investigation of Who gets What, When, and How in national, state, and local politics. Also includes principles of American governmental institutions, federal systems, congress, president, and courts. Fulfills California state graduation and credential requirements for the American Constitution. 
+/
+Art Appreciation: Multicultural Perspectives
+An interactive discussion of art and visual literacy using related texts that focus on works from around the world, from ancient times to the present. 
+/
+The American Indian	
+A history of the Indian in North America, development of Indian culture, Indian-white relations, the disruption of the Indian way of life, wars, assimilation, and Indian culture in a Caucasian world.
+/
+Introduction to Agricultural Business and Economics
+The role of agricultural business in the economy. Introductory economic and business principles and their application to the solution of agricultural problems. 
+/
+Introduction to African American Studies
+Introduces the aims and objectives of African American Studies. A critical examination of the African American experience and its antecedents. This includes an assessment of how the dominant society impacts African Americans, including such factors as racism, poverty, and the current social/economic status of African Americans. 
+/
+Child Development
+A study of the physical, cognitive, social and emotional development of children from conception through adolescence. The course examines genetic, biological, and environmental influences including cross-cultural issues. 
+/
+American Ethnic and Regional Literature in Focus
+This course explores the way place, socio-economic status, gender, and sexuality inform and inflect the experience of particular cultural groups set against the larger American culture. Classes typically focus on African American, Asian American, Chicana/o, or Native American literature.
+/
+Work, Wealth, and Income Distribution
+Investigation of the nature and causes of income distribution in the United States. Consideration of the social and economic forces which generate income levels and determine patterns of economic mobility over time, interweaving theoretical, descriptive, quantitative, and normative aspects. 
+/
+Human Genetics
+The inheritance, expression, and evolution of the genetic material in humans. Topics include genetic engineering, gene therapy, prenatal diagnosis, cancer, the human genome project, genetic influences on human behavior, such as homosexuality and mental illness, and the social and ethical consequences of the new technologies. 
+/
+Evolution
+Analysis of the evidence for evolution and the nature of the process. Darwinism, neo-Darwinism, sociobiology, conflicts and misconceptions regarding evolution, creationism, and evolution of the human body and mind are considered.
+/
+Bible, Literature, and Culture	 
+Study of the literary types and qualities of the English Bible and their impact upon British and American literature and language. 
+/
+Work, Wealth, and Income Distribution 
+Investigation of the nature and causes of income distribution in the United States. Consideration of the social and economic forces which generate income levels and determine patterns of economic mobility over time, interweaving theoretical, descriptive, quantitative, and normative aspects. 
+/
+Geology of Food and Health	 
+Focuses on the relation between natural geological factors, food production, and health problems in humans and animals on a global scale, and explores the impacts of diverse proposed solutions on population health and public policy. 
+/
+Global Economic Geography
+A systematic survey of human economic activities. Analysis of resource exploitation and use, including agriculture, extractive activities, industry, commerce, and service functions.
+/
+Biology of Sex
+This course explores sex, gender, sexual expression, and mating behavior in humans and non-humans from an evolutionary biological perspective. Why does sex exist? Why do genders exist? What are the alternatives? Why is sex expression so variable in nature? What explains the diversity of courtship and mating behaviors? The course emphasizes lessons gleaned from applying the principles of scientific inquiry toward the study of these and related questions.
+/
+Introduction to Technical Writing
+A study of technical writing and presentation skills in business and scientific environments, including audience analyses, writing processes, genres of technical and business discourse, visual communication, collaboration, professional responsibility, clear and correct expression. Students write and revise several documents and give oral reports.
+/
+Gender and Sexuality in Modern European History
+This course explores major themes and developments in the social and cultural history of European women from the 1700s to the present, including changing gender roles, attitudes toward sexuality, reproduction, and the family. In particular, the course examines women's struggle to define themselves and their roles in society and their impact on the social identities of men. 
+/
+Children's Gender and Sexuality Development 
+This topical course is designed for students who wish to develop a broader and deeper understanding of children's gender and sexuality development. Students study multiple theoretical explanations of gender and sexuality development, and learn how biological, social, cultural, and cognitive influences impact concepts of gender and sexuality. 
+/
+Honors General Education Thesis 
+Independent study of an interdisciplinary topic that satisfies three units of upper-division GE theme requirements. This capstone course is designed to hone your skills in research and writing by working on a topic that grows out of the material you found most intriguing in your other upper-division theme classes. 
+/
+Multicultural Literature: Issues and Themes	 
+An intensive survey of major issues and themes in the intersection between Western and non-Western literature. Students examine the interconnections between works of North American cultures and works from the literatures of Africa, Asia, the Middle East, and Latin America. 
+/
+Africa: Continuity and Change	 
+An introduction to African societies in anthropological and ethnographic perspective. Comparative case studies in historical and regional context explore body and self, religious experience, expressive arts, environmental and political conjunctures, and social change across the continent. 
+/

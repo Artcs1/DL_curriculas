@@ -1,0 +1,104 @@
+/
+College Composition
+Understanding and writing for rhetorical situations; critical reading and response; writing source-based argument for academic and public audiences.
+/
+Digital Circuit Logic
+Fundamentals of digital circuit logic, including Boolean algebra; Karnaugh maps; multiplexers, decoders, ROMS, PLAS, flip-flops, counters; sequential networks; and state tables.
+/
+Calculus for Physical Scientists I
+Limits, continuity, differentiation, and integration of elementary functions with applications; conic sections.
+/
+Awareness and Appreciation of Design
+Awareness and appreciation of design as it exists in the context of everyday life and is expressive of cultural character and human creativity. Awareness and appreciation of design comes as a natural consequence of learning how to recognize and interpret the elements from which it is created.
+/
+History of Agriculture in the United States
+Relationships in agriculture. Historical/Native American/early practices, industrial agriculture, technologies, philosophy, green revolution.
+/
+DC Circuit Analysis
+Basic DC circuit analysis. Use of scientific-oriented software to solve problems and analyze small projects.
+/
+No Prior Programming Experience
+Computer programming for students without previous programming experience. Topics include variables, assignment, expressions, operators, booleans, conditionals, characters and strings, control loops, arrays, objects and classes, file input/output, interfaces, recursion, lists, and sorting.
+/
+Prior Programming Experience
+Computer programming for students with limited programming experience. Problem decomposition for good design; expressions, operators, booleans, conditionals, characters and strings, control loops, arrays, objects and classes, file input/output, interfaces, recursion, lists, and sorting.
+/
+Calculus for Physical Scientists II
+Transcendental functions, integration techniques, polar coordinates, sequences and series, with mathematical software.
+/
+Physics for Scientists and Engineers I
+Forces, energy, momentum, angular momentum, oscillations, waves, heat, thermodynamics
+/
+Data Structures
+Object oriented concepts, assertions, inheritance, polymorphism, algorithms and data structures using an object oriented language.
+/
+Introduction to Microprocessors
+Microprocessor organization, assembly language, I/O techniques, real-time interfaces, applications, hardware/software.
+/
+Calculus for Physical Scientists III
+Vector functions, partial differentiation, cylindrical and spherical coordinates, multiple integrals, line integrals, Green's theorem.
+/
+Physics for Scientists and Engineers II
+Electricity and magnetism, circuits, light, optics 
+/
+Discrete Structures and their Applications
+Integer representations and properties, propositions, predicates, sets, functions, program proofs, induction, counting, complexity; Python implementations of these concepts.
+/
+Circuit Theory Applications
+Basic circuit analysis techniques and applications to engineering design problems.
+/
+Introduction to Communications Principles	
+Basic concepts in design and analysis of communication systems.
+/
+Introduction to Ordinary Differential Equations
+First and second order equations, series, Laplace transforms, linear algebra, eigenvalues, first order systems of equations, numerical techniques.
+/
+Software Development with C++
+Developing and modifying large software. Relating programming language to its machine implementation. C++ programming for experienced programmers.
+/
+Linear System Analysis I
+Continuous and discrete time signals and systems representations in time and frequency domain; time convolution.
+/
+Electronics Principles I
+Discrete component semiconductor devices, characteristics and applications. Rectifier circuits, single-stage and multi-stage amplifiers.
+/
+Digital System Design Laboratory
+Small digital circuits are designed and simulated using very high speed hardware description language and synthesis tools.
+/
+Digital System Design	
+State machines with PLAs as controllers and small computers; timing and race elimination considerations; state and microprogramming implementation.
+/
+Algorithms--Theory and Practice
+Analysis, design, implementation and applications of algorithms.
+/
+Electronics Principles II
+Discrete and integrated-circuit amplifiers-frequency response, negative feedback; digital logic circuits.
+/
+Operating Systems
+Introduction to operating systems including memory organization, I/O control, multitasking, process control, coordination, and resource management.
+/
+Linear System Analysis II
+Laplace and Z transforms, applications to modulation, filtering and sampling, state space representation.
+/
+Computer Organization and Architecture
+CPU design; microarchitecture; data path and control path; pipelining; memory system; I/O system; program optimization by system software/hardware.
+/
+Senior Design Project I
+Senior Design Project I
+/
+Writing in the Disciplines: Sciences
+Learning writing strategies for addressing general audiences in sciences.
+/
+Professional and Technical Communication
+Professional writing and presentation skills applied to students' major fields.
+/
+Senior Design Project II
+Senior Design Project II
+/
+Computer Networks
+Circuit/packet switching, protocols, LAN/MAN, TCP/IP, error correction, wireless LANS, mobile networks.
+/
+Principles of Microeconomics
+Introduction to decision-making by households, firms, and government, and resulting allocation of resources through markets.
+/
+

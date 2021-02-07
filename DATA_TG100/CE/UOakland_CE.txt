@@ -1,0 +1,82 @@
+/
+Engineering Graphics and CAD
+An introduction to the techniques for creating solid models of engineering designs. Topics include three-dimensional modeling of parts and assemblies, visualization, orthographic project views and layouts, auxiliary, sectional, and cutout views, exploded views, dimensioning and tolerancing, bill of materials, and computer-generated design documentation
+/
+Calculus I
+A detailed study of limits, continuity, derivatives of algebraic and transcendental functions, applications of derivatives, numerical techniques, integrals and the Fundamental Theorem of Calculus.
+/
+Computer Problem Solving in Engineering and Computer Science
+General methods of problem solving and principles of algorithmic design using a high-level language such as Visual C#. Introduction to MATLAB. Applications will be drawn from problems in mechanical, electrical and computer engineering and computer science.
+/
+Chemical Principles
+States of matter, atomic structure, bonding and molecular structure, chemical reactions
+/
+Introduction to Electrical and Computer Engineering
+An introduction to the fundamentals of electrical and computer engineering; DC and AC circuits, digital logic circuits; combinational logic design; sequential circuits, introduction to electronics, operational amplifiers, DC electromechanical machines.
+/
+Calculus II
+A detailed study of methods of integration, applications of the integrals, improper integrals, sequences, series and power series, polar coordinates, and parametric curves.
+/
+Fundamentals of Physics I
+Classical mechanics and thermodynamic
+/
+Introduction to Thermal Engineering
+Introduction to the fundamentals of classical thermodynamics and heat transfer; first and second laws of thermodynamics; thermodynamic property relationships; application to engineering systems and processes; introduction to conduction, convection and radiation; steady 1-D conduction and extended surfaces; lumped capacitance method
+/
+Introduction to Data Structures in C
+C programming including arrays, structures, and pointers. Basic data structures such as stacks, queues, and lists. Implementation and analysis of fundamental sorting and searching algorithms.
+/
+Introduction to Differential Equations with Matrix Algebra
+Introduction to ordinary differential equations, Laplace transforms, linear systems, matrices, vectors, independence, Eigenvalues and eigenvectors, and applications
+/
+Fundamentals of Physics II
+Sound, light, electricity and magnetism. This course has common lectures with PHY 1520. Satisfies the university general education requirement in the knowledge applications integration area. Prerequisite for knowledge applications integration: completion of the general education requirement in the natural science and technology knowledge exploration area.
+/
+Digital Logic Design
+Boolean algebra; number systems and arithmetic, combinational logic circuits; synchronous sequential circuits; asynchronous sequential circuits; introduction to a hardware description language (HDL). With laboratory.
+/
+Introduction to Industrial and Systems Engineering
+Overview of industrial and systems engineering: perspectives, tools and models. In depth coverage of probability and statistics in engineering: density and distribution functions, population and sampling distributions, confidence intervals, hypothesis testing and introduction to discrete-event simulation.
+/
+Design and Analysis of Electromechanical Systems
+Design, analysis, and testing of electromechanical systems; static equilibrium of particles and rigid bodies; introduction to microprocessors; team design project dealing with technical, economic, safety, environmental, and social aspects of a real-world engineering problem; written, oral, and visual communication
+/
+Electric Circuits
+Modeling and analysis of circuits with dependent sources; non-ideal operational amplifiers. Transient and forced responses in RC, RL and RLC circuits. Series and parallel resonant circuits. AC power, three-phase circuits, magnetically coupled circuits. Wye-delta transforms. Introduction to frequency response. Use of PSPICE. With laboratory.
+/
+Microprocessors
+Application of microprocessors and microcomputers to the solution of typical problems, interfacing microprocessors with external systems such as sensors, displays and keyboards; programming considerations, microcomputer system and memory system design.  A laboratory, design course; several short design projects and one large design project
+/
+Computer Hardware Design
+Development of components and techniques needed to design digital circuits and systems for controllers, computers, communication and related applications. Design and analysis of combinational and sequential logic circuits using a hardware description language such as VHDL, timing simulations, test benches, embedded cores. Design of special-purpose processors and their implementation in an FPGA
+/
+Discrete Mathematics
+Concepts and methods of discrete mathematics with an emphasis on their application to computer science. Logic and proofs, sets and relations, algorithms, induction and recursion, combinatorics, graphs and trees.
+/
+Electronic Circuits and Devices I
+Characteristics and models of nonlinear circuit elements, such as diodes, BJTs and MOSFETs. Analysis and design of circuits employing these devices, including power supplies, voltage regulators, and amplifiers; Biasing and circuit stability issues. Use of Operational amplifiers, discrete circuit elements; and PSPICE software for circuit design is emphasized in the lab.
+/
+Embedded Systems Design
+This course deals with advanced concepts in the programming and the interfacing of modern microprocessors/microcontrollers to the outside world as demonstrated by a variety of application examples. It covers the advanced architecture of modern processors and the many I/O peripherals now commonly found on-board. Laboratory activities provide the student with experience in developing the hardware and software required to incorporate microprocessors into systems that solve real-world interfacing problems.
+/
+Design and Analysis of Algorithm
+Computer algorithms, their design and analysis. Strategies constructing algorithmic solutions, including divide-and- conquer, dynamic programming and greedy algorithms. Development of algorithms for parallel and distributed architectures. Computational complexity as it pertains to time and space is used to evaluate the algorithms
+/
+Signals and Systems
+Basic signals, average value, average power, and energy. Laplace transform and inverse Laplace transform, and transfer function concept and approach in the analysis of electrical and mechanical lumped-parameter linear systems. Systems modeling and analysis in Laplace and differential equation domains. Natural and forced responses of linear time-invariant systems, and concept of convolution. Fourier analysis of signals and systems: Fourier series and Fourier transform, power spectral density, energy spectral density, band width, and filters.
+/
+Senior Design
+Capstone design projects selected from a wide variety of areas related to electrical and computer engineering. Develops system approach to design: preparation of specifications, scheduling, modeling, simulations, and technological, financial and environmental aspects. Multi-disciplinary teamwork is emphasized. Prototyping, testing and completion of the project are required. Presentation of results required.
+/
+Design and Analysis of Algorithm
+Computer algorithms, their design and analysis. Strategies constructing algorithmic solutions, including divide-and- conquer, dynamic programming and greedy algorithms. Development of algorithms for parallel and distributed architectures
+/
+Electromagnetics I
+This is an introductory course in electromagnetics. A thorough review of waves, phasors, and vector calculus is provided to lay the mathematical foundation to cover the key topics in this course. The key topics include transmission lines, electrostatics, magnetostatics, and touches upon time-varying fields.
+/
+Integrated Electronics
+Modern microelectronics processes and fabrication of integrated circuits. Crystal growth, wafer preparation, photo lithography, dielectric and polysilicon film deposition, epitaxial growth, oxidation, diffusion, ion implementation, etching, metallization and integrated circuits layout principles. Introduction to MOS-based and bipolar transistor-based microcircuits design and fabrication. Fabrication processing simulation using SUPREM. With laboratory and projects.
+/
+Automotive Mechatronics I
+Overview of mechatronics, modeling, simulation, characterization and model validation of electromechanical devices; introduction to computer-aided software; basic automotive sensors; basic actuators and power train devices; principles of automotive and industrial electronic circuits and control systems (analog and digital); principles of produce design; mechatronics case studies.
+/

@@ -1,0 +1,255 @@
+Writing and Critical Reasoning–Thematic 
+Academic writing, emphasizing analysis and argumentation, rhetorical judgment, critical reasoning, creative insight, the careful use of evidence, ethical perspectives, logical organization, stylistic and grammatical fluency. 
+/
+Advanced Writing
+Instruction in writing for various audiences on topics related to a student’s professional or disciplinary interests, with some emphasis on issues of broad public concern. 
+/
+Cellular and Molecular Biology
+Cellular and molecular biology with examples related to human biology and diseases. Fundamental life processes examined at the genetic, cellular and molecular levels. 
+/
+Humans and Their Environment
+An examination of the physical and biological laws that influence agriculture, pollution, population dynamics (including humans), climate, biodiversity and ecosystem structure and function. 
+/
+General Biology for the Environment and Life
+Study of common skills in biology, including basics of evolution, systematics, ecology, genetics, biochemistry and molecular biology, physiology, and anatomy. 
+/
+How the Body Works
+Structure and function of the human body, including the role of organ systems, tissues, and cells in normal function. Malfunctions relating to disease, substance abuse and lifestyle. 
+/
+Good Genes, Bad Genes
+Introduction to the scientific method; basic instruction in molecular biology with emphasis on how biological research advancement has impacted medicine, commerce and society in general. 
+/
+The Biology of Food
+Exploration of molecular biology, biochemistry, microbiology, nutrition and the history of biology through the study of food, focusing on food’s relationship to the biological world. 
+/
+Our Blue Planet in a Changing Climate
+Introduction to biological oceanography and marine ecosystems. Impact of climate changes on marine ecosystems. Analysis of ocean-related case studies being discussed by mainstream media.  
+/
+The Nature of Human Health and Disease
+The human organism; the nature of inherited and acquired diseases; the biological and societal basis for the AIDS epidemic; therapy, drug design and the future. 
+/
+Evolution
+Changes in the physical and biological universe over time; origins of life, dinosaurs, human evolution. Implications of evolutionary mechanisms and mass extinctions for human survival. 
+/
+The Biology of the Brain
+Exploration of the unique properties of brain cells that allow complex perceptions and behaviors; examination of structure and activity of brain cells that underlie function. 
+/
+Drug Discovery and Development
+Scientific principles underlying molecular approaches to diagnosis and treatment of diseases, using specific models within a societal (business, legal, ethical) context. 
+/
+The History of Life on Earth: A View from the Museum
+Topically-driven exploration of evolution, environmental change, and the history of life on Earth via the fossil record with the Natural History Museum of Los Angeles as a laboratory. How the changing Earth and life co-evolved through time. 
+/
+Metals and Life on Earth
+The role of metals in life, from the origin of life to modern environmental problems. 
+/
+A Journey into the Mind
+Introduction to the brain and mind. A unique multimedia approach to stress how knowledge about the mind is gained from scientific and clinical investigations. 
+/
+Seminar in the Life Sciences
+Scientific understanding of a full range of living systems from molecules to ecosystems, prokaryotes to humans, past and present
+/
+The Human Animal
+Foundations of the human species. Examination of scientific evidence from Darwinian theory, primate behavior, fossils, and the behavior of modern people. 
+/
+Nutrition for Life
+To develop an understanding of Nutrition, especially as it pertains to optimal health and prevention of diseases. A study of macro and micro nutrients. 
+/
+The Science of Sport
+The physiological and nutritional basis of human performance. Factors that facilitate and limit athletic achievement. 
+/
+The Pharmacology of Performance Enhancing Drugs
+Evaluation of drugs, nutritional supplements, and ergogenic aids that are purported to enhance human athletic performance to promote weight and fat loss. 
+/
+In a Word
+Words as a gateway to the human mind. How words are stored, comprehended and retrieved. How words are constructed. Words and concepts. Words and social constructs. The processing and the acquisition of words in normal and atypical children and adults. 
+/
+Language and Mind
+Language within cognitive science: speech physiology and acoustics, language acquisition, reading, language disorders, perception and mental representation of words, linguistic diversity and computer analysis of speech
+/
+Foundations of Cognitive Science
+Introduction to research in interdisciplinary cognitive science, highlighting ideas and methods from philosophy, psychology, linguistics, neuroscience, and computer science. 
+/
+Drugs, Behavior and Society
+An integrative systems perspective of drugs; including their historical, economic, and cultural importance, psychopharmacology, addiction, relationship to crime, and therapeutic use in treating psychological disorders. 
+/
+Origins of the Mind
+Exploration of ancient philosophical questions concerning the origins of human knowledge through empirical studies of infants, animals, and adults from diverse cultures. 
+/
+Advanced General Biology: Organismal Biology and Evolution
+Equivalent to BISC 120 , but taught at a higher level for exceptionally well-prepared students. Admission to the course by departmental approval only. 
+/
+Engineering Freshman Academy
+Introduction to the profession of engineering. Ethical, political and societal consequences of engineering innovations and the impact of engineering on everyday life. Team projects and guest lectures. Open to freshmen only. 
+/
+Calculus I
+Limits; continuity, derivatives and applications; antiderivatives; the fundamental theorem of calculus; exponential and logarithmic functions.
+/
+Calculus II
+trigonometric functions; applications of integration; techniques of integration; indeterminate forms; infinite series; Taylor series; polar coordinates. 
+/
+Linear Algebra and Linear Differential Equations
+Matrices, systems of linear equations, vector spaces, linear transformations, eigenvalues, systems of linear differential equations. 
+/
+Calculus III
+Vectors, vector valued functions; differential and integral calculus of functions of several variables; Green’s theorem. 
+/
+Introduction to Probability and Statistics for Electrical Engineering and Computer Science
+Introduction to concepts of randomness and uncertainty: probability, random variables, statistics. Applications to digital communications, signal processing, automatic control, computer engineering and computer science. 
+/
+Probability Theory
+Probability spaces, discrete and continuous distributions, moments, characteristic functions, sequences of random variables, laws of large numbers, central limit theorem, special probability laws. 
+/
+General Biology: Organismal Biology and Evolution
+In-depth survey of key topics related to advances in our knowledge of the diversity of life and evolution; origin of life; eukaryotes/prokaryotes; ecology. 
+/
+General Biology: Cell Biology and Physiology
+In-depth survey of key topics related to advances in our knowledge of cellular biology and physiology; cell composition/metabolism; gene action; organism structure and function. 
+/
+General Chemistry
+Fundamental principles and laws of chemistry; laboratory work emphasizes quantitative procedures. 
+/
+Advanced General Chemistry
+Advanced General Chemistry
+/
+Fundamentals of Physics I: Mechanics and Thermodynamics
+Gateway to the majors and minors in Physics and Astronomy. Statics and dynamics of particles and rigid bodies, conservation principles, gravitation, simple harmonic oscillators, thermodynamics, heat engines, entropy. 
+/
+Fundamentals of Physics II: Electricity and Magnetism
+Electrostatics, magnetostatics, electrical circuits, wave motion, sound waves, electromagnetic waves. 
+/
+Advanced Principles of Physics I
+Gateway to the majors and minors in Physics and Astronomy. Introductory treatment intended for well-qualified students. Dynamics of particles and rigid bodies, conservation laws, wave motion, thermodynamics, heat engines, entropy. 
+/
+Advanced Principles of Physics II
+Electrostatics, magnetostatics, electrical circuits, electric and magnetic properties of matter, Maxwell’s equations, electromagnetic waves, propagation of light. 
+/
+Introduction to Embedded Systems
+Information representations, embedded programming, digital and serial I/O, analog-to-digital conversion, and interrupt mechanisms. Elementary analog, logic, and state-machine design. 
+/
+Introduction to Programming
+Basic datatypes, assignments, control statements (if, switch, for, while), input/output (printf, scanf, cin, cout), functions, arrays, structures, recursion, dynamic memory, file handling. Programming in C/C++. 
+/
+Data Structures and Object Oriented Design
+Introduces the student to standard data structures (linear structures such as linked lists, (balanced) trees, priority queues, and hashtables), using the C++ programming language
+/
+Introduction to Computer Science
+An introduction to, and overview of, Computer Science; both as a discipline and a body of knowledge.  
+/
+Discrete Methods in Computer Science
+Sets, functions, series. Big-O notation and algorithm analysis. Propositional and first-order logic. Counting and discrete probability. Graphs and basic graph algorithms. Basic number theory. 
+/
+Principles of Software Development
+Object-oriented paradigm for programmingin- the-large in Java; writing sophisticated concurrent applications with animation and graphic user interfaces; using professional tools on team project. 
+/
+Introduction to Algorithms and Theory of Computing
+Algorithm analysis. Greedy algorithms, divide and conquer, dynamic programming, graph algorithms. NP-completeness and basic recursion theory and undecidability. Sorting lower bounds. Number-theory based cryptography. 
+/
+Software Engineering
+Introduction to the software engineering process and software lifecycle. Covers project management, requirements, architecture, design, implementation, testing, and maintenance phase activities in team based projects. 
+/
+Introduction to Operating Systems
+Basic issues in concurrency, deadlock control, synchronization scheduling, memory management, protection and access control, inter-process communication, and structured design. Laboratory experiences with Unix-like operating system. Duplicates credit in CSCI 402. 
+/
+Introduction to Computer Systems
+Computer organization; entity abstraction and representation; program execution; code optimization; memory usage; exception handling; processing control; computer performance; hands-on work done in C and assembly. 
+/
+Introduction to Artificial Intelligence
+Concepts and algorithms underlying the understanding and construction of intelligent systems. Agents, problem solving, search, representation, reasoning, planning, machine learning. 
+/
+Capstone: Design and Construction of Large Software Systems
+Group project with an outside stakeholder to develop real-world software solutions to large-scale problems. Topics include software engineering, professional preparation, and recent computer science research. 
+/
+Capstone: Creating Your High-Tech Startup
+Capstone class in which students create their own technology startup, leveraging comprehensive CS knowledge and best industry practices. 
+/
+Introduction to Internetworking
+Global Internet: design principles, layering, protocol design/analysis. Networked applications, Internet structure/architecture, Protocols for transport/congestion control, network layer/routing, link layer/MAC. Network security. 
+/
+Capstone: Design and Construction of Large Software Systems
+Group project with an outside stakeholder to develop real-world software solutions to large-scale problems. Topics include software engineering, professional preparation, and recent computer science research. 
+/
+Capstone: Creating Your High-Tech Startup
+Capstone class in which students create their own technology startup, leveraging comprehensive CS knowledge and best industry practices. 
+/
+Computer Graphics
+Computer graphics, OpenGL, 2D and 3D transformations, Bézier splines, computer animation, rendering including ray tracing, shading and lighting, artistic rendering, virtual reality, visualization. 
+/
+Native Console Multiplayer Game Development
+Implementation of AAA style multiplayer game running on consoles and DX11. Console development in native C++, console SDKs, engine components, gameplay, networking, data prediction/replication. 
+/
+Introduction to Computer and Network Security
+A broad overview of security threats and defenses, security systems and functionalities, as well as current security practices. Includes homeworks and in-class exercises to provide practical experience working with such systems.
+/
+Introduction to Robotics
+Designing, building and programming mobile robots; sensors, effectors, basic control theory, control architectures, some advanced topics, illustrations of state-of-theart. Teamwork; final project tested in a robot contest. 
+/
+Computer Systems and Applications Modeling Fundamentals
+Techniques and tools needed to construct/evaluate models of computer systems and applications. Analytical and simulation methods, capacity planning, performance/reliability evaluation, and decision-making
+/
+Cryptography: Secure Communication and Computation
+Introduction to modern Cryptography; mathematical/algorithmic studies of methods for protecting information in computer and communication systems: Public-Key Cryptosystems, zero-knowledge proofs, data privacy. 
+/
+File and Database Management
+File input/output techniques, basic methods for file organization, file managers, principles of databases, conceptual data models, and query languages
+/
+Directed Research
+Directed Research
+/
+Final Game Project
+Design, iterative prototyping, and development of a 1st playable level. 
+/
+Final Game Project
+Design, iterative stage 2 prototyping and development of a refined game. 
+/
+Special Topics
+Special Topics
+/
+Introduction to Digital Circuits
+Digital system design and implementation; synchronous design of datapath and control; schematic/Verilog-based design, simulation, and implementation in Field Programmable Gate Arrays; timing analysis; semester-end project. 
+/
+Introduction to Computer Networks
+Network architectures; layered protocols, network service interface; local, wide area, wireless networks; Internet protocols; link protocols; addressing; routing; flow control; software defined network; multimedia networks.
+/
+Parallel and Distributed Computation
+Introduction to parallel programming techniques, models and optimization strategies; Application mapping to multi-core, accelerator, GPU and cloud platforms; High Performance Computing and Data Science applications. 
+/
+Introduction to System-on-Chip
+Design flow, tools, and issues related to System/Network-on-Chip (S/Noc) design for real-time embedded systems with applications in mobile, cloud, aerospace, and medical electronics. 
+/
+Computer Systems Organization
+Register Transfer level machine organization; performance; arithmetic; pipelined processors; exceptions, out-of-order and speculative execution, cache, virtual memory, multi-core multi-threaded processors, cache coherence. 
+/
+Embedded Systems Design Laboratory
+Specification, design, implementation, testing and documentation of a digital system project using embedded processors, programmable logic, analog I/O interfaces and application specific hardware. Capstone design experience. 
+/
+VLSI Circuit Design
+Analysis and design of digital MOS VLSI circuits including area, delay and power minimization. Laboratory assignments including design, layout, extraction, simulation and automatic synthesis. 
+/
+Directed Research
+Directed Research
+/
+Cooperative Education Work Experience
+Supervised work experience in a professional environment related to a specific degree program, academic level, and career objective
+/
+Programming Graphical User Interfaces
+Programming applications with dynamic graphical user interfaces. Topics include events, controls, resources, data bindings, styles and user experience. 
+/
+Video Game Programming
+Underlying concepts and principles required for programming video games (topics include vectors, transformations, 3-D math, geometric primitives, matrices). 
+/
+Professional C++
+Applications of advanced concepts in C++ including lambda expressions, templates, secure coding, parallel programming, writing performant code, CMake and continuous integration. 
+/
+Compiler Development
+Practical applications of techniques used to develop a programming language compiler. 
+/
+Building the High Tech Startup
+Teach students the basic technologies and processes involved in building web and mobile startups. Students will be introduced to the different aspects of building a web startup including online business models, Product management, Agile development processes, technology platforms and operations, customer development and online marketing. 
+/
+Programming Game Engines
+Techniques for building the core components of a game engine; 2-D/3-D graphics, collision detection, artificial intelligence algorithms, shading, programming input devices. 
+/
+Numerical Methods
+Rounding errors in digital computation; solution of linear algebraic systems; Newton’s method for nonlinear systems; matrix eigenvalues; polynomial approximation; numerical integration; numerical solution of ordinary differential equations. 
+/

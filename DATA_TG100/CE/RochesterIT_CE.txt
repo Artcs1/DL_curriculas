@@ -1,0 +1,94 @@
+Introduction to Computer Engineering
+This course overviews the field of computer engineering and provides an appreciation of the computer engineering curriculum. Fundamental concepts of computers, computing and engineering design are introduced. Topics include basic circuits, number systems, digital logic, computer organization, programming in the Matlab environment, teamwork, communication skills, ethics and professionalism, historical background and global, societal and environmental issues related to computers. Lab exercises familiarize students with lab equipment, experiments and data analysis.
+/
+Digital System Design I
+The course covers the specification, analysis, and design of basic digital systems, including the design of combinational and sequential circuits using basic logic components: AND, OR, INV, NAND, NOR, and XOR. Standard modules, such as decoders, multiplexers, shifter registers, adders, and counters, will be analyzed. Lectures will discuss fundamental design methodologies using Karnaugh Maps as well as Mealy and Moore state machines. The laboratory provides hands-on experiences of the design, implementation, and testing of digital systems using SSI, MSI, and FPGA components as well as CAD tools.
+/
+Computer Science I
+This course serves as an introduction to computational thinking using a problem-centered approach. Specific topics covered include: expression of algorithms in pseudo code and a programming language; functional and imperative programming techniques; control structures; problem solving using recursion; basic searching and sorting; elementary data structures such as lists, trees, and graphs; and correctness, testing and debugging. 
+/
+Computer Science II
+This course delves further into problem solving by continuing the discussion of data structure use and design, but now from an object-oriented perspective. Key topics include more information on tree and graph structures, nested data structures, objects, classes, inheritance, interfaces, object-oriented collection class libraries for abstract data types (e.g. stacks, queues, maps, and trees), and static vs. dynamic data types. Concepts of object-oriented design are a large part of the course. Software qualities related to object orientation, namely cohesion, minimal coupling, modifiability, and extensibility, are all introduced in this course, as well as a few elementary object-oriented design patterns. Input and output streams, graphical user interfaces, and exception handling are covered. 
+/
+Project-based Calculus I
+This is the first in a two-course sequence intended for students majoring in mathematics, science, or engineering. It emphasizes the understanding of concepts, and using them to solve physical problems. The course covers functions, limits, continuity, the derivative, rules of differentiation, applications of the derivative, Riemann sums, definite integrals, and indefinite integrals.
+/
+Project-based Calculus II
+This is the second in a two-course sequence intended for students majoring in mathematics, science, or engineering. It emphasizes the understanding of concepts, and using them to solve physical problems. The course covers techniques of integration including integration by parts, partial fractions, improper integrals, applications of integration, representing functions by infinite series, convergence and divergence of series, parametric curves, and polar coordinates.
+/
+University Physics I
+This is a course in calculus-based physics for science and engineering majors. Topics include kinematics, planar motion, Newton's Laws, gravitation, work and energy, momentum and impulse, conservation laws, systems of particles, rotational motion, static equilibrium, mechanical oscillations and waves, and data presentation/analysis. 
+/
+First Year Writing	
+First Year Writing
+/
+Assembly and Embedded Programming
+This course introduces embedded systems, along with fundamental computer organization, assembly language programming, and mixed language programming with C and assembly. Using a modern microcontroller and embedded systems IDE, such as the ARM Cortex-M0+ and Keil Microcontroller Development Kit, the course covers embedded programming concepts and interface modules, as well as addressing methods, machine instructions, assembler directives, macro definitions, code relocatability, subroutine linkage, data structures, I/O programming, exception processing, and interrupts
+/
+Digital System Design II
+This course presents modern approaches to the design, modeling and testing of digital system. Topics covered are: VHDL and Verilog HDL as hardware description languages (HDLs), simulation techniques, design synthesis, verification methods, and implementation with field programmable gate arrays (FPGAs). Combinational and both the synchronous and asynchronous sequential circuits are studied. Testing and design for testability techniques are emphasized and fault tolerant and fail safe design concepts are introduced. 
+/
+Circuits I
+Covers basics of DC circuit analysis starting with the definition of voltage, current, resistance, power and energy. Linearity and superposition, together with Kirchhoff's laws, are applied to analysis of circuits having series, parallel and other combinations of circuit elements. Thevenin, Norton and maximum power transfer theorems are proved and applied. Circuits with ideal op-amps are introduced. Inductance and capacitance are introduced and the transient response of RL, RC and RLC circuits to step inputs is established. Practical aspects of the properties of passive devices and batteries are discussed, as are the characteristics of battery-powered circuitry.
+/
+Engineering Co-op Preparation
+Engineering Co-op Preparation
+/
+Discrete Mathematics for Computing
+This course introduces students to ideas and techniques from discrete mathematics that are widely used in Computer Science. Students will learn about the fundamentals of propositional and predicate calculus, set theory, relations, recursive structures and counting.
+/
+Multivariable Calculus 
+This course is principally a study of the calculus of functions of two or more variables, but also includes the study of vectors, vector-valued functions and their derivatives. The course covers limits, partial derivatives, multiple integrals, and includes applications in physics.
+/
+Differential Equations
+This course is an introduction to the study of ordinary differential equations and their applications. Topics include solutions to first order equations and linear second order equations, method of undetermined coefficients, variation of parameters, linear independence and the Wronskian, vibrating systems, and Laplace transforms.
+/
+Linear Algebra I
+This course is an introduction to the basic concepts of linear algebra, and techniques of matrix manipulation. Topics include linear transformations, Gaussian elimination, matrix arithmetic, determinants, vector spaces, linear independence, basis, null space, row space, and column space of a matrix, eigenvalues, eigenvectors, change of basis, similarity and diagonalization.
+/
+University Physics II
+This course is a continuation of PHYS-211, University Physics I. Topics include electrostatics, Gauss' law, electric field and potential, capacitance, resistance, DC circuits, magnetic field, Ampere's law, inductance, and geometrical and physical optics.
+/
+Introduction to Software Engineering
+An introductory course in software engineering, emphasizing the organizational aspects of software development and software design and implementation by individuals and small teams within a process/product framework. Topics include the software lifecycle, software design, user interface issues, specification and implementation of components, assessing design quality, design reviews and code inspections, software testing, basic support tools, technical communications and system documentation, team-based development.
+/
+Computer Organization
+Provides an understanding of the information transfer and transformations that occur in a computer, with emphasis on the relations between computer architecture and organization. Topics include design levels and their respective primitives, modules and descriptive media, register transfer and micro-operations, basic computer organization and design, central processor organization, control unit and microprogramming, memory organization, input-output organization, computer architecture defining the hardware/software interface, and from architecture to organization
+/
+Applied Programming in C
+An introduction to classical algorithms used in the solution of numerical problems encountered in science and engineering. The C language will be introduced as a tool for implementing these algorithms. Topics include an introduction to C, computer number representation and roundoff error, algorithms for finding roots of nonlinear equations, interpolation, numerical differentiation and integration, function approximation and data fitting solutions to systems of linear equations, and general matrix manipulation.
+/
+Co-op
+After completing Co-op Seminar (EGEN-099) or Co-op Workshop as well as meeting Co-op enrollment requirements, Computer Engineering students should register for CMPE-499 for each term of full-time, paid employment in the Computer Engineering field. Students who take on Spring-Summer or Summer-Fall Co-ops must register for both the semester term and the summer term. Students must obtain permission from the Computer Engineering office for any exception to the assigned Co-op blocks.
+/
+Circuits II
+This course covers the fundamentals of AC circuit analysis starting with the study of sinusoidal steady-state solutions for circuits in the time domain. The complex plane is introduced along with the concepts of complex exponential functions, phasors, impedances and admittances. Nodal, loop and mesh methods of analysis as well as Thevenin and related theorems are applied to the complex plane. The concept of complex power is developed. The analysis of mutual induction as applied to coupled-coils. Linear, ideal and non-ideal transformers are introduced. Complex frequency analysis is introduced to enable discussion of transfer functions, frequency dependent behavior, Bode plots, resonance phenomenon and simple filter circuits. Two-port network theory is developed and applied to circuits and interconnections.
+/
+Digital Electronics
+This is an introductory course in digital MOS circuit analysis and design. The course covers the following topics: (1) MOSFET I-V behavior in aggressively scaled devices; (2) Static and dynamic characteristics of NMOS and CMOS inverters; (3) Combinational and sequential logic networks using CMOS technology; (4) Dynamic CMOS logic networks, including precharge-evaluate, domino and transmission gate circuits; (5) Special topics, including static and dynamic MOS memory, and interconnect RLC behavior.
+/
+Interface and Digital Electronics (WI)
+This course covers various sensors, motors, signal conditioning circuits including amplification, filtering, level shifting, ADC, and DAC. Modern tools, such as Keil ARM MDK and PSpice will be used to simulate and debug modern microcontrollers, such as NXP Kinetis, analog active filters, and operational amplifier application circuits. Each team of two students is required to design a complete data acquisition system from sensors, amplification, filtering, ADC, and DAC to analog outputs through either wired transmission or wireless transmission circuits
+/
+Digital Signal Processing
+This course introduces the basic elements of continuous and discrete time signals and systems and fundamental signal processing techniques, such as FIR and IIR Filtering, the Fourier transform, the Discrete Fourier transform and the z transform. Theory is strengthened through MATLAB-based projects and exercises.
+/
+Computer Architecture
+The course covers various aspects of advanced uniprocessor computer architecture design. Instruction set architecture design alternatives are discussed with emphasis on the Reduced Instruction Set Computer (RISC) architecture. Techniques to enhance CPU performance such as pipelined execution optimizations, conditional branch handling techniques, exploitation of instruction-level parallelism, multiple-instruction issue and dynamic scheduling are studied. Cache, and memory hierarchy design and performance issues are also presented
+/
+Probability and Statistics I
+This course introduces sample spaces and events, axioms of probability, counting techniques, conditional probability and independence, distributions of discrete and continuous random variables, joint distributions (discrete and continuous), the central limit theorem, descriptive statistics, interval estimation, and applications of probability and statistics to real-world problems. A statistical package such as Minitab or R is used for data analysis and statistical applications.
+/
+Multidisciplinary Senior Design I
+This is the first half of a two-semester design course oriented to the solution of engineering problems. The mission is to enhance engineering education through a capstone design experience that integrates engineering theory, principles and processes within a collaborative environment. Working in multidisciplinary teams and following an engineering design process, students will assess customer needs and engineering specifications, evaluate concepts, resolve major technical hurdles, and employ rigorous engineering principles to design a prototype which is fully tested and documented
+/
+Multidisciplinary Senior Design II
+This is the second half of a two-semester design course oriented to the solution of engineering problems. The mission is to enhance engineering education through a capstone design experience that integrates engineering theory, principles and processes within a collaborative environment. Working in multidisciplinary teams and following an engineering design process, students will assess customer needs and engineering specifications, evaluate concepts, resolve major technical hurdles, and employ rigorous engineering principles to design a prototype which is fully tested and documented.
+/
+Digital Integrated Circuit Design
+This course will cover the basic theory and techniques of Digital Integrated Circuit Design in CMOS technology. Topics include CMOS transistor theory and operation, design and implementation of CMOS circuits, fabrication process, layout and physical design, delay and power models, static and dynamic logic families, testing and verification, memory and nanoscale technologies. Laboratory assignments and project facilitate in hands-on learning of circuit-level design and simulation, layout and parasitic extractions, pre and post-layout verification and validation, full-custom flow and Synthesis based flow, using industry standard CAD tools.
+/
+Data and Communication Networks
+This course will give an overview of the technologies, architectures and protocols used to build various types of computer and communication networks - wired or wireless. The emphasis will be placed on discussions of various network design problems and solution approaches. Specific issues covered in this course include: framing and coding, error detection, multiple access control, addressing, routing, flow and congestion control, scheduling and switching.
+/
+

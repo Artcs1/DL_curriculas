@@ -1,0 +1,100 @@
+/
+English Composition I
+Intensive study of and practice in effective expository and argumentative writing.
+/
+World History or Technology
+World History or Technology
+/
+Calculus I
+Mathematics Core. Limits, the derivative of algebraic, trigonometric, exponential, logarithmic functions. Applications of the derivative, antiderivatives, the definite integral and applications to area problems, the fundamental theorem of calculus
+/
+INTRODUCTION TO COMPUTER SCIENCE I
+Introduces the fundamental concepts of object-oriented programming.
+/
+Introduction to Engineering
+Introduction to engineering design, engineering teams, graphical presentation, technical writing, oral presentation.
+/
+INTRODUCTION TO COMPUTER SCIENCE II
+Admission into Bachelor of Computer Science Program. Continues the development of programming from an object-oriented perspective.
+/
+Fundamentals of Computing I
+Introduction to the fundamental concepts of programming from an object-oriented perspective. Emphasis on good software engineering principles and development of the fundamental programming skills in the context of a language that supports the object-oriented paradigm.
+/
+Public Speaking
+communication theory and practice in a public speaking setting, with emphasis on content, organization, delivery, and adaptation to the audience.
+/
+Fundamentals of Computing II	
+Software development in the context of collections (e.g., lists, trees, graphs, hashtables). Communication, teamwork, and a design experience are integral course experience.
+/
+Core Literature
+Core Literature
+/
+Science 
+Science 
+/
+Digital Logic Circuits
+Electronic devices and digital circuits; binary numbers; Boolean algebra and switching functions; gates and flip-flops; combinational and sequential logic circuits; hierarchical design of digital systems; computer-aided design tools for digital design, simulation, and testing.
+/
+Topics in Linear Algebra
+Matrices, row-reduction, systems of linear equations, (finite-dimensional) vector spaces, subspaces, bases, dimension, change of basis, linear transformations, kernels, orthogonality, Gram-Schmidt.
+/
+Software Construction
+Intensive experience in software construction, to include topics such as testing, debugging, and associated tools; configuration management; low-level file and device I/O; systems and event-driven programming.
+/
+Discrete Structures
+Characterization of computer science data structures and algorithms in terms of sets and relations, functions, recurrence relations. Use of propositional and predicate calculus to describe algorithms. Proving correctness and running time bounds for algorithms by induction and structural induction.
+/
+Probability and Statistics I
+Calculus-based introduction to probability and statistics with an emphasis on practical problem-solving.
+/
+Principles of Programming Languages
+Study of programming language principles supporting procedural abstraction, data abstraction, storage allocation, and parallel execution; language types and examples; language translations.
+/
+Introduction to Algorithms
+Algorithms for standard computational problems and techniques for analyzing their efficiency; designing efficient algorithms and experimentally evaluating their performance.
+/
+Computer Organization and Assembly Language Programming
+Stored Program Computers, hardware and software components; data representation, instruction sets, addressing modes; assembly language programming; linkers, loader, and operating systems.
+/
+Introduction to Ethics
+Major ethical theories from the history of philosophy, their foundations in epistemology and metaphysics, and their extension into social thought
+/
+Introduction to Operating Systems
+Structure and functions of operating systems; processes and process scheduling; synchronization and mutual exclusion; memory management; auxiliary storage management; resource allocation and deadlock; security, privacy, and ethical concerns; design tradeoffs.
+/
+Software Modeling and Design
+Current processes, methods, and tools related to modeling and designing software systems. Communication, teamwork, and a design experience are integral course experiences.
+/
+Formal Languages
+Fundamentals of formal languages including mathematical models of regular sets, context-free languages and Turing machines; deterministic and non-deterministic models.
+/
+Introduction to Computer Networks
+Fundamentals of computer networks, OSI model, LAN, WAN, packet transmission, interworking, Internet Protocol, WWW and Java technology.
+/
+Computer Ethics
+Application of ethical principles to computing-related topics, including privacy, property rights, autonomy, access, and diversity. Communication and teamwork are integral course experiences.
+/
+PARALLEL SYSTEMS
+Overview of hardware and software issues in parallel systems: fundamental parallel architectures, programming languages, tools and algorithms, and parallel applications.
+/
+WIRELESS AND MOBILE NETWORKS
+Mobile IP, wireless routing, location management, ad-hoc wireless networks, wireless, wireless TCP personal communication systems, and current mobile phone OTA protocols.
+/
+FORMAL LANGUAGES
+Fundamentals of formal languages including mathematical models of regular sets, context-free languages and Turing machines; deterministic and non-deterministic models. Basics of interpretation and complilation.
+/
+COMPUTER ETHICS
+Application of ethical principles to computing-related topics, including privacy, property rights, autonomy, access, and diversity.
+/
+DATABASE I
+Admission into Bachelor of Computer Science Program. The design and implementation of database applications, with a focus on relational database management systems.
+/
+MOBILE APPLICATIONS I
+Software development for wireless applications: specification, process, testing, and performance evaluation. Design and development of wireless application layer software, including current protocols.
+/
+ALGORITHMS II
+Advanced complexity analysis techniques, notions of computational complexity, polynomial time hierarchy, computability, algorithms that solve advanced computational problems, advanced algorithm design techniques, computational problem solving.
+/
+ALGORITHMS I
+Introduction to algorithms as tools for computational l problem solving, language of algorithms, understanding algorithms, approximately analyzing correctness and efficiency of algorithms, algorithms that solve fundamental computational problems, basic algorithm design techinques, steps of computational problem solving.
+/

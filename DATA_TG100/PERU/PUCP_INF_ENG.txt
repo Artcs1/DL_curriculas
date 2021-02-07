@@ -1,0 +1,238 @@
+Matrix algebra and analytical geometry
+It is a theoretical and practical course that contributes to the achievement of general competence to learn to learn because it develops the ability to apply knowledge of mathematics to solve problems. In this course, the following three topics are covered: analytical geometry, with the definitions and important properties of the line, circumference, parabola, ellipse and hyperbola, and axis rotation; matrix algebra, which includes the definitions and operations of vectors and matrices applied in the resolution of homogeneous and non-homogeneous linear systems, and which also includes the calculation of vectors and values of a matrix; complex numbers and their basic operations. In this course, the application of all these topics in the resolution of intra-mathematical and extra-mathematical problems is proposed.
+/
+Academic communication
+The course is theoretical-practical in nature and develops students' communicative competence. Activities are proposed that stimulate the understanding and production of oral and written speeches of a student who begins his university studies. An important aspect of the course is the management of the formal variety and mastery of the current spelling and grammar rules of Spanish. Through an active and collaborative methodology, students learn to make appropriate bibliographic searches and elaborate well-structured, clear, well-founded, coherent and coherent texts. During the course, students analyze and write short academic texts, technical or scientific reports, administrative documents, summaries, reviews, among others. They also make oral presentations with the support of appropriate technological tools.
+/
+Fundamentals of calculation
+It is a theoretical and practical course that contributes to the achievement of general competence to learn to learn because it develops the ability to apply knowledge of mathematics to solve problems. In this course, the basic principles of mathematical logic are used to analyze, conjecture, and make indirect or direct demonstrations. Likewise, the principle of mathematical induction is applied as a method of direct demonstration and inequalities are solved using properties of inequalities in real numbers. In addition, the fundamental concepts and properties of the real functions of the real variable are addressed, such as linear, polynomial, rational, absolute value, exponential, logarithmic, trigonometric and inverse trigonometric functions. Also, the knowledge of these functions is deepened by applying operations with functions, the composition of functions, injective function and inverse function in the resolution of intra-mathematical and extra-mathematical problems.
+/
+Physics basics
+The mechanics of the particle are approached in a theoretical-practical way, deepening the themes of kinematics and dynamics; For this purpose, operations with scalar and vector magnitudes are performed. In kinematics, subjects of rectilinear motion, cases of constant velocity or acceleration, bodies in free fall and their graphic representation in time, as well as projectile motion are studied. In dynamics, Newton's three laws, the concepts of mass and weight, and frictional force are developed. Finally, learning spaces are generated for the application of the basic concepts of Work and Energy.
+/
+Chemistry 1
+In this theoretical-practical course, the basic principles of matter and modern atomic structure are developed, which are the basis for treating the chemical bond (ionic, covalent and metallic). In addition, the states of matter, which include the laws of gases, the properties of liquids and solids, and phase changes are studied. The issues of solutions (types and calculation of concentrations) and the stoichiometry of chemical reactions are addressed. The basic concepts of stoichiometry and thermochemistry are provided. The themes are developed by providing examples of situations in which they are applied, with emphasis on those of interest to science and technology
+/
+Chemistry Lab 1
+This is a practical course in which the subjects of Chemistry 1 serve to develop the capacity of observation, analysis and data management, and relate the concepts studied, with their experimental observations, to be able to reach conclusions and formulate an explanation to the experiment performed , expressing observations and results in a written report.
+/
+Diferential calculus
+It is a theoretical and practical course that contributes to the achievement of general competence learning to learn, since it develops the ability to apply knowledge of mathematics to solve problems. The course focuses on the study of the differential calculation of real functions of the real variable and its applications to science. In this course, the fundamental concepts and properties of limits, continuity, derivative, indefinite integral and ordinary differential equations of the first order in the solution of various exercises and intra-mathematical and extra-mathematical problems are developed.
+/
+Science and philosophy
+The course is oriented to the study of philosophy and its connection with science. Central aspects of the origin, nature and specificity of both philosophical knowledge and scientific knowledge are examined, taking into account the contrast and links between them. Additionally, the main conceptions linked to the current philosophical debate on science are taken into consideration. Likewise, we proceed to the study and discussion of various issues related to the impact of science and technology on society; or with the moral, social and other problems they raise; as well as issues related to the value and scope of scientific knowledge itself.
+/
+Engineering drawing
+In the course, the use of drawing instruments is taught. The symbols used in the drawing of lines and the way of labeling are explained. The theme of scales, geometric constructions in the plane, views of a solid and fundamental themes of descriptive geometry is developed. Likewise, the issues of intersections and developments are discussed. The student participates dynamically in interdisciplinary work teams according to the different roles that the common objective requires. The student shows ability to solve problems, graphically represents three-dimensional objects in two dimensions and visualizes three-dimensional views of a solid. However, within the human formation, institutional identification, teamwork, punctuality, respect and trust are punctuated.
+/
+Physics 1
+The mechanics of the particle and particle systems are studied in a theoretical and practical way, developing the student's ability to apply his or her knowledge of mathematics in solving engineering problems using critical thinking and the attitude to face complex problems. The mechanics of the particle include both its kinematic and dynamic study. Emphasis is placed on these capabilities that strengthen the skills of learning to learn; then, we proceed to study the methods based on the concepts of work and energy as an alternative to Newton's laws for the description and study of movement. The mechanics of particle systems include the use of the principles of conservation of linear momentum, energy and angular momentum for the study of the interaction of two or more particles, even considering the case in which the particles do not change their relative position between them
+/
+Physics Laboratory 1
+Through laboratory sessions, the course allows students to verify theoretical knowledge through previously designed experiments with the purpose of developing skills and dexterity in the use of laboratory instruments, acquiring data and processing them by software, communicating results by working in teams . Develop attitudes and skills to achieve the following competences: learn to learn, training the student to solve problems and perform basic operations of experimental work; communication, when the student presents clear and precise technical reports using the language correctly; Personal and academic performance, when the student shows behavior based on values and professional ethics, applies his critical thinking skills and dynamically participates in work teams.
+It covers the following contents: measurements and theory of uncertainties, particle mechanics that comprise kinematics, dynamics, work and energy, particle system mechanics that include momentum and amount of movement, and rigid body mechanics.
+/
+Academic work
+The course is theoretical-practical in nature and initiates the student in the academic research competence, emphasizing the development of critical thinking. This involves the approach of a research question and the proposal of a working hypothesis for the writing of an own essay based on a bibliographic search with ethical and academic criteria. The student writes texts with a clear communicative purpose, with appropriate organization of information from academic and scientific sources, and applying current spelling and grammar rules. Likewise, activities are carried out so that the student is able to support and defend their ideas orally and in writing, taking into account the communicative context, and the social and cultural aspects of reality.
+/
+Foreign language (Basic level of English)
+Foreign language (Basic level of English)
+/
+Integral calculus
+It is a theoretical and practical course that contributes to the achievement of general competence in learning to learn, since it develops the ability to apply knowledge of mathematics to solve problems. The course focuses on the study of the integral calculation of real functions of a variable and its applications to science and engineering. In the course, the concepts of a definite integral of a function and the basic integration methods for obtaining the integral that are used for the calculation of areas of flat regions, volumes of solids of revolution, centers of mass of thin sheets and homogeneous, curve lengths in Cartesian and polar coordinates, approximate calculation of integrals using Taylor polynomials, and resolution of linear ordinary differential equations with constant coefficients with applications to physics. In addition, the concept of the integral is generalized to the calculation of improper integrals and the study of their convergence.
+/
+Calculation in several variables
+It is a theoretical and practical course that contributes to the achievement of general competence in learning to learn by developing the ability to apply knowledge of mathematics to solve problems. In this course, the fundamental concepts and properties of differential and integral calculus are developed in different variables (limits, continuity and derived from vector functions of real variable, real and vector functions of vector variable, double and triple integrals) to understand, represent, interpret and explain some physical phenomena through relationships between the different real variables that characterize them
+/
+Discrete structures
+Elements of discrete mathematics associated with computer logic, such as numbering systems, binary logic and directed graphs, are described.
+In addition, discrete structures of computer theory are explained, such as Boolean algebras, finite state machines and the grammar of formal languages.
+/
+Physics 2
+The purpose of the course is for the student to develop the ability to use theoretical concepts and apply appropriate strategies for solving engineering problems, in addition to developing their critical thinking to analyze the results obtained, and to interpret them in context of application to problems real. To give the solution you must use your own vocabulary. The student should consult bibliography in English and be able to make informed judgments relevant to the subject.
+The deformation of solid bodies due to the effect of external forces, oscillatory motion and mechanical waves is studied as a form of energy transmission. Likewise, some topics of fluid mechanics are treated, such as hydrostatics and hydrodynamics, as well as those related to heat and thermodynamics.
+/
+Physics Laboratory 2
+The course is developed in a practical way and is focused on getting the student to properly relate the theoretical knowledge of the Physics 2 course with experiments designed for this purpose, using laboratory instruments and software that facilitates the analysis of their data. The student develops the ability to observe, analyze and work in teams through laboratory practice sessions. Likewise, you must properly communicate your results and conclusions when preparing a report at the end of each session. It covers the following contents: elasticity, oscillations, wave phenomena, fluids and thermodynamics.
+/
+Programming Fundamentals
+The course is theoretical-practical in nature and aims to develop the skills to solve various problems of science and engineering by proposing alternative solutions that use imperative programming as a tool. The basic notions of propositional logic are developed with emphasis on denial, conjunction and disjunction. Likewise, the concepts necessary for the design of algorithms are studied, emphasizing the representation of selective and iterative algorithmic structures by means of the flowchart and the pseudocode. Finally, the algorithms will be implemented using an imperative programming language.
+/
+Applied Calculation
+It is a theoretical and practical course that contributes to the achievement of general competence to learn to learn because it develops the ability to apply knowledge of mathematics to solve problems. In this course, the fundamental concepts and properties of the line and surface integrals are developed, applied to the calculation of the work performed by a force to move a particle along a curve and to calculate the flow of a vector field that crosses a surface; the power series and the Fourier series, applied to the solution of linear ordinary differential equations of second order with variable coefficients and to the solution of linear partial differential equations, respectively; and the Laplace transform, applied to the solution of some ordinary differential equations.
+/
+Physics 3
+The purpose of the course is for the student to develop the ability to use theoretical concepts and apply appropriate strategies for solving engineering problems, in addition to developing their critical thinking to analyze the results obtained, and to interpret them in context of application to problems real. To give the solution you must use your own vocabulary. The student should consult bibliography in English and be able to make informed judgments relevant to the subject.
+The course includes the topics of electric charge, the electric field, the electric potential, capacitors, the DC circuits, the magnetic field, the magnetic force on a load and a conductor with current, and the laws of Ampere and Biot- Savart Likewise, Faraday's law and magnetic energy are studied, as well as alternating current circuits, followed by the study of electromagnetic waves (OEM) in a vacuum.
+/
+Physics Laboratory 3
+Its nature is essentially experimental and of solid scientific formation. Its purpose is to develop skills in the use of laboratory instruments in the areas of electricity and magnetism, through techniques, methods and procedures for the analysis of experimental data using software to verify the physical phenomena that occur in nature and in the labor sphere. Develop attitudes and skills to achieve the following competences: understanding of physical phenomena, analysis and synthesis, application of theoretical knowledge in practice, oral and written communication, teamwork, research skills, ethical commitment, motivation to achieve objectives . It covers experiences of laboratory of electricity and magnetism.
+/
+Programming techniques
+The necessary tools for the elaboration of computer programs using a programming language are described. The topics of structured programming, modular programming and descending design are presented.
+Topics related to data storage, the life cycle of a software development process, the general structure of a program and the different existing methodologies for program development are discussed.
+/
+Literature
+The course develops in a theoretical and practical way the situation of the literature of the present, and gives the student the means to appreciate and criticize new trends and literary personalities.
+/
+Prehispanic technology
+The course develops in a theoretical and practical way pre-Hispanic tools (lithic artifacts and ceramic vessels), adaptations to the environment and subsistence
+/
+Science, ethics and Christianity
+The course is structured in three units: the first, addresses the correlation between science, ethics and the religious dimension of being human, within the panorama of the different dimensions of knowledge; the second, deepens ethics primarily as a way of thinking, acting and intervening about reality; a way of living and performing personally and socially, and the third is focused on the search for meaning and transcendence of the person through their religious dimension and in particular Christianity. It is about the student acquiring their own and responsible criteria on these issues located in the reality of Peru and today's world.
+/
+Data structure and methodical programming
+Introduction and motivation. Fundamentals of algorithm efficiency analysis: order of growth, asymptotic notations. Formal specification and implementation of the most relevant data types: queues, stacks, lists, binary trees, binary search trees, scatter tables and graphs. Construction of programs from their specification with precondition and postcondition: specification of assertions by means of predicates, the weakest predicate, definition of instructions by means of the weakest predicate. Invariant loop and dimension function. Verification of programs. Formal derivation of programs.
+/
+Engineering Statistics
+Descriptive statistics: Introduction, organization and processing of data, numerical summaries of
+data. Probability: Introduction, basic concepts of probability, conditional probability, theorem
+of Bayes, discrete and continuous random variables, central limit theorem. Inferential Statistics:
+Estimation, punctual and interval estimation, hypothesis test, hypothesis test for the average and
+proportions
+/
+Digital electronic
+Introduction to the microprocessor. Assembly language. Boolean algebra Numbering systems and codes. Combinational circuits Sequential circuits Memories: memory devices, memory expansion
+/
+Management and Business Management
+Fundamentals of the Administration. Evolution of the Administrative Approach. Systems approach. Planning. Organization. Direction. Control
+/
+Databases
+Methodology and design techniques of organizational databases. Database Management Systems (SABD). SABD use tools in multi-user transactional environments. Integrity and data security. Data models, relational model, standardization, Descendent design methodology (Top-Down), languages for data processing, client / server, concurrency and transaction process.
+/
+Algorithmics
+Introduction. Sequential and binary search. Sort by exchange, sort by selection, collation, insertion, exchange, bubble, shell. Recursive Algorithms Algorithmic Strategies Applications of data structures: stacks, queues, binary search trees and graphs. Cryptography.
+/
+Computer Organization and Architecture
+Introduction. Central process unit-CPU. Memories: types, hierarchy, semi-conductive memories, cache, principal. Entrance exit. Mass storage devices Controllers and peripherals. Interface with high layers of software. Performance Analysis
+/
+Economic engineering
+The value of money over time. Equivalence factors. Nominal interest rate and effective interest rate. Credit operations. Inflation. Basic accounting concepts. Weighted capital cost. Depreciation. Project evaluation. Project sensitivity analysis.
+/
+Information Systems 1
+Basic concepts. Business organization. Software life cycle phase. Participants in an information systems development project. Structured analysis. Introduction to human-computer interaction: graphic interface design, usability evaluation of graphical interfaces. Structured design. System implementation. .Other life cycle models.
+/
+Programming Language 1
+Types of programming languages. C ++ Language Structured programming techniques: flow control, functions and scope of variables, pointers and arrays, structures. Object-oriented programming: inheritance, polymorphism, overloaded operators, input and output, exceptions.
+/
+Methods and Procedures
+The company and its forms of organization. Types of organization Methods and procedures Manuals, their structure and content. Terminology and notations used. Conversion, commissioning and control methodologies.
+/
+Operating systems
+Introduction. File systems. Operating system concepts: modes of operation, resource management, shell, address space, pipes, system calls, structure of an operating system. Processes and Threads. Communication between processes. Process planning. Memory management Virtual memory.
+/
+Information Systems 2
+General concepts. System development cycle. Obtaining requirements from UML. Analysis of an information system with UML. Design of an information system with UML: software architecture, architectural patterns, carving design. Implementation of an information system with UML.
+/
+Computer Science Applications
+Compiler theory: Introduction, lexical analysis, syntactic analysis, Intermediate code generation. Principles of Artificial Intelligence: introduction, knowledge representation, heuristics and metaheuristics, introduction to expert systems, advanced topics of Artificial Intelligence.
+/
+Programming Language 2
+Programming under operating systems of graphical environment, object oriented, with graphical user interfaces, concurrent and distributed. Tools for programming in graphic environments Libraries, resources and messages, common dialog boxes, toolbars, views and multiple documents, connection to databases, static and dynamic libraries, multi-threaded and multi-threaded, OL technologies. Java language programming using graphic resources , applets and applications. '
+/
+Communications Theory
+Basic concepts and applications of information theory, analog and digital modulation, means and modes of transmission, digital and baseband transmission, error detection and correction. Introduction to digital communication systems, data communication.
+/
+Supervised Pre-Professional Practice
+The pre-professional supervised internship program in telecommunications engineering (PSPTel) is a personal achievement space framed within a coherent set of professional activities. It is carried out in the context of an organization related to Information and Communication Technologies (ICTs). The practicing student lives a real experience, under the supervision of a tutor from the company and a professor from the University, who evaluates and qualifies the student's performance and the experience gained.
+/
+Operational Research 1
+Introduction to operations research. Linear programming. Graphic solution of the problems of
+linear programming. Formulation of linear programming problems. Linear programming with several
+objectives. Whole linear programming. Primal-simplex and dual-simplex methods. Sensitivity Analysis
+/
+Industrial Management Control
+Accounting in the administration of companies. The financial aids. The loss status and
+earnings. The registration process. Financial statement analysis. Cost accounting.
+Relevant costs and the contribution approach. Breaking point system. Assignment
+costs and cost system based on activities. Cost accumulation system by
+order. Standard cost accumulation system. Cost accumulation system by
+process
+/
+Numerical Experimentation
+In this course, students are expected to develop the capacity to design, execute and analyze quantitative experiments in Computer Science. Topics such as: experimental design, variable selection, hypothesis formulation, case study selection, parametric and non-parametric tests, correlations, linear regression, ANOVA, Cronbach's alpha, analysis and interpretation and validity of the experimentation will be seen.
+/
+Computer networks
+Introduction.Transmission media and structured cabling.Network technologies. Network interconnection devices. Wireless networks. Architecture TCP / IP. Fundamentals of IP routing. Dynamic routing protocols. Soils and super networks. Transport layer protocols. ICMP network address translation. Application layer protocols. Network Security Emerging technologies in computer networks.
+/
+Enviarcomentarios
+Historial
+Guardadas
+Comunidad
+Software Engineering
+Historical development.Concepts about productivity and project engineering. Definition of requirements.Notations for component specification.Programmingtechniques.and for program tests.Provision for operation and maintenance.Recommendations for documentation.Evaluationtechniques..It is complemented with laboratory sessions through the teaching technique POL (Project Oriented Learning ).
+/
+Program Development 1
+Definition of requirements. Specification of components.Development of a prototype.Development of a preliminary or modest version. Documentation.
+/
+Business Models and Simulation
+Concepts about models. Concepts about simulation. Concepts about business management. Characteristics and objectives. Design considerations Techniques and development tools. Practical applications.
+/
+Computer Function Administration
+Computer structure of the organization, management unit of the computer function: goals and objectives, functions, human resources, computer infrastructure, information systems, etc. Internet: intranets, extranets, e-commerce. Considerations: outsourcing, emerging technologies, administration of changes. Security. Ethical and legal informatics aspects.
+/
+Operating Systems Administration and database
+Introduction to Systems Administration.Operation of the Operating System.LocalAdministration.Network and domain administration.Networksecurity.DBA introduction: DBA functions, criteria for selecting aSABD.System administrator systems: storage scheme , indexing and association, query processing, transactions, concurrency, recovery. Administration of a relational database system.
+/
+Strategic planning in computer science
+Planning and strategies. IT, technology and business. Business processes. Strategic planning: objectives and methodologies. Scope and content of strategic planning. Portfolio Management Information systems. Technical aspects of information technologies and information systems. Execution strategies and impact analysis. Knowledge Management Strategic management and strategic control.
+/
+Thesis Project 1
+The basis of continuity management is made up of policies, guides, standards and
+procedures implemented by an organization. All design, implementation, support and
+ICT maintenance must be based on obtaining a good business continuity plan, disaster recovery and in some cases, system support.
+/
+Program Development 2
+Definition of requirements. Component Specification Development of a prototype. Development of a preliminary or modest version. Documentation.
+/
+Thesis Project 2
+The course includes the presentation of theoretical and practical foundations related to current ways of managing Business Continuity, based on the Business Continuity Institute (BCI) (UK) practices.
+/
+Operational Research 2
+Markov chains. Queue theory. Network theory. Project planning and control (PERT / CPM). Dynamic programming
+/
+Integral Security
+Basic aspects.Preventive organization in the company. Effects on efficiency and profitability. Effects on efficiency and profitability. Safety techniques.Fire and explosion prevention.Electricalrisks.Security in the plant. Industrial hygiene and health. Chemical and biological contaminants. Environmental physical agents Occupational medicine. Ergonomics. Ergonomics: anthropometry and biomechanics. Ergonomics: applications to the design of jobs. Ecology, pollution and environmental control. Manual of safety, health and work environment. Evaluation of occupational health and safety management systems.
+/
+Video games development
+Video games development
+/
+Graphic Schema Theory
+The course allows students to introduce some of the most relevant algorithmic problems in the area of graph theory. Graphs are useful in many areas of computing, mathematics and engineering, as they are a good model for many fundamental problems in these areas. One of the central concerns of graph theory is to build efficient algorithms for these problems. The course begins with basic concepts of
+Graphic Schema Theory. Subsequently, it studies the existing problems in graphs, analyzing and implementing the main algorithms to solve them. It is not a theoretical course. It is expected that, at the end of the course, the student will have the necessary computational tools to design and implement each of the algorithms studied in a practical situation.
+/
+Programming of mobile devices
+This course takes student programming knowledge, acquired in the first Computer Science courses offered in his career, and prepares and trains him in the development of applications for mobile devices for different platforms. It is based fundamentally on the solid knowledge that the student possesses in object-oriented programming, algorithm management and data structure as well as programming in HTML, JavaScript, C ++, C # and Java languages.
+/
+Web Technologies
+Development of web pages. Development of web applications. Architecture and security of business web applications.
+/
+Business intelligence
+Fundamentals, concepts and basic components for the development of a BI system and main characteristics for the management of a project of this nature. Detail of each phase in the implementation of a BI project and development of a Data Warehouse as a source of information in the project BI.
+/
+Artificial intelligence
+Search strategies. Complexity of algorithms and problems. Problem solving. Expert systems. Neural networks based on knowledge and its application in the identification of patterns. Learning. Expert systems and databases. Representation of uncertainty.
+/
+Computer Graphics
+Components of a graphic system and applications; primitives of a core graphics system; transformations of the plane, views and cuts; interaction with a graphics system; Space transformations allowing the student to acquire basic and practical theoretical knowledge in the design, development and implementation of graphic computing systems.
+/
+Compiler Theory
+Concepts and phases involved in the design and implementation of compilers for high-level languages. Analysis: lexicaly syntactic, code generation and memory management and management at runtime.
+/
+Expert systems
+General characteristics. Design considerations. Development techniques and methods. Business management and expert systems. Design, implementation and testing of real expert systems. Commercial applications
+/
+Machine Learning
+In Science and Data Analytics one of the most common tasks that are developed are prediction and machine learning. Machine learning is the science of getting computers to act without being explicitly programmed. In this course you will learn the most effective machine learning techniques and their respective applications.
+The course gives an introduction to machine learning, data mining and statistical pattern recognition. It includes topics such as: supervised learning, unsupervised learning and advanced applications and topics.
+/
+Analysis of data
+Due to the increased demand for specialists with knowledge of techniques and skills in storage, analysis, interpretation and knowledge generation from increasingly complex, diverse and larger volume data sets, this course seeks to train students in data analysis, so that they can apply better techniques in any area or organization that requires to exploit data and produce relevant information.
+The course gives an introduction to the KDD (Knowledge Discovery in Databases) methodology. It includes topics such as: acquisition and preparation of data, transformation or extraction of features, data mining, visualization of results.
+/
+Software Construction Process 1
+Software Construction Process 1
+/
+Person - Computer Interaction
+Person - Computer Interaction
+/

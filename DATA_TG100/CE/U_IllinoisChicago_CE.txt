@@ -1,0 +1,204 @@
+﻿/
+Statistical Digital Signal Processing. 
+Stochastic signal models, LMS identification, identification of signals from noise, Wiener filtering, blind separation of mixed signal, discrete Wavelet Transforms, compression and denoising, ceptral analysis.  
+/
+Introduction to Logic Design. 
+Number Systems; Binary arithmetic; Boolean/Logic functions; Boolean Algebra; logic gates, their CMOS design; function minimization, analysis and synthesis of combinational and sequential circuits.  
+/
+Introduction to Filter Synthesis.  
+Fundamentals of network synthesis, filter approximations and frequency transformations. Active filter synthesis using bi-linear and bi-quad circuits. Topics in computer-aided design. 
+/
+Digital Systems Design. 
+Switching algebra, combinational circuits, Mux, ROM, DCD, PLA-based designs, advanced combinational circuit minimization techniques, sychronous and asynchronous squential circuit synthesis (minimization, hazards, races, state assignment) testing.  
+/
+Advanced Computer Architecture.  
+Design and analysis of high performance uniprocessors. Topics include arithmetic: multiplication, division, shifting; processor: pipelining, multiple function units. instruction sets; memory: caches, modules; virtual machines.
+/
+General Physics II (Electricity and Magnetism).
+Electrostatics; electric currents; d-c circuits; magnetic fields; magnetic media; electromagnetic induction; a-c circuits; Maxwell’s equations; electromagnetic waves; reflection and refraction; interference; geometrical optics. 
+/
+Systems Programming.
+Study of computer systems emphasizing impact on application level programming. Virtual memory and memory management; code optimization; system-level I/O; concurrency:  processes, threads, synchronization; introduction to network programming. 
+/
+Calculus III.
+Vectors in space, functions of several variables, partial differential and optimization, multiple integrals, vector fields, Green?s Theorem, Stokes Theorem. 
+/
+Applied Linear Algebra.  
+Matrices, row reduction algorithm, vector spaces, LU-decomposition, orthogonality, Gram-Schmidt process, determinants, inner products, eigenvalue problems, applications to differential equations and Markov processes. 
+/
+Introduction to Electromagnetics and Applications. 
+Transmission lines. Plane waves in various media. Polarization and Stoke's parameters. Scalar and vector potentials. Guided wave propagation. Radiation. Linear antennas and antenna parameters.  
+/
+Robotics: Algorithms and Control. 
+Kinematic and dynamic modeling of robots; configuration space; motion planning algorithms; control of robots; sensors and perception; reasoning; mobile robots. 
+/
+Analog Communication Circuits. 
+Introduction to radio frequency circuit design: narrowband transistor amplifiers, impedance matching networks, oscillators, mixers, amplitude and frequency modulation/demodulation, phase-lock loop circuits, amplifier noise and stability analysis. Laboratory. 
+/
+General Chemistry I Lecture. 
+A first-semester course in general chemistry, including stoichiometry, periodicity, reaction types, the gaseous state, solution, chemical equilibria, acid-base equilibria, dissolution-precipitation equilibria.
+/
+Codes and Cryptography.  
+Mathematics of communications theory, basic information theory necessary to understand both coding theory and cryptography, basic ideas and highlights for both coding theory and cryptography, including public-key cryptosystems.
+/
+Microdevices and Micromachining Technology.  
+Microfabrication techniques for microsensors, microstructures, and microdevices. Selected examples of physical/chemical sensors and actuators. Simulation experiments. 
+/
+Control Engineering.  
+State-space representation of systems; realization theory; stability; performance; modern control design techniques, including: fuzzy, learning, adaptive and nonlinear control. 
+/
+Digital Communications.  
+Source coding, quantization, signal representation, channel noise, optimum signal reception, digital modulation: ASK, PSK, FSK, MSK, M-ary modulation. Probability of error. Inter-symbol interference. 
+/
+Linear and Non-Linear Programming. 
+Linear programming, simplex algorithm, degeneracy, duality theorem sensitivity analysis, convexity, network simplex methods, assignment problems. Constrained and unconstrained minima. Quasi-Newton methods. Ellipsoidal methods of Kachian. 
+Continuous-time signals and spectra; amplitude and angle modulation, sampling and quantization theory; digital pulse modulation, error probability, commercial broadcasting practices. 
+/
+Analysis and Design of Power Electronic Circuits. 
+Analysis of different isolated and non-isolated power-converter topologies, understanding of power-converter components, switching schemes. 
+/
+Academic Writing I: Writing in Academic and Public Contexts.  
+Students write in a variety of genres with an emphasis on argument and sentence-level grammar. 
+/
+Introduction to Embedded Systems. 
+Introduction to embedded systems and microcontroller; instruction set; data representations; assembly programming; mixed C/assembly programming; memory organization; interrupt processing; I/O devices and interfacing; programming laboratory.
+/
+Probability and Random Processes for Engineers.
+Probability, random variables, discrete and continuous distributions, transformation of random variables, expectation, generating functions, statistical inference, hypothesis testing, estimation, random processes, stationarity, applications. 
+/
+Computer Organization.  
+Software/hardware interaction in a computer. Compiler, assembler and linker, machine code. Clocking, datapath, control unit, ALU and memory design, cache memory, pipelining. 
+/
+Senior Design I. 
+Introduction to the principles and practice of product design: specifications, evaluation of design alternatives, technical reports, and oral presentations. Independent design projects. 
+/
+Solid State Device Theory. 
+Introduction to semiconductors, Energy bands, Electron and hole transport mechanisms in semiconductor devices, recombination and generation, P-N Junctions.  Intro to metal-oxide-semiconductor field effect transistors. 
+/
+Multimedia Systems.  
+Multimedia systems; compression standards; asynchronous transfer mode; Internet; wireless networks; television; videoconferencing; telephony; applications. 
+/
+Analog and Mixed - Signal Integrated Circuits.
+Review of basic analog concepts; Sampling and mixed-signal interface circuits; analytical analysis and CAD-based design/simulation; emphasis on compact modeling, design tradeoffs, and intuitive design approaches. 
+/
+RF and Microwave Guided Propagation. 
+Maxwell's equations, transmission lines, Smith chart, strip lines, rectangular and circular waveguides, TE and TM waves, wave impedance, resonators, two-portal parameters, power and energy considerations. 
+/
+Introduction to Thermal Physics. 
+Calculus-based introduction to thermal physics. The first and second laws of thermodynamics, entropy, free energy, statistical physics, and their applications. 
+/
+Digital Signal Processing I.  
+Sampling theorem; discrete signals and systems; discrete time Fourier transform; DFT; FFT; IIR and FIR digital filter design; stability; DSP applications.  
+/
+Professional Development Seminar..
+Graduating seniors will be provided with information regarding future career paths and will provide information regarding the program to be used for assessment purposes.
+/
+Fundamentals of Modern Quantum Theory. 
+Modern introduction to the quantum theory including discrete systems (qubits, etc.), quantum measurement theory, entanglement, Bell?s Theorem, the Uncertainty Principle, one-dimensional potential models, and the Schrodinger-von Neumann equation. 
+/
+Introduction to Differential Equations.  
+Techniques and applications of differential equations, first and second order equations, Laplace transforms, series solutions, graphical and numerical methods, and partial differential equations. /
+Engineering Orientation.  
+A general orientation course on careers in the engineering profession. Discussion of college advising procedures. Required of all engineering students. 
+/
+Image Analysis and Computer Vision I.  
+Image formation, geometry and stereo. Two-dimensional image analysis by fourier and other 2-D transforms. Image enhancement, color, image segmentation, compression, feature extraction, object recognition. 
+/
+Introduction to Computing and Programming. 
+Access and use of computing resources. Programming and program design. Problem solving. Data types, control structures, modularity, information hiding. 
+/
+Pattern Recognition I. 
+The design of automated systems for detection, recognition, classification and diagnosis. Parametric and nonparametric decision-making techniques. Applications in computerized medical and industrial image and waveform analysis. 
+/
+Computer Communication Networks II. 
+Explores integrated network architecture of service, control signaling and management, examples of high-speed LAN/WAN, next generation Internet and mobile wireless network. 
+/
+Nanoelectronics. 
+Wave-particle duality, Schrodinger equation, atomic orbitals, band theory of solids. Semiconductor and carbon nanoelectronic materials. Nanostructure device fabrication. Nanoelectromechanical systems. 
+/
+Hardware Description Language Based Digital and Computer System Design.
+Hardware description language (HDL) introduction; digital system design including arithmetic circuit, datapath and control; basic processor architecture and design; use of CAD tools for simulation, synthesis, and verification. 
+/
+Introduction to VLSI Design.  
+MOS, CMOS circuits VLSI technology, CMOS circuit characterization and evaluation. Static and dynamic MOS circuits, system design, faults, testing, and symbolic layout. 
+/
+Academic Writing II: Writing for Inquiry and Research. 
+Students learn about academic inquiry and complete several writing projects including a documented research paper. Topics vary by section.
+/
+Data Structures.  
+Design, usage and analysis of data structures:  review of lists, stacks and  queues; hash tables, priority queues, search trees, introduction  to graphs;  searching and sorting; runtime analysis; programming projects and lab exercises.
+/
+Introduction to Electrical and Computer Engineering.  
+Concepts of electrical and computer engineering including: ciruit analysis, fundamental electromagnetics, electronic devices, sensors, communication, digital logic, programming, numerous practical applicaitons; laboratory. 
+/
+Principles of Automatic Control.  
+Transfer function; block diagrams; flow graphs; state space canonic forms; stability analysis; steady state and transient analysis; feedback control; continuous to discrete conversion; digital control. 
+/
+MATH 180.  Calculus I.  4 hours.
+Differentiation, curve sketching, maximum-minimum problems, related rates, mean-value theorem, antiderivative, Riemann integral, logarithm, and exponential functions. 
+/
+General Physics I (Mechanics).  
+Kinematics, vectors, Newton?s laws of motion; linear momentum, collisions; work and kinetic energy; potential energy, conservation of energy; rotational kinematics and energy; rotational dynamics, static equilibrium; simple harmonic motion. 
+/
+Introduction to Antennas and Wireless Propagation.  
+Potential, antenna parameters, radiation from linear wires and loops, impedance, arrays, communication links and path loss, tropospheric propagation, fading and diversity. 
+/
+Network Analysis.  
+Matrix algebra for network analysis, network parameters, macromodeling, high-frequency measurements, network functions and theorems. Topics in computer-aided analysis. 
+/
+General Chemistry Laboratory I. 
+Laboratory in general chemistry, including stoichiometry, periodicity, reaction types, the gaseous state, solution, stoichiometry, chemical equilibria, acid-base equilibria, dissolution-precipitation equilibria. 
+/
+Discrete and Continuous Signals and Systems.  
+Signals; systems; convolution; discrete and continuous Fourier series and transforms; Z-transforms; Laplace transforms; sampling; frequency response; applications; computer simulations. 
+/
+Digital Signal Processing II.  
+Computer-aided design of digital filters; quantization and round-off effects; FFT algorithms; number-theoretic algorithms; multirate signal processing; DSP architectures and programming.  /
+Computer Communication Networks I. 
+A balanced presentation focuses on the internet as a specific motivating example of a network and also introduces internet protocols in a more theoretical context.
+/
+Mathematical Foundations of Computing. 
+Discrete mathematics concepts fundamental to computing:  propositional logic, predicates and quantifiers; proofs; sets; recursive definitions and  induction; functions, relations and graphs; combinatorics and discrete probability; applications. 
+/
+Electronics I.  
+Operational amplifiers. Semiconductor junctions. Bipolar and field-effect transistors. Simple transistor amplifier and switching applications. Introduction to digital logic circuits. 
+/
+Integrated Circuit Engineering.  
+Introduction to processing technology of integrated circuits: thin film deposition, doping, oxidation, epitaxy and lithography. Design, layout, assembly, testing and yield. Design project. 
+/
+Transistors.  
+Bipolar junction transistors, electronic processes in surface-controlled semiconductor and dielectric devices. Metal oxide semiconductor filed effect  transistors, surface and interface effects, diode lasers, integrated optoelectronic devices.
+/
+Circuit Analysis. 
+Electric circuit elements; Ohm's Law; Kirchhoff's laws; transient and steady-state analysis of circuits; Laplace transform methods; network theorems. Laboratory. 
+/
+Senior Design II.  
+Application of engineering principles and optimization to the solution of the design problem initiated in Electrical and Computer Engineering 396. Implementation and testing of the design. 
+/
+Computer Algorithms I.  
+Design and analysis of computer algorithms. Divide-and-conquer, dynamic programming, greedy method, backtracking. Algorithms for sorting, searching, graph computations, pattern matching, NP-complete problems. 
+/
+Electronics II. 
+Differential amplifiers. Feedback amplifiers. Frequency response, stability and compensation of amplifiers. Circuit implementation of logic gates in various logic families. Bistable and memory circuits.  
+/
+Power Semiconductor Devices and Integrated Circuits.
+Encompasses fundamentals of primarily silicon based power semiconductors with regard to basic physical principles, breakdown mechanisms, high voltage bipolar and insulated gate devices, and basic packaging issues.
+/
+Wireless Communications.  
+Cellular concept, frequency reuse, mobile radio propagation, channel fading, noise in analog communications, mobile radio channel equalization, multiple access techniques (FDMA, TDMA, CDMA), wireless networking.  
+/
+Modern Linear Optics.
+Geometrical optics, wave optics, two-dimensional Fourier analysis, scalar diffraction theory, Fourier transforming properties of lenses, coherent and incoherent images, holography, electromagnetic optics, polarization and crystal optics, resonators. 
+/
+Electromechanical Energy Conversion.  
+Electromagnetic forces and torque; magnetic circuits and transformers; DC machines; three-phase AC synchronous and induction machines; laboratory-demonstrations. Projects are required. 
+/
+Electromagnetic Compatibility.  
+EMC requirements for electronic systems. Nonideal behavior of components. Radiated and conducted emissions. Susceptibility. Coupling and shielding. Electrostatic discharge. System design for EMS. 
+/
+Numerical Analysis.
+Introduction to numerical analysis; floating point arithmetic, computational linear algebra, iterative solution to nonlinear equations, interpolation, numerical integration, numerical solution of ODEs, computer subroutine packages. 
+/
+Calculus II. 
+Techniques of integration, arc length, solids of revolution, applications, polar coordinates, parametric equations, infinite sequences and series, power series. 
+/

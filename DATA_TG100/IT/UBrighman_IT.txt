@@ -1,0 +1,111 @@
+Introduction to Computer Programming
+Introduction to object-oriented program design and development. Principles of algorithm formulation and implementation.
+/
+Data Structures and Algorithms
+Fundamental data structures and algorithms of computer science; basic algorithm analysis; recursion; sorting and searching; lists, stacks, queues, trees, hashing; object-oriented data abstraction.
+/
+Discrete Structures
+Introduction to grammars and parsing; predicate and propositional logic; proof techniques; sets, functions, relations, relational data model; graphs and graph algorithms.
+/
+Foundations of Global Leadership
+Foundational principles and practices of individual and organizational leadership in a global context from an integrated moral, technical and social perspective. Emphasis on developing integrity, valuing and leveraging diversity, acquiring and applying leadership skills.
+/
+Technical Communication
+Effective processes of written, oral, and visual technical communication, including collaborative processes. Writing for academic and professional audiences.
+/
+Calculus 1
+Differential and integral calculus: limits; continuity; the derivative and applications; extrema; the definite integral; fundamental theorem of calculus; L'Hopital's rule.
+/
+Introduction to Newtonian Mechanics
+Linear, circular, and projectile motion; their prediction from forces and torques. Conservation of energy and momentum. Weekly lab.
+/
+Statistics for Engineers and Scientists
+The scientific method; probability, random variables, common discrete and continuous random variables, central limit theorem; confidence intervals and hypothesis testing; completely randomized experiments; factorial experiments.
+/
+Exploration in Innovation Design Techniques
+Through a series of hands-on experiences, students explore principles, methods, and tools of innovation and design thinking in technology and engineering.
+/
+Economic Principles and Problems
+Strengths and weaknesses of markets and governments for solving problems of social organization or conflict, including policy response to inflation, unemployment, pollution, poverty, growth, etc.
+/
+Introduction to Psychological Science
+Basic course in modern scientific psychology.
+/
+Cornerstone: Information Technology
+Planning and preparing for a successful career in information technology. Developing skills with computers, problem solving, studying, and time management. Comparing information technology to computer science, computer engineering, and information systems.
+/
+Introduction to Computer Systems
+How a computer works, from hardware to high-level programming language. Logic circuits, Boolean algebra, computer instructions, assembly language, binary arithmetic, and C programming.
+/
+Fundamentals of Web-Based Information Technology
+Web technologies including distributed architecture, networking, database concepts, client and server development, infrastructure management, and web system integration.
+/
+Fundamentals of Web-Based Information Technology
+Web technologies including distributed architecture, networking, database concepts, client and server development, infrastructure management, and web system integration.
+/
+Computer Architecture and Organization
+Principles of computer hardware and instruction set architecture. Subjects include: internal CPU organization and implementation, peripheral interconnect and IO systems, and low-level programming and security issues.
+/
+Human-Computer Interaction
+User experience design techniques and best practices including requirements analysis, usability studies, prototyping methods, evaluation techniques, and cognitive, social, and emotional theories.
+/
+Digital Communications
+Ohm's law, power, inductance, capacitance, reactance, impedance, resonance, transformers. Properties of waves and electromagnetic radiation, including light. Communication systems, wired and wireless. Bandwidth, modulation; Shannon's theorem, telecommunications. Network physical and data link layers (ISO/OSI model). Optics/Coax/Twisted pair; RS-232/Ethernet; Signals/Protocols/Packets; digital communication theory fundamentals.
+/
+Operating Systems
+Applying and using computer operating systems. Configuration, file systems, security, administration, network interfacing, multitasking, multiuser, device driver installation. Analyzing operating system performance.
+/
+Computer Networks
+Computer networks. Local and wide-area networking for enterprises and service providers. Workgroups/routers/hubs/switches; network server administration; Internet protocols and routing; security and privacy.
+/
+Database Principles and Applications
+Database theory and architecture; data modeling; designing application databases. Query languages, data security, database applications on the Web..
+/
+Information Assurance and Security
+Computer security principles. Incident prevention and management. Information assurance dimensions of availability, integrity, authentication, confidentiality and non-repudiations to ensure transmission, storage, and processing of information.
+/
+Senior Project / Capstone 1
+IT senior project proposal and feasibility studies. Project management, teamwork principles, intellectual property, supplier interactions, identifying and using professional technical literature, oral and written presentations.
+/
+Senior Projects/Capstone 2
+Senior project design and integration. Second class of two-course sequence. Implementing design. Project management, teamwork, and presentations. Fee.
+/
+Professional Seminar
+Developing best employment opportunities and strategies. Interviewing, negotiations, resume, and professional etiquette. Professional seminar guest speakers.
+/
+Professional Seminar
+Required three times during sophomore/ junior years while in professional program. College Lecture and School of Technology Lecture attendance required.
+/
+Advanced Web Technologies
+Practical application of the latest evolving web technologies. Topics include HTMLS, CSS/SASS, JavaScript, NodeJS, Polymer, noSQL, asynchronous programming, functional programming, event driven systems, debugging, testing, workflow optimization, and deployment pipelines.
+/
+Embedded Computer Systems
+Design and development of embedded computer systems interacting with the physical world. Hardware/software interfacing and multiple types of embedded systems. Integrated IT design approach with networking, IAS and human interaction concerns.
+/
+Database Administration
+The role and responsibilities of database administrators. Database platform, architecture, and configuration; security and account management; backup, restore and disaster recovery; availability, access and performance; data migration.
+/
+Special Problems in Information Technology
+Individual study in current topics of information technology.
+/
+Special Topics in Information Technology
+New topics in information technology for graduate and undergraduate students. Standard lecture and lab format.
+/
+Advanced Networking
+Analyzing, selecting, configuring, monitoring, and managing of computer network equipment. SNMP-based monitoring and control in process of fault isolation and root cause analysis.
+/
+System Administration
+Systems and network administration. User management. Server and workstation deployment and maintenance. Network Security. Infrastructure. Systems and infrastructure support. Cross-platform systems integration. Update and patch management. Mobile workforce services.
+/
+Cyber-Physical Systems
+Integration of technologies to develop computers and mobile devices that interact with the real world, including control and sensor interfaces. Incorporate IT core topics such as networks, security, and user-space experience design. Analysis and creation of cyber-physical and Internet-of-Things (IoT) systems.
+/
+Advanced Human-Computer Interaction
+Advanced techniques for designing, prototyping, building, and evaluating technology-mediated user experiences. Human-computer interaction research methods including experimental design. Ethics of working with human subjects. HCI theories and best practices.
+/
+Digital Forensics
+Fundamentals of digital forensics, legal issues, evidence, chain of custody, media analysis, incident response, corporate forensics, and network forensics.
+/
+Cyber Security and Penetration Testing
+Advanced computer systems security. Vulnerabilities and exploits. System and network attacks. Ethical hacking and penetration testing. Cyber security, cyber weapons, and advanced persistent threats. Legal and regulatory requirements for security and privacy.
+/

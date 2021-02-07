@@ -1,0 +1,71 @@
+/
+Rhetoric
+This course presents an integrated approach to writing, reading, and critical thinking by developing the grammatical, logical, and rhetorical skills necessary for university writing.
+/
+Professional and Technical Communication
+Expands students' professional and team communication skills and strategies in technical contexts. Integrates writing, speaking and group communication by developing and presenting technical information to different audiences. Written assignments focus on creating professional technical documents, such as proposals, memos, abstracts, reports and letters. Presentation assignments emphasize planning, preparing and delivering dynamic, informative and persuasive presentations. Attendance at first class mandatory.
+/
+Differential Calculus
+Course covers topics in differential calculus of functions of one variable; topics include limits, continuity, derivative, chain rule, implicit differentiation, mean value theorem, maxima and minima, curve sketching, derivatives of inverse trigonometric functions, antiderivative, substitution method, and applications.
+/
+Mechanics
+Calculus based. Basic physics including a study of space and time, kinematics, forces, energy and momentum, conservation laws, rotational motion, torques, and harmonic oscillation
+/
+Electromagnetism and Waves
+Topics include electrostatics and electromagnetics, electric field and potential, electric currents, magnetic fields, laws of Coulomb, Ampere, and Faraday, Maxwell's theory of wave propagation. Two lectures per week
+/
+American National Government
+Survey of American national government, politics, and constitutional development
+/
+Social Issues and Ethics in Science and Technology
+This course exposes students to major theoretical approaches and professional codes of ethics and how they may be applied to explore a range of important social issues in the information age. Issues of professional ethics, computer crime and privacy, intellectual property, the balance between the acceptability of risk and constraints such as cost, scheduling, safety and quality, the role of globalization and various important constitutional issues are explored by drawing upon case studies.
+/
+Physics Laboratory I
+Laboratory course to accompany any Physics I or Mechanics course. Experiments investigate basic measurements and statistics including error, mean, standard deviation and error propagation; one dimensional and two dimensional motion; Newton's laws; conservation laws of energy and momentum; rotational motion; and oscillations.
+/
+Computer Science I
+Review of control structures and data types with emphasis on structured data types. Applies the object-oriented programming paradigm, focusing on the definition and use of classes along with the fundamentals of object-oriented design. Includes basic analysis of algorithms, searching and sorting techniques, and an introduction to software engineering. Programming language of choice is C/C++. Students will also be registered for an exam section.
+/
+Computer Science II
+Further applications of programming techniques, introducing the fundamental concepts of data structures and algorithms. Topics include recursion, fundamental data structures (including stacks, queues, linked lists, hash tables, trees, and graphs), and algorithmic analysis
+/
+Discrete Mathematics for Computing I
+Principles of counting. Boolean operations. Logic and proof methods. Recurrence relations. Sets, relations, functions. 
+/
+Mechanics
+Calculus based. Basic physics including a study of space and time, kinematics, forces, energy and momentum, conservation laws, rotational motion, torques, and harmonic oscillation. 
+/
+Computer Architecture
+This course introduces the concepts of computer architecture by going through multiple levels of abstraction, and the numbering systems and their basic computations. It focuses on the instruction-set architecture of the MIPS machine, including MIPS assembly programming, translation between MIPS and C, and between MIPS and machine code. General topics include performance calculation, processor datapath, pipelining, and memory hierarchy. 
+/
+Automata Theory
+A review of the abstract notions encountered in machine computation. Topics include finite automata, regular expressions, PDAs, and context-free languages.
+/
+Computer Science Project
+Computer Science Project
+/
+Advanced Algorithm Design and Analysis
+Asymptomatic analysis, recurrences, and graph algorithms. Algorithm design techniques such as greedy method, dynamic programming, and divide-and-conquer. Issues from computational complexity.
+/
+Operating Systems Concepts
+An introduction to fundamental concepts in operating systems: their design, implementation, and usage. Topics include process management, main memory management, virtual memory, I/O and device drivers, file systems, secondary storage management, and an introduction to critical sections and deadlocks.
+/
+C/C++ Programming in a UNIX Environment
+Advanced programming techniques utilizing procedural and object oriented programming in a UNIX environment. Topics include basic UNIX concepts, file input and output, implementation of strings, and dynamic memory allocation/management. Design and implementation of a comprehensive programming project is required.
+/
+Discrete Mathematics for Computing II
+Advanced counting methods; recurrence relations, divide and conquer algorithms, principle of inclusion and exclusion. Partial orders and lattices, Algorithmic complexity. Graph theory. Strings and languages. Number theory. Elements of modern algebra
+/
+Artificial Intelligence
+Basic concepts and techniques that enable computers to perform intelligent tasks. Examples are taken from areas such as natural language understanding, computer vision, machine learning, search strategies and control, logic, and theorem proving.
+/
+Introduction to Machine Learning
+Algorithms for creating computer programs that can improve their performance through learning. Topics include: cross-validation, decision trees, neural nets, statistical tests, Bayesian learning, computational learning theory, instance-based learning, reinforcement learning, bagging, boosting, support vector machines, Hidden Markov Models, clustering, and semi-supervised and unsupervised learning techniques.
+/
+Computer Animation
+Introduction to traditional animation. Kinematics of motion. Key framing. Coordinate systems and transformations (review), Euler angles and Quaternions, Catmull Rom and B-Splines, Advanced Key framing, articulated figures (forward kinematics), human and animal modeling (soft tissue, skin, etc.). Facial animation (parametric). Physically based modeling (rigid, collision detection). Physically based modeling (deformable). Behavioral and heuristic models. Algorithmic animation. Optimization techniques. Animation languages and systems. Motion capture and real time control. Virtual reality and animation. Rendering and temporal aliasing. 2D and 3D morphing. 3D modeling. 
+/
+Computer Graphics
+Review of graphic display architecture and graphic input devices. Two- and three-dimensional transformations, matrix formulations, and concatenation. Clipping and windowing. Data structures for graphics systems, segmented display files, rings, etc. Hidden line and surface elimination. Shading. Graphics packages and applications.
+/
+

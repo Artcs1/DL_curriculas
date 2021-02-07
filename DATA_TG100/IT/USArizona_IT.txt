@@ -1,0 +1,118 @@
+/
+The ASU Experience
+Students will learn about ASU's mission as the New American University, the importance and benefits of an entrepreneurial approach to problem solving, solutions to sustainability challenges, and the importance of social embeddedness. Additionally, through various course discussions and assignments, students will examine the concept of academic integrity and its potential impact on their future, gain awareness of the value of engaging in research activities, and learn about taking an interdisciplinary perspective.
+/
+Introduction to Information Technology
+Project-based introduction to the key concepts, tools and devices underlying today's technologies. Introduces computer hardware, software and system architecture, the Internet, the World Wide Web and information technology ethics. Forms a foundation for future courses offered in the Information Technology major and the information technology discipline
+/
+First-Year Composition
+Critical reading and writing; emphasizes strategies of academic discourse. Research paper required.
+/
+Information Technology Programming Logic
+Introduces basic analysis and synthesis procedures for an understanding of information system logical structures. Topics include: identifying organizational domains for potential automation, informational descriptions (scenarios) of those domains, and program structure and logical designs for potential problem/opportunity resolution. Uses graphical and textual models to express the logic and uses Python to implement the logic.
+/
+Introduction to Human Systems Engineering
+Introduces basic principles, methods and theories of psychology and applications to engineering problems relevant to human systems. Gives particular attention to the intersection of psychology and engineering. Students learn brain anatomy and physiology, sensation and perception, cognition, social systems and research methods so that they are able to design systems consistent with human capabilities and limitations
+/
+Brief Calculus
+Differential and integral calculus of elementary functions with applications.
+/
+Introduction to Java Technologies
+Introduces Java as a platform for application development. Fundamental concepts of the Java language, including object-oriented programming and basics of the user interface programming.
+/
+Advanced First-Year Composition
+Concentrated composition course for students with superior writing skills; intensive reading; research papers; logical and rhetorical effectiveness.
+/
+Music as Political Discourse: Reggae, Calypso, and Hip Hop
+This is a reading and writing intensive course that employs critical thought that explores African Diaspora popular music as a medium of social and political expression. It examines the political content of Reggae, Calypso and Hip Hop and their role in triggering and influencing popular discourse in the Caribbean and the USA. Course material will analyze the interrelationships among the musical forms and their role in fostering Black and Pan African Cultural Identity, Political Consciousness and World Peace
+/
+Information Modeling, Storage and Retrieval
+Notations, tools and languages for modeling, representing and manipulating information; database creation, access and management in the context of a controlling application. Analyzes information storage needs and design of an appropriate representation. Project-based access to information through tools and languages such as structured query language.
+/
+Introduction to Environmental Science
+Introduces the interconnected nature of Earth's hydrosphere, lithosphere (soils and rocks), atmosphere, and biosphere.
+/
+Computer and Network Systems: Organization and Administration
+Fundamentals of computer networks, computer organization and computer operating systems. Components, tools and languages for configuring and administering computer systems.
+/
+Discrete Mathematical Structures
+Logic, sets, functions, elementary number theory and combinatorics, recursive algorithms, and mathematical reasoning, including induction. Emphasizes connections to computer science.
+/
+African American Literature: Beginnings through the Harlem Renaissance
+Focuses on the history of African American literature through the Harlem Renaissance, as exemplified in selected slave narratives, poems, and fiction.
+/
+Introduction to UNIX Utilities
+Technical overview (introduction) of the UNIX/Linux operating system. Emphasizes using the command line UNIX or Linux system. Covers fundamental UNIX commands and utilities including the use of a text editor and a mail handler, configuring a shell, the UNIX file system organization, pipes and filters, shell environment and simple shell scripts. Additional topics include UNIX GUIs and Windows Active Directory. Assumes no previous experience with the UNIX operating system.
+/
+Introduction to Environmental Science
+Introduces the interconnected nature of Earth's hydrosphere, lithosphere (soils and rocks), atmosphere, and biosphere.
+/
+Introduction to Internet Networking
+Introduces students to the networking field. Students learn network terminology, protocols and topologies. Students also learn network architectures of Local Area Networks (LAN), Wide Area Networks (WAN) and related media, connections and components. Covers other topics including the OSI model, router configuration/programming, wireless transmission, IP addressing, network management and network security.
+/
+Analyzing Big Data
+Data mining and statistical techniques that arise in data analytic applications. Students learn and practice working with big data using data analytic techniques presented in earlier coursework. Discusses one or more applications associated with data analytic techniques. Practices using advanced techniques that build on the knowledge provided in earlier coursework and knowledge gained from a statistical methods course. Familiarity with databases and statistics are essential.
+/
+Network Forensics
+Use and creation of advanced network forensics tools: intrusion detection and prevention, honeynets, traffic routing and management, and data reduction and graphing tools.
+/
+Introduction to Statistics
+Basic concepts in descriptive and inferential statistics, emphasizing applications to psychology.
+/
+Managing Configurations and Active Directory
+Technical overview/introduction of configuration management processes and techniques used in modern networks. Includes an introduction to managing software configurations and processes to support change control. Also delves into the use and structure of Windows Active Directory and how this network-based application helps manage the network configuration. Assumes no previous experience with configuration management or Active Directory
+/
+Risk Management and Insurance
+Provides an introduction to the different types of risks faced by individuals, businesses and society along with ways in which they make an assessment of, control and transfer of different types of risks including property risk, liability risk, personal risks and speculative risks such as financial risks. Covers risk management techniques including risk control and risk financing with a focus on insurance policies, and also presents other major topics in personal financial planning, social insurance, insurance operations and regulations, and reinsurance. Also gives attention to contemporary issues and challenges in risk management and insurance.
+/
+Foundations of Information and Computer System Security
+Introduces information technology (IT) security aspects and how technology can be vulnerable to unwanted intrusions. Project-based introduction to privacy, authentication and malware incursions for information technology. Principles of information security and assurance and their implications on access. Tools and methods to identify intrusion, best security practices. Includes securing communications and applications, including symmetric and asymmetric encryption and Hash functions.
+/
+Network Information Communication Technology
+Focuses on the physical layer, data-link layer and network layer of the TCP/IP model. Concentrates on data communications, including signals, transmission impairments and digital transmissions. Students gain an understanding of the data link layer and its services/protocols, with attention on the network switch. Incorporates network layer protocols with focus on IPv6. Explores subnetting (classful and classless) in detail and also covers Variable Length Subnet Mask (VLSM).
+/
+Shell and Script Programming with UNIX
+UNIX operating system programming of shells, environment and 4th-generation languages and tools, such as sed, awk, perl, grep, make.
+/
+Leading the Enterprise
+Comprehensive overview of leadership strategies and development as it applies to individuals, organizations and events. Applies leadership development to workplace dynamics such as technology management, entrepreneurship and globalization.
+/
+Plant Pathology
+Identification and control of biotic and abiotic factors that cause common disease problems to plants.
+/
+Wireless Networking
+Systems-level coverage of advanced information communication technology (ICT) topics including both digital and analog wireless communications systems used in today's ICT networks. Transmission systems covered include microwave, satellite, cellular radio, Bluetooth and wireless fidelity communications systems. Topics include: PCM, TDM, antennas, transmission lines, microwave radio, satellite radio, Bluetooth, cellular and wireless fidelity systems.
+/
+TCP/IP and Routing
+In-depth study of the TCP/IP protocol suite and router technology. Covers the underlying applications, components and sub-protocols that make up the TCP/IP suite. Emphasizes the fundamentals of routing, router configuration, understanding routing protocols and setting up access control lists.
+/
+Managing the Cloud
+Focuses on the cloud environment. Students learn the architecture characteristics of Software as a Service (SaaS), Platform as a Service (PaaS), and Infrastructure as a Service (IaaS), including how these architectures are created and maintained in a cloud environment. Also addresses networking associated with cloud interaction, SQL programming and cloud security issues.
+/
+Web Programming for Human Computer Interface
+Human-computer interaction design for rich media systems. Design processes, tools and principles for applications that are highly interactive with their users and which include multiple input/output modalities and multimedia. Project-driven course. Key topics include wireframes and persona structures associated with HCI.
+/
+Information Technology Capstone Project I
+First half of a comprehensive project experience based on cumulative knowledge and skills gained in earlier coursework.
+/
+Middleware Programming and Database Security
+Covers the main concepts of middleware technologies. Includes the various methodologies used to integrate applications, databases and Web services. Students develop multilevel applications using programming/scripting languages (such as PHP, Java, Python, Perl) which access data stored in a database. Middleware programs typically control database access and protect database SQL programs from security breaches. Students access the data from applications and other Web technologies such as XML, as well as protecting the data from unauthorized access.
+/
+Introduction to Big Data
+Architecture of Hadoop clusters at both the hardware and system software levels. Applies Hadoop and related Big Data technologies such as MapReduce, Pig, Hive and Impala in developing analytics and solving the types of problems faced by enterprises today. Expects programming experience in Java or Python and a general understanding of databases, networking and distributed systems.
+/
+Ecosystem Management and Planning
+Principles of ecosystem management, with emphasis on economic and policy constraints on the planning process. Risk assessment and management.
+/
+Middleware Programming and Database Security
+Covers the main concepts of middleware technologies. Includes the various methodologies used to integrate applications, databases and Web services. Students develop multilevel applications using programming/scripting languages (such as PHP, Java, Python, Perl) which access data stored in a database. Middleware programs typically control database access and protect database SQL programs from security breaches. Students access the data from applications and other Web technologies such as XML, as well as protecting the data from unauthorized access.
+/
+Developing Security Policy
+Focuses on development of security policy, risk solutions and incident response facilities. Using the information security framework, identifies strategies and processes used in governance, risk management, asset management, human resources and physical security to create, evaluate and audit security policies.
+/
+Information Technology Capstone Project II
+Information Technology Capstone Project II
+/
+History of Engineering
+The history of engineering from the earliest record to modern times, examining the social, cultural, and economic effects on society.
+/

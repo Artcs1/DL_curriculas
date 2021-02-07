@@ -1,0 +1,112 @@
+/
+Fundamentals of Chemistry Laboratory
+Illustrates and reinforces principles and concepts by use of qualitative and quantitative experiments, emphasizing interpretation and reporting of data and facility in handling scientific instruments.
+/
+Fundamentals of Chemistry
+General principles, fundamental laws, atomic & molecular structure, states of matter, & elementary inorganic, nuclear & organic chemistry.
+/
+Introduction To Engineering
+Overview of engineering, information about various engineering disciplines, instroductory problem-solving, engineering design, and engineering ethics.
+/
+First Year Writing I
+A detailed study of the principles of rhetoric as applied in reading and writing expository essays.
+/
+The U S To 1877
+The social, economic, and political history of the United States to 1877
+/
+Calculus I
+Calculus of rational functions, limits, derivatives, applications of the derivative, antiderivatives, the definite integral with applications, mean value theorem, fundamental theorem of calculus, and numerical integration.
+/
+Computing and Problem Solving for Engineers
+Introduction to computing; matrix arithmetic, programming constructs, algorithms and graphical visualization using MATLAB; problem solving applications in engineering analysis and design.
+/
+First Year Writing II
+Detailed study of the principles of rhetoric as applied to analyzing and writing argumentative and persuasive essays; principles and methods of research, culminating in writing a substantial research paper.
+/
+The U S Since 1877
+The social, economic, and political history of the United States since 1877.
+/
+Calculus II
+Calculus of transcendental functions: additional techniques and applications of integration, indeterminate forms, improper integrals, Taylor’s formula, and infinite series.
+/
+University Physics I
+First semester of a two part calculus-based course covering mechanics of one- and two-dimensional motion, dynamics, energy, momentum, rotational dynamics and kinematics, statics, gravity, oscillations, waves and fluids.
+/
+Circuit Analysis I
+Analysis of resistive circuits, including node voltage and mesh current methods, and Thevenin and Norton equivalent circuits.
+/
+Calculus III
+Calculus of functions of several variables: calculus of vector-valued functions, partial differentiation, multiple integrals.
+/
+Engineering Mathematics
+First order ordinary differential equations and initial value problems; higher order differential equations; vector spaces, matrices, determinants, eigenvectors and eigenvalues; applications to systems of first order equations; Laplace transforms.
+/
+University Physics II
+Second semester of a two part calculus-based course covering thermodynamics, electricity, magnetism, electromagnetic waves, optics, and modern physics.
+/
+University Physics Laboratory II
+Experiments in thermodynamics, electricity, magnetism, and optics. Credit may not be applied toward a
+/
+Circuit Analysis II
+Analysis of electric circuits, including inductors, capacitors, and first order circuits; sinusoidal analysis.
+/
+Circuit Analysis Laboratory
+Introduction to the electronics laboratory equipment. Introductory experiments in circuit analysis. Formal report writing. This laboratory course is a prerequisite for all other ECE laboratory courses.
+/
+Programming Applications in Electical and Computer Engineering
+Procedural programming in C and C++, with applications in electrical and computer engineering.
+/
+Technical Communications for Engineers
+Engineering communication skills: written proposals, specifications, progress reports, and technical reports; individual and group oral presentations; essays on engineering ethics, contemporary engineering issues and the impact of engineering decisions.
+/
+Digital Logic Design
+Boolean algebra, combinational logic, sequential machine analysis and synthesis.
+/
+Applied Electromagnetic Waves
+Maxwell’s equations in time and frequency domains, Poynting’s theorem, plane wave propagation, reflection and transmission in lossless and lossy media, transmission lines, waveguides, and antennas.
+/
+Introduction to Programming
+Fundamental concepts of structured programming; procedures and elementary data structures with a focus on problem solving strategies and implementation; computer organization, structured procedural programming, C/C++ programming language, and algorithm design.
+/
+Electronics Laboratory
+Laboratory projects concerning topics studied in electronics
+/
+Electronics
+Signal and amplifier concepts; operational amplifiers; diodes and nonlinear circuits; bipolar junction transistors; biasing, small and large signal analysis; transistor amplifiers.
+/
+Signals and Systems Analysis
+Time and frequency domain techniques for signals and systems analysis. Engineering applications of the convolution integral, Fourier series and transforms, and Laplace transforms.
+/
+Microprocessor Systems
+Memory devices, microcomputer architecture, assembly language programming, I/O programming, I/O interface design, data communications, and data acquistition systems. Laboratory exercises in assembly language and C.
+/
+Programming and Data Structures
+Introduction to fundamental data structures: arrays, lists, stacks, queues, hash tables, trees; sorting and searching; graph algorithms; design, analysis, and comparison of algorithms. Correctness verification techniques such as assertions and invariants. Review program specification, unit testing, and debugging.
+/
+Digital Electronics
+Analysis of discrete and integrated digital electronic devices and components and their use in the design and implementation of digital circuits.
+/
+Engineering Statistics I
+equivalent and permission of chair. Probability and statistical inference for engineering applications; probability distributions, estimation, statistical tests, and reliability theory.
+/
+Electrical and Computer Engineering Design I
+Propose and begin team projects involving open-ended design problems supplied by industry and faculty. Professionalism, research methodologies, design tools, and technical communication.
+/
+Discrete Mathematics
+Topics selected from logic, set theory, combinatorics, and graph theory.
+/
+Introduction to Computer Architecture and Design
+Computer organization, computer arithmetic, instruction sets, programming with MIPS assembly language, CPU design, pipelining, and memory hierarchy including caching and virtual memory.
+/
+Microeconomic Principles
+Individual consumer and firm behavior, supply and demand and the market determination or prices, production, and income. Includes government price ceilings, monopoly and antitrust, market failures and environmental pollution.
+/
+Electrical and Computer Engineering Design II
+Complete, construct, demonstrate, and defend team projects
+/
+U.S. Government: Congress, President, and Courts
+Introduction to the institutions of government with an emphasis on the congress, the president, and the federal courts. (Introductory category.)
+/
+Fundamentals of Software Engineering
+Introduction to the concepts of software engineering. Identification of problems related to the development of large software systems. Software project planning, requirements analysis, design, implementation, quality assurance and maintenance.
+/

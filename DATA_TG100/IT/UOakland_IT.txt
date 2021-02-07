@@ -1,0 +1,110 @@
+Basic Writing
+Developing writing skills including idea generation and invention, organizational strategies and conventional usage in expository prose. Emphasis on developing fluency and effective writing processes.
+/
+Foundations of Visual Literacy
+In this analytical overview of the forms and uses of visual imagery, students will learn to think critically about the formal methods and cultural impact of contemporary art media. 
+/
+Foreign language and culture
+Foreign language and culture
+/
+Introduction to Asian Literature
+A survey of the four great Asian literary traditions: China, Japan, India and Middle East
+/
+Physical Sciences in Life, the World and Beyond
+Interdisciplinary physical science course for non-science majors to enhance their scientific literacy and experience the scientific approach to problem solving in active-learning classrooms and hands-on in computer laboratories. Modules on the science of everyday life, science of the microscopic world, and the earth and beyond.
+/
+Western civilization
+Western civilization
+/
+Composition I
+Emphasizes the rhetorical and stylistic demands of college writing through focus on experiential, analytical, and expressive writing. Students learn to generate, organize and develop their ideas and to make choices as writers that are appropriate to the rhetorical situation
+/
+Introduction to Ethics in Science and Engineering
+Survey of canonical works in the history of Western ethical theory providing students a critical understanding of a plurality of viable ideas, principles, and criteria by which to evaluate and judge contemporary issues of ethical concern in the practice of science and engineering.
+/
+Calculus I
+A detailed study of limits, continuity, derivatives of algebraic and transcendental functions, applications of derivatives, numerical techniques, integrals and the Fundamental Theorem of Calculus
+/
+Introduction to Statistical Methods
+Introduction to statistical thinking and applications to industrial and similar processes. Descriptive statistics, distributions, and probability models useful in process control and systems reliability; confidence intervals, hypothesis testing, regression, and basic experimental design. Statistical concepts to be reinforced with case studies promoting problem solving skills and statistical thinking
+/
+Mathematics for Information Technology
+Systems of linear equations, matrix algebra and linear transformations. Elementary combinatorics, recursion and induction, sets and relations
+/
+Introductory Physics I
+Classical mechanics and thermodynamics. For science, mathematics and engineering students. 
+/
+Introduction to Computing and Programming using Excel
+An introduction to computers and programming. It introduces algorithms for applications that contain integrated development environments (IDE), such as Microsoft Excel’s IDE for Visual Basic for Applications (VBA). Algorithmic topics include repetitive and decision structures, functions, subroutines, and ActiveX controls. Programming topics include application automation and presenting information programmatically. 
+/
+Computer Programming
+Algorithmic programming using a high level, event-driven, language such as VB.NET. Topics include data storage and manipulation, graphical user interfaces, control structures, functions and sub procedures
+/
+Object-Oriented Computing
+Introduction to object-oriented computer programming using a high-level programming language such as Java. Classes, member functions, inheritance, polymorphism and operator overloading. Design methodologies and introduction to software engineering principles and practices. Basic data structures, algorithms and event driven programming concepts are introduced.
+/
+Introduction to Computer Networks
+An introduction to fundamental concepts for design and analyses of computer networks. Topics covered include the physical layer, network protocols, Local Area Networks, Internet, wireless and mobile networks, network security, and socket programming. 
+/
+Interactive Web Systems
+This course introduces the fundamentals of interactive multimedia in context of web technologies. Topics covered include use of modern web development tools, Markup Languages, server-side processing, and client-side processing using languages such as JavaScript. Students will use these tools to create interactive and dynamic web sites.
+/
+Sophomore Project
+A team-oriented project work consisting of a small project to build skills in needs assessment, group problem solving, and written and oral technical presentations. 
+/
+Computer Systems
+Introduction to computer systems. Topics cover computer system components, including hardware components, storage devices, memory, graphics accelerators, device and communications interfaces, and CISC and RISC processors, operating systems, and system administration activities. Issues in cost, performance, security, and compatibility are also considered. 
+/
+Software Engineering and Practice
+Introduction to software engineering and practice. Topics include software process models, project management, requirements analysis, software quality assurance, and testing. 
+/
+Database Design and Implementation
+Introduction to the design and implementation of database systems. Include designing a practical database for an application using normal forms, understanding relational database schemas, planning and implementing a database using software such as Oracle and Microsoft SQL Server, advanced database topics in redundancy, replication, load balancing, compatibility, ODBC and JDBC, and database systems administration. 
+/
+Human Computer Interaction
+Surveys various components, techniques of Human Computer Interaction (HCI). Topics include the basic perceptual, cognitive and performance capabilities of people and external factors that affect these capabilities, tools, techniques for understanding, predicting, evaluating the interactions of people with technology. Systematic processes for designing, evaluating and revising interactive systems are studied. 
+/
+Systems Analysis
+Introduction to pervasive themes in information technology. Topics include history of information systems, information management, complexity management, methodologies for information centric requirements analysis, work flow analysis, and tools for system analysis. 
+/
+System Administration
+This course teaches the skills necessary to analyze, deploy, manage and troubleshoot enterprise computing infrastructures. Topics include user authentication management, system configuration and management, periodic tasks automation, network file systems and data backup techniques, server deployments, and system performance analysis techniques. The course has a significant lab component. 
+/
+Information Security Practice
+Survey of concepts and methods of security policies, models and mechanisms for secrecy, integrity, availability, and authentication. Topics covered include security policies; access control; introduction to cryptography; control and prevention of viruses and other rogue programs; common system vulnerabilities and countermeasures; and legal and social issues. 
+/
+Senior Capstone Project
+Senior Capstone Project
+/
+Advanced System Administration
+Advanced concepts in enterprise computing infrastructure analysis, deployment, management and troubleshooting. Topics include enterprise computing resource requirements analysis and design, single sign-on management, application and server deployment, virtualization, security configurations, and performance analysis. 
+/
+Script Programming
+This course provides an in-depth coverage of Python and Unix shell programming to quickly automate various repetitive and complex tasks including those that are used in system administration. The course builds on a good grasp of Unix systems and a solid foundation in high-level programming. 
+/
+Genetics
+Fundamentals of classical and molecular genetics. Selected topics in human genetics, microbial genetics, biochemical genetics, molecular biology, cytogenetics and genomics
+/
+Bioinformatics
+This course covers the fundamental algorithms and computational methods for study of biological sequence data for comparative biology and evolution with the focus on discovery of genome content, function and organization. Specific methodologies covered include the algorithms for searching sequence databases, pair-wise and multiple sequence alignment, phylogenetic methods, and methods for pattern recognition and functional inference from sequence data. 
+/
+Internship
+The student works on a specific project at a corporate site with the prior approval by the program director. Oral and written presentations about the project are required. 
+/
+Industrial Project
+The student works on a specific project at a corporate site with the prior approval by the program director. Oral and written presentations about the project are required. 
+/
+Undergraduate Research
+The student performs research under the supervision of a faculty member. Prior permission required. Oral and written presentations about the research are required. 
+/
+Group Dynamics and Communication
+Group dynamics, discussion and problem solving; influences of group structure, norms, roles, leadership and climate on the processes of group communication and collaborative decision making. 
+/
+Communication in Organizations
+Communication theory and practice within organizational systems. 
+/
+CIT Project Management
+This course presents the theory and practice of IT project management. Topics include financial modeling, cost and effort estimation, project risk management, and project evaluation and selection as well as topics in IT project sponsorship, stewardship and leadership. IT entrepreneurship and marketing are emphasized throughout the course. 
+/
+	
+

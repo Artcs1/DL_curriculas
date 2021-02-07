@@ -1,0 +1,88 @@
+/
+Introduction to Engineering and Computer Science
+Discussion of disciplines within the college, technical communication, presentation of technical results, professional behavior, ethics, problem solving, modeling, and data analysis.
+/
+Introduction to Computing
+Principles of programming. Applications of computing concepts to problem solving in engineering and computer science. 
+/
+Calculus I
+Analytic geometry, limits, derivatives, maxima-minima, related rates, graphs, differentials, exponential and logarithmic functions, mean-value theorem, L’Hospital’s rule, integration.
+/
+Studio 1: Practices of Academic Writing
+Study and practice of writing processes, including critical reading, collaboration, revision, editing, and the use of technologies. Focuses on the aims, strategies, and conventions of academic prose, especially analysis and argumentation.
+/
+Introduction to Computer Science
+Programming emphasizing recursion, data structures, and data abstraction. Elementary analysis of and reasoning about programs. Public policy issues. Extensive programming. 
+/
+Calculus II
+The definite integral and applications; trigonometric functions, methods of integration, improper integrals, infinite series, elementary differential equations, parametric equations, polar coordinates.
+/
+Logic
+Logic as a formal language, as a component of natural language, and as a basis of a programming language. Varieties of logical systems and techniques. Syntax, semantics and pragmatics.
+/
+General Physics I
+Uses calculus. 
+/
+General Physics Laboratory I
+Techniques of laboratory work: treatment of random errors, graphical representation of data. Experimental demonstration of principles of mechanics, thermodynamics, and waves (of vector forces, conservation of momentum and energy, thermal properties of gases).
+/
+Introduction to Discrete Mathematics
+Basic set theory and symbolic logic. Methods of proof, including mathematical induction. Relations, partitions, partial orders, functions, and graphs.
+/
+Data Structures
+Abstract data structures, algorithm analysis, arrays, lists, trees, binary search trees, priority queues, hashing, graphs.
+/
+Calculus III
+Analytic geometry and vectors; functions of more than one variable, multiple integrals, partial differentiation, physical applications.
+/
+Introduction to Probability and Statistics
+Programming-oriented introduction to fundamentals in statistics and probability; elementary statistics, graphical and numerical representation; probability distributions; tests and confidence intervals; regression, and correlation. 
+/
+Computer Organization & Programming Systems
+Essentials of computer organization: digital logic, microprogramming, processors, memories, input-output devices. Instruction sets, assembly language, data types, relation to high level languages. Program construction, traps and interrupts, input-output programming.
+/
+Programming Language: Theory & Practice
+Environments, stores, scoping, functional and imperative languages, modules, classes, data encapsulation, types, and polymorphism. Implementation of these constructs in a definitional interpreter.
+/
+Systems and Network Programming
+Programming and shell scripting in Unix for systems and network software. Makefiles, compilers, linkers, and debuggers, and software with multiple source files. Dynamic memory allocation techniques, system calls,  pointers, concurrent/parallel programming, and network and programming.
+/
+Studio 2: Critical Research and Writing
+Study and practice of critical, research-based writing, including research methods, presentation genres, source evaluation, audience analysis, and library/online research.
+/
+Software Specification and Design
+Software engineering process models. Software requirements analysis, including object-oriented methodology. Behavioral and nonbehavioral requirements. Development of specification documents. Unified Modeling Language. High-level design and software architecture. 
+/
+Introduction to Analysis of Algorithms
+Mathematical modeling of computational problems; searching and sorting algorithms; search trees, heaps, and hash tables; divide-and-conquer, dynamic programming, and greedy choice design techniques; graph algorithms; NP-completeness; and selected topics.
+/
+Design of Operating Systems
+Design and implementation of modern operating systems. Resource management and protection of CPU, memory, and storage. File systems. Input/output. Concurrent process implementation. Process synchronization. Networking.
+/
+Automata and Computability
+Countable and uncountable sets; diagonalization proofs; finite state automata; regular, context-free, context-sensitive, recursive, and r. e. languages; Turing machines; relationships between classes of languages and machines; the halting problem; proof methods for decidability and undecidabilty.
+/
+Software Implementation
+Detailed design of software. Implementation and software testing.  Developing software implementations from UML specifications and design documents. Software development methodologies, including agile development. 
+/
+Ethical Aspects of Engineering and Computer Science
+Ethical issues related to engineering and computer science studied, including professionalism, collective and individual moral responsibility, codes of ethics, whistle blowing, conflict of interest, pluralism in the workplace, product liability, and employer-employee expectations.
+/
+Modal Logic
+Systems of modal logic (logic of the terms “necessary” and “possible”). Formalization and evaluation of modal arguments and basic concepts of metatheory and semantics.
+/
+Mathematical Logic
+Predicate calculus with identity, its relationship to mathematics and to computer theory. Important results concerning independence, consistency, completeness, decidability and computability.
+/
+Minds and Machines
+Philosophical issues concerning artificial intelligence. Can machines understand, learn, think rationally, and be self-conscious? Critique of the computational theory of mind.
+/
+Software Implementation
+Detailed design of software. Implementation and software testing.  Developing software implementations from UML specifications and design documents. Software development methodologies, including agile development.  Ethics and social responsibility.  
+/
+Mobile Application Programming
+Development of applications for different mobile devices. Creating effective user interfaces, efficient use of persisitent storage, network services, GPS, maps and sensors. Additional work required of graduate students.
+/
+Introduction to Cryptography
+Classical cryptosystems and their cryptanalysis, RSA and other public-key cryptosystems, pseudo-random sequences, zero-knowledge protocols, related ethical and social concerns.
+/

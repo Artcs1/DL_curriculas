@@ -1,0 +1,112 @@
+/
+PHYSICS I
+Kinematics, Newton's laws of motion, gravitation, Coulomb's law, Lorentz force law, strong and weak nuclear forces, conservation of energy and momentum, relevant laboratory experiments.
+/
+CALCULUS I
+Calculus and analytic geometry in the plane. Algebraic and transcendental functions. Limits and continuity. Differentiation, geometric and physical interpretations of the derivative, Newton’s method. Introduction to integration and the Fundamental Theorem of Calculus.
+/
+FOUNDATIONS FOR ROSE-HULMAN SUCCESS
+is to learn about services and resources available on campus and help students to successfully transition to college – laying the foundation for their college career. In RHIT100, the focus of the course is you, and you will be challenged to reflect on and analyze your own learning strategies, study skills, and other professional skills that will help you succeed in and out of the classroom.
+/
+RHETORIC & COMPOSITION
+Emphasizes rhetorical analysis oftexts and images,research methods, and theconventions of academic writing, including argumentation.
+/
+ENGINEERING PRACTICE
+An introduction to electrical and computer engineering, systems engineering design, programming, microcontrollers, soldering and circuit building. Students will work individually and on teams to complete projects and create a system for an end of term competition. Students will also learn about technical documentation and communication. Topics include functions, arrays, conditionals, loops, Boolean algebra, wireless communication, resistors, transistors, diodes motors, sensor, analog and digital inputs and outputs.
+/
+PHYSICS II
+Torque and angular momentum, oscillations, one-dimensional waves, electric fields and potentials, electric current and resistance, DC circuits, capacitance, relevant laboratory experiments.
+/
+CALCULUS II
+Techniques of integration, numerical integration, applications of integration. L’Hopital’s rule and improper integrals. Separable first order differential equations, applications of separable first order differential equations. Series of constants, power series, Taylor polynomials, Taylor and McLaurin series.
+/
+INTRODUCTION TO SOFTWARE DEVELOPMENT
+An introduction to procedural and object-oriented programming with an emphasis on problem solving. Problems may include visualizing scientific or commercial data, interfacing with external hardware such as robots, or solving numeric problems from a variety of engineering disciplines. Procedural programming concepts covered include data types, variables, control structures, arrays, and data I/O. Object-oriented programming concepts covered include object creation and use, object interaction, and the design of simple classes. Software engineering concepts covered include testing, incremental development, understanding requirements, and teamwork.
+/
+PHYSICS III
+Sources of magnetic fields, Faraday's law, inductance electromagnetic waves, reflection and polarization, geometric and physical optics, introduction to relativity, relevant laboratory experiments.
+/
+CALCULUS III
+Vectors and parametric equations in three dimensions. Functions of several variables, partial derivatives, maxima and minima of functions of several variables, multiple integrals, and other coordinate systems. Applications of partial derivatives and multiple integrals.
+/
+DC CIRCUITS
+A review of the definition of voltage, current, energy and power. An introduction to Ohm’s Law, ideal DC independent and dependent voltage and current sources, resistors, inductors, capacitors, and operational amplifiers. Circuit analysis and simplification by using series, parallel, and Wye-Delta reduction, Kirchhoff’s laws, mesh and nodal analysis, Thevenin, Norton and Maximum Power Theorems, superposition, and source transformations. An integral laboratory to build electric circuits and measure voltage, current, resistance and power.
+/
+INTRODUCTION TO SIGNAL PROCESSING
+An introduction to discrete-time signal processing applied to audio, images, and video. Topics include phasor representation of sinusoidal signals, complex arithmetic, sampling, signal spectra, linear time-invariant systems, frequency response, convolution, filter implementation, and MATLAB programming. Integral laboratory.
+/
+DIFFERENTIAL EQUATIONS
+First order differential equations including basic solution techniques and numerical methods. Second order linear, constant coefficient differential equations, including both the homogeneous and non-homogeneous cases. Laplace transforms, Introduction to complex arithmetic, as needed. Applications to problems in science and engineering.
+/
+AC CIRCUITS
+Capacitance, Self and Mutual Inductance. Root-mean-square values of waveforms. Application of phasors to sinusoidal steady-state. Impedance of circuit elements. Mesh and Nodal Analysis applied to ac circuits. Thevenin and Norton theorems applied to ac circuits. Single-phase ac power. Power factor correction. Voltage regulation and efficiency of feeders. Balanced three-phase systems. Ideal and non-ideal transformer models. Integral laboratory
+/
+INTRODUCTION TO DIGITAL SYSTEMS
+Number systems, Binary arithmetic, logic gates, forming logic circuits. Boolean algebra, Karnaugh maps. Propagation delay, hazards, common Combinational logic circuits, structures, and design. Contraction, latches, flip-flops, finite state machines, counters, Sequential circuit timing, and designing Sequential circuits. Register design, control and datapath design. Basic computer architecture, including memory. Integral laboratory.
+/
+MATRIX ALGEBRA & SYSTEMS OF DIFFERENTIAL EQUATIONS
+Basic matrix algebra with emphasis on understanding systems of linear equations from algebraic and geometric viewpoints, and eigenvalues and eigenvectors. Solution of systems of first order linear differential equations by eigensystems and investigation of their solution structure determined by eigensystems. Phase portrait analysis and classification of the nature of the stability of critical points for linear and nonlinear systems. Fourier series. Introduction to complex arithmetic, as needed. Applications to problems in science and engineering.
+/
+INTRODUCTION TO EMBEDDED SYSTEMS
+Sensors and actuators. Input and output devices. Microcontroller architecture. Standard communications protocols. Interrupt generation and processing. Data representation and storage. Memory management. The C programming language and programming styles. Integral laboratory and a term project.
+/
+CIRCUITS & SYSTEMS
+Introduction to 1st and 2nd order circuits and review of differential equations. Bode plots. System classification, impulse and step response, convolution. Laplace and inverse Laplace transforms, block and signal flow diagrams. Benefits of feedback. Modeling and simulating electrical systems. Matlab and Simulink. Integral laboratory.
+/
+INTRODUCTION TO PROBABILITY WITH APPLICATIONS TO STATISTICS
+Introduction to probability theory; axioms of probability, sample spaces, and probability laws (including conditional probabilities). Univariate random variables (discrete and continuous) and their expectations including these distributions: binomial, Poisson, geometric, uniform, exponential, and normal. Introduction to moment generating functions. Introduction to jointly distributed random variables. Univariate and joint transformations of random variables. The distribution of linear combinations of random variables and an introduction to the Central Limit Theorem. Applications of probability to statistics.
+/
+CONTINUOUS-TIME SIGNALS & SYSTEMS
+Signal modeling. Fourier series and Fourier transforms. Response of systems to periodic and aperiodic signals. Filter characterization and design. Ideal and practical sampling. Use of numerical analysis software. Integral laboratory
+/
+OBJECT-ORIENTED SOFTWARE DEVELOPMENT
+Object-oriented programming concepts, including the use of inheritance, interfaces, polymorphism, abstract data types, and encapsulation to enable software reuse and assist in software maintenance. Recursion, GUIs and event handing. Use of common object-based data structures, including stacks, queues, lists, trees, sets, maps, and hash tables. Space/time efficiency analysis. Testing. Introduction to UML.
+/
+ELECTRONIC DEVICE MODELING
+Modeling, analysis, and simulation of electronic circuits that contain two-terminal and threeterminal semiconductor devices. Large-signal, biasing, and small-signal analysis models. Introduction to wave shaping circuits, switching circuits, and amplifiers. Integral laboratory.
+/
+DISCRETE & COMBINATORIAL ALGEBRA I
+An introduction to enumeration and discrete structures. Permutations, combinations and the pigeonhole principle. Elementary mathematical logic and proof techniques, including mathematical induction. Properties of the integers. Set theory. Introduction to functions.
+/
+COMPUTER ARCHITECTURE I
+Computer instruction set architecture and implementation. Specific topics include historical perspectives, performance evaluation, computer organization, instruction formats, addressing modes, computer arithmetic, single-cycle and multi-cycle data paths, and processor control. Assembly language programming is used as a means of exploring instruction set architectures. The final project involves the complete design and implementation of a miniscule instruction set processor.
+/
+DISCRETE-TIME SIGNALS AND SYSTEMS
+System properties: linearity and time-invariance. Sampling and reconstruction. Convolution in discrete-time systems. Z-transform, FIR and IIR filters. Discrete-time filter design. Discrete Fourier transform. Random Variables and Random Processes.
+/
+TECHNICAL & PROFESSIONAL COMMUNICATION
+Provides students with instruction and practice in analyzing contexts, audiences, and genres; crafting documents to meet the demands and constraints of professional situations; integrating all stages of the writing process; and collaborating effectively within and across teams.
+/
+COMMUNICATION NETWORKS
+Layered architectures. Circuit and packet switching. The ISO Reference Model. Point-to-point protocols, error control, framing. Accessing shared media, local area networks. Virtual circuits, datagrams, routing, congestion control. Queuing theory. Reliable message transport, internetworking.
+/
+OPERATING SYSTEMS
+Students learn fundamental concepts of modern operating systems by studying how and why operating systems have evolved. Topics include CPU scheduling, process synchronization, memory management, file systems, I/O systems, privacy and security, and performance evaluation. Students implement parts of an operating system as a means of exploring the details of some of these topics.
+/
+DATA STRUCTURES AND ALGORITHM ANALYSIS
+This course reinforces and extends students’ ability to independently design, develop, and debug object-oriented software that uses correct, clear, and efficient algorithms and data structures. Students study and implement classical data structures such as list, stack, queue, tree, priority queue, hash table, graph, set, and dictionary. Formal efficiency analysis is used to evaluate the complexity of algorithms for these data structures. Students gain proficiency in writing recursive methods. Students design and implement software individually, in small groups, and in a challenging multi-week team project.
+/
+COMPUTER ARCHITECTURE II
+Instruction-Level Parallelism. Pipelining. Data Hazards. Exceptions. Branch Prediction. Multilength Instructions. Loop Unrolling. TI C6000 Digital Signal Processor. Cache. Memory. MSP430 Microcontroller. PIC Microcontroller. Intel Itanium. Multiprocessors. Hardware Multithreading. Graphics Processors. Supercomputers.
+/
+PRINCIPLES OF DESIGN
+A formal design course that emphasizes the design process. Project management, project reporting and decision-making are learned by student teams as they carry a project through several stages of a formal design process.
+/
+ENGINEERING DESIGN I
+A continuation of a sequence of formal design courses that emphasizes completion of a client-driven project using a formal design process. Student teams carry a project from inception to completion to satisfy the need of a client. Integral laboratory.
+/
+HIGH-SPEED DIGITAL DESIGN
+Signal path modeling through connecting lengths of transmission lines with lumped element models of discontinuities. Circuit parameters from geometries and material properties for resistance, capacitance, inductance and transmission line segments. Lossless and lossy transmission line circuit modeling. High-frequency and high-speed behavior of passive components. Frequency spectrum of digital signals. Digital device driver and receiver modeling. Transmission line impedance discontinuity and termination techniques. Electric and magnetic field coupling mechanisms for capacitive and inductive crosstalk. Ground noise, power plane noise and resonance. Signal and power integrity issues in high-speed digital systems at both the printed-circuit board and chip levels.
+/
+ENGINEERING DESIGN II
+ENGINEERING DESIGN II
+/
+ECE 462 Engineering Design III
+ECE 462 Engineering Design III
+/
+INTRODUCTION TO MOBILE ROBOTICS
+This course will introduce the basic principles of mobile robotics history, theory, hardware and control. Topics will include robot components, effectors and actuators, locomotion, sensors, feedback control, control architectures, representation, localization and navigation. This is a project-oriented course and the student will have hands-on experience with a real mobile robot. The student will be required to complete several laboratory assignments and a multidisciplinary team design project.
+/
+EMBEDDED LINUX
+Brief introduction to Linux on an embedded processor. Software development in various languages (C, shell scripts, Python, JavaScript, etc.). Hardware interfacing. Kernel development. Software tools (IDE, gcc, make, node.js, etc.)
+/

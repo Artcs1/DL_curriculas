@@ -1,0 +1,411 @@
+﻿/
+Evolution of the Human Brain 
+Introduction to comparative vertebrate brain anatomy, neural development, and sensory-motor functions that are relevant to the study of human brain evolution and the evolution of uniquely human mental and behavioral capacities. Emphasis is on understanding the processes of evolution that are responsible for species differences in brain structure and function. Special attention will be given to animal communication, vocalization, neurolinguistics, and theories of language evolution.
+/
+Information Technology Economics, Strategy, and Policy 
+Application of economic tools and principles, including game theory, industrial organization, information economics, and behavioral economics, to analyze business strategies and public policy issues surrounding information technologies and IT industries. Topics include: economics of information; economics of information goods, services, and platforms; strategic pricing; strategic complements and substitutes; competition models; network industry structure and telecommunications regulation; search and the "long tail"; network cascades and social epidemics; network formation and network structure; peer production and crowdsourcing; interdependent security and privacy.
+/ 
+Introduction to Business Analytics 
+This course provides an introduction to several quantitative methods used to facilitate complex decision-making in business, with applications in many different industries, at different levels in the organization, and with different scopes of decisions. The power of the methods covered in this class is further enhanced by implementing them in spreadsheet software, which allows complex problems to be approached and solved in a straightforward and understandable manner.
+/
+Introduction to Embedded Systems 
+This course introduces students to the basics of modeling, analysis, and design of embedded, cyber-physical systems. Students learn how to integrate computation with physical processes to meet a desired specification. Topics include models of computation, control, analysis and verification, interfacing with the physical world, real-time behaviors, mapping to platforms, and distributed embedded systems. The course has a strong laboratory component, with emphasis on a semester-long sequence of projects.
+/
+Calculus 
+Continuation of 1A. Techniques of integration; applications of integration. Infinite sequences and series. First-order ordinary differential equations. Second-order ordinary differential equations; oscillation and damping; series solutions of ordinary differential equations.
+/
+Calculus 
+This sequence is intended for majors in engineering and the physical sciences. An introduction to differential and integral calculus of functions of one variable, with applications and an introduction to transcendental functions.
+/
+Economic Analysis--Macro 
+A study of the factors which determine national income, employment, and price levels, with attention to the effects of monetary and fiscal policy.
+/
+Special Topics in Digital Design Theories and Methods 
+Selected topics in digital design theories and methods. For current offerings, see departmental website.
+/
+Microfabrication Technology 
+Integrated circuit device fabrication and surface micromachining technology. Thermal oxidation, ion implantation, impurity diffusion, film deposition, expitaxy, lithography, etching, contacts and interconnections, and process integration issues. Device design and mask layout, relation between physical structure and electrical/mechanical performance. MOS transistors and poly-Si surface microstructures will be fabricated in the laboratory and evaluated.
+/
+Game Theory in the Social Sciences 
+A non-technical introduction to game theory. Basic principle, and models of interaction among players, with a strong emphasis on applications to political science, economics, and other social sciences.
+/
+The Structure and Interpretation of Computer Programs 
+An introduction to programming and computer science focused on abstraction techniques as means to manage program complexity. Techniques include procedural abstraction; control abstraction using recursion, higher-order functions, generators, and streams; data abstraction using interfaces, objects, classes, and generic operators; and language abstraction using interpreters and macros. The course exposes students to programming paradigms, including functional, object-oriented, and declarative approaches. It includes an introduction to asymptotic analysis of algorithms. There are several significant programming projects.
+/
+Power Electronics 
+Power conversion circuits and techniques. Characterization and design of magnetic devices including transformers, reactors, and electromagnetic machinery. Characteristics of bipolar and MOS power semiconductor devices. Applications to motor control, switching power supplies, lighting, power systems, and other areas as appropriate.
+/
+Introduction to Microelectromechanical Systems (MEMS) 
+This course will teach fundamentals of micromachining and microfabrication techniques, including planar thin-film process technologies, photolithographic techniques, deposition and etching techniques, and the other technologies that are central to MEMS fabrication. It will pay special attention to teaching of fundamentals necessary for the design and analysis of devices and systems in mechanical, electrical, fluidic, and thermal energy/signal domains, and will teach basic techniques for multi-domain analysis. Fundamentals of sensing and transduction mechanisms including capacitive and piezoresistive techniques, and design and analysis of micmicromachined miniature sensors and actuators using these techniques will be covered.
+/
+Signals and Systems 
+Continuous and discrete-time transform analysis techniques with illustrative applications. Linear and time-invariant systems, transfer functions. Fourier series, Fourier transform, Laplace and Z-transforms. Sampling and reconstruction. Solution of differential and difference equations using transforms. Frequency response, Bode plots, stability analysis. Illustrated by analysis of communication systems and feedback control systems.
+/
+Methods for Research in Psychological Sciences 
+Lecture and computer lab course on advanced data analysis techniques used by researchers in psychology. The course will cover programming techniques in R and data analysis methods that include modeling, multivariate statistics, and data reduction and visualization techniques. The following topics will be covered: generalized linear model (includes logistic regression), discriminant analysis (includes multivariate ANOVA), principal component analysis, and factor analysis.
+/
+Special Topics in New Media 
+Special Topics in New Media
+/
+Hydrology for Planners 
+This course presents an overview of relevant hydrologic, hydraulic, and geomorphic processes, to provide the planner and ecologist with insight sufficient to coordinate with technical specialists in the field of hydrology. In addition, relevant regulations and policies are reviewed.
+/
+Game Theory in the Social Sciences 
+This course provides an introduction to game theory and its application in social science, especially political science and economics. The purposes of the course are to give students a sense of the field of game theory and how political scientists use it in making arguments about how government and politics work, to develop students' intuition about strategic situations in everyday life, and to develop students' analytical capabilities generally. Upon completion of the course, students will be able to depict social situations as simple game theoretic models, analyze those models to understand how the behaviors of the individuals involved are mutually reinforcing, and apply computer-based tools to evaluate under conditions of uncertainty.
+/
+Topical Seminars in Cognitive Psychology 
+Topical Seminars in Cognitive Psychology
+/
+Computational Models of Cognition 
+This course will provide advanced students in cognitive science and computer science with the skills to develop computational models of human cognition, giving insight into how people solve challenging computational problems, as well as how to bring computers closer to human performance. The course will explore three ways in which researchers have attempted to formalize cognition -- symbolic approaches, neural networks, and probability and statistics -- considering the strengths and weaknesses of each.
+/
+Intermediate Financial Accounting 2 
+This course expands students’ knowledge of the concepts, theory, and application of financial accounting. It continues the technical accounting sequence, which also includes UGBA 120AA, Intermediate Accounting 1 and UGBA 120B, Advanced Financial Accounting. Topics include an in-depth treatment of the financing elements of the balance sheet and the income statement, as well as a detailed examination of the statement of cash flows.
+/
+Feedback Control Systems 
+Analysis and synthesis of linear feedback control systems in transform and time domains. Control system design by root locus, frequency response, and state space methods. Applications to electro-mechanical and mechatronics systems.
+/
+Operating Systems and System Programming 
+Basic concepts of operating systems and system programming. Utility programs, subsystems, multiple-program systems. Processes, interprocess communication, and synchronization. Memory allocation, segmentation, paging. Loading and linking, libraries. Resource allocation, scheduling, performance evaluation. File systems, storage devices, I/O systems. Protection, security, and privacy.
+/
+Efficient Algorithms and Intractable Problems 
+Concept and basic techniques in the design and analysis of algorithms; models of computation; lower bounds; algorithms for optimum search trees, balanced trees and UNION-FIND algorithms; numerical and algebraic algorithms; combinatorial algorithms. Turing machines, how to count steps, deterministic and nondeterministic Turing machines, NP-completeness. Unsolvable and intractable problems.
+/
+Intermediate Logic 
+Major concepts, results, and techniques of modern logic. Basic set theoretic tools. Model theoretic treatment of propositional and first-order logic (completeness, compactness, Lowenheim-Skolem). Philosophical implcations of these results.
+/
+Theory and Practice of Tangible User Interfaces 
+This course explores the theory and practice of Tangible User Interfaces, a new approach to Human Computer Interaction that focuses on the physical interaction with computational media. The topics covered in the course include theoretical framework, design examples, enabling technologies, and evaluation of Tangible User Interfaces. Students will design and develop experimental Tangible User Interfaces using physical computing prototyping tools and write a final project report.
+/
+User Experience Research 
+This course addresses concepts and methods of user experience research, from understanding and identifying needs, to evaluating concepts and designs, to assessing the usability of products and solutions. We emphasize methods of collecting and interpreting qualitative data about user activities, working both individually and in teams, and translating them into design decisions. Students gain hands-on practice with observation, interview, survey, focus groups, and expert review. Team activities and group work are required during class and for most assignments. Additional topics include research in enterprise, consulting, and startup organizations, lean/agile techniques, mobile research approaches, and strategies for communicating findings.
+/
+Game Design Methods 
+This course offers an introduction to game design and game studies. Game studies has five core elements: the study of games as transmitters of culture, the study of play and interactivity, the study of games as symbolic systems; the study of games as artifacts; and methods for creating games. We will study these core elements through play, play tests, play analysis, and comparative studies. Our reading list includes classic game studies theory and texts which support game design methods. After weekly writing and design exercises, our coursework will culminate in the design and evaluation of an original code-based game with a tangible interface.
+/
+Laboratory in the Mechanics of Organisms 
+Introduction to laboratory and field study of the biomechanics of animals and plants using fundamental biomechanical techniques and equipment. Course has a series of rotations involving students in experiments demonstrating how solid and fluid mechanics can be used to discover the way in which diverse organisms move and interact with their physical environment. The laboratories emphasize sampling methodology, experimental design, and statistical interpretation of results. Latter third of course devoted to independent research projects. Written reports and class presentation of project results are required.
+/
+Modal Logic 
+An introduction to the logical study of modality in its many forms: reasoning about necessity, knowledge, obligation, time, counterfactuals, provability, and other modal notions. Covers core concepts and basic metatheory of propositional modal logic, including relations to first-order logic; basics of quantified modal logic; selected philosophical applications ranging from epistomology to ethics, metaphysics to mathematics.
+/
+Introduction to Electric Power Systems 
+Overview of recent and potential future evolution of electric power systems with focus on new and emerging technologies for power conversion and delivery, primarily at the distribution level. Topics include power electronics applications, solar and wind generation, distribution system design and operation, electric energy storage, information management and communications, demand response, and microgrids.
+/
+Introductory Microcomputer Interfacing Laboratory 
+Laboratory exercises constructing basic interfacing circuits and writing 20-100 line C programs for data acquisition, storage, analysis, display, and control. Use of the IBM PC with microprogrammable digital counter/timer, parallel I/O port. Circuit components include anti-aliasing filters, the S/H amplifier, A/D and D/A converters. Exercises include effects of aliasing in periodic sampling, fast Fourier transforms of basic waveforms, the use of the Hanning filter for leakage reduction, Fourier analysis of the human voice, digital filters, and control using Fourier deconvolution. Lectures cover principles explored in the lab exercises and design of microcomputer-based systems for data acquisitions, analysis and control.
+/
+Introduction to Finance 
+Analysis and management of the flow of funds through an enterprise. Cash management, source and application of funds, term loans, types and sources of long-term capital. Capital budgeting, cost of capital, and financial structure. Introduction to capital markets.
+/
+Project Management 
+The primary objective of this course is to develop the critical skills and knowledge needed to successfully pitch and lead projects, and to deliver those projects on time and within budget. The course delves into formal planning and scheduling techniques including: project definition, project selection, Work Breakdown Structure (WBS), Resource Estimation, Critical Path Method (CPM), Pert, Gantt Charts, Resource Constrained Scheduling, Project Monitoring and Project Closing.
+/
+Economic Theory--Macro 
+A study of theories of the determination of national income, employment, and price levels, with attention to the effects of monetary and fiscal policy.
+/
+Geographic Information Analysis 
+A spatial analytic approach to digital mapping and GIS. Given that recording the geolocation of scientific, business and social data is now routine, the question of what we can learn from the spatial aspect of data arises. This class looks at challenges in analyzing spatial data, particularly scale and spatial dependence. Various methods are considered such as hotspot detection, interpolation, and map overlay. The emphasis throughout is hands on and practical rather than theoretical.
+/
+Microelectronic Devices and Circuits 
+This course covers the fundamental circuit and device concepts needed to understand analog integrated circuits. After an overview of the basic properties of semiconductors, the p-n junction and MOS capacitors are described and the MOSFET is modeled as a large-signal device. Two port small-signal amplifiers and their realization using single stage and multistage CMOS building blocks are discussed. Sinusoidal steady-state signals are introduced and the techniques of phasor analysis are developed, including impedance and the magnitude and phase response of linear circuits. The frequency responses of single and multi-stage amplifiers are analyzed. Differential amplifiers are introduced.
+/
+Natural Language Processing 
+This course introduces students to natural language processing and exposes them to the variety of methods available for reasoning about text in computational systems. NLP is deeply interdisciplinary, drawing on both linguistics and computer science, and helps drive much contemporary work in text analysis (as used in computational social science, the digital humanities, and computational journalism). We will focus on major algorithms used in NLP for various applications (part-of-speech tagging, parsing, coreference resolution, machine translation) and on the linguistic phenomena those algorithms attempt to model. Students will implement algorithms and create linguistically annotated data on which those algorithms depend.
+/
+Hydrology for Planners 
+This course presents an overview of relevant hydrologic, hydraulic, and geomorphic processes, to provide the planner and ecologist with insight to incorporate these processes into the planning process and coordinate with specialists in the field of hydrology. Relevant government regulations and policies are also reviewed. The course is not intended to duplicate more specialized courses offered in such fields as engineering hydrology, coastal engineering, or geology, but rather to provide an integrated understanding. The course takes a process- and field-based approach to hydrology, and emphasizes interdisciplinary perspectives.
+/
+Digital Signal Processing 
+Discrete time signals and systems: Fourier and Z transforms, DFT, 2-dimensional versions. Digital signal processing topics: flow graphs, realizations, FFT, chirp-Z algorithms, Hilbert transform relations, quantization effects, linear prediction. Digital filter design methods: windowing, frequency sampling, S-to-Z methods, frequency-transformation methods, optimization methods, 2-dimensional filter design.
+/
+Syntax 
+An introduction to the study of the structural properties of sentences and the connections between sentence structure and sentence meaning.
+/
+Econometric Analysis 
+Introduction to problems of observation, estimation, and hypothesis testing in economics. This course covers the statistical theory for the linear regression model and its variants, with examples from empirical economics.
+/
+Public Health Microbiology 
+Introduction to properties of microorganisms; their relationships with humans in causing infectious diseases and in maintaining health. With 162L, satisfies most requirements for a laboratory course in microbiology. May be taken without 162L.
+/
+Fundamental Algorithms for Systems Modeling, Analysis, and Optimization 
+The modeling, analysis, and optimization of complex systems requires a range of algorithms and design software. This course reviews the fundamental techniques underlying the design methodology for complex systems, using integrated circuit design as example. Topics include design flows, discrete and continuous models and algorithms, and strategies for implementing algorithms efficiently and correctly in software. Laboratory assignments and a class project will expose students to state-of-the-art tools.
+/
+Great Ideas of Computer Architecture (Machine Structures) 
+The internal organization and operation of digital computers. Machine architecture, support for high-level languages (logic, arithmetic, instruction sequencing) and operating systems (I/O, interrupts, memory management, process switching). Elements of computer logic design. Tradeoffs involved in fundamental architectural design decisions.
+/
+Global Change Biogeochemistry 
+How does the chemical makeup of Earth make it suitable for life? And how does life in turn alter the chemistry of our planet? Biogeochemistry is the field of science that explores the imprint of biota (including humans) on the chemistry of the ocean, land and atmosphere. This interdisciplinary field addresses global problems, including climate change feedbacks, air quality, land use change, and marine ecosystem health. We will provide an overview of the major biogeochemical cycles, discuss the biogeochemistry of major ecosystems, and introduce the major biogeochemical questions being asked today. We also cover measurement techniques, including hands-on activities to introduce students to experimental methods and data analysis.
+/
+Music Perception and Cognition 
+A review of the sensory, perceptual, and cognitive foundations of listening, performing, and composing. Topics include relations among various acoustical and perceptual characterizations of sound; perceptions of pitch, time, temporal relations, timbre, stability conditions, and auditory space; auditory scene analysis and perceptual grouping mechanisms; perceptual principles for melodic, rhythmic, and harmonic organization; orchestration as spectral composition. A course research project is required.
+/
+Perception 
+An introduction to principal theoretical constructs and experimental procedures in visual and auditory perception. Topics will include psychophysics; perception of color, space, shape, and motion; pattern recognition and perceptual attention.
+/
+User Interface Design and Development 
+The design, implementation, and evaluation of user interfaces. User-centered design and task analysis. Conceptual models and interface metaphors. Usability inspection and evaluation methods. Analysis of user study data. Input methods (keyboard, pointing, touch, tangible) and input models. Visual design principles. Interface prototyping and implementation methodologies and tools. Students will develop a user interface for a specific task and target user group in teams.
+/
+Machine Learning in Education 
+This course covers computational approaches to the task of modeling learning and improving outcomes in Intelligent Tutoring Systems (ITS) and Massive Open Online Courses (MOOCs). We will cover theories and methodologies underpinning current approaches to knowledge discovery and data mining in education and survey the latest developments in the broad field of human learning research. The course is project based; teams will be introduced to online learning platforms and their datasets with the objective of pairing data analysis with theory or implementation. Literature review will add context and grounding to projects.
+/
+Basic Issues in Cognition 
+Theoretical foundations and current controversies in cognitive science will be discussed. Basic issues in cognition--including perception, imagery, memory, categorization, thinking, judgment, and development--will be considered from the perspectives of philosophy, psychology, computer science, and physiology. Particular emphasis will be placed on the nature, implications, and limitations of the computational model of mind.
+/
+Mechatronic Design Laboratory 
+Design project course, focusing on application of theoretical principles in electrical engineering to control of a small-scale system, such as a mobile robot. Small teams of students will design and construct a mechatronic system incorporating sensors, actuators, and intelligence.
+/
+Principles & Techniques of Data Science 
+In this course, students will explore the data science lifecycle, including question formulation, data collection and cleaning, exploratory data analysis and visualization, statistical inference and prediction​, and decision-making.​ This class will focus on quantitative critical thinking​ and key principles and techniques needed to carry out this cycle. These include languages for transforming, querying and analyzing data; algorithms for machine learning methods including regression, classification and clustering; principles behind creating informative data visualizations; statistical concepts of measurement error and prediction; and techniques for scalable data processing.
+/
+Introduction to Electric Power Systems 
+Overview of conventional electric power conversion and delivery, emphasizing a systemic understanding of the electric grid with primary focus at the transmission level, aimed toward recognizing needs and opportunities for technological innovation. Topics include aspects of a.c. system design, electric generators, components of transmission and distribution systems, power flow analysis, system planning and operation, performance measures, and limitations of legacy technologies.
+/
+Intermediate Logic 
+Major concepts, results, and techniques of modern logic. Turing machines, computability theory, undecidability of first-order logic, proof theory, Godel's first and second inompleteness theorms. Philosophical implications of these results.
+/
+Introduction to Computational Biology and Precision Medicine 
+Computational biology is an interdisciplinary field that develops and/or applies computational methods including bioinformatics to analyze large collections of biological data such as genomic data with a goal of making new predictions or discoveries. Precision medicine is an emerging approach for human disease treatment and prevention that takes into account individual variability in genes, environment, and lifestyle for each person. Computational biology and bioinformatics tools are critical for advancing precision medicine. This survey course introduces computational tools for the analysis of genomic data and approaches to understanding and advancing precision medicine.
+/
+Geographic Information Systems 
+This course introduces the student to the rapidly expanding field of Geographic Information Systems (GIS). It addresses both theory and application and provides the student with a dynamic analytical framework within which temporal and spatial data and information is gathered, integrated, interpreted, and manipulated. It emphasizes a conceptual appreciation of GIS and offers an opportunity to apply some of those concepts to contemporary geographical and planning issues.
+/
+Data Mining and Analytics 
+This course introduces students to practical fundamentals of data mining and machine learning with just enough theory to aid intuition building. The course is project-oriented, with a project beginning in class every week and to be completed outside of class by the following week, or two weeks for longer assignments. The in-class portion of the project is meant to be collaborative, with the instructor working closely with groups to understand the learning objectives and help them work through any logistics that may be slowing them down. Weekly lectures introduce the concepts and algorithms which will be used in the upcoming project. Students leave the class with hands-on data mining and data engineering skills they can confidently apply.
+/
+User Interface Design and Development 
+User interface design and human-computer interaction. Examination of alternative design. Tools and methods for design and development. Human computer interaction. Methods for measuring and evaluating interface quality.
+/
+Neural Computation 
+This course provides an introduction to the theory of neural computation. The goal is to familiarize students with the major theoretical frameworks and models used in neuroscience and psychology, and to provide hands-on experience in using these models. Topics include neural network models, supervised and unsupervised learning rules, associative memory models, probabilistic/graphical models, and models of neural coding in the brain.
+/
+Integrated Circuits for Communications 
+Analysis and design of electronic circuits for communication systems, with an emphasis on integrated circuits for wireless communication systems. Analysis of noise and distortion in amplifiers with application to radio receiver design. Power amplifier design with application to wireless radio transmitters. Radio-frequency mixers, oscillators, phase-locked loops, modulators, and demodulators.
+/
+Sound and Music Computing with CNMAT Technologies 
+Explores the intersection of music and computers using a combination of scientific, technological, and artistic methodologies. Musical concerns within a computational frame are addressed through the acquisition of basic programming skills for the creation and control of digital sound. Will learn core concepts and techniques of computerbased music composition using the Cycling74/MaxMSP programming environment in combination with associated software tools and programming approaches created by the Center for New Music and Audio Technologies. Included will be exposure to the essentials of digital audio signal processing, musical acoustics and psychoacoustics, sound analysis and synthesis. The course is hands-on and taught from the computer lab.
+/
+Computational Models of Cognition 
+This course will provide advanced students in cognitive science and computer science with the skills to develop computational models of human cognition, giving insight into how people solve challenging computational problems, as well as how to bring computers closer to human performance. The course will explore three ways in which researchers have attempted to formalize cognition -- symbolic approaches, neural networks, and probability and statistics -- considering the strengths and weaknesses of each.
+/
+Perception 
+An introduction to principal theoretical constructs and experimental procedures in visual and auditory perception. Topics will include psychophysics; perception of color, space, shape, and motion; pattern recognition and perceptual attention.
+/
+Challenge Lab 
+This course is meant for students in engineering and other disciplines who seek a challenging, interactive, team-based, and hands-on learning experience in entrepreneurship and technology. In this highly experiential course, students work in simulated start-up teams to create products or start-up ideas to address a broadly-defined need of an industry partner or social challenge.
+/
+Computer Architecture and Engineering 
+Instruction set architecture, microcoding, pipelining (simple and complex). Memory hierarchies and virtual memory. Processor parallelism: VLIW, vectors, multithreading. Multiprocessors.
+/
+Critical Making 
+Critical Making will operationalize and critique the practice of “making” through both foundational literature and hands on studio culture. As hybrid practitioners, students will develop fluency in readily collaging and incorporating a variety of physical materials and protocols into their practice. Students will envision and create future computational experiences that critically explore social and culturally relevant technological themes. No previous technical knowledge is required to take this course. Class projects involve basic programming, electronic circuitry, and digital fabrication design. Tutorials and instruction will be provided, but students will be expected to develop basic skills in these areas to complete course projects.
+/
+Introduction to Artificial Intelligence 
+Ideas and techniques underlying the design of intelligent computer systems. Topics include search, game playing, knowledge representation, inference, planning, reasoning under uncertainty, machine learning, robotics, perception, and language understanding.
+/
+Database Management 
+Introduction to relational, hierarchical, network, and object-oriented database management systems. Database design concepts, query languages for database applications (such as SQL), concurrency control, recovery techniques, database security. Issues in the management of databases. Use of report writers, application generators, high-level interface generators.
+/
+Introduction to Epidemiology and Human Disease 
+This course introduces epidemiological methods with the goal of teaching students to read critically and interpret published epidemiologic studies in humans. The course also exposes students to the epidemiology of diseases and conditions of current public health importance in the United States and internationally.
+/
+Introduction to Real Estate and Urban Land Economics 
+The nature of real property; market analysis; construction cycles; mortgage lending; equity investment; metropolitan growth; urban land use; real property valuation; public policies.
+/
+Cognitive Linguistics 
+Conceptual systems and language from the perspective of cognitive science. How language gives insight into conceptual structure, reasoning, category-formation, metaphorical understanding, and the framing of experience. Cognitive versus formal linguistics. Implications from and for philosophy, anthropology, literature, artificial intelligence, and politics.
+/
+Introduction to Machine Learning 
+Theoretical foundations, algorithms, methodologies, and applications for machine learning. Topics may include supervised methods for regression and classication (linear models, trees, neural networks, ensemble methods, instance-based methods); generative and discriminative probabilistic models; Bayesian parametric learning; density estimation and clustering; Bayesian networks; time series models; dimensionality reduction; programming projects covering a variety of real-world applications.
+/
+Computability and Complexity 
+Finite automata, Turing machines and RAMs. Undecidable, exponential, and polynomial-time problems. Polynomial-time equivalence of all reasonable models of computation. Nondeterministic Turing machines. Theory of NP-completeness: Cook's theorem, NP-completeness of basic problems. Selected topics in language theory, complexity and randomness.
+/
+Planetary Astrophysics 
+Physics of planetary systems, both solar and extra-solar. Star and planet formation, radioactive dating, small-body dynamics and interaction of radiation with matter, tides, planetary interiors, atmospheres, and magnetospheres. High-quality oral presentations may be required in addition to problem sets and a final exam.
+/
+Front-End Web Architecture 
+This course is a survey of technologies that power the user interfaces of web applications on a variety of devices today, including desktop, mobile, and tablet devices. This course will delve into some of the core Front-End languages and frameworks (HTML/CSS/JS/React/Redux), as well as the underlying technologies enable web applications (HTTP, URI, JSON). The goal of this course is to provide an overview of the technical issues surrounding user interfaces powered by the web today, and to provide a solid and comprehensive perspective of the Web's constantly evolving landscape.
+/
+Programming Languages and Compilers 
+Survey of programming languages. The design of modern programming languages. Principles and techniques of scanning, parsing, semantic analysis, and code generation. Implementation of compilers, interpreters, and assemblers. Overview of run-time organization and error handling.
+/
+Data Structures 
+Fundamental dynamic data structures, including linear lists, queues, trees, and other linked structures; arrays strings, and hash tables. Storage management. Elementary principles of software engineering. Abstract data types. Algorithms for sorting and searching. Introduction to the Java programming language.
+/
+Economic Demography 
+A general introduction to economic demography, addressing the following kinds of questions: What are the economic consequences of immigration to the U.S.? Will industrial nations be able to afford the health and pension costs of the aging populations? How has the size of the baby boom affected its economic well being? Why has fertility been high in Third World countries? In industrial countries, why is marriage postponed, divorce high, fertility so low, and extramarital fertility rising? What are the economic and environmental consequences of rapid population growth?
+/
+Cartographic Representation 
+Problems in the representation of quantitative and qualitative data on thematic maps.
+/
+Physics of the Earth and Planetary Interiors 
+Gravity field, density distribution, and internal seismic structure of the Earth and planets. Constitution, composition, temperature distribution, and energetics of the Earth's interior. The geomagnetic field and the geodynamo, and concepts in seismic imaging and geophysical fluid dynamics. This
+course welcomes physics, computer science, engineering and applied maths majors.
+/
+Applied Natural Language Processing 
+This course examines the state-of-the-art in applied Natural Language Processing (also known as content analysis and language engineering), with an emphasis on how well existing algorithms perform and how they can be used (or not) in applications. Topics include part-of-speech tagging, shallow parsing, text classification, information extraction, incorporation of lexicons and ontologies into text analysis, and question answering. Students will apply and extend existing software tools to text-processing problems.
+/
+Probability and Random Processes 
+This course covers the fundamentals of probability and random processes useful in fields such as networks, communication, signal processing, and control. Sample space, events, probability law. Conditional probability. Independence. Random variables. Distribution, density functions. Random vectors. Law of large numbers. Central limit theorem. Estimation and detection. Markov chains.
+/
+Economic Statistics and Econometrics 
+Introduction to problems of observation, estimation, and hypothesis testing in economics. This course covers the linear regression model and its application to empirical problems in economics.
+/
+Introduction to Communication Networks 
+This course focuses on the fundamentals of the wired and wireless communication networks. The course covers both the architectural principles for making these networks scalable and robust, as well as the key techniques essential for analyzing and designing them. The topics include graph theory, Markov chains, queuing, optimization techniques, the physical and link layers, switching, transport, cellular networks and Wi-Fi.
+/
+Special Topics in Digital Design Theories and Methods 
+Topics cover advanced and research-related issues in digital design and New Media, related to architecture.
+/
+Intermediate Financial Accounting 1 
+This Course introduces the student to concepts, theory and applications of financial accounting. The topics covered include accrual accounting concepts, financial statement analysis, inventory valuations, capital assets and their corresponding depreciation and impairment. Attention is given to examples on current reporting practices and to the study of reporting requirements promulgated by the Financial Accounting Standards Board (“FASB”) with comparison to the International Accounting Standards Board (“IASB”).
+/
+Integrated-Circuit Devices 
+Overview of electronic properties of semiconductor. Metal-semiconductor contacts, pn junctions, bipolar transistors, and MOS field-effect transistors. Properties that are significant to device operation for integrated circuits. Silicon device fabrication technology.
+/
+Optimization Models in Engineering 
+This course offers an introduction to optimization models and their applications, ranging from machine learning and statistics to decision-making and control, with emphasis on numerically tractable problems, such as linear or constrained least-squares optimization.
+/
+International Trade 
+This course will develop models for understanding the economic causes and effects of international trade, will investigate the effects of economic policies that inhibit trade, and will examine the political economy of trade. By integrating the findings of the latest theoretical and empirical research in international economics, this course help students learn how to explore the current political debates in the U.S. and elsewhere regarding the benefits and costs of international trade.
+/
+Climate Dynamics 
+The course presents a conceptual basis for understanding of the workings of the global climate system, and how they conspire to bring about change. The goal is to give the student a climate dynamics basis for understanding global climate change. Covered topics include observations of the climate system; the earth's energy balance; atmospheric radiative transfer; atmospheric circulation; the role of the ocean and the cryosphere; climate variability on various timescales; climate feedbacks and climate change.
+/
+Epidemiology and Control of Infectious Diseases 
+A discussion of major infectious diseases with emphasis on disease surveillance, investigative procedures, and prevention programs. Emphasis is on current problems in health agencies at a state, national, and international level.
+/
+Managerial Accounting 
+The uses of accounting systems and their outputs in the process of management of an enterprise. Classification of costs and revenue on several bases for various uses; budgeting and standard cost accounting; analyses of relevant costs and other data for decision making.
+/
+Mathematical Methods in Geophysics 
+Linear systems. Linear inverse problems, least squares; generalized inverse, resolution; Fourier series, integral transforms; time series analysis, spherical harmonics; partial differntial equations of geophysics; functions of a complex variable; probability and significance tests, maximum likelihood methods. Intended for students in geophysics and other physical sciences.
+/
+Linear Algebra and Differential Equations 
+Basic linear algebra; matrix arithmetic and determinants. Vector spaces; inner product spaces. Eigenvalues and eigenvectors; orthogonality, symmetric matrices. Linear second-order differential equations; first-order systems with constant coefficients. Fourier series, application to partial differential equations.
+/
+Cognitive Linguistics 
+Conceptual systems and language from the perspective of cognitive science. How language gives insight into conceptual structure, reasoning, category-formation, metaphorical understanding, and the framing of experience. Cognitive versus formal linguistics. Implications from and for philosophy, anthropology, literature, artificial intelligence, and politics.
+/
+Quantum Information Science and Technology 
+This multidisciplinary course provides an introduction to fundamental conceptual aspects of quantum mechanics from a computational and informational theoretic perspective, as well as physical implementations and technological applications of quantum information science. Basic sections of quantum algorithms, complexity, and cryptography, will be touched upon, as well as pertinent physical realizations from nanoscale science and engineering.
+/
+Introduction to Digital Communication Systems 
+Introduction to the basic principles of the design and analysis of modern digital communication systems. Topics include source coding, channel coding, baseband and passband modulation techniques, receiver design, and channel equalization. Applications to design of digital telephone modems, compact disks, and digital wireless communication systems. Concepts illustrated by a sequence of MATLAB exercises.
+/
+Introduction to Probability and Statistics in Biology and Public Health 
+Descriptive statistics, probability, probability distributions, point and interval estimation, hypothesis testing, chi-square, correlation and regression with biomedical applications.
+/
+Economic Analysis--Micro 
+Resource allocation and price determination.
+/
+Medical Imaging Signals and Systems 
+Biomedical imaging is a clinically important application of engineering, applied mathematics, physics, and medicine. In this course, we apply linear systems theory and basic physics to analyze X-ray imaging, computerized tomography, nuclear medicine, and MRI. We cover the basic physics and instrumentation that characterizes medical image as an ideal perfect-resolution image blurred by an impulse response. This material could prepare the student for a career in designing new medical imaging systems that reliably detect small tumors or infarcts.
+/
+Basic Issues in Cognition 
+Theoretical foundations and current controversies in cognitive science will be discussed. Basic issues in cognition--including perception, imagery, memory, categorization, thinking, judgment, and development--will be considered from the perspectives of philosophy, psychology, computer science, and physiology. Particular emphasis will be placed on the nature, implications, and limitations of the computational model of mind.
+/
+Special Topics in New Media 
+See Schedule of Classes for current section offerings. Topics deal with new media and related issues.
+/
+Introduction to the Internet: Architecture and Protocols 
+This course is an introduction to the Internet architecture. We will focus on the concepts and fundamental design principles that have contributed to the Internet's scalability and robustness and survey the various protocols and algorithms used within this architecture. Topics include layering, addressing, intradomain routing, interdomain routing, reliable delivery, congestion control, and the core protocols (e.g., TCP, UDP, IP, DNS, and HTTP) and network technologies (e.g., Ethernet, wireless).
+/
+Computational Models of Cognition 
+This course will provide advanced students in cognitive science and computer science with the skills to develop computational models of human cognition, giving insight into how people solve challenging computational problems, as well as how to bring computers closer to human performance. The course will explore three ways in which researchers have attempted to formalize cognition -- symbolic approaches, neural networks, and probability and statistics -- considering the strengths and weaknesses of each.
+/
+Production and Operations Management 
+A survey of the concepts and methodologies for management control of production and operations systems. Topics include inventory control, material requirements planning for multistage production systems, aggregate planning, scheduling, and production distribution.
+/
+Computer Security 
+Introduction to computer security. Cryptography, including encryption, authentication, hash functions, cryptographic protocols, and applications. Operating system security, access control. Network security, firewalls, viruses, and worms. Software security, defensive programming, and language-based security. Case studies from real-world systems.
+/
+Linear Integrated Circuits 
+Single and multiple stage transistor amplifiers. Operational amplifiers. Feedback amplifiers, 2-port formulation, source, load, and feedback network loading. Frequency response of cascaded amplifiers, gain-bandwidth exchange, compensation, dominant pole techniques, root locus. Supply and temperature independent biasing and references. Selected applications of analog circuits such as analog-to-digital converters, switched capacitor filters, and comparators. Hardware laboratory and design project.
+/
+Economic Theory--Micro 
+Theory of resource allocation and price determination with an emphasis on microeconomic principles.
+/
+Electromagnetic Fields and Waves 
+Review of static electric and magnetic fields and applications; Maxwell's equations; transmission lines; propagation and reflection of plane waves; introduction to guided waves, microwave networks, and radiation and antennas. Minilabs on statics, transmission lines, and waves. Explanation of cellphone antennas, WiFi communication, and other wireless technologies.
+/
+Special Topics 
+Topics will vary semester to semester. See the Computer Science Division announcements.
+/
+Advanced Topics in Computer Music 
+Technical and musical issues in the design and development of computer-based music systems including digital signal processing for the analysis and synthesis of sound, scheduling of multiple musical control processes, perceptual and cognitive models, user-interface design, reactive real-time control, and the analysis and representation of musical structure.
+/
+Introduction to Linguistic Science 
+An intensive introduction of linguistic analysis, including core areas such as phonetics and phonology, morphology, and syntax and semantics, with data from a range of languages. Argumentation and writing skills are developed through substantial weekly homework assignments.
+/
+Software Engineering 
+Ideas and techniques for designing, developing, and modifying large software systems. Function-oriented and object-oriented modular design techniques, designing for re-use and maintainability. Specification and documentation. Verification and validation. Cost and quality metrics and estimation. Project team organization and management. Students will work in teams on a substantial programming project.
+/
+Algorithms for Computational Biology 
+Algorithms and probabilistic models that arise in various computational biology applications: suffix trees, suffix arrays, pattern matching, repeat finding, sequence alignment, phylogenetics, genome rearrangements, hidden Markov models, gene finding, motif finding, stochastic context free grammars, RNA secondary structure. There are no biology prerequisites for this course, but a strong quantitative background will be essential.
+/
+Computational Methods 
+An introduction to computational methods for linguists. No prior programming experience required. Students will learn how to program, and will use that knowledge to manipulate and analyze linguistic datasets, including corpora. The course will also prepare students for further study in computational modeling.
+/
+Introduction to Optical Engineering 
+Fundamental principles of optical systems. Geometrical optics and aberration theory. Stops and apertures, prisms, and mirrors. Diffraction and interference. Optical materials and coatings. Radiometry and photometry. Basic optical devices and the human eye. The design of optical systems. Lasers, fiber optics, and holography.
+/
+Modeling the Dynamics of Infectious Disease Processes 
+This course will cover the basic tools required to both critically read modeling papers and to develop and use models as research tools. Emphasis will be placed on using models to understand infectious disease processes and to evaluate potential control strategies. The class meeting will consist of both lecture material covering conceptual issues and a computer lab to apply these concepts using standard infectious disease models.
+/
+Neural and Nonlinear Information Processing 
+Principles of massively parallel real-time computation, optimization, and information processing via nonlinear dynamics and analog VLSI neural networks, applications selected from image processing, pattern recognition, feature extraction, motion detection, data compression, secure communication, bionic eye, auto waves, and Turing patterns.
+/
+Sound Design for Performance 
+In this course, undergraduate students will learn to construct sound cues and soundtracks for theater performances and videos using industry standard software, and will learn fundamental principles of incorporating video and sound into stage productions. Students will be exposed to the writings and works of prominent sound theorists, designers, and engineers and multimedia performance artists. The most successful students may be invited to participate in UC Berkeley theater productions as sound designers.
+/
+Robotic Manipulation and Interaction 
+This course will cover dynamics and control of groups of robotic manipulators coordinating with each other and interacting with the environment. Concepts will include an introduction to grasping and the constrained manipulation, contacts and force control for interaction with the environment. We will also cover active perception guided manipulation, as well as the manipulation of non-rigid objects. Throughout, we will emphasize design and human-robot interactions, and applications to applications in manufacturing, service robotics, tele-surgery, and locomotion.
+/
+Cognitive Neuroscience 
+This course will examine research investigating the neurological basis of cognition. Material covered will include the study of brain-injured patients, neurophysiological research in animals, and the study of normal cognitive processes in humans with non-invasive behavioral and physiological techniques such as functional Magnetic Resonance Imaging (fMRI), electroencephalography (EEG), and transcranial magnetic stimulation (TMS). Topics to be covered include perception, attention, memory, language, motor control, executive control, and emotion.
+/
+Designing Information Devices and Systems II 
+This course is a follow-on to EECS 16A, and focuses on the fundamentals of designing and building modern information devices and systems that interface with the real world. The course sequence provides a comprehensive introduction to core EECS topics in machine learning, circuit design, control, and signal processing while developing key linear-algebraic concepts motivated by application contexts. Modeling is emphasized in a way that deepens mathematical maturity, and in both labs and homework, students will engage computationally, physically, and visually with the concepts being introduced in addition to traditional paper exercises. The courses are aimed at entering students as well as non-majors seeking a broad introduction to the field.
+/
+Discrete Mathematics and Probability Theory 
+Logic, infinity, and induction; applications include undecidability and stable marriage problem. Modular arithmetic and GCDs; applications include primality testing and cryptography. Polynomials; examples include error correcting codes and interpolation. Probability including sample spaces, independence, random variables, law of large numbers; examples include load balancing, existence arguments, Bayesian inference.
+/
+Introductory Electronic Transducers Laboratory 
+Laboratory exercises exploring a variety of electronic transducers for measuring physical quantities such as temperature, force, displacement, sound, light, ionic potential; the use of circuits for low-level differential amplification and analog signal processing; and the use of microcomputers for digital sampling and display. Lectures cover principles explored in the laboratory exercises; construction, response and signal to noise of electronic transducers and actuators; and design of circuits for sensing and controlling physical quantities.
+/
+Introduction to Digital Design and Integrated Circuits 
+An introduction to digital and system design. The material provides a top-down view of the principles, components, and methodologies for large scale digital system design. The underlying CMOS devices and manufacturing technologies are introduced, but quickly abstracted to higher-levels to focus the class on design of larger digital modules for both FPGAs (field programmable gate arrays) and ASICs (application specific integrated circuits). The class includes extensive use of industrial grade design automation and verification tools for assignments, labs and projects.
+The class has two lab options: ASIC Lab (EECS 151LA) and FPGA Lab (EECS 151LB). Students must enroll in at least one of the labs concurrently with the class.
+/
+Basic Issues in Cognition 
+Theoretical foundations and current controversies in cognitive science will be discussed. Basic issues in cognition--including perception, imagery, memory, categorization, thinking, judgment, and development--will be considered from the perspectives of philosophy, psychology, computer science, and physiology. Particular emphasis will be placed on the nature, implications, and limitations of the computational model of mind.
+/
+Computer Programming for Music Applications 
+Software engineering for musical applications covering programming concepts for live-performance real-time systems as well as cloud-based music information retrieval applications. Topics include the software representation of sound and music, real-time scheduling, analysis of gestures from systems of sensors, common design patterns, analysis and controlled synthesis, and machine learning applications for music understanding and creation. Behavior driven design and test driven development are core ideas that permeate the course.
+/
+Foundations of Computer Graphics 
+Techniques of modeling objects for the purpose of computer rendering: boundary representations, constructive solids geometry, hierarchical scene descriptions. Mathematical techniques for curve and surface representation. Basic elements of a computer graphics rendering pipeline; architecture of modern graphics display devices. Geometrical transformations such as rotation, scaling, translation, and their matrix representations. Homogeneous coordinates, projective and perspective transformations. Algorithms for clipping, hidden surface removal, rasterization, and anti-aliasing. Scan-line based and ray-based rendering algorithms. Lighting models for reflection, refraction, transparency.
+/
+Financial Economics 
+Analysis of financial assets and institutions. The course emphasizes modern asset valuation theory and the role of financial intermediaries, and their regulation, in the financial system.
+/
+Privacy, Security, and Cryptography 
+Policy and technical issues related to insuring the accuracy and privacy of information. Encoding and decoding techniques including public and private key encryption. Survey of security problems in networked information environment including viruses, worms, trojan horses, Internet address spoofing.
+/
+Introduction to Financial Accounting 
+The identification, measurement, and reporting of financial effects of events on enterprises, with a particular emphasis on business organization. Preparation and interpretation of balance sheets, income statements, and statements of cash flows.
+/
+Introduction to Robotics 
+An introduction to the kinematics, dynamics, and control of robot manipulators, robotic vision, and sensing. The course covers forward and inverse kinematics of serial chain manipulators, the manipulator Jacobian, force relations, dynamics, and control. It presents elementary principles on proximity, tactile, and force sensing, vision sensors, camera calibration, stereo construction, and motion detection. The course concludes with current applications of robotics in active perception, medical robotics, and other areas.
+/
+Designing Information Devices and Systems I 
+This course and its follow-on course EECS16B focus on the fundamentals of designing modern information devices and systems that interface with the real world. Together, this course sequence provides a comprehensive foundation for core EECS topics in signal processing, learning, control, and circuit design while introducing key linear-algebraic concepts motivated by application contexts. Modeling is emphasized in a way that deepens mathematical maturity, and in both labs and homework, students will engage computationally, physically, and visually with the concepts being introduced in addition to traditional paper/pencil exercises. The courses are aimed at entering students as well as non-majors seeking a broad foundation for the field.
+/
+Introduction to Database Systems 
+Access methods and file systems to facilitate data access. Hierarchical, network, relational, and object-oriented data models. Query languages for models. Embedding query languages in programming languages. Database services including protection, integrity control, and alternative views of data. High-level interfaces including application generators, browsers, and report writers. Introduction to transaction processing. Database system implementation to be done as term project.
+/
+Fundamentals of Photovoltaic Devices 
+This course is designed to give an introduction to, and overview of, the fundamentals of photovoltaic devices. Students will learn how solar cells work, understand the concepts and models of solar cell device physics, and formulate and solve relevant physical problems related to photovoltaic devices. Monocrystalline, thin film and third generation solar cells will be discussed and analyzed. Light management and economic considerations in a solar cell system will also be covered.
+/

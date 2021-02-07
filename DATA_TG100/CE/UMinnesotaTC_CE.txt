@@ -1,0 +1,289 @@
+Calculus I
+Differential calculus of functions of a single variable, including polynomial, rational, exponential, and trig functions. Applications, including optimization and related rates problems. Single variable integral calculus, using anti-derivatives and simple substitution. Applications may include area, volume, work problems.
+/
+Calculus II
+Techniques of integration. Calculus involving transcendental functions, polar coordinates. Taylor polynomials, vectors/curves in space, cylindrical/spherical coordinates.
+/
+Linear Algebra and Differential Equations
+Linear algebra: basis, dimension, matrices, eigenvalues/eigenvectors. Differential equations: first-order linear, separable; second-order linear with constant coefficients; linear systems with constant coefficients.
+/
+Introductory Physics for Science and Engineering I
+Use of fundamental principles to solve quantitative problems. Motion, forces, conservation principles, structure of matter. Applications to mechanical systems.
+/
+Introductory Physics for Science and Engineering II 
+Use of fundamental principles to solve quantitative problems. Motion, forces, conservation principles, fields, structure of matter. Applications to electromagnetic phenomena.
+/
+Introduction to Algorithms, Data Structures, and Program Development
+Advanced object oriented programming to implement abstract data types(stacks, queues, linked lists, hash tables, binary trees) using Java language. Searching/sorting algorithms.  Basic algorithmic analysis. Scripting languages using Python language. Substantial programming projects. Weekly lab.
+/
+Introduction to Circuits and Electronics
+Physical principles underlying circuit element models. Kirchhoff's laws. Independent/dependent sources. Opamps. Linearity in circuits. Diodes and rectification. FET characteristics, biasing, small signal models, and simple amplifiers. Transients in first- and second-order circuits. CMOS-based logic gates. Circuit simulators.
+/
+Introduction to Digital System Design
+Boolean algebra, logic gates, combinational logic, logic simplification, sequential logic, design of synchronous sequential logic, VHDL modeling, design of logic circuits. Integral lab.
+/
+Multivariable Calculus and Vector Analysis
+Derivative as linear map. Differential/integral calculus of functions of several variables, including change of coordinates using Jacobians. Line/surface integrals. Gauss, Green, Stokes theorems. Use of computer technology.
+/
+Introduction to Computing Systems
+C/C++ programming constructs, binary arithmetic and bit manipulation, data representation and abstraction, data types/structures, arrays, pointer addressing, control flow, iteration, recursion, file I/O, basics of object-oriented programming. An Internet-of-Things lab is integral to the course.
+/
+Discrete Structures of Computer Science
+Foundations of discrete mathematics. Sets, sequences, functions, big-O, propositional/predicate logic, proof methods, counting methods, recursion/recurrences, relations, trees/graph fundamentals.
+/
+Introductory Circuits and Electronics Laboratory
+Introductory lab in electronics to accompany 2001. Experiments with simple circuits. Familiarization with basic measurement tools and equipment.
+/
+Linear Systems, Circuits, and Electronics
+Sinusoidal steady state analysis. AC power calculations. Laplace transforms. Laplace transforms in circuit analysis. Elementary filter circuits. Frequency response of elementary MOSFET amplifiers. BJT characteristics and biasing. BJT small signal models and elementary amplifiers. Frequency response of BJT amplifiers. Use of circuit simulators.
+/
+Introduction to Microcontrollers
+Basic computer organization, opcodes, assembly language programming, logical operations and bit manipulation in C, stack structure, timers, parallel/serial input/output, buffers, input pulse-width and period measurements, PWM output, interrupts and multi-tasking, using special-purpose features such as A/D converters. Integral lab.
+/
+Algorithms and Data Structures
+Rigorous analysis of algorithms/implementation. Algorithm analysis, sorting algorithms, binary trees, heaps, priority queues, heapsort, balanced binary search trees, AVL trees, hash tables and hashing, graphs, graph traversal, single source shortest path, minimum cost spanning trees.
+/
+Introduction to Operating Systems
+Processes/threads, process coordination, interprocess communication, asynchronous events, memory management/file systems. Systems programming projects using operating system interfaces and program development tools.
+/
+Signals and Systems
+Basic techniques for analysis/design of signal processing, communications, and control systems. Time/frequency models, Fourier-domain representations, modulation. Discrete-time/digital signal/system analysis. Z transform. State models, stability, feedback.
+/
+Statistical Methods in Electrical and Computer Engineering
+Notions of probability. Elementary statistical data analysis. Random variables, densities, expectation, correlation. Random processes, linear system response to random waveforms. Spectral analysis. Computer experiments for analysis and design in random environment.
+/
+Circuits and Electronics Laboratory I
+Experiments in circuits/electronics.
+/
+Circuits and Electronics Laboratory II
+Circuits and Electronics Laboratory II
+/
+Analog Electronics
+Basic differential amplifiers using FETs and BJTs. Current sources for differential amplifiers. Op- amp-based differential amplifiers.  IC op amps as multi-stage amplifiers. Ideal (dc) feedback. Stability and compensation of negative feedback amplifiers. Sinusoidal oscillators.  Waveshaping circuits. Power amplifiers. Use of circuit simulators.
+/
+Computer Architecture and Machine Organization
+Introduction to computer architecture. Aspects of computer systems, such as pipelining, memory hierarchy, and input/output systems. Performance metrics. Examines each component of a complicated computer system.
+/
+Senior Design Project
+Team participation in formulating/solving open-ended design problems
+/
+Senior Honors Project II 
+Experience in research/design for electrical/computer engineering. Oral/written reports.
+/
+Advanced Analog Electronics Design
+Basic integrated circuit building blocks of differential amplifiers, high bandwidth, instrumentation amplifiers. Current/voltage references. Feedback, stability, and noise in electronic circuits. Integral lab.
+/
+Energy Conversion and Storage Laboratory
+Provides laboratory experiences with the topics of 4161W, including the fundamental physics and chemistry of selected energy conversion and energy storage devices, their application, and their connection strategies in electric power applications.
+/
+Linear Control Systems Laboratory
+Linear Control Systems Laboratory
+/
+State Space Control Laboratory
+State Space Control Laboratory
+/
+Digital Design With Programmable Logic
+Introduction to system design/simulation. Design using Verilog code/synthesis. Emulation using Verilog code.
+/
+Embedded System Design
+Microcontroller interfacing for embedded system design. Exception handling/interrupts. Memory Interfacing. Parallel/serial input/output methods. System Buses and protocols. Serial Buses and component interfaces. Microcontroller Networks. Real-Time Operating Systems. Integral lab.
+/
+Communications Systems Laboratory
+Experiments in analysis/design of wired/wireless communication systems.
+/
+Electric Drives Laboratory
+Simulink-based simulations of electric machines/drives in applications such as energy conservation and motion control in robotics.
+/
+Power System Analysis Laboratory
+ab analysis of AC power systems, power system networks, power flow, short circuit, transient stability.
+/
+Switch-Mode Power Electronics Laboratory
+Laboratory to accompany 4741. PSpice-/Simulink-based simulations of converters, topologies, and control in switch-mode dc power supplies, motor drives for motion control, and inverters for interfacing renewable energy sources to utility grid.
+/
+Special Topics in Electrical and Computer Engineering Laboratory
+Special Topics in Electrical and Computer Engineering Laboratory
+/
+Introduction to Microsystem Technology
+Microelectromechanical systems composed of microsensors, microactuators, and electronics integrated onto common substrate. Design, fabrication, and operation principles. Labs on micromachining, photolithography, etching, thin film deposition, metallization, packaging, and device characterization.
+/
+Basic Microelectronics Laboratory
+Students fabricate a polysilicon gate, single-layer metal, NMOS chip, performing 80 percent of processing, including photolithography, diffusion, oxidation, and etching. In-process measurement results are compared with final electrical test results. Simple circuits are used to estimate technology performance.
+/
+VLSI Design Laboratory
+Complete design of an integrated circuit. Designs evaluated by computer simulation.
+/
+Data Modeling Using R
+Introduction to data modeling and the R language programming. Multi-factor linear regression modeling.
+Residual analysis and model quality evaluation. Response prediction. Training and testing. Integral lab.
+/
+Digital Signal Processing Design
+Real-time implementation of digital signal processing (DSP) algorithms, including filtering, sample-rate conversion, and FFT-based spectral analysis. Implementation on a modern DSP Platform. Processor architecture. Arithmetic operations. Real-time processing issues. Processor limitations. Integral laboratory.
+/
+Physical Optics Laboratory
+Fundamental optical techniques. Diffraction and optical pattern recognition. Spatial/temporal coherence.  Interferometry. Speckle. Coherent/incoherent imaging.  Coherent image processing. Fiber Optics.
+/
+Physical Principles of Thin Film Technology
+Fabrication, characterization, and application of thin film and nanostructured materials and devices. Focuses on vacuum deposition. Materials science. Hands-on, team-based labs.
+/
+Electric Drives in Sustainable Energy Systems Laboratory
+Electric Drives in Sustainable Energy Systems Laboratory
+/
+Biological Instrumentation
+This course will cover the physics and technology of biological instruments. The operating principles of optical, electrical, and mechanical biosensors will be discussed, followed by transport and delivery of biomolecules to the sensors. Techniques to manufacture these sensing devices, along with microfluidic packaging, will be covered. Lectures will be complemented by lab demo sessions to give students hands-on experiences in microfluidic chip fabrication, microscopy, and particle trapping experiments.
+/
+Introduction to Artificial Intelligence
+Problem solving, search, inference techniques. Knowledge representation. Planning. Machine learning. Robotics. Lisp programming language.
+/
+Artificial Intelligence I
+Introduction to AI. Problem solving, search, inference techniques. Logic/theorem proving. Knowledge representation, rules, frames, semantic networks. Planning/scheduling. Lisp programming language.
+/
+Introduction to Intelligent Robotic Systems
+Transformations, kinematics/inverse kinematics, dynamics, control. Sensing (robot vision, force control, tactile sensing), applications of sensor-based robot control, robot programming, mobile robotics, microrobotics.
+/
+Linear Control Systems: Designed by Input/Output Methods
+Modeling, characteristics, performance of feedback control systems. Stability, root locus, frequency response methods. Digital implementation, hardware considerations.
+/
+State Space Control System Design
+State space models, performance evaluation, numerical issues for feedback control. Stability, state estimation, quadratic performance.  Implementation, computational issues.
+/
+Embedded System Design
+Microcontroller interfacing for embedded system design. Exception handling/interrupts. Memory Interfacing. Parallel/serial input/output methods. System Buses and protocols. Serial Buses and component interfaces. Microcontroller Networks. Real-Time Operating Systems. Integral lab.
+/
+Physics of Computing: Basics
+Physics of Computation will explore how physical principles and limits have been shaping paradigms of computing. A key goal of this course is to understand how (and to what extent) a paradigm shift in computing can help with emerging energy problems. Topics include: Physical limits of computing, coding and information theoretical foundations, computing with beyond-CMOS devices, reversible computing, quantum computing, stochastic computing. 
+/
+Computing With Neural Networks
+Neural networks as a computational model. Connections to AI, statistics and model-based computation. Associative memory and matrix computation; Hopfield networks. Supervised networks for classification and prediction. Unsupervised networks for data reduction. Associative recognition/retrieval, optimization, time series prediction, knowledge extraction.
+/
+Artificial Intelligence II
+Uncertainty in artificial intelligence. Probability as a model of uncertainty, methods for reasoning/learning under uncertainty, utility theory, decision-theoretic methods.
+/
+Introduction to Machine Learning
+Problems of pattern recognition, feature selection, measurement techniques. Statistical decision theory, nonstatistical techniques. Automatic feature selection/data clustering. Syntactic pattern recognition. Mathematical pattern recognition/artificial intelligence.
+/
+Machine Learning
+Models of learning. Supervised algorithms such as perceptrons, logistic regression, and large margin methods (SVMs, boosting). Hypothesis evaluation. Learning theory. Online algorithms such as winnow and weighted majority. Unsupervised algorithms, dimensionality reduction, spectral methods. Graphical models.
+/
+Introduction to Intelligent Robotic Systems
+Transformations, kinematics/inverse kinematics, dynamics, control. Sensing (robot vision, force control, tactile sensing), applications of sensor-based robot control, robot programming, mobile robotics, microrobotics.
+/
+Sensing and Estimation in Robotics
+Bayesian estimation, maximum likelihood estimation, Kalman filtering, particle filtering. Sensor modeling and fusion. Mobile robot motion estimation (odometry, inertial,laser scan matching, vision-based) and path planning. Map representations, landmark-based localization, Markov localization, simultaneous localization/mapping (SLAM), multi-robot localization/mapping.
+/
+Computer Vision
+Issues in perspective transformations, edge detection, image filtering, image segmentation, and feature tracking. Complex problems in shape recovery, stereo, active vision, autonomous navigation, shadows, and physics-based vision. Applications.
+/
+Communications Systems
+Systems for transmission/reception of digital/analog information. Characteristics/design of wired/wireless communication systems. Baseband, digital, and carrier-based techniques. Modulation. Coding. Electronic noise and its effects on design/performance.
+/
+Internet Programming
+Issues in internet programming. Internet history, architecture/protocols, network programming, Web architecture. Client-server architectures and protocols. Client-side programming, server-side programming, dynamic HTML, Java programming, object-oriented architecture/design, distributed object computing, Web applications.
+/
+Introduction to Computer Networks
+Concepts, principles, protocols, and applications of computer networks. Layered network architectures, data link protocols, local area networks, routing, transport, network programming interfaces, networked applications. Examples from Ethernet, Token Ring, TCP/IP, HTTP, WWW.
+/
+Developing the Interactive Web
+Hands-on design experience using modern web development tools. Students work in teams to develop software programs using each of four toolkits. Analyze developments in forum posts and classroom discussions.
+/
+Data Communications and Computer Networks
+Concepts, principles, protocols, and applications of computer networks. Layered network architectures, data link protocols, local area networks, network layer/routing protocols, transport, congestion/flow control, emerging high-speed networks, network programming interfaces, networked applications. Case studies using Ethernet, Token Ring, FDDI, TCP/IP, ATM, Email, HTTP, and WWW.
+/
+Foundations of Advanced Networking
+Design principles, protocol mechanisms. Network algorithmics, implementation techniques. Advanced network architectures, state-of-art/emerging networking technologies/applications, network modeling. Simulation, experiments.
+/
+Wireless and Sensor Networks
+Enabling technologies, including hardware, embedded operating systems, programming environment, communication, networking, and middleware services. Hands-on experience in programming tiny communication devices.
+/
+Introduction to Computer Security
+Concepts of computer, network, and information security.
+Risk analysis, authentication, access control, security evaluation, audit trails, cryptography, network/database/application security, viruses, firewalls.
+/
+Modern Cryptography
+Introduction to cryptography. Theoretical foundations, practical applications. Threats, attacks, and countermeasures, including cryptosystems and cryptographic protocols. Secure systems/networks. History of cryptography, encryption (conventional, public key), digital signatures, hash functions, message authentication codes, identification, authentication, applications.
+/
+Algorithmic Techniques for Scalable Many-core Computing
+Algorithm techniques for enhancing the scalability of parallel software: scatter-to-gather, problem decomposition, binning, privatization, tiling, regularization, compaction, double-buffering, and data layout. These techniques address the most challenging problems in building scalable parallel software: limited parallelism, data contention, insufficient memory bandwidth, load balance, and communication latency. Programming assignments will be given to reinforce the understanding of the techniques. 
+/
+Formal Languages and Automata Theory
+Logical/mathematical foundations of computer science. Formal languages, their correspondence to machine models. Lexical analysis, string matching, parsing. Decidability, undecidability, limits of computability. Computational complexity.
+/
+Practice of Database Systems
+Concepts, conceptual data models, case studies, common data manipulation languages, logical data models, database design, facilities for database security/integrity, applications.
+/
+Operating Systems
+Conceptual foundation of operating system designs and implementations. Relationships between operating system structures and machine architectures. UNIX implementation mechanisms as examples.
+/
+Introduction to Distributed Systems
+Distributed system design and implementation. Distributed communication and synchronization, data replication and consistency, distributed file systems, fault tolerance, and distributed scheduling.
+/
+Programming Languages
+Design and implementation of high-level languages. Course has two parts: (1) language design principles, concepts, constructs; (2) language paradigms, applications. Note: course does not teach how to program in specific languages.
+/
+Developing the Interactive Web
+Hands-on design experience using modern web development tools. Students work in teams to develop software programs using each of four toolkits. Analyze developments in forum posts and classroom discussions.
+/
+Collaborative and Social Computing
+Introduction to computer-supported cooperative work, social computing. Technology, research methods, theory, case studies of group computing systems. Readings, hands-on experience.
+/
+Introduction to Compilers
+Techniques for translating modern programming languages to intermediate forms or machine-executable instructions/their organization into compiler. Lexical analysis, syntax analysis, semantic analysis, data flow analysis, code generation. Compiler project for prototypical language.
+/
+Introduction to Computer Security
+Concepts of computer, network, and information security.
+Risk analysis, authentication, access control, security evaluation, audit trails, cryptography, network/database/application security, viruses, firewalls
+/
+Advanced Algorithms and Data Structures
+Fundamental paradigms of algorithm and data structure design.  Divide-and-conquer, dynamic programming, greedy method, graph algorithms, amortization, priority queues and variants, search structures, disjoint-set structures. Theoretical underpinnings. Examples from various problem domains.
+/
+Introduction to Parallel Computing: Architectures, Algorithms, and Programming
+Parallel architectures design, embeddings, routing. Examples of parallel computers. Fundamental communication operations. Performance metrics. Parallel algorithms for sorting. Matrix problems, graph problems, dynamic load balancing, types of parallelisms. Parallel programming paradigms. Message passing programming in MPI. Shared-address space programming in openMP or threads.
+/
+Principles of Database Systems
+Concepts, database architecture, alternative conceptual data models, foundations of data manipulation/analysis, logical data models, database designs, models of database security/integrity, current trends.
+/
+Software Engineering I
+Advanced introduction to software engineering. Software life cycle, development models, software requirements analysis, software design, coding, maintenance.
+/
+Software Engineering II
+Introduction to software testing, software maturity models, cost specification models, bug estimation, software reliability models, software complexity, quality control, and experience report. Student groups specify, design, implement, and test partial software systems.  Application of general software development methods and principles from 5801.
+/
+Analysis of Numerical Algorithms
+Additional topics in numerical analysis. Interpolation, approximation, extrapolation, numerical integration/differentiation, numerical solutions of ordinary differential equations. Introduction to optimization techniques.
+/
+Computational Aspects of Matrix Theory
+Perturbation theory for linear systems and eigenvalue problems. Direct/iterative solution of large linear systems. Matrix factorizations. Computation of eigenvalues/eigenvectors. Singular value decomposition. LAPACK/other software packages. Introduction to sparse matrix methods.
+/
+Functional Genomics, Systems Biology, and Bioinformatics
+Computational methods for analyzing, integrating, and
+deriving predictions from genomic/proteomic data. Analyzing gene expression, proteomic data, and protein-protein interaction networks. Protein/gene function prediction, Integrating diverse data, visualizing genomic datasets.
+/
+Computational Techniques for Genomics
+Techniques to analyze biological data generated by genome sequencing, proteomics, cell-wide measurements of gene expression changes. Algorithms for single/multiple sequence alignments/assembly. Search algorithms for sequence databases, phylogenetic tree construction algorithms. Algorithms for gene/promoter and protein structure prediction. Data mining for micro array expression analysis. Reverse engineering of regulatory networks.
+/
+Introduction to Data Mining
+Data pre-processing techniques, data types, similarity measures, data visualization/exploration. Predictive models (e.g., decision trees, SVM, Bayes, K-nearest neighbors, bagging, boosting). Model evaluation techniques, Clustering (hierarchical, partitional, density-based), association analysis, anomaly detection. Case studies from areas such as earth science, the Web, network intrusion, and genomics. Hands-on projects.
+/
+Visualization
+Fundamental theory/practice in data visualization. Programming applications. Perceptual issues in effective data representation, multivariate visualization, information visualization, vector field/volume visualization.
+/
+From GPS and Virtual Globes to Spatial Computing
+Mathematical concepts, geo-information, representations, algorithms, data-structures/access methods, analysis, architectures, interfaces, reasoning, time.
+/
+Programming Interactive Computer Graphics and Games
+Tools/techniques for programming games/interactive computer graphics. Event loops, rendering/animation, polygonal models, texturing, physical simulation. Modern graphics toolkits. History/future of computer games technology. Social impact of interactive computer graphics.
+/
+User Interface Design, Implementation and Evaluation
+Theory, design, programming, and evaluation of interactive application interfaces. Human capabilities and limitations, interface design and engineering, prototyping and interface construction, interface evaluation, and topics such as data visualization and World Wide Web. Course is built around a group project.
+/
+Embodied Computing: Design & Prototyping 
+In this course, you will learn and apply the principles of embodied computing to human-centered challenges. Through a semester-long team project, you will learn and demonstrate mastery of human-centered embodied computing through two phases: (1) investigating human needs and current embodied practices and (2) rapidly prototyping and iterating embodied computing solutions. One of the ways you will demonstrate this mastery is through the collaborative creation of a written document and project capstone video describing your process and prototype.
+/
+Fundamentals of Computer Graphics 1
+Fundamental algorithms in computer graphics. Emphasizes programming projects in C/C++. Scan conversion, hidden surface removal, geometrical transformations, projection, illumination/shading, parametric cubic curves, texture mapping, antialising, ray tracing. Developing graphics software, graphics research.
+/
+Animation & Planning in Games
+Theory behind algorithms used to bring virtual worlds to life. Computer animation topics. Real-time, interactive techniques used in modern games. Physically-based animation, motion planning, character animation, simulation in virtual worlds.
+/
+Virtual Reality and 3D Interaction
+Introduction to software, technology/applications in virtual/augmented reality, 3D user interaction. Overview of current research. Hands-on projects.
+/

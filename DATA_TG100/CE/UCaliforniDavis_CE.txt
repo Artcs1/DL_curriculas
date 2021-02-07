@@ -1,0 +1,198 @@
+Calculus
+Functions, limits, continuity. Slope and derivative. Differentiation of algebraic and transcendental functions. Applications to motion, natural growth, graphing, extrema of a function. Differentials. L'Hopital's rule.
+/
+Calculus II
+Definition of definite integral, fundamental theorem of calculus, techniques of integration. Application to area, volume, arc length, average of a function, improper integral, surface of revolution
+/
+Calculus III
+Sequences, series, tests for convergence, Taylor expansions. Vector algebra, vector calculus, scalar and vector fields. Partial derivatives, total differentials. Applications to maximum and minimum problems in two or more variables
+/
+Vector Analysis
+Definite integrals over plane and solid regions in various coordinate systems. Line and surface integrals. Green's theorem, Stoke's theorem, divergence theorem.
+/
+Linear Algebra
+Matrices and linear transformations, determinants, eigenvalues, eigenvectors, diagonalization, factorization.
+/
+Linear Algebra Computer Laboratory
+Introduction to MATLAB and its use in linear algebra
+/
+Differential Equations
+Solutions of elementary differential equations
+/
+Classical Physics I
+Introduction to general principles and analytical methods used in physics for physical science and engineering majors. Classical mechanics.
+/
+Classical Physics II
+Fluid mechanics, thermodynamics, wave phenomena, optics.
+/
+Classical Physics III
+Electricity and magnetism including circuits and Maxwell's equations.
+/
+Modern Physics 
+Introduction to physics concepts developed since 1900. Special relativity, quantum mechanics, atoms, molecules, condensed matter, nuclear and particle physics.
+/
+General Chemistry
+Periodic table, stoichiometry, chemical equations, physical properties and kinetic theory of gases, atomic and molecular structure and chemical bonding
+/
+Discrete Mathematics For Computer Science
+Discrete mathematics of particular utility to computer science. Proofs by induction. Propositional and first-order logic. Sets, functions, and relations. Big-O and related notations. Recursion and solutions of recurrence relations. Combinatorics. Probability on finite probability spaces. Graph theory
+/
+Programming and Problem Solving
+Computers and computer programming for students with some prior experience, algorithm design, and debugging. Good programming style. Use of basic UNIX tools
+/
+Software Development & Object-Oriented Programming in C++
+Object-oriented programming in C++. Basic data structures and their use. Writing good programs of increased complexity and efficiency. Methods for debugging and verification.
+/
+Data Structures, Algorithms, & Programming
+Design and analysis of data structures for a variety of applications; trees, heaps, searching, sorting, hashing, and graphs. Extensive programming.
+/
+Introduction to Electrical & Computer Engineering
+Electrical & Computer Engineering as a professional activity. What Electrical & Computer Engineers know and how they use their knowledge
+/
+Introduction to Digital & Analog Systems
+Interactive and practical introduction to fundamental concepts of electrical and computer engineering by implementing electronic systems, which can be digitally controlled and interrogated, with a programmable microcontroller with the ability to program the electrical connections between analog and digital components
+/
+Digital Systems I
+Introduction to digital system design including combinational logic design, sequential and asynchronous circuits, computer arithmetic, memory systems and algorithmic state machine design; computer aided design (CAD) methodologies and tools.
+/
+Circuits I
+Basic electric circuit analysis techniques, including electrical quantities and elements, resistive circuits, transient and steady-state responses of RLC circuits, sinusoidal excitation and phasors, and complex frequency and network functions
+/
+Introduction to Literature
+Introductory study of several genres of English literature, emphasizing both analysis of particular works and the range of forms and styles in English prose and poetry.
+/
+Introduction to Academic Literacies
+Introduction to reading and composing processes and key rhetorical concepts for academic literacies. Multiple drafts of composing projects in a variety of genres and modes with feedback from peers and the instructor
+/
+Major Books of Western Culture: The Ancient World
+Introduction, through class discussion and frequent written assignments, to some of the major books of western civilization such as The Odyssey, Aeneid, Bible, and Augustine's Confessions
+/
+Major Books of Western Culture: From the Middle Ages to the Enlightenment
+Introduction to the methods of inquiry applied to critical reading and the practice of writing. Focus on texts from the European Middle Ages to the eighteenth century; critical analysis of the historical-cultural developments in this period.
+/
+Major Books of Western Culture: The Modern Crisis
+Introduction, through class discussion and frequent written assignments, to the major literature and thought of the late eighteenth to the mid-twentieth century.
+/
+Major Books of the Contemporary World
+Comparative study of selected major Western and non-Western texts composed in the period from 1945 to the present. Intensive focus on writing about these texts, with frequent papers written about these works
+/
+Introduction to Native American Literature
+Intensive focus on analysis of Native American literary texts, with frequent writing assignments to develop critical thinking and composition skills.
+/
+Introduction to Public Speaking
+Practice in the preparation and delivery of speeches based on principles and strategies of informing and persuading audiences drawn from the social sciences and humanities.
+/
+Interpersonal Communication Competence
+Communication competence in professional settings. Managing face-to-face and virtual teams. Leadership, conflict management and negotiation skills. Communication in diverse organizations. Leveraging communication networks. Effective interviewing.
+/
+Introduction to Engineering Design
+Pass One restricted to lower division College of Engineering students; Pass Two restricted to lower division students. Introduction to the engineering design process that incorporates the development of oral and written communication skills integral to the design process. Conducted in workshop format with hands-on engagement in the design process.
+/
+Circuits II
+Theory, application, and design of analog circuits. Methods of analysis including frequency response, SPICE simulation, and Laplace transform. Operational amplifiers and design of active filters.
+/
+Electronic Circuits I
+Use and modeling of nonlinear solid-state electronic devices in basic analog and digital circuits. Introduction to the design of transistor amplifiers and logic gates.
+/
+Principles of Device Physics I
+Semiconductor device fundamentals, equilibrium and non-equilibrium statistical mechanics, conductivity, diffusion, electrons and holes, p-n and Schottky junctions, first-order metal-oxide-semiconductor (MOS) field effect transistors, bipolar junction transistor fundamentals.
+/
+Probabilistic Analysis of Electrical & Computer Systems
+Probabilistic and statistical analysis of electrical and computer systems. Discrete and continuous random variables, expectation and moments. Transformation of random variables. Joint and conditional densities. Limit theorems and statistics. Noise models, system reliability and testing
+/
+Introduction to Computer Architecture
+Introduces basic aspects of computer architecture, including computer performance measurement, instruction set design, computer arithmetic, pipelined/non-pipelined implementation, and memory hierarchies (cache and virtual memory). Presents a simplified Reduced Instruction Set Computer using logic design methods from the prerequisite course.
+/
+Embedded Systems
+ntroduction to embedded-system hardware and software. Topics include: embedded processor and memory architecture; input/output hardware and software, including interrupts and direct memory access; interfacing with sensors and actuators; wired and wireless embedded networking.
+/
+Computer Networks
+Overview of computer networks, TCP/IP protocol suite, computer-networking applications and protocols, transport-layer protocols, network architectures, Internet Protocol (IP), routing, link-layer protocols, local area and wireless networks, medium access control, physical aspects of data transmission, and network-performance analysis
+/
+Digital Systems II
+Computer-aided design of digital systems with emphasis on hardware description languages (VHDL), logic synthesis, and field-programmable gate arrays (FPGA). May cover advanced topics in digital system design such as static timing analysis, pipelining, memory system design, testing digital circuits
+/
+Issues in Engineering Design
+Covers various electrical and computer engineering standards and realistic design constraints including economic, manufacturability, sustainability, ethical, health & safety, environmental, social, and political.
+/
+Algorithm Design & Analysis
+Complexity of algorithms, bounds on complexity, analysis methods. Searching, sorting, pattern matching, graph algorithms. Algorithm design techniques: divide-conquer, greedy, dynamic programming. 
+/
+Operating Systems & System Programming
+Basic concepts of operating systems and system programming. Processes and interprocess communication/synchronization; virtual memory, program loading and linking; file and I/O subsystems; utility programs.
+/
+Ethics in an Age of Technology
+Views of technology. Technology and human values. Costs and benefits of technology. Character of technological change. Social context of work in computer science and engineering
+/
+Integrated Circuit Design Project
+Design course involving architecture, circuit design, physical design, and validation through extensive simulation of a digital or mixed-signal integrated circuit of substantial complexity under given design constraints
+/
+RF/Microwave Systems Design
+Board-level RF design, fabrication, and characterization of an RF/microwave system, including the antenna, RF front-end, baseband, mix-signal circuits, and digital signal processing models
+/
+Electronic Design Project
+Optical, electronic and communication-engineering design of an opto-electronic system operating under performance and economic constraints. Measurement techniques will be designed and implemented, and the system will be characterized
+/
+Digital Systems Design Project
+Digital-system and computer-engineering design course involving architecture, design, implementation and testing of a prototype application-specific processor under given design constraints
+/
+Senior Design Project
+Team design project for seniors in Electrical or Computer Engineering. Project involves analysis, design, implementation and evaluation of an Electrical Engineering or Computer Engineering system.
+/
+Autonomous Vehicle Design Project
+Design and construct an autonomous race car. Work in groups to design, build and test speed control circuits, track sensing circuits, and a steering control loop.
+/
+Genes & Gene Expression
+Nucleic acid structure and function; gene expression and its regulation; replication; transcription and translation; transmission genetics; molecular evolution
+/
+Structure & Function of Biomolecules
+Structure and function of macromolecules with emphasis on proteins, catalysis, enzyme kinetics, lipids, membranes, and proteins as machines.
+/
+Bioenergetics & Metabolism
+Fundamentals of the carbon, nitrogen, and sulfur cycles in nature, including key reactions of biomolecules such as carbohydrates, amino acids, lipids, and nucleotides, and of energy production and use in different types of organisms. Principles of metabolic regulation.
+/
+Intermediate Micro Theory
+Price and distribution theory under conditions of perfect and imperfect competition. General equilibrium and welfare economics.
+/
+Intermediate Macro Theory
+Theory of income, employment and prices under static and dynamic conditions, and long term growth.
+/
+Analysis of Economic Data
+Analysis of economic data to investigate key relationships emphasized in introductory micro and macro economics. Obtaining, transforming, displaying data; statistical analysis of economic data; basic univariate and multivariate regression analysis.
+/
+Economics of Uncertainty & Information
+Optimal decisions under uncertainty, expected utility theory, economics of insurance, asymmetric information, signalling in the job market, incentives and Principal-Agent theory, optimal search strategies and the reservation price principle
+/
+Econometrics
+Problems of observation, estimation and hypotheses testing in economics through the study of the theory and application of linear regression models. Critical evaluation of selected examples of empirical research and exercises in applied economics.
+/
+Elementary Accounting
+Basic concepts of accounting; interpreting and using financial statements; understanding accounting principles.
+/
+Introduction to Financial Accounting
+Open to all upper division undergraduate and graduate students, except those in the Graduate School of Management. Introduction to the concepts, methods, and uses of accounting and financial reporting.
+/
+Managing & Using Information Technology
+Develop an analytical framework to manage and monitor business systems concerned with operational, human, and organizational interactions. Introduction to computer hardware, systems software, and information systems. Management of information technology and the impact of information systems on modern management.
+/
+Marketing for the Technology-Based Enterprise
+Quantitative analysis of needs in a product (technology-based) economy, with emphasis on how scientists, engineers, and business people interact to develop and market products and services
+/
+Technology Management
+Management of firms in high technology industries such as software development and biotechnology research. Motivating and managing workers, organizing for innovation, and making decisions.
+/
+Financing New Business Ventures
+Concepts/methods used to structure and finance new business ventures. Topics include evaluating the net social (financial) benefit of new investment projects; raising venture capital; the role of the venture capitalist; and the choice of organizational structure in new ventures
+/
+Management Accounting & Control
+Covers the design of cost accounting systems, the preparation of financial budgets and forecasts, cost analysis, and the use of cost and other financial data to motivate and evaluate the performance of business units and managers.
+/
+Supply Chain Planning & Management
+Develops key concepts and relationships between supply chain design and business models and strategies. Much of the focus is on quantitative techniques for analysis & management of the production and delivery of goods & services by an organization.
+/
+Advanced Composition
+Instruction in advanced principles of expository writing. Writing tasks within and beyond the University. Different writing modes, including narrative, analysis, explanation, argument, critique.
+/
+Writing in the Disciplines: Special Topics
+Writing in the Disciplines: Special Topics
+/

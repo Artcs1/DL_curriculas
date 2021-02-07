@@ -1,0 +1,94 @@
+/
+Introduction to Computer Science
+This course introduces the fundamentals of systems and computer science. A brief examination of critical, creative, systems and scientific thinking, is followed by more details on computational thinking. The focus is hands on computing exercises and group exercises that stress the importance of algorithms and problem solving. 
+/
+Introduction to Engineering
+Provides information on engineering education, the engineering profession, engineering basic concepts and engineering tools. Introduces the engineering design process and provides the opportunity for students to complete engineering design projects.
+/
+Calculus I
+Limits, continuity, and the derivative and integral of functions of one variable, with applications, and the fundamental theorem of calculus. 
+/
+Unix Lab
+This course will present the basic concepts of LINUX and UNIX operating systems. Topics that will be examined include Vi editor, Linux Command, directories, Disks and File systems, Users and Groups, File Permissions, Processes, file compression, basic network use, manage files, create and modify files, and Shell script.
+/
+Computer Science I
+This course provides an introduction to the discipline of computer programming. Closed laboratory to reinforce lecture topics and introduce new topics. Course is designed to expose students to basic programming concepts and to the use of the C++ language. This course is designed to enhance the student’s ability to design, develop and test/debug programs. Each student will increase his or her skill in writing correct and maintainable programs. Emphasis will be placed on problem analysis and on the subsequent development of algorithms. Several standard data types will be discussed and the student will gain an understanding of the issues relating to the use, design and implementation of each type in C++. A major focus of the lectures will be to provide an overview of real-world problem solving concepts and top-down software design. 
+/
+Calculus II
+Including more integration, sequences, series, Taylor's theorem, improper integrals, and L'Hospital's rule
+/
+Computer Science II
+Course exposes students to the software development life cycle with a focus on the concepts and use of the object-oriented paradigm in problem analysis, solution design, software development and implementation.  This course is designed to enhance the student’s ability to engineer software that is efficient, maintainable and cost efficient over its entire life cycle. Data abstraction is discussed in depth and students gain experience in the use of classes, object and member functions. 
+/
+Computer Organization I
+This course will cover the fundamentals required to understand the relationship between computer hardware and software. Topics include data representation on computers, computer arithmetic, Boolean algebra and digital logic, and assembly programming in MIPS. 
+/
+Discrete Structures
+Algebraic structures applicable to computer science; semigroups, graphs, lattices, Boolean algebras, and combinatorics. 
+/
+Computer Science III
+The course continues the study of data structures and algorithms, focusing on algorithmic design and problem analysis and the relationships between data representation, algorithm design, and program efficiency. Topics include advanced data structures, key algorithm design techniques, analysis of the time and space requirements of algorithms, and the subsequent development of solution of systems. Concrete examples will be drawn from a variety of domains, such as algorithms for trees and graphs, indexing and search, and real-world problems.
+/
+Software Engineering 
+This course will introduce students to the basic concepts of software engineering and the software development life cycle. The course will cover methodological techniques for software specification, design, implementation, testing, verification, and documentation.
+/
+Computer Organization II
+This course will present the relationship between computer hardware and software, and the fundamental knowledge essential for understanding and designing the operations of computer systems. Topics include performance evaluation, non-pipelined and pipelined datapath, memory hierarchies, and I/O devices.
+/
+Theory of Computation
+Introduction to the classical theory of computer science. A study of the formal relationships between machines, languages and grammars; we will cover regular, context-free, context-sensitive, recursive and recursive enumerable languages. Sequential machines and their applications to devices, processes, and programming. Models of computation: finite state automata, push down automata, Turing machines. The role of non-determinism.
+/
+Operating Systems
+This course will present the basic concepts of operating systems. Topics that will be examined include processes and interprocess communication/synchronization, virtual memory, program loading and linking system calls and system programs; interrupt handling, device and memory management, process scheduling, deadlock and the trade-offs in the design of large-scale multitasking operating systems. 
+/
+Fundamentals of Algorithms
+Techniques for designing efficient algorithms, analyzing their complexity and applying these algorithms to a broad range of application settings. Methods for recognizing and dealing with hard problems are studied.
+/
+Data Communications and Network Programming
+This is an introductory course on computer networking. It will cover the layering model of the Internet. The upper four layers (application, transport, network and data link) will be discussed in details with dominant networking protocols and algorithms introduced. Students will also learn how to do basic programming on the Internet.
+/
+Intro to Cybersecurity I             
+Computer Security Overview. Malware and Cyberwarfare. Passwords. Biometrics. Access Controls. Multilevel Security. Multilateral Security. Firewalls. Intrusion Detection . Cryptography Before 1970. Symmetric Key Cryptography. The Data Encryption Standard (DES). The Public Key Paradigm. Knapsacks. The RSA Approach to Public Key Cryptology. Elliptic Curve Cryptography. The Advanced Encryption Standard (Rijndael). Hash Functions. The Digital Signature Standard
+/
+Structure of Programming Languages
+The course will teach students the basic components of the design and analysis of computer programming languages as well as the fundamental computation theory that is required to understand those concepts. The course will also cover several non-imperative languages (unlike C, such as LISP and Prolog) to expose students to the diversity of programming languages.
+/
+Unix Lab
+This course will present the basic concepts of LINUX and UNIX operating systems. Topics that will be examined include Vi editor, Linux Command, directories, Disks and File systems, Users and Groups, File Permissions, Processes, file compression, basic network use, manage files, create and modify files, and Shell script.
+/
+Introduction to Linear Algebra
+Vector Spaces, linear transformations, the Gram-Schmidt process, determinants, eigenvectors and eigenvalues, diagonalization and applications. 
+/
+Large Scale Programming
+This course will introduce the students to applications and systems in the large scale. Students will be introduced to the object-oriented method to software design using UML and will apply the object-oriented design/analysis techniques of UML to a realistic Java application. Students will gain familiarity with managing larger projects and OOA/D.
+/
+Senior Project I
+Allows the senior student the opportunity to demonstrate his or her knowledge of systems engineering and computer science principles by application to a class project of his or her choosing, with the guidance and supervision of a faculty member. The student develops a proposal for the project, followed by an architectural design and detailed design, all of which must be presented in class.
+/
+Senior Project II
+In part two, the senior student develops and implements the system solution to the proposed project. The system, most commonly comprising computer software, hardware, procedures, etc., is implemented and tested in the department's Systems Development Laboratory. The student is required to demonstrate the system solution to the faculty and the student body of the department.
+/
+Special Topics: Robotics Programming              
+The primary focus of this course will be behavior-based robotics, which uses semi-autonomous artificial intelligence modules for planning. Behavior-based robots use sensor information to react to changes in an environment, instead of complicated internal models. Higher level concepts that will be covered include multi-robot communication, robot localization and path planning. 
+/
+General and Applied Chemistry
+Specially oriented toward students needing one semester of chemistry. Covers topics in elementary inorganic, organic, and biological chemistry.
+/
+Computer Programming for Chemists
+Fortran programming, principles of numerical analysis, numerical solution of differential equations and problems in linear algebra, statistics, and probability. 
+/
+Computer and Video Game Development
+The course will span the software domains embedded in computer and video games. Topics such as game computational infrastructure, design, engines, and motion will be presented through discussion and assignments.  Game industry guest speakers will discuss software challenges and opportunities. Students completing this course will understand the software development process required to create a successful game and possess the programming expertise to create a simple game.
+/
+Game Engine Programming
+Game engine programming is introduced as a critical element in compelling game creation.  Programming activity will feature input capture, world integration, object motion, collision detection and audio scoring. Game performance metrics, code optimization and quality assurance testing procedures will be emphasized.  Code examples will be presented from XNA game studio and Torque. Course game project may be completed using a 2D or 3D game engine of choice including Torque, Gamestudio, Panda3D, or OGRE 3D rendering engine. 
+/
+Data Communications and Network Programming
+This is an introductory course on computer networking. It will cover the layering model of the Internet. The upper four layers (application, transport, network and data link) will be discussed in details with dominant networking protocols and algorithms introduced. Students will also learn how to do basic programming on the Internet.
+/
+Differential Equations
+Elementary techniques of ordinary differential equations, including slope fields, equilibria, separation of variables, linear differential equations, homogeneous differential equations, undetermined coefficients, bifurcations, power series, Laplace transforms, systems, and numerical methods.
+/
+Introduction to Numerical Analysis
+Treats numerical integration and numerical solution of differential equations; numerical linear algebra, matrix inversion, characteristic values; error propagation; and stability. 
+/

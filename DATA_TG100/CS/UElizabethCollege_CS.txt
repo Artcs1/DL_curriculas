@@ -1,0 +1,52 @@
+/
+First-Year Seminar
+The First-Year Seminar provides an educational experience that is composed of several important components. First, it develops intellectual skills, such as critical analysis and synthesis, and communications skills, such as speaking and writing.
+/
+Writing and Language
+sA writing course focusing on writing as a process of discovery concerning ideas, drafting, revising and editing. Students read, write and speak about a variety of aspects of the power of language.
+/
+Advanced Writing and Language
+A writing course designed to explore the writing process and the history of the English language, its past and present uses and powers.
+/
+Computer Science I
+The fundamental concepts of computer organization, machine-level representation of data, algorithmic development and structured programming are presented with an emphasis on the syntactic and execution characteristics of an object-oriented programming language, including data types; arithmetic operators and assignment; input/output, selection and iteration constructs; elementary data structures; and procedural abstraction.
+/
+Computer Science II
+A continuation of the presentation of the computer software essentials. The course surveys fundamental data structures for information processing and corresponding algorithm construction. The implementation of these data structures is considered. Additional topics include recursion, file processing, classes and advanced object-oriented programming techniques.
+/
+Calculus I
+A thorough introduction to the basic concepts and techniques of the differential and integral calculus of elementary functions, including a study of limits and continuity. Applications to the physical, biological and social sciences are studied in detail.
+/
+Calculus II
+involving the calculus of the trigonometric, exponential, logarithmic and rational functions. Analytic geometry in the plane, parametric equations, polar coordinates, sequences and series are included, and an in-depth study of integration is completed
+/
+Data Structures
+The design of algorithms for handling abstract data types, including stacks, queues, linked lists, trees and graphs is coupled with an introduction to complexity analysis, storage allocation and management.
+/
+Systems Programming
+This course covers advanced programming and machine representation of data and data structures, including dynamic structures and files. Topics include memory allocation, run-time data organization, function linkage and parameter passing, interrupt processing and the relationship between high level and machine language.
+/
+Computer Networking
+Theory and knowledge of computer networks, the operation of the network, the characteristics of network architecture as it relates to the ISO model and administration, and the security and management of networks are provided. Other topics include network hardware requirements, such as routers, repeaters, gateways, interface cards, file servers, network topology options, and the Internet. *Prerequisite(s): CS 122. Spring semester.
+/
+Introduction to Mathematical Proofs
+Topics include logic, sets, functions, relations, mathematical induction, combinatorics and other counting techniques, graphs and trees. Special emphasis will be given to writing correct mathematical proofs.
+/
+Database Systems
+An introduction to concepts of databases and database management systems including the storage, processing, evaluation, display and security of data. The course represents a study of the database logical and physical design; of the basic management techniques using the most popular data languages, SQL and QBE; and of the different methodologies for database development - the relational approach and the object-oriented approach
+/
+Algorithms
+This course provides an introduction to theoretical computer science with an emphasis on algorithm design and analysis. Divide-and-conquer approaches, dynamic programming, NP-completeness, and graph algorithms are covered. Techniques including asymptotic analysis, solving recurrence relations, and amortized analysis are discussed.
+/
+Computer Organization and Architecture
+Introduction to Boolean algebra, design of combinational and sequential circuits, and their use in von Neumann computer architecture. Basic parts of computer systems - including memory, control and input-output systems - are studied. The student is expected to design a simple micro-programmed computer.
+/
+Software Engineering
+An introduction to software development methodologies including requirements specification, design, testing, maintenance, and documentation. Students will participate in a large software development project using version control software.
+/
+Compiler Design
+Design and construction of system software such as compilers, interpreters and assemblers. Topics include command and statement parsing techniques, symbol tables, code generation and code optimization. 
+/
+Operating Systems
+Principles and theories behind the design of operating systems and their practical implementation, including executives and monitors, task handlers, scheduling algorithms, file handlers, device drivers and interrupt handlers, theories of resource allocation and sharing, multiprocessing and interprocess communication.
+/

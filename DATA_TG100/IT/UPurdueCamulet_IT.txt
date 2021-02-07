@@ -1,0 +1,106 @@
+/
+Information Technology Fundamentals
+This is the freshman experience course that also covers pervasive themes in IT, organization issues, and history of IT, IT and its related informing disciplines, application domains, computer math, and other IT topics.
+/
+Operating Systems Technologies
+This course covers operating systems concepts, applications, administrative activities, installation, customization, maintenance, security, and other topics.
+/
+Introduction To Computer Algorithms And Logic
+This course introduces basic concepts of computer programming through the development of algorithms and logic to different types of real-word problems. It emphases on developing problem-solving skills required for creating software solutions. The course covers computer system basics, software development process, basic programming structures, constructs and data structures, and methods for developing algorithms and logic.
+/
+English Composition I
+Emphasis on the organization of the expository theme. Directed writings of themes based on personal experience, on the relationship between experience and language, and on the relationship between experience and ideas.
+/
+Algebra And Trigonometry For Technology
+is a two semester sequence in algebra and trigonometry for students in technology. The emphasis is on technique and problem solving
+/
+Web Systems Technology
+This course covers web technologies, information architecture, digital media, web development, vulnerabilities, social software, and other topics.
+/
+Networking Technologies
+This course covers routing and switching, physical layer, foundations of networking, security, application considerations, network management, and other topics.
+/
+Programming Fundamentals
+This course covers fundamental programming techniques using a particular programming language while focusing on problem-solving skills. Topics include primitive and custom data types, control structures, simple data structures and an introduction to object-oriented programming. 
+/
+Discrete Mathematics For Computer Technology
+The course covers topics in discrete mathematics which are essential to the discipline of computer technology. These include: logic, sequences, mathematical induction, basic set theory, functions, recursion, relations, graphs, and trees.
+/
+English Composition II
+The second half of the basic composition sequence. Extensive practice in writing clear and effective prose. Instruction in logic, structure, and style.
+/
+Integrative Programming
+This course covers in-depth discussions of object-oriented programming and application development through integration. Topics include object-oriented programming concepts and object-oriented design, classes, objects, interfaces, inheritance, association, polymorphism, software framework/library, file system processing, event-driven programming, GUI-based programming, data access, basic networking programming.
+/
+Applied Database Technologies
+This course covers database query languages, information management concepts and fundamentals, data organization, data modeling, managing the database environment, special-purpose databases, and other topics.
+/
+Internetworking Technologies
+This course covers requirements, acquisition/sourcing, integration, project management, testing and quality assurance, organizational context, architecture and other topics.
+/
+Fundamentals Of Speech Communication
+A study of communication theories as applied to speech; practical communicative experiences ranging from interpersonal communication and small group process through problem identification and solution in discussion to informative and persuasive speaking in standard speaker-audience situations.
+/
+Elementary Statistical Methods
+A basic introductory statistics course with applications in various fields and emphasis placed on assumptions, applicability, and interpretation of various statistical techniques. Subject matter includes frequency distributions, descriptive statistics, elementary probability, normal distribution applications, sampling distribution, estimation, hypothesis testing, linear regression
+/
+Fundamentals Of Information Assurance
+This course covers security mechanisms, fundamental aspects, operational issues, policy, attacks, security domains, forensics, information states, security services, threat analysis, vulnerabilities, and other topics.
+/
+Advanced Programming
+This course covers in-depth discussions of data structures and associated algorithms, memory management, and concurrent programming. Topics include memory structures, allocation and release, object reference counting, garbage collection, arrays, lists, stacks, queues, trees, graphs, heaps, hash tables, recursion, searching and sorting, multithread programming and synchronization, as well as the latest developments in advanced programming techniques
+/
+System Administration And Management
+This course covers system performance analysis, benchmarking, acceptance testing, security strategies, file systems analysis, auditing, server roles, and best practices.
+/
+Systems Assurance
+This course covers the implementation of systems assurance with computing systems. Topics include confidentiality, integrity, authentication, non-repudiation, intrusion detection, physical security, and encryption.
+/
+Disaster Recovery And Planning
+This course covers risk management and business continuity. Topics include disaster recovery strategies, mitigation strategies, risk analysis and development of contingency plans for unexpected outages and component failures.
+/
+Distributed Application Architecture And Design
+This course covers the topics of multi-tier application development, interface design and implementation, client side scripting, server side scripting, backend database integration, component based application development, and configuration of multi-tier applications, as well as the latest developments in distributed application development.
+/
+Technical Report Writing
+A study of application of the principles of good writing in industrial reporting with emphasis on the techniques of presenting information graphically as well as in a clear, concise written form.
+/
+Advanced Operating Systems
+This course covers the comparison and contrast of operating systems, the detailed examination of architecture, customization and implementation of the features of specific operating systems.
+/
+Distributed Application Development
+This course covers the topics of multi-tier application development, interface design and implementation, client side scripting, server side scripting, backend database integration, component based application development, and configuration of multi-tier applications, as well as the latest developments in distributed application development
+/
+Database Modeling And Implementation
+This is an advanced course that covers the design of distributed databases, data modeling, normalization rules, query languages, layout and design of forms, transaction management, and implementation of the database design. Extensive laboratory exercises are assigned.
+/
+Mobile Application Development
+This course focuses on developing mobile applications for multiple platforms. Topics include special considerations for devices (smartphones and tablets) with limited computational power and system resources, application development paradigms, sensor-based applications (touching, gesture, and movement), location-based applications, network programming, interactivity with data sources and application integration, testing with simulators, as well as consideration and preparation for application publishing
+/
+Software Assurance
+This course covers defensive programming techniques, bounds analysis, error handling, advanced testing techniques, detailed code auditing, and software specification in a trusted assured environment. 
+/
+Computer Forensics
+This course covers the techniques used in the forensic analysis of computerized systems for gathering evidence to detail how a system has been exploited or used
+/
+Application Integration
+This course covers application integration methods using service oriented computing and various publicly available application programming interfaces (APIs), integration of disparate enterprise and Web applications, implementing interfaces between platforms and applications. Topics include data exchange formats, APIs for processing data of different formats, service creation and service consumption, as well as the latest developments in application integration.
+/
+Assured Systems Design And Implementation
+This course covers the design and implementation of assured systems in an enterprise environment. Topics include hardening of operating systems, choice of platforms, design criteria within the assured systems domain. Extensive laboratory exercises are assigned. 
+/
+Network Design And Implementation
+This course covers the design and implementation of enterprise level networks. Topics include network topologies, protocols, technologies, services, design and architecture, and implementation of the network design.
+/
+Senior Project Undergraduate Research
+Senior Project Undergraduate Research
+/
+Orientation To Computer And Information Technology
+Orientation To Computer And Information Technology
+/
+Microcomputer Database Applications
+This course does not carry credit toward degree requirements in Computer Technology. A study of relational databases and their applications with special emphasis on the proper techniques of database construction. Instruction will center around learning how to design databases and operate a database management system in a Windows environment. Students will build projects and develop systems for the storage, manipulation, and retrieval of large amounts of data on the personal computer
+/
+Programming For The Internet
+This course introduces software development concepts common to modern object-oriented programming languages. Topics include: intermediate data types, decisions, repetitive structures; methods; arrays and collections; encapsulation; inheritance, and polymorphism; exception handling; data persistence; Database Management System (DBMS) connectivity; user interface construction; software testing and debugging; and working in teams. 
+/

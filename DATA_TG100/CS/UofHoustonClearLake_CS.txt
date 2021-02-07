@@ -1,0 +1,376 @@
+/
+Composition I
+Intensive study of and practice in writing
+processes, from invention and researching to
+drafting, revising, and editing, both individually
+and collaboratively. Emphasis on effective
+rhetorical choices, including audience, purpose,
+arrangement, and style. Focus on writing
+the academic essay as a vehicle for learning,
+communicating, and critical analysis.
+/
+Composition II
+Intensive study of and practice in the strategies
+and techniques for developing research-based
+expository and persuasive texts. Emphasis on
+effective and ethical rhetorical inquiry, including
+primary and secondary research methods,
+critical reading of verbal, visual, and multimedia
+texts; systematic evaluation, synthesis, and
+documentation of information sources; and
+critical thinking about evidence and conclusions.
+/
+Calculus I
+Limits and continuity; the Fundamental
+Theorem of Calculus; definition of the derivative
+of a function and techniques of differentiation;
+applications of the derivative to maximizing or
+minimizing a function; the chain rule, mean
+value theorem and rate of change problems;
+curve sketching; definite and indefinite
+integration of algebraic, trigonometric and
+transcendental functions with an application to
+calculation of areas.
+/
+University Physics I
+Calculus based introductory physics course.
+Fundamentals of linear and rotational
+kinematics and dynamics, Newton's laws,
+work, energy, conservation, gravitation, wave
+mechanics, sound, fluid mechanics, heat and
+thermodynamics.
+/
+University Physics II
+Calculus based introductory physics course.
+Electric forces and fields, Gauss' laws, DC
+and AC circuits, magnetic forces and fields,
+electromagnetic induction, Maxwell's equations,
+electromagnetic waves, geometric optics and
+introduction to modern physics.
+/
+Humanities
+An interdisciplinary, multi-perspective
+assessment of cultural, political, philosophical,
+and aesthetic factors critical to the formulation
+of values and the historical development of the
+individual and of society
+/
+Literature and Experience
+The study of one of more literary genres
+including poetry, fiction, drama, and film
+/
+Introduction to Philosophy
+A study of major issues in philosophy and/or
+the work of major figures in philosophy. Topics
+in philosophy may include theories of reality,
+theories of knowledge, theories of value, and
+their practical applications.
+/
+Gender Matters: Introduction to Women's and Gender Studies
+A general introduction to the study of women
+and gender across academic disciplines,
+appropriate as a first course for any student
+interested in the study of gender within their
+major.
+/
+World Art Survey I
+Examination of painting, sculpture, architecture,
+and other arts from prehistoric to Renaissance
+periods.
+/
+World Art Survey II
+Examination of painting, sculpture, architecture,
+and other arts from the post-Renaissance to the
+contemporary period
+/
+Arts and the Child
+Prepares individuals to teach three art forms -
+visual art, music, theater - to young children
+through elementary ages.
+/
+United States History I
+A survey of the social, political, economic,
+cultural, and intellectual history of the United
+States from the pre-Columbian era to the Civil
+War/Reconstruction period. Includes the study
+of pre-Columbian, colonial, revolutionary,
+early national, slavery, sectionalism, and the
+Civil War/Reconstruction eras. Themes may
+include: American settlement and diversity,
+American culture, religion, civil and human
+rights, technological change, economic change,
+immigration and migration, and creation of the
+federal government.
+/
+United States History II
+A survey of the social, political, economic,
+cultural, and intellectual history of the United
+States from the Civil War/Reconstruction era
+to the present. Examines industrialization,
+immigration, world wars, the Great Depression,
+Cold War and post-Cold War eras. Themes
+may include: American culture, religion, civil
+and human rights, technological change,
+economic change, immigration and migration,
+urbanization and suburbanization, the expansion
+of the federal government, and the study of U.S.
+foreign policy.
+/
+Federal Government
+Origin and development of the U.S. Constitution,
+structure and powers of the national government
+including the legislative, executive, and judicial
+branches, federalism, political participation,
+the national election process, public policy, civil
+liberties, and civil rights.
+/
+Texas Government
+Origin and development of the Texas
+constitution, structure and powers of state
+and local government, federalism, and intergovernmental relations, political participation,
+the election process, and the political culture of
+Texas.
+/
+General Anthropology
+Study of human beings, their antecedents and
+related primates, and their cultural behavior
+and institutions. Introduces the major subfields:
+physical and cultural anthropology, archeology,
+linguistics, and ethnology.
+/
+Laboratory for University Physics II
+Instrumentation used to conduct experiments
+on electrical circuits and optics. Topics include
+Ohm's Law, series and parallel circuits, electrical
+power EMF, RLC Components, optical elements
+and visual phenomena.
+/
+Laboratory for University Physics I
+Introduction to data acquisition and analysis
+in physics. Instrumentation used to conduct
+experiments on motion, kinematics, wave
+mechanics, sound and heat.Topics also to include
+statistical methods, graphing, error analysis,
+computer techniques and reporting results
+/
+Public Speaking
+Application of communication theory and
+practice to the public speaking context with
+emphasis on audience analysis, speaker delivery,
+ethics of communication, cultural diversity, and
+speech organizational techniques to develop
+students' speaking abilities as well as their
+ability to effectively evaluate oral presentations.
+/
+Learning Frameworks
+An inquiry around the broad, interdisciplinary
+concepts of civic engagement and citizenship
+for students to explicitly examine and engage in
+advanced critical thinking for university study.
+This course promotes intellectual readiness by
+helping students build and find the resources
+to become personally responsible and active
+members of the university community, their
+education, and their word.
+/
+Laboratory for General Chemistry I
+Introduction of the scientific method,
+experimental design, data collection and analysis
+and preparation of laboratory reports.
+/
+General Chemistry I
+Fundamental principles of Chemistry for majors
+in sciences, health sciences and engineering;
+topics include inorganic, organic, biochemistry,
+chemical reactions, states of matter and
+properties, chemical bonding, structure and
+descriptive chemistry. 
+/
+University Physics I
+Calculus based introductory physics course.
+Fundamentals of linear and rotational
+kinematics and dynamics, Newton's laws,
+work, energy, conservation, gravitation, wave
+mechanics, sound, fluid mechanics, heat and
+thermodynamics.
+/
+Laboratory for University Physics I
+Introduction to data acquisition and analysis
+in physics. Instrumentation used to conduct
+experiments on motion, kinematics, wave
+mechanics, sound and heat.Topics also to include
+statistical methods, graphing, error analysis,
+computer techniques and reporting results.
+/
+University Physics II
+Calculus based introductory physics course.
+Electric forces and fields, Gauss' laws, DC
+and AC circuits, magnetic forces and fields,
+electromagnetic induction, Maxwell's equations,
+electromagnetic waves, geometric optics and
+introduction to modern physics.
+/
+Laboratory for University Physics II
+Instrumentation used to conduct experiments
+on electrical circuits and optics. Topics include
+Ohm's Law, series and parallel circuits, electrical
+power EMF, RLC Components, optical elements
+and visual phenomena.
+/
+Discrete Mathematics
+Introductory mathematical logic, mathematical
+induction, relations and functions, basic
+counting techniques, graphs and trees and
+applications to computing devices. Designed
+for students majoring in the computer related
+disciplines.
+/
+Linear Algebra
+Systems of linear equations; vector spaces,
+linear transformations, determinants, matrices,
+eigenvalues and eigenvectors; applications to
+coding and difference equations
+/
+Calculus II
+Differentiation and integration of transcendental
+functions; parametric equations and polar
+coordinates; techniques of integration;
+sequences and series; improper integrals.
+/
+Differential Equations
+Solutions of ordinary differential equations of
+the first and second order, Laplace transforms,
+power series techniques, systems of equations,
+stability, numerical methods, geometric and
+physical applications.
+/
+Probability and Statistics for Scientists and Engineers
+Graphical representation of data, measures of
+centrality and variability, concepts and rules of
+probability, discrete probability distribution,
+normal distribution, sampling distributions,
+central limit theorem, parameter estimation,
+testing of hypothesis, two sample methods,
+analysis of variance, correlation and regression
+analysis.
+/
+Computer Science I
+Introduction to computer programming using
+Python. Topics include: design tools (flowcharts,
+pseudocode) control flow statements (if,
+while, for), simple arithmetic expressions,
+input and output statements, functions, data
+structures including strings and lists, text files.
+Introduction to software development lifecycle
+and testing. The course is programmingintensive with in-class assignments and weekly
+homework and a final project. Introduction to
+Arduino and number systems.
+/
+Computer Science II
+Build upon basic programming concepts
+using Java constructs such as iteration,
+selection, recursion, exception handling, data
+structures and file I/O. Introduce Objectoriented programming concepts including: reuse
+principles, data abstraction, classes, inheritance,
+polymorphism, exception handling and UML to
+build robust code and enhance problem solving
+methodology.
+/
+Data Structures
+Advanced programming techniques and data
+structures including arrays, linked lists, queues
+and stacks; abstract data types, recursion,
+searching and sorting, binary trees, hashing
+techniques, elementary algorithm design and
+analysis, and more.
+/
+Computer Organization and Assembly Language
+Basic elements of computer hardware and
+software, data representations, instruction
+formats and addressing modes, assembly
+language instructions, programming techniques
+in assembly language, macro assemblers, linkloaders, functions of operating systems and
+input/output programming and peripherals.
+Laboratory instruction.
+/
+Numerical Methods
+Taylor series and error analysis, interpolation,
+solution of linear and non-linear equations, least
+squares, integration of functions and differential
+equations. 
+/
+Advanced Data Structures and Algorithms
+Binary trees, trees, graph theory, finite state
+automata, external storage devices, sequential
+and direct file organizations, file processing
+techniques, hashing, B-trees, external sorting,
+P and NP problems, algorithmic analysis.
+/
+Design of Database Systems
+Design of database systems, data description
+and manipulation languages, data models,
+entity-relationship model, relational model,
+SL, relational algebra, normalization theory,
+DBMS, internet, database design, data flow
+diagrams, and implementation of database
+systems.
+/
+Operating Systems
+Analysis and design of basic operating
+systems concepts, including multiprocessing,
+interprocess communication and
+synchronization, scheduling, file systems,
+memory management, input/output and
+deadlock. Examples drawn from real operating
+systems including Unix and Windows NT.
+/
+Senior Project in Computer Science
+Students develop a significant computer
+application for a realistic project. Emphasis
+will be on practical experience on all phases of
+constructing a computer solution. Professional
+behavior, ethics and teamwork will be developed
+throughout the project. Students prepare written
+reports and give oral presentations. 
+/
+Digital Circuits
+Applications of point set theory and Boolean
+Algebra to the analysis and design of
+asynchronous and synchronous digital circuits.
+/
+Introduction to Telecommunications and Networks
+Introduction to data communications, error
+detecting/correcting codes, multiplexing, circuit
+and packet switching and local area networks.
+/
+Laboratory for Digital Circuits
+Laboratory experiments using digital logic and
+small scale integrated circuits.
+/
+Laboratory for Telecommunications and Networks
+Laboratory experiments in digital and data
+communications.
+/
+Computer Architecture
+Performance analysis of computer systems,
+representing data and instructions, instruction
+set architecture, datapath and controller design,
+pipelining, superscalar architectures, memory
+components such as cache, main memory and
+virtual memory, multiprocessors.
+/
+Laboratory for Computer Architecture
+Laboratory experiments for Computer
+Architecture Design and Interfacing
+/
+Software Engineering
+Introduction to Software Engineering. Major
+phases of the software life cycle are introduced
+from requirements through maintenance
+/
+Advanced Technical Writin
+Advanced approaches to the writing of technical
+documents for professional audiences:
+correspondence, proposal reports, manuals, and
+descriptions
+/

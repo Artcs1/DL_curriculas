@@ -1,0 +1,121 @@
+/
+Principles of Chemistry
+Covers principles of stoichiometry, chemical bonding and structure, thermochemistry, chemical equilibrium, and kinetics. Three hours lecture, two hours lab. Prerequisite: Two semesters of hi
+/
+Introduction to Engineering
+A hands-on introduction to civil, computer, electrical, and/or mechanical engineering. Topics include the use of the computer in engineering and an introduction to the design process.
+/
+First Year Seminar
+Topic-based seminar developed by individual faculty members. Engages students in classroom activities that promote the acquisition of critical reading, writing, and thinking skills appropriate to college-level discourse. Toward that end, students will complete a significant research paper.
+/
+Calculus I
+Covers parametric and polar equations; limits and continuity; differentiation and integration of algebraic, trigonometric, logarithmic, and exponential functions; and applications of differentiation. Background should include eight semesters of high school mathematics, including four semesters of algebra, two semesters of geometry, and at least 12 weeks of trigonometry.
+/
+Fundamentals of Programming I
+Emphasizes problem-solving techniques used in the analysis and design of software solutions, including structured top-down design, abstraction, good programming style, debugging, and testing. Programming constructs covered include control structures, functions, and basic, and aggregate data types. Introduction to recursion and dynamic allocation. 
+/
+Calculus II
+Covers integration techniques and applications of integration. Introduces vectors and matrices, functions of several variables and their derivatives, differential equations, and multiple integrals. 
+/
+Calculus Physics I
+Calculus-based treatment of mechanics, waves, and thermodynamics. 
+/
+Fundamentals of Programming II
+Project and problem-solving course emphasizes the use of classes for encapsulation of abstract data types and abstract data structures. Topics include classes, templates, dynamic allocation, searching and sorting, recursion, and exception handling. Introduction to algorithm analysis.
+/
+Circuits
+Integrated lab/lecture covers the fundamentals of electrical circuit analysis. Introduces foundational circuit theorems and analysis methods.
+/
+Differential Equations
+Includes standard first- and second-order methods, systems, difference equations, power series, Laplace transforms, and numerical and nonlinear methods, with applications for all of these. 
+/
+Calculus Physics II 
+Calculus-based treatment of electricity, magnetism, and light.
+/
+Object Oriented Design
+In-depth study of abstract data types and objects, including inheritance and polymorphism, frameworks and design patterns, and the use of these principles in problem solving and program design. 
+/
+Circuits and Systems
+An integrated lab/lecture covers linear system theory as applied in the analysis of electrical circuits. Topics include the sinusoidal steadystate response and phasors, the Laplace transform, Fourier series and the Fourier transform, passive and active frequency selective circuits (filters), and Bode diagrams. Theoretical principles verified by circuit construction and measurement and through the use of circuit simulation software. 
+/
+Logic Design
+Presents a thorough treatment of combinational and sequential logic design. Topics include number systems, Boolean algebra, minimization procedures, sequential circuit design, flipflops, counters, registers, and finite-state machines. Logic design is applied to computer architecture and microprogramming and hard-wired concepts are introduced. Programmable logic devices and computer aided design tools for digital circuits used for class projects.
+/
+Electronics I
+Lecture/project covers analysis and design of diode and transistor circuits. Diode, metal-oxide-semiconductor field-effect transistor (MOSFET) and bipolar junction transistor (BJT) device characteristics are explored in detail. Major topics include diode applications, transistor amplifiers, and digital logic families. 
+/
+Calculus III 
+Covers infinite series, vector-valued functions, multiple integration, line and surface integrals, and analysis of vector fields.
+/
+Linear Systems and DSP I
+Provides a unified treatment of continuous-time and discrete-time linear signals and systems. Topics include introduction to the mathematical representation of signals, system characterization, convolution, and system analysis in the time and frequency domains using differential equations, statevector equations and transform techniques. Fourier,Laplace, Z, and discrete-Fourier transform techniques of signal and system analysis presented.
+/
+Digital Systems
+Takes up the logical design of computer systems with emphasis on the interaction between hardware and software. Topics include register design, memory systems, programmable I/O devices,interrupt driven I/O, controller design and microprogramming,bus systems, interface electronics, and assembly language programming. Computer aided design tools are used throughout course. Several different microcontrollers are used for projects to illustrate concepts. Assembly language and C used for class projects
+/
+Small Computer Software
+Introduction to the graphical user interface provided by the WindowsT operating system using C#.NET. Topics include the console applications, windows forms, elementary graphics,ASP.NET web forms, ADO.NET, TCP/IP connection between computers, and dynamic-link libraries(DLLs) and/or device drivers.
+/
+Applied Engineering Mathematics
+Develops understanding of practical mathematical analysis with applications in various engineering disciplines. Probability and statistical analysis. Practical numerical analysis. Linear algebra and matrices. Applications in civil, mechanical, and electrical engineering.
+/
+Discrete and Combinatorial Math 
+Covers such topics as enumeration, principles of logic, set theory, mathematical induction, generating functions, recurrence relations, and graph theory
+/
+Algorithms and Data Structures 
+Design and implementation of algorithms and advanced data structures with attention to complexity and space analysis. Problem-solving strategies including greedy and divide-and-conquer algorithms as well as dynamic programming techniques. 
+/
+Computer Architecture
+Studies the architecture of computer systems from four-bit machines to supercomputers. Memory systems, I/O processors, and multi-computer systems are studied in detail. RISC, CISC and Neural Nets are introduced. Establishes the relationship of hardware and software. Includes handson projects dealing with graphical user interfaces and their implementation. 
+/
+Linear Control Systems
+Introduction to analysis and design of linear analog and digital feedback control systems. Topics include system modeling, time and frequency domain performance analysis, stability analysis, and controller design. Introduces both rootlocus and frequency domain techniques of system analysis and design. Presents emulation techniques for digital controller design. 
+/
+Intermediate Electrical Projects Lab
+Provides for the design and construction of several openended projects chosen from 300 level electrical engineering courses. Project areas include digital and analog electronics, linear systems, logic design, microcomputers,electromagnetics, electro-optics, and circuits
+/
+Microcontroller Applications
+Focuses on the use of microcontrollers in real-time applications. Organized around several openended projects. Each project requires the complete design of a working microcontroller system for a given application and programming in C. 
+/
+Embedded Systems and Real-Time Programming
+Covers real-time programming techniques that are commonly used on embedded systems. Topics include real-time operating system concepts, concurrent programming and task scheduling algorithms, mutual exclusion and synchronization methods, and interprocess communication. Real-world experience writing applications for two popular embedded operating systems. 
+/
+Senior Project Seminar
+Provides guidance for the selection of a topic in the senior design project sequence. Projects, including industry-sponsored projects, presented for student selection. 
+/
+Networks
+Digital data communication systems in hardware and software, synchronous and asynchronous communication, standards, protocols, network configurations, network applications. 
+/
+Senior Project Phase I
+Plan the engineering project and formulate the preliminary design under the guidance of faculty and industrial advisors. Seminar sessions address professional ethics and the social and political contexts of engineering. The economic, environmental, health, and safety aspects of the project are addressed in a written engineering proposal, as are the issues of manufacturability and sustainability. An oral presentation of the proposal is required. Students submit written reaction to seminar topics.
+/
+Linear Systems and DSP II
+Provides anapplication of discrete system analysis and design techniques to digital signal processing (DSP). Reviews difference equations, the Z transform and the discrete Fourier transform. Topics include analysis and design of recursive and non-recursive filter structures, analog filter approximations, the realization problem, the Fast Fourier Transform, and two-dimensional filtering. 
+/
+Electronics II
+Major topics include BJT amplifiers, IC amplifiers, differential amplifiers, nonideal operational amplifiers, and frequency effects. Specific topics include small-signal operation and models of BJTs, discrete-circuit BJT amplifiers, IC amplifiers, current-mirrors with improved performance, BJT and MOS differential pair circuits, common-mode rejection ratio, DC imperfections of op amps, large signal operation of op amps, LM741 op amp circuit, high frequency BJT and MOS models, and the high and low frequency response of transistor amplifiers. 
+/
+Analog Circuit Synthesis
+Lecture/project covers analysis and design of active circuits. Major topics include feedback, instrumentation amplifiers, active filter design, non-linear circuits, signal generators, and voltage regulation circuits. 
+/
+Digital Control Systems
+Advanced analysis and design of linear systems. Analysis and design of digital control systems emphasized through classroom discussions, homework assignments and design projects. Both classical and modern control system design techniques studied. 
+/
+Operating Systems
+Components of operating systems. Tasking and processing, process coordination and scheduling, memory organization and management, device management, security, networks, distributed and real-time systems. 
+/
+Senior Project Phase II 
+A formal design review is conducted early in the semester. A practice oral report, a written final report, a final oral report, and a demonstration of the completed project are required. 
+/
+Principles of Macroeconomics 
+Macroeconomics is the branch of economics that studies the domestic economic system as a whole and its interaction with foreign economies. This course focuses on the behavior of the aggregate economy as it pertains to the determination of national income, production, level of employment, general price level, and trace flows. 
+/
+The American Corporation
+Examines the constitution and functions of American corporations and how they interact in a global society. Studies the corporation as an instrument in the creative process of innovation throughout the world. Social and ethical responsibilities of business entities and responsibility of society toward corporations explored in relation to the role of the corporation as a source of national prosperity and wealth.
+/
+Imaginative Expressions of Human Condition 
+Imaginative Expressions of Human Condition 
+/
+Human History and Historical Context of Knowledge
+Human History and Historical Context of Knowledge
+/

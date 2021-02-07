@@ -1,0 +1,191 @@
+/
+Fundamentals of Computer Science
+Basic principles of algorithmic problem solving and programming using methods of top-down design, stepwise refinement and procedural abstraction. Basic control structures, data types, and input/output. Introduction to the software development process: design, implementation, testing and documentation. The syntax and semantics of a modern programming language./
+/
+Accelerated Introduction to Computer Science
+Accelerated introduction to basic principles of algorithmic and object-oriented problem solving and programming. Introduction to programming language concepts including control structures, data types, classes, and inheritance. Program design principles. Use and implementation of algorithms (searching, sorting, recursion) and data structures (lists, stacks, and queues). 
+/
+Data Structures
+Introduction to data structures and analysis of algorithms. Abstract datatypes. Specification and implementation of advanced data structures. Theoretical and empirical analysis of recursive and iterative algorithms. Software performance evaluation and testing techniques.
+/
+Introduction to Computing
+Use of a supportive software development environment to design, develop, and test applications in a selected topic domain that demonstrates the potential of careers in computing. An introduction to computing and to the selected topic domain. 
+/
+Project-Based Object-Oriented Programming and Design
+Object-oriented programming and design with applications to project construction. Introduction to class design, interfaces, inheritance, generics, exceptions, streams, and testing.
+/
+Introduction to Computer Organization
+Introduction to computer systems. Simple instruction set architecture and the computer hardware needed to implement that architecture. Machine and assembly language programming. 
+/
+Professional Responsibilities
+The responsibilities of the computer science professional. The ethics of science and the IEEE/ACM Software Engineering Code of Ethics. Quality tradeoffs, software system safety, intellectual property, history of computing and the social implications of computers in the modern world. Applications to ethical dilemmas in computing. Technical presentation methods and practice.
+/
+Individual Software Design and Development
+Practical software development skills needed for construction of mid-sized production-quality software modules, using the CSC upper division programming language.
+/
+Software Engineering I
+Principles for engineering requirements analysis and design of large complex software systems. Software process models. Methods of project planning, tracking, documentation, communication, and quality assurance. Analysis of engineering tradeoffs. Group laboratory project. Technical oral and written presentations. 
+/
+Software Engineering II
+Continuation of the software lifecycle. Methods and tools for the implementation, integration, testing and maintenance of large software systems. Software development and test environments. Software quality assurance. Group laboratory project.
+/
+Discrete Structures
+Structures of computer science: logic, sets, relations, functions, graphs and trees. Propositional and predicate logic. Applications of predicate logic to preconditions, postconditions, and proof techniques. Complexity of algorithms. 
+/
+Design and Analysis of Algorithms
+Intermediate and advanced algorithms and their analysis. Mathematical, geometrical, and graph algorithms. NP-complete problems. Additional topics will be chosen from pattern matching, file compression, cryptology, dynamic and linear programming, and exhaustive search. 
+/
+Systems Programming
+C programming language from a system programming perspective. Standard C language including operators, I/O functions, and data types in the context of system functions.
+/
+Introduction to Database Systems
+Basic principles of database management systems (DBMS) and of DBMS application development. DBMS objectives, systems architecture, database models with emphasis on Entity-Relationship and Relational models, data definition and manipulation languages, the Structured Query Language (SQL), database design, application development tools. 
+/
+Software Requirements Engineering
+Software requirements elicitation, analysis and documentation. Team process infrastructure and resource estimation to support appropriate levels of quality. Software architectural design.
+/
+Software Construction
+Design and construction of sizeable software products. Technical management of software development teams. Software development process models, software design, documentation, quality assurance during development, software unit and integration testing; CASE tools, development environments, test tools, configuration management. 
+/
+Senior Project - Software Deployment
+Deployment of a sizeable software product by a student team. Software maintenance and deployment economic issues. Management of deployed software: version control, defect tracking and technical support. 
+/
+Programming Languages
+Programming language design through evaluator implementation. Expressions, functions, environments, closures, mutation, objects, type systems, and syntactic abstraction. Syntactic, semantic, and static analysis properties.
+/
+User-Centered Interface Design and Development
+Introduction to the importance of user-centered principles in the design of good interfaces and effective human-computer interaction. Topics include: study of human characteristics affected by interface design, effective requirements data collection and analysis, user-centered approaches to software engineering, and evaluation of interface and interaction quality.
+/
+Personal Software Process
+Principles and practices for defining and applying software processes to individual software development tasks. Quantitative methods for the measurement and analysis of software development cost and quality. Interpretation and evaluation of process metrics for creation of improvement plans. Adaptation of processes to individual styles.
+/
+Teaching Computing
+An introduction to pedagogical methods and practical techniques for computer science education: selecting appropriate content, designing assignments and activities, evaluating student learning, and evaluating teaching efficacy. Hands-on guided curricular design activities and real-world practice. 
+/
+Introduction to Computer Security
+Survey of topics in computer system and network security, including protection, access control, distributed access control, operating system security, applied cryptography, network security, firewalls, secure coding practices, and case studies from real-world systems. 
+/
+Technical Writing for Engineers
+The principles of technical writing. Discussion and application of rhetorical principles in technical environments. Study of methods, resources and common formats used in corporate or research writing.
+/
+Engineering Economics
+Economic analysis of engineering decisions. Determining rates of return on investments. Effects of inflation, depreciation and income taxes. Sensitivity, uncertainty, and risk analysis. Application of basic principles and tools of analysis using case studies.
+/
+Calculus I
+Limits, continuity, differentiation. Introduction to integration.
+/
+Calculus II
+Techniques of integration, applications to physics, transcendental functions. 
+/
+Calculus III
+Infinite sequences and series, vector algebra, curves.
+/
+Calculus IV
+Partial derivatives, multiple integrals, introduction to vector analysis.
+/
+Linear Analysis I
+Separable and linear ordinary differential equations with selected applications; numerical and analytical solutions. Linear algebra: vectors in n-space, matrices, linear transformations, eigenvalues, eigenvectors, diagonalization; applications to the study of systems of linear differential equations.
+/
+General Psychology
+Introduction to the psychological study of human beings. Applications and research in area such as psychobiology, perception, learning, motivation, consciousness, memory and cognition, personality, emotion, development, psychological assessment, social behavior, psychopathology and psychotherapy. 
+/
+Teamwork
+Group dynamics applied to teams. Topics include team development, basic team processes, conflict management, decision making, leadership, problem solving, and the impacts of diversity and culture on teams. Focus on effective use of teams in the workplace. 
+/
+Statistical Methods for Engineers
+Descriptive and graphical methods. Discrete and continuous probability distributions. One and two sample confidence intervals and hypothesis testing. Single factor analysis of variance. Quality control. Introduction to regression and to experimental design. Substantial use of statistical software. 
+/
+General Biology
+Principles of cellular biology, heredity, ecology, biological diversity, and evolution, with emphasis on their relationships to human affairs. Not open for major credit in Biological Sciences, Microbiology or Marine Sciences. 
+/
+Introduction to Cell and Molecular Biology
+Fundamentals of cellular biology with an emphasis on the molecular perspective of life: metabolism, photosynthesis, cell structure and reproduction, meiosis, immunology, classical and molecular genetics, gene regulation.
+/
+Life Science for Engineers
+Fundamentals of life sciences: energetics, cell biology, molecular and classical genetics, microbiology, organismal biology, and ecology. 
+/
+Bioengineering Fundamentals
+Treatment of the engineering applications of biology. Genetic engineering and the industrial application of microbiology. Systems physiology with engineering applications. Structure and function relationships in biological systems. The impact of life on its environment. Course may be offered in classroom-based or online format. 
+/
+General Botany
+The anatomy, physiology, reproduction, and importance of plants.
+/
+Microbiology
+Morphology, metabolism, classification, and identification; microbiology of air, soil, water, and foods with applications to industry, agriculture, medicine, and public health.
+/
+General Microbiology I
+Microbial cellular structure and function, nutrition and growth dynamics, control of microbial growth, metabolism, genetics, and viruses. Both prokaryotic and eukaryotic microorganisms emphasized.
+/Methods of Proof in Mathematics.
+Methods of proof (direct, contradiction, conditional, contraposition); valid and invalid arguments. Examples from set theory. Quantified statements and their negations. Functions, indexed sets, set functions. Proofs in number theory, algebra, geometry and analysis. Proof by induction. Equivalence and well-defined operations and functions. The axiomatic method.
+/
+Vector Analysis
+Differential and integral calculus of vector-valued functions. Green's Theorem, Stokes' Theorem, and the Divergence Theorem. Applications and generalizations. 
+/
+Graph Theory
+Introduction to graph theory and its applications: isomorphism, paths and searching, connectedness, trees, tournaments, planarity, graph colorings, matching theory, network flow, adjacency and incidence matrices. Further topics to be selected from the theory of finite state machines, Ramsey theory, extremal theory, and graphical enumeration.
+/
+Combinatorial Math
+Methods of enumerative combinatorics: sum, product, and division rules, bijective and recursive techniques, inclusion and exclusion, generating functions, and the finite difference calculus. Advanced topics to be selected from the theory of partitions, Polya theory, designs, and codes.
+/
+Numerical Analysis I
+Topics in interpolation and approximation methods, initial value problems, and boundary value problems of ordinary differential equations
+/
+General Chemistry for Physical Science and Engineering I
+Stoichiometry, thermochemistry, atomic structure, bonding, solid-state structures, intermolecular forces, and foundational principles of organic chemistry. 
+/
+General Chemistry for Physical Science and Engineering II.
+Topics include solution chemistry, thermodynamics, kinetics, equilibrium (including acids and bases), electrochemistry, and nuclear chemistry. 
+/
+General Chemistry for Physical Science and Engineering III
+Topics in equilibrium, kinetics, acid-base chemistry, and molecular structure, contextualized within major sub-disciplines of chemistry. 
+/
+Cryptography Engineering.
+An introduction to the theory and practice of building secure, cryptographic systems. Core cryptographic primitives. Implementation, evaluation and subversion of widely deployed cryptographic products and protocols.
+/
+Introduction to Privacy: Policy and Technology.
+Introduction to policies and technologies related to digital privacy. Legal decisions and policies, domestic and global cultural expectations, and privacy related technologies including applications to surveillance, big data, websites, mobile, and privacy by design. 
+/
+Music Programming
+Music-producing programs. Software synthesizers: oscillators, coupled oscillators, wavetable synthesis. Sound processing units/filters: LTI, FIR, IIR, nonlinear. Physics of sound, mathematical foundations of sound synthesis and filtering, existing sound formats (both sampled and MIDI). 
+/
+Database Modeling, Design and Implementation
+The database modeling problem. Database modeling levels: external, conceptual, logical and physical. Database models: entity-relationship, relational, object-oriented, semantic, and object-relational. Normal forms. Distributed database design. Functional analysis of database applications and transaction specification, design, and implementation.
+/
+Introduction to Distributed Computing
+Introduction to distributed computing paradigms and cloud computing. Modern distributed computing infrastructures. Problem-solving in a distributed computing environment. 
+/
+Game Design
+In-depth study of game design including rules, player interaction, and storytelling. Exploration of effective use of sound, art, and game controls in creating meaningful play. Development of fully functioning and engaging games, following standard domain-specific software development processes and using physical prototyping and playtesting. Current, industry-tested game engines.
+/
+Introduction to Mixed Reality
+Project-based study and application of Mixed Reality (MR) topics including integrated mixed reality development environments, Human Computer Interaction (HCI) peripherals, 3D environment scanning, physics interaction, diminished reality, motion capture, facial recognition, and visualization hardware.
+/
+Interactive Entertainment Engineering
+Project-based, software oriented, introductory study of interactive entertainment. Discussion and evaluation of classic and historically influential games. Exploration of concepts in game design and development. Topics may include interactive storytelling, game physics, game AI, character development, animation, and development of virtual worlds.
+/
+Current Topics in Software Engineering
+Selected topics in software engineering. Topics may include program generation, quality assurance, formal methods, software metrics, design methods, testing, or software development processes. 
+/
+
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/

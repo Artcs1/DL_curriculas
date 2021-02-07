@@ -1,0 +1,450 @@
+ACADEMIC WRITING
+ACADEMIC WRITING
+/
+INFORMATION ADMINISTRATION
+The specialization course of Information Management, of the career of Sciences of the
+Computation is theoretical and practical and is aimed at students in the fifth cycle. He
+course seeks to develop general oral communication competence and specific competence
+to apply the design and development of principles in the construction of software systems of
+varied complexity according to ABET-Student Outcome (K).
+The course offers the possibility to learn good practices of Data Management with emphasis on
+treatment of manipulation of data of high dimension, multimodal and variants in time,
+such as image collections, document collections, music collections, social networks
+and multidimensional data sets in general. The course deals with the process of
+data acquisition, pre-processing, transformation, analysis, visualization and generation of
+knowledge that is very useful in the management of information in organizations.
+Oral Communication Ability to transmit oral messages effectively for various
+audiences, using different resources that facilitate the understanding of the message and achievement of the
+purpose.
+/
+ADVERTISING MANAGEMENT
+The Advertising Management course of the Strategic Marketing mention focuses on management
+strategic of offline and online advertising to strengthen the positioning of brands,
+products and services in order to attract and retain the consumer in the search to generate
+Branding and commercial results that maximize revenue to companies.
+Today with the development of the internet, 360 ° marketing campaigns involve a
+understanding of the multichannel integration of the media and the contact points of the
+consumer to develop advertising strategies that generate engagement and with high reach
+at the hearings to ensure the business results of the companies.
+/
+ALGORITHMS AND DATA STRUCTURES
+The main tools used today to solve problems of
+information processing and analysis in the industry, are nothing more than the combination of many
+Algorithms and data structures; know the design and operation of these structures of
+data help us develop and refine essential skills such as the ability to take
+decisions based on quantitative data of the constructed components.	
+/
+OPEN SOURCE APPLICATIONS
+It is important in the development of projects in the career as much as in the professional life because
+covers the implementation of web applications using Java EE and Spring Framework.
+/
+APPLICATIONS FOR MOBILE DEVICES
+At present, the degree of evolution of mobile devices has allowed them to
+become a support tool for various activities of daily life and in
+multiple business sectors, on the one hand for the benefits of mobile devices and the
+functionality that can be implemented in the applications that run on those
+platforms. There are several approaches to create mobile experiences, highlighting the
+native applications which provide the best possible experience taking advantage of the best of each
+platform.
+This course starts a journey through the various mobile application development strategies
+then focus on creating native experiences about two of the main
+mobile platforms: Android and iOS, so that students can develop their
+competencies in the creation of mobile solutions that use internal resources of the device,
+Store information and integrate with external services.
+/
+WEB APPLICATIONS
+In this course you will learn to implement Windows Forms and Web applications, using the
+Microsoft .NET technology (the C # programming language and development tool
+Microsoft Visual Studio 2015), make connections to a SQL Server database engine
+2014 and service-oriented architecture to develop high distributed systems
+complexity. This will allow you to consolidate the knowledge of the C # programming language to a
+advanced level in the end of cycle projects and also in the labor market which is very
+requested this kind of knowledge.
+/
+COMPUTER ARCHITECTURE AND OPERATING SYSTEMS
+The course performs an exploration from digital mathematics and digital circuits to
+main components of a computer's architecture such as processor (CPU), memory,
+buses, GPU, inputs and outputs (I / O). At the same time the system operation is established
+operational and its integration with real memory, virtual memory, processes, file systems,
+among others. As well as the various mathematical algorithms with which
+these components work both hardware and software
+/
+BIOENGINEERING
+Its purpose is to provide the future professional interdisciplinary links between the
+Life sciences and engineering. In turn, it allows to know the fundamentals of algorithms
+computational based on physiological systems and are currently highly
+used in information systems, such as genetic Algorithms and Networks
+artificial neural and also techniques of computational extraction of signals and images
+medical In addition, principles of biomedical instrumentation that includes analysis will be studied
+of analog circuits.
+/
+CALCULUS I
+Calculus I is a general course for all engineering careers; theoretical and is dictated in
+blended mode, is aimed at second cycle students, provides support
+Mathematical to the student for the following subjects specific to each specialty, for such
+reason the concepts of each topic are defined in a simple way, relating them to problems
+Engineering related.
+In this course the student will develop the general competence of quantitative reasoning, in
+level 1, through the dimensions of: interpretation, representation, calculation, analysis and
+communication or argumentation in simple problems of engineering contexts.
+/
+QUALITY AND IMPROVEMENT OF SOFTWARE PROCESSES
+The course covers the application of quality concepts, tools and methods for management and
+improvement of the life cycle processes of software and information systems, through the
+Extension of the scope of models and standards such as CMMI, ISO / IEC 29110, ISO / IEC 15504
+and ISO / IEC 12207. This allows the student to develop quality software with standards
+international
+/
+COMPETITIVE STRATEGY
+The strategist must be the most important actor and the one who must be in tune with the forces
+external (market) and internal forces (organization) who ultimately as a whole give
+Shape to business results. In that sense, the strategist must have a deep
+knowledge of the organization as well as the results that are presented in the outside world.
+To do this, you must manage the technique of engaging future business plans with the strategies of
+the organization applying leadership and organizational management, complements strengths of
+innovation and business management when executing a plan for the development of a new product. He
+This course has a practical perspective, it is developed as a workshop and it is oriented to the application of
+strategies through the cases of Harvard Business Publishing for the purposes of dynamic
+games.
+/
+ALGORITHMIC COMPLEXITY
+The Algorithmic Complexity specialty course, in Computer Science careers
+(CC) and Software Engineering (ISW), is theoretical-practical and is aimed at students
+fourth cycle for CC and sixth cycle for ISW. The course seeks to develop general competence
+Quantitative Reasoning and the specific competence of using techniques and tools
+in accordance with ABET - Student Outcome (I) for CC, and the specific competence of using
+modern engineering tools in accordance with ABET - Student Outcome (K) for ISW.
+The course addresses the mathematical basis for analyzing algorithms. It is intended that the
+student is able to identify the classes of existing algorithmic problems and address the
+Solution calculation with reasonable use of resources. This is very useful to solve
+problems of high levels of complexity that will be presented to him in his career projects and
+In your professional life.
+/
+UNDERSTANDING AND PRODUCTION OF LANGUAGE I
+It is a first cycle course, which seeks to develop the
+skills related to reading comprehension and writing formal written texts and
+appropriate to a specific communicative situation. Therefore, during the course, the activities
+they will require the student to reflect if they communicate properly according to the situation
+communicative in which it is: the student will not use the language in the same way to
+communicate with your friends, by writing an email to a teacher or submit a
+claim request before a private institution. In that sense, this course proposes the writing
+of formal written texts according to the communicative needs of the university environment
+current. These products must present a convenient organization, solid development and
+sufficient (which implies a critical reading of the sources of information), and a corresponding writing
+with current regulations.
+/
+ACCOUNTING AND BUDGETS
+The accounting and budgeting course will provide the student with the concepts of information
+Accounting and how it is used is in the decision making by managers.
+At the beginning of the course the accounting information to study will refer to the financial statements and the
+analysis of these for management decision making, the development of the
+cost concepts and will end with the analysis of the master budget
+/
+ADVANCED DEVELOPMENT WITH .NET
+In this course you will learn to implement Windows Forms and Web applications, using the
+Microsoft .NET technology (the C # programming language and development tool
+Microsoft Visual Studio 2015), make connections to a SQL Server database engine
+2014 and service-oriented architecture to develop high distributed systems
+complexity. This will allow you to consolidate the knowledge of the C # programming language to a
+advanced level in the end of cycle projects and also in the labor market which is very
+requested this kind of knowledge.
+/
+DESIGN THINKING
+The Design Thinking course has been designed with the purpose of allowing the future graduate
+develop empathy with the user and real knowledge of its needs for the
+Obtaining a problem solution in a disruptive way, through exploration and identification
+of the real needs of the user, the conception of the problem from their point of view and the
+Development of constant prototypes to validate the solution. This course, line integrator
+of Business Initiative
+/
+STRATEGIC MANAGEMENT
+This course provides the student with the necessary training for the development of the first
+stages of the strategic management process that consists of making advance decisions through
+of the strategic planning methodology and the formulation of strategies for its
+implantation. It will seek that students can make strategic diagnoses of both
+organizational environment as of the organization itself with an optimal search, selection and
+integration of information to design a business model that generates value, formulates
+viable strategies and prioritize the implementation of strategies over time by
+matrix and quantitative tools, closely relating the planning link and
+control of the strategic management process.
+/
+DISABILITY AND INCLUSION
+Disability and inclusion seeks to make the problems and challenges it demands visible to students
+disability in our society, as future professionals who will have the responsibility
+to innovate and manage inclusion policies. It is an elective course of general formation, of character
+Theoretical-practical, aimed at students from fifth to seventh cycle of all careers. Search
+develop the general skills of Citizenship and Critical Thinking.
+/
+DATABASE DESIGN
+The specialization course in Database Design, in Computer Science careers
+(CC), Software Engineering (ISW) and Information Systems Engineering (ISI), is of a character
+theoretical-practical and is aimed at students in the fourth cycle for the three races
+The knowledge acquired throughout the course is very important in the professional development of the
+student since the management of information in database is one of the pillars in training,
+Development and growth of any company in the market. This way they can be
+participants in the development and implementation of the most important asset of a company such as its
+Database.
+/
+DESIGN OF EXPERIMENTS IN SOFTWARE ENGINEERING
+The importance of the course is because it focuses on analyzing, designing and choosing the tools and
+appropriate techniques to run those tests with which it is most likely to discover no
+conformities in the entertainment software product. Free tools are used and
+owners for the administration of test projects, test plans, test cases,
+visualization of results and reports, defect management and automation of
+tests, and the necessary test processes are configured to guarantee and control the quality
+of the software This is necessary in the professional environment to offer quality software
+/
+SOFTWARE DESIGN AND PATTERNS
+In this course the student will have the first scope of how to organize a software process to
+create a software product considering development methodologies and best practices of
+programming and be able to provide the necessary knowledge for proper planning of the
+development cycle and proper management of the requirements of a software product in the
+professional world
+/
+GAME DESIGN
+The course will discuss various strategies for designing video games and prototypes of
+fast way, in order for the student to be able to perform game mechanics that
+meet the objectives of the game and optimize the production time of a video game through
+of prototyping learning. This is useful for both career projects and their
+professional performance in the world of video games.
+/
+SUSTAINABLE BUSINESS ENTREPRENEURSHIP impleme
+provide the student with the theoretical and practical knowledge and skills
+allow the optimal development of an entrepreneurial project in the business scenario
+current.
+/
+ENGLISH COMPOSITION 1
+ENGLISH COMPOSITION 1
+/
+SPECIFICATION AND ANALYSIS OF REQUIREMENTS
+Nowadays it is important to propose creative and innovative solutions to various problems
+that meet specific needs, this is largely obtained by performing an analysis and
+systematization of the requirements. Within the software development process, it should be
+begin with the collection of user needs, as well as a diagnosis of the situation
+Current business. This leads us to be able to describe prototypes or software models, project
+a specific product and analyze risks before developing it, optimizing resources and time.
+/
+APPLIED STATISTICS I
+The course is oriented to decision making about
+the basis of descriptive statistics, probabilities and interval estimation. For this the student
+must take into account relevant information that helps to draw conclusions and take
+decisions. The course considers the use of scientific calculators, the Excel spreadsheet or others
+Statistical packages as a support tool for data processing.
+The course of applied statistics 1 is intended to provide the future engineering professional
+a set of qualitative and quantitative information analysis tools for making
+decisions in real career situations. The course contributes directly to developing
+general powers of quantitative reasoning at a level 1.
+/
+NEGOTIATING STRATEGIES
+Negotiation is a tool that is important to know and develop because the conflict is
+is present in the different instances of relations with customers, suppliers,
+partners, interest groups among others. The course has been designed to favor the learning of
+negotiation techniques and strategies both through theoretical and practical classes that
+develop cases of different conflict situations in which knowledge will be applied
+provided in the theoretical classes. This dynamic will allow the student to develop their skills
+analytical and communicational in situations of conflict.
+/
+ETHICS AND CITIZENSHIP
+The course aims to contribute to the ethical and citizen learning of students by inviting them
+to know and explain ethical problems and your daily life. Given that this course
+It is done under the blended modality, various educational activities of type are proposed
+individual and group, both in face-to-face sessions and in virtual sessions, which means
+an active, organized and permanent participation by the students. The strategies to
+used include: reading and discussion of texts, analysis and evaluation of films and documentaries,
+resolution of cases, debates and exhibitions, virtual forums.
+/
+EVAL AND NEW TRENDS OF ARQ. OF SOFTWARE
+This course covers the analysis, design and documentation of software products at the level of a
+distributed architecture and cloud, which are currently booming. Thus,
+This provides a knowledge of the technological reality and allows the student to be at
+Vanguard.
+/
+SOFTWARE EVOLUTION
+Adapting to the new needs of the industry, in addition to the classic concepts of Management
+Configuration, the content is complemented with topics of the evolution process of the
+product, such as continuous integration and automated software deployment. Worth noting
+that the course is closely related to the issue of product quality control, and this will
+Allows the student to be prepared to control the quality of the N product displays
+in its N versions, in an automated way, very necessary for today's projects.
+/
+FINANCE AND ECONOMIC ENGINEERING
+The course provides knowledge about the world of analysis, mathematical calculation and development of
+Financial algorithms, therefore an integral vision of finance is developed. It will be introduced to
+student in the field of modeling financial instruments, developing algorithms
+that serve to create computer programs aimed at calculating mathematically, the
+profitability indicators that allow you to function successfully in the very demanding System
+International Financial
+/
+PHYSICS I
+The Physics I course develops quantitative reasoning competence at level 1, It is
+aimed at students of the third cycle for the careers of Civil, Electronic, Industrial Engineering,
+Mechatronics, Mining Management, Information Systems and Software and fourth cycle students
+For the careers of Business Management Engineering and Computer Science, it has
+Prerequisites such as Physics leveling and Calculation I. This course provides a solid conceptual basis
+of mechanics, which allows you to continue with the Physics II course of the Faculty of Engineering.
+/
+PHYSICS II
+The course provides the support of physical concepts required by the engineering student, necessary
+for subsequent subjects specific to each specialty. The purpose of the course is that the
+student analyze, quantify physical magnitudes, develop strategies and basic skills
+associated to the behavior of the fluid, the operation of thermodynamic systems and
+electrical using the laws of Physics.
+/
+PHYSICS III
+The course provides the support of physical concepts required by the engineering student, necessary
+for subsequent subjects specific to each specialty. The purpose of the course is that the
+student quantify physical quantities associated with the operation of systems
+electromagnetic and optical using the laws of physics.
+/
+FUNDAMENTOS DE ARQUITECTURA DE SOFTWARE
+El curso busca desarrollar las capacidades necesarias para que el estudiante realice el análisis y
+diseño de la arquitectura de un producto software, tomando como base las principales
+consideraciones relativas a atributos de calidad (requerimientos no funcionales), estilos y patrones
+arquitectónicos y la documentación de la arquitectura basada en las vistas arquitectónicas claves
+establecidas en la industria y muy necesarios para le profesional actual.
+/
+FUNDAMENTALS OF GAME THEORY
+This course the student implements a subsystem within the framework of the engine architecture of
+video game. By understanding the architecture of video game engines, students recognize
+the importance of implementing aspects of a video game such as rendering, input,
+animations, audio, among others. And by recognizing the importance of their implementation, they can
+seek to achieve better results in game development compared to games
+developed from previously existing engines.
+/
+FUNDAMENTALS IN BUSINESS INTELLIGENCE
+Nowadays companies, and organizations in general, produce high volumes of
+information as a result of its processes, which is not always used properly
+to support the decision making process. This course will focus on the identification of
+information exploitation opportunities based on datawarehouse solutions, and
+data visualization tools, promoting with them, knowledge development and
+the achievement of competitive advantages in organizations.
+/
+SOFTWARE PROJECT MANAGEMENT
+The student is trained to define and plan a software project according to the
+product requirements and established restrictions, control its execution and make the closing
+successful achieving the goals set. This knowledge acquired in the course serves the
+Last cycle workshops as for your professional performance.
+/
+AGILE PROJECT MANAGEMENT WITH SCRUM
+The course corresponds to the area of training in project management and work teams being
+theoretical-practical nature with greater emphasis on the practical part. It has as its purpose more
+important to provide the knowledge to be able to participate in "agile teams" and develop the
+management, communication and collaboration skills necessary for project development.
+/
+TALENT MANAGEMENT
+One of the most important challenges of organizations is to align the management processes of their
+human capital to the current and prevailing competitive demand. The competition for talent and
+New business models with a global approach have put people management and its impact
+in the results of the organization as a priority point in the agenda of the Managers
+Generals The course has been designed for students to learn tools
+practices and current people management so that, using an innovative approach, they can
+identify those that represent a value contribution in any of the resource processes
+humans of their respective careers.
+/
+IHC AND MOBILE TECHNOLOGIES
+The course will help students understand how to transition from what should be done?
+(functionality) towards how should it be done to meet user requirements (usability)
+in the specific context of work. To achieve this, the student will select the interfaces
+adequate (physical and virtual) seeking the best interaction schemes (forms, language
+natural, GUI¿s, etc.).
+/
+IMPLEM APPLICATION FOR DISP. ANDROID AND HTML
+This course focuses on the Android platform and will allow students to develop their
+competences in the process of design and development of multi-device mobile experiences on
+the Android system, creating functional experiences that take advantage of the resources of the
+device, handle information and integrate with external services.
+/
+APPLICATION IMPLEMENTATION FOR APPLE DEVICES
+This course focuses on the technologies offered by Apple at the level of mobile devices, wearable
+and IoT, allowing students to develop their skills in the design process and
+development of native multi-device experiences on iOS, watchOS and tvOS, coming to create
+functional experiences that take advantage of the resources of the device, manage information and
+integrate with external services.
+/
+SOFTWARE ENGINEERING
+Currently, it is necessary to know about software development processes. To get to
+To this end, students need to understand the different models and development processes of
+software in order that they can choose the most suitable model for each project of
+developing. Also, the development of complex software involves the use of patterns and design
+based on components, something that will be very necessary in the projects that are part of your
+professional work
+/
+ARTIFICIAL INTELLIGENCE
+Artificial Intelligence is the area of Computer Science that cares about
+Automate intelligent behavior. Research in the area has addressed tasks that go
+from sensory interactions with the world (vision, dialogue, movement) to cognitive
+(analysis, problem solving, games). AI helps people in different areas of the
+knowledge to use information better and work smarter.
+/
+LEADERSHIP AND SYSTEMIC THINKING
+The purpose of the course is aimed at the student developing competencies inherent in the
+leadership, recognizing their own style, considering that leadership is closely
+related to systemic thinking.
+/
+MARKETING STRATEGY
+The student will analyze in depth the main trends in marketing theory and explore
+how to develop value proposals that adapt to new technological trends
+digital Design of new management and sales models based on digital proposals
+disruptive Efficient and effective use of information for marketing management. Applications
+insights from Consumer insight and Customer Journey. Also, explore the changes in the channels
+of distribution, such as, the mobile revolution within the marketing strategy and how
+Maintain brand positioning in an omnichannel environment.
+/
+BASIC MATHEMATICS
+In this course the student will develop the general competence of quantitative reasoning, in
+level 1, through the dimensions of: interpretation, representation, calculation, analysis and
+communication or argumentation in simple problems of real context. At the end of the course the
+student will be able to work with alphanumeric data, represented in different ways
+(tables, graphs, etc.) and use them as arguments to support an idea or make decisions
+Based on this information.
+/
+COMPUTATIONAL MATHEMATICS
+Quantitative reasoning: Provides the ability to work with alphanumeric data and
+sometimes represented in graphic form. Apply them as arguments to support
+An idea or project. Performs mathematical operations showing, in most cases,
+precision in developments modeling everyday problems to obtain conclusions and
+build arguments based on valid results. ABET Outcome (a.2): They have the ability to
+apply concepts and techniques of mathematics, science and engineering obtaining results that
+solve problems of greater complexity, related to development, process improvement, and
+other aspects of the engineering field. 
+/
+DISCRETE MATHEMATICS
+It is convenient to appreciate the technological value of Mathematics in this century, since it is lived in
+full era of knowledge, digital era; available to everyone is digital technology
+(computers, digital cameras, smartphones, smart TVs, MP3, MP4,
+etc.) Algebraic coding theory is involved in communications so that the
+message arrives clearly, debit cards, credit cards are used, purchases are made by
+Internet; There is coding, data understanding and cryptography. Well, in
+All this is present in Discrete Mathematics, the foundation of all modern Theories of
+Information and Communication.
+/
+CONCURRENT AND DISTRIBUTED PROGRAMMING
+At present, the growth of computing capacity is due to multicore processors, graphic processors used for general purpose or computer clusters
+Distributed Master the techniques and tools to develop applications under a
+High performance computing perspective, gives us a competitive advantage in training
+student professional.
+/
+PROGRAMMING I
+The course allows the student to
+know the principles of structured and modular programming, write programs doing
+use of mathematical and / or scientific knowledge, use basic data types, structures of
+control, vectors, matrices, functions and pointers. The C ++ language is the one that will be used for
+coding of your programs. 
+/
+NETWORKS AND DATA COMMUNICATIONS
+This course develops the basic concepts of telecommunications, how they are carried out and the
+devices used to make it happen, which are necessary for the courses of
+project development, as well as to have a good management of networks and communication
+in large projects in his professional life
+/
+ACADEMIC RESEARCH SEMINAR I
+Its character is theoretical-practical and contributes to the development in level 1 of two general competences
+from our university: Information Management and Written Communication. Therefore, it plays a role
+formative and instrumental for both university and professional life, because feel the
+bases and provides experience in activities of academic research.
+/
+SQL SERVER
+In this course the student will be able to design, implement and manage database solutions
+oriented to companies, using Microsoft SQL Server 2012. as engine.
+Most computer projects need a solid database knowledge.
+/

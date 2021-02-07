@@ -1,0 +1,100 @@
+/
+INTRODUCTION TO AERONAUTICS
+Introduces students to the applied science of air-breathing atmospheric flight. The course describes airplanes and how they fly from a design and application perspective. Included are topics in fluid dynamics, airfoil and wing theory, aircraft performance, stability, structures, and aircraft design.
+/
+APPLICATIONS OF CYBER ENGINEERING
+This course focuses on the engineering aspects of cyber operations, cyber defense, and cyber attacks, as a follow-on to SY110. There are three main areas of study, including the host section (a single computer terminal), the network section, and the wireless communication section. Each area of study culminates in a detailed description of a common type of cyber attack and the defenses against it. Lecture material is reinforced and supplemented with labs/security exercise that demonstrate the theoretical concepts in an isolated, virtual environment.
+/
+FOUNDATIONS OF CHEMISTRY I
+The first in a two-semester sequence presenting the fundamental laws and theories of chemistry. Major topics include chemical stoichiometry, periodic trends, atomic structure, chemical equilibrium, thermodynamics, nuclear chemistry, electrochemistry and kinetics. The lecture material is complemented with experiments designed to develop the student's laboratory skills. Naval applications of chemistry are introduced throughout the courses to provide an awareness of chemistry in normal Navy operations.
+/
+FOUNDATIONS OF CHEM II
+This is the second in the two-course foundations of chemistry sequence. See SC111 for a general course description. In this version of SC112, naval applications of chemistry including body armor, corrosion, nuclear power, boiler water quality, aircraft deicing, and scuba diving will be emphasized.
+/
+CALCULUS I
+The first of a traditional two course sequence covering differential and integral calculus of one real variable and infinite series.
+/
+CALCULUS II
+Continuation of Calculus I.
+/
+CALCULUS III WITH VECTOR FIELDS
+Differential and integral calculus of several real variables; vector analysis including integral theorems.
+/
+GENERAL PHYSICS I
+The first of a two course sequence emphasizing the fundamental principles of classical physics and introduce a variety of applications. Topics include mechanics, electricity, magnetism, wave motion, fluids, sound and light. Lectures, recitations, hands-on laboratories, and large-scale demonstration lectures are employed.
+/
+GENERAL PHYSICS II
+GENERAL PHYSICS II
+/
+RHETORIC AND INTRO TO LITERATURE I
+The first of a two course sequence stressing the writing of rhetorically effective and grammatically correct expository prose. During the first semester students read essays, short stories and plays, and they write brief essays.
+/
+RHETORIC AND INTRO TO LIT II
+RHETORIC AND INTRO TO LIT II
+/
+AMERICAN NAVAL HISTORY
+This course examines the antecedents, origins and development of the United States Navy and Marine Corps within the framework of America's growth as a continental and, eventually, global power, with particular emphasis on the development of naval and maritime strategy.
+/
+THE WEST IN THE PRE-MODERN WORLD
+THE WEST IN THE PRE-MODERN WORLD
+/
+ASIA IN THE PREMODERN WORLD
+ASIA IN THE PREMODERN WORLD
+/
+U. S. GOVERNMENT AND CONSTITUTIONAL DEVELOPMENT
+Basic concepts of American democracy, the Constitution, political process, structure and functions of national government and factors influencing its operation; emphasis on legal and ethical demands placed on government officials, both civilian and military, as defined by the Constitution and statute.
+/
+INTRODUCTION TO NAVIGATION
+A comprehensive introduction to basic navigation concepts, voyage planning, and contact tracking on maneuvering boards. The course objective is to develop skills in the practical uses of the navigation chart. Midshipmen are introduced to the navigation chart format and associated plotting tools and techniques and learn the concepts of chart coordinates, while measuring and calculating distances, times directions and speeds.
+/
+BASIC NAVIGATION
+A comprehensive introduction to basic navigation concepts, voyage planning, and contact tracking on maneuvering boards. The course objective is to develop skills in the practical uses of the navigation chart. Midshipmen are introduced to the nautical chart format and associated plotting tools and techniques, learning the concepts of chart coordinates by measuring and calculating distances, times, directions, and speeds.
+/
+ADVANCED NAVIGATION
+ADVANCED NAVIGATION
+/
+Intro to Computer Science
+Introduction to algorithmic development, problem solving and software design. Principles and concepts to provide foundational knowledge and experience upon which later computing courses will build
+/
+Object-Oriented Programming
+This course builds on the procedural programming skills developed in the prerequisite course and introduces the student to object oriented programming and design principles using Java. Object oriented topics such as classes, inheritance, information hiding, polymorphism and dynamic binding are presented and used to create robust, reusable, and maintainable software
+/
+Computer Architecture and Organization
+This course introduces students to performance metrics, instruction set architectures, assembly language, logic design, memory hierarchies, and pipelining.
+/
+Systems Programming
+The study of an application's interface with the operating system. The operating system is treated as an information resource, and as a facilitator for information flow between processes, including those executing on separate machines. Topics include: process management, multiprogramming, and the basic concepts necessary to understand the design and operation of computer communication networks
+/
+Data Structures
+This course examines abstract data types (ADT), data structures, data representation and information management including storage structures, allocation and collection. ADTs and data structures presented include lists, stacks, queues, trees, heaps, priority queues, maps, dictionaries and graphs. Sorting and searching techniques, hashing and graph algorithm analysis are also covered.
+/
+Computer Networks
+The course presents the fundamental theoretical concepts, characteristics and principles of computer communications and computer networks, and analyzes and assesses these foundational concepts with respect to network performance and network design.
+/
+Web and Internet Programming
+Web site design and management, clients and servers, client and server side scripting languages, web transmission protocols
+/
+Applied Database Systems
+This course introduces the principles underlying Database Management Systems (DBMS) with a special emphasis on database management system structure and function when integrated with web-based database applications
+/
+Computer & Network Security
+This course is an introduction to the theoretical and practical facets of Computer Security to include: Department of Defense (DoD)/Department of the Navy (DoN) policies and directives, Trusted systems, Access mediation, Cryptography, Public Key Infrastructure (PKI), Information Warfare, Network security and Database security. Laboratory work will include student exercises demonstrating information assurance concepts culminating in a vulnerability analysis of given systems
+/
+Operating Systems
+The study of the operating system as a resource manager. This course begins with a brief overview of major evolutionary changes in OS design, then explores the interface between the OS and the architecture. It continues with discussions of processes, threads, concurrency, and synchronization, including scheduling and deadlock. Memory, I/O and files, security, and virtualization are also covered.
+/
+Software Engineering
+An introduction to the basic principles of software engineering. Structured, object-oriented, and formal approaches are studied, with emphasis on life cycles, object-oriented techniques and team-oriented software development
+/
+Research Seminar/Capstone
+Research Seminar/Capstone
+/
+Human Computer Interaction
+An introductory course emphasizing interactive software design, development and evaluation using a human-centered approach. Topics include aspects of human sensation, perception and cognitive psychology.
+/
+Enterprise Computing
+This course develops architectures and concepts for the development of multi-tier (typically 3 tiered) distributed applications for an entire organization or enterprise. This includes a user interface called the client tier or tier 1, a server component which is controlled by the organization and provides for interaction with and data collection from the user (tier 2) and a database component that stores transactions and updates client profiles (tier 3). The course teaches advanced techniques for network programming as well as server management and programming.
+/
+Advanced Database Systems
+This course will discuss advanced issues in database systems, including parallel, distributed and peer-to-peer databases, data warehousing and data mining, XML and service-oriented architectures. The course incorporates hands-on exercises using commercial database systems and products, as well as a web-database project
+/

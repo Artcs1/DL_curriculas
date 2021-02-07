@@ -1,0 +1,115 @@
+/
+Chemistry I
+This is a general chemistry course for students in engineering and nursing degree programs. Students will design and conduct experiments, analyze and interpret data and relate experimental results to theoretical understandings of chemical phenomena. Specifically, students will more thoroughly understand such subjects as atomic structure, periodic properties, basic chemical calculations, nomenclature, intra- and intermolecular forces, kinetic molecular theory, properties of gases, and solutions.
+/
+Software Development I
+This course provides an introduction to object-oriented software development using the Java programming language. Emphasis is placed on translating written problem descriptions into robust software solutions. Topics covered include Java program structure, algorithmic problem solving and modularization, I/O statements, control constructs, looping techniques, class libraries, user-defined classes and methods, arrays, and ArrayLists
+/
+Freshman Studies I
+This course emphasizes close reading of “texts,” including not only printed materials but also art, photographs, maps, film, music, and other documents. At the same time, this course requires students to shift focus from the “micro” level of a text to the “macro” level of its context in a way that allows them to understand a problem in terms of the larger system(s) of which it is part. Critical thinking skills are developed as students interpret and synthesize these “micro” and “macro” elements of text and context. Similarly, personal growth is encouraged as students make connections between course material and their own experiences, beliefs, and values. A primary course focus will be rhetorical strategies for communicating ideas clearly, concisely, and correctly. Students will engage in some form of civic activity in the form of experiential learning that involves the larger community and society outside of MSOE.
+/
+Calculus I
+This course begins with a short review of topics in algebra and trigonometry before introducing the student to differential calculus. Topics include algebra of functions, limits, continuity, differentiation of algebraic, trigonometric, exponential and logarithmic functions and application of the derivative to curve sketching and optimization problems.
+/
+Software Development II
+This course continues the study of objected-oriented software development using the Java programming language. Students design, document and implement software classes and incorporate these classes into larger applications. Topics covered include abstraction, encapsulation, declaring and implementing abstract data types, interfaces, inheritance, polymorphism, graphical user interfaces, simple event-driven programming, exception handling, and file I/O
+/
+Freshman Studies II
+This course introduces students to the principles of report structure and professional documentation.
+/
+Calculus II
+Topics include Newton’s method, differentials, basic integrals involving algebraic, trigonometric, exponential, logarithmic, and inverse trig functions. Topics also include rectilinear motion, work, areas and volumes of revolution, integration techniques such as integration by parts and partial fractions, and numerical integration methods. 
+/
+Physics I - Mechanics
+This course is a calculus-based introduction to mechanics. Topics include: linear and rotational kinematics and dynamics, work, energy, and momentum. The mathematical level of this course includes the use of vector algebra and elementary applications of differential and integral calculus. The laboratory part of the course emphasizes measurement precision, experimental technique,
+/
+Data Structures
+This course covers the organization of data and the algorithms that act upon them. The topics of arrays, linked lists, stacks, queues, trees, sets, and hash tables are introduced. Fundamentals of algorithm performance are also introduced, with an emphasis placed on time complexity analysis. Laboratory activities include implementation of data structures as well as the application of data structures from standard libraries.
+/
+Freshman Studies III
+Freshman Studies III
+/
+Calculus III
+Topics include LHopital rule, improper integrals, parametric equations, polar coordinates, vector algebra, infinite series with tests for convergence, power series, Taylor and Maclaurin series, and operations with series. 
+/
+Network Protocols
+This course provides an introduction to the principles and practice of computer networking with emphasis on the Internet and related protocols, including HTTP, FTP, POP, IMAP, SMTP, DNS, UDP, and TCP/IP with a focus on the application, transport and network layers. The course also introduces the structure, components, and functionality of network architectures including packet switching, error control, flow control, and congestion control
+/
+Discrete Mathematics I
+This course provides an introduction to discrete mathematics as it applies to computer science. Topics include sets, logic, relations, functions, recursion, Boolean algebra, and graph theory.
+/
+Software Engineering Tools and Practices
+This course provides an introduction to the software engineering tools and practices - a look at typical approaches software engineers use to create applications in practice. Topics include requirements analysis, high-level design, detail-level design, UML modeling, code generation, basic unit testing, application building, continuous integration, and revision management. Laboratory assignments provide an opportunity for students to develop an understanding of these tools and how they are used in actual practice.
+/
+Computer Organization
+This course provides students with an introduction to the structure of computer hardware, including the components of a modern computer system as well as the tradeoffs necessary to construct such a system. Specific course topics include Boolean Algebra, basic combinatorial logic, basic sequential logic, numeric systems, the role of performance in designing computer systems, Amdahl’s Law, instruction formats, addressing modes, computer arithmetic with both fixed and floating point numbers, single cycle and multi-cycle data-path design, pipelining, the memory hierarchy, and caching. Students will develop small, assembly language programs on a simulator as a means of exploring instruction formats and data-path operation. 
+/
+Software Component Design
+This course deals with the design and implementation of software subsystems. The concept of design patterns is introduced, and common patterns are applied to the development of software components. Laboratory projects provide an opportunity for students to implement components and to integrate them into complete systems. As a final assignment, small teams of students conduct research on software design patterns and present & demonstrate the results of their investigations to the class.
+/
+Web Application Development
+This course provides an introduction to web application development. Client- and server-side web technologies will be used to develop various web applications including simple web pages and forms, dynamic data-driven applications, web services applications, and highly interactive single-page applications. Topics covered include web application architecture, client- and server-side web development frameworks, HTTP, HTML, CSS, Bootstrap, JavaScript, AJAX, jQuery, Node.js, Angular, MongoDB, web services, single-page applications, and security
+/
+Organizational Behavior and Leadership
+Students will explore the challenges in organizations in terms of the interaction between human beings, groups, and the organizational contexts within which they work. This course combines the multidiscipline approaches of psychology, sociology, anthropology, and management to understand, predict, and manage behavior in organizations. The primary goal of this course is to understand the ways individuals, groups, organizational structures, and culture impact an organization’s effectiveness and how an organization impacts all of those concepts in return. Specific attention will be given to organizational behaviors, individual differences, employee fit, foundations of group behavior,
+/
+Programming in C and C++
+This course introduces students to additional scripted, procedural, and object-oriented programming languages including C and C++. Students are introduced to the concepts of compilation, memory management, linking, low-level types, efficient implementation of objects, and the Standard Template
+/
+Probability and Statistics
+This course provides a basic introduction to the laws of probability needed to perform statistical analyses. Both descriptive and inferential statistics are considered. Probability distributions, the Central Limit Theorem, confidence intervals, hypothesis testing, and analysis of variance are considered in depth.
+/
+Software Engineering Process I
+This course provides an introduction to the software engineering process and the management of software projects. Topics covered include the software life cycle, effort tracking, project planning, measurement and estimation, reviews and checklists, and software quality management
+/
+Introduction to Software Verification
+This course introduces students to the fundamental concepts of software verification. Topics covered include the activities within testing, coverage criteria, basic testing techniques and types, basic testability metrics, and the application of testing tools. Laboratory assignments provide extensive opportunities to apply software verification techniques and tools.
+/
+Database Systems
+This course introduces the theory and practice of database design and application, with an emphasis on relational models. Dimensional, non-relational, and other topical data models are introduced. Topics include SQL, database design using entity-relation modeling and normalization techniques, database application programming, object to relational mapping, authentication and access control, concurrency, and performance optimization.
+/
+Professional Guidance
+The objective of this course is to assist students in the transition from college life to professional life. The course provides students with techniques for and experiences in conducting a successful job search, preparing letters of application and resumes, and preparing for job interviews. It also examines the concepts of success, lifelong learning, and professional responsibilities. 
+/
+Software Engineering Process II
+This course provides a more in-depth discussion of agile software development and quality assurance processes including behavior-driven development and continuous integration. It also discusses alternative development models and current software engineering topics. Course concepts are reinforced by classroom exercises and homework assignments. 
+/
+Software Requirements and Specification
+This course covers activities that relate to the determination and documentation of software system requirements. Topics covered include requirements elicitation, object-oriented analysis techniques, prototyping, requirements tracking and re-engineering.
+/
+Operating Systems
+This course introduces students to the design and implementation of modern operating systems. Topics covered include the history of operating systems, process synchronization and scheduling, deadlock detection and avoidance, memory management, file systems, protection and security, and input/output systems. Students will be exposed to the POSIX interface through lecture and homework assignments. Students will see the construction of a simple operating system executing on a small microprocessor.
+/
+Discrete Mathematics II
+Emphasis is placed on concepts applied within the field of computer science. Topics include logic and proofs, number theory, counting, computational complexity, computability, and discrete probability.
+/
+Software Architecture
+This course provides an introduction to software architecture, the high-level design and structure of a software system, the discipline of creating such structures to satisfy quality requirements, and the documentation of these structures. Topics covered include quality attribute driven design; quality attribute design tactics; architectural styles and patterns; architecture tradeoff and cost-benefit analysis; skeletal system design, evaluation, and analysis; and coverage of contemporary topics in distributed, highly saleable software architectures
+/
+Algorithms
+This course extends the study of algorithms introduced in CS 2852. Topics covered include searching, sorting, selection, graph structures, traversal algorithms and P/NP complete problems. Applications such as data compression and optimization problems are also discussed.
+/
+Ethics for Professional Managers and Engineers
+This course examines and evaluates the meaning of ethics and professional conduct. A guiding theme is the human search or quest for values and ethical direction in terms of professional and/or personal conduct and our daily life relationships with others. We will articulate and evaluate our own ethical principles and values and their foundations.
+/
+Linear Algebra
+Topics include the use of elementary row operations to solve systems of linear equations, linear dependence, linear transformations, matrix operations, inverse of a matrix, determinants, subspaces, null spaces, column spaces, dimension and rank, eigenvalues and eigenvectors, diagonalization of matrices, and similarity
+/
+Software Development Laboratory III
+This is the third course in the software development laboratory sequence, in which students work on large-scale software projects. At this stage, students are expected to help define requirements for future project work and to contribute actively to laboratory process assessment and improvement.
+/
+Real-Time Systems
+This intense design course introduces students to software development for real-time systems, which often have stringent timing constraints that must be satisfied even under adverse circumstances. Real-time applications include flight control systems, vehicle control systems, industrial processes, life-support systems, robotic manipulators, and multimedia applications. Special attention is paid to scheduling, latency minimization, bandwidth constraints, and other design issues that impact the design of these systems. Laboratory assignments provide experience in the design and implementation of realistic applications using a real-time operating system and embedded
+/
+Senior Design Project I
+Senior Design Project I
+/
+Engineering Economy
+This subject is intended to provide the fundamental techniques for quantifying engineering and business decisions, especially those in which the time value of money is significant. It deals with cost, value, and work concepts and emphasizes the applications of funds invested in capital assets and facilities and the returns on such investments
+/
+Senior Design Project II
+Senior Design Project II
+/
+Senior Design Project III
+Senior Design Project III
+/

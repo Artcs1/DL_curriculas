@@ -1,0 +1,100 @@
+/
+Introduction to Programming in C
+Introduction to computer programming in C and its use in solving problems. Intended primarily for technical majors. Basic instruction in programming techniques, algorithms and standard Unix software development tools and utilities
+/
+Logic and Computing Devices
+Introduction to Boolean algebra and digital logic. Topics include number systems and representation of information; Boolean operators and algebra; expression minimization; combinational circuits, including adders, comparators, decoders and multiplexors; sequential logic, including flip-flops, shift registers, counters and memory
+/
+Electric Circuits I
+Study of DC resistive circuits, Kirchhoff’s Laws, Nodal and Mesh emphasis, sources, Thevenin’s and Norton’s theorems, RC, RL, RCL circuit solutions with initial condition using homogenous or nonhomogenous ordinary differential equations having constant coefficients. Develop sinusoidal steady state solution.
+/
+Logic and Computing Devices Laboratory
+Introduction to designing, building, simulating and testing digital logic circuits. Topics include SSI and MSI ICs; general combinational circuits; adders, decoders and multiplexors; general sequential circuits; shift registers, counters and memory
+/
+Electrical Engineering Laboratory I
+Principles of measurement and instruments used to measure parameters and dynamic variables in electric circuits, steady state and transient measurements in DC and AC circuits, and data analysis methods are included
+/
+Calculus of Several Variables
+Topics include real valued functions of several variables, multiple integration, differential calculus of functions of several variables, vector field theory
+/
+Physics with Calculus II
+Topics include thermodynamics, kinetic theory of gases, electric and magnetic fields, electric currents and circuits, and motions of charged particles in fields
+/
+Electrical Engineering Laboratory II
+Emphasizes measurement techniques in AC steady-state circuits and comparison to theoretical predictions. Two-port network methodology and transfer functions are studied experimentally and related to analysis using transform techniques.
+/
+Systems Programming Concepts for Computer Engineering
+Development of computer systems programming and code reading techniques. Tools, programming languages, libraries, operating systems, and hardware. Code reading is emphasized
+/
+Electric Circuits II
+Continuation of the study of electric circuits, including three-phase circuits, complex frequency and network functions, frequency response, two-port parameters, magnetically-coupled circuits, Laplace transforms, and ideal op amps.
+/
+Computer Organization
+Introductory course in computer organization and architecture. Topics include CPUs, memory, I/O, processor families, buses, peripherals, microarchitectures, and instruction sets.
+/
+Computer Organization Laboratory
+Laboratory enhances students’ understanding of computer organization via assignments involving assembly language programming. Topics include basic syntax, branching and loops, addressing modes, arrays and pointers, subroutines and stacks.
+/
+Introduction to Ordinary Differential Equations
+Introduction to the study of differential equations and their application to physical problems. Topics include exact, series, and numerical solutions; solutions by means of Laplace transforms; and solutions of systems of differential equations.
+/
+Computer Systems Engineering
+Analysis of implementation techniques for systems software. Applying engineering principles including code reading to the design of data structures and algorithms for low level computer systems, embedded systems, and hardware/software systems. Includes coverage of address translation, memory management, file systems, and process management.
+/
+Electrical Engineering Laboratory III
+Measurements and characteristics of electronic devices and circuits; use of manual and automated instruments to acquire data; oral and written engineering reports.
+/
+Electronics I
+Introduction to electronic materials and devices; principles of design; design of DC and AC circuits using diodes, bipolar junction transistors, field-effect transistors and use of transistors in digital circuits.
+/
+Signals, Systems, and Transforms
+Study of systems models, analysis of signals, Fourier series and transforms, sampling and Z transforms, discrete Fourier transforms.
+/
+Microcontroller Interfacing
+Discusses the programming and interfacing of microcontrollers in order to control their integrated devices and external peripherals. Topics include memory and I/O; interupts, counters and timers; ADCs and DACs; PWMs; and parallel and serial communication
+/
+Microcontroller Interfacing Laboratory
+Emphasizes microcontroller programming and interfacing for controlling various types of hardware. Topics include reading and writing to RAM, applications of a digital latch, keypad interfacing, interrupts, clock pulse generation, pulse width modulation, serial interfaces, and A-to-D and D-to-A conversion.
+/
+Linear Algebra
+Introduction to the algebra of matrices, vector spaces, polynomials, and linear transformations.
+/
+Random Signal Analysis
+Introduction to engineering problems of a probabilistic nature. Systems transformations, statistical averages, simulation, and estimation of system parameters
+/
+Introduction to Operating Systems
+Detailed study of management techniques for the control of computer hardware resources. Topics include interrupt systems, primitive level characteristics of hardware and the management of memory, processor, devices, and data.
+/
+Digital Computer Design
+Design of high-speed ALUs, control and timing circuitry, and asynchronous systems; hands-on system prototyping with HDLs for FPGA devices; current hardware topics related to computer design using modern design methodologies and CAD tools; and principles of system design for testability.
+/
+Programming Systems
+An advanced course in programming languages and systems for computer engineering and computer science majors. The course objective is to enable a more complete understanding of programming topics and related supporting tools, including philosophy, methodology, formal syntax and semantics, and examples of programming paradigms, languages and development approaches.
+/
+Discrete Mathematical Structures I
+Applies theoretical concepts of sets, functions, binary relations, graphs, Boolean algebras, propositional logic, semigroups, groups, homomorphisms, and permutation groups to computer characteristics and design, words over a finite alphabet and concatenation, binary group codes, and other communication or computer problems
+/
+Introduction to Human Communication
+Overview of theoretical approaches to the study of communication, including the theory and practice of interpersonal/small group/intercultural/public communication
+/
+Public Speaking
+Practical instruction in public speaking; practice in the preparation, delivery, and criticism of short speeches. Develops an understanding and knowledge of the process of communication
+/
+Introduction to Linear Control Systems
+Introduction to classical linear control systems. Topics include continuous and discrete descriptions of systems, time and frequency response, stability, system specification, system design of continuous and discrete systems
+/
+Integrated System Design I
+Considers engineering design of systems in a continuous process of project definition, planning, execution, and evaluation. This process includes consideration of both technical and non-technical factors in design. Strong emphasis is placed on the development of effective technical communications skills, particularly oral communications competency.
+/
+Technical Writing
+Intensive, project-based application of principles of audience, context, purpose, and writing strategies of technical writing: proposals, reports, communication deliverables.
+/
+Integrated System Design II
+Project-oriented course which brings together electrical and computer engineering students of dissimilar training in teams or project groups. Group assignments are designed to develop an appreciation for individual and creative thinking, as well as team effort
+/
+Arts and Humanities
+Arts and Humanities
+/
+Social Science
+Social Science
+/

@@ -1,0 +1,148 @@
+/
+English Composition
+This course focuses on the principles of using writing for thinking, as well as a tool for expressing ideas. It addresses the composing process, research and documentation, and rhetorical strategies for various audiences and purposes. /
+/
+Speech 
+Individual sections may focus on public speaking, group discussion, oral interpretation, or interpersonal communication.
+/
+Technical Report Writing 
+This course introduces students to the preparation of formal and informal technical reports, abstracts, proposals, instructions, professional correspondence and other forms of technical communication.
+/
+Western Humanities I: Antiquity and the Middle Ages
+Traces the evolution of the Western humanistic tradition from antiquity to the Middle Ages using examples from art, architecture, music, philosophy, and literature. Emphasizes writing, reading, and appreciation skills.
+/
+An Economic Survey
+An introduction to macro and microeconomic principles, problems, and policies with a view to current economic problems.
+/
+Microeconomics
+An introduction to the economic principles of free enterprise supply and demand, private and social implications of profit maximization, market structure, and resource markets. Current microeconomic issues in aviation (such as liability reform, evolution of airline competition, etc.) are discussed.
+/
+Scientific Programming in C 
+This is a course in C programming for scientists and engineers. Using a problem-solving approach for developing algorithms, the algorithms are implemented in C and include the following topics: data types and related operations, input/output, control structures, functions, arrays, files, and strings.
+/
+Calculus and Analytical Geometry I 
+Limits and continuity; differentiation and integration of algebraic and elementary transcendental functions; applications of first and second derivatives.
+/
+Calculus and Analytical Geometry II 
+Differentiation and integration of transcendental functions; special integration techniques; applications of the definite integral; numerical methods; infinite series.
+/
+Foundations of Biology I 
+A biological science course introducing the fundamentals of biology and essential structures, components, and processes of life. Emphasis placed on biochemistry; cell structure, function, organization, and division; sources and uses of biological energy; as well as genetics and inheritance.
+/
+ Foundations of Biology II 
+An introduction to organismal diversity, using the phylogenetic tree of life as an organizing theme. Emphasizes methods of phylogenetic reconstruction, current knowledge of the tree of life, and the evolution of life's most important and interesting innovations
+/
+Foundations of Biology I Laboratory 
+To present a study of the general characteristics and basic concepts of living organisms, which includes: the hierarchical organization of life, basic chemistry of life (inorganic and organic), cell types and structures, membrane structure and function, thermodynamics/energy flow, metabolic processes (photosynthesis & cellular respiration), the cell cycle, meiosis, and an introduction to genetics.
+/
+General Chemistry I  
+Fundamental principles of chemistry. Nomenclature, stoichiometry, atomic structure, periodic relationships, chemical bonding, geometry of molecules, properties of gases, chemical thermodynamics, and solutions.
+/
+General Chemistry I Laboratory 
+Topics include chemical stoichiometry; states of matter; solutions; thermodynamics.
+/
+Introduction to Engineering
+This course is an introduction to the interdisciplinary aspects of the engineering of aerospace systems. It is a project-based course, demonstrating how the engineering profession is a multi-disciplinary field. Students are involved in an array of conceptual exercises, simple design activities, and projects dealing with engineering in aerospace-related areas.
+/
+Physics for Engineers I 
+This course explores vectors and scalar quantities; kinematics; Newton's Law of Motion; work; work-energy; conversion of energy; conversion of momentum; center of mass and its motion, torque, equilibrium; and orbital motion.
+/
+College Success 
+A course in which students assess and develop the personal, interpersonal, intellectual, and social skills necessary to succeed in college. Time management, study skills, goal clarification, career information, and college resources are included. This course is available to freshmen only.
+/
+Digital Circuit Design  
+This course provides a knowledge and facility in logic design, interfacing digital circuits, Boolean algebra, combinatorial logic circuits, circuit minimization techniques, flip-flop storage elements, shift registers, counting devices, sequential logic circuits, state machines and computer structure.
+/
+Digital Circuit Design Laboratory
+Laboratory experiments in the measurement and verification of digital circuits. Discrete and integrated logic circuit design analysis and measurements.
+/
+Microprocessor Systems  
+Study of digital computer organizations. Introduction to microcomputer systems using a current microprocessor. Assembly language programming techniques for microcomputers will be used to study digital computer operation. Input and output techniques, memory devices, RS 232, and other interfacing techniques will be studied. Hardware and software relationships will also be discussed.
+/
+Microprocessor Systems Laboratory 
+Hands-on experience with a microprocessor is provided through weekly experiments involving hardware and software techniques.
+/
+Technical Report Writing  
+This course introduces students to the preparation of formal and informal technical reports, abstracts, proposals, instructions, professional correspondence and other forms of technical communication. Major emphasis is placed on the long technical report and the acquisition of advanced writing skills.
+/
+Introduction to Discrete Structures  
+An introduction to the fundamental algebraic, logical, and combinatorial concepts of mathematics that provide a foundation for the study of computer science.Pre-requisite: Experience in programming in a high-level language, pre-Calculus mathematics.
+/
+Computer Science II  
+This course emphasizes program design, style, data abstraction, information hiding, and testing; advanced programming features; and introduction to object-oriented concepts, basics of algorithm analysis, exception handling, string processing, recursion, pointers, and simple data structures. The course has a closed laboratory that includes activities dealing with the computing environment, the software development process, and programming exercises.
+/
+Data Structures and Analysis of Algorithms  
+This course emphasizes the design, implementation, and analysis of algorithms dealing with searching, sorting, graphs, trees, and disk files.
+/
+Physics for Engineers III  
+This course is a calculus-based study of the fundamental principles of classical mechanics. It is the third course of a three-semester sequence, intended for students of science and engineering and is designed to provide the student with an appropriate background for more advanced physics and engineering course work. Topics of discussion include electric forces; electric field; Gauss's law; Ohm's law; Ampere's law; Faraday's law; Lenz's law; Kirchhoff's law and Maxwell's equations; electric potential and electrostatic potential energy; capacitance; simple DC circuit theory; magnetic force, magnetic field; inductance; electromagnetic oscillations and wave propagation; linear accelerators; and cyclotrons.
+/
+Physics Laboratory for Engineers
+One three-hour laboratory session per week, with experiments complementing the material of PS 250. Primarily lab report writing workshop, error analysis, damped harmonic oscillations, spectrometers, optics, atomic physics, thermodynamics and circuit theory.
+/
+Software Engineering Practices  
+This variable credit course introduces students to the fundamental principles and methodologies of large-scale software development. Students learn about the theory and practice of software engineering and work as part of a team on a full life-cycle software project that includes planning, software specification, software design, coding, inspections, and testing. A closed laboratory is required, and includes activities that guide project teams through a software development process and support team project activities such as team building, planning, requirements analysis and specification, design, testing, and the use of tools.
+/
+Real-Time Systems  
+The course introduces the concepts of real-time systems from the user and designer viewpoint. The requirements, design, implementation, and basic properties of real-time application software are described with an overview of system software. Related topics such as interrupts, concurrent task synchronization, sharing resources, and software reliability are discussed. A team project on a real-time prototype application may be incorporated in the course.
+/
+Computer Architecture 
+This course describes in detail the Von Neuman computer architecture, which includes processors, memory, input/ output, and transfer of information; examples of machine language, assembly language, microprogramming, and operating systems will be discussed. Additional topics in advanced computer architecture and computer systems will be covered.
+/
+Files and Database Systems 
+Introduction to file and database systems. The course will cover the theory of database systems, various database models, and the design of a database system. Course homework will reflect real-life problems requiring cooperation, problem formulation, and problem-solving skills. A team/group term project may be assigned.
+/
+Organization of Programming Languages 
+A comparative study of different programming paradigms. Students program in several languages chosen to illustrate the essential features of the paradigms studied. Formal language concepts are also introduced.
+/
+Operating Systems  
+Development, structure, and functions of operating systems; demand service models; development of concurrent models.
+/
+Engineering Economics  
+An introduction to microeconomic principles, problems, and policies as well as basic financial principles such as time value of money, capital budgeting, and cost of capital. The course will provide the engineering graduate with the tools needed for success in the workplace.
+/
+Probability and Statistics  
+Finite sample spaces; conditional probability and Bayes Theorem, discrete and continuous random variables and their functions; expected value, variance, and standard deviation; systematic study of the major discrete and continuous distributions; moment generating functions; hypothesis testing and estimation.
+/
+Analysis and Design of Software Systems  
+This course focuses on the fundamental methods employed in the analysis and design of software systems. Analysis is the process of determining a complete and consistent set of system requirements. Design is the process of producing a system architecture, both logical and physical, and determining an appropriate way to construct the software. The result of these processes is a documented model of the desired system. The student will learn and practice methods appropriate for both object-oriented and procedural systems.
+/
+Software Construction  
+This course provides the student with advanced instruction in programming with an object-oriented programming language. The course objective is proficiency in use of a language widely used for general purpose software development. In addition, the student will be introduced to tools and processes appropriate for employing this language in a significant software development environment. Students attending this course must already be proficient in the use of one major programming language and have knowledge of basic software engineering practices.
+/
+Genetics 
+A study of the fundamental principles of inheritance and their application to plants, animals, fungi, and microorganisms.
+/
+College Algebra  
+This course focuses on fundamentals of exponents, radicals, linear and quadratic equations, inequalities, functions, graphing techniques, and complex numbers. It includes an introduction to function; curve sketching; elementary theory of equations; sequences and series; matrix algebra and systems of equations; linear; polynomial; logarithmic; exponential; inverse and composite functions; variation; and systems of equations.
+/
+Information and Computer Security 
+The course will start with an overview of the larger context of information security, including the "softer" aspects of personnel and operational security, and then delve into the technical basis and practical difficulties of COMPUSEC itself. This course is intended to be a required course in an Cyber Security Engineering minor or a technical elective for students majoring in Computer Science or Computer Engineering.
+/
+Software Modeling 
+This course focuses on the study of formal concepts and techniques used to model and analyze software artifacts (requirements, design, and code). The course includes a survey of mathematical modeling techniques used in software engineering. Course activities include reading, discussion, and exercises concerned with the use of formal mathematical models in software engineering. Examples include work on a formal specification project, study of concepts and technology of formal model checking, use of a formal modeling tool, and presentations on articles about recent work in application and research in formal methods.
+/
+Software Quality Assurance  
+This course exposes the student to the key concepts and practices in software testing and quality assurance. The objective of this course is to introduce students to the concepts of software quality through testing, inspection, and walkthrough. The process of software testing and different testing techniques and methodologies will be covered. This course also covers topics related to the management of a testing project. Finally, different software-testing tools and their advantages and disadvantages will be discussed.
+/
+Software Team Project I 
+Software Team Project I 
+/
+Software Team Project II
+Software Team Project II
+/
+Artificial Intelligence
+Introduces introductory topics of artificial intelligence and its application to real-world problems. Addresses tools and techniques including agent-based systems, problem solving algorithms, expert systems, fuzzy logic, feed forward back propagating artificial neural networks, and ethical issues of intelligent systems. 
+/
+World Literature  
+Major works and literary trends in world literature. Course content varies by instructor and is listed in the Schedule of Courses.
+/
+Digital Forensics  
+Locating evidence and recovering data using low-level techniques and tools. Preservation, identification extraction, documentation, and interpretation of computer data following clear, well-defined methodologies and procedures; details of various PC and server-based partitions as well as file systems such as FAT, NTFS, HFS, Ext*, and UFS*. File system and partition data structures.
+/
+Current Topics in Cybersecurity 
+Examination of the most recent, often still developing issues, in the field of cybersecurity; the course content depends on current trends at the time of offering.
+/
+Database Systems and Data Mining  
+Introduction to database systems and data mining. The course will cover the relevant theory of database systems, the usefulness of data mining, and the examination of current data mining efforts. Assignments, papers, and projects will reflect real-life use of data mining and provide perspective for managing data mining activities.
+/

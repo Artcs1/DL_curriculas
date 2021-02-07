@@ -1,0 +1,97 @@
+/
+Introduction to the University Experience
+Examination of the values that inform academic progress in the College; discussion of strategies for taking full advantage of academic opportunities and integrating formal and experiential learning.
+/
+Creative Media Application
+Multidisciplinary, project-driven learning process courses that encourages students to develop problem solving and teamwork skills while fostering creativity and logic. The goal is not only to provide students with some “programming maturity,” but to also engage them through working in small teams on existing projects related to their discipline and interest. Projects may include creative animations and games, mobile app developments, or avatars.
+/
+Analytic Geometry & Calculus
+Introduction to the differential and integral calculus; differentiation and integration of algebraic and transcendental functions with applications to science and engineering. Prerequisite(s): MTH 116 or equivalent.
+/
+Science w/lab
+Science w/lab
+/
+Writing Seminar I
+Introductory level course focused on writing as a mode of inquiry. Emphasis on developing college-level reading, writing, research, and critical thinking skills. Contributes to the Humanities Commons of CAP by introducing students to the shared academic practices of inquiry and discovery through writing.
+/
+Introduction to Religious and Theological Studies
+This course introduces students to two academic disciplines: the study of religions as historical and embodied realities, and theology as faith seeking understanding. By learning about these two disciplines, students will gain a critical self-awareness of the ways in which the modern context shapes their engagement with religion. The course emphasizes learning how to read Scripture and other primary religious sources, and to learning how the Catholic intellectual tradition addresses the question of God, the meaning of human life, and the significance of human diversity.
+/
+Algorithms & Programming I
+Introduction to computers and programming using a high-level, structured language. Topics include problem solving, algorithms, programming constructs, data representation, stepwise refinement, and debugging.
+/
+Analytic Geometry & Calculus II
+Continuation of MTH 168. Conic sections, techniques of integration with applications to science and engineering, infinite series, indeterminate forms, Taylor's theorem
+/
+Introduction to Religious and Theological Studies
+This course introduces students to two academic disciplines: the study of religions as historical and embodied realities, and theology as faith seeking understanding. By learning about these two disciplines, students will gain a critical self-awareness of the ways in which the modern context shapes their engagement with religion. The course emphasizes learning how to read Scripture and other primary religious sources, and to learning how the Catholic intellectual tradition addresses the question of God, the meaning of human life, and the significance of human diversity.
+/
+Introduction to Philosophy
+Introduction to philosophical reflection and study of some central philosophical questions in the Western intellectual tradition, including questions of ethics, human knowledge, and metaphysics. Readings from major figures in the history of philosophy such as Plato, Aristotle, Augustine, Aquinas, Descartes, Hume, and Kant.
+/
+Algorithms & Programming II
+Algorithms and Programming II covers object-oriented design and development, data abstraction, exception handling, linked lists, stacks, queues, binary trees, and recursion using a high level, structured language.
+/
+Discrete Structures
+Propositional logic, Boolean algebra, predicate logic, logical deductions, proof techniques, sets, combinatorics, recurrences, functions, relations, discrete structures such as graphs, digraphs, and associated algorithms
+/
+Analytic Geometry & Calculus III
+Solid analytic geometry, vectors and vector functions, multivariable calculus, partial derivatives, multiple integrals.
+/
+Writing Seminar II
+Variable topic composition course focused on academic discourse, research, and argumentation. Instruction and practice in developing reading, writing, and research skills introduced in ENG 100 and employed across the curriculum. Emphasis on rhetorical analysis and a process approach to writing effective academic arguments.
+/
+Social Science Integrated
+A theme-based course that varies across sections but shares common learning outcomes. Application of social science methods and social theory to critically examine human issues and problems from the perspective of at least three social science disciplines (anthropology, economics, political science, psychology and sociology). The course will emphasize outcomes related to scholarship, critical evaluation of our times, and the diversity of the human world.
+/
+Computer Organization and Architecture
+Machine and assembly language instructions, and writing assembly programs. Design of basic logic circuits needed in constructing a computer. Design of circuits for information encoding, arithmetic units, and transferring and storing information. Data path and control unit for a simple processor. Multiprocessing and alternative parallel systems.
+/
+Data Structures & Algorithms.
+Dynamic nonlinear data structures including trees, binary trees, search trees, balanced search trees, priority queues, and graphs, with an emphasis on their implementation, uses, and associated algorithms. Analysis of the computational complexity of algorithms related to these structures.
+/
+Matrix Theory and Applications
+Matrix Theory and Applications
+/
+Principles of Oral Communication
+Introduces the relationship between communication and democratic life in contemporary and historical context
+/
+Concepts and Implementation of Programming Languages
+Study of programming language concepts through the implementation of interpreters and assessment of the conceptual differences in the resulting languages. Concepts covered include syntax and semantics, regular and context-free grammars, parsing, binding, scope, parameter passing, lazy evaluation, types, currying, and continuations. A comparative survey of the imperative, functional, logical, and object-oriented paradigms of programming is presented.
+/
+Statistical Methods I
+Probability distributions including binomial, hypergeometric, Poisson, and normal. Estimation of population mean and standard deviation: Confidence intervals and tests of hypotheses using t-, Chi-square, and F-statistics.
+/
+Design and Analysis of Algorithms
+Introduction to order notation and algorithm analysis. Emphasis will be on learning algorithm design techniques such as divide and conquer, greedy approach, and dynamic programming through exposition of classical algorithms from domains such as sorting, string matching, and graph algorithms. Hardness of problems and introduction to the complexity classes P, NP, and NP-complete. Topics also include impact of computing techniques to the improvement or welfare of society as a whole
+/
+perating Systems
+Introduces the theoretical and practical concepts underlying an operating system's structure and operation. Topics include process and thread creation and management, scheduling, concurrent, multi-threaded programming and synchronization, deadlock, memory management, virtual memory, and computer security
+/
+Information Ethics
+Examination of ethical principles, codes, cases, incidents, and issues in the creation, use and distribution of information in and through various media. This includes issues in the ethical design, implementation, and use of computerized information systems.
+/
+Capstone I
+Capstone I
+/
+Capstone II
+Capstone II
+/
+Artificial Intelligence
+Fundamentals concepts and techniques of intelligent systems. Topics includes knowledge representation, search strategies, predicate logic, and expert systems.
+/
+Automata Theory
+Formal languages (regular, context-free, recursive, and recursively enumerable), machine models (deterministic and non-deterministic finite automata, push down automata, Turing machines), grammars (regular, context-free, and unrestricted), interplay among these concepts, Church-Turing thesis, and undecidability
+/
+Graph Algorithms
+Design and analysis of algorithms for problems based on graphs. Classical algorithms and efficient algorithms for restricted domains of graphs will be covered. Analysis of algorithms, complexity classes P, NP, and NP-complete, traversals, bi-connectedness, strongly-connectedness, 2-SAT, planarity testing, and algorithms for restricted classes of graphs.
+/
+Evolutionary Computation
+The history and use of Evolutionary Computation (EC) are explored. Popular approaches to EC (genetic algorithms, genetic programming, evolution strategies, evolutionary programming) are defined and discussed. Coursework includes implementation of evolutionary techniques and review and analysis of literature in the field
+/
+Problems in Computer Science.
+By arrangement. May be taken more than once for additional credit
+/
+Computer Graphics
+Introduction to primitives and interactive graphics software development. Topics include transforms, clipping, modeling, rendering, texture, animation, and ray tracing.
+/

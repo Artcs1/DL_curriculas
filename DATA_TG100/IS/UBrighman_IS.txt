@@ -1,0 +1,78 @@
+Principles of Accounting
+Financial and managerial accounting principles. Basic accounting statements, processes, and management applications. Open to all students.
+/
+Principles of Finance
+Financial management from the viewpoint of the business manager emphasizing profitability, liquidity, and long-range financial planning.
+/
+Introduction to Management Information Systems
+Create technology solutions to solve business problems. Learn database, analytics, spreadsheet, and programming skills useful to all business majors; preparing for a variety of internships.
+/
+Marketing Management
+Marketing's role in society and the firm, marketing opportunities, the consumer market, and management of marketing mix.
+/
+Introduction to Computer Programming
+Introduction to object-oriented program design and development. Principles of algorithm formulation and implementation.
+/
+Introduction to Computer Programming
+Object-oriented program design and development. Principles of algorithm formulation and implementation.
+/
+Economic Principles and Problems
+Strengths and weaknesses of markets and governments for solving problems of social organization or conflict, including policy response to inflation, unemployment, pollution, poverty, growth, etc.
+/
+Spreadsheet Skills and Business Analysis
+Basic spreadsheet skills focusing on features in MS Excel such as basic functions, logic and reference functions, statistical functions, what-if analysis, and charting to solve complex business problems. No technical background is necessary.
+/
+Communication in Organizational Settings
+Developing written and oral communications for professional organizations, including composing and designing employment communications. Incorporates oral presentations.
+/
+Principles of Statistics
+Graphical displays and numerical summaries, data collection methods, probability, sampling distributions, confidence intervals and hypothesis testing involving one or two means and proportions, contingency tables, correlation and simple linear regression.
+/
+System Analysis and Design
+Concepts and skills related to the systems development life cycle, including project management, planning, investigation, requirements definition, systems design. Tools and techniques of object-oriented analysis and design.
+/
+Database Systems
+Concepts and techniques of database system development, focusing on object-oriented modeling and its implementation methods.
+/
+Principles of Business Programming
+Programming business systems. Algorithms, data structures, programming patterns, and interfaces.
+/
+Information Systems Project Management
+Principles and skills of project management in an information systems context, including management of risk, schedule, scope, cost, quality control, communications, human resources, and procurement.
+/
+Data Communications
+Principles of data communications, local- and wide-area networks, hardware, software, media, standards, management, and business applications. Lab required.
+/
+Enterprise Application Development
+Client- and server-side programming. Internet and Web-based applications. Enterprise systems and architectures.
+/
+Information Systems Security and Controls
+Concepts and techniques for securing information systems and applying controls to business processes.
+/
+Predictive Data Analytics
+How to build, evaluate, and implement a variety of predictive models (e.g. recommendation engines, forecasting, prediction calculators, and text analytics) into information systems.
+/
+Information Systems Capstone with Predictive Analysis
+Introduction to machine-learning algorithms for predicting numeric and categorical outcomes, clustering and segmentation, anomaly detection, and model quality evaluation. Integration of prior course content into a capstone project.
+/
+Introduction to Global Supply Chain Management
+Introduces global supply chain management: how firms work with other firms, often foreign firms, to deliver value to customers. Topics include supply chain strategy, sourcing, supplier management, logistics, and quality management.
+/
+Introduction to Operations Management
+Operations Management is the administration of transformation processes that create value for customers by meeting their needs or enabling them to meet to their own needs, In this course we will explore the theory and tools related to several transformation processes, including demand management and forecasting, inventory management, project management, product and service design, and statistical process control.
+/
+Organizational Effectiveness
+Theories and concepts for creating effective organizations, e.g., individual, group, and organizational processes and human resource functions, including selection, compensation, and performance management.
+/
+Ethics for Management
+Analyzing ethical dilemmas and understanding ethical theories as they apply to decision making in management.
+/
+Strategy and Organization
+Concepts and tools of strategic management, with an emphasis on the contribution of organizational behavior and theory in the development of sustainable competitive advantages.
+/
+Business Law in the Environment
+Introduction to legal principles and institutions affecting business.
+/
+Finite Mathematics
+Language of set theory, counting and combinations. Probability theory, elementary stochastic processes, conditional probabilities. Repeated experiments, random variables, expectation, variance, linear equations, matrix algebra, application to economics or similar. Linear programming. Markov chains including applications.
+/

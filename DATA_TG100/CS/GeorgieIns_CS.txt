@@ -1,0 +1,359 @@
+Scientific Foundations of Health
+Students will learn how genetics, the environment and human behavior influence well-being. Topics include health fitness, immunity, nutrition, stress management and chronic disease prevention.
+/
+The Science of Physical Activity and Health
+Students will learn the importance of health fitness, good nutrition, stress management and chronic disease prevention. Activity portion of course will focus on training to improve fitness.
+/
+English Composition I
+Develops analytical reading and writing skills through the investigation of methods used in cultural and literary studies and the application of those methods to specific texts.
+/
+English Composition II
+Develops communication skills in networked electronic environments, emphasizes interpretation and evaluation of cultural texts, and incorporates research methods in print and on the Internet.
+/
+Humanities Elective
+Humanities Elective
+/
+The United States to 1877
+Colonial settlement, the American Revolution and the Constitution, antebellum expansion, slavery and plantation economy, sectional conflict and Civil War, Reconstruction.
+/
+The United States since 1877
+The social, political, and economic history of the United States since Reconstruction. Topics include American industrialization, two world wars, New Deal, and the Civil Rights movement.
+/
+Government of the United States. 
+The purposes, structure, and functions of national and state governments, focusing on participation, institutions, and the policy process. Foundations of law, civil rights and civil liberties, role of the media, parties and elections, and policy processes
+/
+American Constitutional Issues.
+Examines the American social and political system through the prism of Constitutional issues decided by the U.S. Supreme Court.
+/
+American Government in Comparative Perspective.
+Examines American government in relation to other political and economic systems in countries around the world.
+/
+Transfer Non-Calc Phys I.
+Transfer Non-Calc Phys I.
+/
+Introductory Physics I.
+A calculus-based course with a laboratory covering classical mechanics, applications of classical mechanics, oscillations, and waves.
+/
+Introductory Physics II.
+A calculus-based course with laboratory covering electromagnetism, applications of electromagnetism, light, and modern physics.
+/
+Introduction to Environmental Science
+Introduction to environmental field science. Case study approach. Exposure to basic field equipment and techniques, analysis of data.
+/
+Habitable Planet
+Introduction to the origin and evolution of Planet Earth, creation of the universe and the elements, early history of Earth, radioisotope geochemistry and the timing of events in the universe, the galaxy, and on Earth. Formation of the atmosphere and oceans. Climate.
+/
+Earth Processes.
+An introduction to earth materials and processes.
+/
+General Chemistry
+Fundamental laws and theories of chemical reactions. Topics include atomic structure; bonding theory; stoichiometry; properties of solids, liquids and gases; chemical thermodynamics; electrochemistry; and kinetics
+/
+Chemical Principles I
+Topics to be covered include atomic structure, bonding, properties of matter, thermodynamics and physical equilibria. Laboratory exercises supplement the lecture material
+/
+Chemical Principles II
+Topics to be covered include chemical equilibria, acids and bases, aqueous equilibria, electrochemistry, kinetics, main group and transition elements
+/
+Biology of Sex & Death
+Students learn biology through the lens of the formation and collapse of biological systems, organized around questions pertaining to life, sex, and death.
+/
+Biological Principles
+An introduction to the basic principles of modern biology, including biomacromolecules, bioenergetics, cell structure, genetics, homeostasis, evolution, and ecological relationships.
+/
+Introduction to Organismal Biology.
+An introduction to biology at the organ and organismal levels, with emphasis on physiological processes and integration of growth and development.
+/
+Differential Calculus
+Differential calculus including applications and the underlying theory of limits for functions and sequences
+/
+Integral Calculus
+Integral calculus: Definite and indefinite integrals, techniques of integration, improper integrals, infinite series, applications.
+/
+Linear Algebra
+Linear algebra eigenvalues, eigenvectors, applications to linear systems, least squares, diagnolization, quadratic forms.
+/
+Introduction to Multivariable Calculus
+Vectors in three dimensions, curves in space, functions of several variables, partial derivatives, optimization, integration of functions of several variables.
+/
+Applied Combinatorics
+Elementary combinatorial techniques used in discrete problem solving: counting methods, solving linear recurrences, graph and network models, related algorithms, and combinatorial designs.
+/
+Introduction to Probability and Statistics
+This course is a problem-oriented introduction to the basic concepts of probability and statistics, providing a foundation for applications and further study.
+/
+Probability and Statistics with Applications
+Introduction to probability, probability distributions, point estimation, confidence intervals, hypothesis testing, linear regression and analysis of variance.
+/
+Statistics and Applications.
+Introduction to probability, probability distributions, point estimation, confidence intervals, hypothesis testing, linear regression, and analysis of variance.
+/
+Probability with Applications
+Topics include conditional probability, density and distribution functions from engineering, expectation, conditional expectation, laws of large numbers, central limit theorem, and introduction to Poisson Processes.
+/
+Basic Statistical Methods
+Point and interval estimation of systems parameters, statistical decision making about differences in system parameters, analysis and modeling of relationships between variables.
+/
+Computing, Society, and Professionalism
+Examines the role and impact of information and communication technology in society, with emphasis on ethical, professional, and public policy issues.
+/
+Robots and Society
+Examines the role and impact of robotics, distributed sensing and actuation, ubiquitous computing and related technology in society, emphasizing ethical, professional and public policy issues
+/
+Privacy, Technology, Policy, and Law
+This course takes a multi-disciplinary approach to privacy, a topic of great interest in the technology, policy, ethics, law, and business realms.
+/
+Technology and Sustainable Community Development
+This course will explore the role of technology in the development of sustainable communities, locally and internationally.
+/
+Part 1 of a 2 semester project design and implementation sequence conjoined with Tech Communications
+Part 1 of a 2 semester project design and implementation sequence conjoined with Technical Communications. Prepare requirements, design and project plans. Develop a basic prototype of the desired system.
+/
+Part 2 of a semester project design and implementation sequence conjoined with Tech Communications.
+The second part of a 2 semester project design and implementation sequence conjoined with Technical Communications
+/
+Technical Communication Approaches
+Part of a multi-semester sequence that students take in tandem with major-specific classes to develop professional written, visual, oral, and analytic strategies.
+/
+Technical Communication Strategies
+Part of a multi-semester sequence that students take in tandem with major-specific classes to develop professional written, visual, oral, and analytic strategies.
+/
+Technical Communication, Theory and Practice
+This course introduces students to workplace document genres to develop visual and verbal skills in critical analysis and document development.
+/
+Undergraduate Research Proposal Writing
+This course is intended to guide undergraduate students from all disciplines through the stages of writing a proposal for their research option project and thesis.
+/
+Undergraduate Research Thesis Writing
+This course is intended to guide undergraduate students from all disciplines through the stages of writing their undergraduate thesis.
+/
+Freshman Leap Seminar
+Small group discussions with first year students are led by one or more faculty members and include a variety of foundational, motivational, and topical subjects for computationalist.
+/
+Introductory Computing in MATLAB
+For students with a solid introductory computing background needing to demonstrate proficiency in the MATLAB language.
+/
+Introduction to Computing
+Introduction to computing principles and programming practices with an emphasis on the design, construction and implementation of problem solutions use of software tools.
+/
+Introduction to Media Computation
+Introduction to computation (algorithmic thinking, data structures, data transformation and processing, and programming) in a media and communication context.
+/
+Representing Structure and Behavior
+Modeling the structure of media (e.g., music, graphical scenes) using dynamic data structures. Designing objects as encapsulations of structure and behavior. Algorithms for simulating objects.
+/
+Introduction to Object Oriented Programming
+Introduction to techniques and methods of object-oriented programming such an encapsulation, inheritance, and polymorphism. Emphasis on software development and individual programming skills.
+/
+Data Structures and Algorithms for Applications
+Computer data structures and algorithms in the context of object-oriented programming. Focus on software development towards applications.
+/
+Computing for Engineers
+Foundations of computing with an introduction to design and analysis of algorithms and an introduction to design and construction of programs for engineering problem-solving.
+/
+Introduction to Discrete Mathematics for Computer Science
+Proof methods, strategy, correctness of algorithms over discrete structures. Induction and recursion. Complexity and order of growth. Number theoretic principles and algorithms. Counting and computability
+/
+Honors - Induction to Discrete Mathematics for Computer Science
+Proof methods, strategy, correctness of algorithms over discrete structures. Induction and recursion. Complexity and order of growth. Number theoretic principles and algorithms. Counting and computability
+/
+Computer Organization and Programming
+An introduction to basic computer hardware, machine language, assembly language, and C programming.
+/
+Computer Systems and Networks.
+A broad exposure to computer system structure and networking including software abstractions in operating systems for orchestrating the usage of the computing resources.
+/
+Media Device Architectures.
+Controlling the interface between hardware and software in media devices. Machine-level programming (e.g., in C) to create graphics, generate sound, and support user interaction.
+/
+Data Manipulation for Science and Industry.
+Reading, manipulating, and exporting data for engineering, business, and scientific applications. Covers GUI's, File I/O, basic SQL, and web scraping. Emphasis on software development.
+/
+Objects and Design
+Object-oriented programming methods for dealing with large programs. Focus on quality processes, effective debugging techniques, and testing to assure a quality product.
+/
+Computer Science Ventures
+Students will learn how computer-science-based ventures are developed. The course is project-based. Students propose, analylze, pitch, design, implement, package and market web-2.0 and virtual-world-based products and services.
+/
+Design of Operating Systems
+Operating systems concepts, including multi-threading, scheduling, synchronization, communication, and access control. Projects will cover design and implementation of several operating systems components.
+/
+Computer Structures: Hardware/Software Codesign of a Processor. 
+Principles in pipelined processor design, with emphasis on the need for a close interaction between code generation and architecture.
+/
+Languages and Computation.
+Interpreters as abstract machines and the tools used to construct them, such as scanners and parsers. An introduction to models of computation as embodied by different programming languages. Limits of and relationships between these models.
+/
+Computer Networking I
+Introduction to problems in computer networking, including error recovery, medium access, routing, flow control, and transport. Emphasis on current best practice. Includes programming of networked applications.
+/
+Introduction to Software Engineering
+Team-based project class to introduce and apply software engineering principles and practices.
+/
+Computer Graphics.
+Geometric constuctions; transformations; perception; reflection models; photorealistic; non-photorealistic, and image-based rendering; rendering software and API's; triangle-mesh processing; graphic acceleration; user-interaction, design and animation.
+/
+Design and Analysis of Algorithms
+Basic techniques of design and analysis of efficient algorithms for standard computational problems. NP-Completeness.
+/
+Introduction to Perception and Robotics
+Covers fundamental problems and leading solutions for computer and robot perception and action from the point of view of autonomous robot navigation.
+/
+Prototyping Intelligence Appliances.
+Hands-on course teaching the fundamentals of electronics of electrical and mechanical prototyping.
+/
+Analysis of Emerging Technologies
+Analysis of emerging technologies and their impacts for firm practice, market practice, policy, and society.
+/
+Human Computer Interface Design and Evaluation
+Human computer interface is considered in terms of user-system compatibility. Concepts in human factors and interface design are covered in relation to capabilities of both humans and computers.
+/
+Introduction to Cognitive Science.
+Multidisciplinary perspectives on cognitive science. Interdisciplinary approaches to issues in cognition, including memory, language, problem solving, learning, perception, and action
+/
+Advanced Operating Systems
+Operating system abstractions and their implementations, multi-threading, efficient inter-address communication, high-level synchronization, introduction to multi-processor and distributed operating systems, real-time systems.
+/
+Programming Embedded Systems
+Design principles, programming techniques, and case studies of embedded real-time systems. Interface techniques and devices. Representations and reasoning about physical processes.
+/
+Introduction to Information Security
+Terms/concepts, threats, controls; problem definition; comprehensive information security model; security for operating systems, databases, network/distributed systems; administering security; legal/ethical/policy issues. 
+/
+Computer and Network Security
+Fundamental concepts and principles of computer security, operating system and database security, secret key and public key cryptographic algorithms, hash functions, authentication, firewalls and intrusion detection systems, IPSec ad VPN, and wireless security.
+/
+Compilers, Interpreters, and Program Analyzers
+Study of techniques for the design and implementation of compilers, interpreters, and program analyzers, with consideration of the particular characteristics of widely used programming languages.
+/
+Computer Networking II
+Principles of computer networks, including medium access, ARQ protocols, routing, congestion avoidance, and control. Emphasis on design options and tradeoffs. Includes significant network application programming.
+/
+Introduction to Network Management
+Introduction to SNMP-based network management. Practical application to network and system management including hands-on lab practice.
+/
+Mobile Applications and Services for Converged Networks
+This course provides an introduction to mobile applications and services with an emphasis on voice and data service integration in modern commercial networks.
+/
+Data Communications Laboratory
+Detailed study of the principles of data transmission systems and their performance, reinforced by laboratory exercises.
+/
+Advanced Computer Organization
+Topics concerning the hardware design of computer systems. Advanced techniques in high-performance pipelined central processing units. Memory and I/O systems. Parallel processors including shared-memory multiprocessors and cluster computers. 
+/
+Introduction to Database Systems
+Comprehensive coverage of mainstream database concepts such as the entity-relationship model, relational databases, query languages, and database design methodology. Includes a project. 
+/
+Database System Implementation
+Study of fundamental software components/algorithms of a database system, including the file manager, query engine, lock manager, and recovery manager. Includes a project component.
+/
+Emerging Database Technologies and Applications
+The course will cover current developments including distributed, object-oriented, temporal-spatial, Web-based, mobile, and active database technologies, and data warehousing and mining applications.
+/
+Video Game Design and Programming
+Techniques for electronic game design and programming, including graphics game engines, motion generation, behavioral control for autonomous characters, interaction structure, social and interface issues of multi-user play, and the business aspects of game development
+/
+Introduction to Information Visualization
+Introduction to principles and techniques of infomation visualization, the presentation of primarily abstract data to help people understand, analyze and make sense of data. 
+/
+Computational Journalism
+A study of computational and technological advancements in journalism with emphasis on technologies for developing new tools and their potential impact on news and information.
+/
+Introduction to User Interface Software.
+Concepts, techniques, structures, and strategies for implementation of interactive software.
+/
+Design of Online Communities
+Introduction to the design of online communities. Students study an existing community in depth
+/
+Computational Photography.
+An introductory course on the scientific, technical, perceptual, and aesthetic principles of pictures. Emphasis is on the techniques of image formation, analysis, merging, modification and their use for depiction of reality on a 2D medium of photographs.
+/
+Introduction to Computer Vision.
+Introduction to computer vision including fundamentals of image formation, camera imaging geometry, feature detection and matching, stereo, motion estimation and tracking, image classification and scene understanding
+/
+Digital Video Special Effects
+A study of digital multimedia and the analysis and synthesis of digital video. Special attention paid to techniques for generating video special effects.
+/
+Computer Animation
+Motion techniques for computer animation and interactive games (keyframing, procedural methods, motion capture, and simulation) and principles for storytelling, composition, lighting, and interactivity.
+/
+Automata and Complexity Theory
+Computational machine models and their language classes. Undecidability. Resource-bounded computations. Central complexity-theoretic concepts such as complexity classes, reducibility and completeness
+/
+Advanced Algorithms
+Advanced techniques for designing and analyzing efficient algorithms for combinatorial, algebraic, and number theoretic problems.
+/
+Principles and Applications of Computer Audio
+A well-rounded exploration of digital audio and its importance in current research and applications. Exposes students to the principles, technology, and current research of computer audio.
+/
+Mobile and Ubiquitous Computing
+Investigates the infrastructure required to develop mobile and ubiquitous computing applications and establishes major research themes and experimental practices.
+/
+Knowledge-Based Modeling and Design
+nformation-processing theories of modeling and design; topics include design decision-making, problem-solving and learning, and knowledge-based modeling and design.
+/
+Advanced Intelligent Robotics
+Hands-on course in which students program autonomous mobile robots and solve complex tasks for robot teams.
+/
+Knowledge-Based Artificial Intelligence
+Structured knowledge representation; knowledge-based methods of reasoning and learning; problem-solving, modeling and design.
+/
+Machine Learning
+Machine learning techniques and applications. Topics include foundational issues; inductive, analytical, numerical, and theoretical approaches; and real-world applications.
+/
+Robot Intelli Planning
+We investigate algorithms for robots and complex systems that make intelligent decisions. Emphasis on the theoretical and empirical properties of classical, geometric, stochastic/dynamic planning.
+/
+Natural Language Understanding
+Methodologies for designing systems that comprehend natural language. Topics include lexical analysis, parsing, interpretation of sentences, semantic representation, organization of knowledge, and inference mechanisms.
+/
+Introduction to Educational Technology
+Introduction to the theory and practice of educational technology. Covers learning theory applicable to educational technology, explains major research findings.
+/
+Computer-Supported Collaborative Learning
+Research and practice in computer-supported collaborative learning. Review of existing systems and research, as well as evaluation and design methods.
+/
+Internet Computing Systems, Services and Applications.
+Focusing on fundamental issues, concepts, techniques, and technical challenges that are critical for designing and developing Internet systems, services and applications. 
+/
+Empirical Methods for User Interface Design and Evaluation
+Introduction to empirical methods for gathering requirements and evaluating the end-user and usability of software systems.
+/
+Information Security Strategies and Policies
+Information security vulnerabilities and risks; legal, cost, privacy, and technology constraints; derivation of strategies; technical and procedural means of achieving desired results.
+/
+Privacy, Technology, Policy, and Law.
+This course takes a multi-disciplinary approach to privacy, a topic of great interest in the technology, policy, ethics, law, and business realms
+/
+Game AI
+Examines the expressive possibilities of artificial intelligence techniques in computer games. Students learn AI programming techniques, and how they strongly interface with game design.
+/
+Philosophical Issues in Computation
+Metaphysical and epistemological issues in the foundations, methods, and implications of computing. Issues include: minds, brains, and machines; representation and language; simulating nature.
+/
+Mixed Reality Experience Design
+Focuses on informal design, integration of media theory, HCI and technology issues. Significant group design projects.
+/
+Computational Problem Solving for Scientists and Engineers
+Computing principles, computer archietecture, algorithms and data structures; software development, parallelism.
+/
+Computational Modeling Algorithms
+Design, analysis and implementation of algorithms for modeling natural and engineered systems; algorithm experimentation, and optimization.
+/
+Introduction to High Performance Computing
+Design of algorithms and software for high performance computing platforms used in computational science and engineering. Topics include parallelism, locality, machine architectures, and programming.
+/
+Computer Simulation
+Algorithms and techniques for creating computer simulations and their realization in software
+/
+Simulation and Military Gaming
+Creation and use of modeling and simulation tools to analyze and train students regarding strategic events in international relations.
+/
+Introduction to Computing for Data Analysis
+Computational techniques needed for data analysis; programming, accessing databases, multidimensional arrays, basic numerical computing, and visualization; hands-on applications and case studies.
+/
+Numerical Analysis I
+Introduction to numerical algorithms for some basic problems in computational mathematics. Discussion of both implementation issues and error analysis.
+/
+
+

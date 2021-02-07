@@ -1,0 +1,103 @@
+/
+Rhetorical Communication
+This course provides students with the knowledge and skills necessary for successful, goal-driven written, oral, and visual communication in academic and professional contexts.  All subjects and professional fields require effective (i.e., rhetorical) communication directed at well-defined audiences to explain information and to offer a compelling rationale, and this course illustrates the process-oriented approach needed to achieve rhetorical objectives.  Rhetorical Communication also introduces students to the knowledge-producing and critical thinking potential of language, the impact of technology on language and information, and the nature of communication as ethical action.
+/
+General Chemistry I
+This introductory Chemistry course is recommended for all science and Engineering majors as well as Clinical Lab Science, Pre-medical, Pre-dental, Pre-veterinary, and Pre-pharmacy majors. The course includes an introduction to stoichiometry, atomic structure, chemical bonding, properties and reactions of inorganic compounds, introductory thermodynamics, acids and bases, and oxidation-reduction reactions
+/
+EPADS I
+This course has two concurrent parts. First, students are introduced to engineering design, team development, problem-solving, and a team design project, which requires the students to create, design, and build simple electrical and mechanical devices that perform specific functions subject to defined constraints. Second, students develop engineering skills, such as how to create solid models (using software such as SolidWorks™) and how to apply basic electrical, mechanical and computer engineering concepts and techniques.
+/
+First-Year Seminar
+This course helps prepare new students for the creative, interdisciplinary, and rigorous modes of inquiry that characterize a York College education.  The First-Year Seminar is intended to create a sense of intellectual community for students and faculty, to emphasize attainment of key learning outcomes, to introduce students to college-level rigor and expectations, to encourage the academic growth of students, and to purposefully expose students to a variety of co-curricular experiences and resources available at York College.
+/
+Calculus I
+Both a theoretical and an applied approach to physics and engineering are emphasized in this in-depth study of introductory calculus topics. The topics of the course include a review of algebra and trigonometry, limits, differentiation, and applications of the derivative. Prerequisite: A strong background in algebra and trigonometry or precalculus. Placement is based on MSAT score and high school math background.
+/
+Fundamentals of Computer Science I
+This course introduces the fundamental techniques of algorithm design and program construction using procedural constructs. Topics will include problem analysis; algorithm design; and implementation and debugging strategies using good programming practices. The course will cover basic data structures including variables, arrays, strings, records, and pointers; and control structures including decisions, iterations, functions, and file I/O. The course will focus on applications from computer science and engineering using C/C++/C#.
+/
+Introduction to Electrical Engineering
+This course introduces students to the basic concepts of electrical engineering while developing the measurement and instrumentation skills necessary for electrical and computer engineers.  Topics include voltage, current, power, DC circuit analysis and circuit transient response.  Students will learn hands-on skills such as operation of oscilloscopes and function generators, circuit bread boarding, soldering, component selection and arrangement.  A combination of laboratory exercises and mini-projects will be based on practical real-world applications, introducing students to the sub-disciplines within electrical engineering.
+/
+Rhetorical Communication
+This course provides students with the knowledge and skills necessary for successful, goal-driven written, oral, and visual communication in academic and professional contexts.  All subjects and professional fields require effective (i.e., rhetorical) communication directed at well-defined audiences to explain information and to offer a compelling rationale, and this course illustrates the process-oriented approach needed to achieve rhetorical objectives.  Rhetorical Communication also introduces students to the knowledge-producing and critical thinking potential of language, the impact of technology on language and information, and the nature of communication as ethical action
+/
+Calculus II
+Topics in this second course in calculus include the definition and theory of the definite integral; numerical integration; integral applications; the calculus of logarithms, exponential, inverse, and hyperbolic functions; techniques of integration; and applications of the integral to physics and engineering.
+/
+Engineering Physics: Mechanics
+A calculus-based Physics course in mechanics for engineering and science majors. The use of vectors is emphasized throughout this course. Topics include vectors, linear and rotational motion, Newton’s Laws, friction, work and energy, conservation of linear and angular momentum, collisions, moment of inertia, simple harmonic motion, gravitation, and (if time permits) waves
+/
+Fundamentals of Computer Science II
+This course introduces advanced object-oriented constructs such as abstraction, virtual methods, and generic classes. Advanced data structures including arrays, linked lists, queues, stacks, trees, heaps, and hash tables will be discussed both natively as well as through standard template libraries. Fundamental sorting and searching algorithms will be introduced. Basic analytical and proof techniques will be used to characterize the data structures and algorithms discussed. The course will focus on implementing applications from computer science and engineering using languages such as C++/C#/Java
+/
+Design and Analysis of Digital Circuits
+This course focuses on fundamentals in the analysis and design of digital circuits. Boolean algebra, gate-logic, combinational and sequential gates, and related logic networks, such as encoders, multiplexers, registers, counters, timers, and comparators, are introduced. Synchronous and asynchronous circuits are studied. Open-collector, tri-state, and programmable logic devices are introduced. Popular logic families and interfacing issues between digital and analog systems are studied. The laboratory focuses on the design, analysis, and verification of digital systems.
+/
+Engineering Career Training Preparation
+This one-credit-hour seminar prepares students for their first co-op work assignment. Activities may include industrial field trips to meet with York College co-op students who give tours and presentations of their engineering experiences. Senior Engineering students who have finished their three co-op terms may be invited to present and discuss their experiences in a formal panel discussion. Guest speakers from industry, including an engineering co-op mentor and human resource manager, may be invited to discuss topics related to the real world of engineering work. Exercises may include role playing and situational ethics
+/
+Differential Equations
+The course in differential equations covers the standard methods of solving ordinary differential equations and their applications to physics and electrical and mechanical engineering. Topics include methods for first solving order differential equations; second and higher-order equations; numerical methods for non-linear differential equations; and series solutions.
+/
+Engineering Physics: Electricity & Magnetism
+A calculus-based Physics course in electricity and magnetism for engineering and science majors. This course introduces the student to the topics of static electricity, electric fields, Gauss’ Law, electric potential, capacitance, resistance, current, voltage, magnetic fields, Ampere’s Law, Faraday’s Law, and inductance
+/
+Software Engineering and Design
+This course describes the software development process in detail, including the software life cycle and models of software development; requirements analysis and software design techniques, including structured analysis and object-oriented approaches; techniques for software quality assurance, including design reviews, testing, metrics, and an introduction to program verification; and software project planning, organization, and management.
+/
+Fundamentals of Computer Engineering
+An introduction to the design and operation of digital computers, including information representation, logic design, integrated circuits, register transfer description, basic computer organization and machine-level programming. The relationship between software and hardware is stressed. Topics include fundamentals of computer architecture, computer arithmetic and digital logic, memory system organization and architecture, interfacing and communication, device subsystems, machine level representation of data, assembly level machine organization, functional organization, multiprocessing, and alternative architectures
+/
+Fundamentals of Electrical Engineering
+This course builds upon DC circuit analysis techniques learned in ECE100 to expand these analytical techniques to circuits involving resistors, capacitors, and inductors (e.g., Kirchoff’s laws, nodal and mesh analyses, and superposition) in both steady state and transient cases.  Steady state AC circuit analysis is performed using concepts of phasors, impendance, frequency response, filtering, damping, resonance, and power.  The transient response of first and second order circuits are principally examined.  Operational amplifiers and related topics such as feedback, stability, gain-bandwidth product, and compensation are studied, focusing on typical circuit applications. A hands-on laboratory component supplements the theoretical analysis to enhance student learning and to build practical circuit applications.
+/
+Mathematical Methods in Engineering
+This course covers topics of applied mathematics that build upon differential and integral calculus and that are particularly relevant to engineering majors. These topics include Complex Numbers, Linear Algebra, Vector Calculus, Fourier Series and Transforms, and Special Functions
+/
+Data Structures
+This course is an in-depth examination of important data structures, their algorithms, and implementation techniques. Both abstract and concrete data structures are discussed including sequences, stacks, queues, maps, sets, graphs, array lists, linked lists, skip lists, search trees, heaps, and hash tables. Students will implement and apply the data structures through a series of programming assignments
+/
+Operating Systems
+This course provides an introduction to the fundamentals of operating systems. Topics include inter-process communication, process scheduling, deadlock, memory management, virtual memory, file systems, and distributed systems. Formal principles are illustrated with examples and case studies of one or more contemporary operating systems. Also, students will study a widely used operating system such as Windows or UNIX with an emphasis on system programming for the operating system. Topics include kernel design, the I/O system, scheduling algorithms, process control, inter-process communication, system calls, and memory management.
+/
+Design and Analysis of Analog Circuits
+This course focuses on fundamentals of the analysis and design of analog circuits. Diodes and transistors, including LEDs, BJTs, FETs, and other related circuit technologies are examined.  The underlying semiconductor physics of these components, their equivalent circuits and frequency-dependent impedance characteristics are studied thoroughly. Their roles in switching, isolation, amplification, and other signal processing circuits are examined in detail. The course culminates in a design project integrating project specifications/constraints, circuit analysis and design, component selection, and design tradeoffs resulting in an end product for a customer
+/
+Introduction to Signal Processing
+This course introduces system-level analysis tools for analyzing signal and system performance using time and frequency domain techniques. Focusing primarily on digital systems, the course covers analog-digital conversion, digital systems, the z-transform, discrete Fourier transform, as well as filter design and analysis.
+/
+Discrete Mathematics with Applications
+This course introduces students to fundamental concepts in discrete mathematics and their application to solve problems in computer engineering and computer science. Topics include sequential and quantified logic, proof techniques using sets, relations, and functions. Additionally, students will be introduced to the mathematics of recursion and algorithm efficiency, as well as graph, tree, and automata structures
+/
+Random Signals
+This course introduces the student to probability and statistics and applies these concepts to the design and analysis of engineering systems, which inherently have noise (random components to their signals). Topics include the axioms of probability, functions of one and two random variables, moments and conditional statistics, correlation and autocorrelation functions, sequences of random variables, and commonly encountered probability distribution/density functions. Applications are primarily focused on Gaussian and Markov processes, matched filters, Wiener filters, mean square estimation, and parameter estimation.
+/
+Microprocessor System Design
+This course discusses more advanced concepts in microprocessor architecture, programming, and interfacing. Speculative and out-of-order design techniques and theory are presented, as are concepts of locality, data transfer, and communication. A low-level programming language is introduced as well as high-and low-level programming tasks. Interfacing issues between power circuits and microprocessors are introduced as well as techniques for data conversion.
+/
+Communication Networks
+This course introduces the fundamental concepts of analog and digital communication networks and examines applications associated with optical and wireless communications. Using an information theory approach, computer network interconnections are analyzed in terms of efficiency and accuracy. Topics include communication network architecture; protocols, flow control, and routing; local and wide area networks; voice and data communications; data security and integrity; performance evaluation; source and channel coding; compression and decompression technology
+/
+Capstone Design I
+Engineering seniors, operating in design teams, apply principles of the design process to create a product or process to meet the needs of a customer. Projects may originate in industry, as a contest sponsored by a professional society, or in other venues. The design team, with the guidance of a faculty advisor, must plan, direct, conduct, and effectively communicate the results of the design effort through a professional engineering report and oral presentation. The design project will include material within and beyond the curriculum as well as technical and non-technical considerations. Design projects often result in a deliverable prototype
+/
+Engineering Cooperative Work Experience
+Co-op is a graduation requirement for all Engineering students. The student spends a total of three semester terms plus interim periods employed in an industrial organization or enterprise performing engineering-related work. Beginning with the summer term after the student’s sophomore year, he or she alternates work semesters with academic semesters until the spring semester of the senior year. Co-op employment is coordinated and monitored by the participating faculty member and the industrial mentor. Co-op reports are approved and signed by all three parties. Permission of the instructor is required to withdraw once a student is registered
+/
+Analysis of Algorithms
+This course studies fundamental algorithms, strategies for designing algorithms and mathematical tools for analyzing algorithms. Fundamental algorithms studied in this course include graph algorithms; algorithms for sorting and searching; hashing; integer arithmetic; and selected combinatorial tasks. Mathematical tools include asymptotic notations and methods for solving recurrences. Algorithm design strategies include the greedy method, divide-and-conquer, dynamic programming, and randomization
+/
+Capstone Design II
+Capstone Design II
+/
+Embedded System Design
+This course emphasizes methods for designing real time software and choosing hardware for embedded computers. Relevant theory and background from real-time systems and computer engineering will be covered in the lectures, including event-based and clock based sampling, switching control, and interrupt and scheduling techniques. Basic microcontroller, sensor, and actuator technologies will be reviewed. In the laboratory, students use tools to design and build a safe, reliable, and robust embedded system
+/
+Automatic Control
+This course introduces fundamental principles and applications of the automatic control of linear, time-invariant systems. Controller design includes the use of root locus plots and frequency domain techniques.  Additionally, students will evaluate these techniques for performance, stability, and compensation
+/
+Applied Control
+This course introduces fundamental principles and applications of applied control. Topics include analytical techniques for digital control, design using transform and state-space methods, and multi-input, multi-output systems. The laboratory is dedicated to hardware implementation of proportional, integral, derivative (PID) control and other advanced controllers, as well as computational methods for discrete system analysis and controller design.
+/

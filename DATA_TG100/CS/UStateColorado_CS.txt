@@ -1,0 +1,100 @@
+/
+Calculus for Physical Scientists I
+Limits, continuity, differentiation, and integration of elementary functions with applications; conic sections.
+/
+No Prior Programming Experience
+Computer programming for students without previous programming experience. Topics include variables, assignment, expressions, operators, booleans, conditionals, characters and strings, control loops, arrays, objects and classes, file input/output, interfaces, recursion, lists, and sorting.
+/
+Prior Programming Experience	
+Computer programming for students with limited programming experience. Problem decomposition for good design; expressions, operators, booleans, conditionals, characters and strings, control loops, arrays, objects and classes, file input/output, interfaces, recursion, lists, and sorting.
+/
+Logarithmic and Exponential Functions
+Definition and graphs of exponential and logarithmic functions, properties of logarithmic functions, exponential and logarithmic equations, applications.
+/
+Analytic Trigonometry
+Inverse trigonometric functions, trigonometric identities, solving trigonometric equations.
+/
+College Composition
+Understanding and writing for rhetorical situations; critical reading and response; writing source-based argument for academic and public audiences.
+/
+Data Structures
+Object oriented concepts, assertions, inheritance, polymorphism, algorithms and data structures using an object oriented language.
+/
+Calculus for Physical Scientists II
+Transcendental functions, integration techniques, polar coordinates, sequences and series, with mathematical software.
+/
+Calculus for Physical Scientists I
+Limits, continuity, differentiation, and integration of elementary functions with applications; conic sections.
+/
+Discrete Structures and their Applications	 
+Integer representations and properties, propositions, predicates, sets, functions, program proofs, induction, counting, complexity; Python implementations of these concepts.
+/
+Computer Organization
+Data representation, arithmetic, assembly and C language, digital logic and systems, Boolean algebra, circuits, CPU and memory models, state machines.
+/
+Awareness and Appreciation of Design
+Awareness and appreciation of design as it exists in the context of everyday life and is expressive of cultural character and human creativity. Awareness and appreciation of design comes as a natural consequence of learning how to recognize and interpret the elements from which it is created.
+/
+Introductory Cultural Anthropology
+Human societies and their cultural setting; variation in beliefs, social customs, and technologies; human differences in anthropological terms.
+/
+Software Development with C++
+Developing and modifying large software. Relating programming language to its machine implementation. C++ programming for experienced programmers.
+/
+Linear Algebra for Data Science
+Techniques in linear algebra related to data science. Matrices, bases, subspaces, linear independence, dimension, change of basis, projections, linear systems of equations, least squares, matrix factorizations. Singular value decomposition, angles between subspaces.
+/
+Matrices and Linear Equations
+Linear systems, matrix arithmetic, homogeneous coordinates, complex numbers, eigenvalues, eigenvectors, applications to discrete dynamical systems.
+/
+Linear Algebra I	
+Linear systems, matrices, subspaces of Euclidean spaces, linear transformations on Euclidean spaces, eigenvalues, eigenvectors.
+/
+Introduction to Statistical Methods
+Statistical methods in science; descriptive methods, simple probability, sampling distributions, confidence intervals, hypothesis testing, one-way ANOVA, chi-square tests, correlation, simple and multiple regression, practical concerns in inference (e.g. interpreting p-values, publication bias, replicability), reading and evaluating statistical results in published papers and popular media. Emphasis on using software rather than hand calculation to conduct analyses.
+/
+Statistics for Engineers and Scientists
+Calculus-based probability and statistics: distribution theory, estimation, hypothesis testing, applications to engineering and the sciences.
+/
+Computer Organization
+Data representation, arithmetic, assembly and C language, digital logic and systems, Boolean algebra, circuits, CPU and memory models, state machines.
+/
+Discrete Structures and their Applications
+Integer representations and properties, propositions, predicates, sets, functions, program proofs, induction, counting, complexity; Python implementations of these concepts.
+/
+Matrices and Linear Equations
+Linear systems, matrix arithmetic, homogeneous coordinates, complex numbers, eigenvalues, eigenvectors, applications to discrete dynamical systems.
+/
+Software Engineering
+Principles, concepts, and techniques associated with team-based development of large, complex software systems. Topics include teamwork, configuration management, project management, requirements engineering, and systematic testing techniques. Use software tools in the context of a Scrum-based Agile development project.
+/
+Algorithms--Theory and Practice
+Analysis, design, implementation and applications of algorithms.
+/
+Operating Systems
+Introduction to operating systems including memory organization, I/O control, multitasking, process control, coordination, and resource management.
+/
+Software Development with C++
+Developing and modifying large software. Relating programming language to its machine implementation. C++ programming for experienced programmers.
+/
+Advanced Writing	
+Advanced Writing	
+/
+Systems Security
+Computer and system security, authentication, access control, malicious software, and software security.
+/
+Plants and Civilizations
+Plant origins and their relationships with cultures/civilizations as food, spices, perfumes, and medicines and in art, religion, wars, slavery, etc.
+/
+Software Engineering
+Principles, concepts, and techniques associated with team-based development of large, complex software systems. Topics include teamwork, configuration management, project management, requirements engineering, and systematic testing techniques. Use software tools in the context of a Scrum-based Agile development project.
+/
+Algorithms--Theory and Practice
+Analysis, design, implementation and applications of algorithms.
+/
+Operating Systems
+Introduction to operating systems including memory organization, I/O control, multitasking, process control, coordination, and resource management.
+/
+Systems Security
+Computer and system security, authentication, access control, malicious software, and software security.
+/

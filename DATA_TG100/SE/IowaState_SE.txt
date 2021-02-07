@@ -1,0 +1,160 @@
+Critical Thinking and Communication
+Application of critical reading and thinking abilities to topics of civic and cultural importance. Introduction of basic oral, visual, and electronic communication principles to support writing development. Initiation of communication portfolio.
+/
+Written, Oral, Visual, and Electronic Composition 
+Written, Oral, Visual, and Electronic Composition 
+/
+Information Literacy
+rovides a solid understanding of information literacy and the research process with emphases on finding, evaluating, and using scholarly information; the ethical and legal framework related to information use; and utilization of library discovery tools.
+/
+Proposal and Report Writing
+Rhetorical concepts and processes to individually and collaboratively develop proposals for business, governmental, nonprofit, or other organizations and to report on the work completed both orally and in writing. Emphasizes the structure and classification of proposal and report types, qualitative and quantitative research methods, audience analysis, document design, and data visualization.
+/
+Technical Communication
+Rhetorical concepts and processes to successfully communicate technical information individually and collaboratively via written, oral, visual, and electronic modes. Emphasizes the major strategies for analyzing expert and lay audiences and adapting information to those audiences. Covers developing and designing usable technical documentation, visualizing data, and presenting technical information orally.
+/
+Principles of Microeconomics
+Resource allocation, opportunity cost, comparative and absolute advantage. Supply and demand. Marginal analysis. Theories of production and consumption, pricing, and the market system. Perfect and imperfect competition and strategic behavior. Factor markets. Present discounted value.
+/
+Principles of Macroeconomics
+Measurement of macro variables and general macro identities. Classical models of full employment. Production and growth. Savings and investment. Employment and unemployment. Money, inflation, and price levels. Operation of the U.S. banking system. Fiscal and monetary policy. Elements of international finance.
+/
+Engineering Economic Analysis
+Economic analysis of engineering decisions under uncertainty. Financial engineering basics including time value of money, cash flow estimation, and asset evaluation. Make versus buy decisions. Comparison of project alternatives accounting for taxation, depreciation, inflation, and risk.
+/
+General Chemistry for Engineering Students
+Principles of chemistry and properties of matter explained in terms of modern chemical theory with emphasis on topics of general interest to the engineer. 
+/
+Software Engineering Orientation
+Introduction to the procedures, policies, and resources of Iowa State University and the Software Engineering Program. Offered on a satisfactory-fail basis only.
+/
+Problem Solving in Software Engineering
+Introduction to software engineering and computer programming. Systematic thinking process for problem solving in the context of software engineering. Group problem solving. Solving software engineering problems and presenting solutions through computer programs, written documents and oral presentations. Introduction to principles of programming, software design, and extensive practice in design, writing, running, debugging, and reasoning 
+/
+Calculus I
+Differential calculus, applications of the derivative, introduction to integral calculus
+/
+Calculus II
+Integral calculus, applications of the integral, infinite series, parametric curves and polar coordinates
+/
+Introduction to Classical Physics I
+For engineering and science majors. 3 hours of lecture each week plus 3 recitations and 1 laboratory every 2 weeks. Elementary mechanics including kinematics and dynamics of particles, work and energy, linear and angular momentum, conservation laws, rotational motion, oscillations, gravitation. Heat, thermodynamics, kinetic theory of gases; waves and sound.
+/
+Object-oriented Programming
+Computer programming using objects as the mechanism for modularity, abstraction, and code reuse. Instance variables, methods, and encapsulation. Review of control structures for conditionals and iteration. Developing algorithms on strings, arrays, and lists. Recursion, searching, and sorting. Text parsing and file I/O. Interfaces, inheritance, polymorphism, and abstract classes. Exception handling. Tools for unit testing and debugging. Emphasis on a disciplined approach to specification, code development, and testing.
+/
+Introduction to Data Structures
+An object-oriented approach to data structures and algorithms. Object-oriented analysis, design, and programming, with emphasis on data abstraction, inheritance and subtype polymorphism, and generics. Abstract data type specification and correctness. Collections including lists, stacks, queues, trees, heaps, maps, hash tables, and graphs. Big-O notation and algorithm analysis. Searching and sorting. Graph search and shortest path algorithms.
+/
+Elementary Differential Equations and Laplace Transforms
+but also including Laplace transforms and power series solutions to ordinary differential equations.
+/
+Digital Logic
+Number systems and representation. Boolean algebra and logic minimization. Combinational and sequential logic design. Arithmetic circuits and finite state machines. Use of programmable logic devices. Introduction to computer-aided schematic capture systems, simulation tools, and hardware description languages. Design of simple digital systems.
+/
+Advanced Programming Techniques
+Object-oriented programming experience using a language suitable for exploring advanced topics in programming. Topics include memory management, parameter passing, inheritance, compiling, debugging, and maintaining programs. Significant programming projects.
+/
+Embedded Systems I: Introduction
+Embedded C programming. Interrupt handling. Memory mapped I/O in the context of an application. Elementary embedded design flow/methodology. Timers, scheduling, resource allocation, optimization, state machine based controllers, real time constraints within the context of an application. Applications laboratory exercises with embedded devices.
+/
+Introduction to Computer Architecture and Machine-Level Programming
+Introduction to computer architecture and organization. Emphasis on evaluation of performance, instruction set architecture, datapath and control, memory-hierarchy design, and pipelining. Assembly language programming.
+/
+Computer Organization and Assembly Level Programming
+Introduction to computer organization, evaluating performance of computer systems, instruction set design. Assembly level programming: arithmetic operations, control flow instructions, procedure calls, stack management. Processor design. Datapath and control, scalar pipelines, introduction to memory and I/O systems.
+/
+Introduction to Operating Systems
+Survey of operating system, networking and parallel programming issues. Introduction of processes, threads, process synchronization, deadlocks, memory, file systems, networking, security threats and encryption. Programming projects.
+/
+Operating Systems: Principles and Practice
+Operating system concepts, processes, threads, synchronization between threads, process and thread scheduling, deadlocks, memory management, file systems, I/O systems,security, Linux-based lab experiments.
+/
+Discrete Computational Structures
+Concepts in discrete mathematics as applied to computer science. Logic, set theory, functions, relations, combinatorics, discrete probability, graph theory and number theory. Proof techniques, induction and recursion.
+/
+Theoretical Foundations of Computer Engineering
+Propositional logic and methods of proof; set theory and its applications; mathematical induction and recurrence relations; functions and relations; and counting; trees and graphs; applications in computer engineering.
+/
+Introduction to the Design and Analysis of Algorithms
+Basic techniques for design and analysis of algorithms. Sorting, searching, graph algorithms, string matching, and NP-completeness. Design techniques such as dynamic programming, divide and conquer, greedy method, and approximation. Asymptotic, worst-case, average-case and amortized analyses. Topics from advanced data structures such as balanced trees and hashing.
+/
+Introduction to Database Management Systems
+Relational, object-oriented, semistructured and query languages. SQL, XML, and NO-SQL. Database design using entity-relationship model, data dependencies, and relational database design. Application development in SQL-like languages and general purpose host languages with application program interfaces and a commonly used Object Relational Mapping framework.
+/
+Software Development Practices
+A practical introduction to methods for managing software development. Process models, requirements analysis, structured and object-oriented design, coding, testing, maintenance, cost and schedule estimation, metrics. Programming projects.
+/
+Construction of User Interfaces
+Overview of user interface design. Evaluation and testing of user interfaces. Review of principles of object orientation, object oriented design and analysis using UML in the context of user interface design. Design of windows, menus and commands. Developing Web and Windows-based user-interfaces. Event-driven programming. Introduction to Frameworks and APIs for the construction of user interfaces.
+/
+Software Project Management
+Process-based software development. Capability Maturity Model (CMM). Project planning, cost estimation, and scheduling. Project management tools. Factors influencing productivity and success. Productivity metrics. Analysis of options and risks. Version control and configuration management. Inspections and reviews. Managing the testing process. Software quality metrics. Modern software engineering techniques and practices.
+/
+Software Architecture and Design
+Modeling and design of software at the architectural level. Architectural styles. Basics of model-driven architecture. Object-oriented design and analysis. Iterative development and unified process. Design patterns. Design by contract. Component based design. Product families. Measurement theory and appropriate use of metrics in design. Designing for qualities such as performance, safety, security, reliability, reusability, etc. Analysis and evaluation of software architectures. Introduction to architecture definition languages. Basics of software evolution, reengineering, and reverse engineering. Case studies. Introduction to distributed system software.
+/
+Software Analysis and Verification for Safety and Security
+Significance of software safety and security; various facets of security in cyber-physical and computer systems; threat modeling for software safety and security; and categorization of software vulnerabilities. Software analysis and verification: mathematical foundations, data structures and algorithms, program comprehension, analysis, and verification tools; automated vs. human-on-the-loop approach to analysis and verification; and practical considerations of efficiency, accuracy, robustness, and scalability of analysis and verification. Cases studies with application and systems software; evolving landscape of software security threats and mitigation techniques. Understanding large software, implementing software analysis and verification algorithms.
+/
+Senior Design Project I and Professionalism
+Senior Design Project I and Professionalism
+/
+Senior Design Project II
+Senior Design Project II
+/
+Fundamentals of Public Speaking
+Theory and practice of basic speech communication principles applied to public speaking. Practice in the preparation and delivery of extemporaneous speeches.
+/
+Probability and Statistics for Computer Science
+Topics from probability and statistics applicable to computer science. Basic probability; Random variables and their distributions; Stochastic processes including Markov chains; Queuing models; Basic statistical inference; Introduction to regression.
+/
+Proposal and Report Writing
+Rhetorical concepts and processes to individually and collaboratively develop proposals for business, governmental, nonprofit, or other organizations and to report on the work completed both orally and in writing. Emphasizes the structure and classification of proposal and report types, qualitative and quantitative research methods, audience analysis, document design, and data visualization.
+/
+Technical Communication
+Rhetorical concepts and processes to successfully communicate technical information individually and collaboratively via written, oral, visual, and electronic modes. Emphasizes the major strategies for analyzing expert and lay audiences and adapting information to those audiences. Covers developing and designing usable technical documentation, visualizing data, and presenting technical information orally.
+/
+Matrices and Linear Algebra
+Systems of linear equations, determinants, vector spaces, linear transformations, orthogonality, least-squares methods, eigenvalues and eigenvectors. Emphasis on applications and techniques.
+/
+Calculus III
+Analytic geometry and vectors, differential calculus of functions of several variables, multiple integrals, vector calculus.
+/
+Combinatorics
+Enumeration strategies involving permutations, combinations, partitions, binomial coefficients, inclusion-exclusion principle, recurrence relations, generating functions. Additional topics selected from probability, algebraic combinatorics, and applications.
+/
+Graph Theory
+Structure and extremal properties of graphs. Topics are selected from: trees, networks, colorings, paths and cycles, connectivity, planarity, directed graphs, matchings, Ramsey theory, forbidden structures, enumeration, applications.
+/
+Theory of Linear Algebra
+Systems of linear equations, determinants, vector spaces, inner product spaces, linear transformations, eigenvalues and eigenvectors. Emphasis on writing proofs and results
+/
+Careers in Software Engineering
+Careers in Software Engineering
+/
+Software Engineering Portfolio Development
+Software Engineering Portfolio Development
+/
+Principles of Programming Languages
+Study of concepts in programming languages, especially functional programming concepts. Overview of major programming paradigms, their relationship, and tradeoffs among paradigms enabling sound choices of programming language for application-specific development. Programming projects.
+/
+Object-Oriented Analysis and Design
+Object-oriented requirements analysis and systems design. Design notations such as the Unified Modeling Language. Design Patterns. Group design and programming with large programming projects.
+/
+Software Requirements Engineering
+The requirements engineering process including elicitation, requirements analysis fundamentals, requirements specification and communication, and requirements evaluation. Modeling of functional and nonfunctional requirements, traceability, and requirements change management. Case studies and software projects.
+/
+Formal Methods in Software Engineering
+A study of formal techniques for model-based specification and verification of software systems. Topics include logics, formalisms, graph theory, numerical computations, algorithms and tools for automatic analysis of systems. Graduate credit requires in-­depth study of concepts.
+/
+Software Evolution and Maintenance
+Practical importance of software evolution and maintenance, systematic defect analysis and debugging techniques, tracing and understanding large software, impact analysis, program migration and transformation, refactoring, tools for software evolution and maintenance, experimental studies and quantitative measurements of software evolution. Written reports and oral presentation.
+/
+Software Testing
+An introduction to software testing principles and techniques. Test models, test design, test adequacy criteria; regression, integration, and system testing; and software testing tools.
+/
+Software Tools for Large Scale Data Analysis
+Software tools for managing and manipulating large volumes of data, external memory processing, large scale parallelism, and stream processing, data interchange formats. Weekly programming labs that involve the use of a parallel computing cluster.
+/
+

@@ -1,0 +1,142 @@
+Calculus
+Functions, limits, continuity. Slope and derivative. Differentiation of algebraic and transcendental functions. Applications to motion, natural growth, graphing, extrema of a function. Differentials. L'Hopital's rule.
+/
+Calculus II
+Definition of definite integral, fundamental theorem of calculus, techniques of integration. Application to area, volume, arc length, average of a function, improper integral, surface of revolution.
+/
+Calculus III
+Sequences, series, tests for convergence, Taylor expansions. Vector algebra, vector calculus, scalar and vector fields. Partial derivatives, total differentials. Applications to maximum and minimum problems in two or more variables. Applications to physical systems.
+/
+Vector Analysis
+Definite integrals over plane and solid regions in various coordinate systems. Line and surface integrals. Green's theorem, Stoke's theorem, divergence theorem.
+/
+Linear Algebra
+Matrices and linear transformations, determinants, eigenvalues, eigenvectors, diagonalization, factorization. 
+/
+Modern Linear Algebra
+Rigorous treatment of linear algebra; topics include vector spaces, bases and dimensions, orthogonal projections, eigenvalues and eigenvectors, similarity transformations, singular value decomposition and positive definiteness.
+/
+Differential Equations
+Solutions of elementary differential equations.
+/
+Classical Physics I
+Introduction to general principles and analytical methods used in physics for physical science and engineering majors. Classical mechanics
+/
+Classical Physics II
+Fluid mechanics, thermodynamics, wave phenomena, optics.
+/
+Classical Physics III
+Electricity and magnetism including circuits and Maxwell's equations.
+/
+Modern Physics
+Introduction to physics concepts developed since 1900. Special relativity, quantum mechanics, atoms, molecules, condensed matter, nuclear and particle physics
+/
+General Chemistry'
+Periodic table, stoichiometry, chemical equations, physical properties and kinetic theory of gases, atomic and molecular structure and chemical bonding. Laboratory experiments in stoichiometric relations, properties and collection of gases, atomic spectroscopy, and introductory quantitative analysis
+/
+Discrete Mathematics For Computer Science
+Propositional and first-order logic. Sets, functions, and relations. Big-O and related notations. Recursion and solutions of recurrence relations. Combinatorics. Probability on finite probability spaces. Graph theory.
+/
+Programming and Problem Solving
+Computers and computer programming for students with some prior experience, algorithm design, and debugging. Good programming style. Use of basic UNIX tools.
+/
+Software Development & Object-Oriented Programming in C++
+Object-oriented programming in C++. Basic data structures and their use. Writing good programs of increased complexity and efficiency. Methods for debugging and verification
+/
+Computer Organization & Machine-Dependent Programming 
+Comparative study of different hardware architectures via programming in the assembly languages of various machines. Role of system software in producing an abstract machine
+/
+Introduction to Public Speaking
+Practice in the preparation and delivery of speeches based on principles and strategies of informing and persuading audiences drawn from the social sciences and humanities
+/
+Circuits I
+Basic electric circuit analysis techniques, including electrical quantities and elements, resistive circuits, transient and steady-state responses of RLC circuits, sinusoidal excitation and phasors, and complex frequency and network functions
+/
+Writers' Workshop
+Focuses on the development of writing and revision strategies, exploring ways to understand a writing task; to develop appropriate content for a writing task; to revise content to reflect competence as a communicator.
+/
+Introduction to Academic Literacies
+Introduction to reading and composing processes and key rhetorical concepts for academic literacies.
+/
+Major Works of the Ancient World
+Introduction, through class discussion and frequent written assignments, to some of the major books of western civilization such as The Odyssey, Aeneid, Bible, and Augustine's Confessions
+/
+Introduction to Native American Literature
+Intensive focus on analysis of Native American literary texts, with frequent writing assignments to develop critical thinking and composition skills
+/
+Probability & Statistical Modeling for Computer Science
+Univariate and multivariate distributions. Estimation and model building. Markov/Hidden Markov models. Applications to data mining, networks, security, software engineering and bioinformatics. 
+/
+Programming Languages
+Syntactic definition of programming languages. Introduction to programming language features including variables, data types, data abstraction, object-orientedness, scoping, parameter disciplines, exception handling. Non-imperative programming languages. Comparative study of several high-level programming languages
+/
+Operating Systems & System Programming
+Basic concepts of operating systems and system programming. Processes and interprocess communication/synchronization; virtual memory, program loading and linking; file and I/O subsystems; utility programs
+/
+Computer Networks
+TCP/IP protocol suite, computer networking applications, client-server and peer-to-peer architectures, application-layer protocols, transport-layer protocols, transport-layer interfaces, sockets, network programming, remote procedure calls, and network management
+/
+Computer Architecture
+Introduction to digital design. Interfacing of devices for I/O, memory and memory management. Input/output programming, via wait loops, hardware interrupts and calls to operating system services. Hardware support for operating systems software.
+/
+Computer Architecture II
+Hardwired and microprogrammed CPU design. Memory hierarchies. Uniprocessor performance analysis under varying program mixes. Introduction to pipelining and multiprocessors
+/
+Software Engineering
+extensive programming experience recommended. Pass One open to Computer Science and Computer Science Engineering Majors only. Requirements, specification, design, implementation, testing, and verification of large software systems. Study and use of software engineering methodologies.
+/
+Ethics in an Age of Technology
+Foundations of ethics. Views of technology. Technology and human values. Costs and benefits of technology. Character of technological change. Social context of work in computer science and engineering.
+/
+Senior Design Project
+Senior Design Project 
+/
+Advanced Composition
+Instruction in advanced principles of expository writing. Writing tasks within and beyond the University. Different writing modes, including narrative, analysis, explanation, argument, critique.
+/
+Internship in Computer Science
+Internship in Computer Science
+/
+Geometric Modeling
+Interactive graphics techniques for defining and manipulating geometrical shapes used in computer animation, car body design, aircraft design, and architectural design
+/
+Scientific Visualization
+Computer graphics techniques for generating images of various types of measured or computer-simulated data. Typical applications for these graphics techniques include study of air flows around car bodies, medical data, and molecular structures
+/
+Computer Graphics
+Current graphics hardware, elementary operations in two-and three-dimensional space, geometric transformations, camera models and interaction, graphics system design, standard graphics APIs, individual projects.
+/
+Computer Vision
+Computer vision is the study of enabling machines to "see" the visual world; e.g., understand images and videos. Explores several fundamental topics in the area, including feature detection, grouping and segmentation, and recognition.
+/
+Image Processing & Analysis
+Techniques for automated extraction of high-level information from images generated by cameras, three-dimensional surface sensors, and medical devices. Typical applications include detection of objects in various types of images and describing populations of biological specimens appearing in medical imagery
+/
+Machine Learning
+Introduction to machine learning. Supervised and unsupervised learning, including classification, dimensionality reduction, regression and clustering using modern machine learning methods. Applications of machine learning to other fields.
+/
+Introduction to Artificial Intelligence
+Design and implementation of intelligent computer systems. Knowledge representation and organization. Memory and inference. Problem solving. Natural language processing.
+/
+Database Systems
+Data modeling (object-relational, graph-based, spatiotemporal models). Querying semistructured data (XML). Database theory (normalization, integration, provenance). Database programming (stored procedures, embedded SQL, web programming). Advanced topics (data warehousing, parallel data processing).
+/
+Human-Computer Interaction
+Introduction to concepts and practice of modern human-computer interaction design
+/
+Web Programming
+Technical aspects of building websites, including both server-side and client-side software development
+/
+Programming on Parallel Architectures
+Techniques for software development using the shared-memory and message-passing paradigms, on parallel architectures and networks of workstations. Locks, barriers, and other techniques for synchronization. Introduction to parallel algorithms
+/
+Compilers
+Principles and techniques of lexical analysis, parsing, semantic analysis, code generation, and code optimization. Implementation of compilers.
+/
+Scientific Computation
+Matrix-vector approach using MATLAB for floating-point arithmetic, error analysis, data interpolation, least squares data fitting, quadrature, zeros, optimization and matrix eigenvalues and singular values. Parallel computing for matrix operations and essential matrix factorizations
+/
+Cryptography 
+Introduction to the theory and practice of cryptographic techniques used in computer security. Encryption (secret-key and public-key), message authentication, digital signatures, entity authentication, key distribution, and other cryptographic protocols. The social context of cryptography.
+/
+

@@ -1,0 +1,61 @@
+/
+Introduction to Computer Science
+Overview of computing that explores relationships between computer organization, various programming approaches, limits to computing, and computing in society. Students solve computational problems using Python.
+/
+Calculus I
+An introduction to the calculus of algebraic, trigonometric and transcendental functions. Interpretation, significance and calculations of a derivative. Applications to geometry, biology, physics, economics, and other subjects. Introduction to the integral, including the Fundamental Theorem of Calculus and substitution.
+/
+Foundation Seminar
+Foundation Seminar
+/
+Programming Language Design
+Study of modern programming language paradigms (procedural, functional, logic, object-oriented). Introduction to the design and implementation of programming languages including syntax, semantics, data types and structures, control structures, run-time environments
+/
+Calculus II
+Methods of integration including integration by parts, numerical approximations, and improper integrals. Sequences, series, including Taylor series. Complex numbers, polar coordinates, parametric functions, differential equations, and applications.
+/
+Lab Science
+Lab Science
+/
+Software Engineering and Design.
+Fundamentals of software design and software engineering. Students will participate in large-scale, team-based software development project. 
+/
+Statistics and Engineering
+Probability theory, discrete and continuous random variables, sampling distributions and methods of statistical inference including regression and ANOVA. Software is used.
+/
+Computer Organization.
+Concepts of software and hardware. Software: instruction set design, assembly language and assemblers. Hardware: processor organization, memory hierarchy, interfacing processors and I/O devices
+/
+Discrete Structures
+Logic, sets; mathematical induction; relations, functions; combinatorics and graph theory
+/
+Operating Systems Design
+Introduction to operating system design including processor management, scheduling, memory management, resource allocation, file systems, and concurrency.
+/
+Computers and Society
+The place of computers in society. In-depth study of societal, ethical, and legal issues related to computing. Historical and futurists' views of computing and technology. Public perceptions of computing and the role of computer scientists as professionals. Course work includes oral and written presentations. Prerequisite: junior or senior standing.
+/
+Design & Analysis of Algorithms
+Introduction to the algorithms and data structures used in implementing abstract data types including priority queues, dictionaries, and graphs. Includes complexity analysis of various implementations.
+/
+Programming Language Design.
+Study of modern programming language paradigms (procedural, functional, logic, object-oriented). Introduction to the design and implementation of programming languages including syntax, semantics, data types and structures, control structures, run-time environments
+/
+Computer Science Design Project
+Students in teams use software engineering methodology to design and implement a semester-long project. Written reports and oral presentations are required
+/
+Applied Electronics
+Circuit fundamentals, linear and digital integrated circuits, transducers, analog to digital conversion, filtering, Fourier methods, microcomputers, and computer interfacing. Designed for science and computer science majors.
+/
+Classical and Modern Physics I
+The first course in a two-course sequence that surveys major areas of physics. Topics include Newtonian mechanics, relativity, thermodynamics and statistical mechanics, and gravity
+/
+Discrete Structures
+Logic, sets; mathematical induction; relations, functions; combinatorics and graph theory.
+/
+Operating Systems Design
+Introduction to operating system design including processor management, scheduling, memory management, resource allocation, file systems, and concurrency
+/
+Computer Science Design Project 
+Computer Science Design Project 
+/

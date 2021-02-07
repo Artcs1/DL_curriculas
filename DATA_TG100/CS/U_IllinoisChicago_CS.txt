@@ -1,0 +1,230 @@
+﻿Introduction to Differential Equations. 
+Techniques and applications of differential equations, first and second order equations, Laplace transforms, series solutions, graphical and numerical methods, and partial differential equations. 
+/
+Engineering Distributed Objects For Cloud Computing.
+Provides a broad but solid overview of engineering distributed object for cloud computing. Students will learn the theory and principles of engineering distributed objects for cloud environments. Programming assignments required. 
+/
+Computational Geometry.
+Algorithmic problems on sets of points, rectangles, intervals, arcs, chords, polygons. Counting, reporting, location, intersection, pairing; static and dynamic data structures. 
+/
+Program Design II. 
+Data abstraction and modular design; recursion; lists and stacks; dynamic memory allocation; file manipulation; programming exercises.
+/
+Systems Programming. .
+Study of computer systems emphasizing impact on application level programming. Virtual memory and memory management; code optimization; system-level I/O; concurrency:  processes, threads, synchronization; introduction to network programming. 
+/
+Compiler Design.  
+Language translation: lexical analysis, parsing schemes, symbol table management, syntax and semantic error detection, and code generation. Development of fully-functional compiler.
+/
+Codes and Cryptography.
+Mathematics of communications theory, basic information theory necessary to understand both coding theory and cryptography, basic ideas and highlights for both coding theory and cryptography, including public-key cryptosystems.
+/
+Combinatorics.
+The pigeonhole principle, permutations and combinations,  binomial coefficients, inclusionexclusion principle, recurrence relations and generating functions, special counting sequences, Polya theory of counting. 
+/
+Honors and Majors General and Analytical Chemistry II.
+General and analytical chemistry with laboratory. Coverage of the fundamentals of chemistry including atomic and molecular structure, thermodynamics, and kinetics. Coverage of principles of analytical chemistry, including the use of instrumentation.
+/
+Undergraduate Design/Research.
+Design and/or research experience for undergraduate Computer Science majors under close supervision of a CS faculty member. 
+/
+Public Policy, Legal, and Ethical Issues in Computing, Privacy, and Security. 
+Contemporary topics involving legal, public policy, and/or ethical issues in computing, especially privacy, security, and surveillance. 
+/
+Communication and Ethical Issues in Computing. 
+Communication skills for computing professionals: presentation organization, visual aides, delivery techniques, argument support. Ethical and societal issues in computing: privacy, intellectual property and ownership, crime. 
+/
+Introduction to Machine Learning.
+Mechanism, implementation, and application of systems that improve automatically based on past experience, including classification, density estimation, clustering, and online learning tasks and solutions.
+/
+Program Design I.
+Introduction to programming: control structures; variables and data types; problem decomposition and procedural programming; input and output; aggregate data structures including arrays; programming exercises. 
+/
+Programming Language Design and Implementation.
+Programming language paradigms, design and implementation: syntax and semantics; parsing; runtime systems; control;  data types; subroutines and exceptions; data and procedural abstraction; functional programming. 
+/
+Computer Graphics I.
+Principles of interactive computer graphics. Raster and vector display, techniques and hardware considerations. Introduction to two-dimensional and three dimensional rendering.
+/
+Introduction to Symbolic Computation. 
+Introduction to computer algebra systems (MAPLE), symbolic computation, and the mathematical algorithms employed in such computation, with examples and applications to topics in undergraduate mathematics.
+/
+Calculus I.
+Differentiation, curve sketching, maximum-minimum problems, related rates, mean-value theorem, antiderivative, Riemann integral, logarithm, and exponential functions.
+/
+Software Engineering I. 
+Software life-cycle model, requirement specification techniques, large-scale software design techniques and tools, implementation issues, testing and debugging techniques, software maintenance.
+/
+Introduction to Advanced Mathematics. 
+Introduction to methods of proofs used in different fields in mathematics. 
+/
+General Chemistry Laboratory II.
+Laboratory in general chemistry including phase transitions, thermochemistry, spontaneity/equilibrium, electrochemistry, kinetics, bonding, order/symmetry in condensed phases, coordination compounds, descriptive chemistry.
+/
+General Physics II (Electricity and Magnetism).
+Electrostatics; electric currents; d-c circuits; magnetic fields; magnetic media; electromagnetic induction; a-c circuits; Maxwell?s equations; electromagnetic waves; reflection and refraction; interference; geometrical optics.
+/
+User Interface Design and Programming.  
+User interface design, implementation, and evaluation: user-centered design methodologies, windowing systems, I/O devices and techniques, event-loop programming, user studies. Programming projects.
+/
+ Academic Writing II: Writing for Inquiry and Research. 
+Students learn about academic inquiry and complete several writing projects including a documented research paper. Topics vary by section. 
+/
+Game Theory. 
+Introduction to the basic ideas of game theory. Static and dynamic games; mixed strategies, imperfect information; economic, political and biological applications.
+/
+Calculus II.
+Techniques of integration, arc length, solids of revolution, applications, polar coordinates, parametric equations, infinite sequences and series, power series. 
+/
+Software Design.  
+Software design principles and practices: Object-oriented design; design patterns; software reuse; testing;  event driven programming and concurrency; graphical user interface design and development; Team development.
+/
+Honors and Majors General and Analytical Chemistry I. 
+General and analytical chemistry with laboratory. Coverage of the fundamentals of chemistry including stoichiometry and equilibrium. Coverage of the principles of analytical chemistry, including the use of instrumentation. 
+/
+Calculus III.  
+Vectors in space, functions of several variables, partial differential and optimization, multiple integrals, vector fields, Green?s Theorem, Stokes Theorem. 
+/
+Natural Language Processing. 
+Design of natural language processing systems; part-of speech tagging, statistical and symbolic parsers; semantic interpretation; discourse and dialogue processing; natural language generation; applications.
+/
+Machine Organization.  
+Data representation and computer arithmetic; machine language; addressing; memory hierarchy; subroutines; data structures; processor architecture: hardwdare components, pipelining. 
+/
+Object-Oriented Languages and Environments. 
+Data abstraction, classes and objects, messages and methods, polymorphism and dynamic binding, inheritance. Object-oriented design. Pure and hybrid object-oriented languages. 
+/
+Applied Linear Algebra. 
+Matrices, row reduction algorithm, vector spaces, LU-decomposition, orthogonality, Gram-Schmidt process, determinants, inner products, eigenvalue problems, applications to differential equations and Markov processes.
+/
+Biology of Cells and Organisms.  
+Introductory biology at the molecular, cellular, and organismal level. Topics include: Scientific skills, biological chemistry, cell structure and function, metabolism, cell division, molecular genetics, diversity, anatomy and physiology.
+/
+Programming Practicum. 
+Software development tools and practices; debugging and testing; advanced language features; standard libraries; code management. 
+/
+Computer Vision I. 
+Computer vision system design. Segmentation and representation of regions and boundaries; image filtering; object recognition; advanced topics (examples: texture, stereo, color); applications. Programming assignments. 
+/
+Building Secure Computer Systems.  
+Building and programming secure systems; protecting systems from threats and reduction of vulnerabilities; Includes application, host and network security.
+/
+Linear Algebra I. 
+Linear equations, Gaussian elimination, matrices, vector spaces, linear transformations, determinants, eigenvalues and eigenvectors.
+/
+Artificial Intelligence I. 
+Problem representation; rule-based problem-solving methods; heuristic search techniques. Application to expert systems, theorem proving, language understanding. Individual projects. 
+/
+Academic Writing I: Writing in Academic and Public Contexts. 
+Students write in a variety of genres with an emphasis on argument and sentence-level grammar. Topics vary by section. 
+/
+Advanced Computer Architecture.  
+Design and analysis of high performance uniprocessors. Topics include arithmetic: multiplication, division, shifting; processor: pipelining, multiple function units. instruction sets; memory: caches, modules; virtual machines. 
+/
+Engineering Orientation.  
+A general orientation course on careers in the engineering profession. Discussion of college advising procedures. Required of all engineering students. 
+/
+Human Augmentics.  
+Study of technologies for augmentation of human capabilities; human limitations; implants and wearable technologies; implants; brain-computer interfaces; exoskeletons; sensors and networks. Includes project work. 
+/
+Introduction to Probability.  
+Probability spaces, random variables and their distributions, conditional distribution and stochastic independence, special distributions, sampling distributions, limit theorems. 
+/
+Global Environmental Change. 
+Natural and anthropogenic controls on the structure and evolution of the earth's surface environment. Interactions among the Earth's solid surface, hydrosphere, atmosphere, and biosphere and human impacts on these processes. 
+/
+Computer Algorithms I.  
+Design and analysis of computer algorithms. Divide-and-conquer, dynamic programming, greedy method, backtracking. Algorithms for sorting, searching, graph computations, pattern matching, NP-complete problems.
+/
+Mathematical Foundations of Computing. 
+Discrete mathematics concepts fundamental to computing:  propositional logic, predicates and quantifiers; proofs; sets; recursive definitions and  induction; functions, relations and graphs; combinatorics and discrete probability; applications.
+/
+Introduction to Networking.  
+Network protocols, algorithms, and software issues. Topics include the Open Systems Interconnect model, data link, network and transport layers, TCP/IP, ATM, mobile networks. 
+/
+Software Engineering II. 
+Advanced concepts in software development: requirements engineering, cost estimation, risk analysis, extreme programming, regression test case selection, and design patterns.  Software lab assignments required.
+/
+General Physics I (Mechanics). 
+Kinematics, vectors, Newton?s laws of motion; linear momentum, collisions; work and kinetic energy; potential energy, conservation of energy; rotational kinematics and energy; rotational dynamics, static equilibrium; simple harmonic motion.
+/
+Probability and Statistics for Engineers.
+Probability, random variables, mathematical expectation, discrete and continuous distributions, sampling distributions, estimation theory, and test of hypothesis. 
+/
+Numerical Analysis.  
+Introduction to numerical analysis; floating point arithmetic, computational linear algebra, iterative solution to nonlinear equations, interpolation, numerical integration, numerical solution of ODEs, computer subroutine packages. 
+/
+Design and Implementation of Network Protocols. 
+Network protocols and their software, Examines OS network interface through network layers. Topics include routing, congestion control, fault tolerance, security, name servers, multicast, and performance. 
+/
+Foundations of Number Theory. 
+Primes, divisibility, congruences, Chinese remainder theorem, primitive roots, quadratic residues, quadratic reciprocity, and Jacobi symbols. The Euclidean algorithm and strategies of computer programming. 
+/
+General Chemistry II Lecture.
+A second-semester course in general chemistry including phase transitions, thermochemistry, spontaneity/equilibrium, electrochemistry, kinetics, bonding, order/symmetry in condensed phases, coordination compounds, descriptive chemistry. 
+/
+Programming Language Design.  
+Definition, design, and implementation of programming languages. Syntactic and semantic description; variable bindings, control and data structures, parsing, code generation, optimization; exception handling; data abstraction. 
+/
+Biology of Populations and Communities.
+Introductory biology at the level of populations and communities. Topics include: Scientific skills, evolution, Mendelian and population genetics, biological diversity, and ecological systems including ecosystem processes and human impacts. 
+/
+General Chemistry I Lecture. 
+A first-semester course in general chemistry, including stoichiometry, periodicity, reaction types, the gaseous state, solution, chemical equilibria, acid-base equilibria, dissolution-precipitation equilibria. 
+/
+Professional Development Seminar.  
+Graduating seniors will be provided with information regarding future career paths and will provide information regarding the program to be used for assessment purposes. Students take the CS Major Field Exam as part of this course. 
+/
+Video Game Design and Development.
+Theory and practice of video game design and programming. Students will form interdisciplinary teams, to design, build and demonstrate video games or related interactive simulation environments. 
+/
+Formal Logic I.  
+First order logic, syntax and semantics, completeness-incompleteness. 
+/
+Languages and Automata. 
+Regular sets and finite automata. Context-free languages and push-down automata. Parsing. Computability theory including Turing machines and decidability. 
+/
+Computer Design.  
+Computer hardware building blocks.  logic gates; combinational circuits; arithmetic circuits; flip flops and sequential circuits; registers and memory; CPU design; I/O design. 
+/
+Software Development for Mobile Platforms.
+Design and implementation of mobile applications; operating systems, object-oriented languages and programming environments for mobile platforms; integration with hardware components; and location-aware applications. Programming assignments required. 
+/
+Linear and Non-Linear Programming. 
+Linear programming, simplex algorithm, degeneracy, duality theorem sensitivity analysis, convexity, network simplex methods, assignment problems. Constrained and unconstrained minima. Quasi-Newton methods. Ellipsoidal methods of Kachian. 
+/
+Number Theory for Applications.  
+Primality testing methods of Lehmer, Rumely, Cohen-Lenstra, Atkin. Factorization methods of Gauss, Pollard, Shanks, Lenstra, and quadratic sieve. Computer algorithms involving libraries and nested subroutines. /
+General Chemistry Laboratory I. 
+Laboratory in general chemistry, including stoichiometry, periodicity, reaction types, the gaseous state, solution, stoichiometry, chemical equilibria, acid-base equilibria, dissolution-precipitation equilibria. 
+/
+Database Systems.  
+Database design, logical design, physical design. Relational databases. Recovery, concurrency control. Normalization. 
+/
+Visualization and Visual Analytics.  
+Geospatial visualization, scientific visualization, medical visualization, information visualization, and social network visualization, interaction, data analysis, human factors, dynamic data, privacy, uncertainty, data transforms.
+/
+Data Structures. 
+Design, usage and analysis of data structures:  review of lists, stacks and  queues; hash tables, priority queues, search trees, introduction  to graphs;  searching and sorting; runtime analysis; programming projects and lab exercises. 
+/
+Hardware Description Language Based Digital and Computer System Design. 
+Hardware description language (HDL) introduction; digital system design including arithmetic circuit, datapath and control; basic processor architecture and design; use of CAD tools for simulation, synthesis, and verification. 
+/
+Applied Statistical Methods I.  
+Graphical and tabular representation of data; Introduction to probability, random variables, sampling distributions, estimation, confidence intervals, and tests of hypotheses. Includes SAS and SPSSX applications. 
+/
+Graph Theory.
+Basic concepts of graph theory including Eulerian and hamiltonian cycles, trees, colorings, connectivity, shortest paths, minimum spanning trees, network flows, bipartite matching, planar graphs. 
+/
+Networked Operating Systems Programming.  
+Concepts, design, and programming of multi-process and distributed systems; inter-process communications; fault tolerance; distributed programming semantics. Programming assignments and project required. 
+/
+Earth, Energy, and the Environment.  
+Nature and evolution of Earth from the scale of minerals and rocks to tectonic plates.  Earthquakes and volcanoes, their hazards and effects on humans.  Natural resources, sources of energy, and their environmental impacts.
+/
+Operating Systems Design and Implementation.  
+Kernel design and implementation; process management; effective management of machine resources: resource allocation and scheduling, mutual exclusion, deadlock avoidance, memory management policies, devices and file systems, and client-server systems.
+/
+Secure Operating System Design and Implementation.  
+Design of operating systems; operating system kernel implementation; secure coding and systems; virtual machines; extensive programming in a systems language such as C. 
+/

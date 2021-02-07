@@ -1,0 +1,124 @@
+/
+Computer Programming for Electrical and Computer Engineers I
+This is an introduction to computer programming from an engineering perspective. Topics covered include basics of program design, coding, execution, debugging, and correctness. Students learn to develop concise, well-documented, well-designed, maintainable code in the C programming language.
+/
+Calculus I
+Analytic geometry, differential and integral calculus, transcendental functions, and applications. Graphing calculator required.
+/
+Introduction to Interfaith Leadership
+This is a foundations course for the Interfaith Leadership Certificate Program. It is a required course for students in this program and is open to all students. The course introduces students to knowledge, vision, and skills of interfaith leadership and is applicable to all majors.
+/
+Natural Resources and American Economic Institutions
+This course explores how the American economy and quality of life is linked to the development of the nation’s resources. Focus is on the interaction of individual citizens, business, and government institutions from the Colonial Era to present. Topics explore the role of democracy, property rights, free markets, government, agencies, and financial institutions in the development of the United States
+/
+Drawing I
+Students are introduced to the visual language of drawing, the graphic elements, various drawing media, and the creative problems involved.
+/
+Computer Programming for Electrical and Computer Engineers II
+This is a continued introduction to computer programming from an engineering perspective. Concepts of Object Oriented programming and basic data structures are covered.  Students learn to develop concise, well-documented, well-designed, maintainable code in the C++ programming language.
+/
+Calculus II
+Integration, infinite series, introduction to vectors, and applications. Graphing calculator required.
+/
+Digital Circuits
+Introduction to boolean logic, finite state machines, basic datapath components, and register-transfer level (RTL) design. Design of combinational and sequential logic circuits with programmable logic devices. Design of digital systems. Simulations and timing analysis. Three lectures, one lab.
+/
+Physics for Scientists and Engineers I
+This course covers the study of motion and thermal physics including vectors, kinematics, forces, Newton’s three laws of motion, circular motion and rotations, harmonic motion, momentum, energy and work, gravity, fluids, and thermodynamics. It includes lecture and required recitation. 
+/
+Physics for Scientists and Engineers Lab I
+Computer-assisted laboratory investigations of mechanics and thermal physics principles taught
+/
+Algorithms and Data Structures
+This course focuses on strategies for the design and evaluation of algorithms and their associated data structures. Topics include recursion, sorting algorithms, graphs, binary trees, hash tables, priority queues, splay trees, disjoint set classes, dynamic programming, and greedy algorithms.
+/
+Electrical Circuits 1
+Introduction to electrical circuits and basic circuit elements. Circuit theory, analysis techniques, and introduction to design. DC analysis. First-order inductive and capacitive circuits. Operational amplifiers. Mutual inductance. Introduction to computer-aided design and analysis
+/
+Intermediate Writing: Research Writing in a Persuasive Mode
+Writing of reasoned academic argument supported with appropriately documented sources. Focuses on library and Internet research, evaluating and citing sources, oral presentations based on research, and collaboration.
+/
+Linear Algebra
+This course teaches solutions of linear systems, matrix operations, matrix factorization, vector spaces, subspaces, linear independence, bases, linear transformations, eigensystems, orthogonality, Gram-Schmidt orthogonalization, and projections.
+/
+Physics for Scientists and Engineers II
+This course covers the study of waves, electricity and magnetism, optics, and quantum phenomena. Topics include electric and magnetic forces and fields, electric potential, Maxwell’s equations, DC and AC circuits, geometrical optics, wave nature of light, special relativity, and atomic, molecular, nuclear phenomena. The course includes lecture and required recitation.
+/
+Digital System Design
+This course consists of advanced projects in digital system design using field-programmable gate arrays and embedded microprocessor systems. Projects include signal processing and data communication applications.
+/
+Electrical Circuits 2
+This course is a continuation of electrical circuits and basic circuit elements concepts. Topics include second-order RLC circuits, AC steady-state analysis, steady-state power and three-phase circuits, filters, and Bode diagrams. Lab work is required.
+/
+Ordinary Differential Equations
+Analytic solution techniques for ordinary differential equations. Initial value and boundary value problems and applications. Higher-order scalar equations, first-order linear systems, and Laplace transforms.
+/
+Numerical Methods for Engineers
+Numerical analyses applied to engineering problems, including simultaneous solutions of linear and nonlinear equations, optimization, curve fitting, numerical differentiation and integration, and numerical solutions of differential equations.
+/
+Biological Anthropology
+Survey of multidisciplinary field of biological anthropology. Includes study of fossil and living primates, fossil evidence for human evolution, bioarchaeology, contemporary human variation and adaptation, principles of evolutionary theory, and introductory population genetics.
+/
+Continuous-Time Systems and Signals
+Students learn time domain analysis of higher-order systems, including impulse response and convolution, and Laplace transform analysis of circuits and systems. They study frequency domain analysis, discrete Fourier series, Fourier transforms, and analog filter design. Some computer programming is required.
+/
+Microcontroller Hardware and Software
+This course covers synthesis of microcontroller systems, including hardware, programming, and interfacing. Topics include architecture basics, instruction set, assembly language programming, I/O, timing, and interrupts. The course includes hands-on implementation. 
+/
+Computer Systems Programming and Architecture
+Students learn advanced assembly language and systems programming concerned with performance. The course covers the study of modern computer architecture issues, such as caching, pipelining, concurrent instruction execution, and virtual memory.
+/
+Discrete Mathematics
+Students learn logic and axiomatics, sets, functions, counting methods, recurrence relations, graph theory, Boolean algebras, combinatorial circuits, automata, grammars, and languages.
+/
+Language and Culture
+This course covers the use of language as a descriptive tool to understand human culture and how speakers use language to shape their culture as a whole, including their individual place within it, their interpersonal relationships, and transmission to the next generation.
+/
+Microelectronics I
+This course covers the fundamentals of transistors, operational amplifiers, and other integrated circuits, along with their utilization in amplifiers, switches, and other applications. Laboratory work is required.
+/
+Engineering Professionalism
+Introduces students to life as an engineer, including: the design process, working in teams, understanding professional and ethical responsibility, the impact of engineering on society, and the need for continued professional development. Also includes discussion of how engineering meets the contemporary needs of society.
+/
+Technical Communication for Engineers
+The goal of this course is to prepare engineering students with the foundational research, individual and collaborative technical writing, teamwork, and presentation skills necessary to be effective technical and professional communicators in academic and professional settings.
+/
+Statistics for Scientists
+Introduction to statistical concepts, graphical techniques, discrete and continuous distributions, parameter estimation, hypothesis testing, and chi-square tests.
+/
+Compiler Construction
+Review of programming language structures, translation, loading, execution, and storage allocation. Compilation of declarations, expressions, statements, and procedures/functions. Organization and design of a compiler.
+/
+Engineering Design I
+Individual or team engineering project proposal development. Interdisciplinary projects strongly encouraged. Written project proposal required.
+/
+Engineering Communications I
+Professional engineering project proposal writing methods, including budget development and project scheduling (Gantt) charts. Project progress report writing.
+/
+Introduction to Computer Networks
+This course includes an introduction to computer network terminology, network applications, network technologies, and internetworking. Students are introduced to protocol stacks and each layer is studied. Particular attention is paid to the TCP/IP protocol stack.
+/
+Nonlinear Dynamics
+This course introduces elementary concepts in dynamical systems, including canonical, continuous, and discrete models, equilibria, stability, and bifurcation of solutions of differential equations.
+/
+Real-Time Processors
+Students learn real-time processor architectures and methods used for digital signal processing, including C and assembly language programming, modern DSP and GPU architectures, and finite word-length effects. The laboratory includes implementation of hardware-based real-time systems.
+/
+VLSI Design
+Introduces the standard cell library-based design flow in VLSI, including design methodology and IP design, CMOS circuit design styles, and design technology for low power and thermal aware designs.
+/
+Globalization
+This course reviews how sociology, cultural geography, and economic anthropology analyze processes of globalization in postcolonial societies. It examines changing livelihoods, patterns of spatial incorporation and societal evolution, and emergent policy problems associated with rapid socioeconomic change.
+/
+Engineering Design II
+Design, development, and testing of the engineering project proposed in ECE 4820. Interdisciplinary projects strongly encouraged
+/
+Engineering Communications II
+Includes professional engineering project reports, oral design reviews, presentation graphics, and project presentation.
+/
+Programming Languages
+Theories of programming design and implementation. Introduction to variety of programming languages, showing how they represent trade-offs with respect to these theories.
+/
+Intelligent Systems
+Introduction to artificial intelligence topics, including software agent design, informed search, heuristics, inference (logical and probabilistic), knowledge representation, game playing, planning, machine learning, philosophy, and ethics.
+/

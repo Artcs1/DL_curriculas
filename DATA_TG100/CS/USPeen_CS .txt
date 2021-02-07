@@ -1,0 +1,90 @@
+/
+First-Year Seminar
+First-Year Seminar
+/
+Calculus with Analytic Geometry I
+Differential calculus topics include derivatives and their applications to rates of change, related rates, linearization, optimization, and graphing techniques. The Fundamental Theorem of Calculus, relating differential and integral calculus begins the study of Integral Calculus. Antidifferentiation and the technique of substitution is used in integration applications of finding areas of plane figures and volumes of solids of revolution. Trigonometric functions are included in every topic
+/
+Introduction to Programming Techniques
+Design and implementation of algorithms. Structured programming. Problem solving techniques. Introduction to a high-level language, including arrays, procedures, and recursion.
+/
+Science Course
+Science Course
+/
+English Composition
+An overview of composition studies, with particular attention to the schools of writing pedagogy.
+/
+Calculus with Analytic Geometry II
+The goals of our calculus courses include to develop the students' knowledge of calculus techniques and to use the calculus environment to develop critical thinking and problem solving skills. This course covers the following topics: logarithms, exponentials, and inverse trigonometric functions; applications of the definite integral and techniques of integration; sequences and series; power series and Taylor polynomials; parametric equations and polar functions.
+/
+Intermediate Programming
+Object-oriented programming, recursion, fundamental data structures (including stacks, queues, linked lists, hash tables, trees, and graphs), the basics of algorithmic analysis, and an introduction to the principles of language translation.
+/
+Arts Course
+Arts Course
+/
+Health and Physical Activity
+Health and Physical Activity
+/
+Object Oriented Programming with Web-Based Applications
+The course covers advanced object-oriented principles and their application to web-based, net-centric computing. Major topics include virtual machines, intermediate code generation (Java-specific), graphical user interfaces (GUI) design, event handling, server-side programming with database queries, and security, permissions and file management concepts for client/server systems. Extensive programming assignments provide an understanding of the entire process of client/server development including interface prototyping, program design, implementation of both client and server programs, unit testing, and documentation
+/
+Matrices
+The determinant of a matrix is also introduced; it gives a test for invertibility. In the second part of the course the key ideas of eigenvector and eigenvalue are developed. These allow one to analyze a complicated matrix problem into simpler components and appear in many disguises in physical problems. The course also introduces the concept of a vector space, a crucial element in future linear algebra courses. This course is completed by a wide variety of students across the university, including students majoring in engineering programs, the sciences, and mathematic
+/
+Effective Speech
+Introduction to speech communication: formal speaking, group discussion, analysis and evaluation of messages.
+/
+Humanities Course
+Humanities Course
+/
+Discrete Mathematics for Computer Science
+Discrete mathematics and foundations for modern computer science. Topics include sets, relations, logic, algorithms, graphs, finite state machines and regular expressions.
+/
+Statistical Analysis I
+Probability concepts; nature of statistical methods; elementary distribution and sampling theory; fundamental ideas relative to estimation and testing hypotheses.
+/
+Effective Writing: Technical Writing
+A key emphasis will be on the rhetorical principles of effective communication, including context analysis and defining clear, actionable purposes. Students will gain experience with a wide range of technical writing genres, including reports, descriptions, definitions, procedures, job application documents, emails, memos, and web applications. Students will also learn about the importance of document and graphic design, including how best to design communications to maximize their potential for success.
+/
+Fundamentals of Communication Networks
+Introduction to the composition of communciation networks, including trans- mission mediums and protocols, transfer methods, topologies and software, and communications hardware.
+/
+Computer Organization and Architecture
+Data representation, digital logic, instruction set/control logic, machine/ assembly languages, advanced architectures, memory hierarchy, I/O devices, overall system design.
+/
+Data Structures and Algorithms
+This course covers elegant algorithmic and data structure techniques that underpin modern biological data analysis. Bioinformatics is a growing field with immediate implications for our understanding of biology and treatment of disease. This course covers elegant algorithmic and data structure techniques and their use in bioinformatics. The emphasis is on recurrent ideas that underpin modern biological data analysis, presented in conjunction with their biological applications. The course is suitable both for students interested in doing bioinformatics research and those interested in applications of algorithms to the natural sciences. Some of the algorithms/data-structures that may be covered include exact string matching, suffix trees, suffix arrays, de Bruijn graphs, hidden Markov models, breakpoint graphs, succinct data structures, the Burrows-Wheeler transform, the FM-index, network flow, and bidirected graphs. Some of the biological applications will include sequence alignment and assembly, cancer genomics, phylogeny, gene finding, and variation detection.
+/
+Database Management Systems
+Topics include: conceptual data modeling, relational data model, relational query languages, schema normalization, database/Internet applications, and database system issues.
+/
+Computing Elective
+Computing Elective
+/
+Net-centric Computing
+We will also consider how JavaScript Object Notation (JSON) can sometimes be used as a viable alternative to XML for server to client data transmission. On the server: We will learn about a variety of server-side technologies for consuming, storing, transforming, and generating content. We will use the three main types of XML parsers to consume, transform, and generate XML; we will use XSL and XPath to style and transform XML; we will use XML binding tools to convert XML to and from classes (in some high-level language); we will use Data Access Objects and object-relational mapping tools for data persistence. We will learn how servers use Web services and RSS feeds to provide XML structured content, and we will consume existing Web services and RSS feeds and produce simple Web services.
+/
+Operating System and Systems Programming
+Operating System and Systems Programming
+/
+Supporting and Related Area Course
+Supporting and Related Area Course
+/
+Computer Science Senior Project I
+Computer Science Senior Project I
+/
+Programming Language Concepts
+Fundamental concepts of programming language design, specifications, and implementation; programming language paradigms and features; program verification.
+/
+Software Engineering
+This includes proper planning and implementation.Knowledge of generally accepted core standards and guidelines is stressed, including safety planning, hazards analysis, software management planning, requirements specification, design documents, coding, test plans, test specifications, test logs, test reports, design reviews, structured code walk-throughs, verification and validation, and reporting. The Unified Modeling Language (UML) is introduced and followed, including the components of UML, class diagrams, object diagrams, use-case diagrams, state diagrams, sequence diagrams, activity diagrams, collaboration diagrams, component diagrams, and deployment diagrams. Object oriented concepts include classes, abstraction, inheritance, polymorphism, encapsulation, message sending, associations, and aggregation
+/
+Computer Science Senior Project II
+Computer Science Senior Project II
+/
+Behavioral Science Course
+Behavioral Science Course
+/
+
+

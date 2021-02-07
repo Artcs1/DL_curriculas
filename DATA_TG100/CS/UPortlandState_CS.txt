@@ -1,0 +1,82 @@
+/
+Introduction to Computer Science
+The goals of this class are to teach the syntax of C++ to students who already know how to program. Students are expected to be proficient at using conditionals, I/O, loops, and functions with arguments. Topics include: conditionals, I/O, files, functions, classes, pointers, dynamic memory, linear linked lists, and multi-dimensional arrays in C++, as well as program correctness, verification, and testing. 
+/
+Data Structures
+Data abstraction with formal specification. Elementary algorithm analysis. Basic concepts of data and its representation inside a computer. Linear, linked, and orthogonal lists; tree structures. Data structures are implemented as data abstractions using pointer based implementations. 
+/
+Programming Systems
+Students will become familiar with the language and operating system environment used in most upper division courses in the Computer Science major curriculum. Use of the file system, operating-system calls, and shell-level programming; low-level debugging of high-level programs. Programming exercises will include applications from data structures (e.g. B-trees) and memory management techniques.
+/
+Computer Systems Programming
+Introduction to computer systems from a software perspective. Topics include: Basic machine organization, System programming using C and assembly language, Introduction to system programming tools (gcc, makefile, gdb), Data representation (bits & bytes, characters, integers, floating point numbers), Implementation of control flow, procedure calls, and complex data types at machine level, Linking and loading, Exceptions and interrupts, Process control and signals, System calls, File I/O, Timing and improving program performance, Introduction to memory hierarchy, dynamic memory allocation techniques.
+/
+Discrete Structures I
+Introduces discrete structures and techniques for computing. Sets. Graphs and trees. Functions: properties, recursive definitions, solving recurrences. Relations: properties, equivalence, partial order. Proof techniques, inductive proof. Counting techniques and discrete probability. 
+/
+Discrete Structures II
+Logic: propositional calculus, first-order predicate calculus. Formal reasoning: natural deduction, resolution. Applications to program correctness and automatic reasoning. Introduction to algebraic structures in computing.
+/
+Elements of Software Engineering
+Practical techniques of program development for medium-scale software produced by individuals. Software development from problem specification through design, implementation, testing, and maintenance. The fundamental design techniques of step-wise refinement and data abstraction. A software project will be carried through the development cycle.
+/
+Introduction to Operating Systems
+Introduction to the principles of operating systems and concurrent programming. Operating system services, file systems, resource management, synchronization. The concept of a process; process cooperation and interference. Introduction to networks, and protection and security. Examples drawn from one or more modern operating systems. Programming projects, including concurrent programming.
+/
+Principles of Programming Languages
+Syntax and semantics. Compilers and interpreters. Programs as data. Regular expressions and context free grammars. Programming paradigms, including procedural, functional, and object-oriented programming. Type systems, including dynamic and static typing disciplines. Binding, scope, data abstraction, and modularity. Denotational, operational, and axiomatic semantics. Introduction to program correctness.
+/
+Algorithms and Complexity
+Techniques for the design and analysis of algorithms. Case studies of existing algorithms (sorting, searching, graph algorithms, dynamic programming, matrix multiplication, fast Fourier transform.) NP-Completeness.
+/
+Social, Ethical, and Legal Implications of Computing
+History of computing, social context of computing, professional and ethical responsibilities, risks and liabilities of safety-critical systems, intellectual property, privacy and civil liberties, social implications of the Internet, computer crime, economic issues in computing.
+/
+Introduction to Database Management Systems
+Introduction to fundamental concepts of database management systems using primarily the relational model. Schema design and refinement. Query languages. Database application development environments. Overview of physical data organization, query optimization and processing, physical design, security, and transactions used in recovery and concurrency control.
+/
+Software Engineering Capstone I
+Emphasizes teamwork on a substantial project that will be developed for a real customer. The course integrates the knowledge and skills from the rest of the CS curriculum. This course creates an obligation for participation for two consecutive quarters. 
+/
+Software Engineering Capstone II
+Emphasizes teamwork on a substantial project that will be developed for a real customer. The course integrates the knowledge and skills from the rest of the CS curriculum. This course creates an obligation for participation for two consecutive quarters.
+/
+Parallel Programming Lab
+Parallel Programming Lab
+/
+Accelerated Computing Lab
+Accelerated Computing Lab
+/
+Calculus I
+Differential calculus of functions of a single variable, including limits, the definition and computation of the derivative, and applications of the derivative. 
+/
+Calculus II
+Integral calculus of functions of a single variable, including the Fundamental Theorem of Calculus, numerical integration and applications. 
+/
+Calculus III
+Introduction to differential equations, infinite series, parametric equations, polar coordinates, and conic sections.
+/
+Vector Analysis
+Modern vector methods with applications for students of mathematics, physics, and engineering.
+/
+Number Theory
+A presentation of the properties of numbers as found in the theory of divisibility, congruence, diophantine equations, continued fractions, and algebraic numbers.
+/
+Computing Fundamentals I
+Intended as an overview of computers and computer technology for non-CS majors, this course is often described as a computer literacy course. The primary focus is on the personal computer and personal productivity software. Hardware components of computers such as processors, memory, and input/output devices are discussed and compared
+/
+Computing Fundamentals II
+Introduction to programming, appropriate for non-CS majors. Introduction to the logical thought processes and problem-solving strategies used when programming. Concepts presented include problem definition and requirements gathering, generating a description of a step-by-step solution (the algorithm), writing a program, testing, and documentation. 
+/
+Computing Fundamentals III
+Introduction to Web programming and associated web tool usage for non-CS majors. Centering around the more sophisticated aspects of browsers. Web pages that represent the input to browsers are defined. In-depth study of HTML, VBScript and JavaScript. Brief exploration into CGI Scripts and other server-side tools. Course differentiates between Web page design (a graphics designer's role) and Web page programming, taking the results of their work and committing it to workable code. 
+/
+Introduction to Programming and Problem-Solving
+Introduction to fundamental concepts of computer science. Problem solving, algorithm and program design, data types, loops, control structures, subprograms, and arrays. Learn to write programs in a high level programming language. 
+/
+Introductory Technical Writing
+Practical experience in forms of technical communication, emphasizing basic organization and presentation of technical information. Focuses on strategies for analyzing the audience and its information needs. 
+/
+Mathematics Tutoring
+Training in one-to-one and small-group tutoring over a wide range of mathematical topics. Mth 191: tutoring in arithmetic and other non-university courses. Mth 192: tutoring in freshman-level mathematics. Mth 193: tutoring in sophomore junior- and senior-level mathematics. Required field work consists of providing tutoring service in the community or University.
+/

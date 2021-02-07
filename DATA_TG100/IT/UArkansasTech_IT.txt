@@ -1,0 +1,127 @@
+/
+Composition I
+A review of grammar, introduction to research methods, and practice in writing exposition using reading to provide ideas and patterns.
+/
+Principles of Environmental Science
+This course is designed to bring the student to a basic but informed awareness of and responsible behavior toward our environment and the role of the human race therein. The content will include a study of the philosophical and scientific basis for the study of ecosystems and the environment, the nature of ecosystems, the techniques used to study the environment, the origin and development of current environmental problems, the interdisciplinary nature of environmental studies, the processes of critical thinking and problem solving, and the moral and ethical implications of environmentally-mandated decisions.
+/
+Calculus for Business and Economics
+An introduction to the concepts of differentiation and integration. Emphasis will be placed on applications of calculus in business, economics, accounting, social sciences, and life sciences.
+/
+Orientation to the University
+A course designed to provide information and enhance skills that will enable students to take responsibility for a successful transition to college. The course will expose students to college resources and requirements and promote the development of practical skills for college success.
+/
+Orientation to Computing, Information, and Technology
+An overview of hardware, software, technology, and information systems concepts and terms as well as ethics and opportunities within the three fields.
+/
+Computer and Information Science Lab
+An introduction to the computing resources of the department and the university.
+/
+Composition II
+Composition II
+/
+Survey of American History
+Survey of American History. An overview of American history from the pre-colonial period to the present.
+/
+Principles of Economics I
+Macroeconomic analysis of output, income, employment, price level, and business fluctuations, including the monetary system, fiscal and monetary policy, and international economics.
+/
+Web Publishing I
+This course focuses on how to develop web pages for display on the World Wide Web. Topics covered include standards-based coding, hyperlinks, images, tables, forms, design issues, and other topics as appropriate. Students will learn how to publish a web site to a server and maintain the site.
+/
+Foundations of Computer Programming I
+An introduction to the foundational concepts of programming using structured programming concepts of C++ as an implementation tool. Programming principles covered in lecture are practiced in lab. Major topics include sequential, selection, and iterative control structures, functions, parameter passing, and file processing. Arrays are introduced as a structured data type.
+/
+Technical Writing
+Practice in composing abstracts, instructions, visuals, proposals, questionnaires, letters, memos, and a variety of informal and formal reports.
+/
+Foundations of Computer Programming II
+Topics include multi-dimensional arrays, functions, string processing, classes, and records. Students are introduced to object oriented programming using C++.
+/
+Web Publishing II
+Students are introduced to multimedia design concepts and software. Multimedia applications and design tools are used to create and maintain multimedia products such as dynamic graphics, animation, interactive websites, and video.
+/
+Computer Architecture and Networks Laboratory
+Computer Architecture and Networks Laboratory
+/
+Computer Networks and Architecture
+This course covers how to install and administer a local area network and connect it to the Internet. Topics include network architecture, hardware, and software, along with popular protocols for establishing connectivity for sharing resources such as printers and files. Participation in a designated lab outside of the regularly scheduled meeting time is required.
+/
+Discrete Structures for Technical Majors
+Fundamental mathematical concepts related to computing, including logic and proof techniques; sets, sequences, relations, and functions; combinatorics; algebraic structures and Boolean algebra ; trees and graphs.
+/
+Business Statistics
+This course reviews basic descriptive statistics and probability distributions. The course introduces inferential statistics and their application to business problems. Topics covered include data collection, the t-tests for one sample, matched-pairs, and independent groups, the F-test for one and two-way analysis of variance, the z-test for one and two proportions, the chi-square tests for independence and goodness of fit, the t- and F- tests as they relate to simple and multiple regression, control charts, time-series analysis, the visual display of quantitative information, and the reporting of results. Problems are addressed using technology such as statistical calculators and advanced statistical software.
+/
+Data Structures
+This course involves a study of abstract data structures and the implementation of these abstract concepts as computer algorithms.
+/
+Survey of Operating Systems
+Several Operating Systems (such as Unix, Microsoft, IBM) will be examined with regard to the user's view of the system. This view includes the types of files supported, the kinds of operations that can be performed on files (from the shell and from programs), the mechanisms for starting and controlling processes (i.e. running programs), and some basic utility programs that a beginning or intermediate level administrator would need to use.
+/
+Introduction to Computer Forensics and Security
+An introduction to the fundamentals of computer forensic technology. The course emphasizes techniques for identifying and minimizing the threats to, and vulnerabilities of computer systems. These techniques include methods and tools for tracking suspicious activity, for recovering and preserving digital media, and for doing post-mortem analysis.
+/
+Microcomputer Applications
+This course provides hands-on experience with several software applications. Topics include intermediate and advanced word processing; spreadsheet design, formulas, and charts; database design principles and implementation; presentation design and techniques; and integration among these applications. 
+/
+Experiencing Art
+This course is designed to provide a background in art and the related processes so that a student may develop powers of observation and thereby respond to a work of art.
+/
+Business and Professional Speaking
+An introduction to a variety of communication skills to help achieve effectiveness on the job including skill sets such as verbal and listening skills, oral presentation techniques, small group problem solving/leadership, interviewing, and organizational communication.
+/
+Database Design and Implementation
+This course focuses on the design and implementation of relational database systems. Fundamental principles of databases such as relational model, conceptual design and normalization are covered. Students will also gain experience in database and query implementation using a DBMS and SQL.
+/
+Systems Software and Architecture
+This course covers the implementation of production operating systems, the fundamentals of digital logic, and machine architecture.
+/
+Server Administration
+The tools and techniques needed to administer a server. Installation, configuration, and administration of a variety of servers on different platforms.
+/
+Microbiology for Health Sciences
+Microbiological concepts, including overviews of bacteria, viruses, fungi, protozoa, prions, and viroid and how they interact with humans. Designed to serve students in health-related majors other than biology.
+/
+Scripting Languages
+This course introduces the student to script writing in several languages. The primary categories of scripts will be UNIX shell, text processing, and Perl. CGI Scripts, using Perl, will be introduced.
+/
+Human Factors in Information Technology
+A study of the major factors involved in Human-Computer Interaction. A system- oriented, multi-disciplinary approach to understanding the human considerations in the design, testing, implementation, and administration of computer-based systems and information technology.
+/
+Data Communications and Networking Lab
+Data Communications and Networking Lab
+/
+Data Communications and Networks
+Basic elements and functional aspects of the hardware and software required to establish and control data communications in a stand-alone or network environment. Topics include communication protocols, media, network topologies, and system support software. 
+/
+American Studies
+An exploration of American culture through study of significant ideas, social issues and literary texts.
+/
+Systems Analysis and Design I
+The application of concepts, tools, procedures, and techniques involved in the development of information systems. Emphasis is placed on the systems approach to problem solving, user involvement, the management of quality, project control, and teamwork.
+/
+Database Administration
+This course develops a comprehensive foundation in the planning, implementation and execution of database management policies and procedures. Topics include installation, storage and replication implementation, security management, indexing and performance tuning, and backup and recovery.
+/
+Heterogeneous Networks Lab
+Heterogeneous Networks Lab
+/
+Heterogeneous Networks
+The student will design, develop, implement and manage numerous heterogeneous networking operating system environments. Required policies and procedures are examined and developed. Networking tools required for the development of a seamless heterogeneous networking environment are studied and applied.
+/
+Data Mining
+Introduction to knowledge discovery from large databases: terminology, algorithms, methodologies, software, limitations, implications, and current trends. 
+/
+Implications of Technology on Society
+This course explores ethical issues faced by members of a complex technological society and by professionals in a technology-related field. Topics covered include professional ethics, ethical decision making, privacy issues, intellectual property, and technology issues relating to software development, productivity, and computer crime. Extensive research on current issues is expected.
+/
+Systems Analysis and Design II
+Students will research, analyze, design, implement, test and document a complete system. Students, working as a team, will analyze, plan, implement, document, and present a complete system in a real world environment.
+/
+IT Project Administration
+This course provides a thorough introduction to the art and science of Project Management, as applied in the domain of information technology. Theories, best practices, and tools of project management are studied in relation to the completion of a successful project life cycle.
+/
+App Development
+Development of native and web applications for mobile devices with an emphasis on security.
+/

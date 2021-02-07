@@ -1,0 +1,97 @@
+/
+Rhetoric and Writing
+This course will introduce students to common textual issues surrounding audience and purpose to prepare them for the different kinds of texts they will encounter in upper-level academic courses as well as professional settings.
+/	 
+Calculus for Business 	 
+Topics in differential and integral calculus with applications. 
+/	  
+Computer Applications for Busi 	 
+This course provides an introduction to the fundamentals of personal computing for business majors and other non-computer science majors. Topics include the Windows operating system, word processing, spreadsheets, database, presentation aids, internet, e-mail and related areas. 
+/	 
+Beauty and Joy of Computing 	 
+The course focuses on teaching students some of the Big Ideas of Computing such as abstraction, design, recursion, concurrency, simulations, and the limits of computation. The course also provides a historic perspective of Computing and where it is heading. Throughout the course, we will emphasis the relevance of Computing to the students, their future studies, their careers, and society. In this course students will learn Python as the programming language to deliver the concepts. Given that data is pervasive and the need to analyze data is in almost every discipline, learning Python that early will enable students to conduct data analysis which will be helpful for their studies at UNF and in their careers.
+/
+Writing with Evidence and Style
+This course will introduce students to common textual issues surrounding evidence-based writing, genre conventions, and citation style considerations to prepare them for the different kinds of texts they will encounter in upper-level academic courses as well as professional settings. 	 
+/
+Trigonometry
+This course will include the following topics: trigonometric functions and their inverses, graphing trigonometric functions, identities, complex numbers, solving triangles, and applications of trigonometric functions.
+/
+Computer Science I	
+This course provides an introduction to problem solving techniques and the computer programming process. Topics in the course include data types, operations, expressions, flow control, I/O, functions, program structure, software design techniques, and memory allocation. Course concepts are reinforced with many programming projects throughout the course.	 
+/
+Computer Science II	
+This course serves as a continuation to the Programming I course.Students are shown additional fundamental concepts of problem solving using the object-oriented paradigm and data structures. The topics in this course include classes, interfaces, objects, class types, events, exceptions, control structures, polymorphism, inheritance, linked lists, arrays, stacks, queues, and deques. Students are expected to apply these concepts through the construction of numerous small software systems using both integrated development environments and command-line- driven tools that support editing, testing, and debugging.
+/	 
+Principles of Macroeconomics	 
+Introduction to the theory of income determination and national income accounting. Analysis of the use of monetary and fiscal policy to accomplish the goals of full employment, economic growth and price stability. 
+/
+Computational Structures
+This course will cover the mathematical and logical fundamentals required in computer science, information systems, information science, and information technology. The course develops concepts in discrete mathematical structures as applied to computing in general through the topics of sets; logic; proof techniques; Boolean algebra; algorithms and problem solving; number systems; number theory; counting and discrete probability; and relations and graphs.
+/
+Elem Statistics-Business
+This course is an introduction to descriptive data analysis, probability, statistical distributions, confidence intervals, testing of hypotheses, regression, and correlation. Topics selected to emphasize applications in a business environment. 
+/	 
+Prin of Financial Accounting
+This course is a conceptual introduction to financial accounting. In this course, primary emphasis is placed on income measurement and the interpretation of conventional financial statements.
+/	 
+Principles of Microeconomics	
+Introduction to the market system, market structures, and the theory of production, demand theory and general equilibrium. Cannot be used to satisfy upper-level requirements for a degree in business administration and economics. Normally offered each term.
+/ 
+Web Systems Development
+Students learn about the influence of local and global transaction processing, Internet, Web design and development, and Electronic Data Interchange on information systems. This course discusses the concepts and skills required to design and implement Web application systems using Model View controller (MVC) architecture. Students learn about how Web applications are developed using client-side and server-side scripting to implement internal and external business processes. After an introduction to the basic concepts of relational database systems and Object Relational Mapping (ORM) students will practice for storing and accessing data in the database.
+/	 
+Public Speaking for Professionals 
+This course examines speaking as a workplace activity and provides students with experience in public speaking. The lectures will concentrate on communications theory, including but not limited to models of communication, interpersonal communication, group communication, persuasion, decision making and audience analysis and adaptation. 
+/ 	 
+Prin Managerial Accounting 
+This course is the conceptual introduction to managerial accounting. The material covers accounting for cost reporting and control, reports, statements, and analytical tools used by management.	
+/
+GW-Legal Ethical Iss in Computing
+This course provides an opportunity to discuss and analyze the legal and ethical issues facing today computing professionals, as well as the legal and ethical issues computing professionals may face in the future. Legal and ethical issues are considered from local, as well as global perspectives.
+/
+Data Structures	
+Students in this course will study various data structures including binary trees, balanced trees, B-trees, hashing, and heaps. Additional topics include advanced data structures such as splay trees, tree representations, graphs, dynamic memory, and algorithms for sorting and searching. Students are expected to complete projects using object-oriented programming. .
+/	 
+Human Factrs/Collabr Cmpt 	 
+This course introduces the fundamentals of effective interaction between humans and computers with an emphasis on software and physical elements. Good and bad interface designs are examined to reinforce proven interface design techniques. The phases and tools involved in the interaction design process are discussed, as well as how the interaction design process aligns with the Software Development Life Cycle (SDLC).
+/	 
+Administrative Management	
+This course covers fundamentals of management which permeate organizations; including introductory studies of administrative structure, the organizational environment, and managerial functions and processes.
+/ 	 
+Intro Management Info Systems	
+This course will cover the fundamentals of management information systems with an emphasis on the relationships of MIS and data processing to decision-making in modern organizations.
+/
+Computer Networks/Dist Process	
+In this course, students will study architectures, protocols, and layers in computer networks and develop client-server applications. Topics include the OSI and TCP/IP models, transmission fundamentals, flow and error control, switching and routing, network and transport layer protocols, local and wide-area networks, wireless networks, client-server models, and network security. Students will extend course topics via programming assignments, library assignments and other requirements.
+/	 
+Financial Management	
+This course focuses on management techniques for and considerations in determining short-term, intermediate-term, and long-term financial needs. Sources of funds available to management and the relevant financial instruments will be examined.
+/
+Introduction to Databases	
+First of a two-course senior project on systems development with a significant laboratory component. Students will learn system development life cycle methodologies and its phases including requirements specification, analysis, and design. Students will design and develop a prototype information system in the context of the project team environment.
+/ 	 
+Principles of Marketing 
+This course is an introduction to the process of planning market programs for goods and services. Techniques of analyzing the market and its environment are introduced as background for making decisions in product planning, promotion, distribution and pricing.	
+/	 
+Information Syst Sr Project I 
+First of a two-course senior project on systems development with a significant laboratory component. Students will learn system development life cycle methodologies and its phases including requirements specification, analysis, and design. Students will design and develop a prototype information system in the context of the project team environment.
+/
+Internet Programming 
+In this course students will use current technologies to develop Internet and web-based applications. The topics to be covered include client and server-side components for the WWW to facilitate client-server communication, web services, and an introduction to source control tools. 
+/	 
+Data Mining
+Students will study concepts and techniques of data mining, including Characterized and Comparison, Association Rules Mining, Classification and Prediction, Cluster Analysis, and mining complex types of data. Students will also examine applications and trends in data mining.
+/	 
+The Legal Environment of Business 
+This course is an introduction to law as it relates to and impacts upon the operation of business. Consideration is given to the Uniform Commercial Code, antitrust, employment laws, business ethics, international law and the social and political environment in which a business operates. 
+/	 
+Information Syst Sr Project II 
+Students will design, implement, and deploy a prototype information system in the context of a project team environment employing relevant systems development life cycle methodologies.
+/ 	 
+Introduction to Data Analytics 	
+This course gives a broad overview of the various aspects of data analytics and visualizations. Students will learn ways of accessing data from various sources such as web APIs and repositories, techniques of cleaning data and organizing data for analysis, using analytical methods to solve real-world problems and create visualizations to aid the interpretation of analysis results. 
+/
+Data Warehousing
+This course provides an introduction to data warehousing concepts, requirements gathering, design, and implementation. Students learn about operational database integration, extraction, transformation, and loading of operational data to historical database systems such as operational data store and data warehouse. Students are provided with techniques for the analysis, design, denormalization, implementation, utilization, and documentation in the development of data warehouse systems. Structure query language for database and data warehouse will be studied and used to retrieve data and manipulate the information from the implemented databases. Students are required to complete and present a project to class in the data warehousing area.
+/

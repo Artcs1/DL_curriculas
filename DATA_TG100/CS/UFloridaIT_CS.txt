@@ -1,0 +1,94 @@
+/
+Composition and Rhetoric
+The first of two courses in college-level writing skills. Focuses on writing essays using various rhetorical modes: persuasion, description, comparison and analysis. Presents basic methods of library research, as well as the MLA documentation system. Students write one research paper and several essays.
+/
+Fundamentals of Software Development 1
+Introduces software development as it applies to small programs. Students learn to program in a higher-level language and to read, understand, write and evolve typical small higher-level programs.
+/
+Computing Disciplines and Careers 1
+Overviews computing-related disciplines and professional careers. Includes an overview of software engineering and computer science. Introduces the ethical, moral and legal implications of crafting software.
+/
+Applied Discrete Mathematics
+Topics include positional and modular number systems, relations and their graphs, discrete functions, set theory, propositional and predicate logic, sequences, summations, mathematical induction and proofs by contradiction.
+/
+University Experience
+Assists new incoming students during their initial academic and social transitions to the university. Aims to promote student success by providing information about campus and academic resources, and encouraging participation in the classroom and in the campus community.
+/
+Calculus 1
+Functions and graphs, limits and continuity, derivatives of algebraic and trigonometric functions, chain rule; applications to maxima and minima, and to related rates. Exponential logarithmic, circular and hyperbolic functions: their inverses, derivatives and integrals.
+/
+Writing About Literature
+The second of two courses in college-level writing skills. Focuses on reading and analyzing poems, plays and short works of fiction. Students write several essays and one research paper on literary topics.
+/
+Fundamentals of Software Development 2
+Introduces the basic data structures and algorithms used in software design and implementation. Includes sorting and searching techniques.
+/
+Computer Organization and Machine Programming
+Introduces digital logic, computer arithmetic, instruction sets and the basic components of computer architecture. Covers arithmetic/logic, control, memory and input/output units. Explores the relationship between computer architecture and machine language programming. Requires students to write programs in Intel assembly language.
+/
+Calculus 2
+Integration and applications of integration, further techniques of integration, improper integrals, limits, l’Hospital’s rule, sequences and series, numerical methods, polar coordinates and introductory differential equations.
+/
+Scientific and Technical Communication
+Practice in the technical and scientific writing style and format, including gathering and using data to prepare reports. Includes abstracts, reports, letters, technical descriptions, proposals and at least two oral presentations.
+/
+Algorithms and Data Structures
+To include algorithms and data structures fundamental to software systems development. Includes abstraction, recursion, algorithm design and complexity analysis, linked lists, stacks, queues, trees, and sorting and searching methods.
+/
+Introduction to Asian Civilization
+Introduces the cultures and civilizations of Asia. Focuses on East Asia (China, Korea, Japan). Addresses evolution and development (geography, governance, economy, philosophy, social structure, art and culture, kinship, etc.) from antiquity to the 17th century. Engages student in cross-cultural study.
+/
+Introduction to Asian Civilization 2
+Covers Asian civilization changes after encounters between the East and West, from the 17th century to the last decades of the 18th century. Focuses on the transformation of traditional society in politics, culture, society, thought and the state of individual relations.
+/
+Programming in a Second Language
+Introduces a second programming language for computer science majors. Students learn to read and write programs in a second language. The language chosen is one with wide popularity and use. The current language is C++.
+/
+Applied Statistics
+Includes probability and sample space concepts, discrete and continuous random variables, moments of random variables, covariance, correlation, generating functions, conditional probability, independence, introduction to statistics, confidence intervals, hypothesis tests, chi-square tests, linear regression and non-linear regression.
+/
+Introduction to Software Engineering
+Presents a basis for the integration of engineering rigor and software development. Students are shown a practical yet rigorous method of going from a problem concept to a software solution. Includes requirements specification, functional specification and coding techniques using information hiding and stepwise refinement.
+/
+Introduction to Linear Algebra
+Includes vectors and matrices, linear equations, vector spaces and subspaces, orthogonality, determinants, eigenvalues and eigenvectors, and linear transformations. Introduces students to solution and manipulation of matrix equations using a standard package of mathematical software.
+/
+Operating Systems Concepts
+Examines the design and implementation of operating systems. Includes process, storage and recovery management. Explores issues involved in moving from single-user systems to multitasking, multiprocessing and multiprocessor systems.
+/
+Database Systems
+Introduces the fundamentals of computer database systems. Includes a review of file structures, concepts of database design, functional units of a typical database system and application of database concepts to real-world problems.
+/
+Programming Language Concepts
+Surveys programming language concepts and design principles of programming paradigms (procedural, functional and logic). Includes a history of programming languages, data types supported, control structures and run-time management of dynamic structures.
+/
+Junior Project
+Introduces the concepts and methodology of software project development. Forms teams and develops team proposals for capstone design projects that will be implemented during the senior year. Allows juniors to interact with seniors completing capstone design projects.
+/
+Computer Architecture and Assembly Programming
+Introduces advanced computer architecture concepts. Includes microcode, execution pipelines, cache management, vector processors, parallel architectures and RISC processors. Explores the interfacing of assembly language programs with the operating system and high-level languages. Requires students to interface assembly with C and the Win32 API.
+/
+Computer Networks
+Provides an overview of computer networks, applications and protocols. Includes network architectures, routing, addressing, medium access control, connection-oriented and connectionless services, network performance analysis, network programming and common transport-layer, network-layer and link-layer protocols.
+/
+Formal Languages and Automata Theory
+Presents abstract models of computers (finite automata, pushdown automata and Turing machines) and the language classes they recognize or generate (regular, context-free and recursively enumerable). Also presents applications of these models to compiler design, algorithms and complexity theory.
+/
+Introduction to Analysis of Algorithms
+Covers time and space complexity of algorithms. Analyzes algorithms for sorting, searching, string processing and graph problems. Presents strategies such as divide-and-conquer, and greedy and dynamic programming as problem-solution techniques.
+/
+Computer Science Projects 1
+A two-semester, senior-year project sequence that serves as the capstone for the project-intensive courses in computer science. Students team to implement a software project from conception to completion.
+/
+Introduction to Artificial Intelligence
+Surveys artificial intelligence, focusing on state-space and problem-reduction approaches to problem solving. Attention is given to the use of heuristics and their use in game-playing programs. Also discusses knowledge representation, automated reasoning and expert systems.
+/
+Computer Science Projects 2
+A two-semester, senior-year project sequence that serves as the capstone for the project-intensive courses in computer science. Students team to implement a software project from conception to completion.
+/
+Computer Network Programming
+Covers design and implementation of programs that communication with other programs across a computer network. Includes common protocols, network management and debugging tools, server- and client-side networking, presentation layer (ASN1, XML), secure socket layer, multithreading, exceptions and remote procedure call.
+/
+Compiler Theory
+Introduces formal languages, the construction of scanners and recursive descent, LL (1) and LR (1) parsers, intermediate forms, symbol tables, code generation and optimization of resultant code.
+/

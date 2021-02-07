@@ -1,0 +1,211 @@
+Intro to Computers
+This course will introduce the students to microcomputer usage and will fulfill
+the core curriculum computerliteracy/technology requirements. Topics include;
+word processor, presentation, spreadsheet, anddatabase.
+/
+Crit Think Info Age 
+This course is designed to equip students with the ability to apply critical
+thinking in the field of Computing, Information Systems, Information
+Technology, and Mathematics. They will demonstrate critical thinking skills
+through the analysis and/or synthesis of information to draw conclusions or
+make decisions on matters pertaining to career planning, personal growth and
+goal-setting as potential careers of the future in the information age.
+/
+College Writing I
+This course focuses on effective writing, grammar review, and critical thinking. Students
+develop research and writing skills using classical rhetorical modes of
+argument and logic and by writing college-level essays and research papers
+with the use of information technology. 
+/
+Computer Programming I 
+This course builds on the basic concepts and syntax of
+the Java programming language. It is the first course in the series of
+programming study in computer science. Topics include programming,
+problem solving, design, construct, analysis of the programs and objectoriented programming. 
+/
+University 101 
+This course is designed to help new college students develop study habits,
+attitudes and knowledge which will lead to academic success. The course
+content includes Florida Memorial University’s history and resources, student
+time management, study methods, memory techniques, career exploration,
+and cultural literacy.
+/
+College Writing II 
+This is an intensive writing, reading, and research course. Students compose research
+papers and college-level essays based on readings from poetry, short stories,
+drama, novels, periodicals, and other literature, incorporating the use of
+information technology. 
+/
+Calculus I
+A brief review of functions and plane analytic geometry; intuitive and
+geometric definitions of limit, continuity and derivative; differentiation of
+elementary functions; and applications of derivatives, including sketching
+graphs of functions, and optimization problems.
+/
+Calculus II 
+Indefinite integral, Riemann sums and definite integral, elementary integration techniques, and
+applications of integration.
+/
+Critical Think/Read
+This course develops and strengthens the critical
+thinking skills needed for reading college and professional materials, and will
+include bias and propaganda, fallacies, connotation/ denotation,
+inductive/deductive reasoning, problem-solving, and inferential thinking.
+/
+Introduction to Public Speak 
+An introduction to effective communication in speaker-audience situations.
+Students learn basic techniques of researching, organizing and presenting
+their own, original ideas to an audience. There is additional emphasis on
+developing effective listening skills and ethical communication strategies for
+use in a democratic society.
+/
+Data Structures 
+This course studies the basic concepts of
+data structures and associated algorithms. The course covers arrays, simple
+sorting algorithms, stacks and queues, linked lists, recursion, advanced
+sorting, binary trees, red-black trees, 2-3-4 trees and external storage, hash
+tables, heaps graphs, and weighted graphs. The relative advantages and
+disadvantages of data structure and its use are discussed.
+/
+Computer Programming II 
+Uses analysis and review of existing systems to explain
+the structured systems analysis and design process. Working with the
+system’s life cycles, topics include flow diagrams, cost/benefit analysis,
+interviewing and documentation. 
+/
+African Amer His I 
+This is an intensive reading course. The course promotes the awareness and
+exploration of relevant books and materials concerning the lives, struggles,
+achievements, and contributions of African Americans. 
+/
+Discrete Math 
+Propositional and predicate logic, set theory, axiomatic construction of mathematical structures, mapping,
+cardinal numbers, and principles of mathematicalinduction.
+/
+Probability & Stats 
+Probability concepts, discrete and continuous distributions, random variables, expectation and variance,
+frequency distribution, statistical inferences and sampling, hypotheses testing
+for the mean and variance of a population.
+/
+Intro to Religion 
+This is an intensive reading and writing course surveying the practices and
+associated customs of the major recognized religions of the world, such as
+Judaism, Christianity, Hinduism and Islam.
+/
+Computer Organization
+This course introduces computer
+hardware and system software concepts. The objective is to provide technical
+knowledge and skills on computer resource management, systems design, and
+systems implementation. Material on systems architecture, data storage
+technology, systems integration and performance, input/output technology,
+data and network communication, computer networks, application
+development, operating systems, file management, internet and distributed
+applications, and system administration are presented in this course.
+/
+Computer Programming III 
+The course covers common algorithms such as
+recursion, searching and sorting, multimedia, handling multithreads, and
+network programming.
+/
+Operating Systems 
+Introduces the students to operating systems and systems programming. Topics include design, implementation, and
+maintenance techniques, multi-level memory management and resource
+allocation, scheduling supervisors, loaders, I/O control systems, multiprogramming, file and systems protection.
+/
+Network/Data  Communications 
+This course covers the basic concepts of network and
+data communications. The course covers sections on network design essentials,
+media, interface cards, communications and protocols, architectures,
+administration and support, types of networks, troubleshooting network
+problems, and internetresources.
+/
+Artificial Intelligence 
+This course discusses various areas of artificial
+intelligence including knowledge representation, learning vision, expert
+systems, robotics and natural languages. Artificial Intelligence programming
+languages and their techniques and control structures are alsopresented.
+/
+Database Conc & Design
+The study focuses on the theoretical design
+and management of database systems conceptual data models,
+implementation models, data dictionary and policy formulation. The study
+will also uncover structures relating to databases, design methodology,
+normalization, integrity constraints, distributed databases, data warehouse,
+and relational algebra.
+/
+Physics with Calculus I 
+This course covers the principles of classical mechanics using the techniques of the calculus-- vectors,
+laws of circular motion, work/energy conservation laws, linear and angular
+momentum, rotation of rigid bodies, oscillatory motion, the laws of
+thermodynamics, and the kinetic theory of gases.
+/
+Physics with Calculus II 
+This course covers electric fields and forces, Gauss’ Law, electric potential, capacitance and
+dielectrics, current and resistance, direct current circuitry, magnetic fields and
+their sources, Faraday’s Law, inductance and alternating current circuits,
+geometric optics, and physical optics using the calculustechniques.
+/
+Physics with Calculus I Laboratory 
+Experiments include error estimation, laws of linear motion and collision; extended circular motion; mechanical equivalent of
+heat; diffraction; polarization; analysis of spectral lines; propagation,
+reflection, and refraction of light; transfer of heat, and expansion of materials
+using calculus.
+/
+Physics with Calculus II Laboratory
+Experiments include induction; electric circuits; Ohm’s Law; dependence of resistance on length, area, and temperature; parallel and
+series connection of resistors; motors; electromagnetism and induction;
+characteristics of parallel plate capacitors; motion of charges in a magnetic
+field; and deflection of an electron beam by homogeneous magnetic fields.
+/
+Spanish I
+This course and its sequel, constitute the basic sequence in Spanish. Emphasis is on the development of competence in the language
+/
+Spanish II
+This course completes the sequence in the Spanish language core requirement. It prepares students for
+advanced course work in Spanish if desired. 
+/
+Software Engineering Principles
+This course uncovers the process of software
+engineering from beginning concepts, to design, testing, maintenance and
+retirement. Issues concerning integration, software quality, security, fault
+tolerance, human factors, operation, product feasibility and organizational
+structures are discussed.
+/
+Senior Project 
+This is a capstone course for senior majors in the
+Computer and Information Sciences. Students will have an opportunity to
+undertake valuable research in areas of computer science, computer
+information systems, and management information systems to organize into
+teams and select a design project, complete the preliminary design project for
+approval and finally present detail and final design work or prototype to 
+departmental faculty.
+/
+Programming Languages
+This course studies the basic concepts of
+programming languages. Students will gain a broad comprehension of many
+diverse programming languages, along with confidence and understanding,
+allowing the students to adopt new languages as they become available in the
+future.
+/
+Complexity Analysis of Algorithms 
+This course is a study of algorithm design,
+algorithm complexity analysis, and problem complexity analysis. Types of
+problems addressed will include dynamic programming, searching and
+sorting, divide & conquer, backtracking, branch-and-bound.
+/
+Cryptography and Network Security
+This course explores the algorithms for secure computation and security
+challenges in network and protocol design. The course also studies Public and
+Private Key Cryptography, Multi-party Computation, Secret Sharing,
+Distributed, Homomorphic and functional encryption, and Network Security
+and Protocol Design.
+/
+Computer Ethics 
+This course deals with the ethical and
+social issues arising from the development and deployment of computers in
+society. The course also provides fundamental information about computer
+and technology ethics, as well as the details the ramifications of continuing
+technological developments with regard to privacy, security, piracy, access to
+computing technology for person with disabilities and other important
+philosophical and ethical issues.
+/

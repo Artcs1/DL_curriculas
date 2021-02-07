@@ -1,0 +1,226 @@
+﻿COMPUTER AIDED DRAWING
+The Computer Aided Drawing course addresses various topics on 2D and 3D Objects, design oriented to 3D object printing, implementation of New Designs, isometric perspective, robotic engineering.
+This Subject is important in the formation of the Computer Engineer, due to the role played by Computer Aided Drawing in automation, which is present and expanding in a wide variety of industries (transport, aerospace, energy, manufacturing and construction, among others). At the end of the course, the student has the ability to apply the principles of Real 3D Designs or meshes, holograms, use of GPS its strategic role, and proposes the application of alternative solutions to decision-making in a timely, efficient and effective manner with The lowest possible cost.
+/
+General principles
+Measurements and units
+Vector analysis
+Operations with forces and moments
+Static balance of a body
+Center of gravity or centroids
+Kinematics
+Dynamic
+Friction or friction
+Work, Power and Mechanical Energy
+Simple Harmonic Movement (MAS)
+Wave motion
+/
+
+GENERAL CHEMISTRY
+It includes the study of the Modern Vision of Chemistry. Introduction to modern chemistry. Quantum theory. Periodic properties of the elements. Chemical links. Stoichiometry: Calculations with formulas and chemical equations. Chemical Solutions Introduction to Chemical Kinetics and Chemical Balance: Acid-base;
+/
+
+MATHEMATICAL ANALYSIS
+The Mathematical Analysis course has its purpose in such a way that at the end of its development, the participant has achieved competencies that allow him to: Efficiently design mathematical models using arithmetic, algebraic and geometric procedures to solve real-world problems related to his professional career.
+/
+
+INTRODUCTION TO COMPUTER ENGINEERING
+Describe and identify the elements, classification and components of a computer hardware and software, with responsibility and initiative.
+Research the role of the Computer Engineer and the importance of using legal software in our current society. It is a responsible analytical and supportive entity.
+Understand the importance of Information Systems, ICTs to Software Engineering showing interest and research responsibility.
+/
+SPANISH LANGUAGE
+The use of Spanish language constitutes the reason for our academic-professional solvency within a historical-social context that we will have to exercise as such. Therefore, the subject is of a theoretical and practical nature whose fundamental purpose is the development of the student's communication skills. In essence, it focuses on the integrated development of oral and written skills grounded in analytical-critical judgment, creative thinking and the assumption of positive values ​​and attitudes. The achievement of these capabilities will allow you to function efficiently and responsibly in today's globalized world. In general, the course covers four fundamental thematic lines:
+/
+
+FUNDAMENTALS AND METHODOLOGY OF PROGRAMMING
+The object oriented programming language. Stages of development of a program. Identifiers Reserved words. Types of primitive data. Primitive Variables Literals. Assignment sentences. Arithmetic expressions Algorithm. Flowcharts. Pseudocode Basic algorithmic instructions. Sequential processes Decision structures Repeating structures
+/
+FLUID MECHANICS
+The Subject develops in the student analytical, judgment and observation abilities through physical phenomena in order that these techniques help him in the perception and resolution of problems related to the profession of Environmental Engineering.
+By understanding the basic concepts of Physics II, the student will be able to explain and understand most of the phenomena of nature and the operation of machines and technologies that surround him.
+/
+LINEAR ALGEBRA
+Matrices, determinants and
+ecuation systems
+linear
+Vector spaces
+Transformations
+linear
+Bilinear forms and
+quadratic
+/
+DIFFERENCE AND INTEGRAL CALCULATION
+The Differential and Integral Calculation course has its purpose in such a way that at the end of its development,
+the participant has achieved competencies that allow him to: Interpret facts and natural phenomena,
+as well as economic and technological, applying differential and integral calculation in the solution of
+problems inherent to what has been described and his career
+/
+GENERAL BIOLOGY
+General biology practical theoretical course allows to understand biological systems as a result of a combination of various levels of organization
+/
+UNDERSTANDING AND WRITING TEXTS
+The course of Comprehension and writing of texts is of a theoretical and practical nature whose central axis is the development of textual skills based on the Linguistics of the text. In accordance with this discipline, textual activities will be developed within the framework of the expectations, interests and experiences of students in connection with their social, economic and cultural environment. In general, the course will have four thematic lines as fundamental axes:
+/
+ENGLISH I
+The purpose of the subject is for students to communicate with frequently used phrases and expressions related to areas of expertise that are especially relevant and that describe in simple terms aspects of their environment.
+The contents are: the development of comprehension and oral expression, as well as of comprehension and written production in levels of language use in simple and everyday situations with some fluency, linguistic correctness and property, as well as the use of learning strategies, texts contextualized and tasks.
+/
+OBJECT-ORIENTED PROGRAMMING
+Class. Objects. Use of Methods, Procedures and Parameters. Arrangement Management
+(Vectors and Matrices). Operations with chains. Arrangement of objects and files.
+/
+DATA MANAGEMENT I
+provides the
+main strengths in the management of existing database engines in the market
+labor. Technological advances make the information stored more and more,
+therefore the administration of it becomes of paramount importance for companies.
+/
+DESCRIPTIVE STATISTICS
+The General Statistics Course is of a Theoretical-Practical Nature, it provides a set of knowledge that allows you to solve problems, build logical reasoning, communicate information through the use of Statistical techniques; developing an analytical and logical thinking for his career.
+/
+DIFFERENTIAL EQUATIONS
+Ordinary differential equations of the first order. Applications of first order differential equations. Linear differential equations Homogeneous and non-Homogeneous of the nth order of constant and variable coefficients. Transformed Laplace properties and applications.
+/
+DIGITAL CIRCUITS
+Topics of Basic Digital Electronics.
+Digital Combinational Circuits.
+Development of Integrated Digital Circuits.
+Digital Circuits of Memories and Arithmetic Operations.
+/
+MATHEMATICAL LOGIC
+This course is theoretical
+Practical content allows the student to develop with criteria, responsibility and
+positive attitude in your academic performance within the courses that require these
+know. The Mathematical Logic course has its purpose in such a way that at the end
+its development, the participant has achieved skills that allow him to: Design
+efficiently mathematical models using arithmetic, algebraic procedures
+and geometric to solve real context problems concerning his career
+professional. The course is structured in 16 weeks, which will be developed
+in 4 teaching units: Propositional Logic, logical inference, logical circuits and algebra
+from Boole.
+/
+ENGLISH II
+The purpose of the subject is for students to communicate with frequently used phrases and expressions related to areas of expertise that are especially relevant and that describe in simple terms aspects of their environment.
+The contents are: the development of comprehension and oral expression, as well as of comprehension and written production in levels of language use in simple and everyday situations with some fluency, linguistic correctness and property, as well as the use of learning strategies, texts contextualized and tasks.
+/
+DATA STRUCTURE WITH OOP
+This compulsory subject and of a theoretical theoretical nature has been
+designed to provide the student of systems engineering, computer science,
+computing and related careers, learning algorithms (logical development
+to solve problems that require a computer, independent of
+language), from an optics of object-oriented programming. For him
+consolidation of the learning of these algorithms, use is made of a language
+of current programming (in C #) that uses the programming techniques
+object-oriented: data encapsulation and abstraction techniques, the
+notion of inheritance and polymorphism for development
+/
+DATA MANAGEMENT
+This course presents a fairly complete analysis of relational-object-oriented databases, starting with the installation of the DBMS, introduction into your work environment, operations for accessing and displaying data, database administration, tasks Audit and data migration.
+/
+INFERENTIAL STATISTICS
+Introduction. Probability of events, random variable, discrete probability distributions, Continuous probabilistic distributions. Distributions that are obtained from the Normal distribution, Law of Large Numbers, Central Limit Theorem.
+/
+NUMERICAL OPERATION
+The course is structured in 16 weeks of teaching classes, which will be developed
+in 4 teaching units: Software management. Nonlinear equations and their methods. Systems
+of Linear Equations and Interpolation. Derivation and numerical integration. Solutions of
+Differential Equations method of Euler and Runge-Kutta-Applications.
+/
+INVESTIGATION METHODOLOGY
+the basic theory to identify problems that allows the student
+plan, develop, analyze, and support the results of problem solving
+of reality, promoting autonomous learning and adaptation to new
+situations.
+/
+SCIENCE AND TECHNOLOGY PHILOSOPHY
+The Philosophy of Science and Technology is a subject that belongs to the general basic education, the
+which relates students to fundamental problems related to the scientific field. To meet
+with the purpose of preparing our students, from the Professional School of Computer Engineering in
+the construction and development of your professional profile
+/
+ENGLISH III
+The purpose of the subject is for students to communicate with frequently used phrases and expressions related to areas of expertise that are especially relevant and that describe in simple terms aspects of their environment.
+The contents are: the development of comprehension and oral expression, as well as of comprehension and written production in levels of language use in simple and everyday situations with some fluency, linguistic correctness and property, as well as the use of learning strategies, texts contextualized and tasks.
+/
+SOFWARE DEVELOPMENT WORKSHOP 1
+Database creation with free software. Connect Java with the database.
+Implement an incremental or sensitive search. Maintenance of a table.
+Maintenance of two or more tables. Simple reports Create the main module of the
+system. Reports with parameter. Levels of access to the system. Make copies and
+database restoration. System audit.
+/
+FUNDAMENTALS OF INFORMATION SYSTEM
+Information systems. Industrial administration, management, information systems in the company, Technology plans and information systems. The challenge of senior management, impact procedures, Decision-making process, Redesign of processes, Total Quality, Support system for characteristic decisions, Methods for the development of support systems. Information center, downsizing and rightsizing
+/
+CRYPTOGRAPHY 1
+The Cryptography I course is theoretical and practical in nature and is intended to provide the
+student the possibility of understanding that communication as an essential part of the
+humanity must happen in reliable and safe environments, especially in the context
+Person who is dedicated to computer science. The content includes topics related to communication and security of the
+information, computer security, cryptography, steganography, cryptographic methods and
+cryptanalysis
+/
+DISTRIBUTED PROCESSING WORKSHOP
+Definition of Distributed Processing, Network Architecture, Web Services, Web Socket,
+Distributed Systems Communication, Distributed Database Systems.
+/
+TECHNOLOGICAL INNOVATION WORKSHOP
+The subject is of a theoretical-practical nature, located in the specific basic training area of ​​the career and that contributes to the development of the conceptual, creative, sources and strategies aspect, in young people during their professional training, through techniques aimed at promoting and potentiate technological innovation.
+/
+ETHICS, SOCIAL AND ENVIRONMENTAL RESPONSIBILITY
+from the point of view of ethics, conceptualized as a discipline that scientifically addresses the theoretical study of moral behavior. In addition to theorizing about morality, students take a rational position towards moral values, consciously assuming those of: truth, justice, solidarity and honesty, raised by sustainable development, that is, to achieve an adequate balance for economic development, population growth, rational use of resources and protection and conservation of the environment that states the professional profile of our professional career.
+/
+SOFWARE DEVELOPMENT WORKSHOP 2
+Its purpose is to develop ASP.NE CORE MVC and Angular applications.
+/
+BUSINESS STRATEGIC PLANNING
+Due to the changing and dynamic world in which we live, tools are required that allow us to face decision making with greater knowledge of the changes that occur in the environment. Strategic Planning allows the organization or individual to analyze internal and external variables that influence performance, thus enabling the formulation of strategies that allow them to develop successfully in a more demanding and competitive environment. Therefore, the course provides the tools to carry out Strategic Planning at its three levels: corporate, business and functional, presenting the different elements of strategic action that allow the organization to interact with its environment in order to take advantage of opportunities to through proper planning under the philosophy of competitiveness. Under this premise, the following concepts are articulated: Business economic unit, importance of planning, the axes on which strategic planning is based, the value chain, strategic design, external factor matrix, internal factor matrix, competition matrix , FADO matrix.
+/
+CRYPTOGRAPHY 2
+It is intended to provide
+student the possibility of understanding and applying contemporary systems techniques
+cryptographic The content includes topics related to communication, security of
+information, computer security, symmetric and asymmetric cryptographic systems,
+cryptography applications
+/
+INFRASTRUCTURE OF COORPORATIVE NETWORKS
+The Corporate Networks Infrastructure course is a theoretical-practical course of tools, devices and technologies to achieve effective data transmission, allowing the student to have the basic concepts to understand local area networks.
+The course also aims to provide an overview of the possibilities that open with the use of computer networks based on current readings as well as in the discussion of real cases, which must be born from the practical experience of the teacher.
+/
+NETWORK CONNECTIVITY
+The Corporate Networks Infrastructure course is a theoretical-practical course of tools, devices and technologies to achieve effective data transmission, allowing the student to have the basic concepts to understand local area networks.
+/
+NATIONAL AND INTERNATIONAL REALITY
+NATIONAL AND INTERNATIONAL REALITY
+/
+SOFWARE ENGINEERING
+Concepts about project engineering. Requirements definition: Structure of software projects, technical manuals and aggregate documentation. Risk analysis. Notations for component specification. Programming techniques and processing costs. Project monitoring Techniques for testing programs. Forecast for operation and maintenance. Recommendations.
+/
+INFORMATION TECHNOLOGY PLANNING
+formal methodologies for systems planning. Strategic Business Planning and business perspective: Vision, Mission, Objectives, Goals, Critical Success Factors, current problems and possible solutions. IT management models IT governance. Define the Business Model and learn about the Company's modeling techniques: Functional Decomposition Diagram, Relationship Entity Diagram Know the Information Systems derivation technique based on business processes and entities. Define computer strategies for the business that go according to your current and future needs. Project to the growth of the organization with adequate technological support
+/
+SECURITY OF THE INFORMATION
+With the proliferation of technology there have been notable risks that may
+attempt against the operation of the systems, subjected to attacks by a
+Growing community of computer criminals. The existence of these risks and
+mechanisms for detection, mitigation or recovery bind the professional
+IT to incorporate in its profile the competences that make it possible to evaluate and
+Implement security measures in your systems.
+/
+NETWORK SERVICE ADMINISTRATION
+NETWORK SERVICE ADMINISTRATION
+/
+OPERATING SYSTEMS
+Basic operating system concepts. Processes. Management of I / O devices. memory management Processor management, information and file management, application of multi-user operating systems: installation, configuration, commands, applications on platforms. Distributed operating systems Administration of operating systems.
+/
+ART WORKSHOPS
+ART WORKSHOPS
+/
+SOFWARE QUALITY ASSESSMENT
+Definition of Distributed Programming, programming using HTML, Language of
+JAVA Architecture and programming, Client Server Architecture, Layout, Jspf, Servlet, JSTL,
+Sessions, MVC pattern, CRUD with Servlet, Web application servers.
+/
+FORMULATION AND EVALUATION OF INFORMATIVE PROJECTS
+Introduction to computer networks - Communications

@@ -1,0 +1,118 @@
+Introduction to Algorithms and Programming and Lab
+Introduction to algorithms, their representation, design, structuring, analysis and optimization. Implementation of algorithms as structured programs in a high level language
+/
+Computer Architecture and Assembly Language
+Introduction to computer architecture, assembly language programming, system software and computer applications. Number systems and data representation. Internal organization of a computer. Primitive instructions and operations. Assembly language. Integrated lecture/lab environment.
+/
+Data Structures and Prog
+Introduction to data structures and the algorithms that use them. Review of composite data types, such as arrays, records, strings and sets. Role of the abstract data type in program design. Definition, implementation and application of data structures, such as stacks, queues, linked lists, trees and graphs. Recursion. Use of time complexity expressions in evaluating algorithms. Comparative study of sorting and searching algorithms
+/
+Computer Organization
+Extension of basic addressing concepts to more advanced addressability, such as base register and self-relative addressing. Comparative computer architecture focusing on such organizations as multiple register processors and stack machines. Basics of virtual memory input-output. Introduction to the concept of microprogrammable systems. Low-level language translation process associated with assemblers. System functions such as relocatable loading and memory management. Application of data structure and hashing techniques to the above
+/
+Discrete Structures for Computer Science and Lab 
+Study of discrete mathematical structures and proof techniques as used in computer science. Discrete structures, such as functions, relations, sets, graphs and trees. Proof techniques, such as proof by induction, proof by contradiction and proof by cases
+/
+Advanced Data Structures
+Introduction to advanced data structures (particularly persistent structures) using object-oriented design. Main memory structures, hash tables and trees. Architectural foundations for files. Large-scale sorting. Hash-based persistent structures. Indexed files. Introduction to databases.
+/
+Calculus I
+Limits, derivatives, and applications of differentiation. Definite and indefinite integrals. The fundamental theorem of calculus and applications of integration.
+/
+Calculus II
+Techniques of integration and improper integrals. Sequences and series. Power series and Taylor polynomials. Parametric and polar coordinates. Vectors and solid geometry.
+/
+Introduction to Linear Algebra
+Systems of linear equations, matrices, determinants, eigenvalues, vector spaces and linear transformations, as well as introduction to inner products on Rn and spectral theorem for symmetric matrices.
+/
+Introduction to Formal Logic
+Introduction to modern deductive logic, including propositional logic and theory of quantification. 
+/
+Biological Principles I
+Selected topics illustrating major concepts in biology, including the scientific process, heredity, evolution, taxonomy and systematics, ecology and animal behavior. Observations, experiments and demonstrations. Emphasis on unifying biological concepts and methods in science
+/
+Biological Principles II
+Selected topics illustrating major concepts in biology, including biological chemistry, cells, molecular genetics, animal development and plant and animal physiology. Observations, experiments and demonstrations. Emphasis on unifying biological concepts and methods in science.
+/
+General Chemistry I
+Basic course in the fundamental principles and theories with special emphasis on chemical calculations. Includes a discussion of the kinetic molecular theory, atomic structures, the periodic table, solutions and oxidation-reduction
+/
+General Chemistry II
+Introduction to kinetics, gas phase and solution equilibria, electrochemistry, chemical thermodynamics, radio, organic chemistry and the descriptive chemistry of the more familiar metals and nonmetals.
+/
+Mechanics
+Dynamics and statics of particles and rigid bodies, harmonic vibrations and fluid mechanics. 
+/
+Electricity and Magnetism
+Electric and magnetic fields, circuit theory and electromagnetic induction
+/
+Automata, Languages and Computation
+Study of the relation of languages (defined as sets of strings) and machines for processing these languages, with emphasis on classes of languages and corresponding classes of machines. Phrase structure languages and grammar. Types of grammar and classes of languages. Regular languages and finite state automata. Context-free languages and pushdown automata. Unrestricted languages and Turing Machines. Computability models of Turing, Church, Markov and McCarthy
+/
+Introduction to Operating Systems and System Architecture and Lab
+Recommended Prerequisite: COMP 105C or knowledge of “C” Language. Examination of the principal types of systems, including batch, multi-programming and time-sharing. Discusses networked system. Considers the salient problems associated with implementing systems, including interrupt of event driven systems, multitasking, storage and database management and input-output. Emphasizes some of the simple algorithms used to solve common problems encountered, such as deadlocks, queue service and multiple access to data
+/
+Concepts of Programming Languages
+Discussion of issues in the design, implementation and use of high-level programming languages through a historical framework, including how languages reflect different design philosophies and use requirements and the technical issues in the design of main abstraction constructs of programming languages. Other approaches to imperative or object-oriented programming, functional programming, logical programming and parallel programming.
+/
+Introduction to Software Engineering
+Concepts and techniques for systems engineering, requirements analysis, design, implementation and testing of large-scale computer systems. Principles of software engineering for production of reliable, maintainable and portable software products. Emphasis on object-oriented analysis and design techniques. Topics include unit, integration and systems testing, configuration management, software quality assurance practices and an introduction to Computer Aided Software Engineering (CASE). This is a lecture portion of a course in software engineering involving the design and partial implementation of a software system as a group project.
+/
+Algorithm Design and Analysis
+The analysis of algorithms, in terms of time and space complexity for best/average/worst case execution using asymptotic notation; the application of standard algorithmic approaches, including greedy, divide and conquer, and dynamic programming, to algorithm design; and a review of classical algorithms, including sorting, searching, and graph algorithms.
+/
+Senior Design Project
+Senior Design Project
+/
+Senior Project Lab
+Senior Project Lab
+/
+Introductory Probability 
+Sample spaces, probability rules, independence, conditional probability, Bayes Theorem, discrete and continuous random variables and distributions (e.g. binomial, Poisson, geometric, normal, exponential, uniform), expectation, moment generating functions, joint distributions and central limit theorem.
+/
+Applied Statistics 
+Introduction to the practice of statistics, emphasizing the role of probability. Includes basic probability, discrete and continuous probability distributions, expectation and variance, sample surveys and experiments, displaying and summarizing data, sampling distributions, central limit theorem, inference for proportions, chi-square test and least squares regression. Mathematics majors who are not in the Secondary Teaching option may not receive credit for both 
+/
+Logic Programming
+Programming techniques in the logic programming language PROLOG. Prenex conjunctive normal form and grammatical algorithms. Tableaux, sequenzen, resolution and other semi-decision procedures. Closures of relations, fixed point theory, control mechanisms, relationship to functional programming.
+/
+Computer System Security
+Analysis of the need for computer system security and the security techniques in operating systems, databases and computer networks. Supporting techniques, such as auditing, risk analysis and cost-benefit tradeoffs, are discussed
+/
+Computer Network Software
+Basic software design and analysis considerations in networking computers into coherent, cooperating systems capable of processing computational tasks in a distributed manner. Network topology, routing procedures, message multiplexing and process scheduling techniques
+/
+Language Design and Compilers
+Examination of the issues involved in the design and subsequent implementation of programming languages. Considerations of implementation difficulties, including various features in a programming language. Tools and techniques to facilitate both the processing of programming languages and the building of programming processors.
+/
+Database Design
+Database structure, including: structure definition, data models, semantics of relations and operation on data models. Database schemas, including element definition and use and manipulation of the schema. Elements of implementation. Algebra of relations on a database. Hierarchical databases. Discussion of information retrieval, reliability, protection and integrity of databases
+/
+Computer Graphic Systems and Design and Lab
+Fundamental concepts of computer graphics. Graphics devices; graphics languages; interactive systems. Applications to art, science, engineering and business. Trade-offs between hardware devices and software support. 
+/
+Multimedia Systems Design
+Study of fundamentals of multimedia storage, processing, communication, presentation and display by digital means with emphasis on audio, still images and video media. Includes sampling theory, compression techniques and synchronization. Discussion of hypermedia and methodology issues. Multimedia programming; software tools for authoring multimedia applications and interfaces.
+/
+Introduction to Artificial Intelligence
+Exploration of the use of computers to perform computations normally associated with intelligence. These include game playing, theorem proving, problem solving, question answering and visual perception. Topics include languages, system architectures and heuristic strategies for advanced, high-level computations. Covers computational models for knowledge representation, natural language and vision
+/
+Algorithm Design and Analysis
+The analysis of algorithms, in terms of time and space complexity for best/average/worst case execution using asymptotic notation; the application of standard algorithmic approaches, including greedy, divide and conquer, and dynamic programming, to algorithm design; and a review of classical algorithms, including sorting, searching, and graph algorithms.
+/
+Web Engineering I and Lab
+Internet infrastructure and the underlying networking technologies. Study of system and software architectures for web applications, e-business and e-commerce systems. Principles of website design. Advances in web-engineering technologies. Principles of web-based based transaction processing. XML and the associated technologies. Web service technology. Security and privacy issues.  Study of the emerging Internet technologies.
+/
+Human-Computer Interaction
+Examines the information exchange between humans and computer systems. Discusses aspects of input/output devices, software engineering and human factors with respect to human-computer interactions. Topics include text and graphic display; user modeling; program design, debugging, complexity and comprehension; and current research studies and methodologies
+/
+Academic Internship
+Academic Internship
+/
+Experimental Topics Courses in Computer Science 
+Experimental Topics Courses in Computer Science 
+/
+Independent Study
+Independent Study
+/
+

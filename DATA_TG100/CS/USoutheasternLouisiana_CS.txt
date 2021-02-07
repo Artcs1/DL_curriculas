@@ -1,0 +1,98 @@
+/
+Freshman Composition
+Instruction and practice in the basic principles of expository writing: the paragraph and the whole composition-the methods of development, the thesis, the outline and organization, the structure and style. Instruction in functional grammar, sentence structure, diction and spelling, punctuation and mechanics, in direct relation to the student's writing. 
+/
+Calculus I 
+Topics include limits, the derivatives, techniques of differentiation, applications of the derivative, antiderivatives, definite integrals, and the calculus of transcendental functions.
+/
+Critical Reading and Writing 
+Development of skills in reading critically, analyzing models of good writing, and writing in response to a variety of texts, including imaginative literature. Writing the argumentative essay, the critical essay, the research paper, and the essay examination. /
+/
+Calculus II 
+Topics include integration techniques, applications of the definite integral, and infinite series. Calculus will be used in the solution of real world applications.
+/
+WORLD LITERATURE
+WORLD LITERATURE
+/
+Applied Statistics with Probability 
+Topics will include the basic rules of probability, commonly used discrete and continuous distributions, random sampling and sampling distributions, regression analysis, parameter estimation, and hypothesis testing.
+/
+Intro to Prof and Technical Writing 
+An introduction to the genres of writing used in the technical and professional workplace, including memos, letters, instructions, directions, proposals, résumés, and short reports.
+/
+NUMERICAL METHODS
+Topics include error analysis, Taylor series, solutions of non-linear equations, systems of linear equations, and interpolation.
+/
+LINEAR ALGEBRA I
+Topics will include equations, matrices, determinants, vector spaces, linear transformations, eigenvalues/eigenvectors/eigenspaces, diagonalization, and inner product spaces.
+/
+GENERAL BIOLOGY I
+Principles of biology from the cellular level including biochemistry, cell biology, metabolism, photosynthesis, molecular biology, and genetics. 
+/
+GENERAL BIOLOGY LAB I
+Laboratory exercises for studying the principles of biology from the cellular level including biochemistry, cell biology, molecular biology, and genetics.
+/
+CALCULUS III
+Topics include vectors and geometry of 3-space, vector-valued functions, directional derivatives, and multiple and line integrals.
+/
+Discrete Structures
+Introduction to discrete structures of computing. Topics include sets, relations, functions, digraphs, matrices, recursion, partially ordered sets, Boolean Algebra, artificial languages, and finite state machines.
+/
+Algorithim Design & Implementation II 
+An introduction to elementary data structures, searches, simple and complex sorts, and objects.
+/
+Software Engineering
+Introduction to the methods used for specifying, designing, implementing, and testing medium and large-scale software systems; methods for organizing and managing software development projects, professionalism and ethical resposibilities in software development.
+/
+Assembly Language 
+Topics include machine representation of data, fixed point, floating point, and decimal arithmetic, macros, address modification, bit manipulation, and subroutine linkage. 
+/
+Computer Architecture 
+Hardware organization and implementation of computer architecture. Instruction set considerations and addressing modes. System control concepts. CPU control, microprogramming, I/O interface and memory organization. Parallel and data flow architecture.
+/
+Data Structures 
+Further study of trees, including: balanced trees, B-trees, 2-3 trees, and tries; external sorting, symbol tables, and file structures.
+/
+Numerical Methods 
+Topics include error analysis, Taylor series, solutions of equations, linear simultaneous equations, and interpolation.
+/
+Survey of Programming Languages
+Involves the formal study of programming languages, specification, and analysis in terms of data types and structures.
+/
+SURVEY WORLD ART HISTORY I
+One semester chronological survey of world art and architecture from the Paleolithic to the Late Gothic eras. Emphasis varies with instructor.
+/
+WESTERN CIVILIZATION TO 1500
+A survey of Western Civilization from prehistoric times to 1500. Four units on the Ancient Near East; the Ancient Greeks; the Ancient Roman World; and the Middle Ages. Includes in-depth coverage of the role of women.
+/
+Capstone I
+Topics include organization and management of software projects, security, programmer teams, validation and verification.
+/
+Integrated Technologies for Enterprise Systems 
+This course provides an introduction to several current technologies, and how they can be used to integrate software solutions into a functional large interconnected system. 
+/
+Introduction to Public Speaking
+Training in the organization of materials and the oral and physical aspects of delivery in various speaking situations. Intended to give the beginning student an understanding of and practice in communicative speaking.
+/
+Operating Systems 
+Topics include process management, processor management, memory management, device management, file management, process synchronization and interprocess communication, and user interface.
+/
+Macroecoomics
+The nature of economics, economic concepts and institutions, monetary theory, national income theory, financing of business, population problems and economic stability.
+/
+Automata and Formal Languages
+Introduction to computing device capabilities through study of abstract machines and corresponding formal languages. Topics include Turing machines, recursion, Chomsky grammars, context-free languages, regular languages, and finite automata.
+/
+Current Trends in Computer Science
+Topics include computer and information ethics, social implications of technology, current trends in computer science and information technology applications and development, professional issues, and emerging trends and current topics in computer science research.
+/
+MACHINE LEARNING
+Introduction to machine learning. Topics include genetic algorithms, inductive learning, statistical learning methods, reinforcement learning, neural networks, decision trees, analytical learning, and Bayesian learning.
+/
+INTRODUCTION TO ROBOTICS
+An introduction to robotics including the history of robots, the sense-plan-act paradigm, any-time learning systems, and the three-layer architecture. The class will emphasize concepts and practical application of robotics. 
+/
+FRESHMAN ACADEMIC SUCCESS AT SOUTHEASTERN
+Topics include the purpose and value of higher education; the expectations and responsibilities of a college student; the development of analytical and metacognitive learning strategies.
+/
+

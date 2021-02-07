@@ -1,0 +1,62 @@
+/
+Writing With Confidence and Purpose
+Writing With Confidence and Purpose
+/
+Ethics
+Ethics
+/
+College Algebra Concepts
+This course provides students with a solid foundation in key algebra skills. Topics include solving and graphing linear, quadratic, and polynomial functions, composition and inverses of functions, rational and radical functions, modeling of exponential and logarithmic data, and solving systems of equations and inequalities. Upon completion, students will have cultivated perspectives and analytical skills required for efficient use, appreciation, and understanding of algebraic concepts.
+/
+Living and Learning in a Technological World
+Imagine life without cell phones, television, or the Internet. Recent technological developments have significantly altered all aspects of human life: at work; in play; and in personal, family, and social interactions. In this course, students examine the advantages, disadvantages, and controversies of living and learning in an ever-changing technological environment. By exploring multiple perspectives, students discover how technology is changing media, culture, business, health, human behavior, and overall access to information. 
+/
+Introduction to Management
+The roles, functions, and styles of managers, specifically principles and procedures for planning, organizing, leading, and controlling organizations, are addressed in this introductory course. Emphasized is the practical application of theory to reality. Students focus on the techniques, tools, and methods of managerial decision making [JLM1] and employee motivation, as well as consider the effects of ethical leadership and management practices on an organization. This course is structured so that students have the opportunity to see the interrelationships among the functions, components, and disciplines that comprise the field of management and thereby gain a comprehensive perspective as a foundation for the further study of management.
+/
+Fundamentals of Accounting
+Students take a top-down approach to understanding introductory accounting documents and procedures by exploring a business's financial statements, including the balance sheet, income statement, and cash flow statement in this course. Students explore the practical uses for information that can be gleaned from these statements, individually and as a whole, through a detailed examination of the properties and characteristics of each statement. Students engage in application assignments and discussions on a variety of topics, such as regulations that should be followed when preparing financial statements as promulgated by generally accepted accounting principles
+/
+Operations Management
+An overview of the concepts, methodologies, and applications of business operations management is provided to students in this course. Students focus on operations, the supply chain, and the process of transforming resources into products and services. They explore the responsibility of operations managers to make cost-effective and cross-functional decisions that increase the productivity and competitiveness of manufacturing and service organizations. Students examine product flow processes and product-process strategies to increase efficiency and effectiveness within organizations. Students also have the opportunity to learn the process of planning, implementing, and monitoring operations to ensure the continuous improvement and quality standards of goods and services.
+/
+Information Systems in Enterprise
+All businesses rely on systems to process, collect, share, and store important information. The most effective way to help an organization achieve its goals is to understand how to leverage information systems and emerging technology. In this course, students have the opportunity to gain skills needed to employ such leverage in the professional arena. Students examine the characteristics of information systems and their role in organizations. They also assess and discuss the impact that information systems have on the enterprise as a whole, in addition to their current
+/
+Statistical Methods and Applications
+Students in this course gain a foundation in statistical methodology as well as ways to use critical judgment in analyzing data sets. Through technology applications and hands-on lab work, students learn concepts of descriptive statistics, hypothesis testing, confidence intervals, t-test, one-way analysis of variance, correlation, and non-parametric methods (e.g., chi-square tests). Students gain the knowledge and skill to be able to analyze and apply statistics to research problems and everyday life situations.  
+/
+Object-Oriented Programming Concepts
+Information systems rely on underlying programs that respond to users and process information. An information systems specialist must understand the structure and purpose of programs and be able to work with programmers to ensure designs that meet system requirements. Object-oriented programming (OOP) and design facilitate this by presenting information systems as classes and objects that represent complex system contexts in a manner directly transferable to programming specifications
+/
+IT Infrastructure
+Information technology (IT) is essential to the function and success of nearly all businesses. Businesses whose systems are lacking or experience failure are at risk of significant loss; therefore, there will always be a need for IT support and innovation. In this course, students are introduced to fundamental concepts of the IT infrastructure to prepare for a role in the field of IT. Students learn about the structure and purpose of hardware components (computers, networks, and interface devices) and software components (operating systems, middleware, applications, and system software). They examine key issues of capacity, performance, reliability, scale, and obsolescence through the evaluation of IT's role in supporting business and individuals.
+/
+Internet Computing
+The Internet stitches together many disparate devices and software components into a flexible fabric that supports an enormous variety of uses. Students in this course learn about the functions of these components through a comprehensive evaluation of Internet computing. They examine the design of the Internet protocol stack, the structure and function of some of the most important Internet services and applications, and Internet governance. Students have the opportunity to gain practical experience through the application of concepts, such as performance, scale, and reliability, in the design of information systems.  
+/
+Systems Analysis
+There are many roles involved in creating and managing an organization's information system, including the systems analyst. The analyst helps ensure that the software development process is successful by understanding its purpose, scope, and resource requirements. Students in this course face the prospect of understanding the field from the perspective of a systems analyst. Students focus on the definition and examination of system requirements, both functional and nonfunctional, for an information system (IS) project. Through the review of videos, case, studies, and supplemental websites, they learn about the identification of stakeholders and techniques for requirement elicitation, representation, and life cycles. Students sharpen their communication and practical skills through group projects during which they apply concepts learned in the course to an actual information system.
+/
+Systems Design
+This course is an introduction to the approaches used to specify details during the design phase of a systems development life cycle (SDLC). Students explore the discipline of reducing requirements to the structural and functional design of organizational information technology solutions. They examine conceptual modeling, design patterns, and application frameworks. Students learn the basics of modeling, design representations, and the use of design tools. Through discussion with their peers, students confer about and debate the different approaches to systems design, security aspects of interfaces, and documentation. Students work toward gaining collaborative and critical-thinking skills through group projects focusing on the specifics of system design, including planning and implementation.
+/
+Database Management Systems
+All types of businesses rely on systems to manage their data and to keep that data secure, accurate, and reliable. A database is a system designed to do just this as well as to simplify the processes of data entry, search, and retrieval. In this course, students learn about database management through the examination of the life cycle of a database. Students focus on the representation and manipulation of information in relational database management systems. They learn how to map real-world concepts onto relational representations and how to manipulate them through relational queries to implement data-intensive applications. They also discuss related issues, such as database storage, data validation, sorting, grouping, and nesting data. Students learn to use a core subset of the Structured Query Language (SQL) as well as the fundamentals of database administration. 
+/
+Project Management
+Project Management
+/
+Business Process Design
+Students in this course have the opportunity to gain working knowledge of the requisite skills, concepts, and methodologies that managers and team members use to conduct a business process redesign (BPR). Through weekly readings of literature and contemporary articles, students learn about the manager’s role in the business process as well as the function of BPR. They examine the function of information systems as enablers for business process design. They also learn how to analyze business processes and redesign them for dramatic results. Reinforcing the practical application of concepts, students demonstrate their critical-thinking and problem-solving skills through a case study assignment in which they solve a real-world
+/
+Management of Technology
+The efficiency and success of most organizations today depends on the ability of leaders to integrate technology and business functions through activities such as supply chain management, outsourcing, and e-business practice. Students in this course examine the key concepts in management of information technology and the role of technology managers. They analyze the management of technology from both a process and system perspective and investigate major technical issues involved in innovation and implementation. Students engage in weekly discussions on a variety of topics, such as advanced databases, business intelligence, artificial intelligence systems, wireless technology, and outsourcing.
+/
+Information Systems Service Management
+Businesses often do not have the knowledge or resources to execute a project on their own. As a result, they rely on external resources, often times using offshore vendors who have the skills and tools required to complete the job. While this process allows business-lucrative opportunities, it also requires someone to manage the relationship between the organization and outside vendor. In this course, students examine the conception of information systems (IS) as collections of services aggregated in a supply chain that stretches across organizations and continents. Students investigate the concept of service-oriented architecture and the various disciplines of open interfaces, open source software, service-level agreements, and client-vendor relationships that allow complex assemblies of services to work. They analyze and discuss the business and organizational strengths and weaknesses of different approaches for a real-world, practical'
+/
+IS Capstone Project
+IS Capstone Project
+/
+

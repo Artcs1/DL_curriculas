@@ -1,0 +1,106 @@
+/
+CALCULUS I
+The course provides an introduction to calculus with emphasis on differential calculus. Topics include limits of functions, derivatives of algebraic and transcendental functions, application of the derivative to curve sketching, optimization problems, and examples in the natural sciences, engineering, and economics. 
+/
+ENGLISH COMPOSITION I
+Prepares students for diverse types of college writing. Covers the writing process, general criteria used to evaluate writing, collaborative writing, and rhetoric, especially audience analysis.
+/
+INTRODUCTION TO PROGRAMMING
+Problem-solving and pre-programming skills developed using hands-on activities in preparation for the introductory programming course.
+/
+PROB SOLV AND PROG CONCEPTS
+An introduction to the design of algorithms and their implementation in a high-level programming language. Topics include: problem solving strategies, programming concepts, programming environment, control structures, methods, arrays, searching, sorting, object-oriented programming, and file input/output.
+/
+DISCRETE MATH STRUCTURES
+This course is an introduction to discrete mathematics for students majoring in computer-related areas. Students will be introduced to concepts and methods that are essential to theoretical computer science. A strong emphasis is placed on mathematical reasoning and proofs. Topics include sets, functions, induction, recursion, combinatorics and graphs. 
+/
+CALCULUS II
+This course is a continuation of MA 125 with emphasis on integral calculus. Topics include techniques of integration; applications of the definite integral to geometry, natural sciences, engineering, and economics; improper integrals; infinite sequences and series; Taylor polynomials and Taylor series; parametric equations and polar coordinates. 
+/
+ENGLISH COMPOSITION II3 cr
+Prepare students for college writing by focusing on argumentation, research, and the critical thinking required to argue effectively.
+/
+INTRO DATA STRUCTURES ALGS
+The course will cover techniques to organize and access collections of data, definition, implementation, and use of Classes and Abstract Data Types(ADT). Topics include: stacks, queues, heaps, search trees, recursion, algorithmic complexity, advance searching and sorting algorithms, and graphs and their application to problems.
+/
+DECISION MAKING - SMALL GROUPS
+Theory and practice in leading and participating in small group decision making Special focus on group problem solving and the management of conflict in small group decision-making meetings. 
+/
+PUBLIC SPEAKING
+A beginning study of the principles of speech communication as they relate to speaker-audience communication. The student is provided an opportunity to develop the art of audience and subject analysis, research, critical thinking, organization, language, and delivery of speeches. 
+/
+DIGITAL LOGIC COMPUTER ARCH
+Topics include: Boolean algebra, minimization techniques, combinatorial and sequential circuit analysis, memory organization, microprocessor concepts, and CPU architecture.
+/
+SOFTWARE ENGINEERING PRIN
+Models, techniques, and tools used in project management. Topics include: software development process, task scheduling, estimation and progress measurement. Coordination of development teams. Standards, testing plans, configuration management, metrics and use of CASE tools, system delivery and maintenance strategies.
+/
+OPERATING SYSTEMS
+This course covers the development of operating systems that control computing systems. Topics include: file systems, process management, scheduling, memory management (real and virtual), security, and concurrency. 
+/
+COMPUTER ORG-ARCHITECT
+An introduction to computer organization using a top down approach from system component to the register level, internal representation of data, general assembly and linking concepts, addressing modes, and introduction to a specific processor, its architecture and operating system.
+/
+NETWORKING AND COMMUNICATIONS
+An introduction to computer networks. Topics include: data transmission, network architectures, file compression algorithms, communication devices and protocols, network routing and flow algorithms.
+/
+ADV DATA STRUCTURES AND ALGS
+This course teaches techniques for the design and analysis of efficient algorithms, emphasizing methods useful in practice. Topics to be covered include: mathematical foundations; analytic, empirical, and qualitative evaluation techniques; hash tables; graph algorithms; balanced trees; priority queues; dynamic programming; and divide-and-conquer.
+/
+SECURE SOFTWARE ENGINEERING
+The objective of this course is to enhance the security of software by introducing sound security principles that should be incorporated into the software development process. Students will learn a risk management framework and best practices for software security including code reviews, architectural risk analysis, penetration testing, risk-based security test, abuse cases, security requirements, and security operations. 
+/
+PROG LANGUAGE THEORY
+Formal examination of programming languages. Formal Language concepts including syntax and basic grammars are studied. Language features such as data types and structures, control structures, and data flow are examined. The run-time environment and the process of interpretation/compilation are covered. Interpreter and compilation techniques are introduced.
+/
+HY OF WESTERN CIVILIZATION I
+History of humankind, emphasizing the development of the West to c. 1600 C.E. Topics may include Mesopotamia and Egypt, Ancient Greece and Rome, the origins of monotheistic religions, and medieval Europe, 
+/
+US HISTORY TO 1877
+Survey of US History to 1877. Topics may include Native American societies, colonial societies, the American Revolution, slavery, the Civil War, and Reconstruction. 
+/
+INFORMATION TECH IN SOCIETY
+A discussion of personal, local, national, and global impact of information technology on ethical, legal, and social issues. 
+/
+FORM LANG - AUTOMATA THEORY
+Mathematical preliminaries, languages, context-free grammars, parsing, normal forms, finite automata, regular languages, pushdown automata, Turing machines.
+/
+APPLIED PROBABILITY-STATISTICS
+Concepts of probability theory, discrete and continuous probability distributions including gamma, beta, exponential and Weibull, descriptive statistics, sampling, estimation, confidence intervals, testing of hypothesis, ANOVA and multiple comparisons, linear and multiple regression, correlation, nonparametric analysis, contingency table analysis, computer-assisted data analysis using appropriate statistical software. 
+/
+HY OF WESTERN CIVILIZATION II
+History of humankind, emphasizing the rise of the West, from c. 1600 C.E. Topics may include the Enlightenment, the French Revolution, WWI, WWII and the Cold War. 
+/
+US HISTORY SINCE 1877
+Survey of US History from 1877. Topics may include Western frontiers and Native Americans, Progressive Era, immigration, the Great Depression and Civil Rights Movements. 
+/
+TECHNICAL WRITING - W
+The purpose of this course is to train students in the kinds of written reports required of practicing professionals, aiming to improve mastery of the whole process of report writing from conceptual stage through editing stage.
+/
+SENIOR CAPSTONE EXPERIENCE-W
+A comprehensive team project will be completed and documented. Writing assignments will reinforce the importance of life-long learning, leadership skills, and the ethical issues of computing as well as appropriate resume and job application cover letter creation. 
+/
+CIS SENIOR SEMINAR
+A series of mini-seminars designed to prepare graduating seniors for transition to professional careers in computing or graduate study and to assess student learning outcomes in the curriculum. Mini-seminars would include, but would not be limited to: resume development, interviewing tips and techniques, career planning, professionalism and ethics in the workplace, and advanced graduate study and professional development.
+/
+COMPILER DESIGN-CONSTRUCTION
+Lexical analysis, syntactic analysis, intermediate code generation, object code generation, optimization, memory use, generators for scanners and parsers.
+/
+ADV GAME & SIMULATION DEV
+This course will cover advance topics related to the development of game and simulation software. Topics include game physics, collision techniques, game mechanics, level design, artificial intelligence, and security. 
+/
+REAL-TIME SOFTWARE SYSTEMS
+Design and implementation of software for real-time computer systems. Survey of typical real-time systems; techniques for code-conversion, error checking, and transmission monitoring.
+/
+COMPUTER GRAPHICS
+An in-depth study of hardware and software techniques used in computer graphics. Study of display and entry devices, including refresh, storage, and raster scan topics. Software techniques will include display files, windowing, clipping, two and three-dimensional transformations, and hidden-surface removal.
+/
+AI THEORY AND PROGRAMMING
+Introduction to basic concepts, implementation techniques, and philosophies of artificial intelligence and intelligent systems. Introduction to expert systems, fuzzy logic systems, neural networks, and techniques for artificial intelligence programming. The fundamentals of an AI programming language (LISP or PROLOG) will be presented. The language will then be used to solve problems in typical AI applications.
+/
+INTRO TO PHYSICAL SCIENCE
+The scientific attitude, the application of physical laws and principles to modern life, and assembling of apparatus and materials for demonstrating these principles are studied. 
+/
+INTRO TO PHYSICAL SCIENCE
+The scientific attitude, the application of physical science laws and principles to modern life, and assembling of apparatus and materials for demonstrating these principles are studied.
+/

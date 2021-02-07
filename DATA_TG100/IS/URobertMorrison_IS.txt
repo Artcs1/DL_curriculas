@@ -1,0 +1,106 @@
+/
+Introduction to Information Technology
+Fundamentals of Information Technology provides the student with an understanding of computers and the impact of information technology on organizations and society. The complexity of designing effective information systems is discussed, and the student learns to compare, analyze, and evaluate information. Students will examine social, legal, and ethical issues involving privacy, intellectual property, health concerns, and accessibility. The course involves both an overview of technological concepts and student practice in solving typical information-related problems. The course includes the use of Excel and various other software.
+/
+Reading & Writing Strategies
+This course introduces the integrated nature of the communications skills program and establishes the importance of communications for a successful life and career. Students are made conscious of the behaviors and communication patterns typical of the groups to which they and other students belong; they learn to see themselves as audiences for others as they explore how different audiences have different patterns of communication and different expectations; they are encouraged to value and respect differences in communication patterns exhibited by others; and they are encouraged to adapt to the patterns of behavior and communication expected in academic and professional life. Though all the communications skills are introduced and practiced, reading, interpreting, and writing are emphasized. 
+/
+Survey of Economics
+Survey of Economics is an introductory survey of the major elements of economics. Students will learn to apply economic analysis to understand macroeconomic and microeconomic issues. Among the topics covered are the operation of markets, fiscal and monetary policies, and international economics. This one semester course fulfills the Economics component of the Robert Morris University Core.
+/
+General Psychology
+This course is a survey and examination of principles of human behavior and methods of scientific approach to understanding growth and development. The course deals with the complexities of behavior and helps the student to better understand himself and his environment.
+/
+Humanities: Art & music
+This class will serve as an introduction to the arts focusing primarily on the Western Cultural Tradition and will explore the characteristics, style, classification, form, and content of art through critical analysis and relationship to historical events. The student will be exposed to the arts, especially those which have established the foundation for the Western canon; however, it is the main objective of the course to aid in the development of the student's ability to think critically. 
+/
+Introduction to Web Development
+Web Design is an intermediate level course that integrates Cascading Style Sheets (CSS), the JavaScript programming language, and Dynamic HTML into a deliverable web-based eCommerce or Transactional Processing System interface. CSS's display and print properties are presented in detail through various practical Web design projects. Student will be able to organize complicated web page designs, position HTML elements, control visibility and presentation of HTML layers similar in quality found in the desktop publishing environment. By using the Document Object Model, students will use JavaScript client-side programming language to transform static web pages into applications that will interact with the web user, enhance document navigation, process data before submitting to a server and store state information through the use of cookies. 
+/
+Visual Basic Programming
+This course provides the student with experience in using the microcomputer as a problem-solving tool. The primary feature is the development of well-structured, user-friendly applications using the Visual Basic programming language. Concise problem analysis, logic development, and programming techniques are emphasized. Programming competency in Visual Basic is developed and applied to a wide range of potential business and other applications. Topics ranging from introductory programming concepts through various file creation/manipulation/update applications are presented and practiced.
+/
+Argument & Research
+This course reinforces the integrated nature of the communications skills program and the significance of communications for a successful life and career. By learning to analyze and understand their professors as audiences, students are made conscious of the communications and behavioral expectations of their professors and of the reasons for variations in those expectations. While acquiring strategies for researching, interviewing, interpreting, and speaking, students focus on principles of logic, critical thinking, argumentation, and audience analysis necessary to create their own arguments as well as critique the arguments of others.
+/
+Statistics
+This course is designed to give the student a general understanding of statistical tools as they are used in making decisions. The examples and exercises emphasize interpretation and are drawn from a wide range of actual situations. Excel computer software is used to simplify complex computations. The first section covers analysis decision-making through the use of summarized descriptive data, both ungrouped and grouped. This includes the study of frequency distributions, measures of central tendency and measures of dispersion. 
+/
+Intro to Financial Accounting
+This course is designed to introduce the student to accounting terms and principles and familiarize the student with the preparation and use of financial statements and other financial information. The focus of this course is on accounting data generated for external users of financial information. The accounting environment is examined along with the basic concepts which govern the recording and reporting of economic events in the accounting records.
+/
+Visual Basic Programming II
+This course assumes prior programming experience in Microsoft Visual Basic and deals with designing and implementing Visual Basic applications in the context of actual information systems in organizations. Topics covered include the design and development of client-server applications, and writing programs that interface with external data structures, such as sequential and random data files, large scale databases, Internet Applications, and standard recurring business reports.
+/
+Microcomputing Technology
+This course focuses on installing, supporting, securing, and troubleshooting personal computers, laptops, mobile hardware, and Windows 7/8 operating systems. Hands-on virtual simulations will be an important instructional component of this course. Support and troubleshooting processors, RAM, device interfaces, storage devices, and storage architecture and I/O devices, such as, SATA, Solid State devices, SCSI, optical devices, RAID, NAS, SAN, barcode readers, digital cameras, webcams, graphic tablets, motion controllers, TV tuners and video systems will be covered. Installation, support and troubleshooting wired and wireless TCP/IP4/IP6 home networks, network devices and applications, Virtualization and cloud fundamentals, Linux, MAC OS X, .g., Android, iOS, and Windows Mobile operating systems and devices will be introduced. 
+/
+Finite math & Applied Calculus
+Directed toward students in the bachelor of science in business administration and other disciplines outside of the School of Engineering Math and Science. Topics covered include systems of linear equations, matrices, linear programming, differential calculus, exponential functions and the mathematics of finance. The primary focus is the application of each of these topics. 
+/
+World Civilization I
+This course will survey the political, social, and cultural development of world civilizations from prehistory to the dawn of European exploration and expansion. Topics will include the development of civilizations in Europe, Asia, Africa, and the Americas. Special attention will be given to the unique characteristics of individual regions and cultures, as well as to common characteristics found throughout the world's societies.
+/
+Public Speaking & Persuasion
+Public Speaking & Persuasion
+/
+Managerial Accounting
+This course deals with techniques of interpreting accounting data for decision making. Topics emphasized are the analysis and interpretation of reports; the establishment of operating financial standards; the measurement of managerial performance; the use of budgets in managerial control; the use of cost data and interpretation of cost reports; and the use of quantitative data in the formulation of managerial policies.
+/
+Network Technology & Mgt (N+)
+This practical "hands-on" course is aimed at those students that have passed A+ Certification or have equivalent knowledge. On course completion, students should be able to: install and configure a network card; define the concepts of network layers; understand principles of extending networks and interconnectivity; understand and implement the TCP/IP protocol; use test equipment to troubleshoot network connectivity. Part of the content is similar to Microsoft's "Networking Essentials" exam. The course has been developed to produce competent network support technicians that are capable of taking and passing the new Network+ certification exam.
+/
+Systems Analysis
+This course provides the student with theory and practice associated with the analysis and design of computer-based information systems. Fundamental topics include systems theory, the role of the information system in operating and managing the organization, and systems design concepts. The purpose, function, and expected outcomes of each phase and activity of the systems development life cycle (SDLC) are discussed from theoretical and practical perspectives. Specific design techniques, such as data flow diagrams and data dictionaries, are discussed and used. Other topics include the function of design tools such as CASE, planning techniques, and project management. Case studies are used to supplement lectures, with hands-on experiences in applying the SDLC to the analysis and design of information systems.
+/
+Professional Com in Workplace
+This course underscores the integrated nature of the communications skills program and the importance of communications skills for a successful life and career. While refining research and writing skills, students develop computer-assisted presentational materials to enhance the delivery of speeches. Among the communications topics explored are personal and professional relationships, ethical and legal issues, the impact of changing technology, audience analysis, and diversity in the workplace. 
+/
+Principles of Management
+The course traces the development of management thought and practice from pre- Industrial Revolution to preparation for Century 2000. The course presents the shift in management paradigms and legal requirements; the changes in organizational structures; and the evolution of management theories. Goals of the course include helping students integrate theories into a coherent knowledge background for advanced management courses and building a framework for future management practice.
+/
+Honors United States History I
+This course is a survey of the development of the United States from the colonial era, through the establishment of the federal system, the growth of party politics, and the search for a national culture, to the emergence of a two-ocean republic. The course concludes with the study of the Civil War and the reconstruction of the Union.
+/
+Computer & Network Security
+Computer Network Security studies the fundamentals of computer and network security and defense. Students learn to describe and analyze security threats, vulnerabilities, attacks, and risks as well as to identify, apply, and evaluate controls and solutions to secure and defend computers and networks. Topics include: network vulnerabilities and attacks, IDS/IPS implementation, firewall and VPN implementations, defense in depth, honeypots and honeynets, network monitoring and traffic analysis, exposure minimization, network access control, DMZs and proxy servers, host and network hardening, mission assurance, and network policy development and enforcement and operational procedures. 
+/
+Advanced Systems Analysis
+This course builds on the fundamental systems design concepts and skills presented in CI360 Systems Analysis and Design, enabling students to develop advanced analysis and design requirements related to information systems. Case studies focus on analysis and design concepts in situations that utilize transaction processing systems, management information systems, and decision support systems. Computer-Assisted Systems Engineering (CASE) tools are integrated into class projects. Other topics include prototyping and alternatives to the Systems Development Life Cycle (SDLC), cost/benefit analysis, planning and managing systems development projects, and applying system design techniques to end-user computing.
+/
+Cyberlaw
+This course is designed to enable students, including but not limited to organizational studies, and information technology students, to concentrate on the legal issues and challenges that the changes in technology have created such as on-line contracting, computer crime, fraud, privacy, defamation, hate speech, indecency, obscenity, cyber- squatting, intellectual property etc. The goal is not to teach students to be lawyers, but rather to provide students the tools to be able to identify problems in the world arising from the ever increasing activity on-line.
+/
+Principles of Marketing
+This course is an introductory study of the marketing discipline. The marketing environment, both domestic and international, are examined along with the variables that act upon them. The primary focus is on the marketing mix, promotional mix, and the characteristics and relevant strategies that are relevant to each stage of the product life cycle. Current issues and concepts such as international marketing, market-place diversity, added-value, customer service, and the role of total quality management are an integral part of course content and interactive learning activities.
+/
+Principles of Sociology
+This course is a basic introduction to the field of sociology, which enables students to see and understand the social world and their place in it in new ways. Students will become familiar with basic sociological concepts and social institutions, explore different explanations for social phenomena, and learn about the methods sociologists use to answer questions about society.
+/ 
+Database Management System
+The course introduces the student to the theory and practice of database management, that is, the application of database technology to the solution to business and information-related problems. It covers an introduction to the relational model of data, and focuses on the use of Structured Query Language (SQL). Database concepts, terminologies and data structures of the relational database model will be discussed, and briefly compared with other models (such as hierarchical, network, and object). Database design in the practice of normalization is included, but the emphasis is on the use of Entity-Relationship modeling for a graphical approach to the analysis of requirements and the design of a conceptual schema. The student will have hands-on experience working with a database management system such as MS Access, Oracle, or SQL Server.
+/
+Mobile Forensics
+This course covers areas of mobile forensics, which include topics from the legal and technical aspects of this discipline. Forensics tools will be utilized to examine flash drives, cell phones, PDA's, GPS devices and digital cameras. Recovered data will include call logs, address books, text messages, videos, Internet history and service provider information Fundamental topics include the differences between private and criminal investigations, issues regarding privacy, incident response policy, and the Fourth Amendment. The course will cover mobile phone networks, the network authentication process, differences between GSM and CDMA devices and how to extract information from a Subscriber Identity Module (SIM) cards.
+/
+Quant Analysis for I/S
+This course provides the student with applications of discrete analytic methods in software design and development, programming, networks and data communication, operating systems and computer hardware, database design and implementation, and network security. Topics include sets, Boolean logic, logic statements and rules, functions, relations, foundations of relational databases, directed and undirected graphs, shortest path determination, programming language documentation, number systems, code sets (like ASCII, Unicode, ISO standards), and searching algorithms.
+/
+Legal Environment of Business
+This course introduces students to the legal system and the role it plays in the business world. Legal issues are addressed from a preventive rather than a curative point of view. Students learn to spot legal issues in various business situations and to make decisions with legal issues and legal consequences in mind. Specific areas studied include an introduction to the judicial system and judicial process, law and ethics in business, the law of contracts, torts, consumer protection, and legal and ethical issues in the workplace.
+/
+Glob, Econ, Soc., Eth Iss I/S
+This course provides the student with the tools necessary to make good ethical decisions in their role as a technology professional in a global context. The course will cover general issues related to various economic, ethical, and social frameworks and move to topics specifically related to computers. Emphasis is placed on the study of ethical questions that arise as a consequence of the development and deployment of computers and computing technologies. Moral and social ethical and economic issues will be identified and brought into focus, giving the student a means to understand them and make wise decisions. Case studies will be used to facilitate discussions in areas such as; economics of information systems, computer crime and hacking, computer software ownership, database privacy, risks of computing, professional liability, internet freedom in computing, and international laws and punishment. The Global impact of Information Technology on individuals and society will be highlighted. 
+/
+Python Program Language
+This course provides the student with an introduction to the Python programming language which includes: working with large datasets, lists, looping, and file operation. Outcomes of this course will be Python programs including Data Visualization
+/
+Project Management
+Emphasis is on the roles that people, information, information systems quality, and technology play in the application of the nine Knowledge Areas and five Process Groups that comprise the Common Body of Knowledge for Information Systems Project Management. Particular emphasis is placed in the five Process Groups?initiating, planning, executing, controlling, and closing--- for information systems projects that are needed to provide the various types information systems which provide a competitive advantage in both inter-organizational and international environments and yet serve the needs of both the users and management. As an underlying tenet for the nine Functional Areas, the course emphasizes refining individual communications skills necessary to the field of information systems project planning and management.
+/
+Training/Development In Bus
+This course provides the student with application of theories of learning and instructional development to the education and training of employees in office information systems. Topics include instructional design, strategy, technology; and the implementation, evaluation, and management of training in an organizational environment.
+/
+Program Outcomes Assessment
+This pass/fail course requires the completion of quality assessment activities directly related to the student's program of study. Graduating seniros are required to complete two or more appropriate assessment mechanisms such as but not limited to the Senior Exit Exam and the Senior Exit Interview Survey. Dat form these instruments is used in the on-going quality assurance procedures implemented by the CIS department to shlp insure that the designed outcomes of the programs are being met by the students. This ocurs is to be scheduled the last semester prior to graduation.
+/

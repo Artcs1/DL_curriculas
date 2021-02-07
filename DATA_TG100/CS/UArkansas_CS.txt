@@ -1,0 +1,106 @@
+/
+Introduction to Engineering I	
+Fundamentals of engineering problem-solving including skills from mathematics, science, and computing. Introduction to the engineering design process through team-based activities. Study of the contemporary engineering profession and the disciplines within the College of Engineering. 
+/
+Composition I 
+Composition I 
+/
+University Chemistry I 
+An introductory course for science, engineering or agriculture majors. Atomic structure, electron configurations and periodic properties, nomenclature and bonding in compounds, Lewis structure and resonance forms, molecular geometries and polarity, stoichiometry, solution chemistry and aqueous reactions, thermochemistry, gas laws and kinetic molecular theory.
+/
+Calculus I 	
+Derivative of functions of one variable, applications of the derivative, introduction of the integral, and applications.  
+/
+University Physics I 
+Introduction to the principles of mechanics, wave motion, temperature and heat, with calculus. 
+/
+Introduction to Engineering II
+Further study of engineering problem-solving including skills from mathematics, science, and computing. Experience with the engineering design process through a major, team-based project. Selecting a major within the College of Engineering.
+/
+Calculus II 
+Integral calculus of one variable and infinite series.
+/
+University Physics II 
+Topics covered include electricity, magnetism, light and geometric optics.
+/
+Composition II
+Composition II
+/
+Programming Foundations I	
+Introductory programming course for students majoring in computer science or computer engineering. Software development process: problem specification, program design, implementation, testing and documentation. Programming topics: data representation, conditional and iterative statements, functions, arrays, strings, file I/O and classes. Using C++ in a UNIX environment. 
+/
+Digital Design	
+Introduction to the hardware aspects of digital computers, logic gates, flip-flops, reduction, finite state machines, sequential logic design, digital systems, software design tools, hardware description language (VHDL), and implementation technologies. Corequisite: Lab component. 
+/	 
+Discrete Mathematics
+Introductory study of sets, relations, logic, proofs, algorithms, counting methods, graph theory, trees, and Boolean algebras.
+/
+Programming Foundations II	 	
+This course continues developing problem solving techniques by focusing on fundamental data structures and associated algorithms. Topics include: abstract data types, introduction to object-oriented programming, linked lists, stacks, queues, hash tables, binary trees, graphs, recursion, and searching and sorting algorithms. Using C++ in a UNIX environment. 
+/
+Computer Organization	 	
+Presents the relationship between computing hardware and software with a focus on the concepts for current computers. CPU design topics are covered including various techniques for microprocessor design and performance evaluation. 
+/
+Combinatorics
+Basic combinatorial techniques including the study of the principle of inclusion and exclusion and generating functions. Additional topics may include modular arithmetic, algebraic coding theory, Polya's method of enumeration, and an introduction to abstract algebraic structures.
+/
+Programming Paradigms	
+Programming in different paradigms with emphasis on object oriented programming and network programming. Survey of programming languages, event driven programming, and concurrency. 
+/
+Operating Systems	
+An introduction to operating systems including topics in system structures, process management, storage management, files, distributed systems, and case studies. 
+/
+Engineering Probability and Statistics	
+Applications to engineering problems of data summary and presentation, random variables and probability distributions, point and interval estimation, hypothesis testing, linear regression, and design of experiments.	 
+/
+Ethics and the Professions	
+After a survey of the standard theories of moral obligation, justice, and rights, the course focuses on specific moral problems that arise within engineering, business, and the professions.
+/
+Software Engineering	 	
+A modern approach to the current techniques used in software design and development. This course emphasizes the use of modern software development tools, multi-module programming, and team design and engineering. 
+/
+Database Management Systems	
+Introduction to database management systems, architecture, storage structures, indexing, relational data model, E-R diagrams, query languages, SQL, ODBC, transaction management, integrity, and security. 
+/
+Linear Algebra	 	
+Systems of linear equations, vector spaces, linear transformations, matrices, and determinants. 
+/
+Public Speaking
+Application of the communication techniques needed to organize and deliver oral messages in a public setting. Emphasis given to theory and practice of message strategies and preparation, audience analysis, presentational skills including multimedia support, speech criticism, and the listening process. 	 	
+/
+Capstone I		 
+CSCE students complete a comprehensive software capstone project during their final year of undergraduate studies. The project is done over 2 semesters in phases: concept, formal proposal, implementation, and presentation. The projects include and may require the integration of software and human factors and hardware elements and are developed to software engineering methodologies. 
+/
+Algorithms	
+Provides an introduction to formal techniques for analyzing the complexity of algorithms. The course surveys important classes of algorithms used in computer science and engineering.
+/
+Computer Networks
+This course is an introductory course on computer networks. Using the Internet as a vehicle, this course introduces underlying concepts and principles of modern computer networks, with emphasis on protocols, architectures, and implementation issues.
+/
+Capstone II	 	
+SCE students complete a comprehensive capstone project during their final year of undergraduate studies. The project is done over two consecutive semesters in phases: concepts, formal proposal, implementation, and presentation. The projects include and may require the integration of software, human factors, and hardware elements and are developed using software engineering methodologies. 
+/
+Formal Languages and Computability	 
+Finite Automata and regular languages, regular expressions, context-free languages and pushdown automata, nondeterminism, grammars, and Turing machines. Church's thesis, halting problem, time complexity, space complexity and undecidability.
+/
+Computer Networks. 
+This course is an introductory course on computer networks. Using the Internet as a vehicle, this course introduces underlying concepts and principles of modern computer networks, with emphasis on protocols, architectures, and implementation issues. 
+/
+Cloud Computing and Security. 
+Cloud computing has entered the mainstream of information technology, providing highly elastic scalability in delivery of enterprise applications and services. In this course, we will focus on the architecture of today's cloud computing, the technologies used within them, application development using contemporary cloud computing tools, and the security risks and management in the cloud. 
+/
+Computer Graphics. 
+Introduction to the theory and algorithms used in computer graphics systems and applications. Topics include: 2D and 3D geometric models (points, lines, polygons, surfaces), affine transformations (rotation, translation, scaling), viewpoint calculation (clipping, projection), lighting models (light-material interactions, illumination and shadow calculation). 
+/
+Introduction to Drawing from Observation.
+Problems dealing with materials and techniques of drawing, including basic concepts of line, perspective, and value. 
+/
+Perspectives in History.
+Introduction to the history major and to college life, emphasizing essential collegiate academic skills and the methods and techniques of the professional historian. Designed for history majors, history minors, and those with an interest in learning skills relevant to history, other humanities, or other social sciences. 
+/
+Introduction to Philosophy. 
+An examination of such basic philosophical topics as the existence of God, the nature of the human mind, the relationship between appearance and reality, the forms and limits of human knowledge, freedom of the will, and standards of right and wrong. Includes both historical and contemporary readings.
+/
+General Sociology
+Applies a sociological perspective and develops critical thinking. Focuses on culture, identity, race, ethnicity, gender, class inequality, crime, deviance, globalization, social change, and social institutions.
+/

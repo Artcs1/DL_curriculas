@@ -1,0 +1,255 @@
+/
+EGR First-Year Seminar
+The EGR First-Year Seminar is designed to assist new students in
+making a successful transition from learning in high school (or from
+another college) to learning in engineering at Baylor.
+/
+Introduction to Engineering 
+Introduction to the engineering profession. Topics include engineering
+disciplines, ethics, the impact of technology on the world, analysis and
+design using a team design project, and computer-aided design and problem
+solving.
+/
+Introduction to Engineering Analysis 
+Introduction to fundamental techniques used in engineering analysis.
+/
+Engineering Design I 
+Introduction to the engineering design process via team-based projects
+encompassing the design, construction and testing of an engineering
+device or system. Projects will emphasize oral, written, and graphical
+engineering communication skills and topics related to engineering
+professionalism. 
+/
+Engineering Design II 
+A capstone design course for emphasizing the decision-making process
+that must be used by a practicing engineer to apply the basic sciences in
+order to convert resources optimally to meet stated objectives.
+/
+Social and Ethical Issues in Engineering
+Study of the relationship between engineering, technology, and
+society. Topics include philosophical perspectives on engineering and
+technology, technological values, impact of technological change, social
+and ethical responsibilities of engineers, and public technology policy. 
+/
+Calculus I
+Differential calculus of a single variable. Introduction to the
+definite integral and the Fundamental Theorem of Calculus. 
+/
+Calculus II 
+Integral calculus of a single variable, differential equations, slope
+fields, and power series. 
+/
+Calculus III 
+Differential and integral calculus of several variables, Green's
+Theorem. 
+/
+Ordinary Differential Equations 
+Differential equations of first order, linear equations of order two
+and higher, introduction to power series methods, elements of the Laplace
+Transform, some facts from linear algebra and systems of differential
+equations. 
+/
+Linear Algebra
+Vectors, matrix operations, linear transformations, fundamental
+properties of vector spaces, systems of linear equations, eigenvalues,
+and eigenvectors. 
+/
+Numerical Methods
+Numerical differentiation and integration, linear systems of
+equations, numerical solutions of ordinary differential equations, curve
+fitting, and computational techniques.
+/
+Basic Principles of Modern Chemistry I 
+An introduction to chemical reactions; the mole concept; properties of
+gases, solids, liquids, and solutions; atomic structure; periodic
+properties; chemical bonding, and molecular structure. 
+/
+The Christian Scriptures 
+An introduction to the Old and New Testaments (their contents,
+historical backgrounds, and major themes), and to appropriate strategies
+for interpretation of the Bible.
+/
+The Christian Heritage 
+An introduction to Christian life and thought, from the early church
+to the present, through an examination of great texts with an emphasis on
+Christian doctrine, ethics, witness and institutions. 
+/
+Thinking and Writing 
+A course designed to help students better understand English grammar,
+rhetoric, and usage for correct and effective writing. The course focuses
+on the several steps in organizing and writing the expository essay for a
+variety of purposes. 
+/
+Technical Writing
+Emphasis on theories, principles, and practices of effective technical
+writing and writing in the sciences. Students will compose technical
+genres such as reports, proposals, memos, and documentation with an
+emphasis on usability, accessibility, data analysis, information design,
+ethics, writing style, and collaboration.
+/
+Chapel
+University Chapel is the oldest tradition at Baylor. For more than
+160 years, Baylor students have gathered to worship together, to engage
+important issues of our day, and to be inspired by speakers, artists,
+academicians, and leaders from every vocation. 
+/
+General Physics I 
+Principles and applications of mechanics, wave motion, sound, and heat
+with emphasis on fundamental concepts, problem solving, notation, and
+units. 
+/
+General Physics II
+Principles and applications of electricity, magnetism, light, and
+modern physics, with emphasis on fundamental concepts, problem solving,
+notation, and units.
+/
+The Intellectual Tradition of the Ancient World
+Close reading and discussion of foundational texts that establish the
+parameters of morality, aesthetics, religion, and philosophy. 
+/
+Medieval Intellectual Traditions: Literature and Thought in Context
+Interdisciplinary close reading and discussion of major literary texts
+in relation to social, philosophical, and theological contexts of
+historic development in Western cultures from the medieval to the early
+modern period. 
+/
+Digital Logic Design
+Boolean algebra, number systems and representations, analysis and
+design of combinational and sequential logic circuits, minimization,
+small- and medium-scale integrated devices, programmable logic, and
+simulation of digital circuits.
+/
+Digital Logic Design Laboratory
+Laboratory experience in digital circuit design using modern CAD tools
+and programmable logic devices.
+/
+Microprocessor Systems 
+Program development of microprocessor systems using assembly and C/C++
+programming languages. Topics include processor architecture, data
+representation, exceptions, I/O devices, memory management, and real-time
+operating system principles. 
+/
+Electrical Circuit Theory
+Linear circuit elements, sources, Kirchhoff's laws, mesh and nodal
+analysis, Thevenin and Norton equivalent circuits, resistive network
+analysis, sinusoidal steady-state analysis, AC and DC power, transient
+analysis of RL, RC, and RLC circuits. 
+/
+Electrical Circuit Laboratory
+Laboratory experience in electrical circuit design using discrete
+components, standard bench equipment, and simulation in modern CAD
+software.
+/
+Applied Electromagnetic Fields 
+Vector description of the electric and magnetic properties of free
+space (using the laws of Coulomb, Ampere, and Faraday). Maxwell's
+electromagnetic field equations. Wave propagation in unbounded regions,
+reflection and refraction of waves, waveguides, and transmission lines.
+/
+Embedded Systems Design 
+Design and implementation of embedded computer systems using
+microcontrollers, sensors and data conversion devices, actuators, visual
+display devices, timers, and applications specific circuits. Software
+design using microprocessor cross-development systems and real-time
+operating system principles. 
+/
+Automatic Control Systems
+Analysis and design of linear feedback control systems. Laplace
+transforms, transfer functions, signal-flow graphs, electrical and
+mechanical system modeling, state variables, system stability, timedomain response, root-locus method, Nyquist criterion, and compensator
+design. Laboratory exercises to illustrate course concepts.
+/
+Digital Signal Processing
+Discrete-time signals and systems, sampling theory, z-transforms,
+spectral analysis, filter design, applications, and analysis and design
+of discrete signal processing systems. 
+/
+Electronic Design
+Analysis and design of analog and digital electronic circuits using
+diodes, bipolar transistors, and field effect transistors. Design and
+application of digital and analog circuits.
+/
+Electronic Design Laboratory
+Laboratory experience in electronic design. 
+/
+Computer Organization 
+Introduction to the organization and design of general-purpose digital
+computers. Topics include instruction sets, CPU structures, hardwired and
+microprogrammed controllers, memory, I/O systems, hardware description
+languages and simulations.
+/
+Signals and Systems
+Analysis of signals and systems in the time domain using differential
+equations and convolution with the impulse response, and in the
+frequency, domain using Fourier series, Fourier transforms, and Laplace
+transforms with transfer functions. 
+/
+Image Formation and Processing
+Introduction to image formation systems that provide images for
+medical diagnostics, remote sensing, industrial inspection,
+nondestructive materials evaluation and optical copying. Image
+processing, including image enhancement, analysis, and compression.
+Student specialization through assignments and project. 
+/
+Software Systems
+Software engineering methods and tools. Topics include the development
+lifecycle, requirements, specifications, design, implementation,
+verification, validation, and maintenance, project management and
+professional ethics.
+/
+Wireless Sensor Networks
+Characterization and design of large-scale wireless sensor networks.
+Topics include wireless channel utilization, media access protocols,
+routing, energy management, synchronization, localization, data
+aggregation, and security. Laboratory exercises using wireless sensor
+devices, cross-development, and real-time operating systems. 
+/
+Bioinstrumentation 
+Principles of biomedical instrumentation and their real-world
+applications. Emphasis on understanding the basic design principles and
+technologies used in bioelectrical, biomechanical, and clinical
+instrumentation. 
+/
+Adaptive H.P.
+Lifetime fitness activity class for students needing accommodation due
+to injury or disability. Prior to registration, students must present a
+medical statement from their physician outlining both the nature of the
+disability and recommendations for a variety of exercises to be done in
+class. 
+/
+Beginning Aerobics
+Concepts of physical fitness and the development of movement routines
+are fundamental to this course. Material covered includes a basic
+understanding of fitness with various assignments relating to that
+knowledge. 
+/
+Intermediate Aerobics 
+This course incorporates all of the aspects of the beginner course. In
+addition, it teaches complex dance/exercise routines to music and
+provides a vigorous and complete workout for the more advanced student. 
+/
+Introduction to Computer Science I with Laboratory
+Introduction to computers, problem solving and algorithm development.
+Design, code, debug and document programs using techniques of good
+programming style and C++ programming language. Laboratory experiments
+and examples will be used to illustrate and reinforce concepts taught in
+the lectures.
+/
+American Constitutional Development
+An historical and institutional study of the background, content,
+development, and interpretation of the United States Constitution. This
+course is required for all bachelor's degrees. 
+/
+Engineering Economic Analysis
+Designed to provide an economic foundation for engineering decisions.
+The course stresses methods for making optimum choices among engineering
+alternatives. Topics include cash flow and present value analysis; breakeven analysis; the impact of taxes and inflation on investment decisions;
+methods for assigning costs; the treatment of risk in decision making;
+and capital budgeting.
+/
+Probability and Statistics 
+Introduction to the fundamentals of probability, random variables,
+discrete and continuous probability distributions, expectations, sampling
+distributions, topics of statistical inference such as confidence
+intervals, tests of hypotheses, and regression. 
+/

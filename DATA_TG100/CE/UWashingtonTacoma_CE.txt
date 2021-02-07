@@ -1,0 +1,94 @@
+/
+Programming Practicum
+Provides practical experience designing and developing a large, complex programming project.
+Introduces true object-oriented language like C++ and Java to build on the number of tools available to
+engineers for designing more complex projects
+/
+Data Structures
+Covers data structures and classical algorithms with an emphasis on implementing them in high-level programming languages. Includes sequential and linked lists, binary trees, heaps, B-trees, hash tables,
+graphs, and algorithms for searching and sorting. Concentrates on developing implementations,
+understanding their performance, and estimating their potential effectiveness in applications. 
+/
+Linear Systems and Transforms
+Covers theoretical concepts and mathematical tools used for the design and analysis of continuous-time
+linear systems as well as analog signals. Topics covered in this course include linear convolution, impulse
+response, Laplace transform, Fourier series and Fourier transforms. Computer laboratory: Matlab is
+introduced for the analysis of signals and systems. 
+/
+Electronic and Analog Systems	
+Physics, characteristics, applications, analysis, and design of circuits using semiconductor diodes and
+field-effect transistors with an emphasis on large-signal behavior and digital logic circuits. Introduction to
+operational amplifiers, frequency analysis and response, and filters.
+/
+Computer Organization and Architecture
+Covers the general features of computation systems, including an introduction to processor architecture,
+instruction sets, assembly programming, cache and memory architecture, debug monitors, and translation
+from higher level languages to machine language. 
+/
+Operating Systems for Engineers	
+Covers the fundamental principles of operating design and function for both general purpose computing
+and real-time application control. Includes concurrent processes, scheduling, inter-process
+communications, memory management, I/O, and file systems. 
+/
+Discrete Structures I
+Introduces definitions and tools for reasoning about discrete mathematical objects useful for computer
+professionals, including set theory, propositions and predicates, Boolean algebra, sequences,
+enumeration, algorithms, methods of proof, and relations.
+/
+Probability and Statistics	
+Investigates probability and statistics using exploratory data analysis and interactive computing. Study
+topics including conditional probability, independence, random variables, distribution functions,
+descriptive statistics, transformations, sampling errors, confidence intervals, least squares, and maximum
+likelihood.
+/
+Computers, Ethics and Society	
+Analyzes social, political, and ethical implications of computer and information technologies. Covers
+Western ethical theories, professional ethics, and diverse topics in computer ethics. Emphasizes writing
+and the construction of ethical arguments.
+/
+Introduction to Logic Design
+Examines Boolean algebra and logic simplification, design of combined logic for decoders and
+multiplexers, and design of sequential devices including registers, and counters. Analysis of devices for
+logic networks including, three-state, CMOS, programmable logic devices. Uses tools for schematic
+capture and circuit simulations. Introduction to state machines.
+/
+Digital System Design
+Examines digital system design fundamentals using programmable logic devices (PLDs). Uses Verilog to
+analyze and design complex digital systems based on field programmable gate arrays (FPGAs). Uses
+testing techniques to verify design and introduces operation of digital systems. 
+/
+Microprocessor System Design
+Introduces hardware and software design techniques for microprocessor-based systems. Gives
+experience designing and implementing a system using current technology and components. Provides
+the opportunity to interface microprocessors to external devices. Gives experience using state-of-the-art
+development systems and procedures.
+/
+Devices and Controls
+Teaches how to control motors and other physical actuators by delving into their theories of operation.
+Examines automatic control theory and provides experience using computers to control devices. 
+/
+Embedded Systems Design
+Covers the analysis, design, and prototyping of an embedded control application. 
+/
+Senior Design Project I
+Covers the preparation for conducting the senior project systems analysis and design and
+implementation, testing, and delivery. Includes case studies of engineering projects.
+/
+Senior Design Project II
+Provides guidance to project teams to analyze client needs, develop problem statements, specifications,
+and plans for implantation of project deliverables. 
+/
+Senior Design Project III
+Focuses on design and implementation, testing, and demonstration of the capstone design project. 
+/
+Coding Theory
+Covers electronic communication over noisy channels, and digital storage on various types of media.
+Describes constructions of modern error-correction codes, including Reed Solomon, Golay, and BCH
+codes. Also covers computational aspects, complexity of encoding/decoding algorithms, their
+implementations and their uses in modern communication systems. 
+/
+Cryptography
+Covers basic concepts of cryptography, including authentication, public key cryptography, and digital
+signatures. Additionally, it covers modern definitions of security, implementation aspects of cryptographic
+schemes and their use in computer networks and the internet.
+/

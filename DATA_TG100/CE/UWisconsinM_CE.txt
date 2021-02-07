@@ -1,0 +1,228 @@
+﻿/
+APPLIED COMMUNICATIONS SYSTEMS
+Analysis with design problems of electronic communications circuits. Emphasis on the nonlinear effects of large-signal operation of active devices. Complete design of r.f. oscillator, amplifier, and mixer circuits. 
+/
+ELECTRIC POWER PROCESSING FOR ALTERNATIVE ENERGY SYSTEMS
+Introduction to electrical power processing technologies that are necessary to convert energy from alternative sources into useful electrical forms. Several specific alternative energy sources are examined, providing platforms for introducing basic concepts in power electronics, electric machines, and adjustable-speed drives. 
+/
+Educational Psychology: Educational Specialist in School Psychology
+Educational Psychology: Educational Specialist in School Psychology
+/
+FEEDBACK CONTROL SYSTEMS
+Modeling of continuous systems; computer-aided solutions to systems problems; feedback control systems; stability, frequency response and transient response using root locus, frequency domain and state variable methods. 
+/
+SCIENCE AND STORYTELLING
+Fundamentals of effective written and spoken communication. Develops skills in gathering and evaluating information, writing research papers and other documents, and preparing and delivering oral presentations. 
+/
+GENERAL PHYSICS
+Recommended for those majoring in science or mathematics. Also suitable for others who have the math prerequisite. Mechanics, heat and sound. Two lectures, two discussions and one three-hour lab per week.
+/
+CALCULUS AND ANALYTIC GEOMETRY 2
+Techniques of integration, improper integrals, first order ordinary differential equations, sequences and series, Taylor series, vector geometry in two and three dimensions. 
+/
+CALCULUS WITH ALGEBRA AND TRIGONOMETRY II
+Topics in algebra, trigonometry and precalculus are integrated with elementary differential calculus. 
+/
+DIGITAL SYSTEM DESIGN AND SYNTHESIS
+Introduction to the use of hardware description langages and automated synthesis in design. Advanced design principles. Verilog and VHDL description languages. Synthesis from hardware description  languages. Timing-oriented synthesis. Relation of integrated circuit layout to timing-oriented design. Design for reuse. 
+/
+INTRODUCTION TO OPERATING SYSTEMS
+Input-output hardware, interrupt handling, properties of magnetic tapes, discs and drums, associative memories and virtual address translation techniques. Batch processing, time sharing and real-time systems, scheduling resource allocation, modular software systems, performance measurement and system evaluation.
+/
+CIRCUITS LABORATORY I
+Experiments cover Kirchhoff's laws, inductors, basic operational amplifier circuits, and frequency response. 
+/
+SPECIAL TOPICS
+Specialized subject matter of current interest to undergraduate students. 
+/
+Electrical Engineering
+Electrical Engineering
+/
+GENERAL PHYSICS
+Primarily for engineering students. Mechanics and heat. Two lectures, two discussions and one three-hour lab per week.
+/
+INTRODUCTION TO COMPUTER ENGINEERING
+Logic components built with transistors, rudimentary Boolean algebra, basic combinational logic design, basic synchronous sequential logic design, basic computer organization and design, introductory machine- and assembly-language programming. 
+/
+INTRODUCTION TO RANDOM SIGNAL ANALYSIS AND STATISTICS
+Introduction to probability, random variables, and random processes. Confidence intervals, introduction to experimental design and hypothesis testing. Statistical averages, correlation, and spectral analysis for wide sense stationary processes. Random signals and noise in linear systems. 
+/
+MICROELECTRONIC DEVICES
+Characteristics of semiconductors; study of physical mechanisms and circuit modeling of solid state electronic and photonic devices; principles of microelectronic processing and examples of integrated circuits. 
+/
+GENERAL CHEMISTRY II
+Principles and application of chemical equilibrium, coordination chemistry, oxidation-reduction and electrochemistry, kinetics, nuclear chemistry, introduction to organic chemistry. Lecture, lab, and discussion. 
+/
+PROGRAMMING III
+The third course in our programming fundamentals sequence. It presumes that students understand and use functional and object-oriented design and abstract data types as needed. This course introduces balanced search trees, graphs, graph traversal algorithms, hash tables and sets, and complexity analysis and about classes of problems that require each data type. Students are required to design and implement using high quality professional code, a medium sized program, that demonstrates knowledge and use of latest language features, tools, and conventions. Additional topics introduced will include as needed for projects: inheritance and polymorphism; anonymous inner classes, lambda functions, performance analysis to discover and optimize critical code blocks. Students learn about industry standards for code development. Students will design and implement a medium size project with a more advanced user-interface design, such as a web or mobile application with a GUI and event- driven implementation; use of version-control software.
+/
+SIGNALS AND SYSTEMS
+Time-domain response and convolution; frequency-domain response using Fourier series, Fourier transform, Laplace transform; discrete Fourier series and transform; sampling; z-transform; relationships between time and frequency descriptions of discrete and continuous signals and systems. 
+/
+DATABASE MANAGEMENT SYSTEMS: DESIGN AND IMPLEMENTATION
+What a database management system is; different data models currently used to structure the logical view of the database: relational, hierarchical, and network. Hands-on experience with relational and network-based database systems. Implementation techniques for database systems. File organization, query processing, concurrency control, rollback and recovery, integrity and consistency, and view implementation. 
+/
+COMMUNICATION NETWORKS
+Study of communication networks with focus on performance analysis. Layered network structure. Basic protocol functions such as addressing, multiplexing, routing, forwarding, flow control, error control, and congestion response.  Overview of transport, network, and link layer protocol standards.  Introduction to wireless and mobile networks. 
+/
+Mathematics, 
+B.A.http://guide.wisc.edu/undergraduate/letters-science/mathematics/mathematics-ba/Mathematics is classified with both the humanities and the sciences. Its position among the humanities is based on the study of mathematics as one of the liberal arts for more than two thousand years. Still an expanding subject, mathematics offers more new and challenging frontiers than at any time in its long history—with many new fields, requiring new techniques and ideas for exploration.
+
+
+/
+GENERAL PHYSICS
+Electricity, magnetism, light, and modern physics.
+/
+Biology, B.A.
+Biology, B.A. 
+/
+CALCULUS AND ANALYTIC GEOMETRY 1
+Introduction to differential and integral calculus and plane analytic geometry; applications; transcendental functions. 
+/
+ELECTRONIC CIRCUITS II
+A second course in modeling and application of semiconductor devices and integrated circuits. Advanced transistor amplifier analysis, including feedback effects. Design for power amplifiers, op-amps, analog filters, oscillators, A/D and D/A converters, and power converters. Introduction to transistor level design of CMOS digital circuits. 
+/
+INTRODUCTION TO PROGRAMMING LANGUAGES AND COMPILERS
+Introduction to the theory and practice of compiler design. Comparison of features of several programming languages and their implications for implementation techniques. Several programming projects required. 
+/
+DESIGN AUTOMATION OF DIGITAL SYSTEMS
+Use of digital computers to simulate, partition, place and interconnect digital electronic systems. /
+Landscape and Urban Studies
+Landscape and Urban Studies
+/
+ELECTRODYNAMICS I
+Potential theory; static and dynamic electric and magnetic fields; macroscopic theory of dielectric and magnetic materials; Maxwell's equations; boundary conditions; wave equation; introduction to transmission lines. 
+/
+DIGITAL CIRCUITS AND COMPONENTS
+Principles and characterization of logic circuits. Design and analysis techniques for applied logic circuits. Transmission lines in digital applications. Families of circuit logic currently in use and their characteristics. 
+/
+Neurobiology
+Neurobiology
+/
+MOBILE COMPUTING LABORATORY
+End-to-end project management; teamwork; fundamentals of disciplined development practices; introduction to mobile computing platforms and systems; design, implementation, and deployment of mobile systems and applications.
+/
+ELEMENTS OF SPEECH-HONORS COURSE
+The process of oral communication; principles of effective speaking; application of principles in selected speaking and reading projects. 
+/
+APPLIED MATHEMATICAL ANALYSIS
+Sturm-Liouville theory; Fourier series, including mean convergence; boundary value problems for linear second order partial differential equations, including separation of variables and eigenfunction expansions. 
+/
+INTRODUCTION TO SOLID STATE ELECTRONICS
+An introduction to the physical principles underlying solid-state electronic and photonic devices, including elements of quantum mechanics, crystal structure, semiconductor band theory, carrier statistics, and band diagrams. Offers examples of modern semiconductor structures.
+/
+GENERAL CHEMISTRY I
+Introduction. Stoichiometry and the mole concept, the behavior of gases, liquids and solids, thermochemistry, electronic structure of atoms and chemical bonding, descriptive chemistry of selected elements and compounds, intermolecular forces. For students taking one year or more of college chemistry; serves as a prereq for CHEM 104; lecture, lab and discussion.
+/
+A MODERN INTRODUCTION TO PHYSICS
+Introduction to physics recommended for students who are considering majoring in physics, astronomy-physics, or AMEP. Also suitable for those majoring in other sciences or mathematics who desire a rigorous physics course. Mechanics, relativity, cosmology. Three lectures, one discussion, and one three-hour lab per week.
+/
+INTRODUCTION TO COMPUTER ARCHITECTURE
+The design of computer systems and components. Processor design, instruction set design, and addressing; control structures and microprogramming; memory management, caches, and memory hierarchies; and interrupts and I/O structures.
+/
+Electrical Engineering 
+Electrical Engineering
+/
+ACADEMIC WRITING II
+Academic writing, critical reading and argumentation, documentation, and style and organization of research papers; oral communication skills for effective class participation and presentations. /
+APPLIED MATHEMATICAL ANALYSIS
+Vector analysis: algebra and geometry of vectors, vector differential and integral calculus, theorems of Green, Gauss, and Stokes; complex analysis: analytic functions, complex integrals and residues, Taylor and Laurent series.
+/
+LINEAR ALGEBRA
+Emphasizes the understanding of concepts in linear algebra and teaches to write and understand proofs in mathematics in general and in linear algebra in particular. 
+/
+ADVANCED GENERAL CHEMISTRY
+A modern introduction to chemical principles that draws on current research themes. For students with good chemistry and mathematics background preparation who desire a one-semester coverage of general chemistry.
+/
+CURRENT TOPICS IN DANCE: WORKSHOP
+/
+ANALYTICAL METHODS FOR ELECTROMAGNETICS ENGINEERING
+Reviews basic calculations in electromagnetic engineering upon which all higher level concepts and physical model construction are based.  It emphasizes quantitative calculation mastery in three spatial dimensions and/or time-frequency analysis.  Applies analysis tools from vector calculus and complex exponentials to the calculation and prediction of electrical system properties.  Examples include calculating electric and magnetic fields, electric potentials, or electric flux from change or current sources, and calculating the amplitudes and phases of electric or magnetic fields due to time-oscillating sources. 
+/
+TECHNIQUES IN ORDINARY DIFFERENTIAL EQUATIONS
+Review of linear differential equations; series solution of linear differential equations; boundary value problems; Laplace transforms; possibly numerical methods and two dimensional autonomous systems. 
+/
+LINEAR ALGEBRA AND DIFFERENTIAL EQUATIONS
+Introduction to linear algebra, including matrices, linear transformations, eigenvalues and eigenvectors. Linear systems of differential equations. Numerical aspects of linear problems. 
+/
+SPECIAL TOPICS IN ELECTRICAL AND COMPUTER ENGINEERING
+Topics of special interest to undergrads in electrical and computer engineering.
+/
+ELECTRODYNAMICS II
+Static and dynamic electromagnetic fields; forces and work in electromechanical systems; magnetic circuits; plane wave propagation; reflection of plane waves; generalized transmission line equations; current and voltage on transmission lines; impedance transformation and matching; Smith charts.
+/
+GENERAL PHYSICS
+Primarily for engineering students. Electricity, magnetism, light, and sound. Two lectures, two discussions and one three-hour lab per week.
+/
+PROGRAMMING II
+Introduces students to Object-Oriented Programming using classes and objects to solve more complex problems. Introduces array-based and linked data structures: including lists, stacks, and queues. Programming assignments require writing and developing multi-class (file) programs using interfaces, generics, and exception handling to solve challenging real world problems. Topics reviewed include reading/writing data and objects from/to files and exception handling, and command line arguments. Topics introduced: object-oriented design; class vs. object; create and define interfaces and iterators; searching and sorting; abstract data types (List,Stack,Queue,PriorityQueue(Heap),Binary Search Tree); generic interfaces (parametric polymorphism); how to design and write test methods and classes; array based vs. linked node implementations; introduction to complexity analysis; recursion. 
+/
+Biological Systems Engineering 
+Biological Systems Engineering
+/
+DIGITAL ENGINEERING LABORATORY
+Practical aspects of computer system design. Design, construction, and testing of significant digital subsystems. Design, construction, and programming of pipelined digital computers. 
+/
+DIGITAL SYSTEM FUNDAMENTALS
+Logic components, Boolean algebra, combinational logic analysis and synthesis, synchronous and asynchronous sequential logic analysis and design, digital subsystems, computer organization and design. 
+/
+Mechanical Engineering
+Mechanical Engineering
+/
+INTRODUCTION TO THEORY AND METHODS OF MATHEMATICAL STATISTICS I
+Elements of probability, important discrete distributions, acceptance sampling by attributes, sample characteristics, probability distributions and population characteristics, the normal distribution, acceptance sampling plans based on sample means and variances, sampling from the normal, the central limit theorem, point and interval estimation. 
+/
+STATE SPACE SYSTEMS ANALYSIS
+Analysis of systems using matrix methods to write and solve state-variable differential equations. Additional topics include stability, controllability, observability, state feedback, observers, and dynamic output feedback.
+/
+INTRODUCTION TO COLLEGE COMPOSITION
+Focuses on development of rhetorical reading, listening, and writing abilities; provides practice in written and spoken communication (emphasis on writing); develops information literacy; provides a foundation for a variety of college course work and post-college careers. 
+/
+INTEGRATED CIRCUIT DESIGN
+Bipolar and MOS devices in monolithic circuits. Device physics, fabrication technology. IC-design for linear and nonlinear circuitry. 
+/
+A MODERN INTRODUCTION TO PHYSICS
+Electricity, magnetism, and topics from thermodynamics, radiation, plasma physics, and statistical mechanics.
+/
+ELECTROMECHANICAL ENERGY CONVERSION
+Energy storage and conversion, force and emf production, coupled circuit analysis of systems with both electrical and mechanical inputs. Applications to electric motors and generators and other electromechanical transducers.
+/
+SIGNALS, INFORMATION, AND COMPUTATION
+Introduction to the signals, information, and computational techniques in electrical engineering. 
+/
+Landscape and Urban Studies
+Landscape and Urban Studies
+/
+INTRODUCTORY MICROPROCESSOR LABORATORY
+Software and hardware experiments with a microcomputer system. Assembly language programming, simple input/output interfacing, and interrupt processing in microcomputer systems. 
+/
+INTRODUCTION TO MICROELECTROMECHANICAL SYSTEMS
+Introduction to MEMS technology, devices and systems. Fundamentals of MEMS in fabrication, process integration, material mechanics of MEMS structures, sensors and actuators. Main topics in MEMS - microfluidics, optical MEMS, RF MEMS, BioMEMS, packaging, and CAD. 
+/
+INTRODUCTION TO SPEECH COMPOSITION
+Teaches students to give effective oral presentations in a variety of public speaking situations and to become better consumers of written and oral discourse. 
+/
+TECHNICAL COMMUNICATION
+Communication for engineering, science, and technology; theory and practice in planning, preparing, and critiquing reports, proposals, instructions, and business correspondence; research strategies, collaborative work; oral presentations.
+/
+TOPICS IN CALCULUS I
+TOPICS IN CALCULUS I
+/
+INTRODUCTION TO MICROPROCESSOR SYSTEMS
+Introduction to architecture, operation, and application of microprocessors; microprocessor programming; address decoding; system timing; parallel, serial, and analog I/O; interrupts and direct memory access; interfacing to static and dynamic RAM; microcontrollers. 
+/
+TESTING AND TESTABLE DESIGN OF DIGITAL SYSTEMS
+Faults and fault modeling, test equipment, test generation for combinational and sequential circuits, fault simulation, memory and microprocessor testing, design for testability, built-in self-test techniques, and fault location. 
+/
+TOPICS IN CALCULUS II
+TOPICS IN CALCULUS II
+/
+ELEMENTARY MATRIX AND LINEAR ALGEBRA
+Matrix algebra, linear systems of equations, vector spaces, sub-spaces, linear dependence, rank of matrices, determinants, linear transformations, eigenvalues and eigenvectors, diagonalization, inner products and orthogonal vectors, symmetric matrices. 
+/
+EMBEDDED MICROPROCESSOR SYSTEM DESIGN
+Hardware and software design for modern microprocessor-based embedded systems; study of the design process; emphasis on major team design project.
+/
+CALCULUS--FUNCTIONS OF SEVERAL VARIABLES
+Introduction to calculus of functions of several variables; calculus on parameterized curves, derivatives of functions of several variables, multiple integrals, vector calculus. 
+/

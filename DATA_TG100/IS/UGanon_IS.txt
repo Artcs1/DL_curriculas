@@ -1,0 +1,281 @@
+/
+First-Year Seminar: Tech Think
+The First-Year Seminar is a discussion/experience-based course intended to assist
+in the transition from high school to university life, and to encourage development of
+academic, personal and spiritual aspects of the student’s life. Each seminar is unique,
+depending upon the instructor and/or program in which it is offered.
+This course explores how scientific and technical professionals approach significant issues
+such as faith and religion. Students will engage in service learning, as well as discuss and
+reflect upon aspects of philosophy and theology that relate the typical approaches taken by
+technically-oriented persons toward issues of belief and spiritual practice. 
+/
+Problem Solving & Computer Programming
+The course focuses on problem solving and its relationship to computer programming.
+The student is introduced to the tools for developing the solution to a problem, and its
+subsequent implementation as an algorithm in a computer program.
+/
+Problem Solving & Computer Programming Lab
+The course focuses on problem solving and its relationship to computer programming. The
+student is introduced to the tools for developing the solution to a problem, and its subsequent
+implementation as an algorithm in a computer program.
+/
+Applied Mathematics for Business
+The course provides a mathematical foundation for students majoring in business. Topics
+include linear, quadratic, exponential, and logarithmic functions; mathematics of finance; limits;
+differentiation; and applications of differentiation. 
+/
+Foundations of the Business Enterprise
+This is the gateway course to the business program and helps students to gain a solid
+understanding of the components of a business, its external environment, and the interactions
+between them. 
+/
+Foundations of Theology and Christian Morality
+Rooted in the richness of the Catholic Intellectual Tradition, this course explores the religious
+experiences of the human person and their relationship to Christian moral living. 
+/
+College Composition
+The principles of logic, rhetoric, and language and their use in written discourse. Application of
+these theories to numerous reading and writing assignments. 
+/
+Principles of Systems
+An overview course introducing the concepts and value of data, information, and systems to
+the decision-making and strategic capabilities of an organization
+/
+Object-Oriented Programming
+The course is aimed at developing advanced object-oriented programming skills, and assumes
+a foundation in the basic syntax of Java. The student will explore the basis of software
+development using the major constructs of encapsulation, polymorphism, inheritance and
+dynamic binding. Topics include GUI objects, event-driven programming, threading,
+networking and exception handling
+/
+Object-Oriented Programming Lab
+The course is aimed at developing advanced object-oriented programming skills, and assumes
+a foundation in the basic syntax of Java. The student will explore the basis of software
+development using the major constructs of encapsulation, polymorphism, inheritance and
+dynamic binding. Topics include GUI objects, event-driven programming, threading,
+networking and exception handling.
+/
+Critical Analysis and Composition
+Development of the reading, research, and writing skills needed to use library resources to
+solve problems in a variety of disciplines, and relate these solutions to appropriate audiences.
+/
+Principles of Accounting I
+This course introduces the main aspects of the accounting structure. The fundamental
+accounting principle is presented in the form of the balance sheet equation and is followed by
+the logical development of the subject of debits and credits, journal entries, special journals,
+and specific account classifications. 
+/
+Principles of Macroeconomics
+This course develops tools for an understanding of macroeconomic issues and theory, including the application to current social issues such as unemployment, economic growth, and inflation.
+The role of money and financial institutions are also examined. The use and effectiveness of
+economic policy to control the macroeconomy is explored. 
+/
+Linux Programming
+This course introduces the students to the Linux boot and login processes, basic process
+management techniques, file system, user controlled software build process, and basic
+application software architecture using the operating system. 
+/
+Introduction to Networks
+The theory and techniques of data communications design and analysis are studied. Topics
+include data communication concepts, terminology, and standards. Error correction and
+detection, LANs, ISO/OSI layers are also an integral part of this course. 
+/
+Discrete Mathematics 1
+Logic, sets, methods of mathematical proof, functions, mathematical induction, counting
+methods, recurrence relations, graphs
+/
+Project Economics
+This course develops the techniques necessary for understanding economic price theory, the
+time-value of money, and the basic issues surrounding organizational architecture. These
+include issues surrounding supply and demand, cost-production, decision making and
+market models.
+/
+The Bible: An Introduction
+Students will explore the structure, theological themes, literary forms, and historical context of
+the Judeo-Christian Bible using methods of Biblical interpretation. 
+/
+Web Management and Design
+The course aims at providing an introduction to the tools and knowledge necessary to design
+and manage a web site on the Internet. Topics include servers and clients, HTML, CGI scripting,
+languages, business and ethical aspects of the web. 
+/
+Database Management and Administration
+Develop skills in query statements usage for programming, database design, as well as
+implementing and managing SQL servers. The core concept of SQL database design, usage
+and server configuration will be first introduced. 
+/
+Information Technology and Operations
+An in-depth, experiential course focusing on hardware and systems maintenance
+procedures. Topics include troubleshooting options, system configuration, system recovery,
+data and network maintenance, and general management capabilities to enable system
+operations. 
+/
+Applied Statistics
+Introduction to statistics and probability designed for all majors. Topics include measures of
+central tendency and dispersion, combinations and permutations, discrete and continuous
+probability distributions, normal probability distributions, sampling distributions, testing
+hypotheses, Chi-Square applications, linear regression and correlation. 
+/
+History Without Borders
+The most important ideas, issues, problems, and developments that mark the changing fortunes
+of the West’s interaction with the world from the Seventeenth Century to the present. 
+/
+Introduction to Philosophy
+An introduction to the study of philosophy. Beginning with the dawn of philosophical
+awareness among the ancient Greek philosophers, the course surveys both traditional and
+modern approaches to the philosophical understanding of the human condition. 
+/
+Technical Communication
+This course is an introduction to the exploration of the procedures of preparing a public speech
+with emphasis on personal credibility, audience analysis, and effective delivery techniques. 
+/
+Systems Analysis and Design
+An introduction to the role and responsibilities of a systems analyst. Students examine systems
+by analysis, modeling, and design at the enterprise, process, logical, data, and technology
+levels. Optionally included topics are feasibility analysis, technology evaluation, project
+management, object-oriented analysis.
+/
+Web Programming and Implementation
+Focuses on the development of web applications with user interface conventions that facilitate
+viewing, searching, and changing of information stored in a relational database. 
+/
+Requirements and Project Management
+Focusing on the management of software requirements and projects, particularly teams
+andstakeholders, the course includes coverage of requirements elicitation, analysis,
+documentation, and negotiation. It also includes the roles and methods of effective technical
+project management. Typical coverage includes the cost of quality, and its implications for
+requirements and project management.
+/
+Network Design & Management
+An advanced network design course covering contemporary network computing, including
+data, voice, multimedia, WAN and intranets. Detailed discussions along with hands-on
+laboratory experience with various hardware and software components that comprise these
+networks. Network analysis to monitor traffic flow and to optimize overall network design is
+included.
+/
+Network Design & Management Lab
+Network Design & Management Lab
+/
+CIS Leadership Seminar
+The Leadership Seminar introduces students to a three-dimensional model of leadership,
+including a repertoire of leadership skills and means of using those skills responsibly in the
+various communities to which they belong. In addition, the course helps students explore the
+relevance of leadership skills in the leadership process.
+/
+Managing IS in the Cloud
+A project and team-based course emphasizing the practical issues in implementing distributed
+and multi-tiered systems at the organizational, function, and user-support levels.
+/
+CIS Professional Seminar
+The course focuses on current issues facing engineering and software professionals. Included
+with the focus, is an introduction to technical speaking as well as a review of trends in the
+software, computing and other engineering fields, job prospects, political issues, team and
+workplace behavior.
+/
+Philosophy of God
+An introduction to the philosophical study of God, based largely on the tradition of Christian
+philosophy. 
+/
+Essentials of UNIX Administration
+Essentials of UNIX administration such as account management, file structure, security
+features are presented.
+/
+Intro to Enterprise Architecture
+A project and team-based course emphasizing the practical issues in the design and
+implementation of information systems. The rational integration of technology options across
+an enterprise given organizational needs and constraints is emphasized.
+/
+Server Management
+This course focuses on the configuration of networks for internet services, and how to
+deploy and maintain internet servers on multiple platforms. The course includes extensive
+laboratory work to support the installation and configuration of hardware and software to
+support networking, servers, and security for internet services, particularly on Windows and
+UNIX platforms. The course also includes discussion of the ramifications of internet service
+technologies. The course also includes building Network Balanced and High Availability
+Clusters that are the building blocks of forming a cloud.
+/
+Mobile Application Development II
+A project-based course for developing mobile applications for integrated devices such
+as iOS, Android and other mobile computing platforms. Includes introduction to the coding
+and development platforms for one of the major mobile platforms (e.g., iOS or Android),
+unit testing, source code control, and deployment includes the development of useable
+applications.
+/
+Marketing in the Global Environment
+This course helps students to understand and apply the fundamentals of marketing from a
+global perspective. The major strategic decisions of marketing are covered including capturing
+marketing insights, connecting with customers, shaping market offerings, delivering and
+communicating value, and creating successful long term growth. These topics, along with
+the examination of buyer behavior, marketing research, marketing planning, and the societal,
+consumer and ethical issues of marketing are examined through readings, experiential
+exercises, class discussions, and a comprehensive marketing planning project.
+/
+Senior Design I
+The Liberal Studies senior capstone is the culminating experience of the Core curriculum
+and therefore requires students to integrate knowledge and skills from their major study
+areas, Liberal Studies courses, and co-curricular experiences. 
+/
+Philosophy of Ethical Responsibility
+The subject matter of ethics is “the good life and how to live it.” Students will examine a variety
+of influential approaches to ethics, and will gain skill in applying ethical theory both to practical
+ethical issues in daily life, and to some of the urgent ethical issues in contemporary society
+/
+Management Theory and Practice
+This course will introduce students to the principles of management. From the organizational
+and behavioral aspects to process and management techniques of everyday business, this
+course is designed to give students a social, historical, legal, economic, and environmental
+knowledge and understanding of today’s complex business world. The crux of management
+can be summed up as the combination of interpersonal skills, work competence, specific tools
+and methods (e.g., Project Management, Quality Management), understanding of business
+processes, their measurement and interdependency as well as the ability to successfully cope
+within an ambiguous setting.
+/
+Introduction to Business Programming – COBOL
+A competency-building course focusing on the basic syntax and semantics of the COBOL
+language. Programming projects are used to introduce the student to system design,
+documentation, and coordination of programs.
+/
+Senior Design II Lab
+The completion of the capstone design sequence. Students develop and deliver a completed
+end product. Emphasis is on working effectively in cross-disciplinary teams. Course topics
+include organizational behavior, quality assurance, documentation, design process and
+process metrics, risk management, written and oral presentation skills, ethical issues in the
+digital world.
+/
+Advanced Multi-Media
+The course covers advanced multimedia concepts such as graphics, animation, video and
+sound; as well as the tools used to create multimedia applications. In addition, the course
+presents the design principles and management skills needed to develop dynamic, interactive
+multimedia products.
+/
+Principles of Accounting II
+This course continues the focus on the application of accounting principles inside the
+enterprise, i.e., the proprietorship, the partnership, and the corporation. An additional focus is
+the use of accounting information to better aid in the planning, controlling, and evaluation of
+company performance. 
+/
+Art of Film
+The components of film art, primarily as seen in short films; analysis of techniques and
+meaning of experimental, documentary, animation, and other types of film. 
+/
+Introduction to Literature
+This course helps students develop an appreciation, understanding and evaluation of literature
+as it reflects human experience in diverse cultural contexts. The course focuses on the essential
+elements of prose, drama, and poetry
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+

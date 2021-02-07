@@ -1,0 +1,147 @@
+/
+Introduction to Ohio State and Computer Science and Engineering
+Introduction to Ohio State and Computer Science and Engineering
+/
+Fundamentals of Engineering I
+Engineering problem solving utilizing computational tools such as Excel and Matlab; hands-on experimentation; modeling; ethics; teamwork; written, oral and visual communications.
+/
+Fundamentals of Engineering II
+Introduction to 3D visualization and CAD; engineering design-build process; teamwork; written, oral and visual communications; project management.
+/
+Calculus I
+Differential and integral calculus of one real variable.
+/
+Engineering Mathematics A
+Techniques of integration, Taylor series, differential calculus of several variables.
+/
+Mechanics, Thermal Physics, Waves
+
+/
+Software I: Software Components
+Intellectual foundations of software engineering; design-by-contract principles; mathematical modeling of software functionality; component-based software from client perspective; layered data representation.
+/
+Software II: Software Development and Design
+Data representation using hashing, search trees, and linked data structures; algorithms for sorting; using trees for language processing; component interface design; best practices in Java.
+/
+Foundations I: Discrete Structures
+Propositional and first-order logic; basic proof techniques; graphs, trees; analysis of algorithms; asymptotic analysis; recurrence relations.
+/
+Foundations II: Data Structures and Algorithms
+Design/analysis of algorithms and data structures; divide-and-conquer; sorting and selection, search trees, hashing, graph algorithms, string matching; probabilistic analysis; randomized algorithms; NP-completeness.
+/
+Systems I: Introduction to Low-Level Programming and Computer Organization
+Introduction to computer architecture at machine and assembly language level; pointers and addressing; C programming at machine level; computer organization.
+/
+Systems II: Introduction to Operating Systems
+Introduction to operating system concepts: process, CPU scheduling, memory management, file system and storage, and multi-threaded programming.
+/
+Principles of Programming Languages
+Formal languages and grammars; recursive descent parsing; data types, expressions, control structures, parameter passing; compilers and interpreters; memory management; functional programming principles.
+/
+Social, Ethical, and Professional Issues in Computing
+Social, ethical, and professional issues facing computing professionals; ethical principles; discussion of case studies.
+/
+Ethics in the Professions: Introduction to Computing Ethics and Effective Presentation
+An introduction to ethical theory with a special focus on ethical issues that arise in the computing profession. It includes student presentations and feedback to improve discussion skills.
+/
+Introduction to Analog Systems and Circuits
+Circuit theory and applications of passive components and Op amps. Introduction to analog systems using differential equations and Laplace transforms.
+/
+Introduction to Digital Logic
+Introduction to the theory and practice of combinational and clocked sequential networks.
+/
+Linear Algebra
+Matrix algebra, vector spaces and linear maps, bases and dimension, eigenvalues and eigenvectors, applications.
+/
+Foundations of Higher Mathematics
+Introduction to logic, proof techniques, set theory, number theory, real numbers.
+/
+Introduction to Probability and Statistics for Engineers
+Introduction to probability, Bayes theorem; discrete and continuous random variables, expected value, probability distributions; point and interval estimation; hypotheses tests for means and proportions; least squares regression.
+/
+Software Engineering Techniques
+Software engineering issues, techniques, methodologies and technologies; software lifecycle activities: requirements analysis, architecture, design, testing, deployment, maintenance; project management; enterprise software systems; frameworks.
+/
+Introduction to Database Systems
+Database systems use, logical design, entity-relationship model, normalization, query languages and SQL, relational algebra and calculus, object relational databases, XML, active databases; database design project.
+/
+Introduction to Computer Architecture
+Organization of hardware and software in modern computer systems, including instruction set design, processor control, ALU design, pipelining, multicores and accelerators, and memory subsystem design.
+/
+Computer Networking and Internet Technologies
+Computer networks, communication protocols, Internet TCP/IP and applications, wireless communications and network security.
+/
+Survey of Artificial Intelligence I: Basic Techniques
+Survey of basic concepts and techniques in artificial intelligence, including problem solving, knowledge representation, and machine learning.
+/
+Project: Design, Development, and Documentation of Web Applications
+Intensive group project involving design, development, and documentation of a web application; client-side and server-side scripting; communication skills emphasized; builds programming maturity.
+/
+Project: Design, Development, and Documentation of Interactive Systems
+Intensive group project involving design, development, and documentation of an interactive software system, a 2D interactive game; communication skills emphasized; builds programming maturity.
+/
+Project: Design, Development, and Documentation of System Software
+Intensive group project involving design, development, and documentation of system software including an assembler and a linking loader; communication skills emphasized; builds programming maturity.
+/
+Capstone Design: Software Applications
+Capstone design project: application of software engineering techniques, methodologies and technologies in software lifecycle activities using enterprise software frameworks; teamwork, written and oral communication.
+/
+Capstone Design: Game Design and Development
+Capstone design project; conceptual and technical design and implementation of interactive game, integrating custom code and toolkits; teamwork, written and oral communication skills.
+/
+Capstone Design: Computer Animation
+Capstone design project: conceptual and technical design and implementation of computer animation incorporating animation elements; teamwork, written and oral communication skills.
+/
+Capstone Design: Knowledge-Based Systems
+Capstone design project; conceptual and technical design; theory and practice of knowledge-based systems; teamwork, written and oral communication skills.
+/
+Capstone Design: Information Systems
+Capstone design project; information system principles: database design methods and tools, indexing, searching, application development, testing, evaluation; teamwork, written and oral communication skills.
+/
+Fundamentals of Mathematics for Engineers
+This application-oriented, hands-on, introduction to engineering mathematics course will provide an overview of the salient math topics most heavily used in beginning engineering courses. All math topics will be presented within the context of an engineering application, and reinforced through extensive examples of their use in the core engineering courses.
+/
+Honors Problem Solving
+Problem solving beyond what is encountered in standard programs.
+/
+Transition Engineering Calculus
+Integral calculus, Taylor series, differential calculus of several variables.
+/
+Engineering Mathematics B
+Multiple integrals, line integrals, vector fields, second order ordinary differential equations.
+/
+Software Requirements Analysis
+Information systems analysis; object-oriented analysis models and tools; use cases, system modeling using UML; requirements specification development; term project.
+/
+Introduction to Database Systems
+Systematic organization of data on cloud computing architectures; basic indexing techniques, including B-tree and hash-based indexing; fundamentals of query optimization, including access path selection and cardinality estimation; full and partial replication; data partitioning and distributed task scheduling.
+/
+Automata and Formal Languages
+Machine-based and grammatical models of computation; finite automata and regular languages, pushdown automata and context-free languages, Turing machines; non-determinism; Church's Thesis.
+/
+Professional Practice in Industry
+Preparation and submission of a comprehensive report based on actual employment experience in a co-op job in industry.
+/
+The UNIX Programming Environment
+Introduction to the UNIX programming environment including: shell programming (csh); regular expressions; makefiles; grep, sed, and awk programming languages.
+/
+Individual Studies in Computer Science and Engineering
+Designed to give the student an opportunity to pursue special studies not otherwise offered.
+/
+Undergraduate Research in Computer Science and Engineering
+Opportunity for undergraduate student to conduct research in Computer Science and Engineering.
+/
+Undergraduate Research in Computer Science and Engineering
+Opportunity for undergraduate student to conduct research in Computer Science and Engineering.
+/
+Computer Science and Engineering Research for Thesis
+Supervised research and project work arranged individually.
+
+
+General Education
+Writing and Related Skills (6 hrs)
+Social Sciences (6 hrs)
+Historical Study (3 hrs)
+Arts and Humanities (6 hrs)
+Cultures and Ideas and Professional Ethics (3 hrs)
+ 

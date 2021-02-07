@@ -1,0 +1,82 @@
+/
+INTRODUCTION TO AERONAUTICS
+Introduces students to the applied science of air-breathing atmospheric flight. The course describes airplanes and how they fly from a design and application perspective. Included are topics in fluid dynamics, airfoil and wing theory, aircraft performance, stability, structures, and aircraft design.
+/
+APPLICATIONS OF CYBER ENGINEERING
+This course focuses on the engineering aspects of cyber operations, cyber defense, and cyber attacks, as a follow-on to SY110. There are three main areas of study, including the host section (a single computer terminal), the network section, and the wireless communication section. Each area of study culminates in a detailed description of a common type of cyber attack and the defenses against it. Lecture material is reinforced and supplemented with labs/security exercise that demonstrate the theoretical concepts in an isolated, virtual environment.
+/
+FOUNDATIONS OF CHEMISTRY I
+The first in a two-semester sequence presenting the fundamental laws and theories of chemistry. Major topics include chemical stoichiometry, periodic trends, atomic structure, chemical equilibrium, thermodynamics, nuclear chemistry, electrochemistry and kinetics. The lecture material is complemented with experiments designed to develop the student's laboratory skills. Naval applications of chemistry are introduced throughout the courses to provide an awareness of chemistry in normal Navy operations.
+/
+FOUNDATIONS OF CHEM II
+This is the second in the two-course foundations of chemistry sequence. See SC111 for a general course description. In this version of SC112, naval applications of chemistry including body armor, corrosion, nuclear power, boiler water quality, aircraft deicing, and scuba diving will be emphasized.
+/
+CALCULUS I
+The first of a traditional two course sequence covering differential and integral calculus of one real variable and infinite series.
+/
+CALCULUS II
+Continuation of Calculus I.
+/
+CALCULUS III WITH VECTOR FIELDS
+Differential and integral calculus of several real variables; vector analysis including integral theorems.
+/
+GENERAL PHYSICS I
+The first of a two course sequence emphasizing the fundamental principles of classical physics and introduce a variety of applications. Topics include mechanics, electricity, magnetism, wave motion, fluids, sound and light. Lectures, recitations, hands-on laboratories, and large-scale demonstration lectures are employed.
+/
+GENERAL PHYSICS II
+GENERAL PHYSICS II
+/
+RHETORIC AND INTRO TO LITERATURE I
+The first of a two course sequence stressing the writing of rhetorically effective and grammatically correct expository prose. During the first semester students read essays, short stories and plays, and they write brief essays.
+/
+RHETORIC AND INTRO TO LIT II
+RHETORIC AND INTRO TO LIT II
+/
+AMERICAN NAVAL HISTORY
+This course examines the antecedents, origins and development of the United States Navy and Marine Corps within the framework of America's growth as a continental and, eventually, global power, with particular emphasis on the development of naval and maritime strategy.
+/
+THE WEST IN THE PRE-MODERN WORLD
+THE WEST IN THE PRE-MODERN WORLD
+/
+ASIA IN THE PREMODERN WORLD
+ASIA IN THE PREMODERN WORLD
+/
+U. S. GOVERNMENT AND CONSTITUTIONAL DEVELOPMENT
+Basic concepts of American democracy, the Constitution, political process, structure and functions of national government and factors influencing its operation; emphasis on legal and ethical demands placed on government officials, both civilian and military, as defined by the Constitution and statute.
+/
+INTRODUCTION TO NAVIGATION
+A comprehensive introduction to basic navigation concepts, voyage planning, and contact tracking on maneuvering boards. The course objective is to develop skills in the practical uses of the navigation chart. Midshipmen are introduced to the navigation chart format and associated plotting tools and techniques and learn the concepts of chart coordinates, while measuring and calculating distances, times directions and speeds.
+/
+BASIC NAVIGATION
+A comprehensive introduction to basic navigation concepts, voyage planning, and contact tracking on maneuvering boards. The course objective is to develop skills in the practical uses of the navigation chart. Midshipmen are introduced to the nautical chart format and associated plotting tools and techniques, learning the concepts of chart coordinates by measuring and calculating distances, times, directions, and speeds.
+/
+ADVANCED NAVIGATION
+ADVANCED NAVIGATION
+/
+Electrical Fundamentals and Applications
+Provides an introduction to AC and DC circuit theory appropriate to model shipboard systems. Circuits of resistors, capacitors, inductors and sources are analyzed to predict steady state and first-order transient voltage, current, and power. Impedance matching, filters, transformers, motors/generators, and three-phase power distribution systems are introduced in the context of shipboard application. Laboratory exercises use tools and equipment found in the fleet and allow for a comparison of theoretical and actual circuit performance
+/
+APPLICATIONS OF CYBER ENGINEERING
+The course begins with a brief review of the fundamentals of cyber security, including network architecture, digital signal representation, and digital data transmission. This is followed by terminal-related topics such as assembly level programming, high speed memory, buffer overflow attack, Windows & Linux operating systems, vulnerabilities, and authentication. The core network activities of the OSI model are presented with emphasis on security in a cyber-warfare based environment. Network vulnerability, and hardware and software techniques to protect data are presented. The course ends with wireless topics with emphasis on wireless network security, digital modulation, basic antenna theory, spread spectrum and frequency hopping.
+/
+Applications of Cyber Security- Systems Majors
+This course focuses on concepts of cyber security applied to electronic communication. Students will first concentrate on computer engineering systems and program design to understand cyber vulnerabilities. They will then focus on wired networking at the physical layer whereby the particular Controller Area Network (CAN) specifications will be used to investigate the details and perform attacks on the nodes. Finally, students will be introduced to wireless communication with a focus on wireless network security, including Fourier analysis, filters, gain and noise. In the labs, they will investigate modulation, antennas and propagation. The course ends with eavesdropping, jamming, error correction and encryption in ZigBee and WIFI networks.
+/
+Computer Networks with Security Applications
+This course provides a foundation in the fundamentals of data and computer communications. Emphasis is placed on protocol and network design within the framework of the TCP/IP network architecture. Critical technical areas in data communications, wide-area networking, and local area networking are explored.  Cyber security considerations, vulnerabilities, and solutions are examined at all levels of the network stack.
+/
+Operating Systems
+This is an introductory course covering fundamental concepts and principles of computer operating systems with emphasis on process management including threads, memory management, file system structures, I/O management, system protection, security and distributed computing. Students will engage in a number of programming projects.
+/
+Wireless Networks
+An introductory course in wireless networking and wireless network security. Major topics will include the wireless channel; the IEEE 802.11 (WiFi), Bluetooth and WiMax standards; wireless network security; 4G cellular networks; and advanced wireless networks such as wireless sensor networks.
+/
+Compilers
+This course provides students with an introduction to compilers and compiler-based tools.  Course topics will include building usable data structures from the parsed code, analyzing code for errors, optimizing code for performance, and generating machine specific code.  Labs will focus on learning and using industrial strength tools such as LLVM to analyze and instrument programs
+/
+Directed Research Course
+The purpose of EX49X is to engage midshipmen in research under the guidance of a faculty mentor, providing them an opportunity to study independently and make original contributions to a field of special interest.  A midshipman taking EX49X will typically investigate an unexplored area or examine previously reported research results within a new context or using a new approach. Research by midshipmen contributes significantly to the Naval Academy's goal of promoting habits of lifelong learning among its graduates.  
+/
+Electrical Fundamentals and Applications
+Provides an introduction to AC and DC circuit theory appropriate to model shipboard systems. Circuits of resistors, capacitors, inductors and sources are analyzed to predict steady state and first-order transient voltage, current, and power. Impedance matching, filters, transformers, motors/generators, and three-phase power distribution systems are introduced in the context of shipboard application. Laboratory exercises use tools and equipment found in the fleet and allow for a comparison of theoretical and actual circuit performance. 
+/

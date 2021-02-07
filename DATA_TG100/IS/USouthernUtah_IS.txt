@@ -1,0 +1,127 @@
+/
+Introduction to Academic Writing
+The first of the required GE writing courses introduces students to academic composition. Students will engage in writing as a process, pre-drafting strategies, multiple drafts, peer review, and large and small-scale revisions.
+/
+Intermediate Writing
+The second of the GE writing courses emphasizes the development of an effective academic style in argumentative essays that makes use of traditional rhetorical patterns, culminating in a major research paper. 
+/
+Contemporary Mathematics
+An exploration of contemporary mathematical applications with a focus on developing quantitative reasoning skills. Students will represent and analyze multiple concrete real-world problems using quantitative tools. Topics include voting theory, graph theory, financial mathematics, statistics, and probability
+/
+Statistical Reasoning
+An exploration of basic statistical concepts with a focus on developing critical reasoning skills. Students will represent data, calculate probabilities, draw conclusions using statistical tools, and critique statistical studies and data collection methods. Topics include descriptive statistics, basic probability, statistical graphs, experimental design, and an introduction to statistical inference. Appropriate for many non-quantitative majors, the course is designed to develop statistical literacy and involves limited algebraic manipulation.
+/
+Statistical Inference
+An introduction to the basic concepts and methods of statistical data analysis. Students will summarize and interpret data, evaluate important assumptions, and draw appropriate conclusions based on sample data sets from a variety of disciplines
+/
+College Algebra
+An exploration of the properties and applications of functions and their graphs. Students will construct and analyze mathematical models from a wide variety of fields using appropriate technology. Topics include polynomial, rational, inverse, logarithmic, and exponential functions as well as matrix methods for solving systems of equations
+/
+Trigonometry
+An exploration of the properties and applications of trigonometric functions. Students will represent physical situations and solve applied problems using trigonometric tools and appropriate technology. Topics include angle measure, solving triangles, and trigonometric functions, graphs, equations, and identities. Vectors, polar coordinates, and complex numbers will also be introduced.
+/
+Applied Calculus
+An introduction to basic computational techniques and applications of calculus. Topics include functions, limits, differentiation, and integration. Emphasizes the use of calculus in solving problems from areas including business, economics, social sciences, and life sciences.
+/
+Calculus I
+Functions, limits and continuity; the derivative, differentiation techniques, and applications; graphing applications including extrema and concavity; elementary antiderivative/integration skills; the definite integral and its applications. Coverage includes applying the ideas and techniques of calculus to algebraic, trigonometric, exponential, and logarithmic functions.
+/
+Algebraic Reasoning
+An exploration of fundamental concepts underlying algebra and algebraic thinking. Students will investigate, discuss, and apply foundational ideas such as variable, equation, solution, function, and graph in multiple algebraic settings. Topics include the integers modulo n, inverses and inverse functions, growth in dynamical systems, polynomial and exponential models. Recommended for prospective elementary school teachers but open to all majors. Graphing calculator required; this course does not serve as a prerequisite for Calculus I
+/
+US Economic History
+Satisfies American government requirement of General Education. History from colonial times to present. Coverage of U.S. Constitution; national economy; pluralism; ethnicity, race, gender; distribution of wealth and power; social conflict and reform; entrepreneurs, workers, workplace; cultural encounters; popular culture; and U.S. and global affairs
+/
+American Civilization
+The fundamentals of American history including political, economic, and social development of American institutions and ideas. Successful completion of this course meets the American Institutions requirement established by the state legislature
+/
+American National Government
+Source of democratic ideas and principles of the constitutional system. Cultural, group, party, and governmental influences on the process of public policymaking. The administration and impact of public policy.
+/
+Fundamentals of Programming
+An introduction to computer programming. Topics to be covered include program design, program implementation techniques, programming constructs, console output, class design, and basic familiarity with the API. Emphasis is placed on modifying and developing simple applications. 
+/
+Object Oriented Programming
+featuring the use of APIs and problem-solving strategies to create, test, and debug interactive object oriented programs. Topics to be covered include recursion, exception handling, reusability, and program design
+/
+Database Design and Management
+Introduction to database management systems, database processing, data modeling, database, and database design, development, and implementation. Contrasts alternative modeling approaches. Includes implementation of current DBMS tools and SQL.
+/
+Introduction to Computer Applications and the Internet
+Designed to explore concepts of microcomputer systems. Concepts include Windows and general information, word processing, spreadsheets, database, presentations, and the Internet. Students will gain proficiency with the basic command structures of each application in an integrated office suite. Recommend typing speed of at least 25 wpm.
+/
+Web Development
+Designed to develop web pages using HTML and other web page authoring software programs. Students will create several web pages and publish them to a web server. Some advanced features will be introduced. 
+/
+Data Communications and Networking
+Designed as a telecommunications and networking foundation in network connectivity, data communication concepts, and communication protocols. Students learn to analyze cost-benefits and to evaluate, select, and implement different communication options.
+/
+Defensive Security
+This course provides a fundamental understanding of defensive security principles, technologies, and countermeasures, such as firewalls, intrusion detection systems, physical security and more. A variety of projects are assigned to reinforce concepts.
+/
+Accounting Principles
+This course provides a thorough study of basic accounting principles. The accounting cycle is introduced using an appropriate mix of conceptual and procedural problems. A real-world problem using computer applications is also covered. This is a basic course, which aids in building a foundation for financial analysis and decision-making
+/
+Team Work, Decision Making, and Leadership
+A functional approach to effective performance with emphasis on how a person works in teams, develops decision-making skills, and learns the roles and values of becoming an effective leader.
+/
+PC Hardware
+This course is designed to provide the student with the knowledge necessary to pass the A+ certifications exams from CompTIA. A+ Certification is an internationally recognized level of non-vendor-based computer technical competence
+/
+System Administration I
+This course provides the student with skills required to administer Microsoft Windows Desktops and Servers. It includes server deployment and maintenance, advanced file services, server monitoring, remote access, Network Policy Server, Active Directory, and DNS
+/
+Fundamentals of Security
+Fundamental concepts in security including planning, risk management, cryptography, network security, system hardening, and policy 
+/
+Information Systems Project Management
+This course is a study of the concepts and technology trends of Project Management and how it is used within Information Systems. Students will explore the principles, practices, features, and functions of the Microsoft Project application. The course will be taught with a mixture of analytical methods and practical exercises
+/
+Environments of Information Systems
+Introduces fundamental principles of information systems and their strategic use. Describes the role of information technology in organizations and business environments. Explains Web-based technologies, enterprise-level applications, managerial and decision support systems, and the implementation and management of IT.
+/
+Systems Analysis and Design
+Practical introduction to major phases, activities, tools, and techniques of systems analysis, design, and development, emphasizing the role of systems analysts in organizations and dynamic, business environments
+/
+IS Capstone Project
+IS Capstone Project
+/
+Applied Calculus
+An introduction to basic computational techniques and applications of calculus. Topics include functions, limits, differentiation, and integration. Emphasizes the use of calculus in solving problems from areas including business, economics, social sciences, and life sciences
+/
+Management and Organizations
+Management is a set of dynamic and complex activities that all organizations must master if they are to survive in the long run. MGMT 3180 is the introductory course to the study of managing people, resources, and processes, with an emphasis on understanding the behavioral and administrative theories and concepts needed to succeed in contemporary organizations. 
+/
+Managerial Accounting
+A study of the accumulation and flow of managerial accounting information and its impact on decisions within a business entity. Emphasizes cost behavior, cost-volume profit analysis, and management’s use of quantitative tools for planning and control
+/
+Computer Applications
+Students will learn the use of advanced features found in an integrated office productivity suite and will utilize word processing, spreadsheets, presentation, and database applications to solve a variety of business situations.
+/
+Introduction to MIS - ERP
+This course is designed to give the student a basic understanding of the importance of information systems (MIS-ERP) in modern companies, the components that make up information system and insight into the integration that good information systems foster in a business organization
+/
+International Business
+This course explores management from an international perspective. Unlike domestic corporations, multi-national businesses must consider cultural and legal differences, currency and economy fluctuations, unique staffing and workplace issues, and sometimes hostile government policies and philosophies. These factors add risk to running international operations and can have a dramatic effect on corporate results
+/
+Organizational Behavior and Leadership
+Practical approaches to helping students develop the skills necessary to manage people in organizations. The critical role of leadership will be emphasized throughout the course. Topics include motivation, empowerment, power and influence, conflict management, team building, and creative problem solving.
+/
+Web Design I
+An introduction to the design of web sites in both functionality and visual appeal. Training will be given in selected current software directed toward web-based, interactive design projects.
+/
+Web Design II
+Advanced problems in web design and interactivity. Training will be given in selected current software directed toward web-based, interactive design projects.
+/
+Mobile App Development for iOS
+This course provides an in-depth look at programming mobile iOS devices such as the iPhone and iPad. The course includes the Objective-C programming language and programming topics specifically related to mobile iOS devices. Students use current software development environments such as Xcode when creating applications
+/
+Human-Computer Interfaces
+This course is intended to introduce the students to the basic concepts, principles, and techniques used in designing interactive computer systems. It will cover the basic computer interface design theory and methods that exist in the field.
+/
+Server Administration
+Students will gain practical knowledge in regards to web server installation/configuration, backup/recovery solutions, hardware options/installation, and cloud server management
+/
+
+/
+

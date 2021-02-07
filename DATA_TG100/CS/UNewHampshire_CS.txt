@@ -1,0 +1,65 @@
+/
+Introduction to Computer Science I
+Theory and practice of computer science. Algorithm development and analysis; data abstraction techniques; elementary data structures; dynamic memory manipulation; debugging; and program design issues.
+/
+Introduction to Computer Science II
+Theory and practice of computer science. Algorithm development and analysis; data abstraction techniques; elementary data structures; dynamic memory manipulation; debugging; and program design issues. Computer systems and applications. 
+/
+Introduction to Computing
+Initial exploration of computing, including comparison of the various subfields. A wide range of issues, including fundamental concepts, selected current topics and the role of both computing and computing professionals in organizations and in society are also discussed. 
+/
+Introduction to Internet Technologies
+Introductory course exploring the fundamentals of Internet communications with an emphasis on the World Wide Web. Students develop an understanding of the Internet's underlying technologies and learn how to utilize them as contributing members of the Web community. Students become proficient with creating and publishing Web pages using HTML and CSS. 
+/
+Calculus I
+Calculus of one variable covering limits, derivatives of algebraic, trigonometric, exponential, and logarithmic functions; applications include curve sketching, max-min problems, related rates, and volume and area problems. 
+/
+Calculus II
+Second course in calculus of one argument, techniques and applications of integration, polar coordinates, and series. 
+/
+First-Year Writing
+Training to write more skillfully and to read with more appreciation and discernment. 
+/
+Introduction to Digital Systems
+Fundamental analysis and design principles. Number systems, codes, Boolean algebra, and combinational and sequential digital circuits. Lab: student-built systems using modern integrated circuit technology and an introductory design session on a CAD workstation. 
+/
+Data Structures and Introduction to Algorithms
+Reviews basic data structures; advanced data structures such as graphs, B-trees, and AVL trees; abstract data structure design and programming techniques; use of data abstraction language. Introduction to algorithm analysis.
+/
+Mathematical Proof
+Introduces reading and writing proofs in mathematics. The basic language of mathematics common to all branches of the subject, especially set theory and basic logic.
+/
+Computer Organization
+Basic computer structure, including arithmetic, memory, control, and input/output units; the trade-offs between hardware, instruction sets, speed, and cost. Laboratory experiments involving machine language programming and I/O interfacing using microcomputers. 
+/
+Assembly Language Programming and Machine Organization
+Assembly language programming and machine organization: program and data representation; registers, instructions, and addressing modes; assemblers and linkers. Impact of hardware on software and software on hardware. 
+/
+Introduction to the Theory of Computation
+Review of sets, relations, and languages. Induction and diagonalization. Finite automata, context-free languages, pushdown automata. Basic complexity theory. 
+/
+Programming Language Concepts and Features
+Explores the main features of modern, high-level, general purpose programming languages from the user (programmer) point of view. Provides students with an opportunity to use non-imperative programming paradigms, such as object-oriented, functional, and logical, and to learn how specific features of such languages can be used efficiently in solving programming problems. 
+/
+Algorithms
+An introduction to important concepts in the design and analysis of algorithms and data structures, including implementation, complexity analysis, and proofs of correctness. 
+/
+Compiler Design
+Formal languages and formal techniques for syntax analysis and parsing; organization of the compiler and its data structures; code generation. LL and LR parsing; automatic generation of scanners and parsers from high level descriptions. Implementation of features from imperative and object-oriented languages.
+/
+Machine Learning
+An introduction to fundamental concepts and common methods in machine learning. In addition to theoretical topics, the course involves hands-on experience in making predictions using synthetic and real-world datasets. 
+/
+Server-side Web Development
+An intermediate-level examination of the theory and practice of developing server-side applications for the World Wide Web. Students will learn practical techniques for designing and implementing data-driven Web sites through the use of server-side processing. Working knowledge of HTML, CSS, and some programming language is required. 
+/
+Client-side Web Development
+An intermediate-level examination of the theory and practice of developing client-side applications for the World Wide Web. Students will learn practical techniques for designing and implementing dynamic Web sites through the use of client-side processing. Working knowledge of HTML, CSS, and some programming language is required. 
+/
+Senior Project I
+First semester of the capstone design experience. Modern software engineering practices and tools are surveyed and applied in team projects. 
+/
+Senior Project II
+Senior Project II
+/
+

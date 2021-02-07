@@ -1,0 +1,103 @@
+/
+Introduction to Computing for Engineers
+Introduction to computing logic, algorithmic thinking, computing processes, a programming language and computing environment. Knowledge obtained in this course enables use of the computer as an instrument to solve computing problems. Representative problems from science, mathematics, and engineering will be solved.
+/
+Introduction to Principles of Programming
+Introduction to computer programming in a structured programming language including fundamental elements of program design and analysis. Data and functional abstraction as tools for constructing correct, efficient, and intelligible programs for a variety of common computing problems.
+/
+Data Structures and Object-Oriented Design
+Introduction to fundamental data structures and algorithms. The emphasis is on understanding how to efficiently implement different data structures, communicate clearly about design decisions, and understand the relationships among implementations, design decisions, and the four pillars of object-oriented programming: abstraction, encapsulation, inheritance, and polymorphism.
+/
+Computer Architecture
+Structure and operation of digital systems and computers. Fundamentals of digital logic. Machine organization, control and data paths, instruction sets, and addressing modes. Hardwired and microprogrammed control. Memory systems organization. Discussion of alternative architectures such as RISC, CICS, and various parallel architectures.
+/
+Introduction to Discrete Systems
+Mathematical methods for characterizing and analyzing discrete systems. Modern algebraic concepts, logic theory, set theory, grammars and formal languages, and graph theory. Application to the analysis of computer systems and computational structures.
+/
+Contemporary Issues in Computer Science and Engineering
+Information management, the global and societal impact of computer science and engineering decisions, professional and ethical responsibility.
+/
+Systems Programming
+Introduction to system-level programming with an emphasis on C programming, process management and small scale concurrency with multi-threaded programming. Special attention will be devoted to proficiency with memory management and debugging facilities both in a sequential and parallel setting.
+/
+Cybersecurity Lab
+Introduction to the design of secure systems. Explores issues that arise in multiple design phases to understand the limitations of the platform and the source of opportunities for attackers. Each unit will explore a system, its design, its vulnerabilities and how to exploit them, culminating with the creation, implementation and deployment of counter-measures to eliminate the vulnerabilities and nullify the threat.
+/
+Algorithms and Complexity
+Design and analysis of efficient computer algorihms. Algorithm design techniques, including divide-and-conquer, depth-first search, and greedy approaches. Worst-case and average-case analysis. Models of computation. NP-complete problems.
+/
+Computer Science and Engineering Design Project I
+The first semester of the required two-semester major design experience. Working on a team, students will propose, design, produce, and evaluate a software and/or hardware system. Will culminate in the delivery of the design, analysis, and initial working system, to be used as a basis for CSE 4940, formal public presentation, and written documentation. Oral and written progress reports are required.
+/
+Computer Science and Engineering Design Project II
+The second semester of the required year long major design experience. The semester will be spent developing, testing, and evaluating the software and/or hardware system. The project will culminate in the delivery of a working system and will include a formal public presentation, and written documentation. Oral and written progress reports are required.
+/
+Theory of Computation
+Formal models of computation, such as finite state automata, pushdown automata, and Turing machines, and their corresponding elements in formal languages (regular, context-free, recursively enumerable). The complexity hierarchy. Church's thesis and undecidability. NP completeness. Theoretical basis of design and compiler construction.
+/
+Numerical Methods in Scientific Computation
+Introduction to the numerical algorithms fundamental to scientific computation. Equation solving, function approximation, integration, difference and differential equations, special computer techniques. Emphasis is placed on efficient use of computers to optimize speed and accuracy in numerical computations. Extensive digital computer usage for algorithm verification.
+/
+Programming Language Translation
+Introduction to the formal definition of programming language syntax and semantics. Design and realization of programming language processing systems such as assemblers, compilers, and interpreters.
+/
+Parallel Systems
+Introduction to parallel systems. Fundamentals of the theory of parallel systems. Models of parallel machines. Limitations of parallel systems. Paradigmatic algorithms. Vectorization. Arithmetic structures. Classical parallel architectures.
+/
+Introduction to Modern Cryptography
+Covers the foundations of modern cryptography introducing basic topics such as one-way functions, pseudorandom generators, and computational hardness assumptions based on number theory. The course will cover fundamental cryptographic constructions such as hard-core predicates, secure symmetric encryption and message-authentication codes, and public-key cryptography.
+/
+Computational Geometry
+An extension of sorting, searching, selection, and graph algorithms to geometric problems. This includes algorithms and data structures for constructing geometric objects, computing geometric properties, and answering geometric queries as well as techniques for the analysis of their correctness and complexity.
+/
+Introduction to Machine Learning
+An introduction to the basic tools and techniques of machine learning, including models for both supervised and unsupervised learning, related optimization techniques, and methods for model validation. Topics include linear and logistic regression, SVM classification and regression, kernels, regularization, clustering, and on-line algorithms for regret minimization.
+/
+Computer Networks and Data Communication
+Introduction to computer networks and data communications. Network types, components and topology, protocol architecture, routing algorithms, and performance. Case studies including LAN and other architectures.
+/
+Applied Linear Algebra
+Systems of equations, matrices, determinants, linear transformations on vector spaces, characteristic values and vectors, from a computational point of view. The course is an introduction to the techniques of linear algebra with elementary applications.
+/
+Multivariable Calculus
+Two- and three-dimensional vector algebra, calculus of functions of several variables, vector differential calculus, line and surface integrals.
+/
+Statistical Methods 
+Basic probability distributions, point and interval estimation, tests of hypotheses, correlation and regression, analysis of variance, experimental design, non-parametric procedures.
+/
+General Chemistry I
+Designed to provide a foundation for more advanced courses in chemistry. Atomic theory, laws and theories concerning the physical and chemical behavior of gases, liquids, solids, and solutions. Quantitative measurements illustrating the laws of chemical combination in the laboratory component. 
+/
+General Chemistry II
+Equilibrium, thermodynamics, nuclear chemistry, and kinetics. Properties of some of the more familiar elements and their compounds. Equilibrium in solutions and reactions of the common cations and anions in the laboratory component.
+/
+General Physics with Calculus I
+Quantitative study of the basic facts and principles of physics with an emphasis on mechanical phenomena. Concepts such as work, mechanical energy, linear and angular momentum, and energy conservation are explained. The laboratory offers fundamental training in physical measurements. Recommended for non-engineering students who desire to have a calculus-based physics sequence. 
+/
+General Physics with Calculus II
+Quantitative study of the basic facts and principles of physics with an emphasis on electromagnetic phenomena, including electromagnetic radiation and waves and electric circuits. The laboratory offers fundamental training in physical measurements. Recommended for non-engineering students who desire to have a calculus-based physics sequence.
+/
+Physics for Engineers II
+Introduction to principles of electromagnetism and Maxwell?s equations, including electric circuits, electromagnetic wave propagation, optics, and other relevant applications to engineering. Basic concepts of calculus are used.
+/
+Fundamentals of Physics I
+Foundational principles of mechanics: kinematics, forces, energy, momentum, angular momentum, torque, gravitation, waves, harmonic motion and nonlinear dynamics. Basic concepts of calculus are used.
+/
+Fundamentals of Physics II
+Foundational principles of electromagnetism: electrostatics, magnetostatics, electrodynamics, Maxwell?s equations, electromagnetic wave propagation, and optics, including some of their relevant applications to physics. Basic concepts of calculus are used
+/
+Navy STEM Professional Development Seminar
+Seminar series focusing on science, engineering and technology concepts in the design, construction, operation and maintenance of surface ships and submarines. Provides industry-specific knowledge for engineering students interested in pursuing Navy-related careers in the public or private sectors.
+/
+Special Topics in Computer Science and Engineering
+Special Topics in Computer Science and Engineering
+/
+Independent Study in Computer Science and Engineering
+Independent Study in Computer Science and Engineering
+/
+Introduction to Software Engineering
+Software engineering concepts including the software life cycle and other software-development process models. Specification techniques, design methodologies, performance analysis, and verification techniques. Team-oriented software design and development, and project management techniques.Use of appropriate design and debugging tools for a modern programming language. Homework and laboratory projects that emphasize design and the use/features of a modern programming language.
+/
+Computer Networks and Data Communication
+Introduction to computer networks and data communications. Network types, components and topology, protocol architecture, routing algorithms, and performance. Case studies including LAN and other architectures.
+/

@@ -1,0 +1,344 @@
+/
+Composition I
+Intensive study of and practice in writing
+processes, from invention and researching to
+drafting, revising, and editing, both individually
+and collaboratively. Emphasis on effective
+rhetorical choices, including audience, purpose,
+arrangement, and style. Focus on writing
+the academic essay as a vehicle for learning,
+communicating, and critical analysis.
+/
+Composition II
+Intensive study of and practice in the strategies
+and techniques for developing research-based
+expository and persuasive texts. Emphasis on
+effective and ethical rhetorical inquiry, including
+primary and secondary research methods,
+critical reading of verbal, visual, and multimedia
+texts; systematic evaluation, synthesis, and
+documentation of information sources; and
+critical thinking about evidence and conclusions.
+/
+Calculus for Business and Social Sciences
+Limits and continuity, derivatives, graphing
+and optimization, exponential and logarithmic
+functions, anti-derivatives, integration,
+applications to management, economics and
+business.
+Stars and Galaxies
+Part of a two semester survey course in
+astronomy intended for both science and nonscience majors. Properties of the sun and
+stars, stellar spectra, stellar formation, life
+and death of stars, formation of the elements,
+black holes, galaxies, expansion of the universe
+and cosmology. Laboratory experiments and
+activities in stellar and galactic astronomy.
+/
+Solar System
+Part of a two semester survey course in
+astronomy intended for both science and
+non-science majors.&nbsp; History of
+astronomy, Copernican revolution, astronomical
+observation, physics of planetary motion,
+comparative study of planet surfaces and
+atmospheres, moons, asteroids, comets,
+planetary system formation and exoplanets.
+/
+Humanities
+An interdisciplinary, multi-perspective
+assessment of cultural, political, philosophical,
+and aesthetic factors critical to the formulation
+of values and the historical development of the
+individual and of society
+/
+World Art Survey I
+Examination of painting, sculpture, architecture,
+and other arts from prehistoric to Renaissance
+periods.
+/
+United States History I
+A survey of the social, political, economic,
+cultural, and intellectual history of the United
+States from the pre-Columbian era to the Civil
+War/Reconstruction period. Includes the study
+of pre-Columbian, colonial, revolutionary,
+early national, slavery, sectionalism, and the
+Civil War/Reconstruction eras. Themes may
+include: American settlement and diversity,
+American culture, religion, civil and human
+rights, technological change, economic change,
+immigration and migration, and creation of the
+federal government.
+/
+United States History II
+A survey of the social, political, economic,
+cultural, and intellectual history of the United
+States from the Civil War/Reconstruction era
+to the present. Examines industrialization,
+immigration, world wars, the Great Depression,
+Cold War and post-Cold War eras. Themes
+may include: American culture, religion, civil
+and human rights, technological change,
+economic change, immigration and migration,
+urbanization and suburbanization, the expansion
+of the federal government, and the study of U.S.
+foreign policy.
+/
+Federal Government
+Origin and development of the U.S. Constitution,
+structure and powers of the national government
+including the legislative, executive, and judicial
+branches, federalism, political participation,
+the national election process, public policy, civil
+liberties, and civil rights.
+/
+Texas Government
+Origin and development of the Texas
+constitution, structure and powers of state
+and local government, federalism, and intergovernmental relations, political participation,
+the election process, and the political culture of
+Texas.
+/
+Principles of Microeconomics
+Analysis of the behavior of individual economic
+agents, including consumer behavior and
+demand, producer behavior and supply, price
+and output decisions by firms under various
+market structures, factor markets, market
+failures and international trade
+/
+Public Speaking
+Application of communication theory and
+practice to the public speaking context with
+emphasis on audience analysis, speaker delivery,
+ethics of communication, cultural diversity, and
+speech organizational techniques to develop
+students' speaking abilities as well as their
+ability to effectively evaluate oral presentations.
+/
+Learning Frameworks
+An inquiry around the broad, interdisciplinary
+concepts of civic engagement and citizenship
+for students to explicitly examine and engage in
+advanced critical thinking for university study.
+This course promotes intellectual readiness by
+helping students build and find the resources
+to become personally responsible and active
+members of the university community, their
+education, and their word.
+/
+Principles of Accounting I - FinanciaL
+Accounting concepts and their application
+in transaction analysis and financial
+statement preparation; analysis of financial
+statements; and asset and equity accounting in
+proprietorships, partnerships and corporations.
+/
+ Introduction to Computer Information Systems
+A general overview of the computing field and
+its typical applications, information systems
+concepts and terminologies. Topics include
+hardware, software and telecommunication
+fundamentals, the internet, systems
+development methods and career opportunities.
+Hands-on experience using application software.
+/
+Information Systems Theory and Practice
+Introduction to the theory and practice of
+information systems. Development, application
+and management of IS. Hardware and software
+issues for IS. Ethical, social and security related
+issues of IS. IS environmentS.
+/
+Business Data Communications
+Introduction to business data communications.
+WANs, LANs and internet concepts. A survey
+of data communications with emphasis on the
+impact of digital technology on the operation,
+management and economics of computer
+information systems.
+/
+Web Application Development
+Survey of languages, tools and techniques for
+Web application development, HTML, XHTML,
+CSS, JavaScript, dynamic HTML, Server-side
+web development using .Net Framework with
+ASP.NET and C#, Perl, CGI programming with
+Perl, XML. Laboratory instruction.
+/
+Modern System Analysis and Design
+Key concepts and principles of system analysis
+and design within the context of information
+system development. Emphasis on the
+application of tools and techniques along with
+the role and responsibilities of the systems
+analyst as well as the systems project manager.
+/
+Computer Systems Administration
+Administration of computers and their operating
+systems, both as stand-alone and in network
+topologies. Unix is used as an example.
+Laboratory instruction.
+/
+Senior Project in Computer Science
+May be taken only during the final semester
+before graduation. Registration is restricted to
+students with an approved Candidate Plan of
+Study. Students develop a significant computer
+application for a realistic project. Emphasis
+will be on practical experience on all phases of
+constructing a computer solution. Professional
+behavior, ethics and teamwork will be developed
+throughout the project. Students prepare written
+reports and give oral presentations.
+/
+Computer Science I
+Introduction to computer programming using
+Python. Topics include: design tools (flowcharts,
+pseudocode) control flow statements (if,
+while, for), simple arithmetic expressions,
+input and output statements, functions, data
+structures including strings and lists, text files.
+Introduction to software development lifecycle
+and testing. The course is programmingintensive with in-class assignments and weekly
+homework and a final project. Introduction to
+Arduino and number systems.
+/
+Computer Science II
+Build upon basic programming concepts
+using Java constructs such as iteration,
+selection, recursion, exception handling, data
+structures and file I/O. Introduce Objectoriented programming concepts including: reuse
+principles, data abstraction, classes, inheritance,
+polymorphism, exception handling and UML to
+build robust code and enhance problem solving
+methodology.
+/
+Data Structures
+Advanced programming techniques and data
+structures including arrays, linked lists, queues
+and stacks; abstract data types, recursion,
+searching and sorting, binary trees, hashing
+techniques, elementary algorithm design and
+analysis, and more.
+/
+Design of Database Systems
+Design of database systems, data description
+and manipulation languages, data models,
+entity-relationship model, relational model,
+SL, relational algebra, normalization theory,
+DBMS, internet, database design, data flow
+diagrams, and implementation of database
+systems. Laboratory instruction.
+/
+Quantitative Methods for Management
+Introduction to quantitative techniques for
+management; probability, inventory and
+production models, linear programming,
+queuing, replacement models, Markov analysis
+and network models. 
+/
+Discrete Mathematics
+Introductory mathematical logic, mathematical
+induction, relations and functions, basic
+counting techniques, graphs and trees and
+applications to computing devices. Designed
+for students majoring in the computer related
+disciplines.
+/
+Management Theory and Practice
+Management policies and processes including
+planning, organizing and controlling; overview
+of the&nbsp;functions of organization theory
+and behavior.
+/
+Computational Statistics
+Descriptive statistics, basic probability concepts,
+normal distribution, parameter estimation,
+testing of hypothesis, correlation and
+/
+Software Engineering
+Introduction to Software Engineering. Major
+phases of the software life cycle are introduced
+from requirements through maintenance.
+/
+Written Communications in Business
+Theory and practices of business
+communications: preparation of effective letters,
+policy statements, procedures, reports, and
+related documents.
+/
+Advanced Technical Writing
+Advanced approaches to the writing of technical
+documents for professional audiences:
+correspondence, proposal reports, manuals, and
+descriptions.
+/
+ Information Technology Project
+Management
+Credit: 3 | Lecture: 3
+The course examines the defining characteristics
+of technology-oriented projects, especially
+involving the development of software intensive
+systems, and introduces students to a variety
+of project management techniques that
+can be applied in a technology-oriented
+project context. Project management issues
+including estimation, risk-assessment, quality
+management, monitoring and control will be
+discussed. While technology-intensive projects
+are similar in some respects to other types
+of projects, they also pose unique challenges
+for the managers and organizations that
+undertake them. Technology-intensive project
+management is particularly challenging because
+of several factors including: (1) the rapid
+pace of technological changes occurring in
+the IS and IT fields, (2) the invisible nature
+of software, (3) the ever-present pressure
+to add new features and functionality to
+systems, and (4) the difficulty of managing the
+organizational changes that accompany most
+technology implementations. 
+/
+Advanced Software Development With .Net Framework and C#
+In depth study of the managed environment
+provided by .NET Framework and its use in
+developing advanced windows applications
+utilizing OOP concepts and techniques. Includes
+GUI issues, event and exception handling, multithreading, networking, collections, file and
+database access as well as an introduction to
+ASP.NET, Web Forms and Web Services.
+/
+Electronic Commerce
+Key concepts and principles of e-commerce;
+importance of e-commerce in the global
+economy; technological elements of the
+infrastructure of e-commerce; business and
+social factors associated with the success or
+failure of e-commerce; critical thinking to
+strategize and plan technology based solutions
+to achieve business goals.
+/
+Network Protocols
+Data communications systems software
+concepts; computer network architecture; ISO
+model. 
+/
+Operating Systems
+Analysis and design of basic operating
+systems concepts, including multiprocessing,
+interprocess communication and
+synchronization, scheduling, file systems,
+memory management, input/output and
+deadlock. Examples drawn from real operating
+systems including Unix and Windows NT.
+/
+Computer Security
+Introduction to encryption, decryption and
+cryptographical protocols; security components;
+security policies and mechanisms in computer
+applications, computer systems and networks;
+legal/ethical issues in computer security.
+/

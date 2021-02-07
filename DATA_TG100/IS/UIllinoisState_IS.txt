@@ -1,0 +1,76 @@
+/
+Composition As Critical Inquiry
+Rhetorical approach to writing, taught through extensive collaborative drafting, revising, and editing. Emphasis on critical reading and analysis.
+/
+Structured Problem Solving Using The Computer
+Introduction to the development of algorithms for computer systems processing. Emphasis on structured problem solving and the design of problem solutions. 
+/
+Finite Mathematics
+Linear functions, matrices, systems of linear equations, sets and counting, probability, statistics, and mathematics of finance.
+/
+Composition As Critical Inquiry
+Rhetorical approach to writing, taught through extensive collaborative drafting, revising, and editing. Emphasis on critical reading and analysis. 
+/
+Computer Application Programming
+The design, development, and implementation of computer application systems, including files and GUI.
+/
+Introduction To It Professional Practice
+Researching available positions, interpreting job descriptions, interview skills, preparing a resume, benefits of a Professional Practice experience.
+/
+Hardware And Software Concepts
+Overview of nature and interrelationships of computer architectures, hardware, operating systems, data types, microcontrollers, virtualization, storage technologies, and filesystems.
+/
+Principles Of Microeconomics
+Supply and demand in product and resource markets; behavior of consumers, and of producers under various market structures; international trade. 
+/
+Elementary Discrete Mathematics
+Elementary introduction to discrete mathematics, comprising topics relevant to computer science. Logic, algorithms, recursion, enumeration, relations, graph theory (including trees). 
+/
+Systems Development I
+Information systems development, development methodologies, analysis and design techniques and tools, relational database concepts.
+/
+Information Technology Project Management
+The processes, methods, techniques, and tools in managing information technology projects including scope, time, cost, quality, and risk management.
+/
+Economic Reasoning Using Statistics
+Introduction to descriptive and inferential statistics with applications in economics. Includes the use of statistical software package on laboratory computers.
+/
+Principles Of Macroeconomics
+Gross domestic product; unemployment and inflation; the banking system; fiscal, monetary, and other macroeconomic policy; international finance and policy. 
+/
+Cobol As A Second Language
+COBOL language for students with substantial programming experience in another language. Emphasizes structured problem-solving and programming.
+/
+Data Communications
+Hardware and software used in data communications and networking. Network types, architectures, protocols and standards. Local area and packet networks.
+/
+Fundamentals of Information Assurance and Security
+Fundamental concepts in information assurance and security including planning, risk management, cryptography, network security, hardening, people, and physical security.
+/
+Financial Accounting
+Introduction to financial accounting. Examines the nature of accounting, basic accounting concepts, financial statements, accrual basis of accounting, the accounting cycle, monetary assets, inventories, fixed assets, current and noncurrent liabilities, and owner s equity.
+/
+Social, Legal, And Ethical Issues In Information Technology
+Study of personal, societal, legal, and ethical issues raised by the effects of information technology.
+/
+External Data Structures
+External file design, VSAM, IBM utilities and sort/merge, basic concepts of IBM/MVS operating systems, and extensive study of JCL.
+/
+Database Processing
+Database concepts, emphasis on relational databases, SQL, data modeling, database design, DBMS functions, database application programming, current trends, design project.
+/
+Business Organization And Management
+Organization theories and the role of managers as leaders. Planning and control systems, decision-making, and human considerations.
+/
+Small Group Processes
+The study of theory and basic concepts in small group communication. Practical experience in group deliberation, decision-making, and problem solving. Focus on developing group communication competence through participation in a group project, perhaps related to civic engagement.
+/
+Organizational And Professional Speaking
+Learning experiences in analysis of communication events, group problem solving, interviewing, technical speaking, and persuasive speaking.
+/
+Systems Development II
+Emphasis on analysis and design techniques and tools, project communication, systems development methodologies, interface design. Systems development team project.
+/
+Professional Practice: In Information Technology
+Professional Practice: In Information Technology
+/

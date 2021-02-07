@@ -1,0 +1,120 @@
+INTRO TO ENGINEERING ANALYSIS
+Introduces students to basic topics in engineering, the role of the computer in engineering, ill structured problem-solving and report writing. The course includes material on the use of Unix, HTML, spread sheets, and MATLAB. Data analysis and curve fitting is done in both MATLAB and Excel. The writing component includes four detailed reports and includes an oral presentation. The course goals are: to introduce the fundamentals of what engineering is, what engineers do, why a diverse work force is needed and what values come with working in a group environment; to introduce the required library research skills and communication skills used by all engineers; to introduce the role of the computer in engineering problem solving, including the basic analytical, programming design, graphical, and problem solving skills used by most engineers in their profession; and to provide an overview of how material in the basic sciences and mathematics is applied by engineers to solve practical problems of interest to society.
+/
+BASIC PHYSICS, SCIENCE AND ENGINEERING 1
+Introduces students to the basic principles of mechanics. An effort has been made to achieve a better integration of physics with the first term of calculus, engineering, and chemistry. The theory of waves and the kinetic theory of gases will be discussed.
+/
+INTRO TO ENGINEERING COMPUTING
+Introduces students to social topics in engineering, the role of the computer in engineering, ill-structured problem-solving and report writing. The course includes material on the use of MATLAB and C++. Students learn the fundamentals of computing in engineering, including program design, program development, and debugging. Applications to problems in engineering analysis with topics selected from ENGR 0011. The writing component includes four detailed reports and includes an oral presentation.
+/
+BASIC PHYSICS, SCIENCE AND ENGINEERING 2 
+introduces students to the basic principles of physics. An effort has been made to achieve a better integration of physics with the first term of calculus, engineering, and chemistry. Modern physics (special relativity, elementary quantum mechanics, and atomic structure) will be discussed.
+/
+GENERAL CHEM FOR ENGINEERS 1
+GENERAL CHEM FOR ENGINEERS 1
+/
+GENERAL CHEM FOR ENGINEERS 2
+GENERAL CHEM FOR ENGINEERS 2
+/
+ANALYTIC GEOMETRY AND CALCULUS 1
+It covers the derivative and integral of functions of one variable and their applications.
+/
+ANALYTIC GEOMETRY AND CALCULUS 2
+It covers the calculus of transcendental functions, techniques of integration, series of numbers and functions, polar coordinates, and conic sections.
+/
+Communication Process
+Communication Process
+/
+Introduction to Econometrics
+Introduction to Econometrics
+/
+Discussion
+Discussion
+/
+Urban Economics
+Urban Economics
+/
+Rhetorical Process
+Rhetorical Process
+/
+DIFFERENTIAL EQUATIONS
+This course presents an introduction to the theory of differential equations from an applied perspective. Topics include linear and nonlinear ordinary differential equations, Laplace transform, and introduction to partial differential equations.
+/
+DIGITAL LOGIC
+Introduction to digital systems, boolean algebra, minimization of logic functions, combinational and sequential circuit design.
+/
+INTRMEDT PROGRMMING USING JAVA
+This course is a rigorous introduction to the fundamental concepts and techniques of computer programming using the java programming language. This is a first course for students who intend to major in computer science or computer engineering.
+/
+LINEAR CIRCUITS AND SYSTEMS 1
+The analysis of linear circuits. Electric variables and circuit elements; kirchoff's and ohm's law; mesh and node equations; thevenin and norton equivalent circuits; first and second-order circuits; time domain analysis.
+/
+DATA STRUCTURES
+This course emphasizes the study of the basic data structures of computer science (stacks, queues, trees, lists) and their implementations using the java language. Included in this study are programming techniques which use recursion, reference variables, and dynamic memory allocation. Students in this course are also introduced to various searching and sorting methods and are expected to develop an intuitive understanding of the complexity of these algorithms.
+/
+SYSTEMS ENGR 1 LABORATORY
+Laboratory experience accompanying CHE 0500. Both physical and computational experiments will be performed.
+/
+Analysis and Design of Electronic Circuits        
+Analysis and Design of Electronic Circuits        
+/
+COMPUTER ORGANIZATIONN & ASSEMBLY LANGUAGE
+The purpose of this course is to study the components of computing systems common to most computer architectures. In particular, this class is meant to introduce data representation, types of processors, memory types, and hierarchy, and device drivers. The students will learn mips assembly language, the design of arithmetic and logic units, and basic designs for risc processors.
+/
+EXPERIMENTAL METHODS IN MSE
+Principles and techniques of optical metallography: imaging and quantitative analysis. Mechanical testing techniques, electron microscopy and chemical analysis.
+/
+INTRO TO MATRICES & LINEAR ALG
+The principal topics which this course will cover include vectors, matrices, determinants, linear transformations, eigenvalues and eigenvectors, and selected applications.
+/
+INTRO TO SYSTEMS SOFTWARE
+This course covers topics related to the interface of hardware and software. It covers device interface and hardware synchronization at the loWest level of the operating system, the linkage of operating system services to application software, and the fundamental mechanisms for computer communications.
+/
+PROBLTY & STAT FOR ENGINEERS 1
+An introductory course in statistics. Topics covered include: data analysis, probability, randon variables, selsected discrete and continuous probability distributions, one sample and two sample estimation, hypothesis testing, experiments with two factors and introduction to regression analysis.
+/
+ALGORITHM IMPLEMENTATION
+This course covers a broad range of the most commonly used algorithms: some examples include algorithms for sorting, searching, encryption, graph searching, pattern matching, geometric intersection, compression, and local search. The students will implement and test several algorithms. The course is programming-intensive.
+/
+INTRO TO COMPUTER ARCHITECTURE
+Examination of computer architecture and hardware system organization. Topics include: CPU organization, sequential and microprogrammed control, instruction set implementation, memory organizations, input/output structure, peripherals and computer communications.
+/
+ADV DIGITAL DESIGN CONCEPTS
+This course and laboratory builds on the student's knowledge of digital design, computer architecture principles, and assembly language. It covers both theoretical and practical considerations in the design of modern computing systems using computer aided design tools and programmable logic devices.
+/
+SOFTWARE ENGINEERING
+This course and laboratory introduces classical and object-oriented software engineering. Software requirements, specification, object-oriented analysis, design, implementation, integration, and maintenance are covered. Each of these phases is examined on a practical level through a semester long, formal design project that involves the creation of a java-based internet application. Additional java-related topics are taught, including java applets, custom networking, remote database access, SQL, and multimedia extensions.
+/
+Discrete Structures for Computer Science
+Discrete Structures for Computer Science
+/
+INTRO TO COMPUTER NETWORKS
+The course will cover the understanding technologies where methods of interconnection are fundamental to the system design. Interconnection will include serial point to point and multiple access serial/parallel methods and protocols. There will be an emphasis on fundamentals related to wireless network systems and networks of computers or embedded digital devices. Coverage will include small wireless devices that may be passive or battery powered - requiring low power devices and protocols in either case.
+/
+INTRO EMBDDED SYSTEM DESIGN
+Introduction to the concepts and techniques of embedded system design including requirements, specifications, design implementation and testing. The laboratory is centered around the Altera Excalibur system and the NIOS core processor. Senior design course.
+/
+SPECIAL TOPICS: COMPUTER
+SPECIAL TOPICS: COMPUTER
+/
+INTRODUCTION TO VLSI DESIGN
+Introduction to the concepts and techniques of modern integrated circuit design. Use of Computer Aided Design (CAD) tools for circuit design and simulation. Senior design course. Includes a laboratory.
+/
+PRGMG LANG FOR WEB APPLCTNS
+Various programming paradigms will be studied using java and scripting languages. The use of java in programming web based applications, network applications, and the use of the extensive java libraries will be studied. The programming paradigm of building software by gluing components will be explored through the use of scripting languages such as PERL and JavaScript. Applications include developing guis and internet programming.
+/
+INTRO TO OPERATING SYSTEMS
+An introduction to basic concepts of operating systems common to most computer systems, which interfaces the machine with upper-level programs. This course will introduce processes as processing unit, process management, concurrency, communication, memory management and protection, and file systems.
+/
+INTRO TO COMPILER DESIGN
+This course will introduce the basic concepts of compiler design and implementation. Topics include lexical analysis, various types of parsers, intermediate and object code generation and code optimization. The material will be presented from an implementation point of view rather than a formal approach. The impact of language design on compilers will also be examined.
+/
+BIOMECHANICS 2
+Modern biomechanics is an increasingly diverse field that encompasses the mechanics of the whole body, all the way down to the cellular and molecular levels. Students are introduced to fundamental concepts and techniques of biodynamics and bio solid mechanics which provide the basis for biomechanics 3 and 4. General approaches used in mechanics are introduced throughout the semester and applied in several laboratories. Upon completing the course, the student should be able to demonstrate recall of functional anatomy of musculoskeletal system perform inverse dynamic analyses describe the principles of basic muscle biomechanics perform analyses of deformable bodies (including viscoelastic materials) describe general experimental techniques for rigid and deformable body analyses
+/
+SENIOR DESIGN PROJECT
+SENIOR DESIGN PROJECT
+/
+ENGINEERING PROJECT
+ENGINEERING PROJECT
+/

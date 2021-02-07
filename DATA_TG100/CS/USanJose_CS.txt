@@ -1,0 +1,109 @@
+/
+American Cultures to 1877
+American culture examined through political, literary, artistic, economic and social development. American values, ideas and institutions from popular culture as well as traditional sources
+/
+American Cultures 1877 to present
+American culture examined through political, literary, artistic, economic and social development. American values, ideas and institutions from popular culture as well as traditional sources
+/
+Technical Writing Workshop
+Advanced writing through preparation of technical reports and presentations. Improving skills for writing subject-related reports, project proposals and personal resumes through practice and evaluation.
+/
+Calculus I
+Introduction to calculus including limits, continuity, differentiation, applications and introduction to integration. Graphical, algebraic and numerical methods of solving problems.
+/
+Calculus II
+Definite and indefinite integration with applications. Sequences and series. Graphical, algebraic and numerical methods of solving problems.
+/
+Discrete Mathematics
+Sets, logic, methods of proof including mathematical induction, functions, relations, elementary combinatorics, probability, Boolean algebras
+/
+Linear Algebra I
+Matrices, systems of linear equations, vector geometry, matrix transformations, determinants, eigenvectors and eigenvalues, orthogonality, diagonalization, applications, computer exercises. Theory in Rn emphasized; general real vector spaces and linear transformations introduced.
+/
+Computers, Ethics and Society
+The nature of privacy in a technologically interconnected world; the role of computer technologies in the exercise of the human intellect and imagination with respect to freedom of expression and the social good; rights and responsibilities of intellectual property ownership.
+/
+Calculus III
+Functions of more than one variable, partial derivatives, multiple integrals and vector calculus. Graphical, algebraic and numerical methods of solving problems.
+/
+Introduction to Combinatorics
+Sets, permutations, combinations, probability, mathematical induction, counting techniques, generating functions, partitions, recurrence relations, inclusion-exclusion. Polya's theorem and applications to computer science, mathematics, engineering and physical sciences.
+/
+Applied Probability and Statistics I
+Descriptive and inferential statistics. Collection and analysis of data, discrete and continuous probability models, random variables, Central Limit Theorem, confidence intervals, hypothesis testing.
+/
+Introduction to Programming
+Basic skills and concepts of computer programming in an object-oriented approach using Java. Classes, methods and argument passing, control structures, iteration. Basic graphical user interface programming. Problem solving, class discovery and stepwise refinement. Programming and documentation style. Weekly hands-on activity. 
+/
+Introduction to Data Structures
+Stacks and queues, recursion, lists, dynamic arrays, binary search trees. Iteration over collections. Hashing. Searching, elementary sorting. Big-O notation. Standard collection classes. Weekly hands-on activity.
+/
+Introduction to Computer Systems
+Instruction sets, assembly language and assemblers, linkers and loaders, data representation and manipulation, interrupts, pointers, function calls, argument passing, and basic gate-level digital logic design
+/
+Data Structures and Algorithms
+Implementations of advanced tree structures, priority queues, heaps, directed and undirected graphs. Advanced searching and sorting (radix sort, heapsort, mergesort, and quicksort). Design and analysis of data structures and algorithms. Divide-and-conquer, greedy, and dynamic programming algorithm design techniques.
+/
+Computer Architecture
+Introduction to the basic concepts of computer hardware structure and design, including processors and arithmetic logic units, pipelining, and memory hierarchy
+/
+Operating Systems
+Fundamentals: Contiguous and non-contiguous memory management; processor scheduling and interrupts; concurrent, mutually exclusive, synchronized and deadlocked processes; files.
+/
+Object-Oriented Design
+Design of classes and interfaces. Object-oriented design methodologies and notations. Design patterns. Generics and reflection. Exception handling. Concurrent programming. Graphical user interface programming. Software engineering concepts and tools. Required team-based programming assignment. 
+/
+Programming Paradigms
+Programming language syntax and semantics. Data types and type checking. Scope, bindings, and environments. Functional and logic programming paradigms, and comparison to other paradigms. 
+/
+Formal Languages and Computability
+Finite automata, context-free languages, Turing machines, computability. Prerequisite: MATH 42 and CS 46B (with a grade of "C-" or better in each); Computer Science, Applied and Computational Mathematics, or Software Engineering, majors only; or instructor consent.
+/
+Software Engineering
+Software engineering principles, software process and process models, requirements elicitation and analysis, design, configuration management, quality control, project planning, social and ethical issues. Required team-based software development, including written requirements specification and design documentation, oral presentation, and tool use.
+/
+Computer Graphics Algorithms
+In-depth discussion of algorithms and techniques used in computer graphics and their implementation. Topics include: animation, fractals, anti-aliasing, fill algorithms, visible surface algorithms, color and shading, ray tracing, radiosity and texture maps. Substantial programming required.
+/
+Bioinformatics II
+Computational methods used for searching, classifying, analyzing, and modeling protein sequences. Tools for analyzing DNA and RNA sequences. More advanced topics, such as genetic algorithms and simulated annealing, which can be used to address folding problems.
+/
+Concepts of Compiler Design
+Theoretical aspects of compiler design, including parsing context free languages, lexical analysis, translation specification and machine-independent code generation. Programming projects to demonstrate design topics.
+/
+Database Management Systems II
+Survey course. Object-oriented data model, definition language, query language. Object relational database systems. Database trends like active, temporal, multimedia, deductive databases. Web database topics, namely, architectures, introduction to interface languages. Team projects.
+/
+NoSQL Database Systems
+NoSQL Data Models: Key-Value, Wide Column, Document, and Graph Stores. CAP Theorem. Distribution Models. Current NoSQL Databases: Configuration and Deployment, CRUD operations, Indexing, Replication, and Sharding. Public Data Sets. API Coding and Application Development. NoSQL in the Cloud. Team Project.
+/
+Computer Network Management
+Principles and technologies of network management: reference models, functions (fault, configuration, performance, security and accounting management), management information, communication protocols, integration, and assessment. Network security and cyber defense: cryptography, key distribution, authentication protocols, network attacks, access control, and example systems.
+/
+Software Project
+A substantial project based on material from an advanced area of computer science. Includes lectures on the project topic and the design and testing of software systems. At least 50% of the course grade to be based on the project.
+/
+Practical Computing Topics
+Computing topics of current interest in industrial practice. Emphasis on effective use and integration of software/hardware. Different topics may be offered at different times in a short-course lecture/lab format. Different versions of this course may be repeated for credit.
+/
+Introduction to Combinatorics
+Sets, permutations, combinations, probability, mathematical induction, counting techniques, generating functions, partitions, recurrence relations, inclusion-exclusion. Polya's theorem and applications to computer science, mathematics, engineering and physical sciences.
+/
+Applied Probability and Statistics I
+Descriptive and inferential statistics. Collection and analysis of data, discrete and continuous probability models, random variables, Central Limit Theorem, confidence intervals, hypothesis testing.
+/
+Statistics for Bioinformatics
+Introduction to the theory and applications of statistical methodology in the biological sciences. Topics include inference, stochastic processes, Markov chains, hidden Markov models, clustering, and gene expression analysis. Applications to current molecular biology and genetics problems.
+/
+Linear and Non-Linear Optimization
+Linear inequalities, the simplex method and other algorithms, duality, integer optimization, convex optimization, quadratic optimization, game theory.
+/
+Mathematical Modeling
+Basic modeling techniques including graphing, proportion, curve fitting and interpolation, optimization, probability and computer simulation, derivatives and differences. Technology will be incorporated to model applied problems from business/economics, physical/life/social sciences and engineering.
+/
+Introduction to Graph Theory
+Hamiltonian and Eulerian properties, matching, trees, connectivity, coloring problems and planarity. Emphasis on algorithms and applications, including optimal network flows.
+/
+Applied Mathematics, Computation, and Statistics Projects
+Supervised teamwork to solve a substantial problem in mathematics or computer science usually supplied by an outside agency such as a local company. The number of different projects offered and the topics will vary widely. A project usually continues for two consecutive semesters.
+/

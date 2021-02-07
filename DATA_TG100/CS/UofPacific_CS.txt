@@ -1,0 +1,121 @@
+/
+What is a Good Society
+Pacific Seminar 1 introduces students to the intellectual life of the university by exploring the intersection of who we are as individuals and who we are as communities. 
+/
+Topical Seminar on a Good Society
+Topical Seminar on a Good Society
+/
+What is an Ethical Life?
+In their senior year, students take Pacific Seminar 3: What is an Ethical Life? This course is a culminating general education experience and the final component of the university writing requirement. What is an Ethical Life? 3 Units.
+/
+Introduction to Interpersonal Communication
+Introduction to the study of human interaction that occurs in relatively informal, everyday social contexts. Using models, theories, and skills of communication as takeoff points, the course introduces students to dimensions related to trust, openness, listening, perception, language, nonverbal communication, conflict, social influence, and communication competence.
+/
+Political Advocacy
+Principles of persuasion in political contexts in the U.S. (types and characteristics of political audiences, official and unofficial advocacy campaigns, media framing of political news & commentary) from historical and theoretical perspectives. 
+/
+Engineering and Computing Ethics in Society
+Topics include societal needs, personal rights, whistle blowing, conflicts of interest, professional autonomy, risk assessment, sustainable development and the application of engineering codes of ethics.
+/
+English 25 
+Students are expected to write about and discuss various topics that arise in the study of literary works.
+/
+History Goes To Hollywood
+This course examines how films shape our understanding of certain historical events. It will provide students with the tools to watch films critically and to place them in the context of a broader historical time period. 
+/
+United States History I
+This is an introductory level course in U.S. history. It begins with Native American societies at the time of European contact and examines major social, political, and cultural issues in U.S. history through colonial settlement, the American Revolution, the early national period, the antebellum era, the Civil War, and Reconstruction. The course considers dominant cultural traditions and perspectives as well as minority cultures and dissent.
+/
+Elements of Calculus
+Polynomial, rational, exponential and logarithmic functions. Differentiation. Integration. Maxima/minima of functions of several variables. Elementary differential equations. Applications to natural sciences, social sciences and other fields.
+/
+Discrete Math for Computer Science
+This course is designed to develop skills in deductive reasoning and to apply concepts of discrete mathematics to computer science. Topics include logic, deductive reasoning, mathematical induction, set theory, functions, recurrence relations, combinatorics and probability, graphs, trees, and Boolean Algebra. 
+/
+Computing Theory
+Students study automata, formal languages and computability. Topics include finite state automata, regular languages, pushdown automata, context-free languages, Turing machines; decidability, reducibility, and time complexity that includes NP-completeness and intractability. 
+/
+Random Signals
+This course is an introduction to probability and statistics in engineering applications. 
+/
+Discrete and Combinatorial Mathematics
+The fundamental principles of discrete and combinatorial mathematics are covered. Topics include the fundamental principles of counting, the Binomial Theorem, generating functions, recurrence relations and introductory graph theory, that includes trees and connectivity.
+/
+Introduction to Statistics and Probability
+Students study elements of descriptive statistics: graphs, tables, measures of central tendency and dispersion. Probability models including binomial and normal are covered. 
+/
+Probability with Applications to Statistics
+Probability concepts in discrete and continuous spaces is explored in some depth as well as important probability models (e.g., binomial, Poisson, exponential, normal, etc.), mathematical expectation and generating functions. Applications to statistical inference includes maximum likelihood, moment and least squares estimation.
+/
+Introduction to Finite Mathematics and Calculus
+This course introduces calculus, applications to problems in economics, management and other fields. Students study systems of equations, elements of matrix algebra, and elementary linear programming. 
+/
+Calculus I
+Students study differential calculus of algebraic and elementary transcendental functions, anti-derivatives, introductory definite integrals, and the Fundamental Theorem of Calculus. Applications include the first and second derivative tests and optimization.
+/
+Introduction to Computer Science
+The course emphasizes program design and problem solving techniques that use a high-level programming language. The course introduces basic concepts such as assignment, control flow, iteration, and basic data structures in addition to a supervised lab.
+/
+Data Structures
+The course continues the development of program design and problem solving techniques. Topics include development of fundamental data structures and their associated algorithms as well as array-based algorithms, recursion, lists, generics, dynamic memory, binary trees, and associative structures. 
+/
+Application Development
+This course develops the skills and techniques required for the creation of contemporary software applications. Contemporary software applications are complex systems that involve the interaction of multiple subsystems that require teams of developers working together for extended periods of time. Topics include teamwork and communication skills, current development methodologies, analysis and design documentation and the use of libraries.
+/
+Programming Languages
+Topics in evaluation, design, and development of programming languages. Topics include type systems, variables and scope, functions, parameter passing, data hiding and abstractions, recursion, memory allocation, grammars and parsing, compiler architecture, programming paradigms, and comparison of programming languages and environments.
+/
+Design and Analysis of Algorithms
+Topics for this course include complexity analysis, algorithms for searching, sorting, pattern matching, combinatorial problems, optimization problems, backtracking, algorithms related to number theory, graph algorithms, and the limitations of algorithm power.
+/
+Operating Systems
+Students are introduced to the fundamental concepts of modern operating systems. 
+/
+Operating Systems
+Students are introduced to the fundamental concepts of modern operating systems. 
+/
+Digital Design
+Students study number systems, binary arithmetic, and Boolean logic. Topics include the analysis and synthesis of combinational and sequential circuits and the use of MSI, LSI, FPGA and CPLD devices.
+/
+Computer Systems and Networks
+This course is a comprehensive and holistic examination of the modern computing environment. Students gain an understanding of the various hardware and software components that enable computers and networks to process information and execute applications. 
+/
+Dean's Seminar
+This course is a survey of the profession and practice of engineering and computer science. It is an overview of the programs and methodologies of the School of Engineering and Computer Science that includes educational requirements, professional and career opportunities, introduction to the history of engineering and computing, and entrepreneurship. Hands-on activities and guest lecturers are included to complement the discussion sessions. 
+/
+ Professional Practice Seminar
+This course is designed to prepare students for the Cooperative Education experience. Presentations are from representatives of industry, government, education and former Co-op students. Topics include engineering ethics, professionalism, time management and mock interviewing.
+/
+Web Applications
+The World-Wide Web consists of client-server applications operating over the Internet. This course introduces the skills and techniques for designing and developing web applications. Topics include: client-server architectures, web servers and web browsers, server-side programming, client-side programming, form processing, state management and multimedia. 
+/
+System Administration and Security
+Students are introduced to an operating system from an administrator's standpoint. Topics include installation with the proper allocation of disk resources, maintaining the operating system and various subsystems, security issues that include server hardening, host firewalls and network security issues.
+/
+Computer Networking
+Topics examined in this course include computer networks and the internet, LAN and WAN architectures, and packet switched networks and routing. Students learn about the 7-layer OSI model and internet protocol stack, socket programming and client/server systems, wireless and security. 
+/
+Computer Network Security
+This course is an examination of the pervasive security threats related to the Internet, data communications and networking. Topics include TCP/IP protocols, authentication, encryption, malware, cybercrime, and social engineering. Emphasis is on computer and network attack methods, their detection, prevention and analysis, and the integration of the tools and techniques employed in this effort.
+/
+Human-Computer Interface Design
+Human-Computer Interface (HCI) Design focuses on the relationship between humans and computers or other physical devices. This course helps students develop an understanding of the common problems in designing these interfaces and presents a set of design techniques to ensure that designs are both useful and useable.
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+
+
+/
+/
+

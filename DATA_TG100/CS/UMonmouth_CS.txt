@@ -1,0 +1,97 @@
+/
+Introduction to Problem Solving and Software Development
+Introduces a broad overview of problem solving, computing topics, and fundamental concepts and methodologies of software development designed to provide students with awareness of the computing field's many aspects. Topics include fundamentals of computer architecture, operating systems, applications, problem-solving. It emphasizes the main phases of the software development lifecycle, such as requirements, design, implementation, testing, project planning. Also, it stresses the difference between the software product and process. Introduces social and ethical issues related to computing and explores the local and global impact of computing on individuals, organizations and society. 
+/
+Introduction to Computer Science I	
+Introductions to the basic concepts of program development in a modern object-oriented language; problem-solving methods and algorithm development; basic primitive and object data types; language syntax; style and documentation; and coding and testing of programs
+/
+Introduction to Computer Science I lab	
+Introductions to the basic concepts of programming and program development in a modern Software Development Environment with debugger and source code control.
+/
+CS-176	Introduction to Computer Science II	
+Introduction to polymorphism, inheritance, and interfaces.
+/
+CS-176L	Introduction to Computer Science II Lab	
+Introduction to advanced concepts of programming and program development in a modern Software Development Environment with debugger and source code control.
+/
+CS-201	Introduction to Computer Programming for Data Science	
+This course introduces the most important data structures available in R and their practical application. Methodologies to import data from external sources (files, databases, on-line resources), to manipulate and transform data, and to save\export data to data repositories are described. The course also describes how to compute descriptive statistics and how to build chart for effective data visualization tasks. The students will become familiar in using some R data manipulation and visualization libraries.
+/
+CS-205	Data Structures and Algorithms	
+Introduction to the design, implementation, and use of fundamental data structures (lists, stacks, queues, trees); extensions of these structures and associated algorithms; informal complexity analysis.
+/
+CS-205L	Data Structures and Algorithms Lab	
+Introductions to the basic concepts of programming and program development in a modern Software Development Environment with debugger and source code control.
+/
+CS-286	Computer Architecture I	
+Number representations and operations. Processor data path. Pipelining. Memory hierarchy. Input/Output. Assembly language programming.
+/
+CS-305	Advanced Computing	
+Introduction to fundamental concepts of computer science theory and methods of parallel and distributed programming, The course covers automata theory (including finite-state machines and Turing machines, algorithm complexity (including the distinction between P and NP problems), BNF specification of programming languages, methods of parallel programming, methods of distributed programming, measuring the speedup obtained by parallelization, and methods of addressing NP completeness through approximation. 
+/
+CS-310	Advanced Object-Oriented Programming and Design	
+Use of classes, inheritance, polymorphism, and libraries. Topics will include flexible system design for such requirements as globalization. This is a writing-intensive course.
+/
+CS-325	Software Engineering Concepts	
+Overview of software engineering concepts, analysis/design techniques, Unified Modeling Language (UML), software documentation, and group development of software.
+/
+CS-414	Computer Networks	
+An introductory-level course on the hierarchy of networking software and hardware. Emphasis on the; description of protocols in the Internet, specifically, client-server Application Layer Protocols such as HTTP, SMTP, DNS, DHCP; Transport Layer Protocols such as UDP/TCP, Network Layer Protocols such as IP, ICMP, as well as Network Layer Routing and Forwarding techniques, such as RIP and OSPF for IPv4 and Tunneling for IPv6.
+/
+CS-432	Database Systems	
+Overview of database system concepts; data modeling; ER and UML diagrams; relational database schema definition; database design; query languages; introduction to NoSQL and comparison between relational and non-relational databases; hand-on experience of SQL, Oracle, and NoSQL.
+/
+CS-438	Operating Systems Analysis	
+Management of memory, processes, files, and devices. OS design principles and performance measures. Multiprogramming, multiprocessing, concur-ency, deadlock, virtual machines. Competitive and cooperating processes. Programs will be written in C or in Java.
+/
+CS-450	Cyber Security	
+Cover fundamental theory and practice of cyber security. Review cryptographic tools used to provide security, such as shared key encryption; public key encryption, key exchange, authentication, digital signature, and intrusion detection. Learn implementation of secure mechanisms in object-oriented programming languages.
+/
+CS-492A	Computer Science Senior Project A	
+Affords the student an opportunity to integrate topics and techniques from previous coursework in a capstone project. The project will combine investigation into computer science literature and actual implementation, either in an area of current research or an application area of interest to industry. Implementation might involve collaboration with other students. 
+/
+CS-492B	Computer Science Senior Project B
+Affords the student an opportunity to integrate topics and techniques from previous coursework in a capstone project. The project will combine investigation into computer science literature and actual implementation, either in an area of current research or an application area of interest to industry. Implementation might involve collaboration with other students. 
+/
+Calculus with Analytic Geometry I	4
+Functions, limits, continuity, and the differential and integral calculus of algebraic, trigonometric, and exponential functions.
+/
+MA-126	Calculus with Analytic Geometry II	4
+Functions, limits, continuity, and the differential and integral calculus of algebraic, trigonometric, exponential functions.
+/
+MA-130	Applied Discrete Mathematics	3
+Introduction to reasoning, proof, and exposition in mathematics. Topics include: Boolean logic, set theory, counting techniques, functions, mathematical induction, permutations, and the proofs of various elementary theorems.
+/
+MA-220	Probability and Statistics I
+The course is built around the process of performing a statistical analysis; posing the question, collecting the data, describing the data, analyzing and modeling the data, and drawing inferences from the data regarding the original question. Specific topics covered include sampling, descriptive analysis of data, probability, random variables, discrete and continuous distributions, expectation, confidence intervals, one sample hypothesis testing, chi-square analyses, correlation and regression
+/
+General Chemistry I	
+Principles and theories of chemical problem solving, stoichiometry and chemical reactions, states of matter, periodic properties of the elements, atomic and molecular structure, introductory quantum mechanics, thermochemistry, and the properties of gases are covered.
+/
+General Chemistry II
+Properties of liquids and solutions, chemical kinetics and equilibrium, thermodynamics, electrochemistry and nuclear chemistry.
+/
+General Physics with Calculus I	
+Topics covered include: one- and two-dimensional motion, Newton's laws and their applications, energy, momentum and impulse, rotational motion, gravitation, and thermodynamics.
+/
+General Physics with Calculus II
+Topics covered include: sound and wave mechanics, electrostatics, circuits, magnetic forces and fields, Faraday's Law, reflection and refraction, and optics.
+/
+Introduction to Biodiversity and Evolution
+An introductory course for biology majors. Focus is on evolution, phylogeny, taxonomy, origin and diversity of life, physiology of plant and animal systems, and ecological principles.
+/
+Introduction to Cell and Molecular Biology
+Includes an introduction to cell structure and function, biochemistry and metabolism, bioenergetics, genetics and cell division, and molecular biology.
+/
+Morality and Community	
+Problems involved in making moral decisions in complex situations. Focuses on lying and deceit, deleterious effects on the life of the community, and also on clarifying codes of ethical behavior. 
+/
+Ethics and Professionalism in Science and Engineering	
+Provides a broad view of ethics and professionalism in the context of Science and Engineering. Teaches valuable practical skills, as well as the basic analytic tools required to make the ethical decisions confronted by professionals in any field. Describes the special role of professionals in society and uses the key perspectives of engineering and philosophy to explore their responsibilities. Additional perspectives, e.g., organizational psychology and law, will be incorporated as appropriate. 
+/
+The Helping Professions in Film and Media
+Provides students an opportunity to look at ethical and social issues from a multidisciplinary perspective. Looks at the helping professions (for example: teachers, counselors, and medical professions), how the codes of ethics for these professions are similar but different, and how these professions have been villainized and romanticized in film.
+/
+Modern Physics
+Topics from physics of the twentieth century, including special relativity, the origins of quantum theory, quantum mechanics, atomic structure, nuclear physics, and elementary particles.
+/

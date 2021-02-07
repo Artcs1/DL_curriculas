@@ -1,0 +1,184 @@
+/
+Calculus I
+Analytic Geometry (introduction to conic sections), review of functions and their graphs, limit and rate of
+change, continuity, derivatives, derivatives of trigonometric functions, chain rule, implicit differentiation,
+higher derivatives, related rates, applications of differentiation: maximum and minimum values, The
+Mean Value Theorem, the first and second derivative tests, optimization problems, Antiderivatives, areas,
+definite integral, Fundamental Theorem of Calculus, indefinite integrals, areas between curves (in the
+Cartesian Plane), substitution rule.
+/
+Composition I
+Introduces students to critical thinking and the fundamentals of academic writing. Frequent and intensive
+writing in varied expository modes, with emphasis on analysis and discussion of the composing process.
+/
+Introduction to Engineering I
+Introduction to the engineering profession, Introduction to problem solving using analytical, graphical, and
+computer tools including scientific word processors, spreadsheets and database packages, mathematical
+computation software.
+/
+Calculus II
+Techniquesofintegration,,integrationbyparts,trigonometric substitutions,integrationofrationalfunctions,
+table of integration, transcendental functions and their inverses, applications of integration, Conic sections
+and polar coordinates, indeterminate forms, improper integrals, Taylor’stheorem, L’Hopital’s rule, Taylor’s
+polynomials, sequences and series, absolute and conditional convergence, differentiation and integration
+of power series.
+/
+Composition II
+Greater focus on persuasive writing and the research process. Close examination and discussion
+of a range of texts about the human experience leading to frequent and intensive writing.
+/
+Introduction to Engineering II
+Introduction to problem solving using analytical, graphical, and computer tools including scientific word
+processors, spreadsheets and database packages, mathematical computation software. Introduction to
+engineering analyses.
+/
+Introduction to Programming
+An introduction to the computer, to the algorithmic process, and to programming in C using standard
+control structures. Windows and UNIX operating systems are used.
+/
+Physics I
+A calculus-based study of the basic concepts of physics. Topics include vector algebra, kinematics,
+dynamics of single- and many particle systems, gravitation, energy, momentum, conservation laws, circular
+and rigid body motion, elasticity, fluid mechanics, thermal equilibrium, temperature, and the laws of
+thermodynamics with applications to ideal gases and thermodynamic processes.
+/
+GENERAL PHYSICS I LABORATORY 
+GENERAL PHYSICS I LABORATORY 
+/
+Technical Communication
+Emphasizes clear, effective communication skills essential to technical and professional writing for students
+from a variety of majors. Builds on a writing process, basic rhetorical principles, audience awareness, and
+the writer’s role in legal, ethical, and electronic communications. Emphasizes reports, memos, résumés,
+problem-solving, research, and proposals.
+/
+Digital Systems
+Boolean algebra and logic design of combinational and sequential circuits. Gate and flip-flop characteristics
+for TTL technology adders, multipliers, register transfer language, general-purpose processor design, basic
+computer organization, machine level programming, relationships between software and hardware.
+/
+Digital Systems Lab
+Design and implement digital systems. Build combinational and sequential logic circuits. Measure/
+troubleshoot the logic circuits using general electronic test equipment
+/
+Object Oriented Programming
+Advanced program design and implementation in the Java programming language. Object-oriented
+programming with concepts including class structure and behavior, objects, inheritance and reuse, virtual
+functions and polymorphism, exception handling, templates, and the Standard Template Library. The
+Windows and/or UNIX operating is used.
+/
+Physics II
+Physics II
+/
+GENERAL PHYSICS II LABORATORY 
+GENERAL PHYSICS II LABORATORY 
+/
+Circuit Analysis
+Fundamentals laws of circuit analysis. Ohm’s Law, Kirchhoff’s current and voltage laws, the law of
+conservation of energy, circuits containing independent and dependent voltage and current sources,
+resistance, conductance, capacitance and inductance analyzed using mesh and nodal analysis, superposition
+and source transformations, and Norton’s and Thevenin’s Theorems. Steady state analysis of DC and AC
+circuits. Complete solution for transient analysis for circuits with one and two storage elements.
+/
+Analog Circuits Lab
+Measurement techniques and experiments on fundamental laws. Circuit analysis techniques including:
+Ohm’s Law, Kirchhoff’s current and voltage laws, the law of conservation of energy, Norton’s and
+Thevenin’s Theorems, mesh and nodal analysis, superposition, and source transformations.
+/
+Differential Equations
+Solutions of ordinary differential equations with applicationsto science and engineering. Linear differential
+equations with constant coefficients using operator methods. Series solutions and applications.
+/
+Microprocessors
+Principles of operation of modern microprocessors, including, internal architecture, timing analysis, and
+interfacing techniques. Special emphasis will be placed on hardware-software interactions using assembly
+language programming and utilization of programmable peripheral devices.
+/
+Microprocessors Lab
+Microprocessor-based laboratory utilizing computer programming language. Emphasis is on writing and
+running programs on modern microprocessor systems. 
+/
+General Chemistry
+A development of the fundamental principles of chemistry and their applications. Chemical nomenclature,
+stoichiometry, atomic structure, bonding theories, thermochemistry, periodic properties, solution calculations, gas
+laws and the properties of solids and liquids are among the topics discussed. 
+/
+General Chemistry Lab
+An introduction to the principles and techniques of experimental chemistry with emphasis upon formula
+investigations, equations, elementary laboratory statistics, and chemical reactivity.
+/
+Discrete Math
+Binary numbersystems; computer codes; computer arithmetic; logic truth tables;sets and relations; Boolean
+algebra; logic gates; simplifications of logic circuits, graphs, and directed graphs equivalence relations.
+/
+Introduction to Electronics
+Basic semiconductor physics, theory of p-n junctions; diodes, field effect transistors, and bipolar transistors;
+modeling of diode and transistor devices; analysis and design of diode switching and rectifier circuits; basic
+transistor switching circuits and single stage amplifiers; multistage transistor amplifier biasing; op amps,
+and output stages; electronic simulation using PSPICE.
+/
+Introduction to Electronics  Lab
+Prototype bread-board electronic circuits using diodes, bipolar junction transistors, MOSFETS with DC
+biasing configurations and with superimposition of AC signals. Operational and differential amplifier and
+active filter circuits. 
+/
+Linear System Analysis
+Transient response of linear time-invariant, continuous-time and discrete-time dynamic systems by various
+methods including Laplace transform, and z-transform; properties of sampling; input-output characteristics;
+frequency response analysis.
+/
+Operating System
+Functions and components of an operating system, including process synchronization, job scheduling,
+memory management, file systems protection, and deadlocks. Related system software, such as loaders,
+linkers, assemblers, and windowing systems.
+/
+Advanced Digital System Design
+Design of digital systems using programmable logic devices and high-level design techniques. Emphasizes
+the application of state-of-the-art hardware devices as well as design and simulation tools.
+/
+Advanced Digital System Design Lab
+System design using programmable logic devices and high-level design techniques. Application of stateof-the-art hardware devices as well as design and simulation tools.
+/
+Engineering Economy
+Analysis of the time value of money as applied to the manufacturing environment. Economic analysis
+of engineering decisions. Determining rates of return on investments. Effects of inflation, depreciation
+and income taxes. Sensitivity, uncertainty, and risk analysis. Application of basic principles and
+tool of analysis using case studies.
+/
+Advanced Communication Skills
+Advanced Communication Skills
+/
+Embedded Controllers
+Project oriented course in development system with cross-compilers and emulation capability. Interfacing
+and hardware/softwaretradeoffsininterruptdriverapplications.
+/
+Embedded Controllers Lab
+Project oriented laboratory course in the areas on microprocessor-based systems and micro-controllers.
+/
+Engineering Statistics
+Engineering applications of the concepts of probability, statistical distributions, statistical analysis,
+regression and correlation analysis, analysis of variance and covariance, design of experiments.
+/
+Senior Design I
+Capstone design projects that focus on the early stages of project development: design methodology,
+literature review, specifications development, design alternatives, project plan, and project management.
+/
+Real Time Data Acquisition and Control
+Advanced course in design of data acquisition systems with real time control applications. Emphasis is
+placed on sensors in control systems; signal conditioning; actuators; controllers; and data acquisition using
+A/D and D/A conversion.
+/
+Digital Signal Processing and Filter Design
+Discrete-time signals and systems, sampling, discrete Fourier transforms, analog filter characteristics, nonrecursive and recursive filter design, and CAD tools for filter design.
+/
+Digital Signal Processing and Filter Design  Lab
+Implement digital signal processing algorithms including: sampling, digital filtering, and simulation.
+Develop and test Finite Impulse Response (FIR) filters, Infinite Impulse Response (IIR) filters, and Digital
+Signal Processor (DSP) applications on DSP microprocessors. 
+/
+Senior Design II
+Design prototyping, testing, evaluation, project reports and project presentation.
+/
+Applied Ethics
+An in-depth exploration of moral theory and discussion of its application to broad areas such as business,
+the environment, or bio-medical issues.
+/

@@ -1,0 +1,109 @@
+/
+New Student Seminar
+ Topics include overviews of the various disciplines, curricula and advising, ethics and professionalism, student organizations and extracurricular activities, senior projects, and career planning.
+/
+Calculus I
+Limits, continuity and derivatives of algebraic, trigonometric, exponential and logarithmic functions. Curve sketching, optimization and other applications of the derivative. Antiderivatives, Riemann sums, the definite integral, and the fundamental theorem of calculus.
+/
+Introduction to Digital Logic Design
+An introductory course in digital logic circuits covering number representation, digital codes, Boolean Algebra, combinatorial logic design, sequential logic design, and programmable logic devices.
+/
+Programming I
+Problem solving using a high level programming language and object oriented software design. Fundamental stages of software development are discussed: problem specification, program design, implementation, testing, and documentation. Introduction to programming using an object oriented language: using classes, defining classes, and extending classes. Introduction to algorithms and data structures useful for problem solving: arrays, lists, files, searching, and sorting.
+/
+Principles of Microeconomics
+An analytical introduction to microeconomics. Topics include theory of markets, public policy, international trade, economic efficiency, and equity.
+/
+Principles of Macroeconomics
+An analytical introduction to macroeconomics. Topics include determination of aggregate income, employment, inflation, exchange rates, and the role of fiscal and monetary policy in dealing with unemployment, inflation, and economic growth.
+/
+Calculus II
+volume, arc length, work and average value. Infinite sequences and series and Taylor series. Polar coordinates, vectors and the geometry of space.
+/
+General Physics I for Engineers
+General Physics I for Engineers
+/
+General Physics I Laboratory
+Experiments in classical mechanics and thermodynamics. The course includes practice on the ethics of recording and presentation of data.
+/
+Circuits I
+Analysis of linear electrical circuits: Kirchoff's laws; source, resistor, capacitor and inductor models; nodal and mesh analysis; network theorems; transient analysis; Laplace transform analysis; steady-state sinusoidal analysis; computer-aided analysis.
+/
+Programming II
+This course continues developing problem solving techniques by focusing on the imperative and object-oriented styles using Abstract Data Types. Basic data structures such as queues, stacks, trees, and graphs will be covered. Recursion. Basic notions of algorithmic efficiency and performance analysis in the context of sorting algorithms. Basic Object-Oriented techniques. An associated laboratory will develop projects reinforcing the lecture material.
+/
+Calculus III
+Multivariable functions, partial derivatives and their applications, multiple integrals and their applications. Vector-valued functions, line and surface integrals, Green, Gauss and Stokes Theorems.
+/
+ Applied Differential Equations
+Linear ordinary differential equations, Laplace transforms, systems of equations, and applications.
+/
+Elementary Linear Algebra
+Systems of linear equations, matrices, vector spaces, linear transformations, and applications. 
+/
+Discrete Structures
+Mathematical foundations including logic, sets and functions, general proof techniques, mathematical induction, sequences and summations, number theory, basic and advanced counting techniques, solution of recurrence relations, equivalence relations, partial order relations, lattices, graphs and trees, algorithmic complexity, and algorithm design and analysis. Throughout there will be an emphasis on the development of general problem solving skills including algorithmic specification of solutions and the use of discrete structures in a variety of applications.
+/
+Circuits II
+Continued study of electrical circuits: Steady-state power analysis, three-phase circuits, transformers, frequency response, and two-port network analysis.
+/
+Electromagnetics I
+Electrostatic and magnetostatic fields in a vacuum and material media. Electromagnetic fields and Maxwell's equations for time-varying sources. The relationship between field and circuit theory. Simple applications of Maxwell's equations. 
+/
+Electronic Circuits I
+Introduction to diodes, BJTs and MOSFETs, and their use in electronic circuits, especially digital circuits.
+/
+Programming Language Paradigms
+The course is a survey of programming languages: their attributes, uses, advantages, and disadvantages. Topics include scopes, parameter passing, storage management, control flow, exception handling, encapsulation and modularization mechanism, reusability through genericity and inheritance, and type systems.
+/
+Embedded Systems
+This course will address internal organization of micro-controller systems, sometimes called embedded systems, used in a wide variety of engineered systems: programming in C and assembly language; input and output systems; collecting data from sensors; and controlling external devices.
+/
+Software Engineering I
+This course is an introduction to software engineering, and it covers the systematic development of software products. It outlines the scope of software engineering, including life-cycle models, software process, teams, tools, testing, planning, and estimating. It concentrates on requirements, analysis, design, implementation, and maintenance of software products. The laboratory covers CASE tools, configuration control tools, UML diagrams, integrated development environments, and project specific components.
+/
+Signal and System Analysis
+Fourier signal analysis (series and transform); linear system analysis (continuous and discrete); Z-transforms; analog and digital filter analysis. Analysis and design of continuous and discrete time systems using MATLAB.
+/
+Digital Systems Design
+The design of digital systems from a hardware point of view. The implementation of functional and control units using programmable logic devices. Introduction to VHDL and its use in modeling and designing digital systems.
+/
+Applied Mathematical Statistics I
+A first course in statistics for students with the techniques of calculus at their disposal. The following topics are studied with illustrations and problems drawn from various fields of applications: basic notions of probability and probability distributions; classical estimation and testing procedures for one and two sample problems; chi-square test.
+/
+Computer Systems Design Laboratory I
+A two semester lecture/laboratory course involving the specification, design, implementation, analysis, and documentation of a significant hardware and software computer system. Laboratory work involves software, hardware, and hardware/software trade-offs. Project requirements include consideration of ethics, economics, manufacturing, safety, and health aspects of product development.
+/
+Introduction to Communication Networks
+An introduction to the principles used in communication networks is given in this course. Topics include a discussion of the uses of communications networks, network traffic, network impairments, standards, layered reference models for organizing network functions. Local Area Network technology and protocols are discussed. Link, network, transport layer protocols, and security are introduced. TCP/IP networks are stressed. VoIP is used as an example throughout the course. Basic concepts of network performance evaluation are studied, both analytical and simulation techniques are considered.
+/
+Computer Architecture
+The structure, design, analysis, and evaluation of computer processors and systems. The design of instruction sets. Principles and techniques of parallelism at the data transfer (memory hierarchy), data processing (pipelines), and concurrent instruction execution. 
+/
+General Physics III
+Introduction to modern physics. Topics include special relativity, optics, and introductions to quantum mechanics and solid state physics. 
+/
+Intermediate Physics Laboratory I
+Experiments in optics and modern physics. Development of experimental skills, data reduction, error analysis, and technical writing. One lab meeting per week and one lecture per week on topics including error analysis and experimental design, and the development of professional ethics in regard to citation and data presentation. 
+/
+Computer Systems Design Laboratory II
+A two semester lecture/laboratory course involving the specification, design, implementation, analysis, and documentation of a significant hardware and software computer system. Laboratory work involves software, hardware, and hardware/software trade-offs. Project requirements include consideration of ethics, economics, manufacturing, safety, and health aspects of product development.
+/
+Introduction to Operating Systems
+The objective of this course is to provide the students with the concepts necessary to enable them to: a) identify the abstract services common to all operating system, b) define the basic system components that support the operating system's machine independent abstractions on particular target architectures, c) consider how the design and implementation of different systems components interact and constrain one another, not merely how one or two important parts work in isolation, and d) understand the means by which fundamental problems in operating systems can be analyzed and addressed. Programming assignments address topics including process creation, inter-process communication, system call implementation, process scheduling and virtual memory. Laboratory exercises primarily focus on use of tools and concepts required for the programming assignments but include a small number of independent topics.
+/
+Human-Computer Interaction
+This course introduces principles of human-computer interaction. Important topics to be presented include: human factors, human-centered design and evaluation, graphical user interfaces, multimedia system integration, interactive systems development, computer-supported cooperative work, human cognitive skills, accessibility, alternative input/output media, and emerging technologies.
+/
+Electronic Devices and Properties of Materials
+An introduction to crystal structures, and metal, insulator, and semiconductor properties. Topics covered include the thermal, electric, dielectric, and optical properties of these materials. A significant portion of this course is devoted to the properties of semiconductors and semiconductor devices.
+/
+Introduction to Communication Networks
+An introduction to the principles used in communication networks is given in this course. Topics include a discussion of the uses of communications networks, network traffic, network impairments, standards, layered reference models for organizing network functions. Local Area Network technology and protocols are discussed. Link, network, transport layer protocols, and security are introduced. TCP/IP networks are stressed.
+/
+Introduction to Communication Networks
+An introduction to the principles used in communication networks is given in this course. Topics include a discussion of the uses of communications networks, network traffic, network impairments, standards, layered reference models for organizing network functions. Local Area Network technology and protocols are discussed. Link, network, transport layer protocols, and security are introduced. TCP/IP networks are stressed.
+/
+Fiber Optic Communication Systems
+Description and analysis of the key components in optical communication systems. Topics covered include quantum sources, fiber cable propagation and dispersion characteristics, receiver characteristics, and system gain considerations. 
+/

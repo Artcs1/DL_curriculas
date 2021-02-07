@@ -1,0 +1,106 @@
+/
+First-Year Seminar
+The First-Year Seminar provides an educational experience that is composed of several important components. First, it develops intellectual skills, such as critical analysis and synthesis, and communications skills, such as speaking and writing. Second, it broadens definitions of learning
+/
+Writing and Language
+A writing course focusing on writing as a process of discovery concerning ideas, drafting, revising and editing. Students read, write and speak about a variety of aspects of the power of language.
+/
+Advanced Writing and Language
+A writing course designed to explore the writing process and the history of the English language, its past and present uses and powers
+/
+Introduction to Engineering I
+Introduction to the study, practice and various branches of engineering, as well as the following skills: problem solving, teamwork, project management, design, sketching, and computer-aided rendering. Includes a design project, guest speakers and plant tour
+/
+Introduction to Engineering II
+Introduction to the development of mathematical techniques for engineering applications including Matlab and statistics. Also a study of engineering ethics, and written and oral technical communication
+/
+Introductory Mathematics for Physics
+This course covers the applied mathematics needed to complete the calculus-based introductory physics sequence. Topics include functions, graphs, coordinate systems, series representations, trigonometry, vectors, matrices, systems of equations, differentiation, integration, and differential equations
+/
+College Physics I
+Calculus-based introduction to the basic concepts of mechanics, classical kinematics and dynamics (linear and rotational motion, work and energy, impulse and momentum), friction, statics, universal gravitation, and relativity
+/
+Computer Science I
+The fundamental concepts of computer organization, machine-level representation of data, algorithmic development and structured programming are presented with an emphasis on the syntactic and execution characteristics of an object-oriented programming language, including data types; arithmetic operators and assignment; input/output, selection and iteration constructs; elementary data structures; and procedural abstraction.
+/
+Calculus I
+A thorough introduction to the basic concepts and techniques of the differential and integral calculus of elementary functions, including a study of limits and continuity. Applications to the physical, biological and social sciences are studied in detail
+/
+Computer Science II
+A continuation of the presentation of the computer software essentials. The course surveys fundamental data structures for information processing and corresponding algorithm construction. The implementation of these data structures is considered. Additional topics include recursion, file processing, classes and advanced object-oriented programming techniques
+/
+Circuit Analysis
+Introduction to linear circuit analysis and basic electric circuit components. Topics covered include DC analysis, AC analysis and transient analysis for circuits containing resistors, inductors, capacitors and diodes.
+/
+Microcomputer Architecture
+Board-level design of microcomputers and the study of various computer architectures and hardware/software computing platforms. Topics include computer ethics, hardware components such as memory registers, central processor types, controllers, peripherals, input/output architecture and devices, memory management and networking.
+/
+Calculus III
+that completes the topics of the calculus sequence, including three-dimensional analytic geometry, vectors and vector valued functions, and calculus of functions of several variables.
+/
+Differential Equations
+A study of analytical and numerical approaches to ordinary differential equations and related topics and applications including complex arithmetic, matrix algebra, Fourier series, Fourier transforms, Laplace transforms, mechanical vibrations, and RLC circuits.
+/
+College Physics II
+Calculus-based introduction to the basic concepts of electricity and magnetism. Covering topics on fields, waves, potential, current, resistance, capacitance, inductance, direct current circuits, alternating current circuits, and quantum machanics
+/
+Electronics
+Practical and theoretical study of fundamental components and circuits, including transistors, diodes, integrated circuits, power supplies, filters, amplifiers, control circuits and some digital electronics.
+/
+Science and Values
+Many people now recognize that for both good and ill, science is value-laden, e.g., scientists are influenced by ethical and political values when they do science. Scientists are people, just like the rest of us. The truth is that values shape research methods, agendas, and applications of scientific knowledge. More controversially, it maybe that even theory choice and theory testing are value-laden. So all this raises questions, how can we inform our consciences and pursue implementations of scientific and technological developments that are just and respectful of human dignity? What is the responsibility of the scientist or engineer for the uses their work is put to? By what means, in which respects, and to what extent does science change our world and does the world change science? Which of these changes are morally positive and which are not? To answer these questions we need an approach to science that integrates the history, philosophy, anthropology, psychology, sociology, and economics of science and scientists into a comprehensive analysis. This course will introduce the student to foundational ethical theories and principles, and then apply them to various case studies in the area of science and values.
+/
+Computer Organization and Architecture
+Introduction to Boolean algebra, design of combinational and sequential circuits, and their use in von Neumann computer architecture. Basic parts of computer systems including memory, control and input-output systems are studied. The student is expected to design a simple micro-programmed computer.
+/
+Systems Programming
+This course covers advanced programming and machine representation of data and data structures, including dynamic structures and files. Topics include memory allocation, run-time data organization, function linkage and parameter passing, interrupt processing and the relationship between high level and machine language.
+/
+Signals and Systems
+Analysis of continuous-time linear systems, discrete-time linear systems, and methods of signal sampling and reconstruction. Applications of Fourier Series, Fourier Transform and Laplace Transform. Exploration of digital signal processing using Matlab programming
+/
+Computer Organization and Architecture
+Introduction to Boolean algebra, design of combinational and sequential circuits, and their use in von Neumann computer architecture. Basic parts of computer systems including memory, control and input-output systems are studied. The student is expected to design a simple micro-programmed computer.
+/
+Electronics
+Practical and theoretical study of fundamental components and circuits, including transistors, diodes, integrated circuits, power supplies, filters, amplifiers, control circuits and some digital electronics.
+/
+Control Systems
+Design and analysis of continuous time-domain control systems using system modeling techniques and simulation software for control algorithms. Evaluation of control system performance and design criteria including feedback, stability, sensitivity, time and frequency response. Introduction to similar topics in the discrete-time domains. Includes a two-hour laboratory each week applying the theory to physical systems.
+/
+Digital Circuits and Computer Interfacing
+Digital logic and integrated circuits to implement logic; architecture and machine language programming of minicomputers and microprocessors; design, testing, and construction of instrument-to-computer and computer-to-instrument interfaces; design and testing of supporting software.
+/
+Advanced Computer Engineering
+Circuit level design and implementation of complete computer systems. Major laboratory projects require students to design, build, test and demonstrate computer hardware designs using Field Programmable Gate Arrays and bread boarded circuits. Class lectures include design of embedded systems, microcontrollers, microprocessors and supercomputers. 
+/
+Fundamentals of Chemistry: Introduction to Molecular Science
+An introduction to the study of the material world from a conceptual, model-building viewpoint. Topics include: elements and compounds, atomic composition and electronic structure, bonding and molecular structure, physical properties, thermodynamics and reaction kinetics.
+/
+Operating Systems
+Principles and theories behind the design of operating systems and their practical implementation, including executives and monitors, task handlers, scheduling algorithms, file handlers, device drivers and interrupt handlers, theories of resource allocation and sharing, multiprocessing and interprocess communication.
+/
+Senior Project in Engineering I
+Senior Project in Engineering I
+/
+Senior Project in Engineering II
+Senior Project in Engineering II
+/
+Signals and Systems
+Analysis of continuous-time linear systems, discrete-time linear systems, and methods of signal sampling and reconstruction. Applications of Fourier Series, Fourier Transform and Laplace Transform. Exploration of digital signal processing using Matlab programming
+/
+Digital Circuits and Computer Interfacing
+Digital logic and integrated circuits to implement logic; architecture and machine language programming of minicomputers and microprocessors; design, testing, and construction of instrument-to-computer and computer-to-instrument interfaces; design and testing of supporting software.
+/
+Advanced Computer Engineering
+Circuit level design and implementation of complete computer systems. Major laboratory projects require students to design, build, test and demonstrate computer hardware designs using Field Programmable Gate Arrays and bread boarded circuits.
+/
+Control Systems
+Design and analysis of continuous time-domain control systems using system modeling techniques and simulation software for control algorithms. Evaluation of control system performance and design criteria including feedback, stability, sensitivity, time and frequency response. Introduction to similar topics in the discrete-time domains.
+/
+Science and Values
+Science and Values
+/
+Fundamentals of Chemistry: Introduction to Molecular Science
+An introduction to the study of the material world from a conceptual, model-building viewpoint. Topics include: elements and compounds, atomic composition and electronic structure, bonding and molecular structure, physical properties, thermodynamics and reaction kinetics
+/
