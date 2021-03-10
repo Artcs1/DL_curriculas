@@ -18,6 +18,28 @@ from simpletransformers.language_representation import RepresentationModel
 import numpy as np
 
 
+def get_embedding(data, model, tokenizer, S):
+
+    D = torch.zeros(S, 768)
+
+    for ind, curricula in enumerate(data):
+        curr_emb = torch.zeros(768)
+        for cursos in curricula:
+            text = cursos
+            marked_text = "[CLS] " + text + " [SEP]"
+            tokenized_text = tokenizer.tokenize(marked_text)
+            indexed_tokens = tokenizer.convert_tokens_to_ids(tokenized_text)
+            tokens_tensor = torch.tensor([indexed_tokens])
+            model.eval()
+
+            outputs = model(tokens_tensor)
+            word_emb = torch.mean(torch.squeeze(outputs[0]),0)
+            curr_emb+=word_emb
+
+        D[ind,:] = curr_emb/len(curricula)
+
+    return D
+
 
 def train_model(model_name, epochs, dataloader, lr):
 
@@ -25,23 +47,19 @@ def train_model(model_name, epochs, dataloader, lr):
 
 
     bert_config = BertConfig.from_pretrained('bert-base-uncased')
-    tokenizer = BertTokenizer.from_pretrained('bert-base-uncased', do_lower_case = False)
+    tokenizer   = BertTokenizer.from_pretrained('bert-base-uncased', do_lower_case = False)
     if model_name == 'bert':
-        model2 = RepresentationModel(model_type="bert", model_name="bert-base-uncased", use_cuda = torch.cuda.is_available())
         model = BertModel.from_pretrained('bert-base-uncased', config = bert_config)
-        size = 768
     elif model_name == 'cl_bert':
-        model2 = RepresentationModel(model_type="bert", model_name= "Model/CL_bert/", use_cuda = torch.cuda.is_available())
         model = BertModel.from_pretrained('Model/CL_bert/', config = bert_config)
-        size = 768
     elif model_name == 'lm_bert':
-        model2 = RepresentationModel(model_type="bert", model_name= "Model/LM_bert/", use_cuda = torch.cuda.is_available())
         model = BertModel.from_pretrained('Model/LM_bert/', config = bert_config)
-        size = 768
     elif model_name == 'ml_bert':
-        model2 = RepresentationModel(model_type="bert", model_name= "Model/ML_bert/", use_cuda = torch.cuda.is_available())
         model = BertModel.from_pretrained('Model/ML_bert/', config = bert_config)
-        size = 768
+
+
+    model2 = RepresentationModel(model_type="bert", model_name="bert-base-uncased", use_cuda = torch.cuda.is_available())
+    size = 768
 
     model.train()
     from transformers import AdamW
@@ -56,17 +74,20 @@ def train_model(model_name, epochs, dataloader, lr):
 
     #optimizer = optim.SGD(model.parameters(), lr=lr, momentum=0.9)
     loss_func = losses.TripletMarginLoss()
+    L_loss=[]
     for epoch in range(epochs):
+        sum_loss=0
         for i, (data, labels) in enumerate(dataloader):
-            print(i)
             optimizer.zero_grad()
             emb = format_curriculas(data)
-            embeddings = toembedding(emb, model2, size, model)
-            embeddings = torch.from_numpy(embeddings)
-            embeddings.requires_grad = True
+            embeddings = get_embedding(emb, model, tokenizer, len(emb))
             loss = loss_func(embeddings, labels)
+            #print(loss.item())
+            sum_loss+=loss.item()
             loss.backward()
             optimizer.step()
+        L_loss.append(sum_loss)
+        #print(sum_loss)
 
     model.save_pretrained('./Model/ML_bert')
     bert_config.save_pretrained('./Model/ML_bert')
@@ -77,16 +98,16 @@ def main():
     parser = argparse.ArgumentParser(description = 'Curriculas')
     parser.add_argument("--model",default="bert")
     parser.add_argument("--epochs",default=50)
-    parser.add_argument("--batch",default=2)
-    parser.add_argument("--lr",default=0.00001)
+    parser.add_argument("--batch",default=32)
+    parser.add_argument("--lr",default=0.001)
     parser.add_argument("path")
     args = parser.parse_args()
 
     train_data = Curriculas(path=args.path, data = 'train')
     val_data   = Curriculas(path=args.path, data = 'valid')
 
-    train_loader = DataLoader(dataset=train_data, batch_size=2)
-    val_loader   = DataLoader(dataset=val_data, batch_size=2)
+    train_loader = DataLoader(dataset=train_data, batch_size=args.batch, shuffle=True)
+    val_loader   = DataLoader(dataset=val_data, batch_size=args.batch, shuffle=True)
 
     model = train_model(args.model, args.epochs, train_loader, args.lr)
 if __name__ == '__main__':
