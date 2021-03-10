@@ -52,6 +52,7 @@ def format_curriculas(curriculas):
     return L
 
 def toembedding(data,model,siz,name):
+    print(name)
     nd = np.empty((0,siz), int)
     E = np.zeros(siz)
     E2 = np.zeros(siz)
@@ -84,10 +85,6 @@ def toembedding(data,model,siz,name):
 class Curriculas(Dataset):
 
     def __init__(self, path='DATA_TG100', data='train'):
-        self.x = ["1","2","3"]
-
-        self.y = [1, 2, 3]
-
         CS_paths = ls("./"+path+"/CS")
         CE_paths = ls("./"+path+"/CE")
         IT_paths = ls("./"+path+"/IT")

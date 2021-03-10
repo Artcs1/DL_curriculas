@@ -60,6 +60,7 @@ def main():
     parser = argparse.ArgumentParser(description = 'Curriculas')
     parser.add_argument("--nargs", nargs='+')
     args = parser.parse_args()
+
     acc = np.zeros((5,len(args.nargs)))
     rec = np.zeros((5,len(args.nargs)))
     pre = np.zeros((5,len(args.nargs)))
@@ -141,7 +142,7 @@ def main():
 
 
     out = pd.DataFrame(np.concatenate((acc,rec, pre, f1s),axis=1).round(3), columns=index , index=['KNN','LR','SVML','SVMR','MLP'])
-    out.to_csv('results/metrics.csv')
+    out.to_csv('results/metrics2.csv')
 
 
 
