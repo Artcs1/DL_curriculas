@@ -1,0 +1,15 @@
+
+emb_size = {'word2vec':100,
+            'glove':100,
+            'bert':768,
+            'cl_bert':768,
+            'lm_bert':768,
+            'ml_bert':200,
+            'word2vec_P':100,
+            'glove_P':100,
+            'bert_P':768,
+            'cl_bert_P':768,
+            'lm_bert_P':768,
+            'ml_bert_P':256,
+            'ml_cl_bert_P':512,
+            'ml_lm_bert_P':512}

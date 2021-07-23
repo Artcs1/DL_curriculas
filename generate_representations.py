@@ -102,7 +102,7 @@ def fashion_scatter(x, colors, names, model, paths):
 
     fig.canvas.mpl_connect("motion_notify_event", hover)
 
-    plt.show()
+    #plt.show()
 
 
 def plotear(X,y,nombres,color,model):
@@ -187,7 +187,7 @@ def train_model(string):
 def main():
 
     parser = argparse.ArgumentParser(description = 'Curriculas')
-    parser.add_argument("--model",default="word2vec100wv")
+    parser.add_argument("--model",default="word2vec")
     parser.add_argument("--save" ,default=True)
     parser.add_argument("path")
     args = parser.parse_args()
@@ -233,20 +233,25 @@ def main():
     print("     Generating embbedings .....     ")
 
     embedding = toembedding(curriculas, model, size, args.model)
+
     gt = np.asarray(data_curriculas.y)
-    D = embedding
+    D  = embedding
 
     ind_gt = np.where(gt!=5)[0]
     gt2 = gt[ind_gt]
     D2  = D[ind_gt]
-    DATA = np.concatenate((D2,gt2.reshape(-1,1)), axis=1)
+    DATA   = np.concatenate((D2,gt2.reshape(-1,1)), axis=1)
+    DATA_P = np.concatenate((D,gt.reshape(-1,1)), axis=1)
     if args.save == True:
         np.save("Embeddings/"+args.model,DATA)
+        np.save("Embeddings/"+args.model+"_P",DATA_P)
+
 
     print("     Saving results .....     ")
 
     plotear(D.copy(),gt,['CS','CE','IT','IS','SE','Peru'],['red','green','blue','black','brown','purple'],args.model)
 
+    print(paths_relative)
     fashion_tsne = TSNE(random_state=13).fit_transform(D.copy())
     fashion_scatter(fashion_tsne, gt,['CS','CE','IT','IS','SE','Peru'],args.model, paths_relative)
 

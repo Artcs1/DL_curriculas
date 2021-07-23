@@ -13,6 +13,19 @@ from sklearn.model_selection import GridSearchCV
 import pandas as pd
 from sklearn.metrics import f1_score, accuracy_score, recall_score, precision_score
 
+import torch
+
+from torch.utils.data import Dataset
+
+from Loader.emb_loader import Embedding
+
+
+from tqdm import tqdm
+
+
+from warnings import simplefilter
+from sklearn.exceptions import ConvergenceWarning
+simplefilter("ignore", category=ConvergenceWarning)
 
 def metrics(Y, yhat):
     return accuracy_score(Y,yhat), recall_score(Y,yhat, average='macro'), precision_score(Y,yhat, average='macro'), f1_score(Y,yhat,average='macro')
@@ -47,13 +60,17 @@ def svm_rbf(X_train, y_train):
     return clf
 
 
-
 def mlp(X_train, y_train):
-    mlp_param = {'learning_rate_init':10**np.random.uniform(-3,-6,10),'alpha':10**np.random.uniform(-5,5,10)}
+    mlp_param = {'learning_rate_init':10**np.random.uniform(-3,-6,5),'alpha':10**np.random.uniform(-5,5,5)}
     mlp = MLPClassifier(max_iter=200)
     clf = GridSearchCV(mlp, mlp_param)
     clf.fit(X_train, y_train)
     return clf
+
+def warn(*args, **kwargs):
+    pass
+import warnings
+warnings.warn = warn
 
 def main():
 
@@ -69,23 +86,24 @@ def main():
     ind = 0
     for model in args.nargs:
 
-        data = np.load("Embeddings/"+model+".npy")
+        data = Embedding( model=model, sample='test')
 
-        X = data[:,:-1]
+        X = data.X.numpy()
 
         scaler = preprocessing.StandardScaler().fit(X)
         X = scaler.transform(X)
 
-        Y = data[:,-1]
-        kf = StratifiedKFold(n_splits=5)
+        Y = data.Y.numpy()
+        kf = StratifiedKFold(n_splits=4)
 
-        KNN_L = []
-        LR_L =[]
+        KNN_L  = []
+        LR_L   = []
         LSVM_L = []
         RSVM_L = []
-        MLP_L = []
+        MLP_L  = []
 
-        for train_index, test_index in kf.split(X, Y):
+
+        for train_index, test_index in tqdm(kf.split(X, Y)):
 
             X_train, X_test = X[train_index], X[test_index]
             y_train, y_test = Y[train_index], Y[test_index]
@@ -142,7 +160,7 @@ def main():
 
 
     out = pd.DataFrame(np.concatenate((acc,rec, pre, f1s),axis=1).round(3), columns=index , index=['KNN','LR','SVML','SVMR','MLP'])
-    out.to_csv('results/metrics2.csv')
+    out.to_csv('results/metrics_kfold.csv')
 
 
 

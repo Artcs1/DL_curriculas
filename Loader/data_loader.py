@@ -52,7 +52,6 @@ def format_curriculas(curriculas):
     return L
 
 def toembedding(data,model,siz,name):
-    print(name)
     nd = np.empty((0,siz), int)
     E = np.zeros(siz)
     E2 = np.zeros(siz)
