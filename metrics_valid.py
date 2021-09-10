@@ -12,6 +12,8 @@ from sklearn.preprocessing import StandardScaler
 #from sklearn.model_selection import GridSearchCV
 import pandas as pd
 from sklearn.metrics import f1_score, accuracy_score, recall_score, precision_score
+from os import listdir
+from os.path import isfile, join
 
 from hypopt import GridSearch
 
@@ -74,24 +76,12 @@ def main():
     f1s = np.zeros((4,len(args.nargs)))
 
     ind = 0
-    for model in args.nargs:
 
-        train_data = Embedding(model=model, sample='train')
-        valid_data = Embedding(model=model, sample='valid')
-        test_data  = Embedding(model=model, sample='test')
-
-        X_train = train_data.X.numpy()
-        #scaler = preprocessing.StandardScaler().fit(X)
-        scaler = preprocessing.Normalizer().fit(X_train)
-
-        X_train = scaler.transform(X_train)
-        Y_train = train_data.Y.numpy()
-
-        X_valid = scaler.transform(valid_data.X.numpy())
-        Y_valid = valid_data.Y.numpy()
-
-        X_test  = scaler.transform(test_data.X.numpy())
-        Y_test  = test_data.Y.numpy()
+    for models_name in args.nargs:
+        mypath = './Embeddings/'
+        print(models_name)
+        models = [f for f in listdir(mypath) if isfile(join(mypath, f)) and f.startswith(models_name)]
+        print(models)
 
         KNN_L  = []
         LR_L   = []
@@ -99,25 +89,45 @@ def main():
         RSVM_L = []
         MLP_L  = []
 
-        KNN = knn(X_train, Y_train, X_valid, Y_valid)
-        yhat = KNN.predict(X_test)
-        KNN_m = metrics(Y_test, yhat)
-        KNN_L.append(KNN_m)
 
-        LR = log_reg(X_train, Y_train, X_valid, Y_valid)
-        yhat = LR.predict(X_test)
-        LR_m = metrics(Y_test, yhat)
-        LR_L.append(LR_m)
+        for model in models:
+            model = model[:-4]
+            train_data = Embedding(model=model, sample='train')
+            valid_data = Embedding(model=model, sample='valid')
+            test_data  = Embedding(model=model, sample='test')
 
-        SVM = svm_linear(X_train, Y_train, X_valid, Y_valid)
-        yhat = SVM.predict(X_test)
-        SVM_m = metrics(Y_test, yhat)
-        LSVM_L.append(SVM_m)
+            X_train = train_data.X.numpy()
+            #scaler = preprocessing.StandardScaler().fit(X)
+            scaler = preprocessing.Normalizer().fit(X_train)
 
-        SVM = svm_rbf(X_train, Y_train, X_valid, Y_valid)
-        yhat = SVM.predict(X_test)
-        SVM_m = metrics(Y_test, yhat)
-        RSVM_L.append(SVM_m)
+            X_train = scaler.transform(X_train)
+            Y_train = train_data.Y.numpy()
+
+            X_valid = scaler.transform(valid_data.X.numpy())
+            Y_valid = valid_data.Y.numpy()
+
+            X_test  = scaler.transform(test_data.X.numpy())
+            Y_test  = test_data.Y.numpy()
+
+            KNN = knn(X_train, Y_train, X_valid, Y_valid)
+            yhat = KNN.predict(X_test)
+            KNN_m = metrics(Y_test, yhat)
+            KNN_L.append(KNN_m)
+
+            LR = log_reg(X_train, Y_train, X_valid, Y_valid)
+            yhat = LR.predict(X_test)
+            LR_m = metrics(Y_test, yhat)
+            LR_L.append(LR_m)
+
+            SVM = svm_linear(X_train, Y_train, X_valid, Y_valid)
+            yhat = SVM.predict(X_test)
+            SVM_m = metrics(Y_test, yhat)
+            LSVM_L.append(SVM_m)
+
+            SVM = svm_rbf(X_train, Y_train, X_valid, Y_valid)
+            yhat = SVM.predict(X_test)
+            SVM_m = metrics(Y_test, yhat)
+            RSVM_L.append(SVM_m)
 
         #MLP = mlp(X_train, Y_train, X_valid, Y_valid)
         #yhat = MLP.predict(X_test)

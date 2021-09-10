@@ -1,0 +1,11 @@
+gensim
+tqdm
+nltk
+sklearn
+pandas
+matplotlib
+seaborn
+simpletransformers
+pytorch_metric_learning
+hypopt
+python-Levenshtein

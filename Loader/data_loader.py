@@ -1,5 +1,6 @@
 import numpy as np
 import torch
+import os 
 from os import scandir, getcwd
 from os.path import abspath,isfile
 
@@ -81,15 +82,63 @@ def toembedding(data,model,siz,name):
     return nd
 
 
+def toembedding2(data,model,siz,name):
+    nd = np.empty((0,siz,0), int)
+    L = []
+    E = np.zeros(siz)
+    E2 = np.zeros(siz)
+    c1 =0
+    for i in data:
+        c2 = 0
+        nd2 = np.empty((0,siz),int)
+        for strings in i:
+            if name == 'bert' or name == 'cl_bert' or name == 'lm_bert' or name == 'ml_bert' :
+                lista = []
+                lista.append(strings)
+                E2 = model.encode_sentences(lista ,combine_strategy = "mean").reshape(-1)
+            else:
+                T = strings.split(" ")
+                c1 = 0
+                for curso in T:
+                    c1 = c1 +1
+                    try:
+                        E2 = E2 + model[curso]
+                    except:
+                        np.random.seed(143)
+                        E2 = E2 + np.random.rand(E2.shape[0])
+                E2 = (E2)/(c1+ 0.00000001)
+            nd2 = np.append(nd2, np.array([E2]),axis =0)
+        L.append(nd2)
+        c2 = c2+1
+    
+    max_emb = 0
+    for emb in L:
+        max_emb = np.maximum(max_emb, emb.shape[0])
+    for ind, emb in enumerate(L):
+        Z = np.zeros((max_emb,siz))
+        Z[:emb.shape[0],:emb.shape[1]] = emb
+        L[ind]=Z
+    print(max_emb)
+    return np.stack(L,axis=0)
+
+
 class Curriculas(Dataset):
 
     def __init__(self, path='DATA_TG100', data='train'):
-        CS_paths = ls("./"+path+"/CS")
-        CE_paths = ls("./"+path+"/CE")
-        IT_paths = ls("./"+path+"/IT")
-        IS_paths = ls("./"+path+"/IS")
-        SE_paths = ls("./"+path+"/SE")
-        PE_paths = ls("./"+path+"/PERU")
+    
+        #CE_paths = ls("./"+path+"/CE")
+        CS_paths = open('./DATA_TG100/cs.txt').read().splitlines()
+        CS_paths = [ os.path.join(os.getcwd(),'DATA_TG100','CS',course) for course in CS_paths]
+        CE_paths = open('./DATA_TG100/ce.txt').read().splitlines()
+        CE_paths = [ os.path.join(os.getcwd(),'DATA_TG100','CE',course) for course in CE_paths]
+        IT_paths = open('./DATA_TG100/it.txt').read().splitlines() 
+        IT_paths = [ os.path.join(os.getcwd(),'DATA_TG100','IT',course) for course in IT_paths]
+        IS_paths = open('./DATA_TG100/is.txt').read().splitlines()
+        IS_paths = [ os.path.join(os.getcwd(),'DATA_TG100','IS',course) for course in IS_paths] 
+        SE_paths = open('./DATA_TG100/se.txt').read().splitlines()
+        SE_paths = [ os.path.join(os.getcwd(),'DATA_TG100','SE',course) for course in SE_paths]
+        PE_paths = open('./DATA_TG100/pe.txt').read().splitlines() 
+        PE_paths = [ os.path.join(os.getcwd(),'DATA_TG100','PERU',course) for course in PE_paths]
 
         length  = [len(CS_paths), len(CE_paths), len(IT_paths), len(IS_paths), len(SE_paths)]
         len_all = [len(CS_paths), len(CE_paths), len(IT_paths), len(IS_paths), len(SE_paths), len(PE_paths)]

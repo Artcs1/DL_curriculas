@@ -10,76 +10,61 @@ from torch.utils.data import Dataset
 class Embedding(Dataset):
 
     def __init__(self, model='bert', sample='train'):
-        data = np.load("./Embeddings/"+model+".npy")
+        data = np.load("./Embeddings/"+model+".npy", allow_pickle=True)
+        paths = open('./DATA_TG100/all.txt').read().splitlines()
+        
 
-        X   = data[:,:-1]
-        Y   = data[:,-1]
+        X   = data['x']
+        Y   = data['y']
         siz = X.shape[1]
-
-
+        
         if sample != 'all_P':
-            ind = np.where(Y!=5)
+            ind = np.where(Y!=5)[0]
             X = X[ind]
             Y = Y[ind]
+        
+        length = []
+        for i in range(5):
+            length.append(np.where(Y==i)[0].shape[0])
+        len_train = [ int(np.round(val * 0.6)) for val in length ]
+        len_val   = [ int(np.round(val * 0.2)) for val in length ]
+        len_test  = [ int(length[i] - len_train[i] - len_val[i]) for i in np.arange(len(length))]
+
 
         num_train   = X.shape[0]
-        split_valid = int(np.floor(0.6*num_train))
-        split_test  = int(np.floor(0.8*num_train))
-
         num_types = np.zeros(num_train) + 4
 
         for i in range(5):
             c   = np.where(Y==i)
             ind = c[0]
-            c   = c[0].shape[0]
-            split_valid = int(np.floor(0.6*c))
-            split_test  = int(np.floor(0.8*c))
-            num_types[ind[:split_valid]] = 1
-            num_types[ind[split_valid:split_test]] = 2
-            num_types[ind[split_test:]] = 3
+            num_types[ind[:len_train[i]]] = 1
+            num_types[ind[len_train[i]:len_train[i]+len_val[i]]] = 2
+            num_types[ind[len_train[i]+len_val[i]:]] = 3
+
+        LX = []
+        LY = []
 
         if sample == 'train':
-            new_X = np.empty((0,siz), np.float32)
-            new_Y = np.array((), np.float32)
             for i in range(5):
                 c = np.where(Y==i)
                 ind = c[0]
-                c   = c[0].shape[0]
-                split_valid = int(np.floor(0.6*c))
-                split_test  = int(np.floor(0.8*c))
-                new_X = np.append(new_X, X[ind][:split_valid], axis=0)
-                new_Y = np.append(new_Y, Y[ind][:split_valid], axis=0)
+                LX.append(X[ind][:len_train[i]])
+                LY.append(Y[ind][:len_train[i]])
                 num_types[ind]=1
-            X = new_X
-            Y = new_Y
         if sample == 'valid':
-            new_X = np.empty((0,siz), np.float32)
-            new_Y = np.array((), np.float32)
             for i in range(5):
                 c = np.where(Y==i)
                 ind = c[0]
-                c   = c[0].shape[0]
-                split_valid = int(np.floor(0.6*c))
-                split_test  = int(np.floor(0.8*c))
-                new_X = np.append(new_X, X[ind][split_valid:split_test], axis=0)
-                new_Y = np.append(new_Y, Y[ind][split_valid:split_test], axis=0)
+                LX.append(X[ind][len_train[i]:len_train[i]+len_val[i]])
+                LY.append(Y[ind][len_train[i]:len_train[i]+len_val[i]])
                 num_types[ind]=2
-            X = new_X
-            Y = new_Y
         if sample == 'test':
-            new_X = np.empty((0,siz), np.float32)
-            new_Y = np.array((), np.float32)
             for i in range(5):
                 c = np.where(Y==i)
                 ind = c[0]
-                c   = c[0].shape[0]
-                split_valid = int(np.floor(0.6*c))
-                split_test  = int(np.floor(0.8*c))
-                new_X = np.append(new_X, X[ind][split_test:], axis=0)
-                new_Y = np.append(new_Y, Y[ind][split_test:], axis=0)
+                LX.append(X[ind][len_train[i]+len_val[i]:])
+                LY.append(Y[ind][len_train[i]+len_val[i]:])
                 num_types[ind]=3
-            X = new_X
-            Y = new_Y
 
 
         types = []
@@ -91,8 +76,19 @@ class Embedding(Dataset):
             elif num_types[i] ==3:
                 s = 'test'
             else:
-                s = 'peru'
+                s = paths[i]
             types.append(s)
+
+        #for ix in LX:
+        #    print(ix.shape)
+    
+        #for iy in LY:
+        #    print(iy.shape)
+
+        if sample != 'all_P':
+            X = np.concatenate(LX,axis=0)
+            Y = np.concatenate(LY,axis=0)
+
 
         X = torch.from_numpy(X.astype(np.float32))
         Y = torch.from_numpy(Y.astype(np.float32))

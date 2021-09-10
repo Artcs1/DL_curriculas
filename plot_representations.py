@@ -151,8 +151,9 @@ def main():
         classes = ['CS','CE','IT','IS','SE','PE']
         color   = ['red','green','blue','black','brown','purple']
 
-    data = Embedding(emb_size[args.model], model=args.model, sample = args.sample)
+    data = Embedding(model=args.model, sample = args.sample)
     D  = data.X.numpy()
+    print(D)
     gt = data.Y.numpy()
 
 

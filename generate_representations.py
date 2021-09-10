@@ -26,6 +26,7 @@ import pickle
 
 from Loader.data_loader import Curriculas
 from Loader.data_loader import toembedding
+from Loader.data_loader import toembedding2
 from Loader.data_loader import format_curriculas
 
 def fashion_scatter(x, colors, names, model, paths):
@@ -187,18 +188,18 @@ def train_model(string):
 def main():
 
     parser = argparse.ArgumentParser(description = 'Curriculas')
-    parser.add_argument("--model",default="word2vec")
-    parser.add_argument("--save" ,default=True)
+    parser.add_argument("--model", default="glove")
+    parser.add_argument("--mode" , default="curricula")
+    parser.add_argument("--save" , default=True)
     parser.add_argument("path")
     args = parser.parse_args()
 
     data_curriculas = Curriculas(path=args.path, data = "all")
     curriculas = format_curriculas(data_curriculas.x)
     paths_absolute = data_curriculas.get_names()
-    paths_relative =[]
+    paths_relative = []
     for name in paths_absolute:
         paths_relative.append(name.split('/')[-1])
-
 
     print("     Reading mallas .....    ")
 
@@ -214,10 +215,10 @@ def main():
         model = RepresentationModel(model_type="bert", model_name="bert-base-uncased", use_cuda = torch.cuda.is_available())
         size = 768
     elif args.model == 'cl_bert':
-        model = RepresentationModel(model_type="bert", model_name= "Model/CL_bert/", use_cuda = torch.cuda.is_available())
+        model = RepresentationModel(model_type="bert", model_name= "Model/CL_bert4/best_model", use_cuda = torch.cuda.is_available())
         size = 768
     elif args.model == 'lm_bert':
-        model = RepresentationModel(model_type="bert", model_name= "Model/LM_bert/", use_cuda = torch.cuda.is_available())
+        model = RepresentationModel(model_type="bert", model_name= "Model/LM_bert4/best_model", use_cuda = torch.cuda.is_available())
         size = 768
     elif args.model == 'ml_bert':
         model = RepresentationModel(model_type="bert", model_name= "Model/ML_bert/", use_cuda = torch.cuda.is_available())
@@ -231,33 +232,42 @@ def main():
         size = model.vectors.shape[1]
 
     print("     Generating embbedings .....     ")
-
-    embedding = toembedding(curriculas, model, size, args.model)
+    
+    if args.mode == 'curricula':
+        embedding = toembedding(curriculas, model, size, args.model)
+    else:
+        embedding = toembedding2(curriculas, model, size, args.model)    
+        args.model = args.model + '_curso'
 
     gt = np.asarray(data_curriculas.y)
     D  = embedding
-
-    ind_gt = np.where(gt!=5)[0]
-    gt2 = gt[ind_gt]
-    D2  = D[ind_gt]
-    DATA   = np.concatenate((D2,gt2.reshape(-1,1)), axis=1)
-    DATA_P = np.concatenate((D,gt.reshape(-1,1)), axis=1)
+    
     if args.save == True:
-        np.save("Embeddings/"+args.model,DATA)
-        np.save("Embeddings/"+args.model+"_P",DATA_P)
+        DATA = {'x':D,'y':gt}
+        with open('Embeddings/'+args.model+'.npy', 'wb') as f:
+            pickle.dump(DATA, f)
+
+    #ind_gt = np.where(gt!=5)[0]
+    #gt2 = gt[ind_gt]
+    #D2  = D[ind_gt]
+    #DATA   = np.concatenate((D2,gt2.reshape(-1,1)), axis=1)
+    #DATA_P = np.concatenate((D,gt.reshape(-1,1)), axis=1)
+    #if args.save == True:
+    #    #np.save("Embeddings/"+args.model,DATA)
+    #    np.save("Embeddings/"+args.model+"_P",DATA_P)
 
 
-    print("     Saving results .....     ")
+    #print("     Saving results .....     ")
 
-    plotear(D.copy(),gt,['CS','CE','IT','IS','SE','Peru'],['red','green','blue','black','brown','purple'],args.model)
+    #plotear(D.copy(),gt,['CS','CE','IT','IS','SE','Peru'],['red','green','blue','black','brown','purple'],args.model)
 
-    print(paths_relative)
-    fashion_tsne = TSNE(random_state=13).fit_transform(D.copy())
-    fashion_scatter(fashion_tsne, gt,['CS','CE','IT','IS','SE','Peru'],args.model, paths_relative)
+    #print(paths_relative)
+    #fashion_tsne = TSNE(random_state=13).fit_transform(D.copy())
+    #fashion_scatter(fashion_tsne, gt,['CS','CE','IT','IS','SE','Peru'],args.model, paths_relative)
 
-    dendogram(D, paths_relative,args.model)
+    #dendogram(D, paths_relative,args.model)
 
-    print("     Results saved   ")
+    #print("     Results saved   ")
 
 if __name__ == "__main__":
     main()
