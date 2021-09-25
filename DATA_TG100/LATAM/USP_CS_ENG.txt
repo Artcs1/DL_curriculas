@@ -1,0 +1,300 @@
+Professional Information and Mentoring on Computer Science
+The course has an instructive character, presenting a general overview of the Computer Science area, introducing the students to its several fields (as databases, software engineering, operational systems, artificial intelligence, computer graphics, computer networks and web, among others), their development, applications, and technological, social and economic consequences, as well as their impact in the world. Realization of academic mentoring activities, with discussions on the new academic routine, study scheduling, academic performance, extracurricular activities and institutional opportunities, career guidance, and ethical and citizen behavior in the university environment, among other issues of interest.
+/
+Introduction to Computer Science I
+Programming structures: decision and repetition. Simple data types. Modularization: procedures, functions and argument passing. Composite data types: arrays, matrices, strings, register/structures, sets and dynamic structures (pointers). Files. Debugging. Structured programming language
+/
+Introduction to Computer Science: Laboratory Practice I
+Problem solving and program development: analysis and problem solving, representation and documentation. Programming structures: decision and repetition. Simple data types. Modularization: procedures, functions and argument passing. Composite data types: arrays, matrices, strings, registers/structures, sets and dynamic structures (pointers). Files. Debugging. Structured programming language
+/
+Analytic Geometry
+Cartesian coordinates. Vectors. Linear dependence. Basis. Dot product. Vector product. Translation and rotation. Lines and planes. Distance and angle. Conics. Reduced equation of a quadric surface. Polar, cylindrical and spherical coordinates.
+/
+Calculus I
+The real numbers. Functions of one real variable. Limit. Continuity. Differentiability. The chain rule. Related rates. Maxima and minima of functions. Graph of functions. Taylor’s formula. Differential. Primitives.
+/
+Computing History, Evolution and Applications
+Historical overview of computer sciences and informatics. The evolution of calculating machines and their role in history. Characters, organizations and companies that contributed significantly to the development of computer sciences and new technologies. Hardware systems: historical landmarks and evolution. Development of software systems in different areas of informatics: historical landmarks and evolution. Application examples
+/
+Introduction to Digital Logic: Laboratory Practice
+Practice in combinational circuits, logic functions, logic circuits, algebraic simplification, disjunctive and conjunctive normal forms, Karnaugh maps, decoders, numerical representation, adding circuits, subtractors and multipliers, multiplex and demultiplex.
+/
+Introduction to Digital Logic
+Combinatorial circuits, logic functions, logic circuits, algebraic simplification, conjunctive and disjunctive normal forms, Karnaugh maps, decoders, numeric representations, circuits of adders, subtractors and multipliers, multiplexer and demultiplexer.
+/
+Electronics for Computer Sciences
+The course is fundamentally experimental and should explore the circuit implementation and measurement of voltage and current values, as well as make use of electric circuit simulators to visualize wave forms. The students will study the effects of the application of current and voltage sources on electric circuits with resistors and the implementation of filtered direct current power sources. The application of transistors as binary switches will be studied, as well as the design of logic functions, such as NOT, AND OR and XOR gates. Transitory effects on the propagation of electrical signals in digital logic circuits will also be considered, such as rising and falling time, fan-out effects, and their waveforms, as well as logic gate and interconnection line signal delays due to associated capacitive values. NMOS and CMOS circuits will be presented and characterized, as well as the effects of frequency and voltage variation
+/
+Basic Physics I
+1. Medidas e unidades; 2. Movimento em uma, duas e três dimensões; 3. Leis de Newton e suas aplicações; 4. Trabalho e energia; 5. Conservação de Energia; 6. Sistemas de Partículas e Conservação de Momento; 7. Rotação e conservação do momento angular; 8. Fluidos; 9. Oscilações e ondas: Oscilações, movimento ondulatório.
+/
+Introduction to Computer Science II
+Analysis of algorithms: basic concepts, complexity criteria of time and space, asymptotic notation, analysis on the worst case, best case and average case, techniques for counting operations and recurrences analysis, practice and discussion with relevant computational problems. Simple and advanced sorting algorithms in internal memory: basic concepts, bubble sort, quick sort, insertion sort, shell sort, selection sort, heap sort, merge sort, minor counting, type counting and radix sort, analysis of sorting algorithms, practice and discussion with relevant computational problems. Internal searching algorithms: basic concepts, methods for sequential search, indexed and sequential search, binary and interpolation search, analysis of previous search algorithms and considerations on search trees, practice and discussion with relevant computational problems. Internal Hashing: basic concepts, types of hash, hash functions, collision handling, analysis of search algorithms, insertion and removal based on hashing. Algorithm design paradigms: basic concepts, paradigms of induction, recursion, trial and error, divide and conquer, dynamic programming, greedy algorithms, and approximation algorithms, practice and discussion with relevant computational problems.
+/
+Algorithms and Data Structures I
+Abstract data types. Linear lists: simply and doubly linked, static and dynamic, circular, with knot-head. Basic operations on linear lists and analysis of algorithms. Stacks, queues, priority queues, basic operations on stacks and queues and analysis of algorithms. Applications of linear lists, stacks and queues in relevant computational problems. Sparse matrices. Generalized lists and applications. Nonlinear lists: trees, binary trees, basic operations on trees and analysis of algorithms. Binary search trees, balanced binary search trees, AVL trees, basic operations and analysis of algorithms. Considerations on heaps applied on priority queues. Applications of nonlinear lists in relevant computational problems and analysis of algorithms
+/
+Discrete Mathematics I
+Counting and combinatorics: addition principles, product principles, lists, factorial, arrangement, permutations, combinations, with and without repeating elements, subsets and Pascal triangle; Relationships: concept, functions as relations, properties, equivalences, partial and total orders: and the Shelf Storage problem; Theory of Numbers and Cryptography: secret key, public key systems, encryption using n-module arithmetic, common maximum divisor, Euclid's Division Theorem, Euclid's algorithm, exponential modulus n, and RSA cryptosystem; Inference and proof: rules of inference, direct proof, proof by induction, proof by contradiction, proof by construction and proof by absurdity; Mathematical Induction: principles, strong induction, recursive vision, structural induction, recurrences and the Master Theorem.
+/
+Calculus II
+Definite integral. Integration techniques. Definite integral applications. Improper integrals. Curves. Several variable functions. Limit. Partial derivatives. The chain rule and applications. Gradient and directional derivatives. Tangent planes and normal lines. Taylor polynomial. Maxima and minima of several variable functions. Lagrange multipliers.
+/
+Digital Systems: Laboratory Practice
+Practice in sequential circuits, flip-flops, registers, series / parallel and parallel / series converters, synchronous and asynchronous counters, memory. Finite state machines-FSM. Optimization techniques for finite state machines. Design of sequential logic circuits for the execution of binary instructions.
+/
+Digital Systems
+Sequential circuits, Flip-flops, registers, parallel/serial and serial/parallel converters, synchronous and asynchronous counters, memory, Finite State Machines – FSM. Optimization techniques for finite state machines. design of sequential logical circuits for the execution of binary instructions.
+/
+General Physics Laboratory I
+1.Instrumentos de medidas 1.1 Utilização de paquímetro, micrômetro e balança nas medidas de comprimento (diâmetro, espessura, profundidade, etc) e massa. 1.2 Estimativa de erro nas medidas 1.3 Propagação de erros 1.4 Algarismos significativos 2.Construção de Tabelas e Gráficos 2.1 Construção de Tabelas 2.2 Construção de gráficos 2.3 Escalas especiais para a construção de gráficos 2.4 Determinação dos coeficientes angular e linear de uma reta obtida a partir de dados experimentais 2.5 Lei de Hooke 3. Introdução ao método dos mínimos quadrados 3.1 Ajuste de curvas a dados experimentais através do método dos mínimos quadrados 3.2 Cinemática 3.3 Movimento Retilíneo Uniforme 3.4 Movimento Retilíneo uniformemente variado 4. Estática 4.1 Equilíbrio de um ponto Material 4.2 Tensão Máxima suportada por um fio 4.3 Atrito 5. Conservação de Energia 5.1 Conceito de Conservação da Energia Mecânica 5.2 Sistema Massa mola 6. Choques Unidimensionais 6.1 Utilização de um trilho de ar 6.2 Conservação da quantidade de movimento 6.3 Conservação da Energia Cinética 6.4 Coeficiente de restituição 6.5 Classificação dos choques.
+/
+File Organization
+Fundamentals of files and secondary storage. Organizing files. Fields and fixed length records and variable. Indexing files. Data structures and algorithms for indexing primary, secondary and multiple keys. Maintenance of files indexed dynamic. Processing cosequencial. Sorting large files. B-Trees and its variations. external Hashing.
+/
+Computational Modelling in Graphs
+Graphs - basic concepts, directed and undirected graphs, weighted graphs, Eulerian and Hamiltonian paths, cycles, basic operations on graphs, breadth and depth search, isomorphism. Representation of graphs via adjacency matrix and adjacency lists, operations, and algorithm analysis. Shortest paths, cycle detection, connected and strongly connected components, bridges and articulation vertices, topological sort. Minimum spanning trees, shortest paths, network flow. Basic notions of complex networks and applications.
+/
+Calculus III
+Integrais duplas. Transformação de coordenadas. Integrais triplas. Cálculo vetorial. Integrais de linha. Teorema de Green. Integrais de superfícies. O Teorema de Gauss. O Teorema de Stokes.
+/
+Object-Oriented Programming
+Object oriented design. Encapsulation and information hiding. Implementation and behavior separation. Classes and subclasses. Inheritance – overriding, dynamic dispatch. Polymorphism – relation between subtype polymorphism and inheritance. Class hierarchy. Class collections and iteration methods – sets, lists and maps. Learning goals: 1) Justify the philosophy of object-oriented design and the concepts of encapsulation, abstraction, inheritance, and polymorphism; 2) Design, implement, test, and debug simple programs in an object-oriented programming language; 3) Describe how the class mechanism supports encapsulation and information hiding; 4) Design, implement, and test the implementation of “is-a” relationships among objects using a class hierarchy and inheritance; 5) Compare and contrast the notions of overloading and overriding methods in an object-oriented language; 6) Describe how iterators access the elements of a container.
+/
+Organization and Architecture of Computers
+Understanding of assembly: important aspects when designing machine and assembly languages; coding assembly programs; Organization of processors, basic elements and fundamental concepts; Implementing instruction cycle: structural, functional and performance aspects of the microarchitecture level; RISC architecture. Hardwired and microprogrammed control units: fundamentals and development. Parallelism below microarchitecture level (pipeline, superscalar and multithreading): solutions for structural, control and data hazards Memory subsystems: structural, functional and performance aspects of cache and main memory; Input/Output (I/O): organization, techniques and evolution of I/O hardware. Current interconnection systems: general concepts and case studies. Bus.
+/
+Advanced Algorithms and Applications
+Presentation of the brute-force, divide and conquer, transform and conquer, reduce and conquer, dynamic programming and backtracking paradigms. Problem solving with trees and graphs, string processing.
+/
+Calculus IV
+Sequences. Series. Power series, Fourier series. Applications to diferential equations.
+/
+Statistics
+Exploratory data analysis. Probabilistic space. Probabilistic models. Dependence and independence of events. Events conditionated. One dimensional and n-dimensional random variables. Probability distributions. Functions of random variables. Expectation. Moments of a distribution. Covariance and correlation. The Central limit theorem. Parameter estimation. Tests of hypotheses. Adherence tests.Linear regression.
+/
+Linear Algebra and Applications
+Basics: Vector spaces, linear dependence, base and dimension, subspaces, direct sum. Linear transformations, kernel and image, matrix of a linear transformation. Rank of a linear transformation. Orthogonality and orthogonal operators, subspace projections, least squares and linear regression. Eigenvalues and eigenvectors, invariant subspaces, spectral theorem, quadratic forms and Rayleigh coefficient. Singular value decomposition (SVD). Applications: Principal component analysis (PCA) and dimensionality reduction. Latent semantic analysis. Recommendation system via SVD.
+/
+Object-Oriented Analysis and Design
+Overview of the methods for object-oriented analysis and design, including the Unified Process. Modeling of software systems using UML: structural models, behavioral models, and interaction models. Design patterns and responsibility attribution patterns. Coding from design models. Issues related to persistence. Supporting tools.
+/
+Operating Systems I
+History and evolution, types of operating systems, operating systems services, operating system structure, processes, communication between processes, classical problems, scheduling, principles of input/output, hardware aspects, software aspects, deadlocks. Memory management, basic principles, paging, multiprogramming, virtual memory, replacement pages algorithms, cache, cache handling algorithms. File system, user vision, project guidelines, reliability, security and performance aspects, file servers
+/
+Introduction to Web Development
+History of Web applications development, terminology and problems. Infrastructure used in Web application development: HTTP requests, communications, markup languages (HTML, CSS, etc), client side processing (Javascript, DOM, etc.), server side processing (web frameworks and languages), databases used in Web development (SQL e NoSQL). Development of software examples to help students understand key concepts
+/
+Databases
+Introduction do databases and Database Management Systems. Data modeling using the Entity/Relationship model. Relational model: concepts, relational algebra, and normalization. Introduction to SQL: data definition and data manipulation commands. Introduction to transaction processing: concepts and theory. Implementation aspects of Database Management Systems.
+/
+Numerical Analysis
+Machine representation of numbers: floating point numbers and round-off errors. Nonlinear equations: fixed-point iteration, Newton’s method and secant method. Numerical solutions of nonlinear systems: fixed-point method and Newton’s method. Direct methods for the solutions of linear systems: LU factorization and Gaussian elimination. Iterative methods for solving of linear systems: Jacobi-Richardson and Gauss-Seidel methods. Approximation of eigenvalues and eigenvectors: power method and Jacobi method. Least-squares approximation. Polynomial interpolation: Lagrange and Newton interpolation. Numerical integration: Newton-Cotes and Gauss formulas. Numerical solution of ordinary differential equations: Euler’s method, higher-order Taylor methods, predictor-corrector methods and explicit Runge-Kutta methods.
+/
+Stochastic Processes
+Introduction. Homogeneous stochastic processes. Poisson Process, Markov chain in discrete and continuous time, definitions, properties, equilibrium distributions. Examples and applications. Birth and Death in discrete and continuous time. Introduction to Queuing Theory. General queues: M/M/c/k. Introduction to stochastic simulation, stochastic analysis of simulation results.
+/
+Software Engineering
+Introduction and goals of Software Engineering. Software Development Process. Process Models: from linear to interactive and agile. Methods and Techniques to Analysis and Specification of Requirements: characteristics, problems and basic concepts. Overview of Software Analysis and Design Phases. Software Project Management: planning, metrics and estimates. Software Configuration Management. Software Quality: quality process and quality product. Methods and Techniques for Software Verification and Validation: inspection and testing. Software Maintenance
+/
+Computer Networks
+1 - Introduction: Structure of networks, characterization, technologies, access and core, packet loss and delay, protocol layers, service models, transmission models, topologies, reference model ISO / OSI and TCP / IP. 2 - Application Layer: client-server model and P2P; application protocols: http, ftp, smtp, etc.; implementation of protocols; 3 - Transport Layer: multiplexing, flow control, congestion control, TCP, UDP, 4 - Network Layer: networks based on virtual circuits and datagrams; IPv4, IPv6, ICMP, routing, addressing (network and subnet), route summarization, congestion control, NAT (Network Address Translation) 5 - Data Link Layer : detecting and correcting errors; Framing; sharing channels; addressing; flow control, ARP 6 - Physical Layer: transmission media analog and digital switching, multiplexing, transmission modes.
+/
+Theory of Computation and Formal Languages
+Regular Languages: deterministic and non-deterministic finite automata, regular expressions, techniques to identify and describe regular languages, techniques to show that a language is not regular, properties of such languages. Context-Free Languages: Context Free Grammars, derivations, derivation trees, ambiguity, push-down automata, properties of such languages, techniques to show that a language is not context-free. Context Sensitive languages and recursively enumerable languages: Turing machines, basic definitions and its relation to the notion of an algorithm/program. Power of Turing Machines and the Church-Turing Thesis. Indecibilidade: Universal Turing Machines; limitations on our ability to compute; undecidable problems. Complexity Theory: Time Complexity, Space Complexity, intractability.
+/
+Computers and Society I
+The scope of Ethics in computing, the importance of reasoning in making ethical decisions; Professional Codes of Ethics. The ACM Code of Ethics, the Unified IEEE-CS/ACM Code of Ethics for Software Engineering, a Method for ethical decision making in practical situations. Non-authorized access: what is considered hacking? Types of invasions, hacker´s motivations. Intellectual property: the importance of protecting intellectual property; intellectual property and the Codes of Ethics (ACM and Unified IEEE-CS/ACM), authorship rights, patents, business secrecy, reverse engineering, new technologies related with authorship rights. Ethics in the Internet: information freedom, electronic messages, habeas-data and privacy. Internet privacy issues, privacy in telecommunications – cryptography. Security critical systems. Denouncement. Professional Ilnesses in Computing, Professional Career Management.
+/
+Artificial Intelligence
+História da IA. Caracterização dos problemas de IA. Algumas aplicações de IA: PLN, robótica, etc. Introdução à programação lógica. Métodos de busca para resolução de problemas: busca cega e informada. Busca com adversários: análise de jogos com minimax e poda alfa-beta. Formalismos de representação de conhecimento e inferência: lógica, redes semânticas, frames, scripts, regras de produção. Sistemas baseados em conhecimento. Aprendizado de máquina: noções gerais, tipos e paradigmas de aprendizado. Introdução a técnicas simbólicas de aprendizado de máquina: árvores de decisão e regras de classificação. Introdução a técnicas estatísticas de aprendizado de máquina: naive-bayes.
+/
+Mathematical Programming
+Definition of mathematical programming problems. Introduction to modeling linear optimization problems with continuous variations. Graphical representation and graphical solution of linear optimization problems with ​​continuous variables. Linear programming theory. Extreme points, vertices and basic solutions. Degeneration. Or simplex method: optimality and development conditions. Find a basic viable solution upfront. Cycling. Optimization applications with various integers, problem types and model building. Introduction to model relaxation: Linear relaxation; Lagrangian and Combinatorial. Branch-and-Bound Method. Principle of the method of cutting planes and pre-processing. Introduction to heuristic methods: heuristics, metaheuristics and mathematics. Constructive heuristics. Local Search Methods: Descent and Maximum Descent
+/
+High Performance Computing
+Introduction to parallel computing: context and basic concepts; Parallel hardware for high performance computing: parallel architectures, hardware organizations affecting performance (processors, memories and interconnecting networks). Software design for high performance computing: programming models for the development of parallel applications, tools for the development of parallel applications (compilers, libraries and standards), scheduling of processes. Development of parallel applications: case studies. Performance evaluation of high performance computing systems: metrics and methodologies. Testing of parallel programs: concepts, techniques and tools.
+/
+Programming Language and Compilers
+Introduction to Programming languages - languages evolution, paradigms, programming methods, data types. Basic Concepts of compilation: compilers and related programs (interpreters, pre-processing tools, loaders, etc.), one-pass and multi-pass compilers, types of compilation (bootstrapping, cross-compiling, etc.) and compiler compilers. Lexical analysis and techniques for implementing scanners based on finite automata, compiler compilers and ad hoc. Syntactic analysis: top-down and bottom-up and implementation of Predictive Parsers using manual techniques and automatic generators. Semantic analysis and table symbols. Lexical, Syntactical and Semantic error recovery and notification. Concepts of intermediary code generation and optimization. Object code generation. Definition of a simple imperative language and implementation of a compiler for a hypothetical machine.
+/
+Computer Graphics
+Origin and goals of computer graphics. Raster versus vector devices. Input and output devices. Graphical systems and equipments. Raster conversion algorithms and graphical primitive filling. 2D or 3D geometry transformations: homogeneous coordinates and transformation matrices. Change of 2D and 3D coordinate systems. Clipping techniques. Parallel and perspective projection transformations. Virtual camera. Concepts of geometric modeling. Polyhedral models and polygon meshes. Rendering process: light sources; lighting and shading models: flat, Gouraud and Phong. Surface and line removal. Texture mapping. Antialiasing techniques.
+/
+Information Systems
+integrated enterprise applications. The strategic role of IS in organizations. Fundamentals of organization theory. Organizational Implications of IS. Ethical and social issues related to IS in organizations. IT infrastructure management. Decision making and decision support systems.
+/
+Security Engineering
+Concepts: threats, attacks, and resources; principles and strategies; ethical hacking. Cryptography: symmetric coding for confidentiality; message authentication; coding with asymmetric keys; steganography. Authentication: user authentication principles; keywords, tokens, biometrics; remote authentication. Access control: users, objects, and access rights; set of access rights (roles); control based on access attributes; identity, credential, and access control. Security in databases: SQL attacks (injection); access control; encryption in databases; inference on data; security in cloud computing. Malicious software: types; persistent threats; viruses, worms, spam, trojan, keyloggers, phishing, spyware, backdoors, among others; counterattack. Attack for denial of service: flooding, distributed attacks, defense and response mechanisms. Firewalls: characteristics and access policies; types; configuration. Internet governance: definitions and clarifications on internet governance. Case studies carried out in practical classes.
+/
+Distributed Computing Systems
+Historical evolution and introduction to basic concepts; Architectural models: client-server, peer-to-peer, ad-hoc and others; Communication and coordination models: shared and distributed memory; Distributed applications projects: methodologies of design and development of distributed applications. Definition and characteristics of the components of a distributed system: front-ends, back-ends, brokers. Use of distributed databases as support for distributed applications; Platforms for the development of distributed applications; Case studies such as: distributed file systems, distributed application servers, use of large volumes of open data collected from government servers, problems related to communication and synchronization of distributed applications.
+/
+Supervised Professional Practice I
+Supervised Professional Practice I
+/
+Scientific Methodology for Computer Science Research
+Introduction of basic elements of the scientific procedure: question-problem, theoretical background, hypotheses, empirical methods, conclusions. Characteristics of the Computer Science area: research types (quantitative vs. qualitative research), research topics, publication types and their impact, publication forums, funding sources and agencies, intellectual property, plagiarism, scientific societies, and other topics directly related to research . Scientific writing: techniques and tools. Current researches in Computer Science. Presentation and discussion of the student’s projects.
+/
+Advanced Algorithms Laboratory I
+Advanced algorithms with emphasis in algorithm design paradigms and problem solving treatment: data structures; trees and graphs; string processing; arithmetic and algebra; combinatory analysis; number theory; sorting; greedy algorithms.
+/
+Advanced Algorithms Laboratory II
+Emphasis is placed on fundamental algorithms and advanced methods of algorithmic design, analysis, and implementation. Techniques to be covered include backtracking, divide-and-conquer, dynamic programming, control flow graph, strings (matching), geometry and computational geometry.
+/
+Introduction to Digital Games Development
+Introduction to digital games, history, evolution, systematic, genres and state-of-the-art industry. Study of methodologies, development and documentation of a game project. Characteristics of hardware, software, technologies and tools. Architecture concepts, game engine and its components: physics engine, graphics rendering, animation, audio and scripting languages. Artificial intelligence techniques for games, multimedia and resources handling. Data structures and typical elements of games, concepts of scene and world. Real time simulation: input control, physics collision and computer graphics.
+/
+Infrastructure for High Performance Computing and Distributed Systems
+The importance of the infrastructure for distributed computing: context, motivation and essential concepts; Case studies of platforms for high performance computing; Visits to computers centers hosting such infrastructures: to meet professionals to learn about hardware and software used currently; Design, installation and setup of a distributed infrastructure: to make a basic infrastructure for distributed computing, evolving aspects of hardware and software, mainly that one learned in computer architecture, operating systems, computer networks, high performance computing and distributed systems; Execution of parallel and distributed applications on a distributed infrastructure; Performance evaluation of infrastructures: metrics and methodologies.
+/
+Data Analytical Processing
+Introduction to the concepts of analytical data processing: definition of data warehousing, data warehousing and OLAP (online analytical processing), differences between analytical processing and transactional processing, characteristics and organization of data warehouse data, data environment architecture warehousing. Multidimensional data modeling: static and dynamic aspects. Representation of the multidimensional data model in relational structures. Practical examples of multidimensional data modeling. Materialized views: concept, identification of which views to materialize, update and use in OLAP queries. Data warehousing tools.
+/
+Architecture of Database Management Systems
+Introduction to the concepts and to the theory of transaction processing. Concurrency control techniques: two-phase commit protocol and other techniques. Fail recovery techniques: undo/redo algorithm. Query processing and optimization algorithms. Distributed databases: concepts, fragmentation, replication and data allocation techniques, types of systems, query processing, concurrency control, and recovery. Fine tuning: concepts, databases physical design, and file-indexing structures.
+/
+Image Processing
+Origin and objectives of image processing. Computer vision fundamentals and relationship with human vision. Devices and image acquisition. Quantization and Sampling. Color systems. Gray level transformation techniques. Smoothing. Edge sharpening. Frequency domain transforms: Fourier. Image segmentation. Image analysis: feature extraction and notions of representation and classification.
+/
+Human Computer Interaction
+Introduction to the human-computer interaction foundations. Development of interaction interfaces and devices. Design principles. Requirements elicitation techniques. Human aspects. Technological aspects. Prototyping techniques. Usability engineering life cycle. Usability principles and heuristics. Usability evaluation. Interface patterns. Project development for building and evaluating interfaces.
+/
+Multimedia
+Multimedia basics definitions. Introduction to digitalization and compression of different media types: text, audio, image, graphics, video and animations. Aspects of capture, storage and transmission of different media types. Multimedia standards to data coding and transmission. Tools and languages to multimedia applications development.
+/
+Ethics and Law for Informatics: Theory and Practice
+Computer Legislation. Software. Tecnologic innovation. Microelectronics and Digital TV. Digital inclusion. Internet and Information Security. Tax Guidance for the Information Technology and Information Technology Sector. Introduction to project preparation. Preparation of a project.
+/
+Neural Networks and Deep Learning
+Definition of connectionist models. Learning in connectionist models: supervised, unsupervised, and competitive learning. Basic architectures: Perceptron, Adaline, Multi-Layer Perceptron, RBF Networks. Deep learning: convolutional architectures (CNN),encoder-decoder, adversarial networks, transfer learning, recurrent networks and attention models. Self-organization systems: PCA, LDA and Kohonen network. Associative Memories: Hopfield Networks. Applications.
+/
+Machine Learning
+Basic Aspects of Machine Learning; Learning tasks; Inductive bias; descriptive learning; Predictive learning; Machine Learning Algorithms; Algorithms that follow different paradigms, including search-based algorithms (decision tree and rule set induction algorithms, artificial neural networks (perceptron and multilayer perceptron) and probabilistic models (logistic regression and naive Bayes); of Machine Learning.
+/
+Recommender Systems
+History and terminology. Basic concepts: assessments, predictions, recommendations and taxonomy. Collaborative recommendation: memory-based and model-based. Content-based recommendation: representation, similarity-based and ranking-based. Knowledge-based recommendation: representation, inference, based on constraints and examples, interaction mechanisms. Hybrid recommendation: strategies and concepts. Reviewer assessment: assessment metrics, offline and online assessment, experimental design and decision models. Advanced topics: security and privacy, interpretability, diversity and novelty, socialization and ubiquity.
+/
+Natural Language Processing
+Overview of the Natural Language Processing (NLP) area and its relationship with Computer Science and Linguistics areas. History of the area and its main landmarks. Levels of linguistic representation and processing: phonetics and phonology, morphology, syntax, semantics, discourse and pragmatics. Familiarization and practice with NLP resources, tools and applications. Approaches and paradigms for solving NLP problems. Corpus construction and annotation. Design and development of a NLP computational prototype. Presentation of current relevant NLP topics, as well as associated models and methods.
+/
+Complex Networks
+Introduction and motivation. Representation of complex networks. Measures for topological characterization of complex networks: degree, clustering coefficient, number of cycles, shortest path length, motifs, centrality measures, spectral measures, hierarchical measures, fractal measures, community structure. Models and algorithms for generation of networks: random graphs, small world model, scale-free networks, hierarchical networks, and configuration model. Weighted networks. Spatial networks. Methods for community identification. Dynamical processes in complex networks: random walks, failures and attacks, cascade failures, communication and jamming, epidemic spreading, opinion formation, synchronization and collective behavior. Optimization in complex networks: flow optimization and resilience. Search in networks and navigation. Generating function. Algorithms: page-rank, betweenness centrality, community detection, synchronization, cascade failures, random walks. Applications: social networks, Internet, World Wide Web, bioinformatics, brain, road networks, language, image processing, pattern recognition. Classification of complex networks.
+/
+Computational Statistics
+1. Robust measures of location and scale. 2. Pseudo-random numbers and applications. 3. Resampling methods: bootstrap and jacknife. 4. Numerical optimization: Newton-Raphson methods, Fisher score and quasi-Newton methods. 5. The EM algorithm. 6. Markov chain Monte Carlo methods: the Gibbs sampler and the Metropolis-Hastings algorithm. 7. Notions of robust regression.
+/
+Special Topics on Hardware
+Special Topics on Hardware
+/
+Cloud Computing and Service-Oriented Architecture
+Scope of cloud computing and service-oriented architectures: context, motivation, goals, concepts and resources. Cloud Computing definitions: Cloud Computing general approach and its applicability for distributed applications development. Categories of cloud computing: software, platform, infrastructure as a service, and others. Service-Oriented Architecture definitions - SOA and Web Services: introduction to the architectural model, setup, configuration and development of service-oriented applications. Deployment of cloud applications. General principles and types of virtualization: introduction, characteristics and types of virtualizers, advantages and disadvantages. Resource management in the cloud: challenges and solutions that involve scheduling, provisioning and migration of resources in the cloud. Development and performance evaluation of distributed cloud applications: Tools, models and techniques for development of cloud applications. Performance evaluation in cloud environments
+/
+Mobile Robots Programming
+History and evolution of mobile robots. Description and analysis of properties of the most commonly used sensors and actuators for mobile robots. Control Architectures for mobile robots. Mobile robots: algorithms for path planning, obstacle avoidance, autonomous navigation and multiple robot cooperation. Robotic frameworks and tools: using simulators and tools for real mobile robots programming and control (e.g. Player/stage, ROS). Practical design, implementation and test of algorithms for robot navigation, using simulators and/or real robots, applied to classical mobile robots tasks and problems.
+/
+Autonomous Mobile Robots
+Provide theoretical concepts and practical aspects related to the autonomous mobile robots field, focused into the design of robot control and navigation systems. Present design models of intelligent control and navigation systems for mobile robots and autonomous systems. The main goal is to study, design, implement and test intelligent control algorithms into simulated and real mobile robots, applied into practical tasks, as for example: mapping, path planning, navigation with obstacle avoidance, pick up and collect objects.
+/
+Software Testing and Inspection
+Quality software and VV & T. Errors in the software development life cycle. Strategies for V&V: static analysis: inspections, walkthroughs and tools for static analysis; dynamic analysis and formal verification. Terminology and basic concepts on testing. Test in the life cycle: test phases. Software testing techniques: functional testing, structural testing and error based testing. Software testing strategies. Test planning. Debugging, maintenance and regression testing. Testing and validation of the behavioral aspect of software systems. Tools for software testing. Definition and conduction of an experiment and case studies. Evaluation
+/
+Software Architecture
+Overview of software architectures: definitions, goals and relevance. Process for building software architecture. Methods and techniques for representing software architectures, including architectural vision and architectural description languages. Methods for evaluating software architectures. Tool to support the construction, representation and evaluation of software architectures. Software architecture in the software industry. Research perspectives on software architecture.
+/
+Embedded Systems
+Introduction to Embedded Systems; study of the main features of the computing elements of type DSP (Digital Signal Processing), FPGAs and ASICs aimed at embedded applications; a survey of the limitations and capabilities of the hardware and software of these elements for the implementation of embedded systems; methodologies to compare results between the different technologies; networks in real-time systems, message scheduling, considerations of communication event/time, impact of the physical media, network topologies and media access control.
+/
+Development of optimized code
+Code optimization techniques: techniques independent on processors, techniques dependent on processors, detection of hot spots, profiling: objectives, methodologies and tools. Application speedup: simple optimization; optimization in compiling; code vetorization; optimized libraries; optimization of data access. Development of secure code: buffer overflow prevention; prevention by string formatting; prevention by integer overflow. Development of reliable code: practice for developing reliable code.
+/
+Introduction to Intelligent Systems
+Characterization of intelligent systems. Introduction to knowledge-based systems. Learning paradigms: symbolic, fuzzy, connectionist, genetic and probabilistic. Case-based reasoning. Hybrid systems. Knowledge discovery in database: data mining.
+/
+Data Mining in Large Databases
+Introduction to the concepts of the knowledge discovery process. Data preparation techniques. Data reduction techniques. Data mining tasks and techniques: classification, regression, cluster detection, association rule discovery, summarization, dependency modeling, trend and exception detection. Data visualization concepts and techniques. Visual data mining. Examples of data mining in specific domains, such as: bioinformatics, geographic information systems, image databases, textual document databases, multimedia databases, Web systems, spatiotemporal databases, systems based on data streams. Data Mining Tools
+/
+Content-based Information Retrieval
+Problem definition and concepts. Algorithms for extracting features from complex data. Data management in domains that do not define order relation: images, video, audio, time series, transactional and synchronic series, genetic information, etc. Similarity search definition: range query, and k-nearest-neighbors query. Metric access methods, search algorithms, and methods to deal with the curse of dimensionality. Selectivity estimation and computational cost for data processing and retrieval. Advanced techniques for data retrieval in special applications: data mining, data warehouse, OLAP, decision support, etc
+/
+Computater Vision
+Introduction: scientific, information, and software visualization. Problems and limitations of visualization. Using the computer to data analysis. Basic techniques of visualization: techniques classification and data. Visualization taxonomies. Discussions about the differences between scientific and information visualization. Organization and data types in visualization. Volume visualization techniques. Surface-based volume visualization techniques. Vector visualization. Multidimensional data visualization: registers, text, temporal series, images and other. Associations and examples of visualization with data mining (visual data mining). Alternative techniques for data representation: glyphs, sound, texture, virtual reality and other. Visualization systems. Introduction to a visualization system. Examples and practice.
+/
+Introduction to Computational Geometry: algorithms and applications
+Basic geometric concepts such as duality, computational models and lower bounds. Convex Hull: properties and algorithms. Arrangements: combinatory and arrangements, the zone theorem, sweep algorithms, Davenport-Schinzel sequences. Proximity problems: Voronoi diagrams and Delaunay triangulation. Geometric searching: point location in collections of hypersurfaces, fractional cascading. Random sampling. Minimal distances and visibility problems. Robot motion planning: sums of Minkowski, cell decomposition, movement with 2 and 3 degrees of freedom. Competitive programming problems: design of programming libraries for points, circles, triangles and quadrilaterals
+/
+Introduction to Bioinformatics
+Review and analysis of molecular biology sequences. Ontologies in Bioinformatics, Annotation, Gene Ontology. Gene Recognition. Sequence Alignment. Variation within and between species. Natural Selection at Molecular Level. Phylogenetic Analysis. Comparison of Genomes. Analysis of Gene Expression. Identification of regulatory sequences. Repositories and Tools Available on the Web
+/
+Intelligent Mobile Robots
+Introduction to Bio-inspired algorithms, Potential Fields and modifications, Q-learning algorithm. Control of multiple robots with application to robots soccer. The USPDroids Team. Human-Robot Interactions. Humanoids: a case study: the robot NAO. Applications using simulators and real robots.
+/
+Introduction to Data Science
+Data Science; Knowledge Discovery in Databases; Data Mining, Data Preparation, Data Pre-processing; Data modeling; Study of simple predictive algorithm (k-NN), Design of experiments; Analysis of experimental results.
+/
+Data Science Competitions
+Data Science Competitions
+/
+Accessibility in Computer Systems
+Accessibility in Computer Systems and the ISO 9241-171 standard. Accessibility legislation and implications for computer systems. Physical and psychological aspects of physical and cognitive impairments and implications for computational systems. Assistive Technology Concept for People with Disabilities. Inclusive design principles. Techniques for designing accessible computer systems and assessing the accessibility of computer systems.
+/
+Computational Resources for Assistive Technology
+Computational Resources for Assistive Technology
+/
+Introduction to Semantic Web
+Introduction to Semantic Web
+/
+Time Series Analysis and Computational Applications
+Definition of Time Series. Statistical Tools: autoregressive model, moving averages model, autoregressive and moving averages model, identification of ARIMA models. Dynamic Systems Tools: Whitney and Takens Immersion Theorems, Phase-Space Reconstruction. Modeling and Prediction using Machine Learning tools in conjunction with the theories discussed.
+/
+Complex Network Mining
+Mathematics of networks: representation, adjacency matrix, weighted networks, directed networks, paths, components, Laplacian, random walks. Measures and metrics: degree, eigenvalues, Katz, PageRank, hubs, closeness, vertex groups, transitivity, reciprocity, structural similarity, homophily and assortativity. Large-scale structure: shortest paths, degree distribution, scale-free networks, small-world model, other models. Mining of complex networks: main eigenvector and eigenvector centrality, graph and network partitioning, Kernighan-Lin algorithm, spectral partitioning, modularity maximization, modularity maximization using spectrum, Walktrap method, Edge-Betweenness method, other detection methods communities. Link prediction: problem and evaluation metrics, prediction based on local similarity, prediction based on global similarity, prediction based on near-local index, advanced models, applications in network reconstruction.
+/
+Unstructured Data Mining
+Unstructured Data Mining
+/
+Advanced Topics in Computer Science II
+Advanced Topics in Computer Science II
+/
+Time Series Analysis and Dynamical Learning
+1. Time series: concepts, smoothing, trend, seasonality and exponential smoothing. 2. Stationary processes. 3. Autocovariance and autocorrelation functions. 4. Models: ARMA, ARIMA,SARIMA. 5. Identification. 6. Estimation. 7. Forecast. 8. Diagnostics. 9. Indexing similarity/dissimilarity, clustering, summarization, segmentation. 10. Structural models: Bayesian state space and forecast.
+/
+Regression Models and Supervised Learning II
+Supervised versus Unsupervised Learning. Generalized linear models: Definition. Deviance function. Methods of estimation. Hypothesis testing. Diagnostic techniques. Applications: Generalized linear models versus Classification. Logistic Regression: Classical methods. Linear Logistic regression. Dose-response models. Diagnostic techniques. Selection model. Applications. Poisson regression: Classical methods. Log-linear Models. Classification of Models. Multiple Logistic Regression. Applications. Quasi-likelihood methods: Definition. Estimation and tests. Applications. Evaluation of the predictive capacity of the models. Bias-variance trade-off.
+/
+Project Management
+Project Management
+/
+Intelligent Sensors
+Concepts and practical implementation of intelligent sensors and actuators systems. Applications of intelligent sensors into robotic tasks. Implementation of algorithms for data acquisition, estimation, filtering and classification. Hybrid systems used for processing sensor data. Practical application of decision making systems based on estimated/processed sensor data. Practical activities using sensors/actuators hardware and software into computer laboratory classes.
+/
+Evolutionary systems applyied to robotics
+Introduction to systemic view. Types of evolutionary systems. Systems modeling techniques and direct, indirect and mixed representations. Major evolutionary algorithms in the literature. Real-world applications (financial market, bioinformatics, task scheduling and production planning in industries) and robotic (automated synthesis system as antennas, controllers, test and verification of microprocessors, signal processing, computer vision and navigation robots).
+/
+Software Enginnering for Embedded Systems
+Overview of Software Engineering, History of Embedded Systems, features and basic concepts, software development for embedded systems (requirements engineering, modeling, aspects of implementation, validation, verification and testing), dependability, security, support in run time (configuration and reconfiguration, mobility, location awareness), development of a project.
+/
+Advanced Learning Technologies
+Basic knowledge about instructional theories, educational theories and theories of human learning. Educational Software Engineering (methods and processes for development of educational systems, product lines for authoring content, etc.). Distance Education. Computer-Supported Collaborative Learning (CSCL). Learning objects. Serious games Gamification in education. Mobile and ubiquitous learning (m-learning). Usability and IHC for educational systems. Educational data mining and learning analytics. Intelligent tutoring systems. Artificial Intelligence in Education. Social Web, linked data and Semantic Web (e.g ontologies) in Education. Affective computing in educational systems. Technology and social entrepreneurship. Scientific research methodology for designing, implementing and assessing educational software.
+/
+Software Reuse
+This course offers to the students an introduction to the general concepts related to software reuse. Several techniques, methods as well as specific tools for supportting reuse are discussed, including component-based development, aspect-oriented software development, software product lines, application generators, service-oriented architecture, model-driven development and system-of-systems
+/
+Design and Implementation of Embedded Systems I
+System design from Hardware Description Languages (VHDL, Verilog) and Finite State Machine for Field-Programmable Gate Array (FPGA) devices. Hardware/Software Co-design for System-on-Chip (SoC) considering hardware reuse by IPs and Cores. Electronic Design Automation (EDA) tools for FPGAs are used. This study takes into account concepts related to software engineering; clock synchronization; communication protocol; scheduling; Real Time Operating System (RTOS); fault tolerance; sensors and actuators programming; distributed systems; simulation, validation, and verification
+/
+Distributed Computation
+Review and practical application of the concepts of Distributed Computing Systems and Concurrent Programming.
+/
+Real-time Computer Systems
+Introduction to the concept of real-time, specification of temporal requirements, categories of temporal constraints, time measurement, scheduling algorithms, real-time computer applications. Real-time operating systems, software and hardware, classical algorithms, analytic and non-analytic approaches to the analysis and design of real-time computer systems
+/
+Mobile Networks
+Mobile Networks
+/
+Laboratory on Security Engineering
+Case studies (laboratory exploitation of techniques and countermeasures) - IPSEC-Racoon Laboratory; Portscan Laboratory; HoneyPot Laboratory; Snort Laboratory; Squid Proxy Laboratory; Proxy Lab. Attack Techniques and Countermeasures: Introduction to Fault Scan; Vulnerable service exploit - vsFTPd; Privilege Escalation - Buffer Overflow; Heap Overflow; Exploring Web Applications; Pentest; BlueBorne vulnerability.
+/
+Internet of Things
+Introduction to the Internet of Things: Concepts, History, Key Technologies, Architectures, Applications, Evolution; Introduction to BigData: Introductory Principles and Their Properties. Concepts related to the variety, volume and speed of data access. Infrastructure and techniques for extracting large volumes of data. Web tools to remotely analyze data; Introduction to Cloud Computing: Introducing Key Concepts of Cloud Computing, considering both theoretical and practical aspects; Sustainability and Digital Technologies: Concepts, Challenges, Green Data Center, Social and Financial Aspects; Requisites and Infrastructure for IoT (Hardware and Software): Methodologies for specification, design and execution. Introduction to Embedded Systems. Control of Electronic Systems over the Internet. Middlewares for IoT; Networks of Sensors and Communication Technologies: Introduction to WSN concepts; Tracking Technologies: Introduction to tracking and its techniques, applications and services; Application Development for IoT: Present market solutions in several areas, including the public (health, education, heritage) and private sector: logistics, energy, etc. Study of real cases of systems developed in the world. Discussions about planning an application involving the above areas; Performance Evaluation of Computational Systems for IoT: Experiment Planning, Configuration of the Environment, Execution of Experiments and Analysis of Results
+/

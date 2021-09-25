@@ -17,9 +17,12 @@ from torch.utils.data import Dataset
 from Loader.emb_loader import Embedding
 
 from pytorch_metric_learning.distances import CosineSimilarity
+from torch import nn, Tensor
+from torch.nn import TransformerEncoder, TransformerEncoderLayer
 from pytorch_metric_learning.reducers import ThresholdReducer
 from pytorch_metric_learning.regularizers import LpRegularizer
-import hiddenlayer as hl
+import math
+#import hiddenlayer as hl
 
 class ConcatDataset(torch.utils.data.Dataset):
     def __init__(self, *datasets):
@@ -32,17 +35,6 @@ class ConcatDataset(torch.utils.data.Dataset):
 
     def __len__(self):
         return min(len(d) for d in self.datasets)
-
-class Net_M(torch.nn.Module):
-
-    def __init__(self, D_in, D_out):
-        super(Net_M,self).__init__()
-        self.linear1 = torch.nn.Linear(D_in, D_out)
-
-    def forward(self, x):
-        x = self.linear1(x) 
-        return x
-        #return f.normalize(x,dim=0,p=2)
 
 class Net_A(torch.nn.Module):
 
@@ -106,59 +98,77 @@ class Net_F(torch.nn.Module):
         
         return X
 
-class Net_F2(torch.nn.Module):
 
-    def __init__(self, D_in, D_out):
-        super(Net_F2, self).__init__()
-        self.linear1 = torch.nn.Linear(100,1)
-        self.linear2 = torch.nn.Linear(768,100)
-        self.linear3 = torch.nn.Linear(128,100)
-        self.softmax = torch.nn.Softmax(dim=1)
-        
-    def forward(self, x):
-        glove_emb = x[0]
-        word_emb  = x[1]
-        bert_emb  = x[2]
-        cbert_emb = x[3]
-        lbert_emb = x[4]
-        mbert_emb = x[5]
-        abert_emb = x[6]
-        bert_emb  = self.linear2(bert_emb)         
-        cbert_emb = self.linear2(cbert_emb)
-        lbert_emb = self.linear2(lbert_emb)
-        mbert_emb = self.linear3(mbert_emb)
-        abert_emb = self.linear3(abert_emb)
+class PositionalEncoding(nn.Module):
 
-        scalar_glove = self.linear1(glove_emb)
-        scalar_word  = self.linear1(word_emb)
-        scalar_bert  = self.linear1(bert_emb)
-        scalar_cbert = self.linear1(cbert_emb)
-        scalar_lbert = self.linear1(lbert_emb)
-        scalar_mbert = self.linear1(mbert_emb)
-        scalar_abert = self.linear1(abert_emb)
-        scalars      = torch.cat([scalar_glove, scalar_word, scalar_bert, scalar_cbert, scalar_lbert, scalar_mbert, scalar_abert],axis=1)
+    def __init__(self, d_model: int, dropout: float = 0.1, max_len: int = 5000):
+        super().__init__()
+        self.dropout = nn.Dropout(p=dropout)
 
-        X = torch.stack((glove_emb, word_emb, bert_emb, cbert_emb, lbert_emb, mbert_emb, abert_emb),axis = 2)
-        X = torch.transpose(X,1,2)    
-        alphas       = self.softmax(scalars) #(bs,3)
-        
-        X   = torch.mul(X,torch.unsqueeze(alphas,2)) #( numero curriculas, numero maximo de cursos, 768)
-        X   = torch.sum(X,axis=1)
+        position = torch.arange(max_len).unsqueeze(1)
+        div_term = torch.exp(torch.arange(0, d_model, 2) * (-math.log(10000.0) / d_model))
+        pe = torch.zeros(max_len, 1, d_model)
+        pe[:, 0, 0::2] = torch.sin(position * div_term)
+        pe[:, 0, 1::2] = torch.cos(position * div_term)
+        self.register_buffer('pe', pe)
 
-
-        
-        
-        return X
+    def forward(self, x: Tensor) -> Tensor:
+        """
+        Args:
+            x: Tensor, shape [seq_len, batch_size, embedding_dim]
+        """
+        print(x)
+        x = x + self.pe[:x.size(0)]
+        return self.dropout(x)
 
 
 
-def train_model(epochs, dataloader, validloader, tam, dim_out, MO):
+class TransformerModel(nn.Module):
+
+    def __init__(self, ntoken: int, d_model: int, nhead: int, d_hid: int, nlayers: int, dropout: float = 0.5):
+        super().__init__()
+        self.model_type = 'Transformer'
+        self.pos_encoder = PositionalEncoding(d_model, dropout)
+        encoder_layers = TransformerEncoderLayer(d_model, nhead, d_hid, dropout)
+        self.transformer_encoder = TransformerEncoder(encoder_layers, nlayers)
+        self.encoder = nn.Embedding(ntoken, d_model)
+        self.d_model = d_model
+
+        self.init_weights()
+
+    def init_weights(self) -> None:
+        initrange = 0.1
+        self.encoder.weight.data.uniform_(-initrange, initrange)
+
+    def forward(self, src: Tensor):#, src_mask: Tensor) -> Tensor:
+        """
+        Args:
+            src: Tensor, shape [seq_len, batch_size]
+            src_mask: Tensor, shape [seq_len, seq_len]
+
+        Returns:
+            output Tensor of shape [seq_len, batch_size, ntoken]
+        """
+        print(src.shape)
+        src = src.type('torch.LongTensor').cuda()
+        src = self.encoder(src) * math.sqrt(self.d_model)
+        src = self.pos_encoder(src)
+        #output = self.transformer_encoder(src, src_mask)
+        return src
+
+
+def train_model(epochs, dataloader, validloader, tam, dim_out, MO, mode):
+
+    print(MO)
+
 
     best_lr   = 0
     best_loss = np.inf
     for lr in [0.1, 0.01, 0.001, 0.0001, 0.00001]:
-        print(lr)
-        model = MO(tam, dim_out)
+        if mode == 'T':
+            model = MO(498,768,1,100,1)
+        else:
+            model = MO(tam, dim_out)
         if torch.cuda.is_available():
             model = model.cuda()
         model.train()
@@ -192,8 +202,12 @@ def train_model(epochs, dataloader, validloader, tam, dim_out, MO):
 
     #best_lr = 1e-5
 
-    print(best_lr)
-    model = MO(tam, dim_out)
+    if mode == 'T':
+        model = MO(498,768,1,100,1)   
+    else:
+        model = MO(tam, dim_out)
+      
+
     if torch.cuda.is_available():
         model = model.cuda()
     model.train()
@@ -244,14 +258,16 @@ def train_model(epochs, dataloader, validloader, tam, dim_out, MO):
     #plt.show()
     return best_model, optimizer
 
+
+
 def main():
 
 
     parser = argparse.ArgumentParser(description = 'Curriculas')
-    parser.add_argument("--model",default="bert")
-    parser.add_argument("--mode",default='AF2')
-    parser.add_argument("--epochs",default=2000)
-    parser.add_argument("--batch",default=64, type=int)
+    parser.add_argument("--model",default="bert_curso")
+    parser.add_argument("--mode",default='T')
+    parser.add_argument("--epochs",default=1000)
+    parser.add_argument("--batch",default=2, type=int)
     parser.add_argument("--dim_out",default=512, type=int)
     parser.add_argument("--repetitions", default = 10)
     args = parser.parse_args()
@@ -261,12 +277,12 @@ def main():
     os.system('mkdir -p Embeddings')
 
 
-    modes = {'ML':Net_M,'AF':Net_A,'AF':Net_F, 'AF2':Net_F2}
+    modes = {'N':Net_A,'AF':Net_F, 'T':TransformerModel}
 
 
     for seed in range(args.repetitions):
 
-        if args.mode  == 'N':
+        if args.mode  == 'N' or args.mode == 'T':
 
             train_data = Embedding(model=args.model, sample='train')
             valid_data = Embedding(model=args.model, sample='valid')
@@ -274,34 +290,8 @@ def main():
             train_loader = DataLoader(dataset=train_data, batch_size=args.batch, shuffle=True)
             valid_loader = DataLoader(dataset=valid_data, batch_size=args.batch, shuffle=True)
 
-        elif args.mode == 'AF2':
+            print(train_data.X.shape)
 
-            train_data_glove = Embedding(model='glove', sample = 'train')
-            print(train_data_glove)
-            valid_data_glove = Embedding(model='glove', sample = 'valid')
-
-            train_data_word = Embedding(model='word2vec', sample = 'train')
-            valid_data_word = Embedding(model='word2vec', sample = 'valid')
-
-            train_data_bert = Embedding(model='bert', sample = 'train')
-            valid_data_bert = Embedding(model='bert', sample = 'valid')
-
-            train_data_clbert = Embedding(model='cl_bert', sample = 'train')
-            valid_data_clbert = Embedding(model='cl_bert', sample = 'valid')
-
-            train_data_lmbert = Embedding(model='lm_bert', sample = 'train')
-            
-            valid_data_lmbert = Embedding(model='lm_bert', sample = 'valid')
-
-            train_data_mlbert = Embedding(model='ML_OP/ml_bert_128_64_'+str(seed), sample = 'train')
-            valid_data_mlbert = Embedding(model='ML_OP/ml_bert_128_64_'+str(seed), sample = 'valid')
-
-            train_data_albert = Embedding(model='AL/al_bert_curso_128_64_'+str(seed), sample = 'train')
-            valid_data_albert = Embedding(model='AL/al_bert_curso_128_64_'+str(seed), sample = 'valid')
-
-            train_loader = DataLoader(dataset=ConcatDataset(train_data_glove, train_data_word, train_data_bert, train_data_clbert, train_data_lmbert, train_data_mlbert, train_data_albert), batch_size=args.batch, shuffle=True)
-            valid_loader = DataLoader(dataset=ConcatDataset(valid_data_glove, valid_data_word, valid_data_bert, valid_data_clbert, valid_data_lmbert, train_data_mlbert, train_data_albert) ,batch_size=args.batch, shuffle=True)
-            
         elif args.mode == 'AF':
             train_data_glove = Embedding(model='glove', sample = 'train')
             valid_data_glove = Embedding(model='glove', sample = 'valid')
@@ -325,7 +315,7 @@ def main():
 
         torch.manual_seed(seed)
         M = modes[args.mode]
-        model, optimizer = train_model(args.epochs, train_loader, valid_loader, tam, args.dim_out, M)
+        model, optimizer = train_model(args.epochs, train_loader, valid_loader, tam, args.dim_out, M, args.mode)
 
         torch.save({
                 'epoch': args.epochs,
@@ -334,22 +324,12 @@ def main():
        
         if args.mode   == 'N': 
             all_data  = Embedding(model=args.model, sample='all_P')
-        elif args.mode == 'AF2':
-            data_glove = Embedding(model='glove', sample = 'all_P')
-            data_word = Embedding(model='word2vec', sample = 'all_P')
-            data_bert = Embedding(model='bert', sample = 'all_P')
-            data_clbert = Embedding(model='cl_bert', sample = 'all_P')
-            data_lmbert = Embedding(model='lm_bert', sample = 'all_P')
-            data_mlbert = Embedding(model='ML_OP/ml_bert_128_64_'+str(seed), sample = 'all_P')
-            data_albert = Embedding(model='AL/al_bert_curso_128_64_'+str(seed), sample = 'all_P')
-      
-            all_data = ConcatDataset(data_glove, data_word, data_bert, data_clbert, data_lmbert, data_mlbert, data_albert) 
+        
         elif args.mode == 'AF':
             data_glove = Embedding(model='glove', sample = 'all_P')
             data_word = Embedding(model='word2vec', sample = 'all_P')
             data_bert = Embedding(model='bert', sample = 'all_P')
 
-      
             all_data = ConcatDataset(data_glove, data_word, data_bert)
         
         

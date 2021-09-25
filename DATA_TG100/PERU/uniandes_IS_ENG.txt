@@ -1,0 +1,199 @@
+Cálculo Diferencial
+El curso aborda los temas de: funciones, límites y derivadas, aplicación de las derivadas e integrales
+/
+Diferential calculus
+The course addresses the topics of: functions, limits and derivatives, application of derivatives and integrals
+/
+Introduction to Programming
+The IP (Introduction to Programming) course presents the basic concepts of programming and teaches the student to solve problems by building computer programs. A program is "just" a set of instructions that tells a computer how to perform a task. However, finding the correct set of instructions can be quite challenging. For this, you need to learn how to divide a problem into smaller subproblems and find the solution for each of those subproblems. A large part of this course is dedicated to teaching students a way of thinking that allows them to build programs that solve interesting problems.
+/
+University Writing 1
+University Writing 1
+/
+Constitution and Democracy
+Constitution and Democracy
+/
+Space, Time, Difference
+Space, Time, Difference
+/
+Introduction to Systems Engineering
+The course forms in the basic concepts of Computer and Systems Engineering and provides information on some of the advanced areas of the career.
+/
+Physics 1
+Introduces the fundamental topics of classical mechanics: dynamics of translation and rotation of bodies, conservation laws, oscillations and gravitation.
+/
+Experimental Physics 1
+It allows to apply the topics of: Measurements and error calculation. Linear regressions. Kinematics in one dimension. Two-dimensional kinematics. Forces. Uniform circular motion. Potential energy (vertical launch). Collisions in two dimensions. Friction force. Rolling bodies without sliding. Acceleration of gravity. Simple harmonic movement. Mechanical waves on a rope.
+/
+Integral Calculus and Differential Equations
+The course addresses the topics of: basic techniques of integration in a variable and its applications to geometric problems posed in terms of curves; infinite series and basic techniques for solving differential equations
+/
+Data structures and algorithms
+In the ISIS-1225 course, our second programming course, you will analyze alternatives for the design and construction of data structures, which allow the storage and search of information, through the implementation of algorithms that comply with space-time restrictions
+/
+Structural Mathematics
+It teaches the basic concepts of discrete mathematics necessary for systems engineering. The course provides the student with a language to be able to formally describe models, reason about these formalisms, understand and develop demonstrations about the models.
+/
+Digital technologies
+Information and telecommunications technologies (ICT) are increasingly ubiquitous in our world. Despite using them every day, many times we do not take advantage of their full potential nor do we stop to reflect on it. This course seeks for students to recognize the ethical and social challenges and implications of the use of ICT. Starting from the history of computers and the Internet, we will review the rapid evolution of these technologies, focusing on some of those that have the greatest impact on society, such as artificial intelligence, the Internet of things and social networks. We will address ethical, social and legal aspects of these technologies around current debates such as security and hacking, fake news, free vs hate speech, responsibility in intelligent systems, dangers of social networks such as cyberbullying, information privacy, etc. The course is developed around four strategies: presentations by invited experts on the different topics, written reflections throughout the course on challenges and opportunities of technologies in the professional and personal life of each student, practical activities and debates on technologies and a group investigation.
+/
+Videogames as a cultural product
+This course seeks critical reflection about video games, understanding that this cultural product has implications that go beyond entertainment. Through critical and reflective analysis of particular video games, readings and class discussion, interdisciplinary dimensions such as relationships with technology, art, ethics and gender issues, among others, are studied. The uses of
+video games beyond entertainment, such as serious video games and alternate reality games.
+/
+The artificial man
+The imaginary Bionic Man is no longer a futuristic concept, since advances in science have allowed parts of the body to be generated or replaced based on technological advances. The objective of the course is to bring students closer to these scientific developments linking the social, ethical, psychological, economic, aesthetic and medical dimensions. To meet this objective, the course topics have been divided into blocks that group the topics of interest: aesthetic, sensory, cardiovascular applications, transplants and artificial organs, movement and robotics.
+/
+Introduction to computational thinking
+Computational thinking is a problem-solving process that includes the organization and analysis of data, the representation of said data through abstractions, models, and simulations, the identification and selection of the best solution to the problem, and the automation of the solution through clear and orderly actions.
+/
+Nanotechnology
+Nanotechnology is an area of ​​science and engineering where surprising properties of matter converge from a physical, chemical and biological point of view, promising new technologies ranging from space elevators to nano machines to detect and cure diseases in such areas. diverse like medicine, energy, sports, electronics and materials.
+/
+Physics 2
+It allows to study and apply the concepts, laws and principles of thermodynamics and electromagnetism.
+/
+Experimental Physics 2
+It allows to apply the topics of: Calculation of errors and linear regression. Latent heat of water. Thermal expansion of water. Electric field lines. Equipotential lines. Charging and discharging a capacitor in series and in parallel. Ohm's law. Magnetic field of a magnet. Biot-Savart's Law. Inductance. Electromagnetic induction. Polarization. Refractive index and total internal reflection.
+/
+Linear Algebra 1
+In the course the notions of: basic calculations of linear algebra, vector space, linear independence of vectors, dimension of a vector space and coordinates of a vector in a base are acquired.
+/
+Object Oriented Design and Programming
+In this course, students will develop skills to design and implement flexible and maintainable software, making explicit the design decisions and the methodologies involved. The course concentrates on object-oriented design, but it is intended that the skills that are developed are also useful for working with other paradigms or even in other engineering disciplines. In particular, the argumentation around the design decisions that are made, the analysis of the advantages and disadvantages of each decision, and the use of recognized principles and patterns will be very important. In this course, students will design programs and libraries and will face changing requirements during the process. In most cases, the processes will not end with the design, but will go all the way to the implementation and testing phases. To achieve this, students will learn to use a language with solid support for object-oriented programming (Java), in which they can appreciate the advantages that this programming paradigm brings to make the development of complex programs much easier.
+/
+Languages ​​and Machines
+The objective of this course is to teach the basic concepts of language theory through the formalisms used to describe languages ​​and the machines used to recognize them. It is intended to see the use of these machines in domains other than languages
+/
+Technological Infrastructure Fundamentals
+In this course, the basic architecture of a computer is studied: its components, their operation and interaction, as well as their characterization. The student is provided with the basic language, concepts and tools to analyze computing infrastructure in terms of reliability and performance.
+/
+English reading requirement
+English reading requirement
+/
+Cell Biology or Chemistry or General Chemistry
+Cell Biology or Chemistry or General Chemistry
+/
+Vector Calculation
+Scalar fields, vector fields and, in general, vector functions are defined from the concept of vector. Additionally, the main topics of infinitesimal calculus in various variables such as limits, derivatives and integrals are discussed.
+/
+IT in Organizations
+This course presents different forms of an organization (company, social group, formal or informal organization, etc., whether it is a provider of goods or services related to IT information technologies or a beneficiary of these goods or services), emphasizing IT as a fundamental element for articulate the organization with its environment and facilitate the achievement of its objectives.
+/
+Algorithm Design and Analysis
+Introduces students to the basics of algorithm design and analysis. In addition, it addresses the limitations of programming in terms of intractability of certain problems, reductions, NP completeness
+/
+Team SW Development
+The course allows you to gain practical experience through the development of a medium-sized project. For this, an iterative delivery process is used, supported by computational tools.
+/
+Transactional Systems
+The course studies the problem of persistence and shared access of large volumes of data in transactional systems. Special emphasis is placed on the information dimension of an enterprise architecture, relying on database technology in the technology dimension.
+/
+Decision and Investment Analysis
+Develops the necessary skills to identify, size and incorporate the key variables in the structuring and financial evaluation of investment projects. By taking this course, the engineer must be able to contribute his knowledge on the financial and economic evaluation of investment projects that are raised in multidisciplinary groups.
+/
+Probability and Statistics I
+It allows the student to identify and represent situations using discrete and continuous distributions in order to calculate and interpret probabilities and to verify some assumptions. Additionally, situations that behave with risk and uncertainty are modeled in order to analyze and quantify risk.
+/
+Enterprise Architecture
+The course is studying how to understand a complex organizational structure, in order to design a high-level IT architecture, which allows to support business objectives in the best possible way.
+/
+Computational Infrastructure
+The course studies the most important characteristics of the requirements of the computational infrastructure that supports the operations of a project or company, and the criteria that must be taken into account to choose it.
+/
+SW Architecture and Design
+The course develops skills in the areas of software architecture and design, relying on methodological tools such as architectural styles and patterns. Likewise, it is intended to develop the ability to use and understand the impact of technology on software architecture.
+/
+Product Design and IT Innovation
+Students define and develop innovation projects with computer technology. These projects have the ambition to be sustainable over time and competitive at an international level.
+/
+Regulated Elective in Engineering
+Policies regarding regulated electives are defined and updated periodically at the Faculty level.
+/
+Modeling, Simulation and Optimization
+The course provides the student with the tools and skills necessary to build, define, validate and improve models to solve complex problems with information technology. This will allow you to go through the entire process from interacting with a domain expert who has a problem, until a solution is presented to him in a way that he can understand, evaluate, and apply.
+/
+Business Systems
+Business Systems
+/
+Communications Infrastructure
+The course presents, under a top-down approach, the existing solutions to achieve the implementation of distributed applications, particularly in the context of the Internet. Through a tour of the layers of the TCP / IP stack, the problems associated with the use of these solutions are studied, mainly those that have to do with the performance and security of the applications.
+/
+Business intelligence
+The course studies different scenarios in the decision-making processes in organizations, the types of analysis and information required in each of them, the integration strategies and data structures that are used to support said analyzes, as well as some methodologies. , technologies and support tools.
+/
+Elective in Chemistry, Biology, Mathematics or Physics
+Policies regarding regulated electives are defined and updated periodically at the Faculty level.
+/
+Construction of Mobile Applications
+The course generates in the student the necessary skills to design and build computing solutions on mobile computing platforms. To do this, the particularities of these devices, the mobile computing infrastructure, the environments and the development process are studied.
+/
+Graduation project
+Graduation project
+/
+Visual analytics
+"Visual Analytics", or Visual Analytics, is the set of knowledge that allows us to use interactive visualization techniques with algorithms and data analysis methods, in order to support analytical reasoning for decision making. Visual Analytics is used in very diverse areas covering science, engineering, business, and government. We find examples of application areas in analysis and decision-making in urban systems, oil exploration, banking, security, emergencies and natural disasters, health monitoring for epidemic management, among others. We then find in the content of the course both theoretical bases of this interdisciplinary area, analysis of application cases, as well as the realization of mini-projects for the application of visual analytical techniques in real situations.
+/
+Mixed Reality Application Development
+We call mixed reality all those applications that combine unconventional hardware and software to create an interactive experience for one or more users. It includes more known types of applications such as Virtual Reality and Augmented Reality, in a continuum of types of applications that combine real information with information created by computer. The purpose of mixed reality is to create more natural experiences for the user, for various purposes such as entertainment, artistic or productive. This course seeks to train its students in the development of mixed reality applications, using the resources available in Colivri, the Collaborative in Interaction, Visualization, Robotics and Autonomous Systems, and with a deep knowledge of the potential of these applications, of the technologies in use and state of the art in the area.
+/
+Internet of things
+The Internet of Things (IoT) is a concept that describes the idea of ​​connecting physical objects to the internet in such a way that they are capable of exchanging information with each other and with servers. This concept allows creating new services where these IoT devices are integrated to allow from the monitoring to the control of complex systems. The development of IoT has generated a great impact on society, since it allows the automation of tasks to be extended, which is expected to lead, in the not too distant future, to greater efficiency, precision and, why not, economic benefits. This course will help students to develop competencies for the design of the Internet of Things systems infrastructure; including topics from data acquisition, communications architecture, its integration with Cloud and Fog Computing and some aspects of security in these systems.
+/
+Machine Learning Techniques
+The course addresses the fundamentals and techniques of machine learning, with an emphasis on artificial neural networks and deep learning. It also deals with how to effectively use learning algorithms in a variety of domains, taking into account the nature of the problem and the available computing resources.
+/
+Programming paradigms
+The course covers the fundamental theoretical and practical concepts of the different programming paradigms: logical, functional, object-oriented, exploring the strengths and weaknesses of each one.
+/
+Information, Security and Privacy
+The use and processing of information allows various organizations to develop or improve their processes. It is possible to identify new market niches, learn about customer habits to improve the user experience, support the development of public policies, etc.
+/
+Information project management
+Oriented to the understanding and solution of challenges associated with the stages of project development that include information management as the main axis and that allow the achievement of the objectives of an organization, These stages correspond to the identification of requirements, collection, storage, processing and communication of the necessary data in the definition, assembly and operation of the projects. Some of the main challenges are related to the management of heterogeneous, unstructured sources and with data governance, data quality and integration architectures.
+/
+Information Analysis on Big Data
+Develops skills related to infrastructure design, integration and analysis of massive amounts of information, relevant to the user and to the ecosystem of an organization, coming from various sources, such as mobile devices, Web, social networks, online data flows or cloud infrastructures. It focuses on the analysis of content and unstructured or semi-structured information under conditions of high scalability.
+/
+Applied Data Science
+The course focuses on data analysis in order to give them meaning to understand their nature and contribute to the context to which they belong through the use of modeling techniques, statistics and computational data analysis tools.
+/
+CSIRTs Management and Incident Management
+The purpose of this course is to obtain the necessary knowledge to carry out the management of computer security incidents, in order to maintain the operation of computer services, trying to minimize the negative impact that can be had on an organization in such a way that the quality of service and availability can be maintained. Taking into account that at the time of a security incident, digital investigations can be generated, which involve elements that lead to procedures for the collection, preservation, analysis and presentation of digital evidence.
+/
+Digital Customer Experience
+The objective of the course is to provide IT leaders with the tools to effectively support the digital transformation in their organizations, incorporating innovation processes and methodologies that allow to positively impact the customer experience, and increase the effectiveness of key technology enablement processes. .
+/
+New ICT Digital Business
+The objective of this course is to know, understand and apply emerging technologies for the generation of fundamentally digital business models. The course will address the study of recently available technologies, their operation and their application to enter new markets and create new business models. At the end of the course, students will understand the transformation of the business models of different industries towards digital models and the main technologies that allow the creation of value in them.
+/
+Project Management Offices
+All organizations exist with a mission. Larger organizations formally have clear mission definitions and strategies, but that does not mean that a small organization does not have a strategy or strategic objectives. Any strategy, formal or informal, can only become a reality thanks to the execution of projects that consolidate results and achieve the key goals and objectives defined by the organization. Therefore, it is imperative that projects are defined in such a way that they are aligned with the strategy and that when executing them they always maintain this alignment and its corresponding articulation within the plans, strategy, goals and objectives of the organization.
+/
+IT management and services
+The evolution of the economic environment in recent years has made IT managers and executives face two new challenges: on the one hand, leading the digital transformation of the organization through the definition and development of a portfolio of digital services that is financially viable and, on the other hand, reduce the time to satisfy the strategic and operational needs of clients through the agile provisioning of new digital services (which is known as reduction of Time to Market). In order to face these challenges, this course focuses on advanced concepts and new practices of service management and helps the student develop competencies for the strategic development of the service portfolio, understand the strengths and weaknesses of new agile practices and methodologies (Agile, DevOps, Cloud Sourcing and IT Service Brokering) and apply continuous management to improve the quality of services.
+/
+Entrepreneurship and e-commerce
+The Entrepreneurship and Electronic Commerce Course seeks to develop innovative technology-based entrepreneurship skills by incorporating electronic commerce into its business model; To do this, it will address the three dimensions of knowledge
+/
+Finance and strategic marketing
+This is a foundation course that focuses on fundamental financial and strategic marketing concepts; seeks to expand the framework of managerial skills in such a way that it strengthens the strategic decision-making process in students, and in this way allows them to be more efficient and effective when designing and executing IT projects.
+/
+Algorithms in computational biology
+The Algorithms in Bioinformatics course will allow you to know the main algorithms and techniques for the analysis of biological data that have served to understand the evolution and functioning of life on Earth and that are part of the research area that today is known as bioinformatics. The course is organized as a representative group of bioinformatics problems in which their biological motivation, their computational formalization and some of the best known techniques to solve them will be seen.
+/
+Bioinformatics
+This course was designed in order to provide students with basic concepts on the use of the main tools used for the analysis of biological data. In particular, we are going to focus on the analysis of protein structures, nucleotide sequences as well as synthetic biology methods, topics that correspond to the 3 main modules of the course. The course will be carried out by combining theoretical and theoretical-practical sessions complemented with the development of workshops for the evaluation of the understanding of the different topics.
+/
+Business Process Architecture
+Business processes are the heart of any organization and the center of its architecture: they are the connection between the business model and the operating model (people, technologies, resources) and they are also the point where successes and problems become evident. in the design of the company. If the company has problems, for example with its technological resources, this will be reflected in inefficient and unreliable processes. Similarly, if we want to solve problems in an organization, the natural place to start studying what is happening and propose improvement strategies adjusted to the reality of the organization is the process architecture. If this is not clear, it is very possible that new and expensive technological components will be introduced that do not solve any of the underlying problems.
+/
+Security Architecture
+The objective of the course is to develop the fundamental competencies necessary to measure the impact of the organization's critical services and processes and to establish effective control strategies. This course focuses mainly on the convergence of information security management, business continuity and IT services through the Resilience Management Model (RMM) [7]. Subsequently, a Security architecture framed in information systems technologies, data networks, applications, databases and operating systems is analyzed and specified.
+/
+Information Architecture
+The purpose of this course is to approach, from a practical perspective, information architecture as a key dimension within business and solution architectures, mainly aimed at changing the DNA of organizations towards Data-Driven, to face their challenges transformation on technological bases. Likewise, it is responsible for defining and deploying the practices of design, organization and integration of data at all levels (conceptual, logical and physical), in all its domains (operational, master, analytical, unstructured and metadata), developing capabilities of process automation and information analysis at all levels (strategic, tactical or operational). It comprehensively develops the concepts related to data and information in operational and transactional environments, as well as in analytical ecosystems, reaching hybrid models. It incorporates the enabling of capacities related to maturity levels, governance, quality and data culture within organizations
+/
+Solution Architecture
+The purpose of this course is to present to the student the different methodologies, strategies and good practices of designing a solution architecture. The course examines the tasks faced by an IT architect from different levels of abstraction. First, taking into account the business requirements and the quality attributes of the system, the solution is defined at a general level, in which only externally visible elements are identified and analyzed. Subsequently, design techniques, patterns and architectural styles are studied for each of the identified elements. Then, architecture evaluation techniques are presented to validate compliance with business requirements and required quality attributes, all in the context of a service-oriented architecture. Finally, there is a tour of the software components involved in large business solutions.
+/

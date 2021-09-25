@@ -1,0 +1,138 @@
+Introduction to Computing
+The course introduces the context of Computing as a profession, adopting as axes three generating questions about the Computing professional: what they do, who they work for and what knowledge and skills they need to carry out their work. The course contents are addressed at a basic level, without attempting to delve into the theoretical concepts that underlie them, only presenting them, exemplifying their application and encouraging the student to integrate them into the development of work proposed by the teacher. In turn, the course presents the student with a motivating vision of the career, through the assignment of practical work and projects, expert talks and the use of modern computational tools. At the end of the course, the student is expected to be able to answer the generating questions, having exercised the knowledge and skills involved in a basic way.
+/
+Introduction to Mathematics for Computing
+This is a course whose nature is theoretical. It has an academic load of four credits, therefore you must dedicate five hours to face-to-face lessons and at least seven hours of study outside of class per week, according to article 3 of the Student Academic Regulations. The purpose of the course is for the student to develop skills to justify and demonstrate mathematical propositions through solid arguments and making correct use of the symbology and syntax of mathematical language. To achieve this goal, six themes are developed. It begins with an introduction to Logic and Sets, to provide the student with the necessary skills so that he can argue and justify with solvency in content presented later in the course. Then we will work on solving equations and inequalities; It continues with Relationships and Functions, introducing theoretical aspects that formalize the contents of secondary education. Finally, the subject of Induction and Recursion is addressed. During the course, it is essential that you emphasize not only the procedural aspects of the content, but also the conceptual and mathematical language.
+/
+English Reading Strategies I
+English Reading Strategies I
+/
+Integrated Humanities Course I
+Integrated Humanities Course I
+/
+Discrete Structures
+In this course, basic mathematical structures and models necessary in the design of algorithms and solution of computational problems are studied.
+/
+Schedule 1
+This course fosters in the student general skills for solving programming problems, with an emphasis on the implementation of solutions stage. The object-oriented programming paradigm is used because it allows to solve problems in a more natural way.
+/
+Calculus for Computing I
+This is a course in differential and integral calculus in one variable, in which deductive and inductive reasoning is important in each of the topics studied. Proofs of theorems and properties are made, serving as examples of the need and importance of correctly using mathematical language. It is also intended that each student carry out many practices that require algorithmic processes, since these processes will be something typical of her professional work.
+/
+Integrated Humanities Course II
+Integrated Humanities Course II
+/
+National Reality Seminar I
+National Reality Seminar I
+/
+Schedule 2
+In this course, the student extends his knowledge in computer programming by learning abstraction techniques that help him build software of greater complexity and quality. Abstraction techniques are dependent on the programming language, for example, templates and polymorphism. The course focuses on abstraction techniques to build generic, reusable software. Reusable software is understood to be that which can be used in various contexts, for example, library functions. Generic software refers to reusable software that can also be used with arbitrary data types, for example a container. In the course the student learns both to reuse software and to create generic and reusable software.
+/
+Computer Architecture Fundamentals
+This course is based on topics related to Boolean algebra and logic gates to familiarize the student with the medium, high and very high scale integration circuits (MSI, LSI and VLSI) and their relationship with the main components of the CPU. In addition, the architecture of the CPU and its relationship, at a basic level, with assembly language is studied.
+/
+Linear Algebra for Computing
+This is an introductory linear algebra course for Computer Science and Informatics majors. In it, the student is offered, in a practical way, the opportunity to understand and develop basic skills related to matrix theory, as well as vector spaces and linear transformations. Fields of mathematics that provide useful tools, both conceptual and procedural, for higher mathematics and its applications. Its practical utility has been consolidated in different branches such as engineering, computer science and informatics, mathematics, physics, biology, economics and statistics. This relies heavily on the foundations acquired by students in the topics of logic, argumentation, induction, relationships and functions of the MA-0291 course.
+/
+Calculus for Computing II
+This is the last math course for Computer Science students. It is a course that includes calculus in several variables, improper integrals, sequences, and series.
+/
+Probability and statistics
+This is a probability and statistics course that covers the theoretical and practical foundations necessary to properly recognize and model situations where there is uncertainty.
+/
+Analysis of Algorithms and Data Structures
+There are several ways to computationally solve a problem, which leads to the dilemma of choosing the most appropriate one. There are different aspects that can be evaluated to make such a choice. This course teaches how to calculate the spatio-temporal complexity of a solution, in order to solve a problem efficiently. Mathematical models, abstract data types, data structures and classical algorithms are also taught, with special emphasis on the spatio-temporal complexity of the implementations.
+/
+Parallel and Concurrent Programming
+Concurrent and parallel programming is an extension of serial programming skills developed in previous courses. This expansion is essential because current and future hardware platforms offer parallel computing features that could not be exploited by a programmer who only knows serial programming. Therefore, this is a fundamental course for the three emphases of the career.
+/
+Assembly language
+This course builds on concepts of CPU architecture and its relationship to peripheral devices to learn assembly language and understand its relationship to high-level languages. In addition, specialized assembly language application environments are studied.
+/
+Architectural Integrator and Assembler Project
+microcontroller architecture. simulation of digital systems. assembler troubleshooting for specialized environments. assembly language integration to high-level problem solving.
+/
+Direferential Equations
+Direferential Equations
+/
+Data Communication Networks
+The course introduces each student to the basic concepts of design and open problems in communication networks. In particular, the course focuses on explaining how networks, including the Internet, work. To do this, the course covers a wide range of topics, from how bits of information are transmitted through the medium, to how high-level protocols such as HTTP work. The course also explains the principles of network design and routing.
+/
+Operating systems
+This course introduces the most important concepts of modern operating systems (OS), including their design and structure. To do this, the course introduces memory management concepts, including dynamic memory allocation, virtual memory, and paging on demand. In addition, the course introduces the concurrency of processes and their traditional solutions. The course also introduces each student to the file system, including storage devices, disk management, request handling, protection, and crash recovery. Finally, the course covers protection and security topics, including authentication, authorization, access control, and integrity.
+/
+Integrated Project of Operating Systems and Data Communication Networks
+This course focuses on troubleshooting the implementation of operating systems and communication networks. These topics are closely related. On the one hand, the operating system manages resources and provides an interface to the programs that use these resources. On the other hand, communication networks allow applications running on different devices to communicate with each other and operate as a single virtual resource. In addition, network protocols are usually run by the operating system, and it needs the network to provide services such as the file system.
+/
+Computer Architecture
+This course is aimed at students starting their third year of high school. It focuses on the study of different computer architectures to allow the student to make sound decisions about the capabilities of a computer to run a certain program efficiently, especially in parallel execution environments. Extensive knowledge of C / C ++ programming, assembler, and machine language is required. During the course, the student acquires a greater criterion that allows him to evaluate and compare the performance of different computer architectures. The course can be given under a project approach or through a combination of lectures, independent study and homework with the use of labs.
+/
+Software Engineering
+This is an introductory software engineering course, covering the theoretical and practical foundations of conceptualizing, planning, analyzing, designing, coding, and testing a software application. The course is designed for third-year students of the Baccalaureate in Computing and Informatics, who simultaneously take the courses Databases and Integrative Project of Software Engineering and Databases. In particular, this course offers the essential knowledge and skills for the Integrator Project course, and in turn the project of said course serves to consolidate and motivate these knowledge and skills by providing an integrated application context. It is expected that upon completion of this course and the Integrative Project of Software Engineering and Databases, the student will have the ability to develop software following modern software engineering methodologies and practices.
+/
+Databases
+This is an introductory course on relational databases, which covers the theoretical and practical foundations of its design, implementation, query, operation, concurrency control and recovery. The course is designed for third-year students of the Bachelor's degree in Computing and Informatics, who simultaneously take the courses Software Engineering and Integrative Project of Software Engineering and Databases. In particular, this course offers the essential knowledge and skills to develop the integrative project and in turn the project serves to consolidate and motivate these knowledge and skills by providing an integrated application context. It is expected that upon completion of this course and the Software and Database Engineering Integrator Project course, the student will demonstrate a solid foundation of relational databases. This course also allows the emphasis that the Advanced Databases course has in their curriculum, to start with a basic training in their students, to be able to study advanced concepts in the database area.
+/
+Integrating Project of Software Engineering and Databases
+This course focuses on the application and integration of the knowledge and skills that students are learning in the Databases and Software Engineering courses (which they have been simultaneously in the third year of the Bachelor's degree in Computing and Informatics). During the course, a project is developed following good quality practices, the product of which is a web application with its corresponding database.
+/
+Artificial intelligence
+This course is intended for third-year students with an emphasis in Computer Science. The fundamental issues of intelligent systems will be studied to solve problems through the techniques and models of artificial intelligence. In this course the student will develop the ability to create solutions that use the techniques, models and paradigms of artificial intelligence. In particular, the student will learn to represent knowledge and solve problems that require the use of mechanisms of inference, exploration and search in solution spaces. Additionally, the student will be able to use some basic control and learning techniques to solve problems. The theoretical-practical approach of the course allows the student to understand the theory through the implementation of programmed prototypes.
+/
+Modeling and optimization methods
+In this course you learn to recognize problems, model situations and optimize solutions based on the theory, algorithms and techniques of: linear and integer programming, Markov chains, queues and simulation.
+/
+Design of Experiments
+The course studies experimental designs that are used to answer research questions in computer science. The strengths and limitations of the experimental design are examined, one learns to design new experiments, to execute them, to analyze the results and to disseminate them verbally and in writing.
+/
+Theory of Computation
+This course offers an introduction to the theoretical foundations of computing, through the formal study of the capabilities and limitations of computing machines.
+/
+Computing and Society
+Computers and information and communication technologies (ICT) have transformed all human activities and have changed the socio-economic context. They have created new options that, at the same time, represent opportunities for some and threats for others. Technological development does not stop, so it is important to understand its impact. The purpose of this course is to confront each student with the opportunities, challenges, dilemmas and ethical and social problems created by ICT, which she will address during her practice of the profession. Critical thinking is emphasized in the course. This course is designed for students in their fourth year of the career, who are close to entering the labor market.
+/
+Computer Science Research
+Computer Science Research
+/
+Advanced Databases
+Centralized relational databases represent a well-known storage alternative, for which query performance improvement techniques can be applied in the face of constantly growing data volume. Furthermore, by applying the multidimensional paradigm to relational storage, historical data can be saved and analyzed more efficiently. However, the increasing volume of data and the variety of non-traditional applications (for example, data that by their nature form graphs or are semi-structured or unstructured) require new knowledge about database modeling and implementation alternatives. In response to these challenges, this course focuses on different mechanisms to optimize query performance in relational databases with large volumes of data, introduces the multidimensional design paradigm for storing and analyzing historical data, and includes concepts related to databases. distributed and parallel to solve the problems of efficiency and geographic distribution of data. In addition, this course introduces students to NoSQL paradigm databases such as document-oriented, graph-oriented, and column-oriented, to meet the needs of non-traditional applications and handling of Big data.
+/
+Computer Systems Security
+This is a basic information security course with an approach that mixes the theoretical and the practical. The fundamentals of information security will be taught, which will be applied in a cycle of identification of needs, application of assurance, documentation of the security scheme carried out and reverse engineering processes of systems. The course aims to generate awareness in the student about the need for secure computer systems, so that he can apply assurance to computer systems during the rest of his professional life.
+/
+Sound Processing
+This is an introductory course to the processing of sound (analysis, synthesis, modification and compression of file size) by means of a computer and its applications to speech and speaker recognition, voice synthesis and musical instruments, music information retrieval and encoding. sound. The course integrates knowledge from multiple disciplines such as electrical engineering, physics, mathematics, statistics, computing, music, neuroscience, psychology, and linguistics.
+/
+Mechanical learning
+This course offers the student an introduction to the main methods and techniques of learning in computational machines.
+/
+Scientific Communication
+In this course, each student learns to produce documents that convey the message effectively, for example, the results of a scientific investigation. Among the good practices that each student learns are the good structuring of the document, the effective writing (clear and concise) and the good use of the spelling and typographical conventions of Spanish and English (for example, the correct placement of the quotation marks when these coexist with punctuation marks, which differs in these languages); You also learn strategies for giving effective oral presentations and for preparing helpful support material. This course complements what has been learned in the Academic Guide of the Integrated Humanities Course, in which students learn to communicate the results of bibliographic and qualitative research in Spanish. This course, instead, focuses on the communication of qualitative and field research results, in both Spanish and English.
+/
+Agent-based Modeling and Simulation
+In this course the student will learn how to create and validate agent-based simulation models (MSBA) to represent the dynamics and structure of complex systems. You will also learn how to perform simulation experiments to answer the question (s) that led to the creation of an MSBA. A complex system is composed of multiple elements that interact with each other, therefore, its structure is a complex network —or graph—. Complex systems exhibit emergent behavior patterns, feedback loops, and spontaneous order. Consequently, an MSBA is an agent-based computational system whose behaviors are represented by a relatively simple set of rules: agents interact with each other and with the virtual environment in which they coexist. As a result of these interactions, behaviors emerge that have not been explicitly programmed, and characteristics of self-organization. As an eminently computational simulation technique, and in contrast to others (such as system dynamics simulation) that are based on sophisticated mathematical techniques, this course complements the computer science student's training in model construction. The relatively intuitive nature of the MSBA provides the Computer Science student with a tool more accessible to scientists from other areas, who may not be familiar with sophisticated mathematical tools, such as systems of differential equations, which are essential for the construction of models that simulate the dynamics of continuous systems. This simulation technique is being widely used in many scientific and engineering areas, which is why it constitutes a basic tool for the computer scientist to participate in interdisciplinary research and innovation groups.
+/
+Graphing and Visualization
+This is a theoretical-practical course that offers a broad panorama on the subject of computer graphing to improve user interfaces by incorporating graphing techniques, develop data visualization systems and understand the fundamentals and the most used mechanisms that support the creation of computer graphics.
+/
+Web Services Programming
+This is an introductory course to the design, programming and production of web services. The course covers both business-to-business (B2B) and business-to-consumer (B2C) scenarios. The course covers the underlying theory with an emphasis on SOAP-based services, along with associated standards such as XML, WSDL, and UDDI. The course covers the creation of services using tools from different technologies such as Java, .NET and PHP. The study of SOAP web services is complemented by the study of REST-based web services along with associated tools such as XML and JSON. The course also deals with the consumption of web services using different technological tools. Security, performance, and testing of both the server and services are also discussed. The design of the course is focused on fourth-year students of the Bachelor's degree in Computing and Informatics with an emphasis on Software Engineering. It is expected that once this course is completed, the student will show the ability to perform as a developer in medium complexity web services programming projects. Problem-based learning and project-based learning are suggested as teaching strategies to achieve the learning objectives of this course.
+/
+Real Time Embedded Systems
+This course provides students the opportunity to learn fundamental concepts for embedded systems programming and develop practical skills in that area.
+/
+Robotics
+This course provides an introduction to the use, design, and implementation of robotics-oriented systems, focusing on the design, construction, and programming of autonomous robots with different robotics technologies. This course will allow students to create robots; working with different technologies to design, build, program and document the solution of real problems using robotic systems. The focus of the course is practical, with an emphasis on solving real problems using robotic systems./
+Desarrollo de Aplicaciones para Dispositivos Móviles
+Este curso ofrece el sustento teórico y las habilidades prácticas para diseñar, desarrollar y publicar aplicaciones móviles. Se utilizarán una o más plataformas como base para enseñar las técnicas de programación y los patrones de diseño en relación al desarrollo de aplicaciones móviles. Se hace énfasis en los procesos, herramientas y marcos de desarrollo necesarios para desarrollar aplicaciones en dispositivos móviles actuales y emergentes.  Los estudiantes deberán trabajar en todas las etapas del ciclo de desarrollo del software, desde el análisis hasta la implementación, prueba y publicación en un repositorio de aplicaciones. Esto permitirá a los estudiantes entender mejor el impacto de las características de usuario, las capacidades del dispositivo, la infraestructura de telecomunicaciones y el ambiente de puesta en marcha, en el desarrollo de software para dispositivos móviles.  El curso está enfocado a estudiantes avanzados de  la  carrera  de  Bachillerato  en  Computación  e Informática y en particular se perfila como una profundización de conocimiento para el énfasis de Ingeniería de Software.  Se espera que una vez concluido este curso, el estudiante muestre la capacidad de desempeñarse como desarrollador en proyectos de aplicaciones móviles de mediana complejidad. Se sugiere utilizar aprendizaje basado en problemas y aprendizaje basado en proyectos como estrategias didácticas para lograr los objetivos de aprendizaje de este curso.
+/
+Videogame Creation
+This course develops the knowledge and skills necessary for the development of video games using engines, covering both the theoretical foundations and practical aspects that bring students closer to the video game industry. Video game development is an area of ​​software development that has evolved rapidly in recent years and is offering new market niches. Due to the programming, design and performance requirements that video game development presents, it is necessary for the student to have a strong programming and software engineering profile.
+/
+Programmable Networks
+The course presents the paradigm of programmable networks, which significantly increases the possibilities of innovation in classic network topics, possibly increasing efficiency, and at the same time, allows the opening of unexplored addresses. It studies how this paradigm changes the way of designing data centers, local networks and wide networks and how it improves operating costs for Internet providers. In addition, design aspects are examined at the data and control plane level. Finally, the challenges and open problems of programmable networks are analyzed.
+/
+Analysis of Large Volumes of Data
+Data collection and generation capabilities have increased rapidly due to several factors: business automation, diversification of transactions in electronic media, use of specialized electronic devices for data collection (sensors), growth in the use of social networks and increase in connections between devices (internet of things), among others. This data growth generates a need for automated techniques and tools that allow the transformation of large volumes of data into information or useful knowledge for decision-making in order to improve the situation of businesses or organizations / institutions. This analysis allows discovering interesting patterns (non-trivial, implicit, previously unknown and potentially useful) that a human being is not able to find. The application of techniques for analyzing large volumes of data requires learning about data preparation, the ability to select an appropriate technique for the problem to be solved and the interpretation of results.
+/
+

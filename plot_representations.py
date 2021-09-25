@@ -48,7 +48,7 @@ def fashion_scatter(x, colors, names, model,paths):
     plt.show()
 
     names2 = paths
-    c = np.random.randint(1,5,size=305)
+    c = np.random.randint(1,5,size=len(names2))
 
     norm = plt.Normalize(1,20)
     cmap = plt.cm.RdYlGn
@@ -64,9 +64,10 @@ def fashion_scatter(x, colors, names, model,paths):
     pop_c =  mpatches.Patch(color=palette[2], label='IT')
     pop_d =  mpatches.Patch(color=palette[3], label='IS')
     pop_e =  mpatches.Patch(color=palette[4], label='SE')
-    #pop_f =  mpatches.Patch(color=palette[5], label='PERU')
+    pop_f =  mpatches.Patch(color=palette[5], label='PERU')
+    pop_g =  mpatches.Patch(color=palette[6], label='LATAM')
 
-    plt.legend(handles=[pop_a, pop_b, pop_c, pop_d, pop_e]) #, pop_f])
+    plt.legend(handles=[pop_a, pop_b, pop_c, pop_d, pop_e, pop_f, pop_g])
 
 
 
@@ -148,8 +149,8 @@ def main():
         classes = ['CS','CE','IT','IS','SE']
         color   = ['red','green','blue','black','brown']
     else:
-        classes = ['CS','CE','IT','IS','SE','PE']
-        color   = ['red','green','blue','black','brown','purple']
+        classes = ['CS','CE','IT','IS','SE','PE','LATAM']
+        color   = ['red','green','blue','black','brown','purple','pink']
 
     data = Embedding(model=args.model, sample = args.sample)
     D  = data.X.numpy()

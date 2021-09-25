@@ -1,0 +1,110 @@
+Introduction to Computing
+The course introduces the context of Computing as a profession, adopting as axes three generating questions about the Computing professional: what they do, who they work for and what knowledge and skills they need to carry out their work. The course contents are addressed at a basic level, without attempting to delve into the theoretical concepts that underlie them, only presenting them, exemplifying their application and encouraging the student to integrate them into the development of work proposed by the teacher. In turn, the course presents the student with a motivating vision of the career, through the assignment of practical work and projects, expert talks and the use of modern computational tools. At the end of the course, the student is expected to be able to answer the generating questions, having exercised the knowledge and skills involved in a basic way.
+/
+Introduction to Mathematics for Computing
+This is a course whose nature is theoretical. It has an academic load of four credits, therefore you must dedicate five hours to face-to-face lessons and at least seven hours of study outside of class per week, according to article 3 of the Student Academic Regulations. The purpose of the course is for the student to develop skills to justify and demonstrate mathematical propositions through solid arguments and making correct use of the symbology and syntax of mathematical language. To achieve this goal, six themes are developed. It begins with an introduction to Logic and Sets, to provide the student with the necessary skills so that he can argue and justify with solvency in content presented later in the course. Then we will work on solving equations and inequalities; It continues with Relationships and Functions, introducing theoretical aspects that formalize the contents of secondary education. Finally, the subject of Induction and Recursion is addressed. During the course, it is essential that you emphasize not only the procedural aspects of the content, but also the conceptual and mathematical language.
+/
+English Reading Strategies I
+English Reading Strategies I
+/
+Integrated Humanities Course I
+Integrated Humanities Course I
+/
+Discrete Structures
+In this course, basic mathematical structures and models necessary in the design of algorithms and solution of computational problems are studied.
+/
+Schedule 1
+This course fosters in the student general skills for solving programming problems, with an emphasis on the implementation of solutions stage. The object-oriented programming paradigm is used because it allows to solve problems in a more natural way.
+/
+Calculus for Computing I
+This is a course in differential and integral calculus in one variable, in which deductive and inductive reasoning is important in each of the topics studied. Proofs of theorems and properties are made, serving as examples of the need and importance of correctly using mathematical language. It is also intended that each student carry out many practices that require algorithmic processes, since these processes will be something typical of her professional work.
+/
+Integrated Humanities Course II
+Integrated Humanities Course II
+/
+National Reality Seminar I
+National Reality Seminar I
+/
+Schedule 2
+In this course, the student extends his knowledge in computer programming by learning abstraction techniques that help him build software of greater complexity and quality. Abstraction techniques are dependent on the programming language, for example, templates and polymorphism. The course focuses on abstraction techniques to build generic, reusable software. Reusable software is understood to be that which can be used in various contexts, for example, library functions. Generic software refers to reusable software that can also be used with arbitrary data types, for example a container. In the course the student learns both to reuse software and to create generic and reusable software.
+/
+Computer Architecture Fundamentals
+This course is based on topics related to Boolean algebra and logic gates to familiarize the student with the medium, high and very high scale integration circuits (MSI, LSI and VLSI) and their relationship with the main components of the CPU. In addition, the architecture of the CPU and its relationship, at a basic level, with assembly language is studied.
+/
+Linear Algebra for Computing
+This is an introductory linear algebra course for Computer Science and Informatics majors. In it, the student is offered, in a practical way, the opportunity to understand and develop basic skills related to matrix theory, as well as vector spaces and linear transformations. Fields of mathematics that provide useful tools, both conceptual and procedural, for higher mathematics and its applications. Its practical utility has been consolidated in different branches such as engineering, computer science and informatics, mathematics, physics, biology, economics and statistics. This relies heavily on the foundations acquired by students in the topics of logic, argumentation, induction, relationships and functions of the MA-0291 course.
+/
+Calculus for Computing II
+This is the last math course for Computer Science students. It is a course that includes calculus in several variables, improper integrals, sequences, and series.
+/
+Probability and statistics
+This is a probability and statistics course that covers the theoretical and practical foundations necessary to properly recognize and model situations where there is uncertainty.
+/
+Analysis of Algorithms and Data Structures
+There are several ways to computationally solve a problem, which leads to the dilemma of choosing the most appropriate one. There are different aspects that can be evaluated to make such a choice. This course teaches how to calculate the spatio-temporal complexity of a solution, in order to solve a problem efficiently. Mathematical models, abstract data types, data structures and classical algorithms are also taught, with special emphasis on the spatio-temporal complexity of the implementations.
+/
+Parallel and Concurrent Programming
+Concurrent and parallel programming is an extension of serial programming skills developed in previous courses. This expansion is essential because current and future hardware platforms offer parallel computing features that could not be exploited by a programmer who only knows serial programming. Therefore, this is a fundamental course for the three emphases of the career.
+/
+Assembly language
+This course builds on concepts of CPU architecture and its relationship to peripheral devices to learn assembly language and understand its relationship to high-level languages. In addition, specialized assembly language application environments are studied.
+/
+Architectural Integrator and Assembler Project
+microcontroller architecture. simulation of digital systems. assembler troubleshooting for specialized environments. assembly language integration to high-level problem solving.
+/
+Data Communication Networks
+The course introduces each student to the basic concepts of design and open problems in communication networks. In particular, the course focuses on explaining how networks, including the Internet, work. To do this, the course covers a wide range of topics, from how bits of information are transmitted through the medium, to how high-level protocols such as HTTP work. The course also explains the principles of network design and routing.
+/
+Operating systems
+This course introduces the most important concepts of modern operating systems (OS), including their design and structure. To do this, the course introduces memory management concepts, including dynamic memory allocation, virtual memory, and paging on demand. In addition, the course introduces the concurrency of processes and their traditional solutions. The course also introduces each student to the file system, including storage devices, disk management, request handling, protection, and crash recovery. Finally, the course covers protection and security topics, including authentication, authorization, access control, and integrity.
+/
+Integrated Project of Operating Systems and Data Communication Networks
+This course focuses on troubleshooting the implementation of operating systems and communication networks. These topics are closely related. On the one hand, the operating system manages resources and provides an interface to the programs that use these resources. On the other hand, communication networks allow applications running on different devices to communicate with each other and operate as a single virtual resource. In addition, network protocols are usually run by the operating system, and it needs the network to provide services such as the file system.
+/
+Human-Computer Interaction
+The study of Human-Computer Interaction (IHC) is essential to design and create applications that are useful and easy to use for the users to whom they are directed. This course introduces the basic principles of application design, as well as the fundamental techniques of interaction evaluation. The course contemplates the basic theory of design and usability evaluation. Prototypes are also developed to put into practice the theoretical concepts learned in the course.
+/
+Software design
+The architectural and detailed software design determines the quality of the software products that are delivered. This is why the software industry has been systematizing design heuristics through what have been called design principles and patterns. Today this body of knowledge is very broad and relevant to any software engineer who needs to build quality software. The design and construction of frameworks for families of software products particularly requires the intensive application of this body of knowledge, as it is a type of software adaptable to the construction of applications of a family with sufficient variability of characteristics to be sustainable in a market niche. This is why the course focuses on the application of design principles and patterns to the construction of frameworks, without the use of the principles and patterns studied being limited exclusively to this area.
+/
+Software Engineering
+This is an introductory software engineering course, covering the theoretical and practical foundations of conceptualizing, planning, analyzing, designing, coding, and testing a software application. The course is designed for third-year students of the Baccalaureate in Computing and Informatics, who simultaneously take the courses Databases and Integrative Project of Software Engineering and Databases. In particular, this course offers the essential knowledge and skills for the Integrator Project course, and in turn the project of said course serves to consolidate and motivate these knowledge and skills by providing an integrated application context. It is expected that upon completion of this course and the Integrative Project of Software Engineering and Databases, the student will have the ability to develop software following modern software engineering methodologies and practices.
+/
+Databases
+This is an introductory course on relational databases, which covers the theoretical and practical foundations of its design, implementation, query, operation, concurrency control and recovery. The course is designed for third-year students of the Bachelor's degree in Computing and Informatics, who simultaneously take the courses Software Engineering and Integrative Project of Software Engineering and Databases. In particular, this course offers the essential knowledge and skills to develop the integrative project and in turn the project serves to consolidate and motivate these knowledge and skills by providing an integrated application context. It is expected that upon completion of this course and the Software and Database Engineering Integrator Project course, the student will demonstrate a solid foundation of relational databases. This course also allows the emphasis that the Advanced Databases course has in their curriculum, to start with a basic training in their students, to be able to study advanced concepts in the database area.
+/
+Integrating Project of Software Engineering and Databases
+This course focuses on the application and integration of the knowledge and skills that students are learning in the Databases and Software Engineering courses (which they have been simultaneously in the third year of the Bachelor's degree in Computing and Informatics). During the course, a project is developed following good quality practices, the product of which is a web application with its corresponding database.
+/
+Web applications development
+This is an introductory course to the set of technologies for the development of applications on the Web, covering both theoretical and practical foundations. The design of the course is focused on third-year students of the Bachelor's degree in Computing and Informatics, who simultaneously take the courses of Software Engineering, Databases, and Integrative Project of Software Engineering and Databases. The course is outlined as an accompaniment to such courses for the Software Engineering emphasis. It is expected that once this course is completed, the student will show the ability to perform as a developer in medium complexity web application projects. It is suggested to use problem-based learning and project-based learning as teaching strategies to achieve the learning objectives of this course.
+/
+Project management
+This is an introductory course in software project management, which covers the theoretical and practical foundations for formulating, planning and controlling computer projects. The course is designed for fourth-year students who have passed the Software Engineering course. In particular, the course aims for students to appreciate the need to plan computer projects and control their execution. It is expected that upon completion of this course, the student will have the essential knowledge and skills to lead computer projects.
+/
+Software quality
+This course covers the fundamentals of software quality assurance, including software quality metrics, standards, management, and implementation. It is designed to complement the knowledge and skills acquired by students in the previous Software Engineering course. In addition, it serves as the basis for Guided Practice and Software Testing courses.
+/
+Advanced Database
+Centralized relational databases represent a well-known storage alternative, for which query performance improvement techniques can be applied in the face of constantly growing data volume. Furthermore, by applying the multidimensional paradigm to relational storage, historical data can be saved and analyzed more efficiently. However, the increasing volume of data and the variety of non-traditional applications (for example, data that by their nature form graphs or are semi-structured or unstructured) require new knowledge about database modeling and implementation alternatives. In response to these challenges, this course focuses on different mechanisms to optimize query performance in relational databases with large volumes of data, introduces the multidimensional design paradigm for storing and analyzing historical data, and includes concepts related to databases. distributed and parallel to solve the problems of efficiency and geographic distribution of data. In addition, this course introduces students to NoSQL paradigm databases such as document-oriented, graph-oriented, and column-oriented, to meet the needs of non-traditional applications and handling of Big data.
+/
+Computing and Society
+Computers and information and communication technologies (ICT) have transformed all human activities and have changed the socio-economic context. They have created new options that, at the same time, represent opportunities for some and threats for others. Technological development does not stop, so it is important to understand its impact. The purpose of this course is to confront each student with the opportunities, challenges, dilemmas and ethical and social problems created by ICT, which they will address during their practice of the profession. Critical thinking is emphasized in the course. This course is designed for students in their fourth year of the career, who are close to entering the labor market.
+/
+Software Testing
+This is an introductory course in software testing, which covers the theoretical and practical foundations of its planning, design, execution and management within the software life cycle. The course is designed for fourth-year students of the Baccalaureate in Computing and Informatics who have completed the Software Quality course and are simultaneously taking the Directed Practice course. In particular, the course provides students with the essential knowledge and skills to test software and manage the software testing process.
+/
+Computer Systems Security
+This is a basic information security course with an approach that mixes the theoretical and the practical. The fundamentals of information security will be taught, which will be applied in a cycle of identification of needs, application of assurance, documentation of the security scheme carried out and reverse engineering processes of systems. The course aims to generate awareness in the student about the need for secure computer systems, so that he can apply assurance to computer systems during the rest of his professional life.
+/
+Supervised practice
+This course provides the conditions for the student, as part of a work team, to successfully develop a software system that solves computing needs of a specific organization. The development of the software system is achieved through the application of knowledge and skills previously acquired by the students, and the incorporation of standards, methods and techniques that ensure the quality of the product and therefore the satisfaction of customers, users and all parties. interested
+/
+Design of Experiments
+The course studies experimental designs that are used to answer research questions in computer science. The strengths and limitations of the experimental design are examined, one learns to design new experiments, to execute them, to analyze the results and to disseminate them verbally and in writing.
+/
+Web Services Programming
+This is an introductory course to the design, programming and production of web services. The course covers both business-to-business (B2B) and business-to-consumer (B2C) scenarios. The course covers the underlying theory with an emphasis on SOAP-based services, along with associated standards such as XML, WSDL, and UDDI. The course covers the creation of services using tools from different technologies such as Java, .NET and PHP. The study of SOAP web services is complemented by the study of REST-based web services along with associated tools such as XML and JSON. The course also deals with the consumption of web services using different technological tools. Security, performance, and testing of both the server and services are also discussed. The design of the course is focused on fourth-year students of the Bachelor's degree in Computing and Informatics with an emphasis on Software Engineering. It is expected that once this course is completed, the student will show the ability to perform as a developer in medium complexity web services programming projects. Problem-based learning and project-based learning are suggested as teaching strategies to achieve the learning objectives of this course.
+/
+
+

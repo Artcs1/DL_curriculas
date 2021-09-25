@@ -1,0 +1,195 @@
+MANAGEMENT
+Organization and Management: basic concepts. Evolution of the theory of organizations and administration. Environment, social responsibility and goals. Organizational structure. Psychosocial system. Management system.
+/
+INTRODUCTION TO COMPUTER SCIENCE
+Presentation of the Computer Science course: Areas of training and expertise. Individual planning and programming of the professional profile. General Graduation Rules
+/
+SOFTWARE PROGRAMMING AND DEVELOPMENT I
+Introduction to how a computer works and to program development. Development of programs in a high-level language. Simple data types, pointers, homogeneous and heterogeneous composite variables. Entrance and exit. Control and repetition structures. Modularization functions and tools.
+/
+INTRODUCTION TO COMPUTATIONAL LOGIC
+Review of set and function theory. Fundamentals of propositional and predicate logic. Basics of Boolean algebra and combinatorial digital circuits. Demonstration methods. Induction and recursion.
+/
+ANALYTIC GEOMETRY AND LINEAR ALGEBRA
+Vector algebra. Straight and flat. Matrices, linear systems and determinants. Rn vector space. Matrix eigenvalues ​​and eigenvectors. Diagonalization of symmetric matrices.
+/
+SOFTWARE PROGRAMMING AND DEVELOPMENT II
+Structured programming and modular programming language. Software development methodologies. Understanding, correctness and debugging of programs. Problem solving in a modular and efficient way.
+/
+DISCRETE MATHEMATICS
+Asymptotic behavior of functions. Fundamental elements of combinatorial analysis. Relations. Graphs.
+/
+LINEAR COMPUTATIONAL ALGEBRA
+Gaussian Elimination. LU decomposition. Spectral decomposition. SVD decomposition. Conditioning. QR Decomposition. Topics in numerical analysis.
+/
+INTRODUCTION TO ECONOMY
+To present a notion of the functioning of a modern capitalist economy from a global perspective, including external relations and highlighting the structural difficulties that an underdeveloped economy faces.
+/
+DIFFERENTIAL AND INTEGRAL CALCULATION I
+Improper integrals: numerical series sequences. Functions from R to R. Derivatives. Integrals. Applications. "Rules of L'Hospital".
+/
+INTRODUCTION TO DATABASE
+Auxiliary memory; physical and logical organization. Access methods. File structures. Database manipulation. Languages ​​and packages. Information retrieval.
+/
+INTRODUCTION TO LOGICAL SYSTEMS
+Motivation for the study of Logical Systems. Boolean algebra. Combinatorial Functions and their Minimization. Sequential machines: description and synthesis. Other logics with application in Informatics.
+/
+DATA STRUCTURES
+Algorithm analysis. Data abstraction. Introduction to algorithm analysis techniques. Static and dynamic data structures in main and secondary memory. Data Structures for Efficiently Performing Data Operations
+/
+PROBABILITY
+Random experiments. Classical and frequent probability. Bayes theorem. Independence from events. Random variables. Moments. Random vectors. Conditional moments. Partial correlations. Stochastic independence. Transformation of one- and two-dimensional random variables. Feature function. Convergence. Reliability.
+/
+DIFFERENTIAL AND INTEGRAL CALCULUS II
+Polar coordinates. Conics. Series. Taylor series and formula. Differentiability of functions of several variables.
+/
+COMPUTER ORGANIZATION I
+Introduction to microelectronics. Combinatorial and sequential circuits. Memoirs. Entrance and exit. Introduction to microprocessors.
+/
+FUNDAMENTALS OF COMPUTATION THEORY
+Study of the mathematical foundations of computing. Recursive functions. Enumerability. Post production systems. Abstract models of programmable machines.
+/
+ALGORITHMS I
+Graphs: representation and algorithms for traversing and solving simple problems. Algorithm development paradigms. Introduction to basic concepts of NP-completeness theory. Algorithm correctness tests.
+/
+INTRODUCTION TO DATA SCIENCE
+Data manipulation in the form of tables and matrices. Scientific Method. Hypothesis Tests and Confidence Intervals (Through Normal and Sampling). Notions of Causality. Linear Regression. Likelihood. Fitting through Gradient Descent and Newton-Raphson . Regularization. Fitting of Distributions and Tests to Compare Distributions. Logistics Return. KNN. Overfitting, Underfitting and Cross Validation.
+/
+ALGEBRA A
+Number theory: induction, principle of good ordering, divisibility, number bases, prime numbers, factorization and the fundamental theorem of arithmetic, mmc and mdc, linear Diophantine equations, congruences, Eucler theorems, Fermat, Chinese remainder theorem. Encryption: basic: affine and exponential ciphers, RSA.
+/
+PROGRAMMING LANGUAGES
+Procedural and application programming languages. Detailed study of some important languages. Criteria and techniques in language specification and design.
+/
+OPERATIONAL RESEARCH
+Modeling. Mathematical programming fundamentals. Linear programming and its applications. Simplex method. Sensitivity and duality analysis. Optimization in networks. Dynamic programming.
+/
+ALGORITHMS II
+Algorithms for Sequence Manipulation. NP-completeness theory and exact and approximate solution techniques for NP-hard problems. Algorithms for geometric data.
+/
+DIFFERENTIAL EQUATIONS
+Ordinary Differential Equations of 1st and 2nd Orders - Differential Equation Solutions in Power Series - Linear Differential Equation Systems - Laplace Transform - Fourier Series - Partial Differential Equations
+/
+COMPILERS I
+GRAMMAR LEXICAL ANALYSIS. SYNTAX ANALISYS. TABLE OF SYMBOLS. INTERMEDIATE LANGUAGES. ALLOCATION OF MEMORY AT RUN TIME. TRANSLATION DIRECTED BY SYNTAX. MACHINE CODE GENERATION.
+/
+SOFTWARE ENGINEERING
+Proof of program correction. Specification and design of software systems. Software testing and debugging. Design and implementation of a medium-sized system
+/
+OPERATIONAL SYSTEMS
+Concepts, structures and mechanisms used in the design and construction of operating systems.
+/
+INTRODUCTION TO COMPUTATIONAL STATISTICAL PHYSICS
+Fundamental concepts of statistics. Introduction to equilibrium statistical mechanics. Partition function. Entropy and information theory. Ising model: phase transitions and thermodynamic limit. Markov Chain and Monte Carlo Methods. Stochastic processes. Complex Systems. Applications.
+/
+COMPUTER NETWORK
+Concepts of distributed systems, computer networks, protocols and communication services. Computer network architecture Lower layers of the ISO reference model: physics, links and networks. Local networks. Interconnection of networks; specification of protocols.
+/
+COMPUTER ETHICS
+Current Codes of Ethics. Ethics in Research. Citizen's Rights. Responsibilities and Rights of the Computer Professional. Surveillance and Cyber ​​Crimes.
+/
+FUNDAMENTALS OF PARALLEL AND DISTRIBUTED SYSTEMS
+Programming with Shared Variables, Fundamentals of Distributed Computing, Fundamentals of Parallel Computing, Trends
+/
+INTRODUCTION TO ARTIFICIAL INTELLIGENCE
+Introduction: AI, Intelligent Agents; Representation and Problem Solving through State Space Search; Knowledge Representation, Probabilistic Reasoning, Machine Learning, Artificial Intelligence Applications
+/
+COMPUTING AND SOCIETY
+Reflection of the graduation course. Insertion of the professional in the market. Labor legislation. Critical view of the social and environmental impacts of technology on society.
+/
+COMPUTER-ORIENTED PROJECT I
+Development of a work under the guidance of a teacher. Problem definition. Viability study. Solution proposal. Solution specification.
+/
+COMPUTER-ORIENTED PROJECT II
+Development of a work under the guidance of a teacher. Testing and debugging. Implementation. Production of a monograph about the work.
+/
+ALGEBRA II
+Group theory. Extension of bodies. Isomorphism theorems.
+/
+ALGORITHMS FOR BIOINFORMATICS I
+BASIC CONCEPTS AND METHODS FOR MOLECULAR BIOLOGY. NEW FORMS FOR REPRESENTATION AND MANIPULATION OF SEQUENCES IN BIOLOGY. RECOVERY AND MINING OF GENOMIC DATA. ALIGNMENT OF SEQUENCES. VISUALIZATION OF GENOMIC DATABASE. PREDICTION OF THE PROTEIN STRUCTURE.
+/
+COMPUTER SYSTEMS PERFORMANCE ANALYSIS AND MODELING
+EVALUATION AND PERFORMANCE TECHNIQUES; GENERAL METHODOLOGY FOR MODELING STUDY; DETERMINISTIC PERFORMANCE MODELS: INTRODUCTION TO PROBABILISTIC PERFORMANCE MODELS, LOAD MODELS; CAPACITY PLANNING AND MANAGEMENT.
+/
+DATA STORES
+BASIC CONCEPTS OF DECISION AND DATE SUPPORT SYSTEMS WAREHOU DW. ARCHITECTURE OF DW ENVIRONMENTS. MAIN COMPONENTS OF SOLUTIONS. DIMENSIONAL MODELING. CASE STUDIES. OLAP TOOLS AND APPLICATIONS. TENDENCIES
+/
+DIGITAL LIBRARIES
+DIGITAL LIBRARIES: HISTORY, DEFINITIONS, ARCHITECTURE AND FUNDAMENTALS, MODELS, SOCIO-ECONOMIC ASPECTS, SYSTEMS AND CASE STUDIES, RESEARCH CHALLENGES.
+/
+CG
+Graphical output and input devices and primitives. Two-dimensional and three-dimensional transformations. Graphical modeling. 3D visualization: models, projections, elimination of hidden superlines, lighting.
+/
+NATURAL COMPUTATION
+COMPUTATION INSPIRED IN THE ORGANIZATION AND FUNCTIONING OF THE HUMAN BODY: NEURAL NETWORKS, ARTIFICIAL IMMUNOLOGICAL SYSTEMS, ARTIFICIAL EN-DOCRINAL SYSTEMS. EVOLUTIONARY COMPUTING: GENETIC ALGORITHMS, GENETIC PROGRAMMING, EVOLUTIONARY STRATEGIES. COMPUTATION BASED ON SOCIAL INTERACTIONS: ANT COLONIES, PARTICULATE swarms.
+/
+DEVELOPMENT OF DIGITAL GAMES
+BASIC GAME CONCEPTS: HISTORY, FEATURES, NARRATIVE GAMEPLAY, INTERFACES. OVERVIEW OF THE DEVELOPMENT PROCESS. ENGINES FOR GAMES. CONCEPTS OF COMPUTER GRAPHICS, PHYSICS, NETWORK AND ARTIFICIAL INTELLIGENCE APPLIED TO GAMES.
+/
+COMPUTING ENTERPRISES
+ENTREPRENEURSHIP. WHAT IT IS, TYPES AND EXAMPLES. ENTREPRENEUR PROFILE. CREATIVITY. IDEAS AND OPPORTUNITIES. EVALUATION AND PLANNING AND BUSINESS MANAGEMENT. SOFWARE LEGISLATION. INTELLECTUAL AND INDUSTRIAL PROPERTY. BRAZILIAN TAX STRUCTURE FINANCING TECHNOLOGICAL BASED ENTERPRISES
+/
+USABILITY ENGINEERING
+MOTIVATION AND BASIC CONCEPTS, DESIGN PRINCIPLES, INTERFACE STANDARDIZATION, INTERACTION STYLES, USABILITY IN WEB INTERFACE, PROCESS AIMING USABILITY, USABILITY AIMING ANALYSIS, INTERACTION DESIGN, EVALUATION OF SPECIFIC EFFECTIVENESS FAST, USABILITY TESTS.
+/
+FUNDAMENTALS OF ELECTROMAGNETISM
+Electric charge, electric field and Gauss' law. Electric potential, capacitors and dielectrics. Electrical current and resistance. Magnetic field and Ampere's Law. Faraday's law and inductance. Magnetic materials. Maxwell's Equations.
+/
+FUNDAMENTALS OF QUANTIC PHYSICS
+Quantization of charge, light and energy. Atomic models. Wave properties of particles. Schrödinger's equation. Hydrogen atom.
+/
+ARTIFICIAL INTELLIGENCE
+Problem solving methods. Knowledge representation using predicate logic. Structured knowledge representations. Advanced problem solving systems. Advanced topics.
+/
+HEURISTIC AND METAHEURISTIC
+Fundamentals and advanced techniques for building and evaluating efficient heuristics for combinatorial optimization problems, especially metaheuristics. At the end, it is expected that the student will be able to develop a high level scientific research in the area of ​​heuristics for combinatorial optimization problems.
+/
+HUMAN-COMPUTER INTERACTION
+IHC AREA IN BRAZIL AND IN THE WORLD, INTERACTION STYLES, USAGE QUALITIES. DESIGN PROCESS FROM THE IHC PERSPECTIVE. METHODS FOR COLLECTING USER DATA. THEORETICAL BASIS OF THE IHC AREA. EMPIRIC AND THEORETICAL BASED EVALUATION METHODS. INTERACTION PROJECT MODELS.
+/
+INTRODUCTION TO ROBOTICS
+Introduction. Typical applications. Robots in automation. Descriptions and transformations: fixed and mobile references and related transformations. Direct kinematics. Inverse kinematics. Trajectory generation. Offline programming and control languages. Basic sensory modalities. Applications.
+/
+DATA MINING
+KNOWLEDGE DISCOVERY PROCESS IN DATABASES. BASIC DATA COLLECTION AND ENGINEERING CONCEPTS. DATA MINING TECHNIQUES. IMPLEMENTATION ASPECTS. APPLICATION DOMAINS.
+/
+BUSINESS PROCESS MODELING
+INTRODUCTION: MOTIVATION, HISTORY, BASIC CONCEPTS; MODELING AND ORIENTATION TO OBJECTS; UML CONCEPTUAL MODEL, STRUCTURAL MODELING; BEHAVIORAL MODELING, RULES AND MECHANISMS OF UML; ARCHITECTURE AND BUSINESS MODELING; VISIONS OF BUSINESS MODELS, MODEL-GEM OF BUSINESS RULES, BUSINESS PATTERNS, INTEGRATION WITH SOFTWARE DEVELOPMENT.
+/
+QUANTITATIVE METHODS OF EXPERIMENTAL RESEARCH IN COMPUTER SCIENCE
+TREATMENT OF EXPERIMENTAL DATA: MEASUREMENT, STATISTICAL SUMMARY, PRESENTATION AND INTERPRETATION OF EXPERIMENTAL DATA. WORLOADS WORKLOAD: CHARACTERIZATION AND ANALYSIS. APPROPRIATE METRICS FOR THE QUESTIONS SEARCHED BY RESEARCH IN EXPERIMENTAL COMPUTER SCIENCE. EFFECTIVE EXPERIMENTAL PROJECT.
+/
+DIGITAL SOUND AND VIDEO PROCESSING
+SOUND PROCESSING: BASIC CONCEPTS, HISTORY, SUPPORTS, INTERFACES AND DIGITAL SOUND PATTERNS, SOUND EDITORS; VIDEO PROCESSING: BASIC CONCEPTS, HISTORY, SUPPORTS, INTERFACES AND DIGITAL VIDEO STANDARDS, VIDEO EDITORS. VISUAL INFORMATION RECOVERY: BASIC CONCEPTS, INFORMATION RECOVERY BASED ON COLOR, TEXTURE AND SHAPE.
+/
+DIGITAL IMAGE PROCESSING
+Digitization and image representation concepts. Elements of a digital image processing system. Grayscale modification techniques, histogram modification techniques, arithmetic operations with images, pseudocoloring, image smoothing, edge sharpening, spatial filters.
+/
+PROJECTS AND CONCEPTS OF PARALLEL AND DISTRIBUTED SYSTEMS
+COMPETITION AND COMMUNICATION IN PARALLEL AND DISTRIBUTED SYSTEMS. SYNCHRONIZATION AND AGREEMENT IN PARALLEL AND DISTRIBUTED SYSTEMS. PERSISTENCY AND DISTRIBUTED FILE SYSTEMS RESOURCE SHARING IN PARALLEL AND DISTRIBUTED SYSTEMS. ANALYSIS AND EVALUATION OF INTERNET APPLICATIONS SUCH AS: CACHES, CONTENT DISTRIBUTION NETWORKS P2P APPLICATIONS, MULTIMEDIA SERVICES AND ELECTRONIC COMMERCE SERVICES
+/
+ROBOTICS
+Review of descriptions and transformations, forward kinematics and inverse kinematics. Velocity and static forces. Dynamics of manipulators. Trajectory generation. Design of manipulator mechanisms. Linear control of manipulators. Non-linear control of manipulators. Robotic manipulator systems architectures. Real-time control languages. Sensory Modalities. Computer vision applied to robotics. Applications.
+/
+MOBILE ROBOTICS
+Location. Navigation. Planning. Mission. Recognition. Kinematics and dynamics of mobile robots. Control. Architectures. Sensors. Energy management. Mechanism design. Computational geometry elements. Computer vision. Telerobotics. Applications.
+/
+COMPLEX COMPUTER NETWORKS: MODELING, ALGORITHMS AND APPLICATIONS
+Models, algorithms and applications Introduction to Networks; Small World Type Networks; Power Laws and Scale-Free-Networks; Crawlers and Searches in Networks.
+/
+FORMAL SEMANTIC
+APPROACHES FOR FORMAL DEFINITION OF PROGRAMMING LANGUAGES. EVOLVING AL GEBRA: MACHINES OF ABSTRACT STATES. DENOTATIONAL SEMANTIC: DIRECT SEMANTIC. CONTINUATION SEMANTICS. SEMANTIC OF EX-PRESSURES, JUMPS, COMMANDS, PROCEDURES AND TYPES. CLASSES AND OBJECTS. ELEMENTS OF DOMAIN THEORY: PARTIAL ORDER. POSETS, CPO, MONOTONIC, CONTINUOUS AND FIXED POINT FUNCTIONS. STRUCTURED OPERATIONAL SEMANTIC. PI CALCULATION.
+/
+REAL TIME SYSTEM
+Mini and micro-computer architecture. Data transmission. Data acquisition. Digital control. Data input and output. Real-time software.
+/
+BASIC SOFTWARE
+Basic notions of computer architecture. Machine languages ​​and assembly language ("Assembly"). Assemblers, macroprocessors, chargers and connectors. Entry and exit programming. Machine level of operating systems.
+/
+TOPICS IN COMPUTER SCIENCE
+TOPICS IN COMPUTER SCIENCE
+/
+COMPUTER VISION
+Visual perception, images and computers. Computer vision paradigm. Low-level processing: models, image processing, feature extraction. Multi-level representations: pyramids, wavelets, feature grouping. Intermediate-level processing: representation of local surfaces, shape from "X". High-level processing: Artificial Intelligence methodologies, object representation, scene representation. Architectures for computer vision. Applications.
+/

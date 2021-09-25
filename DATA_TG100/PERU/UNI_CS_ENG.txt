@@ -1,0 +1,157 @@
+FUNDAMENTALS OF PROGRAMMING
+Fundamentals of programming will be the subject that will lay the foundations and establish the basic and main concepts of the Computer Science career, this being the base subject from which the student will develop their skills towards a computer scientist. In this sense, this course will introduce participants to the fundamental concepts of this art. Topics include data types, control structures, functions, lists, recursion, and the mechanics of running, testing, and debugging.
+/
+SOFTWARE DEVELOPMENT
+The future graduate in Computer Science will have a varied training in all fields of production and research both in their technical capacities and entrepreneurial skills. This course will train you as a user of a large number of areas and will put you in contact with creatives from the different areas of production.
+/
+COMPUTER ARCHITECTURE
+The objective of this course is to allow the student to properly manage the hardware and software of a computer system, ranging from the basic structure of the modern computer to knowing the basic concepts of the repertoire of instructions.
+/
+DATABASES
+Databases and database systems are a basic component in the daily life of modern society, interaction with the administration, public services, the company can hardly be understood anymore without the management of a database that allows communication between the different actors.
+/
+ALGORITHMS AND DATA STRUCTURE
+This course is a continuation of the object-oriented programming course but focused on programming simple and complex data structures. Therefore, the aspects that will be studied will mainly be how data structures are defined and implemented and incorporated into any programming environment.
+/
+NETWORK CENTERED COMPUTING
+Introduces the structure, implementation, and theoretical foundations of the computer network and the applications that have been enabled by this technology. Therefore, this subject provides the student with the basic competencies, knowledge and skills to understand the problems of data communication and the interconnection of networks (especially the Internet). In this context, the paradigm of interpersonal communication will be the fundamental theme to be developed, having a main focus on digital communications and technological infrastructures of communication and information technologies.
+/
+TEORÍA DE AUTÓMATAS, LENGUAJES Y COMPUTACIÓN
+En esta materia, donde se fundamenta y se establece la base teórica de los estudios, se encuentran los conceptos que se estudian y se usan en casi todas las demás materias. Qué es un lenguaje de programación, cómo y porqué se define de la forma en que se hace. Cual es el mecanismo en el que se traduce a un formalismo entendible por una máquina, y porqué es precisamente ese. Y cuáles son las limitaciones que se pueden encontrar, entre muchos otros. En este sentido, este curso demuestra que la Computación es una ciencia, en particular una rama de la matemática que centra su interés en el estudio y definición formal de los computadores.
+/
+THEORY OF AUTOMATES, LANGUAGES AND COMPUTING
+In this subject, where the theoretical base of the studies is founded and established, are the concepts that are studied and used in almost all other subjects. What is a programming language, how and why it is defined the way it is done. What is the mechanism in which it is translated into a machine-understandable formalism, and why is it precisely that? And what are the limitations that can be found, among many others. In this sense, this course demonstrates that Computing is a science, in particular a branch of mathematics that focuses its interest on the study and formal definition of computers.
+/
+ANALYSIS AND DESIGN OF ALGORITHMS
+This course is a continuation of Data Structures and, therefore, will develop how to optimize said structures and improve the capacity for abstraction. Introduce and develop structures and algorithms. The course will also offer an introduction to the historical and social context of computing and a review of the scope of this discipline.
+/
+SOFTWARE ENGINEERING
+In this course, the student begins a professional stage as a developer through knowledge of the software processes that occur in the software life cycle. Present to the students the different models of process evaluation and the metrics of the software process, in addition to identifying the functional and non-functional requirements of the construction or of a software in the modeling of analysis of requirements and prototypes of a software.
+/
+NETWORK ADMINISTRATION
+At present we can observe in any work environment, and even any environment around us with a computer system. As we can imagine, all these machines are interconnected with each other in such a way that there is communication between all of them, being able to be at a local level, through a LAN network, at a global level, with a WAN or Internet connection.
+/
+COMPUTER MATH
+The goal of computational mathematics, simply put, is to find or develop algorithms that solve mathematical problems computationally (that is, using computers). In particular, we want any algorithm we develop to fulfill four properties:
+/
+PARALLEL PROGRAMMING
+The rationale for block-oriented sequential programming is that a rearrangement in the (re) use of the input data of a problem allows to obtain a great computational benefit thanks to the efficient use of the memory hierarchy. An adequate division of our problem in blocks allows to obtain more efficient programs for the same architecture.
+/
+SOFTWARE DEVELOPMENT
+The future graduate in Computer Science will have a varied training in all fields of production and research both in their technical capacities and entrepreneurial skills. This course will train you as a user of a large number of areas and will put you in contact with creatives from the different areas of production.
+/
+SECURITY IN COMPUTER SYSTEMS
+The course will initially give the student the prior knowledge to carry out an implementation of information security management systems, it will also provide the knowledge to carry out a good control of security activities in computer systems, which allows to consolidate the concepts, techniques and methods that allow managing the security of the company's information efficiently and minimizing risk that jeopardizes the operational continuity of the organization. Its subject matter includes: Concepts of computer security, security levels in corporations, risk management and in computer networks and, more specifically, in TCP / IP networks.
+/
+HUMAN-COMPUTER INTERACTION
+The user interface is the visible part of computer applications. On the other hand, the usability of the applications implies the creation of user interfaces for the applications that are easy to learn, to use and that satisfy the user.
+/
+CONCURRENT AND DISTRIBUTED PROGRAMMING
+The Distributed and Concurrent Programming Course is directly linked to the evaluation of operating systems and therefore subdivided into two main topics. On the one hand, concurrent programming is linked to the concepts of multiprocess and multiprocessor, for which the basic techniques of concurrency management will be studied, such as the mechanisms of synchronization and communication between processes. On the other hand, regarding distributed programming, it is related to the development of systems in which the network is a critical infrastructure. Therefore, the student will learn the basic fundamentals of client / server programming under the UDP / TCP protocols, until scaling to the highest level by automating system operations. In this context, the RCP / RMI paradigms and component technology will be worked on, an overview of the type of applications and modern distributed systems (Clustering, Grid, Cloud, P2P).
+/
+COMPUTER GRAPHICS
+This course is designed for students in the seventh semester. This course offers a general introduction to the principles, techniques and tools necessary for the development of applications and graphic systems in 2D and 3D. In addition, it offers in-depth hands-on experience in developing modern graphics systems and applications.
+/
+ARTIFICIAL INTELLIGENCE
+This course represents the gateway or presentation to Artificial Intelligence techniques and knowledge engineering, that is, topics related to intelligent systems. These techniques are included today among the most required for solving complex problems in any field of scientific or professional development related to Computer Science. Develop programs that have intelligent behavior with different topics such as search, knowledge representation, intelligent agents, natural language processing, learning, neural networks, decision trees and machine learning.
+/
+SECURITY IN COMPUTER SYSTEMS
+The course will initially give the student the prior knowledge to carry out an implementation of information security management systems, it will also provide the knowledge to carry out a good control of security activities in computer systems, which allows to consolidate the concepts, techniques and methods that allow managing the security of the company's information efficiently and minimizing risk that jeopardizes the operational continuity of the organization. Its subject matter includes: Concepts of computer security, security levels in corporations, risk management and in computer networks and, more specifically, in TCP / IP networks.
+/
+Software quality
+The Software Quality subject is of a theoretical-workshop type in a software development process. This subject encourages individual and team study, work and research, as well as the rotation of roles of students to complete their professional training within the current scientific and technological context.
+/
+BIOINSPIRED ALGORITHMS
+This course deals with algorithms that are inspired by natural phenomena and applies them to optimization, design, and learning problems. The focus is on the algorithm abstraction process of the observed phenomenon, its analysis of results and comparison. This approach will be done primarily through evolutionary computing, swarm intelligence (ant colony and particle-based methods), and neural networks.
+/
+SYSTEMS EMBEDDED IN REAL TIME
+The course introduces the student to the particular problems of real-time systems, and the characteristics that differentiate them from other computer systems. You will learn the most important methods used to develop real-time systems with a high degree of reliability, especially those related to time measurement, resource use planning, prevention and fault tolerance, and the organization of the software and its application. Process control applications will be considered in a special way. Several techniques will be proposed to develop these applications and the necessary mechanisms will be established to evaluate their benefits.
+/
+DEEP LEARNING IN ARTIFICIAL VISION
+In recent years, deep learning has become a fundamental tool in machine learning for a wide variety of domains and applications. In itself it can be said that it is a technique that uses neural networks to learn representations from a series of observed data, which can be useful to solve high-level problems such as prediction, restoration or classification of signals. Deep learning aims to discover the intrinsic properties of large volumes of data by building distributed representations, both in supervised and unsupervised contexts.
+/
+PROGRAMMING ON MOBILE DEVICES
+Mobile devices are currently the leading information and communication systems thanks to the rapid growth in the number of devices sold. The main objective of the course is to guide the student in the programming of applications for mobile devices, knowing the tools that launch an advanced application, acquiring advanced knowledge for the programming of large applications and their publication and sale.
+/
+MULTIMEDIA
+Multimedia is the discipline related to the design, implementation and evaluation of interactive computer systems for use by human beings seeking to optimize their performance through the components that make it up (Image, Sound, Text, Animation and Video), therefore that the subject provides knowledge that will be applied in any other subject related to the development of applications that use a graphical user interface (GUI).
+/
+MICROPROCESSOR BASED SYSTEM DESIGN
+In this course, you learn the low-level programming model of microprocessor-based digital systems. Specifically, the basic concepts related to low-level programming resources are studied and analyzed, as well as the integration of programs developed as a mixture of medium-level (C language) and low-level (assembler) languages. The different programming strategies of the input and output subsystem resources are analyzed, emphasizing the programming of the most important device drivers.
+/
+BUILT-IN SYSTEMS
+The objective of this course is to allow the student to properly learn the technologies that are used for the development of an application using embedded systems.
+/
+ADVANCED OPERATING SYSTEMS
+The objective of this course is to allow the student to properly learn the technologies that are used to improve an operating system.
+/
+PROGRAMMING PARADIGMS
+Study different types of programming languages. Although most programming languages ​​are using object-oriented or procedural programming, there are other types of programming languages ​​with certain strengths and weaknesses, depending on their use. The knowledge of these Programming Languages ​​is useful according to the efficiency of certain types of applications in the software market. Studying these involves different types of error correction, such as the use of compiled and interpreted languages.
+/
+COMPUTER PHYSICS
+The purpose of the course is to teach the student the ideas of computability used in different areas of physics to solve a set of model problems. Based on analytical approaches, it is intended to obtain consistent reproducible numerical results that predict physical situations associated with the problem under study. The student must assimilate the basic ideas of numerical analysis, such as stability in the calculation and the sensitivity of responses to disturbances in the structure of the problem.
+/
+COMPUTATIONAL BIOLOGY
+This course is designed for students in the ninth semester. This course offers a general introduction to the principles, techniques and tools of computational biology. The topics covered by the course include principles and methods necessary for the study and analysis of DNA and amino acid sequence alignment, the application of statistical and probabilistic methods in the analysis of biological information, the analysis and modeling of phylogenetic trees, mapping of sequences, and an introduction to the study of the structure of proteins.
+/
+SAFETY TOPICS
+Advanced knowledge of security topics will be provided in the system where the methodology for the management of security systems, norms, standards and an integrated perimeter security system for information systems is described.
+/
+COMPILERS
+That the student knows and understands the fundamental concepts and principles of compilation theory to carry out the construction of a compiler. Know the basic techniques used during the intermediate generation process, optimization and code generation. Learn to implement small compilers.
+/
+COMPUTER-AIDED GEOMETRIC DESIGN
+This subject is projected towards the solution of problems posed by human beings in their adaptation to the environment that surrounds them, for the satisfaction of their needs, for which it uses resources such as CAD / CAE / CAM technology.
+/
+CORE AND NETWORKS FOR PARALLEL COMPUTING
+Build an operating system and communications networks that allow the use of multiple cores.
+/
+Declarative programming
+Declarative Programming (p.d.) Is characterized by the fact that programs describe relationships between objects / values; they can be functional relations or more general relations, and they let the executor of the language (interpreter or compiler) try to satisfy them by applying a fixed algorithm of computation.
+/
+Introduction to Quantum Computing
+Quantum computing is an emerging, interdisciplinary field of research that spans mathematics, physics, and computer science, exploiting the quantum nature of matter to exist simultaneously in multiple states.
+/
+NUMERICAL SIMULATION
+The general objective of this course is to motivate computer programming as a very powerful tool for doing mathematics. However, to solve mathematical problems through computer programming, numerical methods that are explained in a basic way are needed, as well as some mathematical models such as differential equations that constitute the most frequent type of models. Consequently, the numerical approach is oriented towards differential equations. It begins with numerical integration, and then deals with root finding issues that are important for the numerical solution in nonlinear differential equations. That is, the content begins with a brief introduction on numerical methods since the objective is to implement numerical algorithms, but to develop reliable work programs, the programmer must have confidence in the basic ideas of the numerical approximations involved.
+/
+COGNITIVE SYSTEMS
+The human brain and the cognitive capacities it generates make up the most complex and sophisticated information-processing device known. To address this complexity is only possible from the combined use of experimental knowledge that comes from fields such as neurobiology, neuroscience or psychology, with the theoretical force of the models and developments of computer science and integrative approaches such as that aims to achieve computational neuroscience or cognitive science.
+/
+NUMERICAL ANALYSIS AND MODELING I
+This course is designed for third year students, being theoretical and practical in nature. The purpose of the course is to know and handle systems of large linear equations, as well as the construction of curves through different interpolation methods.
+/
+NON-LINEAR PROGRAMMING
+This course is conceived for students who belong to the seventh semester of university studies. Because the knowledge acquired in the courses of Linear Programming and Functional Analysis, of the fifth semester of studies, will be useful to be able to learn, manipulate and apply the knowledge offered by the course of Nonlinear Programming.
+/
+Cientific investigation methodology
+This course is conceived for the students of the Eighth semester of university studies because in this instance the students have already acquired knowledge and skills that will allow them to function with solvency in their studies and they will also be able to acquire a general panorama of the formulation of projects in the science area as a basic and fundamental tool in their professional performance.
+/
+Linear Algebra I
+The linear algebra course is a second cycle course, it is theoretical-practical in nature and its objective is to study the structure of vector spaces, linear transformations, the dual space of a vector space and its applications, the determining function, the spaces with internal product and the canonical forms of Jordan.
+/
+Linear Algebra II
+The linear algebra course is a third cycle course, it is theoretical-practical in nature and its objective is to study linear varieties in spaces with internal product. Quadratic and Bilinear Forms. The tensor product of vector spaces and linear transformations. Multilinear and alternate applications, Grassmann's algebra. The operators on spaces with inner product
+/
+Logic and Set Theory
+The course of logic and set theory is a course of the second cycle is theoretical-practical in nature and aims to study propositional logic, inference: direct, conditional and absurd proofs. First-order logic: exchange of quantifiers, demonstration methods in first-order logic. Intuitive Set Theory: Arbitrary Cartesian Products, Equipotence, Numerability, Partially and Fully Ordered Sets, Zorn's Lemma. Axiomatic set theory: the Zermelo-Frankel axioms. Peano structures. The good ordering of the natural numbers.
+/
+NUMERICAL ANALYSIS AND MODELING I
+This course is designed for third year students, being theoretical and practical in nature. The purpose of the course is to know and handle systems of large linear equations, as well as the construction of curves through different interpolation methods.
+/
+Cientific investigation methodology
+This course is conceived for the students of the Eighth semester of university studies because in this instance the students have already acquired knowledge and skills that will allow them to function with solvency in their studies and they will also be able to acquire a general panorama of the formulation of projects in the science area as a basic and fundamental tool in their professional performance.
+/
+Logic and Set Theory
+The course of logic and set theory is a course of the second cycle is theoretical-practical in nature and aims to study propositional logic, inference: direct, conditional and absurd proofs. First-order logic: exchange of quantifiers, demonstration methods in first-order logic. Intuitive Set Theory: Arbitrary Cartesian Products, Equipotence, Numerability, Partially and Fully Ordered Sets, Zorn's Lemma. Axiomatic set theory: the Zermelo-Frankel axioms. Peano structures. The good ordering of the natural numbers.
+/
+Linear Programming and Flow in Networks
+This course is designed for students in the seventh semester of university studies because in this stage of the career students have already acquired basic knowledge and skills that will allow them to function reliably in their studies and will also be able to acquire a general panorama of the linear optimization.
+/
+Convex Analysis
+This course is designed for students in the fourth semester of university studies because they acquire basic knowledge and skills that will allow them to function reliably in their subsequent studies and will also be able to acquire a general overview of Mathematical Optimization.
+/
+DISCREET MATH
+Present some basic methods and concepts of Discrete Mathematics, and describe some of its applications to Computing.
+/
+

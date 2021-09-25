@@ -1,0 +1,233 @@
+Fundamentals of Digital Computing
+Introduction to data processing; study of computer architecture (memory, CPU, peripherals); numbering systems, Boolean algebra (axioms, canonical forms); minimization of Boolean functions (Karnaugh map, Quine -McCluskey method).
+/
+Information systems
+MOTIVATION AND BASIC CONCEPTS IN INFORMATION SYSTEMS. CLASSIFICATION OF INFORMATION SYSTEMS; FUNCTIONS AND COMPONENTS OF INFORMATION SYSTEMS; THE TECHNOLOGICAL, ORGANIZATIONAL AND HUMAN DIMENSIONS OF INFORMATION SYSTEMS. CONCEPTS OF INFORMATION TECHNOLOGY. DEVELOPMENTS OF INFORMATION SYSTEMS: CYCLE, ROLES, TOOLS AND TECHNIQUES. CORPORATE INFORMATION SYSTEMS. SCIENTIFIC INFORMATION SYSTEM. SECURITY AND CONTROL ISSUES IN INFORMATION SYSTEMS. ETHICAL AND INFORMATION TECHNOLOGY ASPECTS.
+/
+Computing I
+Computing I
+/
+Encryption Integers
+Division algorithm, Euclidean algorithm, integer factorization, modular arithmetic, finite induction principle, Fermat's theorem, pseudoprimes, Carmichael numbers, Miller test, Chinese remainder theorem, groups, subgroups, Euler function, Lagrange theorem, Mersenne and Fermat numbers, primality tests, RSA encryption and El Gamal.
+/
+Additional activities
+Additional activities
+/
+Infinitesimal Calculus I
+Functions of a real variable. limits and derivatives. calculation of derivatives and applications. mean value theorem. Definite integral. Fundamental theorem of the calculus. Calculation of integrals and applications.
+/
+Information Organization
+INFORMATION - BASIC CONCEPTS, TYPES OF INFORMATION; INFORMATION ACROSS THE TIMES; COMPETITIVE ADVANTAGE OF THE INFORMATION; APPROACHES FOR PROCESSING INFORMATION (CONSULTATION, SEARCH, NAVIGATION); DATABASES, HYPERMIDA, DOCUMENT MANAGEMENT, CONTENT MANAGEMENT; INFORMATION ON THE WEB; INFORMATION ORGANIZATION STRATEGIES; CLASSIFICATION, VOCABULARY CONTROL, TAXONOMIES, THESAURIS, METATAS. THE HUMAN FACTOR
+/
+Computation II
+Fundamental concepts of object-oriented programming using a Java language: classes, objects, constructors and methods, encapsulation. Inheritance and polymorphism. UML notation for classes. Application modeling with abstract classes and interfaces. Error and exception handling. Generic data structures with collections, lists, maps and iterators. I/O with streams, files, sockets and object persistence with serialization. Interactive graphical interface (GUI) programming. Event handling using listener objects (listeners). Graphics in Java. Notions of good program design practices, with design patterns. Testing, debugging and documentation of programs. Parallel threads-lines of execution in Java. The Servlet API: lifecycle, sections, cookies and filters. Use of Servlets as Application Controllers (MVC). Development of pages with JSP: Directives, script elements, actions and implicit objects. JavaBeans Components. JSP pages for the interface layer (MVC).
+/
+Logical Circuits
+VHDL. Characteristics of logic gates. Combinatorial circuits. Complex circuits (coders, decoders, multiplexers, adders, comparators, shifters). Implementation of logic functions with multiplexers and decoders. Memories (ROM, RAM, FLASH). Programmable devices (PLA, PAL, CPLD, FPGA). Sequential circuits. Flip-flops, registers, shift registers, counters. Moore and Mearly machines. State diagram. Analysis and synthesis of state machines.
+/
+Combinatorial Mathematics
+Permutations; Simple Arrangements and Combinations with repetitions; Binomial coefficients and Pascal's Triangle; Newton's Binomial and Multinomial Theorem. Inclusion and Exclusion Principle; Recurrence Relations; Graph Theory: Basic Concepts; Connectivity; Trees; Eulerian and Hamiltonian Graphs, Planar and Dual Graphs; Directed Graphs.
+/
+Integ and Differential Calculation II
+Plane and space curves, velocity and acceleration. Functions of two and more variables, directional derivatives. Partial derivatives and derivative as linear approximation. Implicit functions, lagrange multipliers. Hessian. First-order ordinary differential equations and second-order ordinary differential equations with constant coefficients.
+/
+Mechanics, Oscillation and Waves
+One and two-dimensional movements. Applications of Newton's Laws. Non-inertial references. Work and mechanical energy. Conservation of energy and momentum. Rotations and angular momentum. Dynamics of rigid bodies. Periodic movement, damped and forced oscillations. Fluid mechanics. Mechanical waves, interference and normal modes. Sound and hearing.
+/
+Algorithmic Linear Algebra
+MOTIVATION: LINEAR SYSTEMS, WEB SEARCH. VECTORS IN VECTOR SPACE Rn. INTERNAL PRODUCTION, STANDARD AND ORTHOGONALITY. ORTHOGONAL SUBSPACES AND COMPLEMENTS. BASE AND DIMENSION. GAUSS METHOD. CHANGES IN COORDINATES. LINEAR TRANSFORMATIONS IN Rn AND MATRICES; CORE AND IMAGE. ORTHOGONAL PROJECTIONS AND TRANSFORMATIONS. GRAM-SCHIMDT AND QR FACTORATION. HOUSEHOLDER REFLECTIONS, ROTATIONS AND TRIANGULATION. SYMMETRICAL MATRICES AND CHOLESKY FACTORATION. SELF-VALUES AND SELF-VECTORS. DIAGONALIZATION OF SYMMETRIC MATRICES. CONICAL AND SQUARE IDENTIFICATION.
+/
+Data Structure
+Complexity of algorithms. Linear lists in sequential and dynamic allocation. Trees, binary search trees, and AVL trees. sets, collection of disjoint sets. Priority lists. ordering
+/
+Formal Languages
+Languages ​​and grammars (regular, context-free, context-sensitive). Finite state machines (non-deterministic models, regular expressions, minimization). Stack automaton, Turing machine. stop problem
+/
+Computers and Programming
+Structure of computers. Machine language. Addressing techniques. Digital representation of data. Symbolic encoding and assemblers. Assembly code generation for high-level language builds. Implementation of calls to subroutines. Storage and manipulation of vectors and heterogeneous structures. Process structure, exception and interruption handling, communication between processes and processes with the operating system. symbol resolution, static and dynamic libraries and program linking.
+/
+Int and Differential Calculation III
+Multiple integrals. Iterated Integration. Variable and Jacobian changes. Line integral and potential. Surface integrals. Classical theorems of Green, Stokes and Gauss.
+/
+Electromagnetism and Optics
+Coulomb's Law. Electric field. Gauss' law. Electrostatic potential. Capacitors and dielectrics. Current and resistance. Magnetic field. Magnetic field source: Ampere's law. Faraday's Law. Inductance. Maxwuel Equations. Electromagnetic waves. Light properties. Light interference and diffraction. Introduction to relativity.
+/
+Competing Computing
+Concurrent, parallel and distributed programming environments. Creation of processes and threads. Programming with message exchange (send/receive message exchange primitives). Classic problems (producer/consumer, readers/writers, master/slave). Task coordination and synchronization techniques. Introduction to distributed objects and remote method invocation. Testing and debugging concurrent programs. Modeling and implementing concurrent programs
+/
+Numerical calculation
+Taylor series. Binary representation of real and integer numbers. Errors. Calculation of roots of functions. Numerical Methods for Linear Systems. Polynomial Interpolation. Minimum squares method. Numerical integration. Numerical resolution of Ordinary Differential Equations.
+/
+Algorithms and Graphs
+Basic Concepts, Graph Representation, Topological Ordering, Graph and Digraph Search (width and depth), Algorithm Development Techniques, Decomposition, Recursion, Greedy Algorithms, Dynamic Programming and Application of Used Techniques. Maximum Flow.
+/
+Int and Differential Calculation IV
+Taylor's Polynomial. Sequences and numerical series. Laplace transform. Fourier series and Fourier transform. Applications to partial derivative equations and digital signal processing
+/
+Logic
+CLASSICAL PROPOSITIONAL LOGIC: LANGUAGE, SEMANTICS, DEDUCTIVE SYSTEM (NATURAL DEDUCTION, AUTOMATIC THEOREM TASTER AND AXIOMATIC METHOD) AND RELATIONSHIPS BETWEEN SYNTAX AND SEMANTICS. FIRST ORDER CLASSICAL LOGIC: LANGUAGE, SEMANTICS, DEDUCTIVE SYSTEMS (NATURAL DEDUCTION AND AXIOMATIC METHOD) AND RELATIONSHIPS BETWEEN SYNTAX AND SEMANTICS. APPLICATION OF LOGIC IN COMPUTING.
+/
+Computers and Society
+ANALYSIS OF THE USE OF INFORMATION TECHNOLOGIES AT THE LEVELS: SOCIAL, ECONOMIC, POLITICAL AND CULTURAL. CRITICAL TO THE INDISCRIMINATE ADOPTION OF NEW TECHNOLOGIES. IMPACTS ON WORK DUE TO THE ADOPTION OF NEW TECHNOLOGIES. NEW PROFESSIONAL PROFILES ASSOCIATED WITH THE COMPUTER. USES OF COMPUTER IN EDUCATION. HISTORY OF NATIONAL COMPUTER POLICY AND FUTURE TRENDS.
+/
+Computer Architecture I
+INTRODUCTION, BRIEF HISTORY OF COMPUTING, LOGICAL AND FUNCTIONAL ORGANIZATION OF A CPU (VON-NEUMANN MODEL). TYPICAL FORMAT FOR CODING AN INSTRUCTION. ARITHMETIC AND LOGICAL UNIT (UAL): TYPICAL ARCHITECTURE, INTERNAL PATHS, RECORDS, PRIMITIVE FUNCTIONS, BASIC OPERATION AND FLOATING POINT. CONTROL UNIT (CU): TYPICAL ARCHITECTURE OF A CU WITH CONVENTIONAL CIRCUIT AND MICROPROGRAMMED, CLOCK AND SYNCHRONY, CLASSIC THREE-STROKE MACHINE, HORIZONTAL AND VERTICAL MICROPROGRAMMING. MEMORY: HIERARCHY, SECONDARY MEMORIES, MEMORY BUS. INPUT AND OUTPUT UNIT: I/E BUS, PROGRAMMED I/O OR BY "STATUS LOOP", SOFTWARE INTERRUPTION, MULTI-LEVEL INTERRUPTION, I/O BY DIRECT MEMORY ACCESS (DMA). INTRODUCTION TO PARALLELLISM AND MULTIPROCESSING: FLYNN CLASSIFICATION, "PIPELINE" ARCHITECTURES, VECTOR MACHINES, ARCHITECTURES WITH MULTIPLE FUNCTIONAL UNITS, SUPER SCALAR PROCESSORS, RISC PROCESSORS.
+/
+Compilers I
+Overview - Symbol tables - lexical analysis - syntax specification of programming languages ​​- Top-Down and Bottom-UP synthetic analysis - Intermediate forms - Basic concepts of syntax-driven translation- basic concepts of optimization-error recovery. Basic concepts of register allocation.
+/
+Database I
+ARCHITECTURE OF DATABASE MANAGEMENT SYSTEMS. DATA MODELING. RELATIONAL DATABASE. DATABASE PROJECT. OPERATIONAL CONTROLS IN DATABASE SYSTEMS.
+/
+Fundamentals of Software Engineering
+Lifecycle models. SW configuration management. SW Quality Assurance. Software requirements and architecture. Software design concepts and techniques. UML diagrams used in software design. Testing of modules. Testing Strategies. SW Metrics. Software project management: project scope (WSB). Software project risk analysis. Software project planning: CPM and PERT.
+/
+Computer Graphics I
+Introduction.Graphics.OpenGL.Geometry.Geometric Modeling.Three-Dimensional Visualization.Cropping.Rasterization.Surface Visibility.Lighting Models.Colorization.Mapping.Color.Image.
+/
+Linear Programming I
+Modeling.Graphic Resolution.Basic Theorems.Simplex Algorithm.Initialization Techniques.Two-Phase Methods.Convergence and Degeneration Problems.Revised Simplex Method.Duality.Dual Simplex Method.Sensitivity Analysis.The Transport Problem.
+/
+Artificial intelligence
+History and Basic Concepts. Prolog language. Uninformed and informed search methods. Genetic algorithms. Games. Knowledge representation. Planning.
+/
+Statistics and probability
+Basic notions of statistics and probability. Exploratory analysis. Random variables and probability distributions. Joint marginal and conditional distributions. Expected values. Limit theorems. Central limit theorem.
+/
+Operating Systems I
+REVIEW OF TOPICS ON ARCHITECTURE AND ORGANIZATION OF COMPUTERS RELATED TO THE PROJECT OF OPERATING SYSTEMS. FUNCTIONALITY AND STRUCTURES OF AN OPERATING SYSTEM. PROCESSOR MANAGEMENT (CONCEPT AND CONTROL OF PROCESSES AND THREADS, COMMUNICATION AND SYNCHRONIZATION BETWEEN PROCESSES AND THREADS, DEADLOCK AND STARVATION, SCHEDULE OF PROCESSES AND THREADS). MEMORY MANAGEMENT (STORAGE HIERARCHY, TECHNIQUES FOR MAIN, CACHE AND VIRTUAL MEMORIES MANAGEMENT). SECONDARY MEMORY MANAGEMENT (DISK STRUCTURE, DISK REQUIREMENTS SCHEDULE, RAID TECHNIQUES). FILE SYSTEM (ORGANIZATION AND FUNCTIONALITY OF THE FILE SYSTEM, ACCESS METHODS AND OPERATIONS ON FILES, IMPLEMENTATION OF THE FILE SYSTEM). INPUT AND OUTPUT MANAGEMENT (ORGANIZATIONAL STRUCTURE AND INTERFACE OF I/O DEVICES, HANDLING OF I/O REQUESTS). DESIGN AND IMPLEMENTATION OF OPERATING SYSTEMS (MONOLITHIC KERNEL, MICROKERNEL, EXOKERNEL, EXTENSIBLE OPERATING SYSTEMS, VIRTUALIZATION CONCEPT AND IMPLEMENTATION OF VIRTUAL MACHINES, SAFETY REQUIREMENTS IN THE IMPLEMENTATION OF OPERATING SYSTEMS). EXAMPLES OF CONTEMPORARY OPERATING SYSTEMS (WINDOWS, LINUX, MACOS X, BSD).
+/
+Evaluation and Performance
+PROBABILITY THEORY REVIEW. SIMULATION OF DISCRETE EVENTS: GENERATION OF RANDOM VARIABLES, NOTIONS OF ANALYSIS OF SIMULATION RESULTS. INTRODUCTION TO STOCHASTIC PROCESSES. MARKOV CHAINS. APPLICATIONS TO COMPUTING AND DATA COMMUNICATION SYSTEMS. NOTIONS OF QUEUE NETWORKS THEORY AND THEIR APPLICATIONS
+/
+Teleprocessing and Networks
+Introduction; Network Architecture; Physical Level; Access Technology; Link Protocols; Multiple Access to Transmission Media; Ethernet Technology and its variations; Routing protocols; Network congestion; Transport protocols; The Internet and its protocols; Traffic; Frame Relay and MPLS.
+/
+Final Course Project
+Final Course Project
+/
+Operating Systems II
+Review of fundamental concepts of conventional operating systems. Advanced operating system topics (the inner workings of the operating system kernel, I/O architecture and device driver development, virtual file system, real-time scaling, and multiprocessor scaling). Network operating systems (concept and main features, computer network interface and socket programming, client/server interaction model, network file system). Distributed operating systems (concept and main features, process migration and distributed process management, distributed global state, distributed mutex, distributed deadlock, distributed file system. Real-time operating system (key features and application scenarios, implementation examples) ) Embedded operating systems (key features and application scenarios, implementation examples).
+/
+Intelligent Complex Systems I
+Representation of knowledge, intelligent computing elements, characterizations of adaptive complex systems, introduction to intelligence and complexity, introduction to computational biology, introduction to DataMining.
+/
+Logic in Programming
+Introduction to modal logic: language, possible world semantics, normal modal systems (K, T, D, S4, S5) and modal logic applications to computation. Temporal logics: CTL, LTL and CTL*. Verification of models and complexity. symbolic model verification: binary decision diagram, algorithms and examples of model verification application.
+/
+Linear Programming II
+transport problem. Basic solution. Simplex Transport Method. Assignment problem. Linear programming method with integer variables. Interior point methods for PL. Related Algorithms. Karmarkar Algorithm. Complexity. Barriers, Centers and Central Points. Central trajectory algorithms. Applications in Combinatorics.
+/
+Risk analysis
+Risk concepts and risk analysis; The risk management process; Qualitative risk analysis: Probability vs. Impact tables; Monte Carlo Method; Fundamentals of R language; Quantitative analysis of project cost risk; Quantitative analysis of project term risk; Introduction to quantitative risk assessment of financial investments
+/
+Computer Graphics II
+Computational geometry. C++ and STL programming. Advanced preview. Graphics card programming.
+/
+Introduction to Deductive Thinking
+Sets and their operations; basic concepts of logic; definition, theorem and proof; length and area measurements; Pythagoras' theorem and areas; Congruence and similarity of triangles; plane geometry applications; irrationality of √2 and real numbers; coordinates in the plane; function, domain and image; circumference; trigonometry; linear and quadratic functions; function graphs; polynomial functions; roots and division of polynomials; exponential and logarithm.
+/
+Numerical Methods I
+POLYNOMIAL INTERPOLATION. SPLINE FUNCTIONS. CURVES ADJUSTMENT. NUMERICAL INTEGRATION. SYMMETRIC MATRIX. POSITIVE DEFINED MATRIX. DIRECT (GRAUSS, LU, CHOLESKY), AND ITERATIVE (GAUSS-JACOBI, GAUSS-SEIDEL, CONJUGATE GRADIENT) METHODS FOR LINEAR SYSTEM. NON-LINEAR SYSTEM. ELEMENTS OF LINEAR ALGEBRA. CONDITIONING NUMBER. PROPAGATION OF ERRORS. NUMERICAL RESOLUTION OF LARGE SPARK SYSTEMS. NUMERICAL METHODS FOR DIFFERENTIAL EQUATIONS.
+/
+Numerical Methods II
+Nonlinear systems of equations. Orthogonal matrices, spectral theorem, qr decomposition, singular value decomposition ( dvs ). calculation of eigenvalues, convergence, least squares problems by ( dvs ). pseudo-inverse.
+/
+Economy
+Economic history: industrial revolution, expansion of capitalism worldwide, development and underdevelopment. Concepts of political economy: economic system, productive units and markets, currency, banks and financial systems, state sector, external sector. Brazilian economy: recent evolution of the Brazilian economy, inflation, income distribution.
+/
+Special Topics in Graph Theory
+Topics of current interest in Graph Theory taught at undergraduate level. Subjects may vary at each academic term, subject to prior approval by the Graduate Committee of the Institute of Mathematics.
+/
+Combinatorial Optimization
+Maximum flow in networks, pairing, entire programming, scheduling, minimum path.
+/
+Graph Theory
+BASIC CONCEPTS, TREES, CONNECTIVITY, EULERIAN AND HAMILTONIAN CYCLES. PAIRINGS. COLORING OF VERTEX AND EDGES. PLANARITY
+/
+Nonlinear Programming I
+Convex analysis elements. Unrestricted nonlinear programming problem. Optimality conditions. Linear search. Conjugated Cauchy Gradient Methods. Newton and quasi-Newton method. Quadratic problems. Least squares
+/
+Computer Applied to Teaching
+Types of computer use in teaching. Criteria for evaluating systems dedicated to teaching/learning processes. Computer languages ​​and technologies in the development of systems dedicated to teaching/learning. AI/IC techniques and their applications in teaching/learning computing platforms. ITS. Smart educational games. Cognitive rehabilitation via intelligent computer games.
+/
+Distributed systems
+MAB367-Distributed Systems
+Fundamental Concepts. System Paradigms Dist. Models (synchronous, asynchronous, channel and process failures). Synchronization and coordination (logical clocks, causality, global states, leader election, distributed agreement, distributed mutual exclusion, deadlock detection). Fault tolerance. Efficiency measures. Middleware concepts: usage needs, features, reference model. Overview of Traditional Middleware Technologies: COM, CORBA, COM+, .NET, EJB. Object Distribution Platforms. Programming with JEE. Web Services Technologies. Next-Generation Middleware. Introduction to Cloud Computing.
+/
+Internet of Things I
+History, concepts and definitions. Basics of electricity and electronics. Development platforms. Communication networks and protocols. Javascript. Johnny Five. Websockets. MQTT protocol.
+/
+Database II
+DATABASE HISTORY. DATABASE ARCHITECTURE. OBJECT-ORIENTED DATABASE AND OBJECT-RELATIONAL. LAYERS OF PERSISTENCE. DISTRIBUTED DATABASE. AUTONOMOUS DATABASE - SELF-CONFIGURABLE DATABASE. PROCESS MANAGEMENT AND SOA. BASIC DATA MINING CONCEPTS. KNOWLEDGE MANAGEMENT AND ANALYSIS OF SOCIAL NETWORKS.
+/
+Games Project
+Conceptualization of games and computer games. History of games and computer games. Games as cultural elements. Players, archetypes, ratings, characteristics, desires and behaviors. Games and genre, games for girls. Emotions and experiences in games. Game mechanics (rules). The dynamics of games. The plot and narrative in games. The art in games. Interactive fiction, Model games as state machines. Casual games. Serious games: educational and business. Level design. Business models for games.
+/
+Agile Development
+Introduction (history of computing and paradigm shifts). Agile Movement: agile manifesto; XP, eXtreme Programming; Scrum; Kanban; Lean Start Up. Agile Specification: Product Vision; Product Backlog; User Stories; Story Points; Epics; Kano. Agile Monitoring: Added value; Burn-down chart; Cultivative Flow Chart; Continuous planning. Agile Development: Automated Tests; Continuous Integration; TDD, Test Driven Development; Dojo; Types of tests: unit, integration, acceptance, interface; BDD and ATDD (Behavior and Aceptance Test Driven Development); Tools.
+/
+Knowledge management
+Theoretical and methodological foundations of knowledge management. Main knowledge management approaches and their different perspectives, including human aspects, collaboration, organizational culture. The importance of knowledge for the organization. Learn knowledge management implementation processes, techniques and tools to help KM, applications, cases and main trends in the subject, social networks: characteristics and evaluation techniques.
+/
+Special Topics in Artificial Int
+Special Topics in Artificial Int
+/
+Data Mining
+Initial considerations of the area and applications. Knowledge discovery process (KDD) in databases. Statistical Data Analysis. Classification. Grouping. Association. Analysis of data mining tools. default, fraud detection and others.
+/
+Information Systems Project
+Software Architecture. Software architecture based on patterns (POSA 1,2 and 3). Study of the main architectural patterns. Design patterns (Design patterns).
+/
+Proj System Inform Laboratory
+Theoretical models of software project life cycle. Agile processes. detailed description of the Unifield Process (public version of the RUP). Development of a project following the UP lifecycle.
+/
+Esp Topics in Graphic Comp II
+The course content will be free, aiming to address advanced topics in the area of ​​computer graphics and/or topics that complete the knowledge covered by the curriculum subjects. At each edition of the discipline a specific detailed menu will be prepared and filed.
+/
+Intelligent Auton System Robots
+Machine learning elements, State of the art in robotics and autonomous systems, Introduction to biorobotics, Navigation studies in bees, schools, birds etc, Behavior control of intelligent robots.
+/
+Programming languages
+Evolution of languages ​​- classification - general characteristics of some languages ​​- syntax - interpretation x program execution object - variables, expressions, commands - types - scope - memory management (static, stack, heap) - procedures and functions (parameter passing, side effect, coroutines, generic functions) - data abstraction - exception handling - concurrency (traffic lights and monitors) - functional programming - logical programming - languages ​​for data flow machines. Object-oriented languages.
+/
+Computer Ethics
+Computer Ethics
+/
+machine learning
+Basic concepts; Supervised learning paradigms; Model selection; Evaluation and comparison of learning algorithms; Learning algorithms committees; Unsupervised learning; Advanced Topics
+/
+Top Esp in Parallel Program
+Relevant topics in the area of ​​parallel programming not covered in other subjects of the course curriculum.
+/
+Introduction IT Strategic Management
+Concepts and Terminology; The new business environment (the digital economy); Strategic Tools:; Definition of the business (Mission, Vision, Values); SWOT analysis; Porter: Generic Strategies, 5 Forces (Direct Competitors, Substitutes, Suppliers,
+/
+Introduction Decision Support Analysis
+MAB101-Introd Decision Support Analysis
+Introduction; Decision theory: concepts, methods and techniques; Typology and decision levels; Challenges of decision making in the complex world; Uncertainties and Choices; Decision components; Decision making process; Uncertainties and Risks;
+/
+Semi-structured Data and XML
+Difference between unstructured, semi-structured data.History on semi-structured data.The XML language and its related patterns:DTD,XML Schema,XSLT,XPath and XQuery.APIs SAX and DOM. Semi-structured data storage (native and hybrid SBGDs).
+/
+Topics Esp in Database
+Variable menu comprising topics related to advances and trends in the database area.
+/
+Computer Architecture II
+Functional blocks of the computer. Data flow and control in the execution of instructions. Arithmetic units. Conventional and micro-programmed control unit. Fast processors. Memory: Protection, Virtual, Addressing, Error handling. Advanced architectures.
+/
+Information Technology in Administration
+Business Schools. Organizational Structures. Departmentalization. Administrative Centralization and Decentralization. Authority. Means of formalization. Organization of an IT sector in the company. Computer applications in administration.
+/
+Numerical Analysis of Eq Ordinary Differences
+Fundamentals of Ordinary Differential Equations. Discretization. Compatibility. Stability and convergence. Initial value and boundary problems. Single and multiple step methods, prediction - correction, shooting, finite differences. Integral and variational methods.
+/
+Computer Enterprise
+Development of entrepreneurial capacity in the IT area, with emphasis on the analysis of the IT business, entrepreneur profile, management system, negotiation techniques, quality and competitiveness.
+/
+Top Comp Intellectual Esp
+Introduction to concepts and techniques for processing and analyzing digital images. Concepts inherent to the treatment of digital images with a view to designing and building systems capable of locating, segmenting and recognizing patterns in static and moving digital images.
+/
+information retrieval
+Information retrieval assessment; Classic recovery models (Boolean, Vector and Probabilistic); Text operations and queries (pre-processing); Visualization techniques for information retrieval systems.
+/

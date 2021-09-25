@@ -1,0 +1,164 @@
+Discrete Structures I
+Discrete structures provide the necessary theoretical foundations for computation. Said fundamentals are not only useful for developing computation from a theoretical point of view as it happens in the course of computation theory, but they are also useful for the practice. computer science; in particular, it is applied in areas such as verification, cryptography, formal methods, etc.
+/
+Computer Fundamentals
+Programming is one of the pillars of the Science of
+Computing; Any professional in the Area will need to program to realize their models and proposals. This course introduced participants to the fundamental concepts of this art. Topics include data types, control structures, functions, lists, recursion, and the mechanics of execution, testing, and debugging.
+/
+Basic mathematics
+The course aims to develop in students the skills to deal with models in science and engineering related to single variable differential calculus skills. In the course it is studied and applied concepts related to calculation limits, derivatives and integrals of real and vector functions of single real variables to be used as base and support for the study of new contents and subjects. Also seeks to achieve reasoning capabilities and applicability to interact with real-world problems by providing a mathematical basis for further professional development activities.
+/
+Comprehensive communication
+To achieve effective communication in the personal and professional sphere, the management
+adequate language in oral and written form
+/
+Study Methodology
+Students in vocational training need to improve their attitude towards academic work and demands. In addition, it is convenient for them to understand the mental process that occurs in the exercise of study to achieve learning; this way they will know where and how to make the most convenient adjustments to their needs. Likewise, they require mastering various ways of studying, so that they can select the most convenient strategies for their personal learning style and the nature of each subject. In the same way, know and use ways to search for academic information and carry out creative work of a formal academic type, so they can apply them to their university work, making their effort successful.
+/
+Professional technical English I
+Professional technical English I
+/
+Discrete Structures II
+To understand advanced computational techniques, students should have a strong understanding of the various discrete structures, structures that will be implemented and used in the laboratory in the programming language.
+/
+Computer Science I
+This is the second course in the sequence of introductory computer science courses. The course will serve as a bridge between the imperative and the object-oriented paradigm, in addition to introducing participants to various topics in the area of ​​computation such as: algorithms, data structures, engineering of the software
+/
+Calculation in a Variable
+The course develops in students the skills to deal with models of science and engineering skills. In the first part of the course a study of the functions of several variables, partial derivatives, multiple integrals and an introduction to vector fields is performed. Then the student will use the basic concepts of calculus to model and solve ordinary differential equations using techniques such as Laplace transforms and Fourier series.
+/
+Professional technical English II
+Professional technical English II
+/
+Computer Architecture
+It is necessary for the professional in Computer Science to have solid knowledge of the organization and operation of the various current computer systems in which the programming environment is installed. With this, they will also know how to establish the scope and limits of the applications that are developed according to the platform being used.
+/
+Computer Science II
+The object-oriented paradigm allows us to combat complexity by making models from abstractions of the elements of the problem and using techniques such as encapsulation, modularity, polymorphism and inheritance. Mastering these topics will allow participants to provide computational solutions to simple real-world design problems.
+/
+Platform Based Development
+The world has changed due to the use of the web and related technologies, rapid, timely and personalized access to information, through web technology, ubiquitous and pervasive; They have changed the way we do things? How do we think? And how does the industry develop?
+/
+Interdisciplinary Work I
+Interdisciplinary Work I
+/
+Calculation in several variables
+This course introduces the first concepts of linear algebra, as well as numerical methods with an emphasis on solving problems with the free open source software package Scilab. Mathematical theory is limited to fundamentals, while effective application for problem solving is privileged. In each topic, a few methods of relevance to engineering are taught. Knowledge of these methods prepares students for the search for more advanced alternatives, if required.
+/
+Professional technical English III
+Professional technical English III
+/
+Algorithms and data structures
+The theoretical foundation of all branches of computing rests on algorithms and data structures. This course will provide participants with an introduction to these topics, thus forming a basis that will serve for the following courses in the career.
+/
+Computation Theory
+This course covers formal languages, computational models, and computability, as well as includes foundations of computational complexity and complete NP problems.
+/
+Databases I
+Information management (IM) plays a major role in almost all areas where computers are used. This area includes the capture, digitization, representation, organization, transformation and presentation of information; algorithms to improve the efficiency and effectiveness of accessing and updating stored information, data modeling and abstraction, and techniques for storing physical files
+/
+Linear Numerical Algebra
+This course is important because it develops topics of Linear Algebra and Ordinary Differential Equations useful in all those areas of computer science where you work with linear systems and dynamical systems.
+/
+Statistics and Probabilities
+It provides an introduction to probability theory and statistical inference with applications necessary in data analysis, random model design, and decision making.
+/
+Databases II
+Databases II
+/
+Analysis and design of algorithms
+An algorithm is essentially a well-defined set of rules or instructions to solve a computational problem. The theoretical study of the performance of algorithms and the resources used by them, generally time and space, allows us to evaluate whether an algorithm is adequate to solve a specific problem, compare it with other algorithms for the same problem, or even to delimit the border between the viable and the impossible
+/
+Software Engineering I
+The task of developing software, except for extremely simple applications, requires the execution of a well-defined development process. Professionals in this area require a high degree of knowledge of the different models and development process, so that they are able to choose the most suitable for each development project. On the other hand, the development of medium and large-scale systems requires the use of pattern and component libraries and mastery of techniques related to component-based design.
+/
+Compilers
+That the student knows and understands the fundamental concepts and principles of compilation theory to carry out the construction of a compiler
+/
+Exploratory Analysis of Spatial Data
+Exploratory Analysis of Spatial Data
+/
+Differential equations
+This course is important because it develops topics of Linear Algebra and Ordinary Differential Equations useful in all those areas of computer science where you work with linear systems and dynamical systems.
+/
+Competitive Programming
+Competitive Scheduling combines problem solving challenges with the fun of competing with other people. It teaches participants to think faster and develop problem-solving skills, which are in high demand in the industry. This course will teach algorithmic problem solving quickly by combining the theory of algorithms and data structures with problem solving practice.
+/
+Software Engineering II
+The topics in this course extend the ideas of software design and development from the introductory programming sequence to encompass problems encountered in large-scale projects. It is a broader and more complete vision of Software Engineering appreciated from a Project point of view.
+/
+Advanced Data Structures
+Algorithms and data structures are a fundamental part of computer science that allow us to organize information in a more efficient way, so it is important for every professional in the area to have a solid training in this aspect
+/
+Operating systems
+An Operating System is a program that acts as an intermediary between the user and the machine. The purpose of an operating system is to provide an environment in which the user can run its applications.
+/
+Interdisciplinary Work II
+Interdisciplinary Work II
+/
+Mathematics applied to computation
+This course is important because it develops topics of Linear Algebra and Ordinary Differential Equations useful in all those areas of computer science where you work with linear systems and dynamical systems.
+/
+Computing in Society
+It offers a broad view of the ethical and professional aspects related to computing. Topics covered cover ethical, social, and political issues. The moral dimensions of computing. The methods and tools of analysis. Administration of computational resources. Security and control of computer systems. Professional and ethical responsibilities. Intellectual property.
+/
+Computer graphics
+It offers an introduction to the area of ​​Computer Graphics, which is an important part of Computer Science. The purpose of this course is to investigate the fundamental principles, techniques and tools for this area.
+/
+Research in Computer Science
+Research in Computer Science
+/
+Business Software Development
+Analyze techniques for the correct implementation of scalable, robust, reliable and efficient Information Systems in organizations.
+/
+Networks and Communication
+The ever increasing development of communication and information technologies means that there is a marked tendency to establish more computer networks that allow better information management.
+/
+Artificial Intelligence
+Research in Artificial Intelligence has led to the development of numerous relevant techniques, aimed at the automation of human intelligence, giving a panoramic view of different algorithms that simulate the different aspects of behavior and intelligence. of the human being.
+/
+Art and Technology
+Art and Technology
+/
+Human Computer Interaction
+Language has been one of the most significant creations of humanity. From body and gesture language, through verbal and written communication, to iconic symbolic codes and others, it has enabled complex interactions between human beings and considerably facilitated the communication of information. With the invention of automatic and semi-automatic devices, including computers, the need for languages ​​or interfaces to interact with them has become very important.
+/
+Final Degree Project I
+Final Degree Project I
+/
+Parallel and Distributed Computing
+The last decade has brought explosive growth in multiprocessor computing, including multi-core processors and distributed data centers. As a result, parallel and distributed computing has evolved from being a widely elective subject to being one of the main components in the undergraduate computer science studies mesh. Both parallel and distributed computing involve the simultaneous execution of multiple processes, whose operations have the potential to interleave in a complex way. Parallel and distributed computing builds on foundations in many areas, including understanding the fundamental concepts of systems, such as: concurrency and parallel execution, consistency in memory state / manipulation , and latency. Communication and coordination between processes has its foundations in message passing and shared memory models of computation and algorithmic concepts such as atomicity, consensus and conditional waiting. Achieving acceleration in practice requires an understanding of parallel algorithms, strategies for problem decomposition, systems architecture, implementation strategies, and performance analysis. Distributed systems highlight security and fault tolerance issues, emphasize maintenance of replicated state, and introduce additional problems in the field of computer networking.
+/
+Computer Security
+Today, information is one of the most valuable assets in any organization. This course is aimed at being able to provide the student with security elements aimed at protecting the information of the organization and mainly to be able to foresee possible problems related to this area. This subject involves the development of a preventive attitude by the student in all areas related to software development.
+/
+Computational Physics
+Physics I is a course that will allow the student to understand the laws of physics of macroparticles and microparticles considered from a material point to a particle system; it should be taken into account that the phenomena studied here are related to classical physics: Kinematics, Dynamics, Work and Energy; In addition, it must be associated that these problems must be solved with computational algorithms.
+/
+Oratory
+Oratory
+/
+Formation of Technology-Based Companies I
+Formation of Technology-Based Companies I
+/
+Big data
+Nowadays, knowing scalable approaches to process and store large volumes of information (terabytes, petabytes and even exabytes) is fundamental in computer science courses. Every day, every hour, every minute a large amount of information is generated which needs to be processed, stored, analyzed
+/
+Bioinformatics
+In Molecular Biology, there are various applications that involve both DNA, protein analysis or the sequencing of the human genome, which depend on computational methods. Many of these problems are really complex and deal with large data sets.
+/
+Leadership
+Leadership
+/
+Internet of Things
+Internet of Things
+/
+Cloud Computing
+To understand advanced computational techniques, students should have a strong knowledge of the various discrete structures, structures that will be implemented and used in the laboratory in the programming language.
+/
+Robotics
+That the student knows and understands the fundamental concepts and principles of control, road planning and definition of strategies in mobile robotics as well as concepts of robotic perception in a way that he understands the potential of current robotic systems
+/
+professional ethics
+Ethics is an inherent constitutive part of the human being, and as such it must be reflected in the daily and professional actions of the human person. It is essential for the person to assume their active role in society, since the economic-industrial, political and social systems are not always based on values and principles, and these are actually the pillars on which all the actions of the professionals should be based.
+/

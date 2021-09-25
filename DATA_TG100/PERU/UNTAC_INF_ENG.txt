@@ -1,0 +1,198 @@
+Algorithm and Programming
+Notion of algorithm, given, variable, instruction and program. Basic constructions, attribution, reading, writing. Control structures: sequence, selection and iteration. Scalar dice types: integers, reals, characters, intervals and enumerations. Basic structured types: vectors, matrices, sets, registers and character strings. Subprograms: functions, procedures and recursion. File.
+/
+Calculation
+Single variable functions. Limits and Continuity of functions of a single variable. Derivatives: first and second order. Derivative applications. The definite integral. Applications.
+/
+Physics I
+Motion of a particle in 1D, 2D and 3D. Newton's laws. Applications: liquid balance, gravitational forces. Work and energy. Conservative forces. Potential energy. Energy conservation. Systems of various particles. Center of mass Collisions Conservation of linear motion.
+/
+Discrete Mathematics
+Mathematical induction. Sets. Set algebra. Binary relationships. Functions. Algebraic structures. Reticulated. Boolean algebra. Techniques of proof of theorems.
+/
+Learning Techniques
+Learning Techniques
+/
+English I
+English I
+/
+Introduction to Computer Architecture
+Data representation: numbering systems, binary and decimal arithmetic, character representation. Basic notions of architecture and organization of computers: basic organization of the CPU and variations: set, format and storage of instructions. Software structure: Assembler language notions; programming languages, compilers and interpreters; operational systems; applications, utilities, and packages. Elementary notions of input and output, peripherals, communication between machines.
+/
+Data Structure
+Linear lists: stacks, double rows; sequential, and linked allocation; circular lists; doubly linked lists. Orthogonal matrices and lists. Trees: nomenclature, representation. Binary tree search and manipulation algorithms. Binary search trees (with balancing). B - trees. Representation of sets. Graphs and their representations. Files and indexes. Applications of the different data structures.
+/
+Logic for Computing
+Sentential and first-order logic. Natural and axiomatic deductive systems. Completeness, consistency and coherence. Formalization of problems. Formalization of simple computer programs and systems.
+/
+Geometry
+Rectangular coordinates. Fundamental Relationships. Graph. The Straight. Notion of vector. Vector algebra. The conics. Coordinate transformations. Analytical Geometry of Space.
+/
+Computational Linear Algebra
+MATLAB Software. Matrices: basic concepts, operations. Determinants. Vectors, operations with vectors. Linear transformations: matrix representation, properties. Linear systems: methods, factoring. Eigenvalues ​​and eigenvectors. Diagonalization. Matrix geometry.
+/
+English II
+English II
+/
+Computer Architecture and Organization
+Programming in machine languages ​​and symbolic languages. Format and classification of instructions. Set of instructions and addressing models. Handling of batteries. Subroutines: characteristic types and passing of parameters. Software outages. Architecture resources for programming techniques. 8088/8086 microprocessor architecture. Tools for development and debugging of assembly programs in a DOS environment. Use of pseudo - instructions. Software organization in MSDOS environments: BIOS, DOS, EXE and COM programs. 8088 instruction sets. Routine implementation concept. Interface, peripheral and controller concepts. Direct memory access. ADM architectures. Devices: keyboard, video, printer and disk.
+/
+Program Construction Techniques
+Basic concepts of programming languages. Comparative study of languages: data structures, control structures, execution environments. Programming Methodology: structured, modular, etc. Modular Project. Program test.
+/
+Theory of Computation
+Notions of Programs and machine of recorders and machine of Turin. Notion of effective computability. Recursive functions. Solubility of problems.
+/
+Digital Techniques for Computing
+Real and integer binary arithmetic review. Introduction to digital electronics. Logical families. Algebra and Boolean functions. Combinational machines: analysis and synthesis. Main operator blocks: programmable logic arrays (ROM, PLA, PA), implementation methods and optimization. Sequential machines: flip-flops, recorders. Organization of RAMs, analysis and synthesis of FSM. Accountants Complex sequential machines: implementation alternatives.
+/
+Physics II
+Electric field. Coulomb and gauss laws. Conductors in electrostatic equilibrium. Electric potential. Capacitance Electrostatic and dielectric energy. Electric current. Magnetic field. Electromagnetic induction. Magnetism in material media.
+/
+English III
+English III
+/
+Computational Numerical Methods
+Mistakes. Interpolation of functions: polynomial, Spline. Curve adjustment. Numerical differentiation. Numerical integration. Solution of nonlinear equations. Solution of ordinary and partial differential equations.
+/
+Programming Language Models
+Types, range, mooring time of variables. Subroutine, coroutines, parameter passages, recursion. Parallelism, synchronization. Paradigms of Programming: imperative, functional, logical and Object Oriented.
+/
+File Organization
+Secondary storage device technologies. Hardware Parameters, Basic File Organizations: Sequential, Indexed Sequential, Direct, Inverted. Hybrid organizations. File system evaluation. Data compression and classification in secondary memory.
+/
+Formal Languages ​​and Automata
+Alphabets and languages, grammars and regular expressions, finite automata. Context-free languages ​​and grammars and stack automata. Context-sensitive languages.
+/
+Computer Graphics I
+Introduction to graphic and interactive computing: basic concepts and applications. Graphics equipment. Basic architecture of graphics systems. 2D graphic computing: mathematical elements, objects and data structures, mapping, clipping and display. 3D graphic computing: mathematical elements, objectives and data structures, synthetic camera and clipping (implementation work).
+/
+Computer Electronics
+Analysis of resistive circuits in direct current. Capacitor, inductor. Analysis of circuits in alternating current. Study of semiconductors: diode, transistor, circuits with transistors and diodes. Elementary logic circuits, implementation.
+/
+Informatics and Society
+Economic consequences of the computerization of society. Computerization and the educational aspect. Political Effects. Social impacts. Computerization and privacy. National Informatics Policy. National Information Technology Industry. Automation: banking, commercial, industrial, and office. Computer applications in various areas: scientific, administrative, legal, humanistic, education. Ergonomics and occupational diseases.
+/
+Graph Theory and Combinatorial Analysis
+Graphs: Paths and trees, planarity, coloration, infinite graphs. Combinatorial analysis: distribution, permutation, and combination. Recursion enumeration. Cardinality of the union of sets. Enumeration of a set relative to a permutation group. Flow in networks.
+/
+Teleprocessing
+History and Objectives of computer networks. Elements of a communication system. Transmission characteristics: modulation, transmission media, codes for error detection. Character and bit oriented protocols. The RM-OSI model. Study of cases. Service integration concept: ISDN.
+/
+Operating Systems I
+Assemblers. Macro Processing. Chargers Linkers. Basic concepts of Operating Systems: processes, organization of operating systems, system calls. Processor management: process states, staging. Input and output: devices, controllers, I / O software, Interrupts, dependency and independence. Memory management: fixed and variable partitions, paging, virtual memory. File management. Implementation work.
+/
+Database I
+Introduction to fundamental database concepts. Architecture of a Database system: external, conceptual and internal levels. Database Models. The Relational system: the SQL language, data definition and manipulation, data structure, integrity rules, relational algebra, relational calculus, relational systems, normalization.
+/
+Methodology and Software Engineering I
+Software and Software Engineering. Computer systems engineering. Software Project Planning. Fundamentals of Requirements Analysis. Requirements Analysis Methods. Fundamentals of Software Design. Data Flow Oriented Design. Design oriented to Data structures. Object-oriented design.
+/
+Symbolic and Numerical Computing
+Introduction to computational mathematics. Generalities about floating point systems. Numerical and computational symbolic software. The MATLAB. Precision and accuracy of digital machines. Unstable algorithmic and poor conditioning problem. Methods for solving linear and nonlinear systems. Approximation and fitting of data.
+/
+General Economy
+Definitions. Laws of the Economy. Descriptive Economics, Economic Theory, Political Economy. Demand, Supply and Equilibrium: laws, equilibrium, prices. Production: bases, resources and flows. Product Distribution. Classical and Keynesian Theory.
+/
+Special Topics in Programming Languages
+Special Topics in Programming Languages
+/
+Computer Graphics II
+Interactive graphic systems structures. Elimination of hidden lines: algorithms, data structures. Realism: shadows, luminosity, texture. Geometric modeling: topology of polyhedra, construction operations, data structure, algorithms. Analytical Modeling: Parametric curves and surfaces, splines, Bezier, data structures, algorithms. Implementation work.
+/
+Operating Systems II
+Principles and practice of programming correctly: shared variables, protection and 'deadlock', message exchange, distributed algorithms. Distributed systems: file, name, authorization and type servers. Heterogeneity: processor management and staging.
+/
+Database II
+Recovery of stops and failures. Distributed data bank. Concurrency control. Security and integrity. Unconventional DB management systems. Object-oriented database.
+/
+Methodology and Software Engineering II
+Revision. Real Time Design. Programming and Coding Languages. Software Quality Assurance. Software Test Techniques. Software Test Strategies. Software Maintenance and Configuration Management.
+/
+Statistic and probability
+Statistics and Informatics. One-dimensional Frequency Distribution. Regression and simple linear correlation. Probability distributions. Elements of Inferential Statistics.
+/
+Portuguese Instrumental
+Basic grammar. Regionalism. Reading and translation of newspapers and magazines.
+/
+Special Topics in Database
+Special Topics in Database
+/
+Special Topics in Software Engineering
+Special Topics in Software Engineering
+/
+Computer networks
+General characteristics and Applications. Structures, topologies and transmission media. Communication protocols. ISO OSI Model Levels. Analysis of some networks. Operational systems for Networks. Performance. Cost and security in computer networks. LANs, MANs and WANs.
+/
+Universal Algebra for Computer Science
+Sets and algebras. Induction. Algebraic terms. Deductive systems. Equivalence relations. Ordered sets. Fixed Point Theorems. Reductions: Reduction Systems, Rewriting Systems, Termination. Algebras: subalgebras, homomorphisms. Algebra classes: initial, final. Equationally defined classes of algebras: equations, free algebras, varieties, equational theories. Rewriting of terms.
+/
+Compilers
+Languages ​​and Translators. Compilers and interpreters. Structure of a compiler. Lexical Analysis. Syntactic Analysis. Intermediary representation. Semantic Analysis. Code generation and optimization. Interpreters. Laboratory with help tools for the construction of compilers.
+/
+Logic Programming
+Foundations of mathematical logic. Sentential logic. First order logic. Clausal notation and Herbrand's theorem. Automatic proof of theorems. Formal resolution system. LSD resolution. Programming in logic. Prolog language.
+/
+Database Laboratory
+Specification of the requirements of a Data System. Data structure modeling. Mapping for the Relational Model. Specification of modules for data manipulation. User Interface Projects. System implementation.
+/
+Administration and finance
+Administration and finance
+/
+National reality
+National reality
+/
+Special Topics in Graphic Processing
+Special Topics in Graphic Processing
+/
+Formal System Specifications
+Lambda Calculation. Model-oriented methods. Property-oriented methods. VDM. Algebraic method. CSP. Other methods.
+/
+Computational Geometry
+Introduction. Geometric search: location, subdivisions, binary trees. Convex covers. Proximity: lower limits, Voronoi diagrams. Intersections: linear programming, applications in the plane, convex, star and linear intersections. Geometry of rectangles: applications, algorithms, measurements, contours, etc. Implementation work.
+/
+Operations Research I
+MATLAB Software (Toolbox Optimization). Applications of Operations Research. Models: linear, integer, nonlinear and dynamic. Linear programming: Simplex and 2-phase method. Integer programming: branch and limit method and Cuts method. Integer linear programming: transports, production.
+/
+Systems Modeling with Petri Nets
+Overview: Petri net models, composition of a Petri net. Channel / agency models. Condition / event models. Marked networks and entity sets. Marked networks and static properties. Relationships between classes of Networks. Theoretical aspects of Petri nets: condition / event systems, place / transition networks, networks with individual tokens.
+/
+Information Engineering
+Basic concepts. Information strategic planning. Analysis of the business areas of a company. Project. Construction. Maintenance.
+/
+Compilers Laboratory
+Description of the Programming Language. Project and Implementation of: Lexical analyzer, syntactic analyzer, semantic analyzer, code generation, code optimizer, code interpreter.
+/
+Ethics for IT Professionals
+General concepts and definitions. Ethics and Regulation of the Profession. Code of Ethics of the College of Engineers. Code of Ethics in Computer Science. Experiences. ACM Code of Ethics and Professional Conduct. How to use the ACM Code of Ethics to make decisions. Code of ethics of other professions.
+/
+Special Topics in Theoretical Informatics
+Special Topics in Theoretical Informatics
+/
+Object Oriented Systems
+Basic concepts of object orientation. Object Oriented Programming Languages. Object Oriented Specification Languages. Analysis and Object Oriented Project. Object-oriented database. Object-oriented interface project. Research development trends.
+/
+Formal Semantics of Programming Languages
+Denotational semantics. Semantics of Actions. Axiomatic Semantics. Operational Semantics.
+/
+Operations Research II
+Integer linear programming. Non-linear programming: monovariable optimization, multivariable optimization without restrictions and with restrictions. Applications using MATLAB Software (Toolbox Optimization) and other computer programs.
+/
+Special Topics in Computer Science I
+Special Topics in Computer Science I
+/
+Artificial intelligence
+Basic concepts. Problem resolution. Knowledge representation. Production Systems. Deduction systems based on logic. Lips and Prolog. Neural Networks. Advanced topics in Artificial Intelligence.
+/
+Organization, Systems and Methods
+Evolution of Organization, systems and methods (OSM) and its relationship with the Theory of organizations. Field analysis of OSM and its relationship with Informatics. Study of administrative analysis methods and organizational structures.
+/
+Special Topics in Parallel Processing
+Special Topics in Parallel Processing
+/
+Special Topics in Computer Science II
+Special Topics in Computer Science II
+/
+Graduate work
+Graduate work
+/
