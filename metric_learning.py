@@ -267,7 +267,7 @@ def main():
     parser.add_argument("--model",default="bert_curso")
     parser.add_argument("--mode",default='T')
     parser.add_argument("--epochs",default=1000)
-    parser.add_argument("--batch",default=2, type=int)
+    parser.add_argument("--batch",default=4, type=int)
     parser.add_argument("--dim_out",default=512, type=int)
     parser.add_argument("--repetitions", default = 10)
     args = parser.parse_args()
