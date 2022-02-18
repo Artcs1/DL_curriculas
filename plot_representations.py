@@ -18,6 +18,7 @@ import logging
 import torch
 import pickle
 
+
 from Loader.data_loader import Curriculas
 from Loader.data_loader import toembedding
 from Loader.data_loader import format_curriculas
@@ -25,9 +26,9 @@ from Loader.emb_loader import Embedding
 from Loader.config import emb_size
 
 from torch.utils.data import Dataset
+from wordcloud import WordCloud, STOPWORDS
 
-
-def fashion_scatter(x, colors, names, model,paths):
+def fashion_scatter(x, colors, names, model, paths, classes):
     # choose a color palette with seaborn.
     num_classes = len(np.unique(colors))
     palette = np.array(sns.color_palette("hls", num_classes))
@@ -58,16 +59,11 @@ def fashion_scatter(x, colors, names, model,paths):
 
     sc = ax.scatter(x[:,0], x[:,1], lw=0, s=40, c=palette[colors.astype(np.int)])
 
-
-    pop_a =  mpatches.Patch(color=palette[0], label='CS')
-    pop_b =  mpatches.Patch(color=palette[1], label='CE')
-    pop_c =  mpatches.Patch(color=palette[2], label='IT')
-    pop_d =  mpatches.Patch(color=palette[3], label='IS')
-    pop_e =  mpatches.Patch(color=palette[4], label='SE')
-    pop_f =  mpatches.Patch(color=palette[5], label='PERU')
-    pop_g =  mpatches.Patch(color=palette[6], label='LATAM')
-
-    plt.legend(handles=[pop_a, pop_b, pop_c, pop_d, pop_e, pop_f, pop_g])
+    H = []
+    for ind, cl in enumerate(classes):
+        pop =  mpatches.Patch(color=palette[ind], label=cl)
+        H.append(pop)
+    plt.legend(handles=H)
 
 
 
@@ -132,6 +128,20 @@ def plotear(X,y,nombres,color,model):
     plt.plot()
     #plt.savefig('results/Images/pca-'+model+'.png')
 
+def get_words(data_curriculas, y_label):
+    comment_words = ''
+    for curriculas, class_y  in data_curriculas:
+        if class_y == y_label:
+            S = curriculas.split('/')
+            for s in S:
+                for s_ in s.split(' '):
+                    if s_ != '\n':
+                        comment_words += s_ + ' '
+
+    return comment_words
+
+
+
 def main():
 
     parser = argparse.ArgumentParser(description = 'Curriculas')
@@ -139,7 +149,7 @@ def main():
     parser.add_argument("model")
     args = parser.parse_args()
 
-    #data_curriculas = Curriculas(path="DATA_TG100/", data = "all")
+    data_curriculas = Curriculas(path="DATA_TG100/", data = "all")
     #paths_absolute = data_curriculas.get_names()
     #paths_relative =[]
     #for name in paths_absolute:
@@ -158,19 +168,32 @@ def main():
     gt = data.Y.numpy()
 
 
-    print("     Saving results .....     ")
-
     plotear(D.copy(),gt,classes,color,args.model)
 
     fashion_tsne = TSNE(random_state=13).fit_transform(D.copy())
 
-    print(data.types)
+    fashion_scatter(fashion_tsne, gt,classes,args.model,data.types, classes)
 
-    fashion_scatter(fashion_tsne, gt,classes,args.model,data.types)
+    stopwords = set(STOPWORDS)
+    
+    for inds in range(5):
 
-    #dendogram(D, paths_relative,args.model)
+        comment_words = get_words(data_curriculas, inds)
 
-    print("     Results saved   ")
+        wordcloud = WordCloud(width = 800, height = 800,
+                background_color ='white',
+                stopwords = stopwords,
+                min_font_size = 10).generate(comment_words)
+ 
+        plt.figure(figsize = (8, 8), facecolor = None)
+        plt.imshow(wordcloud)
+        plt.axis("off")
+        plt.tight_layout(pad = 0)
+ 
+        plt.show()
+
+
+
 
 if __name__ == "__main__":
     main()

@@ -91,6 +91,7 @@ def main():
     args = parser.parse_args()
 
     data_curriculas = Curriculas(path=args.path, data = "all")
+    print(data_curriculas.get_statistics())
     curriculas = format_curriculas(data_curriculas.x)
     paths_absolute = data_curriculas.get_names()
     paths_relative = []

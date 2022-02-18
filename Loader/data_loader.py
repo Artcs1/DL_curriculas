@@ -1,4 +1,5 @@
 import numpy as np
+import pandas as pd
 import torch
 import os 
 from os import scandir, getcwd
@@ -172,7 +173,7 @@ class Curriculas(Dataset):
         if data == 'all':
             E, L = load_data(all_paths, len_all)
             names = all_paths
-
+    
         self.x = E
         self.y = L
         self.names = names
@@ -184,6 +185,32 @@ class Curriculas(Dataset):
 
     def __len__(self):
         return self.len
+
+    def get_statistics(self):
+
+        COUNTS = []
+        CLASS = [[], [], [] , [] , [] ]
+        for string, y_  in zip(self.x, self.y):
+            S = string.split('/')
+            count = 0
+            for s in S:
+                if s != '\n':
+                    count = count + 1
+            COUNTS.append(count)
+            for i in range(5):
+                if y_ == i:
+                    CLASS[i].append(count)
+
+
+
+        S = pd.Series(COUNTS)
+        print(S.describe())
+        for i in range(5):
+            CS = pd.Series(CLASS[i])
+            print(CS.describe())
+
+
+        return 1
 
     def get_names(self):
         return self.names

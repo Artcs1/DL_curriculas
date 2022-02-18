@@ -15,3 +15,4 @@ simpletransformers
 pytorch_metric_learning
 hypopt
 python-Levenshtein
+wordcloud

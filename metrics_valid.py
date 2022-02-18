@@ -97,6 +97,7 @@ def main():
             test_data  = Embedding(model=model, sample='test')
 
             X_train = train_data.X.numpy()
+            print(X_train.shape)
             #scaler = preprocessing.StandardScaler().fit(X)
             scaler = preprocessing.Normalizer().fit(X_train)
 
@@ -111,6 +112,7 @@ def main():
 
             KNN = knn(X_train, Y_train, X_valid, Y_valid)
             yhat = KNN.predict(X_test)
+            print(yhat.shape)
             KNN_m = metrics(Y_test, yhat)
             KNN_L.append(KNN_m)
 
@@ -151,6 +153,8 @@ def main():
     index = pd.MultiIndex.from_product(iterables)
 
     out = pd.DataFrame(np.concatenate((acc,rec, pre, f1s),axis=1).round(3), columns=index , index=['KNN','LR','SVML','SVMR'])
+    print(out)
+    print(Y_test)
     out.to_csv('results/metrics_valid.csv')
 
 
