@@ -1,0 +1,243 @@
+ALGORITHMS AND PROGRAMMING
+Notion of algorithm, data, variable, instruction and program. Basic constructions: assignment, reading and writing. Control structures: sequence, selection and iteration. Scalar data types: integers, reals, characters, ranges and enumerations. Basic structured types: vectors, matrices, records and strings. Subprograms: functions, procedures and recursion. Files.
+/
+FUNDAMENTALS OF ALGORITHMS
+Atomic and composite data, functions, function compositions, data analysis, design patterns, structural recursion, generative recursion, introduction to algorithm analysis.
+/
+CALCULATION AND ANALYTICAL GEOMETRY I
+Study of straight and plane curves. Differential calculus of a real variable. Integral calculus of functions of a real variable.
+/
+DISCRETE MATHEMATICS
+Mathematical induction. Sets. Set algebra. Binary relationships. Functions. Algebraic structures. Crosslinks. Boolean Algebra. Techniques for proving theorems.
+/
+INTRODUCTION TO COMPUTER ARCHITECTURE
+Data representation: numbering systems, binary and decimal arithmetic, character representation. Basic notions of computer architecture and organization: basic UCP organization and variations; instruction set, format, and storage. Software structure: notions of assembler language; programming languages, compilers and interpreters; operational systems; applications, utilities and packages. Rudimentary notions of input and output, peripherals; communication between machines. Laboratory practice.
+/
+COMPUTER ARCHITECTURE AND ORGANIZATION I
+Machine language and symbolic language programming. Format and classification of instructions. Instruction set and addressing modes. Battery manipulation. Subroutines: types, characteristics and parameter passing. Software Interruptions. Architectural Resources for Programming Techniques. Code replacement.
+/
+DATA STRUCTURES
+Abstract data types. Pointers, Linear Lists, Stacks, Trees and Graphs.
+/
+COMPUTER LOGIC
+Sentential logic and 1st. order. Natural and axiomatic deductive systems. Completeness, consistency and consistency. Problem formalization. Formalization of simple computer programs and systems.
+/
+GRAPH THEORY AND COMBINATION ANALYSIS
+Graphs: paths and trees, planarity, coloring, infinite graphs. Combinatorial analysis: distribution, permutation and combination. Recursion enumeration. Cardinality of the union of sets. Enumeration of a set relative to a permutation group.
+/
+CALCULATION AND ANALYTICAL GEOMETRY II
+Spatial analytical geometry. Partial derivatives. Multiple integrals. Series.
+/
+LINEAR ALGEBRA I
+System of linear equations. Matrices. LU factorization. Vectors. Vector spaces. Orthogonality. Own values. Applications.
+/
+DIGITAL CIRCUITS
+Representations of logic functions for use in digital circuit design. CMOS logic gates. Two-level logical synthesis, Karnaugh map and Quine-McCluskey algorithm. Programmable logic components. Functional logic blocks, multiplexers, decoders. Binary arithmetic circuits. Sequential circuits and registers. Finite state machines.
+/
+COMPUTER ARCHITECTURE AND ORGANIZATION II
+8088/8086 microprocessor architecture. Tools for developing and debugging assembly programs in MSDOS environment. Use of pseudo-instructions. Software organization in MSDOS environments: BIOS, DOS, COM and EXE programs. 8088 instruction set. Concept and implementation of subroutines. Use of input and output instructions for communication with peripheral chips. Concept and use of interrupts in the 8088/8086. Input and output organization: Input and output space-mapped and memory-mapped input. Interface, peripheral and controller concepts. Data transfer methods. Polling. Interruption: concept, service cycles, identification mechanisms, levels, priorities. Direct memory access: concept, working principle, transfer policies, ADM architectures. I/O devices: keyboard, video, printer and disk.
+/
+CLASSIFICATION AND DATA SEARCH
+Data classification and table search methods. File conceptualization; basic organizations and manipulation (basic methods). Indexes: indexed-sequential; B-treee, B+, B*, and others; hashing, ext. hash, and others; inverted files; multilists. Unconventional structures: notions: data in disk space; textual data on disk.
+/
+FORMAL LANGUAGES AND NUMBER
+Alphabets and Languages. Languages, grammars and regular expressions, finite automata. Context-free languages ​​and grammars and stack automata. Context Sensitive Languages
+/
+COMPUTATION THEORY
+Notions of program and machine. Register Machine and Turing Machine. Notion of effective computability. Recursive functions. Solubility of problems.
+/
+NUMERICAL CALCULATION
+Errors; adjustment of equations; interpolation, derivation and integration; solution of linear and nonlinear equations; solution of systems of linear and nonlinear equations; optimization notions; solution of differential equations and partial differential equations; notions of the Monte Carlo method in its different applications.
+/
+PROBABILITY AND STATISTICS
+Probability: Concept and fundamental theorems. Random variables. Probability distributions. Descriptive statistics. Sampling notions. Statistical Inference: Estimation Theory and Hypothesis Tests. Simple linear regression. Correlation.
+/
+FUNDAMENTALS OF IMAGE PROCESSING
+Fundamentals: visula perception and image formation, sampling and quantization, relations between image elements, arithmetic and basic logic operations. Concepts of Image Transformations: Fourier Transform. Image Enhancement: Space and Frequency Domains. Image Segmentation. Image Representation and Description. Recognition and Interpretation. Principles of Video Processing. Image and Video Compression. Special Topics in Image and Video Processing.
+/
+COMPUTER ORGANIZATION
+Review of basic organizational concepts. Processor organization: control block organization. Methods for increasing performance. CISC X RISC machines. Memory organization. Tools for analyzing and designing organizations.
+/
+PROGRAM CONSTRUCTION TECHNIQUES
+Develop and employ techniques that produce "good quality" programs: presentation of the techniques used for this purpose; construction, during the semester, of a medium-sized system, where these techniques must be exercised.
+/
+DATABASE FUNDAMENTALS
+1. Database management systems: a) Basic concepts: data independence, models, hierarchical, relational and network approaches. b) Relational approach: data model and integrity constraints; algebra and relational calculus; SQL normalization and functional dependencies. c) Other approaches: unconventional BD, object-oriented BD. d) Other aspects: competition, transaction serialization, competition. 2) Database modeling and design. a) entity-relationship modeling. b) Standardization as a design technique. c) Transformation of the conceptual model to the SGBD model.
+/
+COMPLEXITY OF ALGORITHMS
+Notion of complexity. Complexity study via algorithm development methods; iterative and recursive algorithms. Analysis of the complexity of classical algorithms in various areas of computing. Notions of intractability; classes P, NP and NP complete. Approximate algorithms.
+/
+COMPUTER GRAPHICS FUNDAMENTALS
+Basic Concepts of Computer Graphics: Image, model, geometric primitive, Techniques and applications, components of graphic systems. Fundamentals of Two-Dimensional Computer Graphics: Representation and modeling of objects, Geometric transformations, Classical visualization process. Fundamentals of Three-Dimensional Computer Graphics: Representation and modeling of objects, Geometric transformations, Visualization processes, Synthesis of images with realism. Special Topics in Computer Graphics.
+/
+ARTIFICIAL INTELLIGENCE
+Fundamentals of Artificial Intelligence. Problem solving methods in Artificial Intelligence. Knowledge Representation.
+/
+PROGRAMMING LANGUAGE MODELS
+1. Types, scope, binding time of variables. 2. Subroutine, coroutines, parameter passing, recursion. 3. Parallelism, synchronization, etc. 4. Programming Paradigms: Imperative, Functional, Logical, OO.
+/
+SOFTWARE ENGINEERING N
+Software engineering. The software crisis. Software production. The software lifecycle. The specification of requirements. The software project. Software implementation, testing and documentation.
+/
+OPERATIONAL SYSTEMS
+Assemblers. Macro processing. Chargers. Connectors. Basic concepts of operating systems: processes, organizations of operating systems, system calls. Processor management: process states, scheduling. Input and output: devices and controllers, I/O software, interrupts, dependency and independence. Memory management: fixed and variable partitions, paging, segmentation, virtual memory. File management.
+/
+COMBINATION OPTIMIZATION
+Mathematical modeling, linear and non-linear programming. Entire programming and solution via exact methods. Approximation algorithms and heuristics.
+/
+FORMAL SEMANTICS
+Introduction to lambda calculus. Scott's Domains; fixed points of continuous functions. Denotational semantics. Algebraic semantics. Action semantics. Axiomatic semantics. Operational semantics.
+/
+COMPUTING ENTERPRISE
+Complement and enhance the technical-scientific training of the computer student through the study of representative cases of the business reality of the sector. Show new professional opportunities. Provide an overview of the computer market and its changes. Provide an insight into the principles and ideas that lead to the creation of a business, developing the student's perception of opportunities in the business world.
+/
+HUMAN-COMPUTER INTERACTION
+Basic Human-Computer Interaction Concepts: Interfaces, Interactive Systems, Users, Usability, Software and Hardware Components. Theoretical foundations: Cognitive and Ergonomic Aspects. Interface Design and Prototyping: Models, Methods, Techniques and Tools, Task Based Design, User Centered Design and Participatory Design, Integration with Software Engineering. Interface Assessment: types and assessment techniques. Web Interfaces, Interfaces for Cooperative Systems and New Trends. Case Studies in Interface Design and Evaluation.
+/
+COMPILERS
+Lexical and syntactic analysis. Syntax-driven translation. Code optimization. Language Processors.
+/
+OPERATING SYSTEMS II
+Principles and practice of concurrent programming: shared variables, protection and dead-lock, message exchange, distributed algorithms. Distributed systems: file, name, authorization and type servers; heterogeneity; processor management and scheduling.
+/
+COMPUTER NETWORK
+Fundamentals of data transmission and communication systems. Study of basic network structures and the OSI/ISO reference model. Topologies, protocols and services in networks, associated with the different levels of the reference model. Interconnection, management and basic applications of computer networks.
+/
+FUNDAMENTALS OF FAILURE TOLERANCE
+Basic concepts of operational safety. Fault tolerance applications. Techniques for increasing availability reliability. Identification and selection of fault tolerant design techniques. Fault tolerance in distributed systems and parallel architectures. Measures and tools for evaluating and simulating fault-tolerant systems. Fault tolerant system architectures.
+/
+GRADUATION WORK
+GRADUATION WORK
+/
+ECONOMY
+Economics as a social science. Elementary notions. Basic elements of the production process. Monetary-financial system. Notions of microeconomic analysis. Economic relations with the outside world. Morphology of economic activity. Measurement of economic activity. Social income sharing. Economic combination of production factors. Notions of macroeconomic analysis. Economic development. Brazilian economy.
+/
+FORMAL SPECIFICATION
+Mathematical review; methods and languages; classification of formal methods; executable specification (prototyping); presentation and application of methods and formal specification languages: VDM, Z, CCS, CSP, OBJ, LOTOS, UNIT and others.
+/
+COMMUNICATION PROTOCOLS
+1. Structure of protocols and communication system. 2. Specification and modeling. 3. Test and simulation validation. 4. Implementation and automated code generation tools. 5. High Level Protocols.
+/
+DATA COMMUNICATION
+1. Introduction. 2. Physical Level. 3. Sub-level of Access to the Medium. 4. Link Level. 5. Network Level
+/
+DATABASE PROJECT
+1. Definition of DB application. 2. Definition of the methodology. 3. Requirements specification, data modeling, transaction specification. 4. Design and definition of the implementation platform
+/
+DISTRIBUTED AND PARALLEL PROGRAMMING
+Basic concepts of distributed systems; distributed and parallel applications; basic features of PDP; process model and message exchange; distributed algorithms; basics of parallel programming; parallel algorithms; language classes for PDP.
+/
+CG
+1. Representation of 3D objects. 2. Viewing 3D objects. 3. Synthesis of realistic scenes. 4. 3D object modeling techniques. 5. Special topics in visualization and animation.
+/
+DISTRIBUTED DATABASE SYSTEMS
+1. Concepts in distributed systems. 2. Client/server architecture. 3. Client/file server. 4. Distributed Database.
+/
+NETWORK MANAGEMENT AND APPLICATIONS
+1. Overview of network components, their use and management methods: 1.1 Physical components: modems, lines, CHUBS, bridges, routers, servers, workstations, etc. 1.2 Logical components: information resources and applications. 2. Network management architectures. 2.1 Management protocols: OSI and SNMP. 2.2 Managed Objects. 3. Interoperability between network applications: 3.1 Services and protocols: internet: SMTP, FTP, GOPHER, WWW etc. OSI: X400, X500, FTTAM 2.2 API(Application Program Interface).
+/
+PROJECT MANAGEMENT AND ADMINISTRATION
+1. History and fundamentals. 2. Project risk assessment and management. 3. Organization, negotiation and project planning. 4. Computational tools for planning and control. 5. Planning and management of technological evolution. 6. Design Reviews. 7. Case studies, research analysis, practical work, metrics and software update.
+/
+INSTRUMENTAL ENGLISH FOR DATA PROCESSING I
+Verb tenses. Past, present, future, conditional, passive. Pronouns. Conditional, adjective, interrogative clause. Adjective degree and word formation.
+/
+MACHINE LEARNING
+Fundamentals of machine learning and algorithms based on neural networks and statistical approaches. Applications for solving supervised, unsupervised, and reinforcement learning problems.
+/
+DISTRIBUTED AND NETWORK OPERATING SYSTEMS
+1. Introduction: distributed vs. centralized systems, hardware aspects in multiprocessors and multicomputers. 2. Network operating systems: concept and principle. 3. Communication in distributed systems: client-server model, TCP/IP, RPC. 4. Synchronization on distributed systems. 5. Distributed File System: general concepts, NFS. 6. Name servers. 7. Case studies.
+/
+SOFTWARE SYSTEM LABORATORY
+The content to be addressed in the course is the consolidation, through a real project of a given organization, of the concepts covered in the basic part of the course, via group development, under the guidance of the professor.
+/
+DATABASE ARCHITECTURE AND PERFORMANCE
+1. Software architecture and data independence. 2. Optimization of database queries. 3. Transaction Management Support. 4. Performance Tuning in Database Management Systems (DBMS).
+/
+FUNDAMENTALS OF COMPUTATIONAL VISION
+Camera models and calibration; image filtering and enhancement; segmentation; color and texture; curve and line detection; shape analysis; stereoscopy; optical flow and object tracking; Pattern recognition concepts.
+/
+ROBOTICS II
+trajectory planning; robot control; AGU's. Automatic generation of plans; simulation; active images and user interface.
+/
+EVOLUTIONARY COMPUTING
+Basic concepts about Artificial Life. Introduction to the Genetic Algorithm Paradigm. Applications of Genetic Algorithms. Evolutionary programming.
+/
+SPECIALIST SYSTEMS
+1. Introduction, concepts and history of Knowledge Engineering and AI. 2. Abstraction and semantic models. 3. Acquisition and representation of knowledge. 4. Expert Systems. 5. Inference and Treatment of Uncertainty. 6. Expert Systems Design.
+/
+COMPUTER HISTORY
+Study of the concept of computing and what computing is. Analysis of "computing machines", both mechanical, electro-mechanical and electronic. Study of different generations of computers, including peripherals and programming examples. Analysis of the process of emergence of personal computers, the historical development of programming languages, operating systems and applications. Analysis of the Internet creation process and its services.
+/
+SECURITY IN COMPUTER SYSTEMS
+Data, network and personal computer security. Single-key encryption and public-key encryption. Integrity Check Functions. Cryptographic protocols. Main types of security attacks. Main methodologies and tools used to prevent or restrict attacks. Harmful programs. Intrusion characteristics and detection methods.
+/
+INTRODUCTION TO COMPUTER RESEARCH
+Research: concept and basic tools used. Problem identification; review of related literature, planning, preparation of associated proposal. Qualitative research methodologies. Quantitative research methodologies (methods, descriptive, experimental and statistical). Presentation of results (reports and articles): organization, style, format, references, indexing.
+/
+SPECIAL TOPICS IN COMPUTER ENGINEERING I
+Technological invocations arising from recent research. Specific applications, of interest to a restricted group or having a temporary character. Specific aspects, from areas of knowledge already discussed above, but covered superficially, interesting to a restricted group of students and being the object of recent research.
+/
+SPECIAL TOPICS IN COMPUTER ENGINEERING IV
+Technological invocations arising from recent research. Specific applications, of interest to a restricted group or having a temporary character. Specific aspects, from areas of knowledge already discussed above, but covered superficially, interesting to a restricted group of students and being the object of recent research.
+/
+PROGRAMMING CHALLENGES
+Main types of computational algorithms. Algorithm design and practical experimentation. Algorithm implementation. Techniques and strategies for problem solving.
+/
+EMBEDDED SYSTEMS
+Applications of embedded systems. Hardware and software architectures. Methodologies and stages of design and development. Embedded operating systems. Real-time principles. Configuration and adaptation of operating systems. Development Environments. Project based on hardware and software platforms. Case studies.
+/
+COMPUTER AND SOCIETY
+The subject covers: the repercussions of new technologies on society, considering social, economic, political and educational aspects; the main forms of automation (industrial, commercial, banking and offices); IT applications in different areas of knowledge; Ergonomics and Occupational Diseases; National Informatics Policy and Industry.
+/
+PERFORMANCE EVALUATION
+Introduction to performance evaluation of computer systems. Assessment methods: advantages, disadvantages, applications. Analytical methods: stochastic and operational approaches. Models based on queuing nets and Petri nets. Discrete simulation: concepts, simulation algorithms. Approaches to modeling discrete systems: event and process orientation. Study of a general purpose simulation language. Measurement, benchmarking.
+/
+DIGITAL SYSTEMS FOR COMPUTERS
+Computer seen as a digital system. Operational and control units. Control structures: "hardwired", microprogrammed, with PLA, etc. Synchronous and asynchronous systems; communication between systems. Case study (control): "carry look-ashead", interruption in input/output multiprocessing
+/
+SPECIAL TOPICS IN COMPUTING
+Technological innovations arising from recent research. Specific applications, of interest to a restricted group or having a temporary character. Specific aspects, from areas of knowledge already discussed above, but covered superficially, interesting to a restricted group of students and being the object of recent research.
+/
+DESIGN OF INTEGRATED CIRCUITS
+Transistors and logic gates. CI classification. Manufacturing processes. Design rules. Block design. Design methodologies, types of tools and descriptions. Regular structures. ULA blocks, registers, PLA, ROM and others. Test structures.
+/
+ADVANCED COMPUTER ARCHITECTURES
+Study of complex architectures with multiple processors. Parallel processing. Processor interconnects. "Pipeline" processors. Vector processors. "Array" processors. Associative Processors. Processors and Data Flow.
+/
+CAD FOR DIGITAL SYSTEMS
+Digital systems design methodologies. Hardware Description Languages. Discreet and continuous simulation. Automatic synthesis. Physical design: positioning and routing. Project environments. Work stations.
+/
+COMPUTATIONAL PHOTOGRAPHY
+Conventional photography versus computer photography. Color spaces. Images with high dynamic range. Mathematical tools. Fourier transform, convolation and deconvolation. Epsilon photography (incremental) and encoded photography. Image composition. Edge preservation filtering. Light fields and plenoptic cameras. Programmable Cameras.
+/
+SOFTWARE TESTING
+Fundamentals of Validation, Verification and Testing. Software Testing Techniques. Software Evolution.
+/
+AGILE METHODS
+Manifest and agile principles. Agile and lean practices. Agile Methods and Tools. Tendencies.
+/
+MODELING AND MANAGEMENT OF BUSINESS PROCESSES
+Fundamentals of Business Process Modeling and Management. Trends in Business Process Management.
+/
+TRENDS IN SOFTWARE ENGINEERING
+Advanced and current topics in Software Engineering. Experimental Software Engineering.
+/
+LOGIC PROGRAMMING LABORATORY
+1. Prolog as an AI language. 2. Building programs.
+/
+DISTRIBUTED COMPUTING THEORY
+1. Interleaved models. 1.1. Transition Systems, Sync Trees. 1.3. Languages ​​(Traits of Hoare). 2. Non-Interleaved Models. 2.1. Traces of Mazurkieewicz. 2.2. Event Structures. 2.3. Petri nets. 3. Relationship between models.
+/
+ADVANCED ARTIFICIAL INTELLIGENCE
+ADVANCED ARTIFICIAL INTELLIGENCE
+/
+COMPUTATIONAL CATEGORIES
+Categories. Functors. Natural transformations. Limits and colimites. Adjunctions. Special topics: comma categories, topos, fibrations, monads, graph grammars.
+/
+AUTONOMOUS AGENTS AND MULTI-AGENTS SYSTEMS
+Introduce concepts and techniques related to the design of autonomous agents. Introduce distributed problem solving techniques. Introduce design and implementation techniques for a multi-agent system, such as platforms for development and simulation. Study of extensions of classical Artificial Intelligence (AI) techniques for the multi-agent case. Study of decision theory and game theory in multi-agent systems. Study of applications of multi-agent systems.
+/
+COMPUTATIONAL BIOLOGY
+Algorithms, Models and Methods of Computer Science applied to biology and natural sciences, with an emphasis on problems of biological interest. Prerequisites: INF05512 Graph Theory and Combinatorial Analysis.
+/

@@ -140,13 +140,22 @@ class Curriculas(Dataset):
         SE_paths = [ os.path.join(os.getcwd(),'DATA_TG100','SE',course) for course in SE_paths]
         PE_paths = open('./DATA_TG100/pe.txt').read().splitlines() 
         PE_paths = [ os.path.join(os.getcwd(),'DATA_TG100','PERU',course) for course in PE_paths]
-        LATAM_paths = open('./DATA_TG100/latam.txt').read().splitlines() 
-        LATAM_paths = [ os.path.join(os.getcwd(),'DATA_TG100','LATAM',course) for course in LATAM_paths]
 
+        BR_paths = open('./DATA_TG100/brazil.txt').read().splitlines() 
+        BR_paths = [ os.path.join(os.getcwd(),'DATA_TG100','BRAZIL',course) for course in BR_paths]
+
+
+        MX_paths = open('./DATA_TG100/mexico.txt').read().splitlines() 
+        MX_paths = [ os.path.join(os.getcwd(),'DATA_TG100','MEXICO',course) for course in MX_paths]
+
+
+        COS_paths = open('./DATA_TG100/costarica.txt').read().splitlines() 
+        COS_paths = [ os.path.join(os.getcwd(),'DATA_TG100','COSTARICA',course) for course in COS_paths]
         
 
+
         length  = [len(CS_paths), len(CE_paths), len(IT_paths), len(IS_paths), len(SE_paths)]
-        len_all = [len(CS_paths), len(CE_paths), len(IT_paths), len(IS_paths), len(SE_paths), len(PE_paths), len(LATAM_paths)]
+        len_all = [len(CS_paths), len(CE_paths), len(IT_paths), len(IS_paths), len(SE_paths), len(PE_paths), len(BR_paths), len(MX_paths), len(COS_paths)]
 
 
         len_train = [ int(np.round(val * 0.6)) for val in length ]
@@ -156,7 +165,7 @@ class Curriculas(Dataset):
         train_paths = CS_paths[0:len_train[0]] + CE_paths[0:len_train[1]] + IT_paths[0:len_train[2]] + IS_paths[0:len_train[3]] + SE_paths[0:len_train[4]]
         val_paths   = CS_paths[len_train[0]:len_train[0]+len_val[0]] + CE_paths[len_train[1]:len_train[1]+len_val[1]] + IT_paths[len_train[2]:len_train[2]+len_val[2]] + IS_paths[len_train[3]:len_train[3]+len_val[3]] + SE_paths[len_train[4]:len_train[4]+len_val[4]]
         test_paths  = CS_paths[len_train[0]+len_val[0]:len_train[0]+len_val[0]+len_test[0]] +  CE_paths[len_train[1]+len_val[1]:len_train[1]+len_val[1]+len_test[1]] +  IT_paths[len_train[2]+len_val[2]:len_train[2]+len_val[2]+len_test[2]] +  IS_paths[len_train[3]+len_val[3]:len_train[3]+len_val[3]+len_test[3]] +  SE_paths[len_train[4]+len_val[4]:len_train[4]+len_val[4]+len_test[4]]
-        all_paths = CS_paths + CE_paths + IT_paths + IS_paths + SE_paths + PE_paths + LATAM_paths
+        all_paths = CS_paths + CE_paths + IT_paths + IS_paths + SE_paths + PE_paths + BR_paths + MX_paths + COS_paths
 
         if data == 'train':
             E, L = load_data(train_paths, len_train)

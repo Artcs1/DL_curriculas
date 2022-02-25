@@ -60,7 +60,7 @@ def main():
     model.eval()
 
 
-    all_data  = Embedding(model=args.model, sample='all_P')
+    all_data  = Embedding(model="Embeddings/"+args.model, sample='all_P')
     print(all_data.Y)
     
 

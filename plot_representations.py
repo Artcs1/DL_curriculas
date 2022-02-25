@@ -146,32 +146,26 @@ def main():
 
     parser = argparse.ArgumentParser(description = 'Curriculas')
     parser.add_argument("--sample", default='all')
-    parser.add_argument("--reduce", default='umap')
+    parser.add_argument("--reducer", default='umap')
     parser.add_argument("model")
     args = parser.parse_args()
 
     data_curriculas = Curriculas(path="DATA_TG100/", data = "all")
-    #paths_absolute = data_curriculas.get_names()
-    #paths_relative =[]
-    #for name in paths_absolute:
-    #    paths_relative.append(name.split('/')[-1])
 
     if args.sample !='all_P':
         classes = ['CS','CE','IT','IS','SE']
-        color   = ['red','green','blue','black','brown']
     else:
-        classes = ['CS','CE','IT','IS','SE','PE']#,'LATAM']
-        color   = ['red','green','blue','black','brown','purple']#,'pink']
+        classes = ['CS','CE','IT','IS','SE','PE', 'BRAZIL', 'MEXICO', 'COSTARICA']
 
     data = Embedding(model=args.model, sample = args.sample)
     D  = data.X.numpy()
     gt = data.Y.numpy()
 
-    if args.reduce == 'pca':
+    if args.reducer == 'pca':
         reduced_data = PCA(n_components=2).fit_transform(D.copy())
-    elif args.reduce == 'tsne':
+    elif args.reducer == 'tsne':
         reduced_data = TSNE(random_state=13).fit_transform(D.copy())
-    elif args.reduce == 'umap':
+    elif args.reducer == 'umap':
         reduced_data = umap.UMAP().fit_transform(D.copy())
     fashion_scatter(reduced_data, gt,classes,args.model,data.types, classes)
 

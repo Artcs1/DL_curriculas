@@ -1,0 +1,211 @@
+Higher Algebra I
+This course introduces the basic topics of Mathematics and in particular of Algebra: They are the foundation of the courses taught in the career. This course offers the first half of the material that is considered elementary.
+/
+Discrete Structures
+Mathematically model statements that refer to individuals or sets of values, demonstrating in turn the correctness of the statements made about them. Modeling will be present throughout the development of the professional life of the graduate of this degree.
+/
+English I
+Know and apply with the basic structures of the language necessary for the understanding of texts written in English that are authentic, academic, specialized, and also of general domain, start the extraction of information that satisfies its purposes in the most efficient way possible by means of 1) the application of their knowledge of certain linguistic elements, 2) of the knowledge of a general and specific vocabulary, 3) of the practice of various skills and strategies, 4) of various reading styles and 5) of the knowledge of topics in their area of study.
+/
+Introduction to Computer Science
+Demystify the computer and provide students with the knowledge and mechanisms to exploit the available technology, General computing concepts, Panoramic view of object-oriented programming, Threads of execution and multiprocessing
+/
+Mathematics for Applied Sciences
+Understand the basic concepts of differential and integral calculus in one variable and have the ability to apply them in solving problems related to exchange rates, optimization, area and volumes.
+/
+Higher Algebra II
+That the student knows and manages the properties of the following rings: the integer domain of integers, the field of complex numbers and the ring of polynomials.
+/
+Data Structures II
+Understand the fundamental role that data abstraction plays in the development of correct and complete models to solve problems using the computer. Know the panorama of the most common data structures, their characteristics and the different ways to implement them in an object-oriented programming language. Analyze the complexity in time and space of elementary algorithms. Know and apply the most common search and sort algorithms. Know the elementary criteria elements to develop correct and efficient programs depending on the context.
+/
+Graphics and Games
+Know and apply in a basic way the Theory of Graphics and Game Theory.
+/
+English II
+Understand and analyze texts written in English that are authentic, academic, specialized, extracting the information that satisfies their purposes in the most efficient way possible through 1) the application of their knowledge of certain linguistic elements, 2) the knowledge of a general vocabulary and specific, 3) of the practice of diverse skills and strategies, 4) of various reading styles and 5) of the knowledge of topics of their area of ​​study. Obtain a high intermediate reading comprehension level, B2 according to the Common European Framework of Reference.
+/
+Mathematics for Applied Sciences II
+Euclidean space of dimension n, Solids of revolution, Curves, Scalar fields, Maximum and minimum
+/
+Linear Algebra I
+Linear Algebra is one of the oldest and at the same time one of the most modern areas of Mathematics. Both for its concepts and for its application in various areas of knowledge, it has become a basic subject in many careers. This course offers half the knowledge of Linear Algebra.
+/
+Probability I
+You will know the basic concepts of Mathematical Probability. You will be able to illustrate how a wide variety of problems that arise in different activities can be modeled and solved using Probability theory.
+/
+Software Engineering
+This course presents an in-depth study of many of the topics in software engineering, requirements specification, functional and object-oriented design, software verification, and maintenance. Software environments and tools are discussed and students are introduced to their use. Social implications such as the cost of failures and professional responsibilities are also considered. The course also includes an introduction to human-computer interaction and a discussion of some software interfaces seen from a software engineering point of view. This course requires the participation of students in team projects.
+/
+Operating systems
+It begins with a reasonably in-depth discussion of operating systems and concludes with a brief introduction to database systems. Operating systems topics include tasks, processes, process synchronization, physical and virtual memory organization, distributed operating systems, security, and privacy. In support of these operating system themes, programming system constructs that support concurrency are introduced. Database topics include the physical organization of databases and their relational model.
+/
+Compilers
+This course consists of an in-depth study of the principles and design aspects of Programming Language translators. The main components of a compiler are discussed: lexical analysis, parsing, type checking, code generation, and optimization. Alternative strategies for recognition (recursive descent, descending recognition, predictive, RL) are viewed and compared with each other for efficient use of time and space. Subtopics include ambiguity, data representation, error recovery, symbol table design, linking, compiler generation tools, incremental compilation, and interpreters.
+/
+Computer networks
+This topic gives the student a foundation for the study of computer networks. Current methods and practices used in computer networks to enable communication are covered. The physical and architectural elements are also covered, as well as the information layers for a communication network, along with the diagnostic tools, design, operation and efficiency measures that are used to implement, operate and fine-tune a network of this type. Different network architectures are contrasted and compared to traditional time-sharing mainframe models. Important subtopics include communication protocols and network architecture, network nodes, data links, switching and routing, end-to-end protocols, local networks, and data security.
+/
+English III
+Understand and use frequently used everyday expressions, as well as simple phrases designed to satisfy immediate needs. You will be able to introduce yourself and others, ask for and give basic personal information about your address, school, belongings and people you know.
+/
+English IV
+English IV
+/
+Computational Logic
+Introduction, Propositional logic, First-order predicate logic, Argument analysis, Deductive systems, The logic programming paradigm, Extensions and applications (optional)
+/
+Mathematics for Applied Sciences III
+Riemann integral, Functions with vector values, Integral on trajectories and surfaces, Green and Stokes theorems.
+/
+Modeling and Programming
+Programming languages. Advanced data structures. Good programming practices. Human / machine interfaces. Concurrent programming. Computer graphing. Virtual machine emulation.
+/
+Automata and Formal Languages
+Machines with a finite number of states and type 3 languages. Automata with a stack. Context-free languages. Turing machines. The Chomsky Hierarchy. Introduction to decidability.
+/
+Mathematics for Applied Sciences IV
+1st Order Differential Equations. Existence and uniqueness of solutions. 2 Order Differential Equations. Ecuation systems. Hyperbolic Type Equations. Parabolic equations. Elliptical type equations.
+/
+Computer Organization and Architecture
+Quantitative principles of architecture design. Representation of data on a digital computer. Boolean algebra. Combinational and sequential circuits. Instruction set design. Control unit. Segmented cause of execution (pipeline). The hardware-software relationship. The memory hierarchy. Input / Output and channels. Multiprocessor systems. State-of-the-art architectures.
+/
+Algorithm Analysis
+Basic concepts. Justification and algorithm design. Algorithms involving sequences and sets. Algorithms for graph theory.
+/
+Distributed Computing
+Complex networks and the Web. Distributed algorithms. Properties of small worlds in networks. Decentralized search in peer to peer networks. Cascade behavior in networks. Economic models for behavior in networks. Selected topics from distributed algorithms and networks.
+/
+Database Fundamentals
+Data models. Database modeling using the entity / relationship model. Relational Model. Database design. SQL query language. Views. Transaction processing.
+/
+Programming languages
+Introduction. Fundamentals. Functional paradigm. Imperative paradigm. Object-oriented paradigm.
+/
+Artificial intelligence
+Introduction. Search. Probabilistic models. Machine learning. Perception and knowledge.
+/
+Computational Complexity
+Introduction and basic concepts. The NP-Completez theory. Proofs of NP-Complete problems. Selected topics.
+/
+Concurrent Computing
+Introduction. Mutual exclusion. Synchronization with and without blocking. Multiple resources. Classic synchronization problems. Consensus.
+/
+Cryptography and Security
+Security and cryptography concepts. Classic encryption systems, perfect security. Feistel Networks, Block Encryption, DES and AES. Elements of number theory and finite fields. Public key crytosystems. Cryptographic data integrity algorithms. Authentication and digital signature. Internet security protocols. Security in networks, firewalls and policies.
+/
+Unix / Linux Systems Administration
+Know the Linux operating system, the elements necessary for its installation, use, maintenance and updating; as well as the theoretical elements related to operating systems and TCP / IP networks. Install, maintain and monitor equipment that provides different services on a network.
+/
+Modern Algebra I
+Study Group Theory, which is one of the most developed branches of Mathematics. In addition, an introduction to the Theory of Rings is provided.
+/
+String Pairing Algorithms
+Tools for string matching. Automatons for mating. String search with sliding window. Arrays of suffixes. Structures for indices. Indices. Alignments. Approximate patterns. Local periods.
+/
+Parallel algorithms
+Know and establish concepts of Complexity and Analysis of Parallel Algorithms. Introduce different models of parallel computation and establish basic concepts about the area. Understand and explain the different techniques on the Design and Justification of Parallel Algorithms
+/
+Almacenes and Data Mining
+Data Almacenes. Pre-processing of data. Computation of Data Cubes Data cubes) and data generalizations. Minado de Patrones Frecuentes, Asociaciones, y Correlaciones. Classification and prediction models. Cluster analysis.
+/
+Computer animation
+Understand and use object motion interpolation algorithms, inverse and adelanted kinematics. Become familiar with the basic principles of physics-based animation, energy minimization and constraint-based animation. Develop algorithms to model and animate natural phenomena such as plants, fluids, clouds and fire. Find out about the bibliographical resources on the subject of computer animation and the relevant international academic events.
+/
+Software Architecture and Design
+Introduction. Software Architecture. Software Design. Representation models. Software quality attributes. The production cycle in software architecture.
+/
+Semi-structured Databases
+Understand how to work with semi-structured data, represented as XML documents, using ya sean or bien relational databases, dedicated to the exclusive handling of XML.
+/
+Quantum Computation I
+Fundamental Concepts. Quantum Computation Mathematics. Introduction to quantum mechanics. Quantum algorithms. Implementation of quantum computers.
+/
+Evolutionary Computation
+Introduction. Basic concepts of stochastic processes. Optimization heuristics. Genetic Algorithms. Formalization. Genetic Programming. Artificial Embryogenics.
+/
+User Interface Design
+Introduction. Design principles and guidelines. How to write web interfaces. Usability User-centered design. Trends in IHC. Interface evaluation.
+/
+Video Game Design and Programming
+Get to know the technology and programming related to the development of projects in video games. Students will gradually design and develop a game and gain experience in video game programming.
+/
+Statistics I
+You will understand the basic principles of Statistics, and the relationship of this with Probability. It will know and apply the objectives and tools needed for the exploratory analysis of statistical data. It will identify the principles on which parametric estimation is based, in particular the methods for obtaining estimators and the criteria for measuring them, as well as their application. You will know the basic methods to make parametric estimates by intervals. It will apply the concepts related to the elaboration of statistical hypothesis tests
+/
+Computational Genomics
+Structure and function of nucleic acids. Structure and function of proteins. Alignment and search for patrons in molecular sequences. Genomic firms. Computational evolutionary biology. Gene expression analysis. Bioinspired computation.
+/
+Software Engineering II
+Administration of software projects. Principle of agile software development methods. Agile Methods: XP, SCRUM. Quality models. Lean Methods.
+/
+Introduction to Cryptography
+Provide general knowledge of Cryptography through the study of different historical and modern cryptographic methods. Consolidate the importance of the study of mathematical objects and their application to the Theory of Information. Give the student basic tools of cryptanalytic analysis. Presenting Cryptography as a branch of active research.
+/
+INTRODUCTION TO THE FUNCTIONS RECURSIVAS AND COMPUTABILIDAD
+Present the theory of computability from the perspective of recursive functions.
+/
+Introduction to Complejo Systems
+Introduction to Complejo Systems
+/
+Formal Methods
+General vision. Methods based on temporal logic. Methods based on primer orden logic. Methods based on other logical formalisms.
+/
+Software Metrics
+Expose general knowledge of metrics that accompany software engineering, as well as reference models of software development processes with quality (CMMi, MoProSoft, etc.); emphasizing the metrics that require the size of software, presenting the Puntos de Función methodology (IFPUG).
+/
+Software Design Patrons
+Introduction to UML and object-oriented design. Analysis and design of patrons. Catalog of patrons. Practical application of design patrons. Analysis and discussion on the need for design patrons.
+/
+Probability II
+In this course, random vectors are used, which are random variables in dimensions greater than one and important classical results of the Theory of Probability are provided.
+/
+Lineal Programming
+You will understand the nature of mathematical programming, and in particular linear programming, as well as its main applications. It will know the general mathematical principles of linear programming, and will apply them to planning and problem solving; It will know the primal methods used to solve linear programming problems, with special emphasis on the simplex method and its variants. You will understand the concept of duality and its role in linear programming problems, as well as its importance in the development of so-called dual methods.
+/
+Lineal programming
+Understand Lineal Programming as a framework for optimization problems, recognize typical applications, and understand the theoretical foundations of different algorithms to apply the appropriate algorithm to the problem under study.
+/
+robotics
+Introduction. Analysis of movement and triggers. Spatial kinematics. Inverse kinematics. Dynamics of manipulators. Control and sensors system. Robots Programming.
+/
+Graphics Theory
+Bring to light the classic and basic themes of graphics theory. Some applications related to each of the themes are shown, also incurring in some cases in algorithms that are planted in linear programming.
+/
+Network Theory
+There will be a general vision of linear optimization models on finite graphics. You will find out about the nature and development of network problems. It will meet the basic problems of network theory. You will learn the approach of linear programming to solve network problems. You will know several algorithms to solve each problem with different restrictions. You will learn the approach of coloring in graphics to solve network problems.
+/
+visualization
+The course aims to provide students with the tools they need to produce shaded and solid images of three dimensions on a computer graphic display. A theoretical understanding of these techniques will be provided along with the programming skills needed to implement them.
+/
+Dynamic Programming
+Know the principles about what is supported by dynamic programming, as well as its main methods and applications.
+/
+Enruting Protocols
+Introduction to the routing and repair of networks. ARP, IP, ICMP. Dynamic enrutamiento generalities. Distance vector protocols. RIP Link state protocols. OSPF. Enrutamiento in limited diffusion. Mobile network routing protocols.
+/
+Virtual Reality
+Introduction. Human vision. Image Unfolding Devices. Stereopar 3D vision. Introduction to virtual reality software. Shared virtual environments. Position and posture tracking.
+/
+Patron Recognition
+Basic concepts of recognition of patrons. Classification of patrons through distance functions. Recognition of syntactic patrons.
+/
+Neuronal Networks
+Introduction: From the paths to the neuronal networks. Mathematical models of the central nervous system. The Hopfield model. El Perceptron multilayer. Approximation of functions. The self-organized map. Vector support machines.
+/
+Mobile Robotics
+Introduction: Robots, robotics and mobile robotics. Architectures: Hardware and software. Maps. Navigation. Human-robot interface. Internal representation of the world. Natural language.
+/
+Code Theory
+Code Theory
+/
+Computer Vision
+Introduction. Basic concepts of the images. Image processing in 2-D and 3-D. Analysis of the shape of an object. Three-dimensional tracking of parts of the human body.
+/
+Topology I
+Topology I
+/
+Competition Theory
+Know and apply the knowledge of competition theory through the use of minimal programming languages ​​that capture fundamental concepts such as synchronization, message step and mobility.
+/
+ 

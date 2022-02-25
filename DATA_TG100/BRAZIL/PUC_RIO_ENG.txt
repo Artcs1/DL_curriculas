@@ -1,0 +1,150 @@
+INTRODUCTION TO PROGRAMMING
+Introduction to computers and imperative programming languages. Variables, expressions and functions. Flow control iterations and conditionals. Basic and structured values. Functions and recursion. Files.
+/
+DATA MODELING
+Entity-relationship model: basic concepts of entity, relationship and attribute; generalization/specialization; associative entities. Conceptual data model using the UML language. case studies
+/
+COMPUTER LOGIC
+Relation of logic with the central issues of philosophy, with emphasis on epistemological aspects (justification, deduction, definition), metaphysical aspects (truth, essence, individuation) and linguistic aspects (term, proposition, judgment, logical form). Notions of the historical development of logic from Aristotle to Frege.
+/
+INTRODUCTION TO COMPUTING
+Introduction to computer programming. Introduction to modular programming. Introduction to tests and measurements. Introduction to event scheduling. Introduction to graphical interfaces. Introduction to distributed programming. Software project development.
+/
+CALCULATION OF A VARIABLE
+Real numbers, decimal representation. Numerical sequences. Functions and graphics. Continuity. Function limits, asymptotic limits. Differentiability. Elementary functions: polynomial, exponential, logarithm and their graphs. Trigonometric functions, their inverses and derivatives. Local maxima and minima, higher order derivatives, inflection points. Optimization. Definite integral. Fundamental theorem of calculus, primitives. Applications of integrals.
+/
+DISCRETE MATHEMATICAL INTRODUCTION
+DISCRETE MATHEMATICAL INTRODUCTION
+/
+THE HUMAN AND THE RELIGIOUS PHENOMENON
+Anthropological foundation of the opening of the human being to the Transcendent. The religious phenomenon in the current context, questions and new paradigms. Construction of fundamental concepts of the religious phenomenon and critical study of theoretical models of interpretation. Historical and contemporary religious manifestations. Pluralism, tolerance and the necessary interreligious dialogue. Human rights from the perspective of the great religions.
+/
+INTRODUCTION HUMAN-COMPUTER INTERACTION
+User-system communication. User designer communication. Cognitive and semiotic engineering of interactive systems. Interaction styles and paradigms: graphical interfaces; direct manipulation, icons and visual languages. Interface modeling: scenerization; task templates; user models; interaction models. Implementation of the interface project: storyboarding and interface prototyping; tools to support the construction of interfaces. Evaluation of interactive systems: inspection and testing with users; ethical aspects in the relationship with users. Accessibility: interfaces for mobile devices; Universal usability.
+/
+PROGRAMMING II
+Imperative languages. Recursion, arrays and basic algorithms: sequential search and binary search, selection sorting, "heapsort", "mergesort", "quicksort", box sorting. Structured types. Linear structures: lists, representation by arrays and by thread, stacks and queues. Dynamic memory allocation. String. Introduction to modular programming.
+/
+LINEAR ALGEBRA I
+Linear systems. Coordinates in plane and space. Vectors, dot product, determinants, cross product, mixed product. Line and plane equations. Vector subspaces, bases. Linear transformations, matrices, eigenvalues ​​and eigenvectors.
+/
+DATABASES
+Introduction to database management systems. Database design: conceptual, logical and physical. Entities and relationships conceptual model. Relational data model. Functional dependencies and normalization. Data definition and manipulation languages. Relational algebra and sql. Integrity and Views Constraints. Physical organization of databases: storage and indexing techniques.
+/
+DISCRETE STRUCTURES
+Inductive constructions. Induction tests; strong induction, structural induction. Counting principles, combinatorics. Graphs and trees.
+/
+ADVANCED DATA STRUCTURES
+Trees: representation forms, recursion in trees, binary trees, binary search trees, priority queues, balanced trees. Heaps and structures for dynamic partitions. Sets: operations, representation by lists and by characteristic vectors, hashing. Basic graphs and algorithms.
+/
+Modular Programming
+Modules, interfaces, coupling, cohesion, physical modeling. Construction and use of libraries; independent and separate compilation. Abstract data types; dynamic mooring; object-oriented principles. Specification; independence between specification and implementation. Assertions, correctness argument. Instrumentation, program testing principles. Software quality.
+/
+Basic Software
+Basic computer architecture; CPU, memory, peripherals. Storage and representation of primitive types; binary base, two's complement, floating point, ASCII code. Typical CPU instruction set; addressing modes, interrupts. Assembly language. Services and calls to the Operating System; File System. A High-Level Language Execution Model; implementation of instructions and data. Organization of memory in a program; static area, dynamic allocation area, activation records. Linking and relocation of object programs.
+/
+CALCULATION OF SEVERAL VARIABLES I
+Continuity and differentiability of functions of 2 and 3 variables: graph, domain, image; linear approximation; classification of critical points; Weierstrass' theorem; Lagrange multipliers; double and triple integrals in Cartesian, polar, cylindrical, and spherical coordinates.
+/
+Software Tests and Measurements
+Software product quality. Management and measurement of software product quality. Static quality control: review; inspection; static measurement; static analysis. Software Testing Principles and Techniques: Unit Testing; integration testing; regression test; alpha, beta, acceptance and pass testing. Formal testing support techniques. Test-driven development. Test automation. Test generation automation. Test Tools. Test planning. Problem registration and tracking.
+/
+Introduction to Computer Architecture
+(1) Central processing unit. Registers. Execution cycle. Addressing instructions and modes. RISC and CISC machines. (2) Outages and handlers. (3) Entry and exit. (4) Memory. Memory hierarchy. Caches and location. Handling of writings. (5) Parallelism. Vector Operations. Heterogeneous architectures. Multi-core machines and caches. Consistency policies.
+/
+Operational systems
+Introduction: functions and structure of an operating system. Processes: basic concepts; communication and synchronization; scaling. Memory management: fixed and variable partitions; relocation; virtual memory; swapping; file systems.
+/
+Software Engineering Principles
+Software quality. Requirements, specification, design, implementation, testing and verification of large software systems. Study and use of methodologies and tools. Group programming.
+/
+Object Oriented Programming
+Objects and classes; methods; polymorphism and late-binding; data abstraction; single and multiple inheritance; interfaces; event-oriented programming; principles of object-oriented languages; classes and generic types.
+/
+Probability and statistics
+Types of data: sectional and time series; Brazilian and international databases; types of variables (qualitative and quantitative) and scales; measures of central tendency, dispersion and symmetry, quantiles and percentiles; histogram; box-plot and other data synthesis measures; definition of probability; random variables; distribution and densities; transformation of variables; independence; discrete variables; continuous variables.
+/
+Lexical and Syntactic Analyzers
+Alphabets and Languages. Finite automata and regular expressions; regular expression extensions; tools based on text pattern matching. Context-free grammars and stack machines; LL(k), LR(k), SLR and LALR grammars; tools for building parsers.
+/
+Design and Construction Systems
+Supervised group work covering the planning, analysis, design, implementation and testing phases of the systems development lifecycle.
+/
+Computer network
+Protocols. Packet switching. Layered architecture of protocols. OSI-ISO reference model. TCP/IP architecture. Communication subnet. Internet level: addressing, error detection, routing (example: IP). Transport level: datagrams (eg UDP) and virtual circuits (eg TCP). Application level. (eg FTP, SMTP, WWW). High speed networks.
+/
+Algorithm Analysis
+Basic Concepts: motivation and problem solving, analysis criteria, correction and efficiency. Algorithm Analysis: processing time and elementary operations, worst case complexity, polynomial algorithms, algorithm comparison, recursive algorithms, pseudo-polynomial algorithms. Algorithms and data structures for graph problems: connected components, planarity, color, minimum weight spanning trees, shortest paths, critical paths, maximum flow, applications. Complexity theory: decision problems, polynomial transformations, class P, non-deterministic algorithms, class NP and Co-NP, NP-complete problems, class P-space.
+/
+SEMINARS
+SEMINARS
+/
+Supervised Internship in Computing
+Internship in the laboratory of PUC-Rio or in an organization approved by the NDE of the student's course. Weekly follow-up with presentations and discussions about the work.
+/
+Social and Environmental Ethics Human Rights
+The contemporary socio-environmental crisis. Anthropological, historical, philosophical and theological foundations of socio-environmental ethics and Human Rights. The contribution of a Christian perspective to critical discernment and the construction of a new sustainable, fair and inclusive society. Human Rights and the Democratic Rule of Law. Interdisciplinary Dialogue and Human Rights. The Catholic Church and its contributions to Human Rights. Ecclesial Movements and Human Rights: Identity, Dialogue and Prophetism Today.
+/
+Final Project I
+Final Project I
+/
+COPYRIGHT
+Fundamental concepts of intellectual property, relations with branches of law (labor and civil) and with industrial property (in addition to commercial law). Autonomy of copyright. Constitutional protection. Concepts. Copyright principles. Copyright content: existential and heritage values. Ownership: presumptions and fictions. Term of protection. Registration of works. Types of works protected by law 9,610/98. Original and derivative works. Communication of the work to the public. Transformations (creative and without autonomous originality), translations, adaptations and use of intellectual creations, public domain. Limitations of copyright (example list). Works not protected by public policies. Intellectual creations in university environments. Contractual modalities in copyright. Legal protection of the right to image. Special schemes (plastic art work, photographic work and topographical cinema work, streaming). Related rights (adaptations and interpreters). Legal protection of software. Procedural protection of copyright (civil and criminal actions). Brief notes on international copyright law.
+/
+INTRODUCTION TO FINANCE
+Cost accounting: basic concepts, general production costs. Focus on information technology: ratio/cost/volume/profit. Business decisions. Financial mathematics: simple and compound interest: amount and capital formula; values ​​in time; present value, annual cost and rate of return method. Analysis of economic and financial statements.
+/
+LANGUAGE SEMANTICS
+Operational semantics. Axiomatic semantics. Denotational semantics. Attribute Grammar. Property verification.
+/
+COMPUTABILITY
+Evidence for Church's thesis. Equivalence of computing models: PL language, Turing machines and Lambda Calculus; programming techniques in these models. Universal machine, stopping problem, undecidable problems; recursively enumerable sets; recursive sets. Rice's Theorem and Rogers' Theorem. Computational complexity: reducibility, natural classes of problems.
+/
+INTRODUCTION TO DATA SCIENCE
+Introduction to Data Science. Collecting data from different sources. Preparation of data for analysis. Exploration (numerical and visual) of data. Modeling and analysis methods. Introduction to parameter estimation and machine learning algorithms. Presentation of results using data, tables and graphs.
+/
+COMPUTER MANAGEMENT
+Functioning of the IT areas of companies and their evolution. Techniques for project planning: objectives and scope; work organization; schedule; resources and costs. Risk analysis and derived management measures. Choice and transfer of information technologies. Effort measures for development: the function points method. Metrics: decision support measures. Quality Control Concepts.
+/
+INFORMATION SECURITY
+Principles in Information Security. Risk analysis. Information security laws, norms and standards. Systems audit. Authentication and access control. Technological aspects of information security. Business continuity plan. Best practices in information security.
+/
+NUMERICAL ANALYSIS I
+Presentation and error analysis of the best known methods for the computational solution of mathematical problems with a wide range of application. Error theory. Approximation of functions. Numerical integration of ODEs. Methods for systems of linear equations. Function zeros.
+/
+ARTIFICIAL INTELLIGENCE
+Games, search. First order logic resolution. Non-monotonic logic. Plans. Apprenticeship. Expert Systems. Natural language.
+/
+CG
+Areas and applications of cg. Light and color. Digital image: capture. Processing, analysis and storage. Geometry and algebra. Ray tracking: camera models, objects, lighting. Shadow, reflection and texture. Affine and projective geometric transformations. Rotations and quaternions. Graphics systems: opengl implementation algorithms. Curves. Notions of 3d computer vision.
+/
+COMPILERS
+The build process. Lexical and syntactic analysis. Syntax driven translation, symbol tables and error handling. Code generation and optimization.
+/
+NUMERICAL ANALYSIS I
+Presentation and error analysis of the best known methods for the computational solution of mathematical problems with a wide range of application. Error theory. Approximation of functions. Numerical integration of ODEs. Methods for systems of linear equations. Function zeros.
+/
+INFORMATION SECURITY
+Principles in Information Security. Risk analysis. Information security laws, norms and standards. Systems audit. Authentication and access control. Technological aspects of information security. Business continuity plan. Best practices in information security.
+/
+WEB SCHEDULE
+The architecture of the web: browsers; page and application servers; communication protocols. Construction of web applications: use of a programming language; systems prototyping; use of the MVC pattern and other design patterns; data persistence; application installation. Tools for developing web applications.
+/
+COMPETITIVE DISTRIBUTED PROGR
+Processes: competition; threads; events. Communication: message exchange; remote call of procedures and methods; other models; mobile code. Architectures: client-server; peer-to-peer; publish/subscribe. Nomination: location of entities. Security: encryption; authentication; access control.
+/
+REQUIREMENTS ENGINEERING
+Requirements elicitation; identification of information sources; elicitation techniques; modeling; modeling techniques; requirements analysis; validation and verification; requirements management; international certification and standards; tools.
+/
+INTRODUCTION TO DATA SCIENCE
+Introduction to Data Science. Collecting data from different sources. Preparation of data for analysis. Exploration (numerical and visual) of data. Modeling and analysis methods. Introduction to parameter estimation and machine learning algorithms. Presentation of results using data, tables and graphs.
+/
+COMPUTATIONAL PROBABILITY
+Introduction to Probability Algorithms for Generating Random Numbers Algorithms for Stochastic Simulation of Discrete Random Variables and Applications Algorithms for Stochastic Simulation of Continuous Random Variables and Applications Algorithms for Simulating Discrete Events: Queues, Networks, etc.
+/
+THREE-DIMENSIONAL GRAPH COMPUTATION
+3D visualization. Event-driven programming. Graphic primitives. Color model. Transformation and projection. Selection of objects. Lighting model. Removal of hidden area (visibility). Image. Texture mapping. Pixel operations (composition and transparency). Structuring and visualization of 3d scenes. Modeling and visualization of animated scenes.
+/
+
+
+
