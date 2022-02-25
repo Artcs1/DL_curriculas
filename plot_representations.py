@@ -159,13 +159,13 @@ def main():
         classes = ['CS','CE','IT','IS','SE']
         color   = ['red','green','blue','black','brown']
     else:
-        classes = ['CS','CE','IT','IS','SE','PE','LATAM']
-        color   = ['red','green','blue','black','brown','purple','pink']
+        classes = ['CS','CE','IT','IS','SE','PE']#,'LATAM']
+        color   = ['red','green','blue','black','brown','purple']#,'pink']
 
     data = Embedding(model=args.model, sample = args.sample)
     D  = data.X.numpy()
-    print(D)
     gt = data.Y.numpy()
+    print(gt.shape)
 
 
     plotear(D.copy(),gt,classes,color,args.model)

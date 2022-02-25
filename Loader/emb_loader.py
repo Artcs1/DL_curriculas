@@ -85,7 +85,7 @@ class Embedding(Dataset):
         #for iy in LY:
         #    print(iy.shape)
 
-        if sample != 'all_P':
+        if sample != 'all_P' and sample != 'all':
             X = np.concatenate(LX,axis=0)
             Y = np.concatenate(LY,axis=0)
 
