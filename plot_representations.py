@@ -17,6 +17,7 @@ import argparse
 import logging
 import torch
 import pickle
+import umap
 
 
 from Loader.data_loader import Curriculas
@@ -128,15 +129,14 @@ def plotear(X,y,nombres,color,model):
     plt.plot()
     #plt.savefig('results/Images/pca-'+model+'.png')
 
-def get_words(data_curriculas, y_label):
+def get_words(data_curriculas):
     comment_words = ''
     for curriculas, class_y  in data_curriculas:
-        if class_y == y_label:
-            S = curriculas.split('/')
-            for s in S:
-                for s_ in s.split(' '):
-                    if s_ != '\n':
-                        comment_words += s_ + ' '
+        S = curriculas.split('/')
+        for s in S:
+            for s_ in s.split(' '):
+                if s_ != '\n':
+                    comment_words += s_ + ' '
 
     return comment_words
 
@@ -146,6 +146,7 @@ def main():
 
     parser = argparse.ArgumentParser(description = 'Curriculas')
     parser.add_argument("--sample", default='all')
+    parser.add_argument("--reduce", default='umap')
     parser.add_argument("model")
     args = parser.parse_args()
 
@@ -165,20 +166,21 @@ def main():
     data = Embedding(model=args.model, sample = args.sample)
     D  = data.X.numpy()
     gt = data.Y.numpy()
-    print(gt.shape)
 
-
-    plotear(D.copy(),gt,classes,color,args.model)
-
-    fashion_tsne = TSNE(random_state=13).fit_transform(D.copy())
-
-    fashion_scatter(fashion_tsne, gt,classes,args.model,data.types, classes)
+    if args.reduce == 'pca':
+        reduced_data = PCA(n_components=2).fit_transform(D.copy())
+    elif args.reduce == 'tsne':
+        reduced_data = TSNE(random_state=13).fit_transform(D.copy())
+    elif args.reduce == 'umap':
+        reduced_data = umap.UMAP().fit_transform(D.copy())
+    fashion_scatter(reduced_data, gt,classes,args.model,data.types, classes)
 
     stopwords = set(STOPWORDS)
-    
-    for inds in range(5):
+   
+    show_wcloud = True
+    if show_wcloud:
 
-        comment_words = get_words(data_curriculas, inds)
+        comment_words = get_words(data_curriculas)
 
         wordcloud = WordCloud(width = 800, height = 800,
                 background_color ='white',

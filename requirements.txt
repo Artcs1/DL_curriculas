@@ -16,3 +16,4 @@ pytorch_metric_learning
 hypopt
 python-Levenshtein
 wordcloud
+umap-learn
