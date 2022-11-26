@@ -18,3 +18,12 @@ conda activate py37-curriculas
 ```
 pip install -r requirements.txt
 ```
+
+
+## Usage
+
+1. Activate the conda enviorenment
+
+```
+conda activate py37-curriculas
+```
