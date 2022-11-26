@@ -27,3 +27,22 @@ pip install -r requirements.txt
 ```
 conda activate py37-curriculas
 ```
+
+2. Generate the embeddings representation
+
+```
+python3 generate_representations.py --model <model_name> --mode [curricula|curso] DATA_TG100/
+```
+
+3. Plot representations
+
+```
+python3 plot_representations.py <model_name>
+```
+
+4. Metric Evaluation
+
+```
+python3 metrics_valid.py --nargs <model_name>
+```
+
