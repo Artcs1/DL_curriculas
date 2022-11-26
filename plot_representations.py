@@ -133,10 +133,11 @@ def get_words(data_curriculas):
     comment_words = ''
     for curriculas, class_y  in data_curriculas:
         S = curriculas.split('/')
-        for s in S:
-            for s_ in s.split(' '):
-                if s_ != '\n':
-                    comment_words += s_ + ' '
+        if class_y == 4:
+            for s in S:
+                for s_ in s.split(' '):
+                    if s_ != '\n':
+                        comment_words += s_ + ' '
 
     return comment_words
 
@@ -160,6 +161,7 @@ def main():
     data = Embedding(model=args.model, sample = args.sample)
     D  = data.X.numpy()
     gt = data.Y.numpy()
+    print(D.shape)
 
     if args.reducer == 'pca':
         reduced_data = PCA(n_components=2).fit_transform(D.copy())

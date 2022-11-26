@@ -4,7 +4,7 @@ import torch
 import os 
 from os import scandir, getcwd
 from os.path import abspath,isfile
-
+from sklearn.feature_extraction.text import TfidfVectorizer
 
 
 from torch.utils.data import Dataset
@@ -198,7 +198,11 @@ class Curriculas(Dataset):
     def get_statistics(self):
 
         COUNTS = []
-        CLASS = [[], [], [] , [] , [] ]
+        CLASS = [[], [], [] , [] , [], []]
+
+        for i in range(296, len(self.y)):
+            self.y[i] = 5
+
         for string, y_  in zip(self.x, self.y):
             S = string.split('/')
             count = 0
@@ -206,7 +210,7 @@ class Curriculas(Dataset):
                 if s != '\n':
                     count = count + 1
             COUNTS.append(count)
-            for i in range(5):
+            for i in range(6):
                 if y_ == i:
                     CLASS[i].append(count)
 
@@ -214,10 +218,11 @@ class Curriculas(Dataset):
 
         S = pd.Series(COUNTS)
         print(S.describe())
-        for i in range(5):
+        for i in range(6):
             CS = pd.Series(CLASS[i])
             print(CS.describe())
 
+        print(self.y)
 
         return 1
 

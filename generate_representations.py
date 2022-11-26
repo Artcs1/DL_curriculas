@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 import gensim.downloader as api
 import matplotlib.patheffects as PathEffects
-from gensim.models import KeyedVectors
+from gensim.models import KeyedVectors, LdaModel
 from scipy.cluster.hierarchy import dendrogram, linkage
 import seaborn as sns
 from scipy.cluster.hierarchy import fcluster, leaves_list, set_link_color_palette
@@ -23,11 +23,18 @@ import logging
 from simpletransformers.language_representation import RepresentationModel
 import torch
 import pickle
+from sklearn.feature_extraction.text import TfidfVectorizer
+from gensim.test.utils import common_texts
+from gensim.corpora.dictionary import Dictionary
+
 
 from Loader.data_loader import Curriculas
 from Loader.data_loader import toembedding
 from Loader.data_loader import toembedding2
 from Loader.data_loader import format_curriculas
+
+from bertopic import BERTopic
+from sklearn.datasets import fetch_20newsgroups
 
 
 def text_prepare(text):
@@ -39,6 +46,13 @@ def text_prepare(text):
     REPLACE_BY_SPACE_RE = re.compile('[/(){}\[\]\|@,;]')
     BAD_SYMBOLS_RE = re.compile('[^0-9a-z #+_]')
     STOPWORDS = set(stopwords.words('english'))
+
+    STOPWORDS.add('credit')
+    STOPWORDS.add('hours')
+    STOPWORDS.add('course')
+    STOPWORDS.add('students')
+
+    #print(STOPWORDS)
 
     text = text.lower()# lowercase text
     text = re.sub(REPLACE_BY_SPACE_RE," ",text)# replace REPLACE_BY_SPACE_RE symbols by space in text
@@ -81,6 +95,16 @@ def train_model(string):
     model.wv.save(string + ".kv")
     return model.wv
 
+def format_corpus(curriculas):
+
+    corpus = []
+    for curricula in curriculas:
+        string = ''
+        for curso in curricula:
+            string += curso
+        corpus.append(string)
+    return corpus
+
 def main():
 
     parser = argparse.ArgumentParser(description = 'Curriculas')
@@ -92,7 +116,9 @@ def main():
 
     data_curriculas = Curriculas(path=args.path, data = "all")
     print(data_curriculas.get_statistics())
+
     curriculas = format_curriculas(data_curriculas.x)
+
     paths_absolute = data_curriculas.get_names()
     paths_relative = []
     for name in paths_absolute:
@@ -102,40 +128,67 @@ def main():
 
 
     curriculas = test_text_prepare(curriculas)
+    #curriculas[0].pop()
 
     #from sklearn.feature_extraction.text import CountVectorizer
     #vectorizer = CountVectorizer(min_df=0.05,max_df = 0.5)
     #vectorizer.fit_transform(curriculas)
 
-    size = 0
-    if args.model == 'bert':
-        model = RepresentationModel(model_type="bert", model_name="bert-base-uncased", use_cuda = torch.cuda.is_available())
-        size = 768
-    elif args.model == 'cl_bert':
-        model = RepresentationModel(model_type="bert", model_name= "Model/CL_bert4/best_model", use_cuda = torch.cuda.is_available())
-        size = 768
-    elif args.model == 'lm_bert':
-        model = RepresentationModel(model_type="bert", model_name= "Model/LM_bert4/best_model", use_cuda = torch.cuda.is_available())
-        size = 768
-    elif args.model == 'ml_bert':
-        model = RepresentationModel(model_type="bert", model_name= "Model/ML_bert/", use_cuda = torch.cuda.is_available())
-        size = 768
-    else:
-        string = "./Model/" + args.model
-        if isfile(string + ".kv"):
-            model = call_model(string + ".kv")
-        else:
-            model = train_model(string)
-        size = model.vectors.shape[1]
 
     print("     Generating embbedings .....     ")
-    
-    if args.mode == 'curricula':
-        embedding = toembedding(curriculas, model, size, args.model)
-    else:
-        embedding = toembedding2(curriculas, model, size, args.model)    
-        args.model = args.model + '_curso'
 
+
+    if args.model == 'bertopic':
+        data = [text_prepare(text) for text in data_curriculas.x]
+        
+        topic_model = BERTopic()
+        topics, probs = topic_model.fit_transform(data)
+
+        print(topic_model.get_topic_info())
+        print(topic_model.get_topic(0))
+
+
+        data_curriculas_test = Curriculas(path=args.path, data = "test")
+        test_data = [text_prepare(text) for text in data_curriculas_test.x]
+
+        for ind, doc in enumerate(test_data):
+            print('ID:', data_curriculas_test.names[ind])
+            print(topic_model.transform([doc])[0])
+
+    elif args.model == 'tfidf':
+        corpus = format_corpus(curriculas)
+        vectorizer = TfidfVectorizer()
+        embedding = vectorizer.fit_transform(corpus).toarray()
+
+    else:
+        size = 0
+        if args.model == 'bert':
+            model = RepresentationModel(model_type="bert", model_name="bert-base-uncased", use_cuda = torch.cuda.is_available())
+            size = 768
+        elif args.model == 'cl_bert':
+            model = RepresentationModel(model_type="bert", model_name= "Model/CL_bert4/best_model", use_cuda = torch.cuda.is_available())
+            size = 768
+        elif args.model == 'lm_bert':
+            model = RepresentationModel(model_type="bert", model_name= "Model/LM_bert4/best_model", use_cuda = torch.cuda.is_available())
+            size = 768
+        elif args.model == 'ml_bert':
+            model = RepresentationModel(model_type="bert", model_name= "Model/ML_bert/", use_cuda = torch.cuda.is_available())
+            size = 768
+        else:
+            string = "./Model/" + args.model
+            if isfile(string + ".kv"):
+                model = call_model(string + ".kv")
+            else:
+                model = train_model(string)
+            size = model.vectors.shape[1]
+    
+        
+        if args.mode == 'curricula':
+            embedding = toembedding(curriculas, model, size, args.model)
+        else:
+            embedding = toembedding2(curriculas, model, size, args.model)    
+            args.model = args.model + '_curso'
+    
     gt = np.asarray(data_curriculas.y)
     D  = embedding
     
@@ -143,28 +196,6 @@ def main():
         DATA = {'x':D,'y':gt}
         with open('Embeddings/'+args.model+'.npy', 'wb') as f:
             pickle.dump(DATA, f)
-
-    #ind_gt = np.where(gt!=5)[0]
-    #gt2 = gt[ind_gt]
-    #D2  = D[ind_gt]
-    #DATA   = np.concatenate((D2,gt2.reshape(-1,1)), axis=1)
-    #DATA_P = np.concatenate((D,gt.reshape(-1,1)), axis=1)
-    #if args.save == True:
-    #    #np.save("Embeddings/"+args.model,DATA)
-    #    np.save("Embeddings/"+args.model+"_P",DATA_P)
-
-
-    #print("     Saving results .....     ")
-
-    #plotear(D.copy(),gt,['CS','CE','IT','IS','SE','Peru'],['red','green','blue','black','brown','purple'],args.model)
-
-    #print(paths_relative)
-    #fashion_tsne = TSNE(random_state=13).fit_transform(D.copy())
-    #fashion_scatter(fashion_tsne, gt,['CS','CE','IT','IS','SE','Peru'],args.model, paths_relative)
-
-    #dendogram(D, paths_relative,args.model)
-
-    #print("     Results saved   ")
 
 if __name__ == "__main__":
     main()

@@ -9,6 +9,7 @@ from sklearn import preprocessing
 from sklearn.pipeline import make_pipeline
 from sklearn.svm import SVC
 from sklearn.preprocessing import StandardScaler
+from sklearn.decomposition import LatentDirichletAllocation
 #from sklearn.model_selection import GridSearchCV
 import pandas as pd
 from sklearn.metrics import f1_score, accuracy_score, recall_score, precision_score
@@ -22,6 +23,7 @@ import torch
 from torch.utils.data import Dataset
 
 from Loader.emb_loader import Embedding
+from Loader.data_loader import Curriculas
 
 def metrics(Y, yhat):
     return accuracy_score(Y,yhat), recall_score(Y,yhat, average='macro'), precision_score(Y,yhat, average='macro'), f1_score(Y,yhat,average='macro')
@@ -64,6 +66,24 @@ def mlp(X_train, y_train, X_valid, y_valid):
     clf.fit(X_train, y_train, X_valid, y_valid)
     return clf
 
+def lda(X_train, y_train, X_valid, y_valid):
+
+    print(X_train.shape)
+    print(X_valid.shape)
+    X = np.concatenate((X_train,X_valid), axis = 0)
+
+    #X[X<0] = 0
+
+    print(X.shape)
+
+    lda = LatentDirichletAllocation(n_components=5, random_state=0)
+    lda.fit(X)
+
+
+    print('salio')
+
+    return lda
+
 def main():
 
     parser = argparse.ArgumentParser(description = 'Curriculas')
@@ -76,6 +96,9 @@ def main():
     f1s = np.zeros((4,len(args.nargs)))
 
     ind = 0
+
+    test_data = Curriculas('DATA_TG100', 'test')
+    print(test_data.names)
 
     for models_name in args.nargs:
         mypath = './Embeddings/'
@@ -97,9 +120,9 @@ def main():
             test_data  = Embedding(model=model, sample='test')
 
             X_train = train_data.X.numpy()
-            print(X_train.shape)
-            #scaler = preprocessing.StandardScaler().fit(X)
-            scaler = preprocessing.Normalizer().fit(X_train)
+            scaler = preprocessing.MinMaxScaler().fit(np.concatenate((X_train, valid_data.X.numpy(), test_data.X.numpy()),axis=0))
+            #scaler = preprocessing.StandardScaler().fit(X_train)
+            #scaler = preprocessing.Normalizer().fit(X_train)
 
             X_train = scaler.transform(X_train)
             Y_train = train_data.Y.numpy()
@@ -110,9 +133,13 @@ def main():
             X_test  = scaler.transform(test_data.X.numpy())
             Y_test  = test_data.Y.numpy()
 
+            LDA = lda(X_train, Y_train, X_valid, Y_valid)        
+
+
             KNN = knn(X_train, Y_train, X_valid, Y_valid)
             yhat = KNN.predict(X_test)
-            print(yhat.shape)
+            yhat = [0,-1,0,-1,-1,0,0,-1,0,-1,-1,-1,-1,-1,0,-1,-1,-1,-1,-1,-1,1,1,-1,1,-1,1,1,1,1,-1,1,1,-1,1,1,1,1,-1,2,2,2,2,-1,-1,-1,-1,-1,-1,-1,3,3,-1,-1,-1,-1,-1,-1,-1,-1]
+
             KNN_m = metrics(Y_test, yhat)
             KNN_L.append(KNN_m)
 

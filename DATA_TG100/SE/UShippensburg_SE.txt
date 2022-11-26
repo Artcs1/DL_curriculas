@@ -48,7 +48,7 @@ Database Management Systems
 Detailed examination of theory and practical issues underlying the design, development, and use of a DBMS. Topics include characteristics of a well-designed database; high-level representation of an application using ER modeling; functional dependency theory, normalization, and their application toward a well-designed database; abstract query languages; query languages; concurrency; integrity; security. Advanced topics may be included (e.g., distributed databases; object-oriented databases). Theory to practice is applied in a number of projects involving the design, creation, and use of a database.
 /
 Computer Networks
-Studies protocol suites, emphasizing the TCP/IP 4-layer model. Topics included are network addresses, sub netting, client/server network programming via the sockets API, network utilities, architecture of packets, routing, fragmentation, connection and termination, connection-less applications, data flow, and an examination of necessary protocols at the link layer, particularly Ethernet. Other topics may include FDDI, wireless, ATM, congestion control, and network security. 
+Studies protocol suites, emphasizing the TCP-IP 4-layer model. Topics included are network addresses, sub netting, client-server network programming via the sockets API, network utilities, architecture of packets, routing, fragmentation, connection and termination, connection-less applications, data flow, and an examination of necessary protocols at the link layer, particularly Ethernet. Other topics may include FDDI, wireless, ATM, congestion control, and network security. 
 /
 Computer Organization
 Introduces organization and architecture of computer systems from the standard von Neumann model to more recent architectural concepts. Internal structure and organization of a computer leads to significant differences in performance and functionality, giving rise to an extraordinary range of computing devices from hand-held computer to large-scale, high performance machines.
@@ -60,10 +60,9 @@ Calculus I
 Introduction to study of differential and integral calculus from algebraic, numerical, and graphical points of view. Concept of limit and applications of derivatives will be covered.
 /
 Discrete Mathematics
-Study of topics usually associated with analysis of discrete and/or finite mathematical models. Topics from logic, set theory, Boolean algebra, mathematical proof, recursion, induction, combinatorics, discrete probability, matrices and graph theory covered.
+Study of topics usually associated with analysis of discrete and-or finite mathematical models. Topics from logic, set theory, Boolean algebra, mathematical proof, recursion, induction, combinatorics, discrete probability, matrices and graph theory covered.
 /
 Elementary Linear Algebra
 Introduction to the study of matrices, linear systems, determinants, eigenvalues, and the geometry of linear operators. Topics from Euclidean n-space include linear transformations, linear independence, span, bases, inner product, and vector spaces. An introduction to structural proof techniques will be a part of the key concepts for the course.
 /
-
 
