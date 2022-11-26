@@ -46,3 +46,6 @@ python3 plot_representations.py <model_name>
 python3 metrics_valid.py --nargs <model_name>
 ```
 
+## Benchmark
+
+
