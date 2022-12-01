@@ -49,3 +49,16 @@ python3 metrics_valid.py --nargs <model_name>
 ## Benchmark
 
 
+
+## Cite our work
+
+```
+@InProceedings{Murrugarra-Llerena_2022_EMNLP,
+    author    = {Murrugarra-Llerena, Jeffri and Alva-Manchego, Fernando and Murrugarra-Llerena, Nils},
+    title     = {Improving Embeddings Representations for Comparing Higher Education Curricula: A Use Case in Computing},
+    booktitle = {Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing},
+    month     = {December},
+    year      = {2022},
+    pages     = {}
+}
+```
