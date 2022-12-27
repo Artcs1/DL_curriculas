@@ -8,7 +8,7 @@ Visit our paper:
 
 ## Overview
 
-
+We automatize the classification (that also allows human interpretess) of computing curriculas under the ACM/ IEEE standard.
 
 ![Key Idea](key_idea.png)
 
