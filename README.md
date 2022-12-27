@@ -1,4 +1,4 @@
-# DL_curriculas
+# Improving Embeddings Representations for Comparing Higher Education Curricula: A Use Case in Computing
 
 This is the official repository of the EMNLP2022 main conference named "Improving Embeddings Representations for Comparing Higher Education Curricula: A Use Case in Computing".
 
