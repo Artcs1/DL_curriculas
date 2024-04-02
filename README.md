@@ -31,6 +31,11 @@ conda activate py37-curriculas
 pip install -r requirements.txt
 ```
 
+3. Download glove and word2 vec models and create a directory Model to store them.
+   
+```
+Link:https://drive.google.com/drive/folders/1B04C5JDj_wSHsvaioa09hBgGaROKi_8u?usp=sharing
+```
 
 ## Usage
 
