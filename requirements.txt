@@ -17,4 +17,3 @@ hypopt
 python-Levenshtein
 wordcloud
 umap-learn
-bertopic

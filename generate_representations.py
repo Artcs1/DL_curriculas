@@ -33,7 +33,7 @@ from Loader.data_loader import toembedding
 from Loader.data_loader import toembedding2
 from Loader.data_loader import format_curriculas
 
-from bertopic import BERTopic
+#from bertopic import BERTopic
 from sklearn.datasets import fetch_20newsgroups
 
 
@@ -138,24 +138,24 @@ def main():
     print("     Generating embbedings .....     ")
 
 
-    if args.model == 'bertopic':
-        data = [text_prepare(text) for text in data_curriculas.x]
-        
-        topic_model = BERTopic()
-        topics, probs = topic_model.fit_transform(data)
-
-        print(topic_model.get_topic_info())
-        print(topic_model.get_topic(0))
-
-
-        data_curriculas_test = Curriculas(path=args.path, data = "test")
-        test_data = [text_prepare(text) for text in data_curriculas_test.x]
-
-        for ind, doc in enumerate(test_data):
-            print('ID:', data_curriculas_test.names[ind])
-            print(topic_model.transform([doc])[0])
-
-    elif args.model == 'tfidf':
+#    if args.model == 'bertopic':
+#        data = [text_prepare(text) for text in data_curriculas.x]
+#        
+#        topic_model = BERTopic()
+#        topics, probs = topic_model.fit_transform(data)
+#
+#        print(topic_model.get_topic_info())
+#        print(topic_model.get_topic(0))
+#
+#
+#        data_curriculas_test = Curriculas(path=args.path, data = "test")
+#        test_data = [text_prepare(text) for text in data_curriculas_test.x]
+#
+#        for ind, doc in enumerate(test_data):
+#            print('ID:', data_curriculas_test.names[ind])
+#            print(topic_model.transform([doc])[0])
+#
+    if args.model == 'tfidf':
         corpus = format_corpus(curriculas)
         vectorizer = TfidfVectorizer()
         embedding = vectorizer.fit_transform(corpus).toarray()

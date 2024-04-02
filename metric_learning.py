@@ -6,7 +6,8 @@ import pickle
 
 from pytorch_metric_learning import miners, losses
 
-from torch import nn, optim
+from torch import nn, optim, Tensor
+from torch.nn import TransformerEncoder, TransformerEncoderLayer
 from torch.utils.data import DataLoader
 import numpy as np
 import matplotlib.pyplot as plt
@@ -15,10 +16,9 @@ import os
 
 from torch.utils.data import Dataset
 from Loader.emb_loader import Embedding
+from Loader.model_loader import Net_A, Net_F, TransformerModel
 
 from pytorch_metric_learning.distances import CosineSimilarity
-from torch import nn, Tensor
-from torch.nn import TransformerEncoder, TransformerEncoderLayer
 from pytorch_metric_learning.reducers import ThresholdReducer
 from pytorch_metric_learning.regularizers import LpRegularizer
 import math
@@ -36,132 +36,9 @@ class ConcatDataset(torch.utils.data.Dataset):
     def __len__(self):
         return min(len(d) for d in self.datasets)
 
-class Net_A(torch.nn.Module):
-
-    def __init__(self, D_in, D_out):
-        super(Net_A,self).__init__()
-        self.linear1 = torch.nn.Linear(D_in, 1)
-        self.linear2 = torch.nn.Linear(D_in, D_out)
-        self.softmax = torch.nn.Softmax(dim=1)
-    def forward(self, x):
-        # x      -> (numero curriculas, numero maximo de cursos, embedding)
-        mask_x = torch.sum(x,axis=2)
-        # mask_x -> (numero curriculas, numero maximo de cursos) 
-        mask_x = torch.where(mask_x==0,0,1) # (numero curriculas, numero maximos de cursos)
-        x_c = self.linear1(x)  # (numero curriculas, numero maximo de cursos, 1)
-        x_c = torch.squeeze(x_c) # (numero curriculas, numero maximo de cursos)
-        x_c = torch.mul(x_c,mask_x) # (numero curriculas, numero maximo de cursos)
-
-        exps        = torch.exp(x_c)
-        masked_exps = exps * mask_x.float()
-        masked_sums = masked_exps.sum(1, keepdim=True) + 1e-5
-        alphas      = masked_exps/masked_sums #( numero curriculas, numero maximo de cursos)
-
-        #s_c = self.softmax(x_c)
-
-        A   = torch.unsqueeze(alphas,2) # (numero curriculas, numero maximo de cursos, 1)    
-        x   = torch.mul(x,torch.unsqueeze(alphas,2)) #( numero curriculas, numero maximo de cursos, 768)
-        x   = torch.sum(x,axis=1)
-
-
-
-        x   = self.linear2(x) 
-        return x
-
-class Net_F(torch.nn.Module):
-
-    def __init__(self, D_in, D_out):
-        super(Net_F, self).__init__()
-        self.linear1 = torch.nn.Linear(100,1)
-        self.linear2 = torch.nn.Linear(768,100)
-        self.softmax = torch.nn.Softmax(dim=1)
-        
-    def forward(self, x):
-        glove_emb = x[0]
-        word_emb  = x[1]
-        bert_emb  = x[2]
-        bert_emb  = self.linear2(bert_emb)         
-
-        scalar_glove = self.linear1(glove_emb)
-        scalar_word  = self.linear1(word_emb)
-        scalar_bert  = self.linear1(bert_emb)
-        scalars      = torch.cat([scalar_glove, scalar_word, scalar_bert],axis=1)
-
-        X = torch.stack((glove_emb,word_emb,bert_emb),axis = 2)
-        X = torch.transpose(X,1,2)    
-        alphas       = self.softmax(scalars) #(bs,3)
-        
-        X   = torch.mul(X,torch.unsqueeze(alphas,2)) #( numero curriculas, numero maximo de cursos, 768)
-        X   = torch.sum(X,axis=1)
-
-
-        
-        return X
-
-
-class PositionalEncoding(nn.Module):
-
-    def __init__(self, d_model: int, dropout: float = 0.1, max_len: int = 5000):
-        super().__init__()
-        self.dropout = nn.Dropout(p=dropout)
-
-        position = torch.arange(max_len).unsqueeze(1)
-        div_term = torch.exp(torch.arange(0, d_model, 2) * (-math.log(10000.0) / d_model))
-        pe = torch.zeros(max_len, 1, d_model)
-        pe[:, 0, 0::2] = torch.sin(position * div_term)
-        pe[:, 0, 1::2] = torch.cos(position * div_term)
-        self.register_buffer('pe', pe)
-
-    def forward(self, x: Tensor) -> Tensor:
-        """
-        Args:
-            x: Tensor, shape [seq_len, batch_size, embedding_dim]
-        """
-        print(x)
-        x = x + self.pe[:x.size(0)]
-        return self.dropout(x)
-
-
-
-class TransformerModel(nn.Module):
-
-    def __init__(self, ntoken: int, d_model: int, nhead: int, d_hid: int, nlayers: int, dropout: float = 0.5):
-        super().__init__()
-        self.model_type = 'Transformer'
-        self.pos_encoder = PositionalEncoding(d_model, dropout)
-        encoder_layers = TransformerEncoderLayer(d_model, nhead, d_hid, dropout)
-        self.transformer_encoder = TransformerEncoder(encoder_layers, nlayers)
-        self.encoder = nn.Embedding(ntoken, d_model)
-        self.d_model = d_model
-
-        self.init_weights()
-
-    def init_weights(self) -> None:
-        initrange = 0.1
-        self.encoder.weight.data.uniform_(-initrange, initrange)
-
-    def forward(self, src: Tensor):#, src_mask: Tensor) -> Tensor:
-        """
-        Args:
-            src: Tensor, shape [seq_len, batch_size]
-            src_mask: Tensor, shape [seq_len, seq_len]
-
-        Returns:
-            output Tensor of shape [seq_len, batch_size, ntoken]
-        """
-        print(src.shape)
-        src = src.type('torch.LongTensor').cuda()
-        src = self.encoder(src) * math.sqrt(self.d_model)
-        src = self.pos_encoder(src)
-        #output = self.transformer_encoder(src, src_mask)
-        return src
-
-
 def train_model(epochs, dataloader, validloader, tam, dim_out, MO, mode):
 
     print(MO)
-
-
     best_lr   = 0
     best_loss = np.inf
     for lr in [0.1, 0.01, 0.001, 0.0001, 0.00001]:
@@ -182,7 +59,7 @@ def train_model(epochs, dataloader, validloader, tam, dim_out, MO, mode):
                 if torch.cuda.is_available():
                     X = X.cuda()
                     Y = Y.cuda()
-                sub_X = model(X)
+                sub_X, _ = model(X)
                 loss  = loss_func(sub_X, Y)
                 loss.backward()
                 optimizer.step()
@@ -191,7 +68,7 @@ def train_model(epochs, dataloader, validloader, tam, dim_out, MO, mode):
                 if torch.cuda.is_available():
                     X = X.cuda()
                     Y = Y.cuda()
-                sub_X = model(X)
+                sub_X, _ = model(X)
                 loss  = loss_func(sub_X, Y)
                 valid_loss += loss.item()
             final_loss = valid_loss/len(validloader)
@@ -230,7 +107,7 @@ def train_model(epochs, dataloader, validloader, tam, dim_out, MO, mode):
             if torch.cuda.is_available():
                 X = X.cuda()
                 Y = Y.cuda()
-            sub_X = model(X)
+            sub_X, _ = model(X)
             hard_pairs = miner(sub_X, Y)
             loss = loss_func(sub_X, Y, hard_pairs)
             cum_loss += loss.item()
@@ -242,7 +119,7 @@ def train_model(epochs, dataloader, validloader, tam, dim_out, MO, mode):
             if torch.cuda.is_available():
                 X = X.cuda()
                 Y = Y.cuda()
-            sub_X = model(X)
+            sub_X, _ = model(X)
             hard_pairs = miner(sub_X, Y)
             loss = loss_func(sub_X, Y, hard_pairs)
             valid_loss += loss.item()
@@ -265,10 +142,10 @@ def main():
 
     parser = argparse.ArgumentParser(description = 'Curriculas')
     parser.add_argument("--model",default="bert_curso")
-    parser.add_argument("--mode",default='N')
-    parser.add_argument("--epochs",default=100)
-    parser.add_argument("--batch",default=4, type=int)
-    parser.add_argument("--dim_out",default=512, type=int)
+    parser.add_argument("--mode",default='AL')
+    parser.add_argument("--epochs",default=10)
+    parser.add_argument("--batch",default=64, type=int)
+    parser.add_argument("--dim_out",default=128, type=int)
     parser.add_argument("--repetitions", default = 10)
     args = parser.parse_args()
 
@@ -277,12 +154,12 @@ def main():
     os.system('mkdir -p Embeddings')
 
 
-    modes = {'N':Net_A,'AF':Net_F, 'T':TransformerModel}
+    modes = {'AL':Net_A,'AF':Net_F}
 
 
     for seed in range(args.repetitions):
 
-        if args.mode  == 'N' or args.mode == 'T':
+        if args.mode  == 'AL':
 
             train_data = Embedding(model=args.model, sample='train')
             valid_data = Embedding(model=args.model, sample='valid')
@@ -322,7 +199,7 @@ def main():
                 'model_state_dict': model.state_dict(),
                 'optimizer_state_dict': optimizer.state_dict()}, 'Model/'+args.mode+'_bert/ml_'+args.model+'_'+str(args.dim_out)+'_'+str(args.batch)+'_'+str(seed)+'.pth')
        
-        if args.mode   == 'N': 
+        if args.mode   == 'AL': 
             all_data  = Embedding(model=args.model, sample='all_P')
         
         elif args.mode == 'AF':
@@ -334,12 +211,12 @@ def main():
         
         
         if torch.cuda.is_available():
-            embedding = model(all_data.X.cuda())
+            embedding, _ = model(all_data.X.cuda())
             #DATA = np.concatenate((embedding.cpu().detach().numpy(), all_data.Y.detach().numpy().reshape(-1,1)), axis =1)
             D = embedding.cpu().detach().numpy()
             gt   = all_data.Y.detach().numpy()
         else:
-            embedding = model(all_data.X)
+            embedding, _ = model(all_data.X)
             #DATA = np.concatenate((embedding.detach().numpy(),all_data.Y.detach().numpy().reshape(-1,1)), axis=1)
             D = embedding.detach().numpy()
             gt   = all_data.Y.detach().numpy()
