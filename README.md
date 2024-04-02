@@ -54,7 +54,7 @@ python3 generate_representations.py --model [bert|cl_bert|lm_bert|ml_bert|word2v
 3. Perform metric learning and attention over subjects to obtain a representation of a curriculum.
 
 ```
-python3 metric_learning.py --model [bert_curso|cl_bert_curso|lm_bert_curso|ml_bert_curso|word2vec_curso|glove_curso] --mode N
+python3 metric_learning.py --model [bert_curso|cl_bert_curso|lm_bert_curso|ml_bert_curso|word2vec_curso|glove_curso] --mode AL
 ```
 
 
