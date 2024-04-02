@@ -45,26 +45,26 @@ Link:https://drive.google.com/drive/folders/1B04C5JDj_wSHsvaioa09hBgGaROKi_8u?us
 conda activate py37-curriculas
 ```
 
-2. Generate the embeddings representation (If curricula mode is used, you can directly test the model. If curso mode is used, you need to perform step 2.5)
+2. Generate the embeddings representation (If curricula mode is used, you can directly test or plot the model. If curso mode is used, you need to perform step 3)
 
 ```
 python3 generate_representations.py --model [bert|cl_bert|lm_bert|ml_bert|word2vec|glove] --mode [curricula|curso] DATA_TG100/
 ```
 
-2.5. Perform metric learning and attention over subjects to obtain a representation of a curriculum.
+3. Perform metric learning and attention over subjects to obtain a representation of a curriculum.
 
 ```
 python3 metric_learning.py --model [bert_curso|cl_bert_curso|lm_bert_curso|ml_bert_curso|word2vec_curso|glove_curso] --mode N
 ```
 
 
-3. Plot representations
+4. Plot representations
 
 ```
 python3 plot_representations.py <model_name> (embeddings with mode curso -- generated in step 2 -- are not valid)
 ```
 
-4. Metric Evaluation
+5. Metric Evaluation (Test)
 
 ```
 python3 metrics_valid.py --nargs <model_name> (embeddings with mode curso -- generated in step 2 -- are not valid)
